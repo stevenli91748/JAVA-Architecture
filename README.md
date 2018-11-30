@@ -1,5 +1,5 @@
 --- 
-[天狗前端 🐶](https://github.com/stevenli91748/JAVA-Architecture/blob/master/project/TDog%20FrontEnd/README)| [天狗整站 J2EE](https://github.com/stevenli91748/JAVA-Architecture/blob/master/project/TDog%20J2EE%20Project/README) 🐶 |天狗整站 SSH 🐶| 天狗整站 SSM 🐶 | 天狗整站 SpringBoot 🐶|
+[天狗前端 🐶](https://github.com/stevenli91748/JAVA-Architecture/blob/master/project/TDog%20FrontEnd/README)| [天狗整站 J2EE框架](https://github.com/stevenli91748/JAVA-Architecture/blob/master/project/TDog%20J2EE%20Project/README) 🐶 |天狗整站 SSH框架 🐶| 天狗整站 SSM 框架🐶 | 天狗整站 SpringBoot框架 🐶|
 ------------ | -------------|----------- |---------- | -----------------|
 
 
