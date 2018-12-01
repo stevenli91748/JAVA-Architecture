@@ -4,4 +4,7 @@
 ------------ | -------------|----------- |---------- | -----------------|
 
 
-   
+工具和中间件  
+---  
+[Maven](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Maven/README)|[Git](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Git/README)|[IntellijIDEA](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/IntellijIDEA/README)|[Redis](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Redis/README)|[Nginx](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Nginx/README)|[WebSocket](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/WebSocket/README)|[Tomcat](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Tomcat/README)|[QRCode](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/QRCode/README)|[Search Engineer](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Search%20Engineer/README)|[Quartz](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Quartz/README)|[Shiro](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Shiro/README)|  
+-----|---|-------|-----|-----|-----|----|------|-----|-----|------|
