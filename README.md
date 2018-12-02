@@ -29,5 +29,5 @@ Java 高级
 
 Java EE
 ---
-Servlet|JSP|MVC|Filter|Listener|Front and back end points|
+Servlet|JSP|MVC|Filter|Listener|前后端分离|
 ---|---|---|---|---|---|
