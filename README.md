@@ -36,7 +36,7 @@ JAVA框架
 
 Java EE
 ---
-Servlet|JSP|MVC|Filter|Listener|表现层设计|业务层设计|数据层设计|RESTful API|
+Servlet|JSP|MVC|JSF|JTA|JNDI|表现层设计|业务层设计|数据层设计|RESTful API|
 ---|---|---|---|---|---|---|----|---|
 
 
