@@ -12,7 +12,7 @@ Java 项目工程化
 
 JAVA 分布式, 性能调优 和 微服务
 ---
-JAVA 分布式|JAVA 微服务|性能调优|设计模式|消息队列|
+JAVA 分布式|JAVA 微服务|性能调优|[设计模式](https://github.com/stevenli91748/Design-Patterns)|消息队列|
 ---|---|---|---|---|
 
 
