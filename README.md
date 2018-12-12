@@ -5,8 +5,8 @@
 
 # Java 项目工程化
 
-[Maven](https://github.com/stevenli91748/Engineering-special/tree/master/Maven)|[Git](https://github.com/stevenli91748/Engineering-special/tree/master/Git)|[Jenkins](https://github.com/stevenli91748/Engineering-special/tree/master/Jenkins)|
----|---|---|
+[Maven](https://github.com/stevenli91748/Engineering-special/tree/master/Maven)|[Git](https://github.com/stevenli91748/Engineering-special/tree/master/Git)|[Jenkins](https://github.com/stevenli91748/Engineering-special/tree/master/Jenkins)|Gradle|
+---|---|---|---|
 
 
 # JAVA 分布式, 性能调优 和 微服务
@@ -29,15 +29,13 @@ JAVA 分布式|性能调优|[设计模式](https://github.com/stevenli91748/Desi
 Junit|
 ---|
 
-# JAVA 常用的库，
-
-
-
 # JAVA框架   
 
 [Spring](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring)|[SpringBoot](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot)|[Spring Cloud](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud)|[SpringMVC](https://github.com/stevenli91748/JAVA-Architecture/tree/master/JAVA%20Framework/SpringMVC)|[SpringData](https://github.com/stevenli91748/JAVA-Architecture/tree/master/JAVA%20Framework/SpringData)|[Spring Security](https://github.com/stevenli91748/JAVA-Architecture/tree/master/JAVA%20Framework/Spring%20Security)|[Mybatis](https://github.com/stevenli91748/JAVA-Architecture/tree/master/JAVA%20Framework/Mybatis)|[SSH](https://github.com/stevenli91748/JAVA-Architecture/tree/master/JAVA%20Framework/SSH)|[SSM](https://github.com/stevenli91748/JAVA-Architecture/tree/master/JAVA%20Framework/SSM)|
 ---|---|---|---|---|---|---|------|----|
 
+# JAVA 常用的库，
+ * Bean Mapping
 
 # Java EE
 
