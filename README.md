@@ -5,8 +5,8 @@
 
 # Java 项目工程化
 
-[Maven](https://github.com/stevenli91748/Engineering-special/tree/master/Maven)|[Git](https://github.com/stevenli91748/Engineering-special/tree/master/Git)|[Jenkins](https://github.com/stevenli91748/Engineering-special/tree/master/Jenkins)|Gradle|
----|---|---|---|
+[Maven](https://github.com/stevenli91748/Engineering-special/tree/master/Maven)|[Git](https://github.com/stevenli91748/Engineering-special/tree/master/Git)|[Jenkins](https://github.com/stevenli91748/Engineering-special/tree/master/Jenkins)|Gradle|Sonar|
+---|---|---|---|---|
 
 
 # JAVA 分布式, 性能调优 设计模式, 消息队列和 微服务
