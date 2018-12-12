@@ -36,14 +36,17 @@ Junit|
 
 # JAVA 常用的库，
  
- Bean Mapping|Bytecode Manipulation|Caching|Cluster Management|Database|Date and Time|Geospatial|
-  ---|---|---|---|---|---|---|
+ Bean Mapping|Bytecode Manipulation|Caching|Cluster Management|Database|Date and Time|
+  ---|---|---|---|---|---|
   
  Distribution|Distributed Transactions|Distributed Application|Document Processing|High Performance|
 ---|---|---|---|---|
 
 GUI|Functional Programming|HTTP Clients|Hypermedia Types|JSON|JSON Processing|Imagery|
 ---|---|---|---|---|---|---|
+
+Geospatial|JVM AND JDK|Logging|Machine Learning|Messaging|Microservice|
+---|---|---|---|---|---|
 
 # Java EE
 
