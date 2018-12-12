@@ -51,8 +51,11 @@ Geospatial|JVM AND JDK|Logging|Machine Learning|Messaging|Microservice|Miscellan
 Monitoring|Native|Natural Language Porcessing|Networking|ORM|PaaS|PDF|Platform|
 ---|---|---|---|---|---|---|---|
 
-Performance analysis|Other|Processes|Reactive Libraries|Rest Frameworks|Search|
----|---|---|---|---|---|
+Performance analysis|Other|Processes|Reactive Libraries|Rest Frameworks|Search|Security|
+---|---|---|---|---|---|---|
+
+Serialization|Server|Template Engine|Testing|Asynchronous|BDD|Fixtures|Frameworks|
+---|---|---|---|---|---|---|---|
 
 # Java EE
 
