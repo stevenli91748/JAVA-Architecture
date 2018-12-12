@@ -39,8 +39,11 @@ Junit|
  Bean Mapping|Bytecode Manipulation|Caching|Cluster Management|Database|Date and Time|Geospatial|
   ---|---|---|---|---|---|---|
   
- Distribution|Distributed Transactions|Distributed Application|Document Processing|High Performance|GUI|
----|---|---|---|---|---|
+ Distribution|Distributed Transactions|Distributed Application|Document Processing|High Performance|
+---|---|---|---|---|
+
+GUI|Functional Programming|HTTP Clients|Hypermedia Types|JSON|JSON Processing|Imagery|
+---|---|---|---|---|---|---|
 
 # Java EE
 
