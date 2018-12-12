@@ -45,7 +45,13 @@ Junit|
 GUI|Functional Programming|HTTP Clients|Hypermedia Types|JSON|JSON Processing|Imagery|
 ---|---|---|---|---|---|---|
 
-Geospatial|JVM AND JDK|Logging|Machine Learning|Messaging|Microservice|
+Geospatial|JVM AND JDK|Logging|Machine Learning|Messaging|Microservice|Miscellaneous|
+---|---|---|---|---|---|---|
+
+Monitoring|Native|Natural Language Porcessing|Networking|ORM|PaaS|PDF|Platform|
+---|---|---|---|---|---|---|---|
+
+Performance analysis|Other|Processes|Reactive Libraries|Rest Frameworks|Search|
 ---|---|---|---|---|---|
 
 # Java EE
