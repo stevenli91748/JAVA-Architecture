@@ -36,7 +36,7 @@ Junit|
 
 # JAVA 常用的库
  
- [Bean Mapping](../Library/README.md/#bean-mapping)|Bytecode Manipulation|Caching|Cluster Management|Database|Date and Time|
+ [Bean Mapping](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Library/README.md#bean-mapping)|Bytecode Manipulation|Caching|Cluster Management|Database|Date and Time|
   ---|---|---|---|---|---|
   
  Distribution|Distributed Transactions|Distributed Application|Document Processing|High Performance|
