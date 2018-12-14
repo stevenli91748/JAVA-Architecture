@@ -26,7 +26,7 @@
  *  虚拟机类的加载机制（ClassLoader）
     * 加载，链接与初始化
  
-# 3. 自动内存管理机制
+# [3. 自动内存管理机制](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E8%87%AA%E5%8A%A8%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%E6%9C%BA%E5%88%B6.md)
 
 
  *  3.1  虚拟机运行时内存数据区
