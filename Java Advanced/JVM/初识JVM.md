@@ -17,3 +17,8 @@
 
 
 # 虚拟机的启动
+
+<p align="center">
+  <img src="https://farm5.staticflickr.com/4816/46266423832_16f0c92df3_o.png">
+  <br/>
+</p>
