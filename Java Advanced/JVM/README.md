@@ -9,7 +9,7 @@
 # 0. 
 
 <p align="center">
-  <img src="https://flic.kr/p/2csRxyu">
+  <img src="https://farm5.staticflickr.com/4858/45592512544_f127a15c9d_o.png">
   <br/>
 </p>
 
