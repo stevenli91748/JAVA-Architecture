@@ -8,6 +8,12 @@
 
 # 0. 
 
+<p align="center">
+  <img src="https://flic.kr/p/2csRxyu">
+  <br/>
+</p>
+
+
 # 1. 程序编译与代码优化
 
  *  早期优化（编译期）
