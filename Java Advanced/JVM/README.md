@@ -8,7 +8,7 @@
 
 # 0. 
 <p align="center">
-  <img src="https://flic.kr/s/aHskNRcu9d">
+  <img src="https://flic.kr/p/Rq6Pf3">
   <br/>
 </p>
 
