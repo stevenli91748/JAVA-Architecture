@@ -6,7 +6,7 @@
 目录
 ---
 
-# 0. 初识JVM
+# [0. 初识JVM](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E5%88%9D%E8%AF%86JVM.md)
 
   *  虚拟机的启动
 
