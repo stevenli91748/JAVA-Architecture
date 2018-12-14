@@ -7,6 +7,10 @@
 ---
 
 # 0. 
+<p align="center">
+  <img src="https://flic.kr/s/aHskNRcu9d">
+  <br/>
+</p>
 
 # 1. 程序编译与代码优化
 
