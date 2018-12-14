@@ -86,6 +86,16 @@
         *  Pslist---windows下的命令行工具
  *   Java虚拟机性能监控工具
      *  JDK性能监控工具
+        *  jps---查看JAVA进程
+        *  jstat---查看虚拟机运行时信息
+        *  jinfo---查看虚拟机参数
+        *  jmap---导出堆到文件
+        *  jhat---JDK自带的堆分析工具
+        *  jstack---查看线程堆栈
+        *  jstatd---查看远程主机信息
+        *  jcmd---多功能命令行
+        *  hprof---性能统计工具
+        *  加强JPS命令
      *  图形化虚拟机监控工具JConsole
      *  可视化性能监控工具Visual VM
      *  虚拟机诊断工具Mission Control
