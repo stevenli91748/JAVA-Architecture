@@ -79,13 +79,13 @@
  *  线程优化
  *  同步
 
-# 7. JVM参数分析和调优
+# 7. [JVM参数分析和调优](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/JVM%E5%8F%82%E6%95%B0%E5%88%86%E6%9E%90%E5%92%8C%E8%B0%83%E4%BC%98.md)
  
   *  常用Java虚拟机参数
      *  垃圾回收跟踪参数
      *  内存配置参数
 
-# 8. 虚拟机监控工具
+# 8. [虚拟机监控工具](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E8%99%9A%E6%8B%9F%E6%9C%BA%E7%9B%91%E6%8E%A7%E5%B7%A5%E5%85%B7.md)
  *   系统级性能监控工具
      *  Linux下的性能监控工具
         *  top---显示系统整体资源使用情况
@@ -113,7 +113,7 @@
      *  可视化性能监控工具Visual VM
      *  虚拟机诊断工具Mission Control
  
-# 9. 对虚拟机的各个组成部份的分析
+# [9. 对虚拟机的各个组成部份的分析](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E5%AF%B9%E8%99%9A%E6%8B%9F%E6%9C%BA%E7%9A%84%E5%90%84%E4%B8%AA%E7%BB%84%E6%88%90%E9%83%A8%E4%BB%BD%E7%9A%84%E5%88%86%E6%9E%90.md)
  *   对虚拟机里的堆进行分析
  
 # 参考书籍
