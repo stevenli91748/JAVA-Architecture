@@ -8,7 +8,7 @@
 
 # 0. 
 <p align="center">
-  <img src="https://flic.kr/p/Rq6Pf3">
+  <img src="https://www.flickr.com/photos/132252217@N08/32434212018/in/album-72157676649918228/">
   <br/>
 </p>
 
