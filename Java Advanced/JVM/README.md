@@ -65,7 +65,7 @@
    *  操作码助记符
  
 
-# 6. 高效并发
+# 6. [高效并发](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E9%AB%98%E6%95%88%E5%B9%B6%E5%8F%91.md)
 
  *  Java 内存模型
  *  现代Java/JDK 并发模型
