@@ -69,13 +69,13 @@
 # 69、如何理解选主算法？
 # 70、OSI有哪七层模型？TCP/IP是哪四层模型。
 
-string
----
+# string
+
 # 1、String是基本数据类型吗？
 # 2、String是可变的话？
 # 3、怎么比较两个字符串的值一样，怎么比较两个字符串是否同一对象？
 # 4、switch中可以使用String吗？
-#5、String str = new String("abc");创建了几个对象，为什么？
+# 5、String str = new String("abc");创建了几个对象，为什么？
 # 6、String、StringBuffer、StringBuilder有什么区别？
 # 7、String.trim()方法去掉的是哪些字符？
 # 8、String可以被子类继承吗？
