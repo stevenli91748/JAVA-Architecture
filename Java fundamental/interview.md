@@ -71,15 +71,26 @@
 
 # string
 
-# 1、String是基本数据类型吗？
-# 2、String是可变的话？
-# 3、怎么比较两个字符串的值一样，怎么比较两个字符串是否同一对象？
-# 4、switch中可以使用String吗？
-# 5、String str = new String("abc");创建了几个对象，为什么？
-# 6、String、StringBuffer、StringBuilder有什么区别？
-# 7、String.trim()方法去掉的是哪些字符？
-# 8、String可以被子类继承吗？
-# 9、可以自定义java.lang.String类并使用吗？
-# 10、String与byte[]两者相互之间如何转换？
+## 1、String是基本数据类型吗？
+## 2、String是可变的话？
+## 3、怎么比较两个字符串的值一样，怎么比较两个字符串是否同一对象？
+## 4、switch中可以使用String吗？
+## 5、String str = new String("abc");创建了几个对象，为什么？
+## 6、String、StringBuffer、StringBuilder有什么区别？
+## 7、String.trim()方法去掉的是哪些字符？
+## 8、String可以被子类继承吗？
+## 9、可以自定义java.lang.String类并使用吗？
+## 10、String与byte[]两者相互之间如何转换？
 
+# Java Map
+## 1、 你都知道哪些常用的Map集合?
+## 2、Collection集合接口和Map接口有什么关系？
+## 3、HashMap是线程安全的吗？线程安全的Map都有哪些？性能最好的是哪个？
+## 4、使用HashMap有什么性能问题吗？
+## 5、HashMap的数据结构是怎样的？默认大小是多少？内部是怎么扩容的？
+## 6、怎么按添加顺序存储元素？怎么按A-Z自然顺序存储元素？怎么自定义排序？
+## 7、HashMap的链表结构设计是用来解决什么问题的？
+## 8、HashMap的键、值可以为NULL吗？HashTable呢？
+## 9、HashMap使用对象作为key，如果hashcode相同会怎么处理？
+## 10、HashMap中的get操作是什么原理？
 
