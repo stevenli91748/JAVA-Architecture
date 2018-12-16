@@ -33,13 +33,21 @@
 ## 整个JVM 分为四部分:
 
 ### 1. Class Loader 类加载器
-       类加载器的作用是加载类文件到内存,Class Loader 只管加载，只要符合文件结构就加载，至于说能不能运行，则不是它负责的，那是由Execution 
-       Engine 负责的。
+       
+       根据给定的全限定名类名(如java.lang.Object)来装载class 文件的内容到Runtime data area 中的methodarea(方法区域)。Javsa 程序员可以extends
+       java.lang.ClassLoader 类来写自己的Class loader, Class Loader 只管加载，只要符合文件结构就加载，至于说能不能运行，则不是它负责的，那是
+       由Execution Engine 负责的。
+
 ### 2. Runtime data area 运行数据区
    
 ### 3. Execution Engine 执行引擎
-       执行引擎也叫做解释器(Interpreter)，负责解释命令，提交操作系统执行
+
+       执行引擎也叫做解释器(Interpreter)，负责解释命令，提交操作系统执行, 执行classes 中的指令。任何JVM specification 实现(JDK)的核心
+       是Execution engine， 换句话说：Sun 的JDK和IBM 的JDK 好坏主要取决于他们各自实现的Execution engine 的好坏。每个运行中的线程都有一
+       个Execution engine 的实例
+       
 ### 4. Native Interface 本地接口
+       与native libraries 交互，是其它编程语言交互的接口。
  
 **整个JVM 框架由加载器加载文件，然后执行器在内存中处理数据，需要与异构系统交互是可以通过本地接口进行，瞧，一个完整的系统诞生了**
  
