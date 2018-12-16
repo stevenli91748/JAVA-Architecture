@@ -33,8 +33,8 @@
 ## 整个JVM 分为四部分:
 
 ### 1. Class Loader 类加载器
-       类加载器的作用是加载类文件到内存,Class Loader 只管加载，只要符合文件结构就加载，至于说能不能运行，则不是它负责的，那是由Execution Engine 
-       负责的。
+       类加载器的作用是加载类文件到内存,Class Loader 只管加载，只要符合文件结构就加载，至于说能不能运行，则不是它负责的，那是由Execution 
+       Engine 负责的。
 ### 2. Runtime data area 运行数据区
    
 ### 3. Execution Engine 执行引擎
