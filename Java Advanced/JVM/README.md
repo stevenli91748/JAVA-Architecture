@@ -44,7 +44,7 @@
       *  程序计数器 (PC)
       *  Java虚拟机栈 (Stack)
           *  Java 栈帧
-             *  局部变量
+             *  局部变量表
              *  方法参数
              *  操作数栈
              *  常量池指针
@@ -52,6 +52,7 @@
              *  Class File(类)
              *  父帧(Return Frame)
              *  子帧(next Frame)
+             *  动态连接
        
  *  3.2  Hotspot虚拟机对象探秘 
  *  3.3  内存
