@@ -42,12 +42,16 @@
           *  字段
   * 3.1.2  线程私有区域
       *  程序计数器 (PC)
-      *  Java虚拟机栈 （Stack）
+      *  Java虚拟机栈 (Stack)
           *  Java 栈帧
-            *  局部变量
-            *  方法参数
-            *  操作数栈
-            *  常量池指针
+             *  局部变量
+             *  方法参数
+             *  操作数栈
+             *  常量池指针
+             *  方法索引(Method Index)
+             *  Class File(类)
+             *  父帧(Return Frame)
+             *  子帧(next Frame)
        
  *  3.2  Hotspot虚拟机对象探秘 
  *  3.3  内存
