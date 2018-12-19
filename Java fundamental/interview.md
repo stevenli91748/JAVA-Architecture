@@ -1,4 +1,4 @@
-# <details>
+<details>
 <summary>1、java事件机制包括哪三个部分？分别介绍 </summary>
 
 - [中文版本](translations/README-cn.md)
