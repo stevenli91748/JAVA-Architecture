@@ -8,12 +8,28 @@
 
 </details>
 
+<details>
+<summary>2、为什么要使用线程池？</summary>
+
+- [中文版本](translations/README-cn.md)
+- [Tiếng Việt - Vietnamese](translations/README-vi.md)
+- [Español](translations/README-es.md)
+- [Português Brasileiro](translations/README-ptbr.md)
+
+</details>
+
+<details>
+<summary>3、线程池有什么作用？</summary>
+
+- [中文版本](translations/README-cn.md)
+- [Tiếng Việt - Vietnamese](translations/README-vi.md)
+- [Español](translations/README-es.md)
+- [Português Brasileiro](translations/README-ptbr.md)
+
+</details>
 
 
 
-
-# 1、java事件机制包括哪三个部分？分别介绍。
-# 2、为什么要使用线程池？
 # 3、线程池有什么作用？
 # 4、说说几种常见的线程池及使用场景。
 # 5、线程池都有哪几种工作队列？
