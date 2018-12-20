@@ -36,7 +36,7 @@ Junit|
 
 # [JAVA 常用的库](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Library/README.md#bean-mapping)
  
- [Bean Mapping][%Bean Mapping]|[Bytecode Manipulation][%Bytecode Manipulation]|Caching|Cluster Management|Database|Date and Time|
+ [Bean Mapping][%Bean Mapping]|[Bytecode Manipulation][%Bytecode Manipulation]|[Caching][%Caching]|[Cluster Management][%Cluster Management]|Database|Date and Time|
   ---|---|---|---|---|---|
   
  Distribution|Distributed Transactions|Distributed Application|Document Processing|High Performance|
@@ -130,4 +130,6 @@ Session|
 
 [%Bean Mapping]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Library/README.md#bean-mapping
 [%Bytecode Manipulation]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Library/README.md#Bytecode-Manipulation
+[%Caching]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Library/README.md#Caching
+[%Cluster Management]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Library/README.md#Cluster-Management
 
