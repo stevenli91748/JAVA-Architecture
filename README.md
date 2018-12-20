@@ -79,7 +79,7 @@ Session|
 
 # [Java 基础](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md)
  
-[基本程序设计结构](https://github.com/stevenli91748/JAVA-Architecture/tree/master/Java%20fundamental)|[对象与类][]|继承|接口|Lambda标达式|内部类|异常 断言和日志|泛型|集合|
+[基本程序设计结构](https://github.com/stevenli91748/JAVA-Architecture/tree/master/Java%20fundamental)|[对象与类][%对象与类]|继承|接口|Lambda标达式|内部类|异常 断言和日志|泛型|集合|
 ---|---|---|---|---|----|----|---|---|  
 ---
 [JAVA 8的流库][%JAVA-8的流库]|输入与输出|XML|JAVA网络操作|JAVA数据库|国际化|本地方法|脚本 编译与注解|
@@ -97,5 +97,5 @@ Session|
 
  
 [%JAVA-8的流库]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#JAVA-8的流库
-
+[%对象与类]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#对象与类
 
