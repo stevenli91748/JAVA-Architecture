@@ -28,31 +28,228 @@
 
 </details>
 
+<details>
+<summary>4、说说几种常见的线程池及使用场景。</summary>
+
+- [中文版本](translations/README-cn.md)
+- [Tiếng Việt - Vietnamese](translations/README-vi.md)
+- [Español](translations/README-es.md)
+- [Português Brasileiro](translations/README-ptbr.md)
+
+</details>
 
 
-# 3、线程池有什么作用？
-# 4、说说几种常见的线程池及使用场景。
-# 5、线程池都有哪几种工作队列？
-# 6、怎么理解无界队列和有界队列？
-# 7、线程池中的几种重要的参数及流程说明。
-# 8、什么是反射机制？
-# 9、说说反射机制的作用。
-# 10、反射机制会不会有性能问题？
-# 11、你怎么理解http协议？
-# 12、说说http协议的工作流程。
-# 13、http有哪些请求提交方式？
-# 14、http中的200,302,403,404,500,503都代表什么状态？
-# 15、http get和post有什么区别？
-# 16、你怎么理解cookie和session，有哪些不同点？
-# 17、什么是web缓存？有什么优点？
-# 18、什么是https，说说https的工作原理？
-# 19、什么是http代理服务器，有什么用？
-# 20、什么是虚拟主机及实现原理？
-# 21、什么是Java虚拟机，为什么要使用？
-# 22、说说Java虚拟机的生命周期及体系结构。
-# 23、说一说Java内存区域。
-# 24、什么是分布式系统？
-# 25、分布式系统你会考虑哪些方面？
+<details>
+<summary>5、线程池都有哪几种工作队列？</summary>
+
+- [中文版本](translations/README-cn.md)
+- [Tiếng Việt - Vietnamese](translations/README-vi.md)
+- [Español](translations/README-es.md)
+- [Português Brasileiro](translations/README-ptbr.md)
+
+</details>
+
+<details>
+<summary> 6、怎么理解无界队列和有界队列？</summary>
+
+- [中文版本](translations/README-cn.md)
+- [Tiếng Việt - Vietnamese](translations/README-vi.md)
+- [Español](translations/README-es.md)
+- [Português Brasileiro](translations/README-ptbr.md)
+
+</details>
+
+<details>
+<summary>7、线程池中的几种重要的参数及流程说明</summary>
+
+- [中文版本](translations/README-cn.md)
+- [Tiếng Việt - Vietnamese](translations/README-vi.md)
+- [Español](translations/README-es.md)
+- [Português Brasileiro](translations/README-ptbr.md)
+
+</details>
+
+<details>
+<summary>8、什么是反射机制？</summary>
+
+- [中文版本](translations/README-cn.md)
+- [Tiếng Việt - Vietnamese](translations/README-vi.md)
+- [Español](translations/README-es.md)
+- [Português Brasileiro](translations/README-ptbr.md)
+
+</details>
+
+<details>
+<summary>9、说说反射机制的作用。</summary>
+
+- [中文版本](translations/README-cn.md)
+- [Tiếng Việt - Vietnamese](translations/README-vi.md)
+- [Español](translations/README-es.md)
+- [Português Brasileiro](translations/README-ptbr.md)
+
+</details>
+
+<details>
+<summary>10、反射机制会不会有性能问题？</summary>
+
+- [中文版本](translations/README-cn.md)
+- [Tiếng Việt - Vietnamese](translations/README-vi.md)
+- [Español](translations/README-es.md)
+- [Português Brasileiro](translations/README-ptbr.md)
+
+</details>
+
+<details>
+<summary>11、你怎么理解http协议？</summary>
+
+- [中文版本](translations/README-cn.md)
+- [Tiếng Việt - Vietnamese](translations/README-vi.md)
+- [Español](translations/README-es.md)
+- [Português Brasileiro](translations/README-ptbr.md)
+
+</details>
+
+<details>
+<summary>12、说说http协议的工作流程</summary>
+
+- [中文版本](translations/README-cn.md)
+- [Tiếng Việt - Vietnamese](translations/README-vi.md)
+- [Español](translations/README-es.md)
+- [Português Brasileiro](translations/README-ptbr.md)
+
+</details>
+
+<details>
+<summary>13、http有哪些请求提交方式？</summary>
+
+- [中文版本](translations/README-cn.md)
+- [Tiếng Việt - Vietnamese](translations/README-vi.md)
+- [Español](translations/README-es.md)
+- [Português Brasileiro](translations/README-ptbr.md)
+
+</details>
+
+<details>
+<summary>14. http中的200,302,403,404,500,503都代表什么状态？</summary>
+
+- [中文版本](translations/README-cn.md)
+- [Tiếng Việt - Vietnamese](translations/README-vi.md)
+- [Español](translations/README-es.md)
+- [Português Brasileiro](translations/README-ptbr.md)
+
+</details>
+
+<details>
+<summary>15、http get和post有什么区别？</summary>
+
+- [中文版本](translations/README-cn.md)
+- [Tiếng Việt - Vietnamese](translations/README-vi.md)
+- [Español](translations/README-es.md)
+- [Português Brasileiro](translations/README-ptbr.md)
+
+</details>
+
+<details>
+<summary>16、你怎么理解cookie和session，有哪些不同点？</summary>
+
+- [中文版本](translations/README-cn.md)
+- [Tiếng Việt - Vietnamese](translations/README-vi.md)
+- [Español](translations/README-es.md)
+- [Português Brasileiro](translations/README-ptbr.md)
+
+</details>
+
+<details>
+<summary>17、什么是web缓存？有什么优点？</summary>
+
+- [中文版本](translations/README-cn.md)
+- [Tiếng Việt - Vietnamese](translations/README-vi.md)
+- [Español](translations/README-es.md)
+- [Português Brasileiro](translations/README-ptbr.md)
+
+</details>
+
+<details>
+<summary> 18、什么是https，说说https的工作原理？</summary>
+
+- [中文版本](translations/README-cn.md)
+- [Tiếng Việt - Vietnamese](translations/README-vi.md)
+- [Español](translations/README-es.md)
+- [Português Brasileiro](translations/README-ptbr.md)
+
+</details>
+
+<details>
+<summary>19、什么是http代理服务器，有什么用？</summary>
+
+- [中文版本](translations/README-cn.md)
+- [Tiếng Việt - Vietnamese](translations/README-vi.md)
+- [Español](translations/README-es.md)
+- [Português Brasileiro](translations/README-ptbr.md)
+
+</details>
+
+<details>
+<summary>20、什么是虚拟主机及实现原理？</summary>
+
+- [中文版本](translations/README-cn.md)
+- [Tiếng Việt - Vietnamese](translations/README-vi.md)
+- [Español](translations/README-es.md)
+- [Português Brasileiro](translations/README-ptbr.md)
+
+</details>
+
+<details>
+<summary>21、什么是Java虚拟机，为什么要使用？</summary>
+
+- [中文版本](translations/README-cn.md)
+- [Tiếng Việt - Vietnamese](translations/README-vi.md)
+- [Español](translations/README-es.md)
+- [Português Brasileiro](translations/README-ptbr.md)
+
+</details>
+
+<details>
+<summary> 22、说说Java虚拟机的生命周期及体系结构。</summary>
+
+- [中文版本](translations/README-cn.md)
+- [Tiếng Việt - Vietnamese](translations/README-vi.md)
+- [Español](translations/README-es.md)
+- [Português Brasileiro](translations/README-ptbr.md)
+
+</details>
+
+<details>
+<summary> 23、说一说Java内存区域。</summary>
+
+- [中文版本](translations/README-cn.md)
+- [Tiếng Việt - Vietnamese](translations/README-vi.md)
+- [Español](translations/README-es.md)
+- [Português Brasileiro](translations/README-ptbr.md)
+
+</details>
+
+<details>
+<summary>24、什么是分布式系统？</summary>
+
+- [中文版本](translations/README-cn.md)
+- [Tiếng Việt - Vietnamese](translations/README-vi.md)
+- [Español](translations/README-es.md)
+- [Português Brasileiro](translations/README-ptbr.md)
+
+</details>
+
+<details>
+<summary>25、分布式系统你会考虑哪些方面？</summary>
+
+- [中文版本](translations/README-cn.md)
+- [Tiếng Việt - Vietnamese](translations/README-vi.md)
+- [Español](translations/README-es.md)
+- [Português Brasileiro](translations/README-ptbr.md)
+
+</details>
+
+
 # 26、讲一讲TCP协议的三次握手和四次挥手流程。
 # 27、为什么TCP建立连接协议是三次握手，而关闭连接却是四次握手呢？为什么不能用两次握手进行连接？
 # 28、为什么TCP TIME_WAIT状态还需要等2MSL后才能返回到CLOSED状态？
