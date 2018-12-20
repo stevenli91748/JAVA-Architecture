@@ -142,6 +142,7 @@
      *  图形化虚拟机监控工具JConsole
      *  可视化性能监控工具Visual VM
      *  虚拟机诊断工具Mission Control
+     *  [HSDB(Hotspot Debugger)](https://liuzhengyang.github.io/2017/05/27/serviceabilityagent/ "HSDB可以查看Java对象的oops、查看类信息、线程栈信息、堆信息、方法字节码和JIT编译后的汇编代码等")
  
 # [9. 对虚拟机的各个组成部份的分析](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E5%AF%B9%E8%99%9A%E6%8B%9F%E6%9C%BA%E7%9A%84%E5%90%84%E4%B8%AA%E7%BB%84%E6%88%90%E9%83%A8%E4%BB%BD%E7%9A%84%E5%88%86%E6%9E%90.md)
  *   对虚拟机里的堆进行分析
