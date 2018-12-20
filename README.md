@@ -79,10 +79,10 @@ Session|
 
 # [Java 基础](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md)
  
-[基本程序设计结构](https://github.com/stevenli91748/JAVA-Architecture/tree/master/Java%20fundamental)|[对象与类][%对象与类]|[继承][%继承]|[接口][%接口]|[Lambda标达式][%Lambda标达式]|[内部类][%内部类]|[异常 断言和日志][%异常 断言和日志]|泛型|集合|
+[基本程序设计结构](https://github.com/stevenli91748/JAVA-Architecture/tree/master/Java%20fundamental)|[对象与类][%对象与类]|[继承][%继承]|[接口][%接口]|[Lambda标达式][%Lambda标达式]|[内部类][%内部类]|[异常 断言和日志][%异常 断言和日志]|[泛型][%泛型]|[集合][%集合]|
 ---|---|---|---|---|----|----|---|---|  
 ---
-[JAVA 8的流库][%JAVA-8的流库]|输入与输出|XML|JAVA网络操作|JAVA数据库|国际化|本地方法|脚本 编译与注解|
+[JAVA 8的流库][%JAVA-8的流库]|[输入与输出][%输入与输出]|[XML][%XML]|[JAVA网络操作][%JAVA网络操作]|[JAVA数据库][%JAVA数据库]|[国际化][%国际化]|[本地方法][%本地方法]|脚本 编译与注解|
 ---|---|---|---|---|---|---|---|
 ---
 反射|注解|JSON|正则表达式|文本操作|数组|容器|[数据结构与算法](https://github.com/stevenli91748/Data-Structure-and-Algorithmic)|[JDK API 8](https://github.com/stevenli91748/JAVA-Architecture/tree/master/API)|
@@ -103,3 +103,13 @@ Session|
 [%Lambda标达式]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#Lambda标达式
 [%内部类]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#内部类
 [%异常 断言和日志]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#异常-断言和日志
+[%泛型]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#泛型
+[%集合]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#集合
+[%输入与输出]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#输入与输出
+[%XML]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#XML
+[%JAVA网络操作]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#JAVA网络操作
+[%JAVA数据库]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#JAVA数据库
+[%国际化]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#国际化
+[%本地方法]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#本地方法
+
+
