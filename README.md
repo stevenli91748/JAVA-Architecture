@@ -39,7 +39,7 @@ Junit|
  [Bean Mapping][%Bean Mapping]|[Bytecode Manipulation][%Bytecode Manipulation]|[Caching][%Caching]|[Cluster Management][%Cluster Management]|[Database][%Database]|[Date and Time][%Date and Time]|
   ---|---|---|---|---|---|
   
- Distribution|Distributed Transactions|Distributed Application|Document Processing|High Performance|
+ [Distribution][%Distribution]|[Distributed Transactions][%Distributed Transactions]|[Distributed Application][%Distributed Application]|[Document Processing][%Document Processing]|[High Performance][%High Performance]|
 ---|---|---|---|---|
 
 GUI|Functional Programming|HTTP Clients|Hypermedia Types|JSON|JSON Processing|Imagery|
@@ -135,4 +135,9 @@ Session|
 [%Cluster Management]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Library/README.md#Cluster-Management
 [%Database]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Library/README.md#Database
 [%Date and Time]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Library/README.md#Date-and-Time
+[%Distribution]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Library/README.md#Distribution
+[%Distributed Transactions]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Library/README.md#Distributed-Transactions
+[%Distributed Application]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Library/README.md#Distributed-Application
+[%Document Processing]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Library/README.md#Document-Processing
+[%High Performance]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Library/README.md#High-Performance
 
