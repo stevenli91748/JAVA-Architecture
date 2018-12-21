@@ -43,6 +43,7 @@
           *  字段
           *  方法和构造函数的字节码
           *  类 实例 接口初始化时用到的特殊方法
+          *  code cache
       *  性能监控数据区      
       
           *  查看perdata
@@ -52,7 +53,7 @@
       *  Java虚拟机栈 (Stack)
           *  Java 栈帧
              *  局部变量表
-             *  方法参数
+                *  方法参数
              *  操作数栈
              *  常量池指针
              *  方法索引(Method Index)
@@ -60,8 +61,10 @@
              *  父帧(Return Frame)
              *  子帧(next Frame)
              *  动态连接
+             *  方法调用正常完成
+             *  方法调用异常完成             
              *  栈顶缓存
-       
+ *  3.1.3  直接内存     
  *  3.2  Hotspot虚拟机对象探秘 
  *  3.3  内存
  *  3.4  垃圾收集器与内存分配策略
@@ -89,6 +92,7 @@
 # [4. 虚拟机字节码执行引擎](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E8%99%9A%E6%8B%9F%E6%9C%BA%E5%AD%97%E8%8A%82%E7%A0%81%E6%89%A7%E8%A1%8C%E5%BC%95%E6%93%8E.md)
    *  虚拟机指令集
    *  操作码助记符
+   *  Java执行引擎工作原理：方法调用
  
 
 # 6. [高效并发](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E9%AB%98%E6%95%88%E5%B9%B6%E5%8F%91.md)
