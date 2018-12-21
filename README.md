@@ -42,13 +42,13 @@ Junit|
  [Distribution][%Distribution]|[Distributed Transactions][%Distributed Transactions]|[Distributed Application][%Distributed Application]|[Document Processing][%Document Processing]|[High Performance][%High Performance]|
 ---|---|---|---|---|
 
-[GUI][%GUI]|[Functional Programming][%Functional Programming]|[HTTP Clients][%HTTP Clients]|[Hypermedia Types][%Hypermedia Types]|JSON|JSON Processing|Imagery|
+[GUI][%GUI]|[Functional Programming][%Functional Programming]|[HTTP Clients][%HTTP Clients]|[Hypermedia Types][%Hypermedia Types]|[JSON][%JSON]|[JSON Processing][%JSON Processing]|[Imagery][%Imagery]|
 ---|---|---|---|---|---|---|
 
 [Geospatial][%Geospatial]|[JVM AND JDK][%JVM AND JDK]|[Logging][%Logging]|[Machine Learning][%Machine Learning]|[Messaging][%Messaging]|[Microservice][%Microservice]|[Miscellaneous][%Miscellaneous]|
 ---|---|---|---|---|---|---|
 
-Monitoring|Native|Natural Language Porcessing|Networking|ORM|PaaS|PDF|Platform|
+[Monitoring][%Monitoring]|[Native][%Native]|[Natural Language Porcessing][%Natural Language Porcessing]|Networking|ORM|PaaS|PDF|Platform|
 ---|---|---|---|---|---|---|---|
 
 Performance analysis|Other|Processes|Reactive Libraries|Rest Frameworks|Search|Security|
@@ -151,3 +151,14 @@ Session|
 [%Messaging]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Library/README.md#Messaging
 [%Microservice]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Library/README.md#Microservice
 [%Miscellaneous]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Library/README.md#Miscellaneous
+[%JSON]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Library/README.md#JSON
+[%JSON Processing]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Library/README.md#JSON-Processing
+[%Imagery]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Library/README.md#Imagery
+[%Monitoring]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Library/README.md#Monitoring
+[%Native]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Library/README.md#Native
+[%Natural Language Porcessing]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Library/README.md#Natural-Language-Porcessing
+
+
+
+
+
