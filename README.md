@@ -48,10 +48,10 @@ Junit|
 [Geospatial][%Geospatial]|[JVM AND JDK][%JVM AND JDK]|[Logging][%Logging]|[Machine Learning][%Machine Learning]|[Messaging][%Messaging]|[Microservice][%Microservice]|[Miscellaneous][%Miscellaneous]|
 ---|---|---|---|---|---|---|
 
-[Monitoring][%Monitoring]|[Native][%Native]|[Natural Language Porcessing][%Natural Language Porcessing]|Networking|ORM|PaaS|PDF|Platform|
+[Monitoring][%Monitoring]|[Native][%Native]|[Natural Language Porcessing][%Natural Language Porcessing]|[Networking][%Networking]|[ORM][%ORM]|[PaaS][%PaaS]|[PDF][%PDF]|[Platform][%Platform]|
 ---|---|---|---|---|---|---|---|
 
-Performance analysis|Other|Processes|Reactive Libraries|Rest Frameworks|Search|Security|
+[Performance analysis][%Performance analysis]|[Other][%Other]|[Processes][%Processes]|[Reactive Libraries][%Reactive Libraries]|[Rest Frameworks][%Rest Frameworks]|[Search][%Search]|[Security][%Security]|
 ---|---|---|---|---|---|---|
 
 Serialization|Server|Template Engine|Testing|Asynchronous|BDD|Fixtures|Frameworks|
@@ -157,8 +157,17 @@ Session|
 [%Monitoring]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Library/README.md#Monitoring
 [%Native]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Library/README.md#Native
 [%Natural Language Porcessing]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Library/README.md#Natural-Language-Porcessing
+[%Networking]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Library/README.md#Networking
+[%ORM]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Library/README.md#ORM
+[%PaaS]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Library/README.md#PaaS
+[%PDF]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Library/README.md#PDF
+[%Platform]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Library/README.md#Platform
+[%Performance analysis]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Library/README.md#Performance-analysis
+[%Other]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Library/README.md#Other
+[%Processes]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Library/README.md#Processes
+[%Reactive Libraries]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Library/README.md#Reactive-Libraries
+[%Rest Frameworks]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Library/README.md#Rest-Frameworks
+[%Search]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Library/README.md#Search
+[%Security]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Library/README.md#Security
 
-
-
-
-
+#
