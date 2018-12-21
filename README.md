@@ -54,7 +54,7 @@ Junit|
 [Performance analysis][%Performance analysis]|[Other][%Other]|[Processes][%Processes]|[Reactive Libraries][%Reactive Libraries]|[Rest Frameworks][%Rest Frameworks]|[Search][%Search]|[Security][%Security]|
 ---|---|---|---|---|---|---|
 
-[Serialization][%Serialization]|[Server][%Server]|[Template Engine|][%Template Engine][Testing][%Testing]|[Asynchronous][%Asynchronous]|[BDD][%BDD]|[Fixtures][%Fixtures]|[Frameworks][%Frameworks]|
+[Serialization][%Serialization]|[Server][%Server]|[Template Engine][%Template Engine]|[Testing][%Testing]|[Asynchronous][%Asynchronous]|[BDD][%BDD]|[Fixtures][%Fixtures]|[Frameworks][%Frameworks]|
 ---|---|---|---|---|---|---|---|
 
 [Matchers][%Matchers]|[Mocking][%Mocking]|[Test Miscellaneous][%Test Miscellaneous]|[Parameterization][%Parameterization]|[Utility][%Utility]|[Web Crawling][%Web Crawling]|[Web Frameworks][%Web Frameworks]|
