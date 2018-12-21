@@ -45,7 +45,7 @@ Junit|
 [GUI][%GUI]|[Functional Programming][%Functional Programming]|[HTTP Clients][%HTTP Clients]|[Hypermedia Types][%Hypermedia Types]|JSON|JSON Processing|Imagery|
 ---|---|---|---|---|---|---|
 
-Geospatial|JVM AND JDK|Logging|Machine Learning|Messaging|Microservice|Miscellaneous|
+[Geospatial][%Geospatial]|[JVM AND JDK][%JVM AND JDK]|[Logging][%Logging]|[Machine Learning][%Machine Learning]|[Messaging][%Messaging]|[Microservice][%Microservice]|[Miscellaneous][%Miscellaneous]|
 ---|---|---|---|---|---|---|
 
 Monitoring|Native|Natural Language Porcessing|Networking|ORM|PaaS|PDF|Platform|
@@ -144,4 +144,10 @@ Session|
 [%Functional Programming]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Library/README.md#Functional-Programming
 [%HTTP Clients]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Library/README.md#HTTP-Clients
 [%Hypermedia Types]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Library/README.md#Hypermedia-Types
-
+[%Geospatial]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Library/README.md#Geospatial
+[%JVM AND JDK]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Library/README.md#JVM-AND-JDK
+[%Logging]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Library/README.md#Logging
+[%Machine Learning]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Library/README.md#Machine-Learning
+[%Messaging]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Library/README.md#Messaging
+[%Microservice]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Library/README.md#Microservice
+[%Miscellaneous]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Library/README.md#Miscellaneous
