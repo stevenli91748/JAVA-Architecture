@@ -42,7 +42,7 @@ Junit|
  [Distribution][%Distribution]|[Distributed Transactions][%Distributed Transactions]|[Distributed Application][%Distributed Application]|[Document Processing][%Document Processing]|[High Performance][%High Performance]|
 ---|---|---|---|---|
 
-GUI|Functional Programming|HTTP Clients|Hypermedia Types|JSON|JSON Processing|Imagery|
+[GUI][%GUI]|[Functional Programming][%Functional Programming]|[HTTP Clients][%HTTP Clients]|[Hypermedia Types][%Hypermedia Types]|JSON|JSON Processing|Imagery|
 ---|---|---|---|---|---|---|
 
 Geospatial|JVM AND JDK|Logging|Machine Learning|Messaging|Microservice|Miscellaneous|
@@ -140,4 +140,8 @@ Session|
 [%Distributed Application]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Library/README.md#Distributed-Application
 [%Document Processing]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Library/README.md#Document-Processing
 [%High Performance]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Library/README.md#High-Performance
+[%GUI]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Library/README.md#GUI
+[%Functional Programming]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Library/README.md#Functional-Programming
+[%HTTP Clients]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Library/README.md#HTTP-Clients
+[%Hypermedia Types]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Library/README.md#Hypermedia-Types
 
