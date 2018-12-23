@@ -108,6 +108,7 @@
     *  无锁的并行控制方法
  *  线程优化
  *  同步
+    * 同步指令
 
 # 7. [JVM参数分析和调优](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/JVM%E5%8F%82%E6%95%B0%E5%88%86%E6%9E%90%E5%92%8C%E8%B0%83%E4%BC%98.md)
  
