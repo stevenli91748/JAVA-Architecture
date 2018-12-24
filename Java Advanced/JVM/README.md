@@ -163,3 +163,4 @@
   *  自己动手写Java虚拟机
   *  Java虚拟机规范.Java SE 8版
   *  Java虚拟机并发编程
+  * [github JVM Information ](https://github.com/deephacks/awesome-jvm)
