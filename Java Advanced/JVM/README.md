@@ -26,7 +26,7 @@
     *  [类文件格式](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E8%99%9A%E6%8B%9F%E6%9C%BA%E6%89%A7%E8%A1%8C%E5%AD%90%E7%B3%BB%E7%BB%9F.md#类文件格式)
     
  *  [虚拟机类的加载机制(ClassLoader)](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E8%99%9A%E6%8B%9F%E6%9C%BA%E6%89%A7%E8%A1%8C%E5%AD%90%E7%B3%BB%E7%BB%9F.md#虚拟机类的加载机制(ClassLoader))
-    * 加载，链接与初始化
+    * [加载，链接与初始化](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E8%99%9A%E6%8B%9F%E6%9C%BA%E6%89%A7%E8%A1%8C%E5%AD%90%E7%B3%BB%E7%BB%9F.md#虚拟机类的加载机制(ClassLoader))
       * [加载](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E8%99%9A%E6%8B%9F%E6%9C%BA%E6%89%A7%E8%A1%8C%E5%AD%90%E7%B3%BB%E7%BB%9F.md#加载)
       * [链接](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E8%99%9A%E6%8B%9F%E6%9C%BA%E6%89%A7%E8%A1%8C%E5%AD%90%E7%B3%BB%E7%BB%9F.md#链接)
       * [初始化](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E8%99%9A%E6%8B%9F%E6%9C%BA%E6%89%A7%E8%A1%8C%E5%AD%90%E7%B3%BB%E7%BB%9F.md#初始化)
