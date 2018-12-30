@@ -76,23 +76,23 @@
 
 ### 微服务架构的技术选型
 
-（1）微服务实例的开发：SpringBoot
+（1）微服务实例的开发：**SpringBoot**
 
-（2）服务的注册与发现：Spring Cloud Eureka
+（2）服务的注册与发现：**Spring Cloud Eureka**
 
-（3）负载均衡：Spring Cloud Ribbon
+（3）负载均衡：**Spring Cloud Ribbon**
 
-（4）服务容错：Spring Cloud Hystrix
+（4）服务容错：**Spring Cloud Hystrix**
 
-（5）API网关：Spring Cloud Zuul
+（5）API网关：**Spring Cloud Zuul**
 
-（6）分布式配置中心：Spring Cloud Config
+（6）分布式配置中心：**Spring Cloud Config**
 
-（7）调试：Swagger
+（7）调试：**Swagger**
 
-（8）部署：Docker
+（8）部署：**Docker**
 
-（9）持续集成：Jenkins
+（9）持续集成：**Jenkins**
 
 
  ![Imgur](https://farm8.staticflickr.com/7819/45796457384_5928529d02_o.jpg)
