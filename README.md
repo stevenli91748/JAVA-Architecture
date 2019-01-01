@@ -5,7 +5,7 @@
 
 # Java 项目工程化
 
-[Maven](https://github.com/stevenli91748/Engineering-special/tree/master/Maven)|[Git](https://github.com/stevenli91748/Engineering-special/tree/master/Git)|[Jenkins](https://github.com/stevenli91748/Engineering-special/tree/master/Jenkins)|[Gradle](https://github.com/stevenli91748/Engineering-special/tree/master/Gradle)|[Sonar](https://github.com/stevenli91748/Engineering-special/tree/master/Sonar)|java代码规范|
+[Maven](https://github.com/stevenli91748/Engineering-special/tree/master/Maven)|[Git](https://github.com/stevenli91748/Engineering-special/tree/master/Git)|[Jenkins](https://github.com/stevenli91748/Engineering-special/tree/master/Jenkins)|[Gradle](https://github.com/stevenli91748/Engineering-special/tree/master/Gradle)|[Sonar](https://github.com/stevenli91748/Engineering-special/tree/master/Sonar)|[java代码规范](https://github.com/stevenli91748/JAVA-Architecture/blob/master/java%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83.md)|
 ---|---|---|---|---|---|
 
 # [JAVA系统架构进阶之路](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E8%BF%9B%E9%98%B6%E4%B9%8B%E8%B7%AF.md)
