@@ -24,7 +24,7 @@
 ------------ | -------------|----------- |---------- | -----------------|
 
 
-# 工具和中间件  
+# 工具和组件  
 
 [IntellijIDEA](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/IntellijIDEA)|[Redis缓存](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Redis)|[Nginx](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Nginx)|[WebSocket](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/WebSocket)|[Tomcat](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Tomcat)|[QRCode](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/QRCode)|[Search Engineer](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Search%20Engineer)|[Shiro权限管理](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Shiro)|
 ---|---|---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 Junit|MySQL|MongoDB|ZooKeeper|FastDFS文件存储|[Quartz定时任务](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Quartz)|RabbitMQ消息队列|
 ---|---|---|---|---|---|---|
 
-
+ElasticSearch搜索|ELK日志展示及分析|Swagger接口文档编写及测试工具|
+---|---|---|
 
 
 # JAVA服务框架   
