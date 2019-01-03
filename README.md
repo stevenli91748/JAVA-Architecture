@@ -2,15 +2,15 @@
 
 [JAVA 面试](https://github.com/stevenli91748/JAVA-Architecture/tree/master/Interview)
 
+# [JAVA系统架构进阶之路](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E8%BF%9B%E9%98%B6%E4%B9%8B%E8%B7%AF.md)
 
 # Java 项目工程化
 
 [Maven](https://github.com/stevenli91748/Engineering-special/tree/master/Maven)|[Git](https://github.com/stevenli91748/Engineering-special/tree/master/Git)|[Jenkins](https://github.com/stevenli91748/Engineering-special/tree/master/Jenkins)|[Gradle](https://github.com/stevenli91748/Engineering-special/tree/master/Gradle)|[Sonar](https://github.com/stevenli91748/Engineering-special/tree/master/Sonar)|[java代码规范](https://github.com/stevenli91748/JAVA-Architecture/blob/master/java%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83.md)|
 ---|---|---|---|---|---|
 
-# [JAVA系统架构进阶之路](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E8%BF%9B%E9%98%B6%E4%B9%8B%E8%B7%AF.md)
-
-
+Docker镜像技术|Harbor镜像倉库|Rancher容器管理|
+---|---|---|
 
 # JAVA 分布式, 性能调优 设计模式, 消息队列和 微服务
 
@@ -32,9 +32,11 @@
 Junit|MySQL|MongoDB|ZooKeeper|FastDFS文件存储|[Quartz定时任务](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Quartz)|RabbitMQ消息队列|
 ---|---|---|---|---|---|---|
 
-ElasticSearch搜索|ELK日志展示及分析|Swagger接口文档编写及测试工具|
----|---|---|
+ElasticSearch搜索|ELK日志展示及分析|Swagger接口文档编写及测试工具|JMeter测试工具|
+---|---|---|---|
 
+VisualVM分析工具|
+---|
 
 # JAVA服务框架   
 
