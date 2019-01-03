@@ -1,4 +1,24 @@
 
+# 目录
+
+ * [Spring Boot概述](#Spring-Boot概述)
+ 
+ 
+
+### Spring Boot概述
+
+其优点是简化了 Spring 相关组件的配置，实现自动配置，降低了项目搭建的复杂度，使开发变得更加简便，从而提升开发效率。Spring Boot 本身并不提供 Spring 框架的核心特性以及扩展功能，只是用于快速、敏捷地开发新一代基于 Spring 框架的应用程序。
+
+ 
+
+Spring Boot 并不是用来替代 Spring 的解决方案，而是和 Spring 框架紧密结合用于提升 Spring 开发者体验的工具。同时它集成了大量常用的第三方库配置，如 Jackson、JDBC、Mongo、Redis、Mail 等，Spring Boot 应用中这些第三方库几乎可以零配置的开箱即用（out-of-the-box），大部分的 Spring Boot 应用都只需要非常少量的配置代码，开发者能够更加专注于业务逻辑。
+
+ 
+
+也就是说，Spring Boot 只是起到一个承载的作用，辅助你简化项目搭建的过程。如果承载的是 Web 项目，使用 Spring MVC 作为 MVC 框架，那么整个业务工作流程还是由 Spring MVC 来完成的，因此 Spring Boot 并不能替代 Spring MVC，它只是简化了 Spring MVC 的相关配置，Spring Boot 帮你完成了很多底层工作。
+
+
+
 
 # 有用的参考
 
