@@ -31,8 +31,7 @@
 
 ---
 
-Junit|MySQL|MongoDB||ZooKeeper|FastDFS文件存储|[Quartz定时任务](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Quartz)|
----|---|---|---|---|---|
+
 
 # JAVA服务框架   
 
