@@ -5,41 +5,11 @@
 </details>
 
 <details>
-<summary>2、为什么要使用线程池？</summary>
-
-
-</details>
-
-<details>
-<summary>3、线程池有什么作用？</summary>
-
-
-</details>
-
-<details>
-<summary>4、说说几种常见的线程池及使用场景。</summary>
-
-
-</details>
-
-
-<details>
-<summary>5、线程池都有哪几种工作队列？</summary>
-
-
-</details>
-
-<details>
 <summary> 6、怎么理解无界队列和有界队列？</summary>
 
 
 </details>
 
-<details>
-<summary>7、线程池中的几种重要的参数及流程说明</summary>
-
-
-</details>
 
 <details>
 <summary>8、什么是反射机制？</summary>
@@ -60,37 +30,7 @@
 
 </details>
 
-<details>
-<summary>11、你怎么理解http协议？</summary>
 
-
-
-</details>
-
-<details>
-<summary>12、说说http协议的工作流程</summary>
-
-
-</details>
-
-<details>
-<summary>13、http有哪些请求提交方式？</summary>
-
-
-
-</details>
-
-<details>
-<summary>14. http中的200,302,403,404,500,503都代表什么状态？</summary>
-
-
-</details>
-
-<details>
-<summary>15、http get和post有什么区别？</summary>
-
-
-</details>
 
 <details>
 <summary>16、你怎么理解cookie和session，有哪些不同点？</summary>
@@ -105,18 +45,6 @@
 
 </details>
 
-<details>
-<summary> 18、什么是https，说说https的工作原理？</summary>
-
-
-
-</details>
-
-<details>
-<summary>19、什么是http代理服务器，有什么用？</summary>
-
-
-</details>
 
 <details>
 <summary>20、什么是虚拟主机及实现原理？</summary>
@@ -145,64 +73,23 @@
 
 </details>
 
-<details>
-<summary>24、什么是分布式系统？</summary>
 
 
 
-</details>
-
-<details>
-<summary>25、分布式系统你会考虑哪些方面？</summary>
-
-- [中文版本](translations/README-cn.md)
-- [Tiếng Việt - Vietnamese](translations/README-vi.md)
-- [Español](translations/README-es.md)
-- [Português Brasileiro](translations/README-ptbr.md)
-
-</details>
-
-
-# 26、讲一讲TCP协议的三次握手和四次挥手流程。
-# 27、为什么TCP建立连接协议是三次握手，而关闭连接却是四次握手呢？为什么不能用两次握手进行连接？
-# 28、为什么TCP TIME_WAIT状态还需要等2MSL后才能返回到CLOSED状态？
 # 29、什么是DoS、DDoS、DRDoS攻击？如何防御？
 # 30、描述一下Java异常层次结构。
 # 31、什么是检查异常，不受检查异常，运行时异常？并分别举例说明。
 # 32、finally块一定会执行吗？
 # 33、正常情况下，当在try块或catch块中遇到return语句时，finally语句块在方法返回之前还是之后被执行？
 # 34、try、catch、finally语句块的执行顺序。
-# 35、Java虚拟机中，数据类型可以分为哪几类？
-# 36、怎么理解栈、堆？堆中存什么？栈中存什么？
-# 37、为什么要把堆和栈区分出来呢？栈中不是也可以存储数据吗？
-# 38、在Java中，什么是是栈的起始点，同是也是程序的起始点？
-# 39、为什么不把基本类型放堆中呢？
 # 40、Java中的参数传递时传值呢？还是传引用？
 # 41、Java中有没有指针的概念？
-# 42、Java中，栈的大小通过什么参数来设置？
-# 43、一个空Object对象的占多大空间？
-# 44、对象引用类型分为哪几类？
-# 45、讲一讲垃圾回收算法。
-# 46、如何解决内存碎片的问题？
-# 47、如何解决同时存在的对象创建和对象回收问题？
-# 48、讲一讲内存分代及生命周期。
-# 49、什么情况下触发垃圾回收？
-# 50、如何选择合适的垃圾收集算法？
-# 51、JVM中最大堆大小有没有限制？
-# 52、堆大小通过什么参数设置？
-# 53、JVM有哪三种垃圾回收器？
-# 54、吞吐量优先选择什么垃圾回收器？响应时间优先呢？
-# 55、如何进行JVM调优？有哪些方法？
-# 56、如何理解内存泄漏问题？有哪些情况会导致内存泄露？如何解决？
-# 57、从分布式系统部署角度考虑，分哪几层？
 # 58、如何解决业务层的数据访问问题？
 # 59、为了解决数据库服务器的负担，如何做数据库的分布？
 # 60、什么是著名的拜占庭将军问题？
 # 61、为什么说TCP/IP协议是不可靠的？
 # 62、讲讲CAP理念。
 # 63、怎么理解强一致性、单调一致性和最终一致性？
-# 64、分布式系统设计你会考虑哪些策略？
-# 65、最常见的数据分布方式是什么？
 # 66、谈一谈一致性哈希算法。
 # 67、paxos是什么？
 # 68、什么是Lease机制？
