@@ -1,40 +1,24 @@
 <details>
 <summary>1、java事件机制包括哪三个部分？分别介绍 </summary>
 
-- [中文版本](translations/README-cn.md)
-- [Tiếng Việt - Vietnamese](translations/README-vi.md)
-- [Español](translations/README-es.md)
-- [Português Brasileiro](translations/README-ptbr.md)
 
 </details>
 
 <details>
 <summary>2、为什么要使用线程池？</summary>
 
-- [中文版本](translations/README-cn.md)
-- [Tiếng Việt - Vietnamese](translations/README-vi.md)
-- [Español](translations/README-es.md)
-- [Português Brasileiro](translations/README-ptbr.md)
 
 </details>
 
 <details>
 <summary>3、线程池有什么作用？</summary>
 
-- [中文版本](translations/README-cn.md)
-- [Tiếng Việt - Vietnamese](translations/README-vi.md)
-- [Español](translations/README-es.md)
-- [Português Brasileiro](translations/README-ptbr.md)
 
 </details>
 
 <details>
 <summary>4、说说几种常见的线程池及使用场景。</summary>
 
-- [中文版本](translations/README-cn.md)
-- [Tiếng Việt - Vietnamese](translations/README-vi.md)
-- [Español](translations/README-es.md)
-- [Português Brasileiro](translations/README-ptbr.md)
 
 </details>
 
@@ -42,200 +26,129 @@
 <details>
 <summary>5、线程池都有哪几种工作队列？</summary>
 
-- [中文版本](translations/README-cn.md)
-- [Tiếng Việt - Vietnamese](translations/README-vi.md)
-- [Español](translations/README-es.md)
-- [Português Brasileiro](translations/README-ptbr.md)
 
 </details>
 
 <details>
 <summary> 6、怎么理解无界队列和有界队列？</summary>
 
-- [中文版本](translations/README-cn.md)
-- [Tiếng Việt - Vietnamese](translations/README-vi.md)
-- [Español](translations/README-es.md)
-- [Português Brasileiro](translations/README-ptbr.md)
 
 </details>
 
 <details>
 <summary>7、线程池中的几种重要的参数及流程说明</summary>
 
-- [中文版本](translations/README-cn.md)
-- [Tiếng Việt - Vietnamese](translations/README-vi.md)
-- [Español](translations/README-es.md)
-- [Português Brasileiro](translations/README-ptbr.md)
 
 </details>
 
 <details>
 <summary>8、什么是反射机制？</summary>
 
-- [中文版本](translations/README-cn.md)
-- [Tiếng Việt - Vietnamese](translations/README-vi.md)
-- [Español](translations/README-es.md)
-- [Português Brasileiro](translations/README-ptbr.md)
 
 </details>
 
 <details>
 <summary>9、说说反射机制的作用。</summary>
 
-- [中文版本](translations/README-cn.md)
-- [Tiếng Việt - Vietnamese](translations/README-vi.md)
-- [Español](translations/README-es.md)
-- [Português Brasileiro](translations/README-ptbr.md)
 
 </details>
 
 <details>
 <summary>10、反射机制会不会有性能问题？</summary>
 
-- [中文版本](translations/README-cn.md)
-- [Tiếng Việt - Vietnamese](translations/README-vi.md)
-- [Español](translations/README-es.md)
-- [Português Brasileiro](translations/README-ptbr.md)
+
 
 </details>
 
 <details>
 <summary>11、你怎么理解http协议？</summary>
 
-- [中文版本](translations/README-cn.md)
-- [Tiếng Việt - Vietnamese](translations/README-vi.md)
-- [Español](translations/README-es.md)
-- [Português Brasileiro](translations/README-ptbr.md)
+
 
 </details>
 
 <details>
 <summary>12、说说http协议的工作流程</summary>
 
-- [中文版本](translations/README-cn.md)
-- [Tiếng Việt - Vietnamese](translations/README-vi.md)
-- [Español](translations/README-es.md)
-- [Português Brasileiro](translations/README-ptbr.md)
 
 </details>
 
 <details>
 <summary>13、http有哪些请求提交方式？</summary>
 
-- [中文版本](translations/README-cn.md)
-- [Tiếng Việt - Vietnamese](translations/README-vi.md)
-- [Español](translations/README-es.md)
-- [Português Brasileiro](translations/README-ptbr.md)
+
 
 </details>
 
 <details>
 <summary>14. http中的200,302,403,404,500,503都代表什么状态？</summary>
 
-- [中文版本](translations/README-cn.md)
-- [Tiếng Việt - Vietnamese](translations/README-vi.md)
-- [Español](translations/README-es.md)
-- [Português Brasileiro](translations/README-ptbr.md)
 
 </details>
 
 <details>
 <summary>15、http get和post有什么区别？</summary>
 
-- [中文版本](translations/README-cn.md)
-- [Tiếng Việt - Vietnamese](translations/README-vi.md)
-- [Español](translations/README-es.md)
-- [Português Brasileiro](translations/README-ptbr.md)
 
 </details>
 
 <details>
 <summary>16、你怎么理解cookie和session，有哪些不同点？</summary>
 
-- [中文版本](translations/README-cn.md)
-- [Tiếng Việt - Vietnamese](translations/README-vi.md)
-- [Español](translations/README-es.md)
-- [Português Brasileiro](translations/README-ptbr.md)
+
 
 </details>
 
 <details>
 <summary>17、什么是web缓存？有什么优点？</summary>
 
-- [中文版本](translations/README-cn.md)
-- [Tiếng Việt - Vietnamese](translations/README-vi.md)
-- [Español](translations/README-es.md)
-- [Português Brasileiro](translations/README-ptbr.md)
 
 </details>
 
 <details>
 <summary> 18、什么是https，说说https的工作原理？</summary>
 
-- [中文版本](translations/README-cn.md)
-- [Tiếng Việt - Vietnamese](translations/README-vi.md)
-- [Español](translations/README-es.md)
-- [Português Brasileiro](translations/README-ptbr.md)
+
 
 </details>
 
 <details>
 <summary>19、什么是http代理服务器，有什么用？</summary>
 
-- [中文版本](translations/README-cn.md)
-- [Tiếng Việt - Vietnamese](translations/README-vi.md)
-- [Español](translations/README-es.md)
-- [Português Brasileiro](translations/README-ptbr.md)
 
 </details>
 
 <details>
 <summary>20、什么是虚拟主机及实现原理？</summary>
 
-- [中文版本](translations/README-cn.md)
-- [Tiếng Việt - Vietnamese](translations/README-vi.md)
-- [Español](translations/README-es.md)
-- [Português Brasileiro](translations/README-ptbr.md)
+
 
 </details>
 
 <details>
 <summary>21、什么是Java虚拟机，为什么要使用？</summary>
 
-- [中文版本](translations/README-cn.md)
-- [Tiếng Việt - Vietnamese](translations/README-vi.md)
-- [Español](translations/README-es.md)
-- [Português Brasileiro](translations/README-ptbr.md)
+
 
 </details>
 
 <details>
 <summary> 22、说说Java虚拟机的生命周期及体系结构。</summary>
 
-- [中文版本](translations/README-cn.md)
-- [Tiếng Việt - Vietnamese](translations/README-vi.md)
-- [Español](translations/README-es.md)
-- [Português Brasileiro](translations/README-ptbr.md)
 
 </details>
 
 <details>
 <summary> 23、说一说Java内存区域。</summary>
 
-- [中文版本](translations/README-cn.md)
-- [Tiếng Việt - Vietnamese](translations/README-vi.md)
-- [Español](translations/README-es.md)
-- [Português Brasileiro](translations/README-ptbr.md)
+
 
 </details>
 
 <details>
 <summary>24、什么是分布式系统？</summary>
 
-- [中文版本](translations/README-cn.md)
-- [Tiếng Việt - Vietnamese](translations/README-vi.md)
-- [Español](translations/README-es.md)
-- [Português Brasileiro](translations/README-ptbr.md)
+
 
 </details>
 
@@ -295,6 +208,7 @@
 # 68、什么是Lease机制？
 # 69、如何理解选主算法？
 # 70、OSI有哪七层模型？TCP/IP是哪四层模型。
+# 71. 关于如何使用clone方法以及浅克隆/深克隆机制
 
 # string
 
