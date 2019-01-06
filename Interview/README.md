@@ -19,3 +19,4 @@
  * [Java方向如何准备BAT技术面试答案(汇总版)](https://blog.csdn.net/x00xfeng/article/details/71123077)
  * [有一到五年开发经验的JAVA程序员需要掌握的知识与技能](https://blog.csdn.net/gupao123456/article/details/80547447)
  * [2018年java技术面试题整理](https://www.jb51.net/article/134967.htm)
+ * [如何在没有实际项目经验的情况下找到工作](https://blog.csdn.net/LeviDing/article/details/70851354)
