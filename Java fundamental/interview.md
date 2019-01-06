@@ -40,7 +40,7 @@
 * [31. 高级Swing 界面组件知识点](#31-高级Swing-界面组件)
 * [32. 高级AWT知识点](#32-高级AWT)
 * [33. 部署JAVA应用程序知识点](#33-部署JAVA应用程序)
-* [34. string知识点](#34-string)
+* [34. String知识点](#34-String)
 * [35. Java Map知识点](#35-Java-Map)
 
 # 内容
@@ -77,7 +77,59 @@
 ## 31. 高级Swing 界面组件
 ## 32. 高级AWT
 ## 33. 部署JAVA应用程序
-## 34. string
+## 34. String
+
+<details>
+<summary>String是基本数据类型吗？</summary>
+
+</details>
+
+<details>
+<summary>String是可变的话？</summary>
+
+</details>
+
+<details>
+<summary>怎么比较两个字符串的值一样，怎么比较两个字符串是否同一对象？</summary>
+
+</details>
+
+<details>
+<summary>switch中可以使用String吗？</summary>
+
+</details>
+
+<details>
+<summary>String str = new String("abc");创建了几个对象，为什么？</summary>
+
+</details>
+
+<details>
+<summary>String、StringBuffer、StringBuilder有什么区别？</summary>
+
+</details>
+
+<details>
+<summary>String.trim()方法去掉的是哪些字符？</summary>
+
+</details>
+
+<details>
+<summary>String可以被子类继承吗？</summary>
+
+</details>
+
+<details>
+<summary>可以自定义java.lang.String类并使用吗？</summary>
+
+</details>
+
+<details>
+<summary>String与byte[]两者相互之间如何转换？</summary>
+
+</details>
+
+---
 ## 35. Java Map
 
 <details>
@@ -143,7 +195,7 @@
 
 
 ---
-
+---
 <details>
 <summary>1、java事件机制包括哪三个部分？分别介绍 </summary>
 
@@ -226,28 +278,6 @@
 
 # string
 
-<details>
-<summary>1. String是基本数据类型吗？</summary>
-
-
-
-</details>
-
-<details>
-<summary>2、String是可变的话？</summary>
-
-
-
-</details>
-
-## 3、怎么比较两个字符串的值一样，怎么比较两个字符串是否同一对象？
-## 4、switch中可以使用String吗？
-## 5、String str = new String("abc");创建了几个对象，为什么？
-## 6、String、StringBuffer、StringBuilder有什么区别？
-## 7、String.trim()方法去掉的是哪些字符？
-## 8、String可以被子类继承吗？
-## 9、可以自定义java.lang.String类并使用吗？
-## 10、String与byte[]两者相互之间如何转换？
 
 # Java Map
 
