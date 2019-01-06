@@ -167,13 +167,13 @@
  
 # 参考书籍
  
-  *  深入理解Java虚拟机_JVM高级特性与最佳实践
-  *   HotSpot 实战
-  *  揭秘Java虚拟机-JVM设计原理与实现
-  *  深入解析Java虚拟机器开发：权衡优化、高校和安全的最优方案
-  *  深入理解JVM ＆ G1 GC
-  *  实战JAVA虚拟机  JVM故障诊断与性能优化
-  *  自己动手写Java虚拟机
-  *  Java虚拟机规范.Java SE 8版
-  *  Java虚拟机并发编程
+  *  深入理解Java虚拟机_JVM高级特性与最佳实践.PDF
+  *   HotSpot 实战.PDF
+  *  揭秘Java虚拟机-JVM设计原理与实现.PDF
+  *  深入解析Java虚拟机器开发：权衡优化、高校和安全的最优方案.PDF
+  *  深入理解JVM ＆ G1 GC.PDF
+  *  实战JAVA虚拟机  JVM故障诊断与性能优化.PDF
+  *  自己动手写Java虚拟机.PDF
+  *  Java虚拟机规范.Java SE 8版.PDF
+  *  Java虚拟机并发编程.PDF
   * [github JVM Information ](https://github.com/deephacks/awesome-jvm)
