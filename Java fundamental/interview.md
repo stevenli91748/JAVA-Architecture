@@ -1,3 +1,11 @@
+
+# 目录
+
+* 
+* [string](#string)
+* [Java Map](#Java-Map)
+
+
 <details>
 <summary>1、java事件机制包括哪三个部分？分别介绍 </summary>
 
@@ -53,25 +61,6 @@
 
 </details>
 
-<details>
-<summary>21、什么是Java虚拟机，为什么要使用？</summary>
-
-
-
-</details>
-
-<details>
-<summary> 22、说说Java虚拟机的生命周期及体系结构。</summary>
-
-
-</details>
-
-<details>
-<summary> 23、说一说Java内存区域。</summary>
-
-
-
-</details>
 
 
 
@@ -87,20 +76,32 @@
 # 58、如何解决业务层的数据访问问题？
 # 59、为了解决数据库服务器的负担，如何做数据库的分布？
 # 60、什么是著名的拜占庭将军问题？
-# 61、为什么说TCP/IP协议是不可靠的？
+# 61、
 # 62、讲讲CAP理念。
 # 63、怎么理解强一致性、单调一致性和最终一致性？
 # 66、谈一谈一致性哈希算法。
 # 67、paxos是什么？
 # 68、什么是Lease机制？
 # 69、如何理解选主算法？
-# 70、OSI有哪七层模型？TCP/IP是哪四层模型。
+# 70、
 # 71. 关于如何使用clone方法以及浅克隆/深克隆机制
 
 # string
 
-## 1、String是基本数据类型吗？
-## 2、String是可变的话？
+<details>
+<summary>1. String是基本数据类型吗？</summary>
+
+
+
+</details>
+
+<details>
+<summary>2、String是可变的话？</summary>
+
+
+
+</details>
+
 ## 3、怎么比较两个字符串的值一样，怎么比较两个字符串是否同一对象？
 ## 4、switch中可以使用String吗？
 ## 5、String str = new String("abc");创建了几个对象，为什么？
