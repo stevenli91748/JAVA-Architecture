@@ -41,6 +41,8 @@ VisualVM分析工具|
 [Spring](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring)|[SpringBoot](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot)|[Spring Cloud](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud)|[SpringMVC](https://github.com/stevenli91748/JAVA-Architecture/tree/master/JAVA%20Framework/SpringMVC)|[SpringData](https://github.com/stevenli91748/JAVA-Architecture/tree/master/JAVA%20Framework/SpringData)|[Spring Security](https://github.com/stevenli91748/JAVA-Architecture/tree/master/JAVA%20Framework/Spring%20Security)|[Mybatis](https://github.com/stevenli91748/JAVA-Architecture/tree/master/JAVA%20Framework/Mybatis)|[SSH](https://github.com/stevenli91748/JAVA-Architecture/tree/master/JAVA%20Framework/SSH)|[SSM](https://github.com/stevenli91748/JAVA-Architecture/tree/master/JAVA%20Framework/SSM)|
 ---|---|---|---|---|---|---|------|----|
 
+# 第一阶段
+
 # [JAVA 常用的库](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Library/README.md#bean-mapping)
  
  [Bean Mapping][%Bean Mapping]|[Bytecode Manipulation][%Bytecode Manipulation]|[Caching][%Caching]|[Cluster Management][%Cluster Management]|[Database][%Database]|[Date and Time][%Date and Time]|
@@ -75,7 +77,6 @@ Servlet|JSP|MVC|JSF|JTA|JNDI|表现层设计|业务层设计|数据层设计|RES
 Session|
 ---|
 
-
 # Java 高级
 
 [Java Visual Machine](https://github.com/stevenli91748/JAVA-Architecture/tree/master/Java%20Advanced/JVM)|[Java Multithreading](https://github.com/stevenli91748/JAVA-Architecture/tree/master/Java%20Advanced/Mutilthreading)|[Java Concurrency](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/Concurrency/README.md)|[Java Netty](https://github.com/stevenli91748/JAVA-Architecture/tree/master/Java%20Advanced/Netty)|Java 8 Functional Programming|
@@ -85,18 +86,6 @@ Session|
 ---|---|
 
 # [Java 基础](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md)
-
-
-
-
-
-
-
-# 第一阶段
-
-
-
-
  
 [基本程序设计结构](https://github.com/stevenli91748/JAVA-Architecture/tree/master/Java%20fundamental)|[对象与类][%对象与类]|[继承][%继承]|[接口][%接口]|[Lambda标达式][%Lambda标达式]|[内部类][%内部类]|[异常 断言和日志][%异常 断言和日志]|[泛型][%泛型]|[集合][%集合]|
 ---|---|---|---|---|----|----|---|---|  
