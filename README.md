@@ -2,27 +2,27 @@
 
 # [JAVA系统架构进阶之路](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E8%BF%9B%E9%98%B6%E4%B9%8B%E8%B7%AF.md)
 
-# Java 项目工程化
+# 实践项目
 
-[Maven](https://github.com/stevenli91748/Engineering-special/tree/master/Maven)|[Git](https://github.com/stevenli91748/Engineering-special/tree/master/Git)|[Jenkins](https://github.com/stevenli91748/Engineering-special/tree/master/Jenkins)|[Gradle](https://github.com/stevenli91748/Engineering-special/tree/master/Gradle)|[Sonar](https://github.com/stevenli91748/Engineering-special/tree/master/Sonar)|[java代码规范](https://github.com/stevenli91748/JAVA-Architecture/blob/master/java%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83.md)|Docker镜像技术|Harbor镜像倉库|
----|---|---|---|---|---|---|---|
+[天狗前端 🐶](https://github.com/stevenli91748/JAVA-Architecture/blob/master/project/TDog%20FrontEnd)| [天狗整站 J2EE框架](https://github.com/stevenli91748/JAVA-Architecture/blob/master/project/TDog%20J2EE%20Project) 🐶 |[天狗整站 SSH框架](https://github.com/stevenli91748/JAVA-Architecture/blob/master/project/TDog%20SSH%20Project) 🐶| [天狗整站 SSM 框架](https://github.com/stevenli91748/JAVA-Architecture/blob/master/project/TDog%20SSM%20Project)🐶 | [天狗整站 SpringBoot框架](https://github.com/stevenli91748/JAVA-Architecture/blob/master/project/TDog%20SpringBoot%20Project) 🐶|
+------------ | -------------|----------- |---------- | -----------------|
 
-Rancher容器管理|
----|
+# 第四阶段 Java 项目工程化和部署篇
+
+[Maven](https://github.com/stevenli91748/Engineering-special/tree/master/Maven)|[Git](https://github.com/stevenli91748/Engineering-special/tree/master/Git)|[Jenkins](https://github.com/stevenli91748/Engineering-special/tree/master/Jenkins)|[Gradle](https://github.com/stevenli91748/Engineering-special/tree/master/Gradle)|[Sonar](https://github.com/stevenli91748/Engineering-special/tree/master/Sonar)|[java代码规范](https://github.com/stevenli91748/JAVA-Architecture/blob/master/java%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83.md)|
+---|---|---|---|---|---|
+
+## 项目部署
+
+Docker镜像技术|Harbor镜像倉库|Rancher容器管理|
+---|---|---|
 
 # JAVA 分布式, 性能调优 设计模式, 消息队列和 微服务
 
 [JAVA 分布式](https://github.com/stevenli91748/Distributed-System/blob/master/README.md)|[性能调优](https://github.com/stevenli91748/JAVA-Architecture/tree/master/Performance)|[设计模式](https://github.com/stevenli91748/Design-Patterns)|[消息队列](https://github.com/stevenli91748/Message-Server-System)|[JAVA 微服务](https://github.com/stevenli91748/MicroService)|
 ---|---|---|---|---|
 
-
-# 实践项目
-
-[天狗前端 🐶](https://github.com/stevenli91748/JAVA-Architecture/blob/master/project/TDog%20FrontEnd)| [天狗整站 J2EE框架](https://github.com/stevenli91748/JAVA-Architecture/blob/master/project/TDog%20J2EE%20Project) 🐶 |[天狗整站 SSH框架](https://github.com/stevenli91748/JAVA-Architecture/blob/master/project/TDog%20SSH%20Project) 🐶| [天狗整站 SSM 框架](https://github.com/stevenli91748/JAVA-Architecture/blob/master/project/TDog%20SSM%20Project)🐶 | [天狗整站 SpringBoot框架](https://github.com/stevenli91748/JAVA-Architecture/blob/master/project/TDog%20SpringBoot%20Project) 🐶|
------------- | -------------|----------- |---------- | -----------------|
-
-
-# 工具和组件  
+# 第三阶段  工具和组件篇
 
 [IntellijIDEA](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/IntellijIDEA)|[Redis缓存](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Redis)|[Nginx](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Nginx)|[WebSocket](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/WebSocket)|[Tomcat](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Tomcat)|[QRCode](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/QRCode)|[Search Engineer](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Search%20Engineer)|[Shiro权限管理](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Shiro)|
 ---|---|---|---|---|---|---|---|
@@ -36,14 +36,16 @@ ElasticSearch搜索|ELK日志展示及分析|Swagger接口文档编写及测试�
 VisualVM分析工具|
 ---|
 
-# JAVA服务框架   
+# 第二阶段  服务框架篇
+
+## JAVA服务框架   
 
 [Spring](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring)|[SpringBoot](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot)|[Spring Cloud](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud)|[SpringMVC](https://github.com/stevenli91748/JAVA-Architecture/tree/master/JAVA%20Framework/SpringMVC)|[SpringData](https://github.com/stevenli91748/JAVA-Architecture/tree/master/JAVA%20Framework/SpringData)|[Spring Security](https://github.com/stevenli91748/JAVA-Architecture/tree/master/JAVA%20Framework/Spring%20Security)|[Mybatis](https://github.com/stevenli91748/JAVA-Architecture/tree/master/JAVA%20Framework/Mybatis)|[SSH](https://github.com/stevenli91748/JAVA-Architecture/tree/master/JAVA%20Framework/SSH)|[SSM](https://github.com/stevenli91748/JAVA-Architecture/tree/master/JAVA%20Framework/SSM)|
 ---|---|---|---|---|---|---|------|----|
 
-# 第一阶段
+# 第一阶段 基础篇
 
-# [JAVA 常用的库](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Library/README.md#bean-mapping)
+## [JAVA 常用的库](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Library/README.md#bean-mapping)
  
  [Bean Mapping][%Bean Mapping]|[Bytecode Manipulation][%Bytecode Manipulation]|[Caching][%Caching]|[Cluster Management][%Cluster Management]|[Database][%Database]|[Date and Time][%Date and Time]|
   ---|---|---|---|---|---|
@@ -69,7 +71,7 @@ VisualVM分析工具|
 [Matchers][%Matchers]|[Mocking][%Mocking]|[Test Miscellaneous][%Test Miscellaneous]|[Parameterization][%Parameterization]|[Utility][%Utility]|[Web Crawling][%Web Crawling]|[Web Frameworks][%Web Frameworks]|
 ---|---|---|---|---|---|---|
 
-# Java EE
+## Java EE
 
 Servlet|JSP|MVC|JSF|JTA|JNDI|表现层设计|业务层设计|数据层设计|RESTful API|Cookie|
 ---|---|---|---|---|---|---|----|---|---|---|
@@ -77,7 +79,7 @@ Servlet|JSP|MVC|JSF|JTA|JNDI|表现层设计|业务层设计|数据层设计|RES
 Session|
 ---|
 
-# Java 高级
+## Java 高级
 
 [Java Visual Machine](https://github.com/stevenli91748/JAVA-Architecture/tree/master/Java%20Advanced/JVM)|[Java Multithreading](https://github.com/stevenli91748/JAVA-Architecture/tree/master/Java%20Advanced/Mutilthreading)|[Java Concurrency](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/Concurrency/README.md)|[Java Netty](https://github.com/stevenli91748/JAVA-Architecture/tree/master/Java%20Advanced/Netty)|Java 8 Functional Programming|
 ----|----|-----|---|---|
@@ -85,7 +87,7 @@ Session|
 [JAVA内存模型](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/Memory/README.md)|JPA|
 ---|---|
 
-# [Java 基础](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md)
+## [Java 基础](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md)
  
 [基本程序设计结构](https://github.com/stevenli91748/JAVA-Architecture/tree/master/Java%20fundamental)|[对象与类][%对象与类]|[继承][%继承]|[接口][%接口]|[Lambda标达式][%Lambda标达式]|[内部类][%内部类]|[异常 断言和日志][%异常 断言和日志]|[泛型][%泛型]|[集合][%集合]|
 ---|---|---|---|---|----|----|---|---|  
