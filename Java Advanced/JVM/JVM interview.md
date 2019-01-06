@@ -152,3 +152,24 @@
 
 
 </details>
+
+<details>
+<summary>23、什么是Java虚拟机，为什么要使用？</summary>
+
+
+
+</details>
+
+<details>
+<summary> 24、说说Java虚拟机的生命周期及体系结构。</summary>
+
+
+</details>
+
+<details>
+<summary> 25、说一说Java内存区域。</summary>
+
+
+
+</details>
+
