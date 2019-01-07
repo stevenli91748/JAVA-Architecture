@@ -177,3 +177,4 @@
   *  Java虚拟机规范.Java SE 8版.PDF
   *  Java虚拟机并发编程.PDF
   * [github JVM Information ](https://github.com/deephacks/awesome-jvm)
+  * [JVM基础面试题及原理讲解](http://www.importnew.com/31126.html)
