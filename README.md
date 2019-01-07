@@ -119,6 +119,7 @@ Session|
   * [ELK实时日志分析平台部署搭建详细实现过程](https://blog.csdn.net/tanga842428/article/details/76195850)
   * [最牛Java架构师进阶路线](https://blog.csdn.net/hang1995/article/details/79371268)
   * [Java 后端自学之路](https://blog.csdn.net/JusticeOfHeaven/article/details/79295587)
+  * [GitHub上最受欢迎的5大Java项目](https://blog.csdn.net/Px01Ih8/article/details/80062751)
  
 [%JAVA-8的流库]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#JAVA-8的流库
 [%Java常用类]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#Java常用类
