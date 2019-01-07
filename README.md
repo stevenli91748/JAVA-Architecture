@@ -121,6 +121,7 @@ Session|
   * [Java 后端自学之路](https://blog.csdn.net/JusticeOfHeaven/article/details/79295587)
   * [GitHub上最受欢迎的5大Java项目](https://blog.csdn.net/Px01Ih8/article/details/80062751)
   * [大型互联网架构技术v](https://blog.csdn.net/qq_41790443)
+  * [一个牛人给JAVA初学者的建议](https://blog.csdn.net/yaya_free/article/details/79086603)
  
 [%JAVA-8的流库]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#JAVA-8的流库
 [%Java常用类]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#Java常用类
