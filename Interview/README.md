@@ -26,3 +26,4 @@
  * [常被问到的十个 Java 面试题](http://www.importnew.com/30956.html)
  * [Java面试题全集（上）](http://www.importnew.com/22083.html)
  * [Java面试题全集（下）](http://www.importnew.com/22087.html)
+ * [每周10道Java面试题：String, String Pool, StringBuilder](http://www.importnew.com/31022.html)
