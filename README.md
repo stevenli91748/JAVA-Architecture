@@ -115,6 +115,7 @@ Session|
 
   * [解道](https://www.jdon.com/)
   * java服务端研发知识图谱.pdf
+  * [ELK 实时日志分析平台环境搭建](https://blog.csdn.net/tzs_1041218129/article/details/78907350)
  
 [%JAVA-8的流库]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#JAVA-8的流库
 [%Java常用类]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#Java常用类
