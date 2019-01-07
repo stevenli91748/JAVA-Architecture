@@ -117,6 +117,7 @@ Session|
   * java服务端研发知识图谱.pdf
   * [ELK 实时日志分析平台环境搭建](https://blog.csdn.net/tzs_1041218129/article/details/78907350)
   * [ELK实时日志分析平台部署搭建详细实现过程](https://blog.csdn.net/tanga842428/article/details/76195850)
+  * [最牛Java架构师进阶路线](https://blog.csdn.net/hang1995/article/details/79371268)
  
 [%JAVA-8的流库]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#JAVA-8的流库
 [%Java常用类]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#Java常用类
