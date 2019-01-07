@@ -102,6 +102,7 @@
 # 有用的参考
 
  * [Java动态代理原理分析](http://objcoding.com/2017/08/16/Java-Dynamic-proxy/)
+ * [Java基础知识大全](https://blog.csdn.net/xingkonglfs/article/details/54695622)
 
 
 
