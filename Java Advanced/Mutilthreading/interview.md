@@ -1,33 +1,4 @@
 
-<details>
-<summary>为什么要使用线程池？</summary>
-
-
-</details>
-
-<details>
-<summary>线程池有什么作用？</summary>
-
-
-</details>
-
-<details>
-<summary>说说几种常见的线程池及使用场景。</summary>
-
-
-</details>
-
-<details>
-<summary>线程池都有哪几种工作队列？</summary>
-
-
-</details>
-
-<details>
-<summary>线程池中的几种重要的参数及流程说明</summary>
-
-
-</details>
 
 <details>
 <summary>什么是线程？</summary>
@@ -414,6 +385,37 @@ fork join框架是JDK7中出现的一款高效的工具，Java开发人员可以
 <summary>Java多线程中调用wait() 和 sleep()方法有什么不同？</summary>
 
 Java程序中wait 和 sleep都会造成某种形式的暂停，它们可以满足不同的需要。wait()方法用于线程间通信，如果等待条件为真且其它线程被唤醒时它会释放锁，而sleep()方法仅仅释放CPU资源或者让当前线程停止执行一段时间，但不会释放锁
+
+</details>
+
+
+<details>
+<summary>为什么要使用线程池？</summary>
+
+
+</details>
+
+<details>
+<summary>线程池有什么作用？</summary>
+
+
+</details>
+
+<details>
+<summary>说说几种常见的线程池及使用场景。</summary>
+
+
+</details>
+
+<details>
+<summary>线程池都有哪几种工作队列？</summary>
+
+
+</details>
+
+<details>
+<summary>线程池中的几种重要的参数及流程说明</summary>
+
 
 </details>
 
