@@ -27,3 +27,4 @@
  * [Java面试题全集（上）](http://www.importnew.com/22083.html)
  * [Java面试题全集（下）](http://www.importnew.com/22087.html)
  * [每周10道Java面试题：String, String Pool, StringBuilder](http://www.importnew.com/31022.html)
+ * [Java的21个技术点,你知道吗？](https://blog.csdn.net/javaniuniu/article/details/51914970)
