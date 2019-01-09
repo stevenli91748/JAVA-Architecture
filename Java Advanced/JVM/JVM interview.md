@@ -169,7 +169,67 @@
 <details>
 <summary> 25、说一说Java内存区域。</summary>
 
+</details>
+
+<details>
+ <summary>26. 一个实例变量在对象初始化的过程中会被赋值几次？</summary>
+
+我们知道，JVM在为一个对象分配完内存之后，会给每一个实例变量赋予默认值，这个时候实例变量被第一次赋值，这个赋值过程是没有办法避免的。如果我们在声明实例变量x的同时对其进行了赋值操作，那么这个时候，这个实例变量就被第二次赋值了。如果我们在实例代码块中，又对变量x做了初始化操作，那么这个时候，这个实例变量就被第三次赋值了。如果我们在构造函数中，也对变量x做了初始化操作，那么这个时候，变量x就被第四次赋值。也就是说，在Java的对象初始化过程中，一个实例变量最多可以被初始化4次。
+
+</details>
+
+<details>
+<summary> 27. 类的初始化过程与类的实例化过程的异同？</summary>
+
+类的初始化是指类加载过程中的初始化阶段对类变量按照程序猿的意图进行赋值的过程；而类的实例化是指在类完全加载到内存中后创建对象的过程。
+
+</details>
+
+<details>
+<summary> 28. 假如一个类还未加载到内存中，那么在创建一个该类的实例时，具体过程是怎样的？</summary>
+
+我们知道，要想创建一个类的实例，必须先将该类加载到内存并进行初始化，也就是说，类初始化操作是在类实例化操作之前进行的，但并不意味着：只有类初始化操作结束后才能进行类实例化操作
+
+```java
+
+public class StaticTest {
+    public static void main(String[] args) {
+        staticFunction();
+    }
+
+    static StaticTest st = new StaticTest();
+
+    static {   //静态代码块
+        System.out.println("1");
+    }
+
+    {       // 实例代码块
+        System.out.println("2");
+    }
+
+    StaticTest() {    // 实例构造器
+        System.out.println("3");
+        System.out.println("a=" + a + ",b=" + b);
+    }
+
+    public static void staticFunction() {   // 静态方法
+        System.out.println("4");
+    }
+
+    int a = 110;    // 实例变量
+    static int b = 112;     // 静态变量
+}/* Output: 
+        2
+        3
+        a=110,b=0
+        1
+        4
+ *///:~
+
+```
 
 
 </details>
+
+
 
