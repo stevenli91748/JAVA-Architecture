@@ -392,6 +392,16 @@ for(Integer i : list){
 
 ---
 ---
+
+<details>
+<summary>JAVA中静态块、静态变量加载顺序详解</summary>
+
+* [JAVA中静态块、静态变量加载顺序详解](https://blog.csdn.net/Mrzhoug/article/details/51581994)
+
+</details>
+
+
+
 <details>
 <summary>1、java事件机制包括哪三个部分？分别介绍 </summary>
 
