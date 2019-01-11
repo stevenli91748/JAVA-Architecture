@@ -52,6 +52,7 @@
    [JAVA中静态块、静态变量加载顺序详解](https://blog.csdn.net/Mrzhoug/article/details/51581994)
    [静态代码块，构造代码块，构造函数之间的差别及先后执行顺序](https://blog.csdn.net/u011889786/article/details/53364205)  
    [Java虚拟机类加载机制——案例分析](https://blog.csdn.net/u013256816/article/details/50837863)
+   [java中静态属性，静态方法和静态初始化器](https://blog.csdn.net/bzhxuexi/article/details/17606691)
 
 ## 2. 对象与类
 ## 3. 继承
