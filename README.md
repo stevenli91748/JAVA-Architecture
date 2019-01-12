@@ -59,6 +59,19 @@ VisualVM分析工具|
 
 # 第三阶段   Java Web开发篇
 
+### Servlet和JSP
+
+Servlet|JSP|MVC|JSF|JTA|JNDI|表现层设计|业务层设计|数据层设计|RESTful API|
+---|---|---|---|---|---|---|----|---|---|
+---
+Session|Cookie|
+---|---|
+
+### 网页开发基础
+
+HTML5|CSS3|JavaScript|
+---|---|---|
+
 # 第二阶段   数据库开发篇
 
 # 第一阶段   Java基础篇
@@ -93,13 +106,6 @@ VisualVM分析工具|
 [Matchers][%Matchers]|[Mocking][%Mocking]|[Test Miscellaneous][%Test Miscellaneous]|[Parameterization][%Parameterization]|[Utility][%Utility]|[Web Crawling][%Web Crawling]|[Web Frameworks][%Web Frameworks]|
 ---|---|---|---|---|---|---|
 
-## Java EE
-
-Servlet|JSP|MVC|JSF|JTA|JNDI|表现层设计|业务层设计|数据层设计|RESTful API|Cookie|
----|---|---|---|---|---|---|----|---|---|---|
----
-Session|
----|
 
 ## Java 高级
 
