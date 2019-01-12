@@ -190,3 +190,4 @@
   * [JVM之ParNew和CMS日志分析](http://www.importnew.com/30237.html)
   * [从JVM heap dump里查找没有关闭文件的引用](http://www.importnew.com/29099.html)
   * [使用 JITWatch 查看 JVM 的 JIT 编译代码](http://www.importnew.com/28957.html)
+  * [深入理解JVM之JVM内存区域与内存分配](https://blog.csdn.net/USTC_Zn/article/details/54912367)
