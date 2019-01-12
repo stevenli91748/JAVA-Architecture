@@ -266,6 +266,7 @@ a=110,b=112
  * [Java基础知识大全](https://blog.csdn.net/xingkonglfs/article/details/54695622)
  * [深入理解java反射机制](https://blog.csdn.net/u012585964/article/details/52011138)
  * [JAVA 笔记（四） RTTI - 运行时类型检查](https://blog.csdn.net/ghost_Programmer/article/details/51532064)
+ * [这是转载的 java反射机制与原理，原作者讲解的相对很通俗易懂](https://blog.csdn.net/le_le_name/article/details/52337116)
 
 
 
