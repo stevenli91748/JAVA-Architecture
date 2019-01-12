@@ -123,6 +123,7 @@ Session|
 
 # 有用的参考
 
+  * [百战程序员 1809期Java+架构全套视频课程【北京尚学堂】](https://www.yunpanjingling.com/resources/5bd572604b3f41693f0a2433)
   * [解道](https://www.jdon.com/)
   * java服务端研发知识图谱.pdf
   * [ELK 实时日志分析平台环境搭建](https://blog.csdn.net/tzs_1041218129/article/details/78907350)
