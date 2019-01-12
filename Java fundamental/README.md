@@ -264,6 +264,7 @@ a=110,b=112
 
  * [Java动态代理原理分析](http://objcoding.com/2017/08/16/Java-Dynamic-proxy/)
  * [Java基础知识大全](https://blog.csdn.net/xingkonglfs/article/details/54695622)
+ * [深入理解java反射机制](https://blog.csdn.net/u012585964/article/details/52011138)
 
 
 
