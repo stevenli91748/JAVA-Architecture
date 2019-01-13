@@ -23,8 +23,8 @@ Docker镜像技术|Harbor镜像倉库|Rancher容器管理|
 第三阶段的项目实现|
 ---|
 
-[IntellijIDEA](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/IntellijIDEA)||[Nginx](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Nginx)|[WebSocket](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/WebSocket)|[Tomcat](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Tomcat)|[QRCode](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/QRCode)|[Search Engineer](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Search%20Engineer)|[Shiro权限框架](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Shiro)|
----|---|---|---|---|---|---|---|
+[IntellijIDEA](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/IntellijIDEA)|[Nginx](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Nginx)|[WebSocket](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/WebSocket)|[Tomcat](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Tomcat)|[QRCode](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/QRCode)|[Search Engineer](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Search%20Engineer)|[Shiro权限框架](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Shiro)|
+---|---|---|---|---|---|---|
 
 Junit|ZooKeeper|FastDFS文件存储|[Quartz定时任务](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Quartz)|RabbitMQ消息队列|jFinal|
 ---|---|---|---|---|---|
@@ -57,8 +57,8 @@ ActiveMQ消息中间件|数据库和SQL优化|数据库集群和高并发|
 RBAC权限控制项目|
 ---|
 
-[JAVA 分布式](https://github.com/stevenli91748/Distributed-System/blob/master/README.md)|[性能调优](https://github.com/stevenli91748/JAVA-Architecture/tree/master/Performance)|[消息队列](https://github.com/stevenli91748/Message-Server-System)
----|---|---|
+[JAVA 分布式](https://github.com/stevenli91748/Distributed-System/blob/master/README.md)|[性能调优](https://github.com/stevenli91748/JAVA-Architecture/tree/master/Performance)|[消息队列](https://github.com/stevenli91748/Message-Server-System)|[Nginx](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Nginx)
+---|---|---|---|
 
 Struts2|Hibernate4|[Spring5](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring)|[SpringMVC](https://github.com/stevenli91748/JAVA-Architecture/tree/master/JAVA%20Framework/SpringMVC)|[Spring Security](https://github.com/stevenli91748/JAVA-Architecture/tree/master/JAVA%20Framework/Spring%20Security)|[SSH框架整合](https://github.com/stevenli91748/JAVA-Architecture/tree/master/JAVA%20Framework/SSH)|[SSM框架整合](https://github.com/stevenli91748/JAVA-Architecture/tree/master/JAVA%20Framework/SSM)|
 ---|---|---|---|---|---|---|
@@ -70,8 +70,8 @@ Struts2|Hibernate4|[Spring5](https://github.com/stevenli91748/JAVA-Architecture/
 Servlet|JSP|MVC|JSF|JTA|JNDI|表现层设计|业务层设计|数据层设计|RESTful API|
 ---|---|---|---|---|---|---|----|---|---|
 ---
-Session|Cookie|
----|---|
+Session|Cookie|[Tomcat](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Tomcat)
+---|---|---|
 
 ### 网页开发基础
 
