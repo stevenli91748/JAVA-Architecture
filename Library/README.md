@@ -1231,3 +1231,9 @@ A curated list of awesome Java frameworks, libraries and software.
 - [TheServerSide.com](http://www.theserverside.com)
 - [Vanilla Java](https://vanilla-java.github.io)
 - [Voxxed](https://www.voxxed.com)
+
+
+
+# 有用的参考
+
+* [2018年排名Top 100的Java类库——在分析了277,975份源码之后得出的结论](https://blog.csdn.net/hollis_chuang/article/details/83986952)
