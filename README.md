@@ -155,6 +155,7 @@ SQL语言|MySQL|ORACLE|PowerDesigner|MongoDB|分布式数据库|[Redis缓存](ht
   * [GitHub上最受欢迎的5大Java项目](https://blog.csdn.net/Px01Ih8/article/details/80062751)
   * [大型互联网架构技术v](https://blog.csdn.net/qq_41790443)
   * [一个牛人给JAVA初学者的建议](https://blog.csdn.net/yaya_free/article/details/79086603)
+  * [成神之路系列文章》](http://www.hollischuang.com/archives/1001)
  
 [%JAVA-8的流库]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#JAVA-8的流库
 [%Java常用类]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#Java常用类
