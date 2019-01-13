@@ -424,7 +424,7 @@ A curated list of awesome Java frameworks, libraries and software.
 
 - [Async Http Client](https://github.com/AsyncHttpClient/async-http-client) - Asynchronous HTTP and WebSocket client library.
 - [Feign](https://github.com/Netflix/feign) - HTTP client binder inspired by Retrofit, JAXRS-2.0, and WebSocket.
-- [OkHttp](https://square.github.io/okhttp) - HTTP+SPDY client.
+- [常用  OkHttp](https://square.github.io/okhttp) - HTTP+SPDY client.
 - [Play WS](https://github.com/playframework/play-ws) - Typesafe client with reactive streams and caching.
 - [restQL-core](https://github.com/B2W-BIT/restQL-core) - Microservice query language that fetches information from multiple services.
 - [Retrofit](https://square.github.io/retrofit) - Typesafe REST client.
@@ -514,7 +514,7 @@ A curated list of awesome Java frameworks, libraries and software.
 
 - [Apache Flink](https://flink.apache.org) - Fast, reliable, large-scale data processing engine.
 - [Apache Mahout](https://mahout.apache.org) - Scalable algorithms focused on collaborative filtering, clustering and classification.
-- [Apache Spark](https://spark.apache.org) - Data analytics cluster-computing framework.
+- [常用  Apache Spark](https://spark.apache.org) - Data analytics cluster-computing framework.
 - [DatumBox](http://www.datumbox.com) - Provides several algorithms and pre-trained models for natural language processing.
 - [DeepDive](http://deepdive.stanford.edu) - Creates structured information from unstructured data and integrates it into an existing database.
 - [Deeplearning4j](https://deeplearning4j.org) - Distributed and multi-threaded deep learning library.
@@ -529,11 +529,11 @@ A curated list of awesome Java frameworks, libraries and software.
 *Tools that help send messages between clients to ensure protocol independency.*
 
 - [Aeron](https://github.com/real-logic/Aeron) - Efficient, reliable, unicast and multicast message transport.
-- [Apache ActiveMQ](https://activemq.apache.org) - Message broker that implements JMS and converts synchronous to asynchronous communication.
+- [常用   Apache ActiveMQ](https://activemq.apache.org) - Message broker that implements JMS and converts synchronous to asynchronous communication.
 - [Apache Camel](https://camel.apache.org) - Glues together different transport APIs via Enterprise Integration Patterns.
-- [Apache Kafka](https://kafka.apache.org) - High-throughput distributed messaging system.
+- [常用  Apache Kafka](https://kafka.apache.org) - High-throughput distributed messaging system.
 - [Apache Pulsar](https://pulsar.apache.org) - Distributed pub/sub-messaging system.
-- [Apache RocketMQ](https://rocketmq.apache.org/) - A fast, reliable, and scalable distributed messaging platform.
+- [常用  Apache RocketMQ](https://rocketmq.apache.org/) - A fast, reliable, and scalable distributed messaging platform.
 - [EventBus](https://github.com/greenrobot/EventBus) - Simple publish/subscribe event bus.
 - [Hermes](http://hermes.allegro.tech) - Fast and reliable message broker built on top of Kafka.
 - [JeroMQ](https://github.com/zeromq/jeromq) - Implementation of ZeroMQ.
