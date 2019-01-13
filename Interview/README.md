@@ -1,21 +1,74 @@
 
+# 面试知识点目录
+---
+# 第一阶段 Java基础篇
+
+  * [Java基本知识面试](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/interview.md)
+  * Java8 知识点
+  * [JAVA 虚拟机面试部份](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/JVM%20interview.md)
+  * [多线程面试](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/Mutilthreading/interview.md)
+  * 数据结构和算法
+  * 设计模式
+
+# 第二阶段 数据库开发篇
+  
+  * SQL语法
+  * Oracle
+  * MySQL
+  * MongoDB
+  * Redis
+  * Mybatis
+  * 分布式数据库
+    
+# 第三阶段 Java Web开发篇
+
+## 网页开发基础
+   * HTML5
+   * CSS3
+   * JavaScript
+
+## Servlet和JSP
+  * Servlet
+  * JSP
+  * Tomcat
+  * MVC框架相关
+  * Cookie
+  * Session
+  * Ajax
+  * EL和JSTL标签库
+  * 过滤器
+  * 监听器
+  
+# 第四阶段 高级框架阶段篇
+
+  *  [Spring 面试](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/interview.md)
+
+# 第五阶段 微服务架构篇
+
+  * Spring Boot
+  * Spring Data
+  * Spring Cloud
+
+# 第六阶段 互联网架构篇
+
+  * [高并发面试](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/Concurrency/%E5%B9%B6%E5%8F%91%E9%9D%A2%E8%AF%95.md)
+
+# 第七阶段 分布式亿级高并发电商项目篇
+
+# 第八阶段 工具和组件篇
+
+
+# 第九阶段 Java 项目工程化和部署篇
 
 
 
 
 
-# [Java基本知识面试](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/interview.md)
-# Java8 知识点
-# [JAVA 虚拟机面试部份](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/JVM%20interview.md)
-# [多线程面试](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/Mutilthreading/interview.md)
-# [高并发面试](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/Concurrency/%E5%B9%B6%E5%8F%91%E9%9D%A2%E8%AF%95.md)
-# 网络协议相关
-# 数据库相关
-# MVC框架相关
-# [Java分布式面试](https://github.com/stevenli91748/Distributed-System/tree/master/Interview)
-# [Spring 面试](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/interview.md)
-# Spring Boot
-# Spring Cloud
+
+
+
+
+
 
 
 
