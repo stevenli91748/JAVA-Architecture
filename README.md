@@ -23,11 +23,11 @@ Docker镜像技术|Harbor镜像倉库|Rancher容器管理|
 第三阶段的项目实现|
 ---|
 
-[IntellijIDEA](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/IntellijIDEA)|[Redis缓存](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Redis)|[Nginx](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Nginx)|[WebSocket](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/WebSocket)|[Tomcat](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Tomcat)|[QRCode](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/QRCode)|[Search Engineer](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Search%20Engineer)|[Shiro权限管理](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Shiro)|
+[IntellijIDEA](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/IntellijIDEA)||[Nginx](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Nginx)|[WebSocket](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/WebSocket)|[Tomcat](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Tomcat)|[QRCode](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/QRCode)|[Search Engineer](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Search%20Engineer)|[Shiro权限框架](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Shiro)|
 ---|---|---|---|---|---|---|---|
 
-Junit|MongoDB|ZooKeeper|FastDFS文件存储|[Quartz定时任务](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Quartz)|RabbitMQ消息队列|
----|---|---|---|---|---|
+Junit|ZooKeeper|FastDFS文件存储|[Quartz定时任务](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Quartz)|RabbitMQ消息队列|
+---|---|---|---|---|
 
 ElasticSearch搜索|ELK日志展示及分析|Swagger接口文档编写及测试工具|JMeter测试工具|
 ---|---|---|---|
@@ -74,8 +74,8 @@ HTML5|CSS3|JavaScript|
 
 # 第二阶段   数据库开发篇
 
-SQL语言|MySQL|ORACLE|PowerDesigner|分布式数据库|
----|---|---|---|---|
+SQL语言|MySQL|ORACLE|PowerDesigner|MongoDB|分布式数据库|[Redis缓存](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Redis)|
+---|---|---|---|---|---|---|
 
 
 # 第一阶段   Java基础篇
