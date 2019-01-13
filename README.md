@@ -149,6 +149,7 @@ SQL语言|MySQL|ORACLE|PowerDesigner|MongoDB|分布式数据库|[Redis缓存](ht
   * java服务端研发知识图谱.pdf
   * [ELK 实时日志分析平台环境搭建](https://blog.csdn.net/tzs_1041218129/article/details/78907350)
   * [ELK实时日志分析平台部署搭建详细实现过程](https://blog.csdn.net/tanga842428/article/details/76195850)
+  * [为什么阿里巴巴禁止工程师直接使用日志系统(Log4j、Logback)中的 API](https://www.hollischuang.com/archives/3000)
   * [最牛Java架构师进阶路线](https://blog.csdn.net/hang1995/article/details/79371268)
   * [Java 后端自学之路](https://blog.csdn.net/JusticeOfHeaven/article/details/79295587)
   * [GitHub上最受欢迎的5大Java项目](https://blog.csdn.net/Px01Ih8/article/details/80062751)
