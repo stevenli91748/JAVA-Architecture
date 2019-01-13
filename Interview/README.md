@@ -11,7 +11,8 @@
   * 设计模式
 
 # 第二阶段 数据库开发篇
-  
+
+  * ORM架构
   * SQL语法
   * Oracle
   * MySQL
@@ -38,28 +39,82 @@
   * EL和JSTL标签库
   * 过滤器
   * 监听器
+  * 表现层设计
+  * 业务层设计
+  * 数据层设计
+  * 前后端分离（RESTful API）
   
 # 第四阶段 高级框架阶段篇
 
-  *  [Spring 面试](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/interview.md)
+  *  SOA软件架构
+  *  Struts2
+  *  [Spring5 面试](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/interview.md)
+  *  Spring MVC
+  *  Spring Security
+  *  Hibernate4
+  *  jFinal
+  *  Nginx
+  *  java分布式
+  *  消息队列
 
 # 第五阶段 微服务架构篇
 
+  * 微服务
   * Spring Boot
   * Spring Data
   * Spring Cloud
 
 # 第六阶段 互联网架构篇
-
-  * [高并发面试](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/Concurrency/%E5%B9%B6%E5%8F%91%E9%9D%A2%E8%AF%95.md)
+  
+  * Linux
+  * Java Netty
+  * 系统和虚拟机调优
+  * [高并发编程](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/Concurrency/%E5%B9%B6%E5%8F%91%E9%9D%A2%E8%AF%95.md)
+  * 高级网络编程
+  * 单点登录SSO
+  * Dubbo
+  * Redis
+  * 数据库和SQL优化
+  * 数据库集群和高并发
+  * ActiveMQ消息中间件
 
 # 第七阶段 分布式亿级高并发电商项目篇
 
 # 第八阶段 工具和组件篇
 
+  * IntelijiIDEA
+  * Nginx
+  * Tomcat
+  * Websocket
+  * QRCode
+  * Shiro权限框架
+  * Junit
+  * ZooKeeper
+  * FastDFS文件存储
+  * Quartz定时任务
+  * RabbitMQ消息队列
+  * JFinal
+  * ElasticSearch搜索
+  * ELK日志展示及分析
+  * Swagger接口文档编写及测试工具
+  * JMeter测试工具
+  * VisualVM 虚拟机分析工具
+
 
 # 第九阶段 Java 项目工程化和部署篇
 
+  * Maven
+  * Git
+  * Jenkins
+  * Gradle
+  * Sonar
+  * java代码规范
+  
+## 项目部暑  
+  
+  * Docker镜像技术
+  * Harbor镜像倉库
+  * Rancher容器管理
 
 
 
