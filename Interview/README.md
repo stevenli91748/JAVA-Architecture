@@ -7,8 +7,8 @@
   * Java8 知识点
   * [JAVA 虚拟机面试部份](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/JVM%20interview.md)
   * [多线程面试](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/Mutilthreading/interview.md)
-  * 数据结构和算法
-  * 设计模式
+  * [数据结构和算法](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/tree/master/Interview)
+  * [设计模式](https://github.com/stevenli91748/Design-Patterns/blob/master/Interview.md)
 
 # 第二阶段 数据库开发篇
 
