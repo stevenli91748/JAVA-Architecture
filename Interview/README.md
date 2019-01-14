@@ -129,6 +129,8 @@
 
 
 # 有用的参考
+
+ * Java核心技术及面试指南.pdf
  * [百战程序员V1.2——尚学堂旗下高端培训_ Java1573题](https://www.jianshu.com/p/49ad52bd5405)
  * [java项目经验面试总结](https://blog.csdn.net/H12KJGJ/article/details/78731610) 
  * [Java项目经验](https://blog.csdn.net/d_shadow/article/details/57302486)
