@@ -57,7 +57,7 @@
    
    [java中静态属性，静态方法和静态初始化器](https://blog.csdn.net/bzhxuexi/article/details/17606691)
 
-## 2. 对象与类
+## 2. [对象与类](https://github.com/stevenli91748/JAVA-Architecture/tree/master/Object%20oriented)
 ## 3. 继承
 ## 4. 接口
 ## 5. Lambda标达式
