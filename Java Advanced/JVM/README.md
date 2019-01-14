@@ -192,3 +192,4 @@
   * [使用 JITWatch 查看 JVM 的 JIT 编译代码](http://www.importnew.com/28957.html)
   * [深入理解JVM之JVM内存区域与内存分配](https://blog.csdn.net/USTC_Zn/article/details/54912367)
   * [好好说说Java中的常量池之Class常量池](https://blog.csdn.net/hollis_chuang/article/details/83501326)
+  * [深入理解Java中的逃逸分析](https://blog.csdn.net/hollis_chuang/article/details/80922794)
