@@ -1,4 +1,169 @@
+# 虚拟机知识点目录
+---
+* [虚拟机体系结构](#虚拟机体系结构)
+* [JVM 的垃圾收集机制](#JVM-的垃圾收集机制)
+* [JVM运行时内存](#JVM运行时内存)
+  * [更高效地使用内存](#更高效地使用内存)
+  * [定位和排查内存性能问题](#定位和排查内存性能问题)
+  * [在面试中如何展示虚拟机和内存调优技能](#在面试中如何展示虚拟机和内存调优技能)
+---
+# 虚拟机体系结构
 
+<details>
+<summary>字节码、虚拟机、JRE 和跨平台特性</summary>
+
+</details>
+
+<details>
+<summary>虚拟机体系结构</summary>
+
+</details>
+
+<details>
+<summary>归纳静态数据、基本数据类型和引用等数据的存储位置</summary>
+
+</details>
+
+# JVM 的垃圾收集机制
+
+<details>
+<summary>分代管理与垃圾回收流程</summary>
+
+</details>
+
+<details>
+<summary>不重视内存性能可能会导致的后果</summary>
+
+</details>
+
+<details>
+<summary>判断对象可回收的依据</summary>
+
+</details>
+
+<details>
+<summary>深入了解finalize方法</summary>
+
+</details>
+
+<details>
+<summary>Java 垃圾回收机制</summary>
+
+</details>
+
+<details>
+<summary>通过强、弱、软、虚4 种引用进一步了解垃圾回收机制</summary>
+
+</details>
+
+<details>
+<summary>软引用和弱引用的用法</summary>
+
+</details>
+
+<details>
+<summary>软引用的使用场景</summary>
+
+</details>
+
+<details>
+<summary>通过WeakHashMap 来了解弱引用的使用场景</summary>
+
+</details>
+
+<details>
+<summary>虚引用及其使用场景</summary>
+
+</details>
+
+# JVM运行时内存
+
+### 更高效地使用内存
+
+<details>
+<summary>StoptheWorld 、找溢出错误和内存溢出错误</summary>
+
+</details>
+
+<details>
+<summary>内存泄漏的示例</summary>
+
+</details>
+
+<details>
+<summary>在代码中优化内存性能的具体做法</summary>
+
+</details>
+
+<details>
+<summary>调整运行参数，优化堆内存性能…</summary>
+
+</details>
+
+### 定位和排查内存性能问题
+
+<details>
+<summary>什么情况下该排查内存问题</summary>
+
+</details>
+
+<details>
+<summary>通过 JConsole 监控内存使用量</summary>
+
+</details>
+
+<details>
+<summary>通过GC 日志来观察内存使用情况</summary>
+
+</details>
+
+<details>
+<summary>通过打印内存使用量定位问题点</summary>
+
+</details>
+
+<details>
+<summary>出现OOM 后如何获取和分析Dump 文件</summary>
+
+</details>
+
+<details>
+<summary>出现内存问题该怎样排查</summary>
+
+</details>
+
+### 在面试中如何展示虚拟机和内存调优技能
+
+<details>
+<summary>从虚拟机体系结构引出内存管理的话题</summary>
+
+</details>
+
+<details>
+<summary>如何自然地引出内存话题</summary>
+
+</details>
+
+<details>
+<summary>根据堆区结构，阐述垃圾回收的流程</summary>
+
+</details>
+
+<details>
+<summary>进一步说明如何写出高性能的代码．</summary>
+
+</details>
+
+<details>
+<summary>展示监控、定位和调优方面的综合能力</summary>
+
+</details>
+
+
+
+
+---
+---
 <details>
 <summary>Java虚拟机中，数据类型可以分为哪几类？</summary>
 
@@ -231,8 +396,9 @@ public class StaticTest {
 
 ```
 
-
 </details>
 
+# 有用的参考
 
+  * Java核心技术及面试指南.pdf
 
