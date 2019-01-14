@@ -191,3 +191,4 @@
   * [从JVM heap dump里查找没有关闭文件的引用](http://www.importnew.com/29099.html)
   * [使用 JITWatch 查看 JVM 的 JIT 编译代码](http://www.importnew.com/28957.html)
   * [深入理解JVM之JVM内存区域与内存分配](https://blog.csdn.net/USTC_Zn/article/details/54912367)
+  * [好好说说Java中的常量池之Class常量池](https://blog.csdn.net/hollis_chuang/article/details/83501326)
