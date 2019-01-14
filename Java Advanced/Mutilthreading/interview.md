@@ -504,3 +504,4 @@ Java 中 Executor 和 Executors 的区别
 
 * [JAVA高并发多线程必须懂的50个问题](https://blog.csdn.net/u011163372/article/details/73995897)
 * [Java面试：投行的15个多线程和并发面试题](http://www.importnew.com/29562.html)
+* [Java多线程看这一篇就足够了](https://blog.csdn.net/c10WTiybQ1Ye3/article/details/78212045)
