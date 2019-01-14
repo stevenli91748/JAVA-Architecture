@@ -147,7 +147,7 @@
 </details>
 
 <details>
-<summary>22. 如何理解内存泄漏问题？有哪些情况会导致内存泄露？如何解决？</summary>
+<summary> 如何理解内存泄漏问题？有哪些情况会导致内存泄露？如何解决？</summary>
 
 
 
