@@ -401,4 +401,5 @@ public class StaticTest {
 # 有用的参考
 
   * Java核心技术及面试指南.pdf
+  * 百战程序员Java1573题(1.0版).pdf
 
