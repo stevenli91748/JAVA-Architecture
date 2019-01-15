@@ -15,5 +15,6 @@
   * [再有人问你Java内存模型是什么，就把这篇文章发给他](http://www.hollischuang.com/archives/2550)
   * [内存模型是怎么解决缓存一致性问题的？](https://blog.csdn.net/hollis_chuang/article/details/82991962)
   * [JVM内存结构 VS Java内存模型 VS Java对象模型](https://blog.csdn.net/hollis_chuang/article/details/80839410)
+  * [异常、堆内存溢出、OOM的几种情况](https://blog.csdn.net/sinat_29912455/article/details/51125748)
   
   
