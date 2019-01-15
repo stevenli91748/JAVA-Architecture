@@ -134,6 +134,7 @@
  * [百战程序员V1.2——尚学堂旗下高端培训_ Java1573题](https://www.jianshu.com/p/49ad52bd5405)
  * [java项目经验面试总结](https://blog.csdn.net/H12KJGJ/article/details/78731610) 
  * [如何清晰、高质量的给面试官介绍自己的电商项目](https://blog.csdn.net/qq_38584262/article/details/80707593)
+ * [java电商面试介绍](https://blog.csdn.net/scgyus/article/details/79417558)
  * [Java项目经验](https://blog.csdn.net/d_shadow/article/details/57302486)
  * [从面试官角度告诉大家如何准备项目方面的描述](https://blog.csdn.net/e8196417ping/article/details/80133600)
  * [Java方向如何准备BAT技术面试答案(汇总版)](https://blog.csdn.net/x00xfeng/article/details/71123077)
