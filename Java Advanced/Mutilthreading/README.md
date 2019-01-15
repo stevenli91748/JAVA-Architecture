@@ -1,7 +1,17 @@
 
 # [多线程面试](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/Mutilthreading/interview.md)
 
+# 多线程目录
 
+* 操作系统
+  * 进程和线程
+  * 存储和寻址
+  * 进程间通信
+* 线程的安全  
+* 管理线程  
+* 线程池
+  * 线程池的种类
+  * 管理线程池
 
 
 
