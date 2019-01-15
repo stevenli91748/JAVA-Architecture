@@ -3,7 +3,7 @@
 
 * [1. 基本程序设计结构知识点](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/interview/%E5%9F%BA%E6%9C%AC%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E7%BB%93%E6%9E%84%E7%9F%A5%E8%AF%86%E7%82%B9.md)
   * [静态块、静态变量](#静态块-静态变量)
-* [2. 对象与类知识点](#2-对象与类)
+* [2. 面向对象-对象与类知识点](#2-对象与类)
 * [3. 继承知识点](#3-继承)
   * [继承设计技巧](#继承设计技巧)
 * [4. 接口知识点](#4-接口)
