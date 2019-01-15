@@ -14,7 +14,7 @@
 * [9. 集合知识点](#9-集合)
 * [10. JAVA 8的流库知识点](#10-JAVA-8的流库)
 * [11. Java常用类知识点](#11-Java常用类)
-* [12. 输入与输出知识点](#12-输入与输出)
+* [12. 输入与输出知识点](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/interview/javaIO.md)
 * [13. XML知识点](#13-XML)
 * [14. JAVA网络操作知识点](#14-JAVA网络操作)
 * [15. JAVA数据库知识点](#15-JAVA数据库)
