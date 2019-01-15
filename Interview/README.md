@@ -150,3 +150,4 @@
  * [每周10道Java面试题：String, String Pool, StringBuilder](http://www.importnew.com/31022.html)
  * [Java的21个技术点,你知道吗？](https://blog.csdn.net/javaniuniu/article/details/51914970)
  * [十大面试问题解惑，秒杀一切HR、技术面试](https://blog.csdn.net/QQ282030166/article/details/38388283)
+ * [阿里资深HR和你聊聊技术面试](https://blog.csdn.net/qq_41534566/article/details/79865912)
