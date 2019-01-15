@@ -71,7 +71,7 @@ SOA|Struts2|Hibernate4|[Spring5](https://github.com/stevenli91748/JAVA-Architect
 
 **重点了接servlet， tomcat， session， cookie， RESTFul API**
 
-Servlet|JSP|MVC|JSF|JTA|JNDI|表现层设计|业务层设计|数据层设计|RESTful API|
+[Servlet][%Servlet]|JSP|MVC|JSF|JTA|JNDI|表现层设计|业务层设计|数据层设计|RESTful API|
 ---|---|---|---|---|---|---|----|---|---|
 ---
 Session|Cookie|[Tomcat](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Tomcat)
@@ -258,7 +258,7 @@ ORM架构|
 [%Web Crawling]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Library/README.md#Web-Crawling
 [%Web Frameworks]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Library/README.md#Web-Frameworks
 
-
+[%Servlet]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/Servlet.md
 
 
 
