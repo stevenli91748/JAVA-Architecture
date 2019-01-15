@@ -54,6 +54,8 @@ ActiveMQ消息中间件|数据库和SQL优化|数据库集群和高并发|
 
 # 第四阶段   高级框架阶段篇
 
+**重点了解：SSM 框架**
+
 RBAC权限控制项目|
 ---|
 
@@ -66,6 +68,8 @@ SOA|Struts2|Hibernate4|[Spring5](https://github.com/stevenli91748/JAVA-Architect
 # 第三阶段   Java Web开发篇
 
 ### Servlet和JSP
+
+**重点了接servlet， tomcat， session， cookie， RESTFul API**
 
 Servlet|JSP|MVC|JSF|JTA|JNDI|表现层设计|业务层设计|数据层设计|RESTful API|
 ---|---|---|---|---|---|---|----|---|---|
@@ -129,7 +133,8 @@ ORM架构|
 ---|---|---|
 
 ## [Java 基础](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md)
- 
+
+  
 [基本程序设计结构](https://github.com/stevenli91748/JAVA-Architecture/tree/master/Java%20fundamental/Basic%20Program%20Structure)|[对象与类][%对象与类]|[继承][%继承]|[接口][%接口]|[Lambda标达式][%Lambda标达式]|[内部类][%内部类]|[异常 断言和日志][%异常 断言和日志]|[泛型][%泛型]|[集合][%集合]|
 ---|---|---|---|---|----|----|---|---|  
 ---
