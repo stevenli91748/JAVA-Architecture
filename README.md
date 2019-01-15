@@ -74,7 +74,7 @@ SOA|Struts2|Hibernate4|[Spring5](https://github.com/stevenli91748/JAVA-Architect
 [Servlet][%Servlet]|JSP|MVC|JSF|JTA|JNDI|表现层设计|业务层设计|数据层设计|RESTful API|
 ---|---|---|---|---|---|---|----|---|---|
 ---
-Session|Cookie|[Tomcat](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Tomcat)
+Session|Cookie|[Tomcat](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Tomcat/README.md)
 ---|---|---|
 
 ### 网页开发基础
