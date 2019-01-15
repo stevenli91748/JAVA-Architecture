@@ -152,3 +152,8 @@
  * [十大面试问题解惑，秒杀一切HR、技术面试](https://blog.csdn.net/QQ282030166/article/details/38388283)
  * [阿里资深HR和你聊聊技术面试](https://blog.csdn.net/qq_41534566/article/details/79865912)
  * [Hibernate面试精华知识点---------不看你会后悔](https://blog.csdn.net/Cs_hnu_scw/article/details/78762294)
+ * [2018java后端面试集合篇最值得收藏的(一)](https://blog.csdn.net/qq_37939251/article/details/83578311)
+ * [2018java后端面试看这篇就够了(二)](https://blog.csdn.net/qq_37939251/article/details/83578496)
+ * [2018java后端面试看这篇就够了(三)](https://blog.csdn.net/qq_37939251/article/details/83578626)
+ * [2018java后端面试集合篇最值得收藏的(四)](https://blog.csdn.net/qq_37939251/article/details/83578716)
+ * [JAVA面试题和项目面试核心要点精华总结（想进大公司必看](https://blog.csdn.net/ourpush/article/details/53706524)
