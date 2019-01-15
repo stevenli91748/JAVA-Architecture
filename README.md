@@ -160,6 +160,7 @@ ORM架构|
   * [一个牛人给JAVA初学者的建议](https://blog.csdn.net/yaya_free/article/details/79086603)
   * [成神之路系列文章》](http://www.hollischuang.com/archives/1001)
   * [在真实Java工程项目开发中所用的工具，类库——2018年JVM生态系统报告出炉](https://blog.csdn.net/hollis_chuang/article/details/84134298)
+  * [接口测试用例设计（详细干货）](https://blog.csdn.net/u011001084/article/details/79102967)
  
 [%JAVA-8的流库]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#JAVA-8的流库
 [%Java常用类]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#Java常用类
