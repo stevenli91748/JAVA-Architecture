@@ -134,6 +134,7 @@
  * [百战程序员V1.2——尚学堂旗下高端培训_ Java1573题](https://www.jianshu.com/p/49ad52bd5405)
  * [java项目经验面试总结](https://blog.csdn.net/H12KJGJ/article/details/78731610) 
  * [Java项目经验](https://blog.csdn.net/d_shadow/article/details/57302486)
+ * [从面试官角度告诉大家如何准备项目方面的描述](https://blog.csdn.net/e8196417ping/article/details/80133600)
  * [Java方向如何准备BAT技术面试答案(汇总版)](https://blog.csdn.net/x00xfeng/article/details/71123077)
  * [有一到五年开发经验的JAVA程序员需要掌握的知识与技能](https://blog.csdn.net/gupao123456/article/details/80547447)
  * [2018年java技术面试题整理](https://www.jb51.net/article/134967.htm)
