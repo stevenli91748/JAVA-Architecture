@@ -193,3 +193,4 @@
   * [深入理解JVM之JVM内存区域与内存分配](https://blog.csdn.net/USTC_Zn/article/details/54912367)
   * [好好说说Java中的常量池之Class常量池](https://blog.csdn.net/hollis_chuang/article/details/83501326)
   * [深入理解Java中的逃逸分析](https://blog.csdn.net/hollis_chuang/article/details/80922794)
+  * [异常、堆内存溢出、OOM的几种情况](https://blog.csdn.net/sinat_29912455/article/details/51125748)
