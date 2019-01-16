@@ -157,6 +157,7 @@
  * [Java进阶面试系列之一：哥们，你们的系统架构中为什么要引入消息中间件？](https://juejin.im/post/5c0fbaf8f265da616f6fd0c3)
  * [哥们，那你说说系统架构引入消息中间件有什么缺点？](https://mp.weixin.qq.com/s/DsowfyzYXcD-OyiL1JOFZw)
  * [哥们，消息中间件在你们项目里是如何落地的？](https://mp.weixin.qq.com/s/ZAWPRToPQFcwzHBf47jZ-A)
+ * [高并发场景下，如何保证生产者投递到消息中间件的消息不丢失？](https://mp.weixin.qq.com/s/r2_o5wa6Gn94NY4ViRnjpA)
  * [扎心！线上服务宕机时，如何保证数据100%不丢失？](https://mp.weixin.qq.com/s/HwAc6o8jdIHQTnE3ghXhIA)
  * [一次JVM FullGC的背后，竟隐藏着惊心动魄的线上生产事故！](https://mp.weixin.qq.com/s/5SeGxKtwp6KZhUKn8jXi6A)
  * [10倍请求压力来袭，你的系统会被击垮吗？](https://mp.weixin.qq.com/s/Foy1yBRWUGljOnJb09RVhg)
