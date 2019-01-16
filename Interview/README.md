@@ -152,8 +152,17 @@
  * [2018java后端面试看这篇就够了(二)](https://blog.csdn.net/qq_37939251/article/details/83578496)
  * [2018java后端面试看这篇就够了(三)](https://blog.csdn.net/qq_37939251/article/details/83578626)
  * [2018java后端面试集合篇最值得收藏的(四)](https://blog.csdn.net/qq_37939251/article/details/83578716)
- * [JAVA面试题和项目面试核心要点精华总结（想进大公司必看](https://blog.csdn.net/ourpush/article/details/53706524)
+ 
+### Java架构面试经验
  * [Java进阶面试系列之一：哥们，你们的系统架构中为什么要引入消息中间件？](https://juejin.im/post/5c0fbaf8f265da616f6fd0c3)
+ * [哥们，那你说说系统架构引入消息中间件有什么缺点？](https://mp.weixin.qq.com/s/DsowfyzYXcD-OyiL1JOFZw)
+ * [哥们，消息中间件在你们项目里是如何落地的？](https://mp.weixin.qq.com/s/ZAWPRToPQFcwzHBf47jZ-A)
+ * [扎心！线上服务宕机时，如何保证数据100%不丢失？](https://mp.weixin.qq.com/s/HwAc6o8jdIHQTnE3ghXhIA)
+ * [一次JVM FullGC的背后，竟隐藏着惊心动魄的线上生产事故！](https://mp.weixin.qq.com/s/5SeGxKtwp6KZhUKn8jXi6A)
+ * [10倍请求压力来袭，你的系统会被击垮吗？](https://mp.weixin.qq.com/s/Foy1yBRWUGljOnJb09RVhg)
+ * [消息中间件集群崩溃，如何保证百万生产数据不丢失？](https://mp.weixin.qq.com/s/AEn3j2lVJOHZx9yegwTsvw)
+ * [互联网面试必杀：如何保证消息中间件全链路数据100%不丢失（1）](https://mp.weixin.qq.com/s/uqWIf0MAet_StszuOrZCwQ)
+ * [互联网面试必杀：如何保证消息中间件全链路数据100%不丢失（2）](https://mp.weixin.qq.com/s/9SFrwaCCLnNyuCqP_KQ0zw)
 
 
 ## 项目面试经验
@@ -167,6 +176,7 @@
  * [Java项目经验](https://blog.csdn.net/d_shadow/article/details/57302486)
  * [从面试官角度告诉大家如何准备项目方面的描述](https://blog.csdn.net/e8196417ping/article/details/80133600)
  * [如何在没有实际项目经验的情况下找到工作](https://blog.csdn.net/LeviDing/article/details/70851354)
+ * [JAVA面试题和项目面试核心要点精华总结（想进大公司必看](https://blog.csdn.net/ourpush/article/details/53706524)
  
 ## HR面试经验
  * [十大面试问题解惑，秒杀一切HR、技术面试](https://blog.csdn.net/QQ282030166/article/details/38388283)
