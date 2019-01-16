@@ -132,17 +132,13 @@
 
 # 有用的参考
 
+
+## Java技术面试经验
  * Java核心技术及面试指南.pdf
  * [百战程序员V1.2——尚学堂旗下高端培训_ Java1573题](https://www.jianshu.com/p/49ad52bd5405)
- * [java项目经验面试总结](https://blog.csdn.net/H12KJGJ/article/details/78731610) 
- * [如何清晰、高质量的给面试官介绍自己的电商项目](https://blog.csdn.net/qq_38584262/article/details/80707593)
- * [java电商面试介绍](https://blog.csdn.net/scgyus/article/details/79417558)
- * [Java项目经验](https://blog.csdn.net/d_shadow/article/details/57302486)
- * [从面试官角度告诉大家如何准备项目方面的描述](https://blog.csdn.net/e8196417ping/article/details/80133600)
  * [Java方向如何准备BAT技术面试答案(汇总版)](https://blog.csdn.net/x00xfeng/article/details/71123077)
  * [有一到五年开发经验的JAVA程序员需要掌握的知识与技能](https://blog.csdn.net/gupao123456/article/details/80547447)
  * [2018年java技术面试题整理](https://www.jb51.net/article/134967.htm)
- * [如何在没有实际项目经验的情况下找到工作](https://blog.csdn.net/LeviDing/article/details/70851354)
  * [知名公司的Java面试题](http://www.importnew.com/16791.html)
  * [最近5年133个Java面试问题列表](http://www.importnew.com/17232.html)
  * [Java 面试题：百度前200页都在这里了](http://www.importnew.com/27326.html)
@@ -151,8 +147,6 @@
  * [Java面试题全集（下）](http://www.importnew.com/22087.html)
  * [每周10道Java面试题：String, String Pool, StringBuilder](http://www.importnew.com/31022.html)
  * [Java的21个技术点,你知道吗？](https://blog.csdn.net/javaniuniu/article/details/51914970)
- * [十大面试问题解惑，秒杀一切HR、技术面试](https://blog.csdn.net/QQ282030166/article/details/38388283)
- * [阿里资深HR和你聊聊技术面试](https://blog.csdn.net/qq_41534566/article/details/79865912)
  * [Hibernate面试精华知识点---------不看你会后悔](https://blog.csdn.net/Cs_hnu_scw/article/details/78762294)
  * [2018java后端面试集合篇最值得收藏的(一)](https://blog.csdn.net/qq_37939251/article/details/83578311)
  * [2018java后端面试看这篇就够了(二)](https://blog.csdn.net/qq_37939251/article/details/83578496)
@@ -160,3 +154,22 @@
  * [2018java后端面试集合篇最值得收藏的(四)](https://blog.csdn.net/qq_37939251/article/details/83578716)
  * [JAVA面试题和项目面试核心要点精华总结（想进大公司必看](https://blog.csdn.net/ourpush/article/details/53706524)
  * [Java进阶面试系列之一：哥们，你们的系统架构中为什么要引入消息中间件？](https://juejin.im/post/5c0fbaf8f265da616f6fd0c3)
+
+
+## 项目面试经验
+
+ * [互联网公司的面试官是如何360°无死角考察候选人的？（上篇](https://mp.weixin.qq.com/s/vhP-2Jrd0Ow2wOqImavrIQ)
+ * [互联网公司面试官是如何360°无死角考察候选人的？（下篇）](https://mp.weixin.qq.com/s/_NLRJeM1o_QxtsOxmeSTNA)
+ * [记一位朋友斩获BAT技术专家Offer的项目面试经历--很有参考价值](https://mp.weixin.qq.com/s/vhP-2Jrd0Ow2wOqImavrIQ)
+ * [java项目经验面试总结](https://blog.csdn.net/H12KJGJ/article/details/78731610) 
+ * [如何清晰、高质量的给面试官介绍自己的电商项目](https://blog.csdn.net/qq_38584262/article/details/80707593)
+ * [java电商面试介绍](https://blog.csdn.net/scgyus/article/details/79417558)
+ * [Java项目经验](https://blog.csdn.net/d_shadow/article/details/57302486)
+ * [从面试官角度告诉大家如何准备项目方面的描述](https://blog.csdn.net/e8196417ping/article/details/80133600)
+ * [如何在没有实际项目经验的情况下找到工作](https://blog.csdn.net/LeviDing/article/details/70851354)
+ 
+## HR面试经验
+ * [十大面试问题解惑，秒杀一切HR、技术面试](https://blog.csdn.net/QQ282030166/article/details/38388283)
+ * [阿里资深HR和你聊聊技术面试](https://blog.csdn.net/qq_41534566/article/details/79865912)
+ 
+ 
