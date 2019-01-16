@@ -20,3 +20,4 @@
 * [亿级流量系统架构之如何保证百亿流量下的数据一致性（上）？](https://mp.weixin.qq.com/s/hh-kpRLwKRLLK8fG-5jzTQ)
 * [亿级流量系统架构之如何保证百亿流量下的数据一致性（中）？](https://mp.weixin.qq.com/s/suPMfwaXc4ze_csS2WfzHA)
 * [亿级流量系统架构之如何保证百亿流量下的数据一致性（下）？](https://mp.weixin.qq.com/s/TdGiiBzaOTo1TeY40NpSTw)
+* [【亿级流量系统】数据一致性重构的食用指南](https://mp.weixin.qq.com/s/bZwhgi9MFioSmfPeb9tcsg)
