@@ -23,5 +23,6 @@
 * [大白话聊聊Java并发面试问题之公平锁与非公平锁是啥？](https://mp.weixin.qq.com/s/Os8tT1kBqsq0vteB6KD4hg)
 * [大白话聊聊Java并发面试问题之微服务注册中心的读写锁优化](https://mp.weixin.qq.com/s/9SKmHeMu_1lNVEJPlEcpsA)
 * [Java并发面试系列文章总结](https://mp.weixin.qq.com/s/vTCrilBQfeycbsFKVFQ-cA)
+* [高并发场景下，如何保证生产者投递到消息中间件的消息不丢失？](https://mp.weixin.qq.com/s/r2_o5wa6Gn94NY4ViRnjpA)
 
 
