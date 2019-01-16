@@ -35,7 +35,7 @@ ElasticSearch搜索|ELK日志展示及分析|Swagger接口文档编写及测试�
 VisualVM分析工具|
 ---|
 
-# 第七阶段   分布式亿级高并发电商项目篇
+# [第七阶段   分布式亿级高并发电商项目篇](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Ecommerce%20Project/README.md)
 
 # 第六阶段   互联网架构篇
 
