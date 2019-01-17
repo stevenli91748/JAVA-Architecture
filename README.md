@@ -167,6 +167,7 @@ ORM架构|
   * [在真实Java工程项目开发中所用的工具，类库——2018年JVM生态系统报告出炉](https://blog.csdn.net/hollis_chuang/article/details/84134298)
   * [接口测试用例设计（详细干货）](https://blog.csdn.net/u011001084/article/details/79102967)
   * [石杉的架构笔记](https://juejin.im/user/5be0588ae51d452b0255727d)
+  * [如何设计一个web容器](https://mp.weixin.qq.com/s?__biz=MjM5MzA1Mzc3Nw==&mid=2247483699&idx=1&sn=66d916f204121243c39d8e3c3f0b88f0&chksm=a69dac0d91ea251bdaf7a16f1acf7ad790de164fe6a45be8a18fcb7ebf5a3b079a93cbc6b67f&scene=21#wechat_redirect)
  
 [%JAVA-8的流库]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#JAVA-8的流库
 [%Java常用类]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#Java常用类
