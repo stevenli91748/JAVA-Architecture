@@ -7,6 +7,8 @@
 
 # 有用的参考
 
+* [集群RPC通信该怎么做](https://mp.weixin.qq.com/s?__biz=MjM5MzA1Mzc3Nw==&mid=2247484099&idx=1&sn=1f3e67ea1c031550f73ad2f7fe13c511&chksm=a69daffd91ea26eb5e98131fac8d4b751abb334f51a49659900a8ce290e19244251fe6f234fb&scene=21#wechat_redirect)
+
 石杉的架构笔记
 * [亿级流量系统架构之如何支撑百亿级数据的存储与计算 ](https://mp.weixin.qq.com/s/eqtR9QAMIm3F4QnGut1vrA)
 * [亿级流量系统架构之如何设计高容错分布式计算系统](https://mp.weixin.qq.com/s/Omzkr-9BoL3GjyiWn9Nhdg)
