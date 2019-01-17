@@ -28,7 +28,7 @@
 * [10倍请求压力来袭，你的系统会被击垮吗？](https://juejin.im/post/5c1baab7e51d455e4b55ff72)
 * [大白话聊聊Java并发面试问题之微服务注册中心的读写锁优化](https://juejin.im/post/5c0c8540e51d451dbe4fdd83)
 
-# 2018汇总Java并发核心篇
+#### 2018汇总Java并发核心篇
 [Java如何获取当前线程](https://mp.weixin.qq.com/s?__biz=MjM5MzA1Mzc3Nw==&mid=2247484573&idx=1&sn=6502f30deee7da855ff489e506867fbf&chksm=a69da9a391ea20b50f9e34870b6bf5e01f485a2e5bbc02eb52c0791fbd41a904551ba18f8bd3&scene=21#wechat_redirect)
 
 [从Java到JVM到OS线程睡眠](https://mp.weixin.qq.com/s?__biz=MjM5MzA1Mzc3Nw==&mid=2247484652&idx=1&sn=41833d8efde1ce3511171db8179409c4&chksm=a69da9d291ea20c458496ceddd7d482d3bc79a72f6221daaae671922b6523d91168a84310531&scene=21#wechat_redirect)
