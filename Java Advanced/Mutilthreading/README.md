@@ -30,6 +30,7 @@
 # 有用的参考
 
   * [详解Java面试官最爱问的volatile关键字](https://www.jb51.net/article/133313.htm)
+  * [volatile足以保证数据同步吗](https://mp.weixin.qq.com/s?__biz=MjM5MzA1Mzc3Nw==&mid=2247483960&idx=1&sn=bd1fa1639ac7da0f45667db7cbfb12d8&chksm=a69daf0691ea2610c7c7d85694ed046928de7f7e98ae6d54fa272b235b44c0e953be180cef5a&scene=21#wechat_redirect)
   * [java中volatile不能保证线程安全(实例讲解)](https://www.jb51.net/article/122843.htm)
   * [Java线程之线程同步synchronized和volatile详解](https://www.jb51.net/article/127973.htm)
   * [深入分析java并发编程中volatile的实现原理](https://www.jb51.net/article/128403.htm)
