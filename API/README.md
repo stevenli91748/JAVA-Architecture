@@ -14,6 +14,20 @@
 
 # 有用的参考
 
+[从JDK源码看String(上)](https://mp.weixin.qq.com/s?__biz=MjM5MzA1Mzc3Nw==&mid=2247484623&idx=1&sn=5bc4c40498d62e778ab045438096c67b&chksm=a69da9f191ea20e74d1b747eacce3f04e2b3b5f6265ec1a2bb2a2a7d0f6c38a118569277289f&scene=21#wechat_redirect)
+
+[从JDK源码看String(下)](https://mp.weixin.qq.com/s?__biz=MjM5MzA1Mzc3Nw==&mid=2247484627&idx=1&sn=2afa783ef1626d7f6b7000a5cdce7a8a&chksm=a69da9ed91ea20fbeb030e79a7d556d5dfb80dd234cfc9f44332c0091c349321c79047923295&scene=21#wechat_redirect)
+
+[从JDK源码看StringBuffer](https://mp.weixin.qq.com/s?__biz=MjM5MzA1Mzc3Nw==&mid=2247484508&idx=1&sn=d53dd7af2806a4c2aa50e124b2eb5c37&chksm=a69da96291ea20748569bc795ee8780775af677d0748e840ccfafcbfc8aa5b4fc2683b47ce96&scene=21#wechat_redirect)
+
+[从JDK源码看StringBuilder](https://mp.weixin.qq.com/s?__biz=MjM5MzA1Mzc3Nw==&mid=2247484489&idx=1&sn=d1eb0f0efb4b3999c0e132b16aeb285d&chksm=a69da97791ea2061c0646044009836f8eb2008209af58eb6be1eff0bba20bc2a362ba303a027&scene=21#wechat_redirect)
+
+[从JDK源码看Java域名解析](https://mp.weixin.qq.com/s?__biz=MjM5MzA1Mzc3Nw==&mid=2247484339&idx=1&sn=c7ac4ca4a567e78c6f9b246955a9864e&chksm=a69dae8d91ea279bd0bfd237a23303881c7d3c49a91e4bca1c5d6b809b90d65a5bdab9235bbe&scene=21#wechat_redirect)
+
+
+
+
+
 [从JDK源码角度看Short](https://mp.weixin.qq.com/s?__biz=MjM5MzA1Mzc3Nw==&mid=2247483926&idx=1&sn=f768b06a9979c363f758a43fb92534bb&chksm=a69daf2891ea263e832bca66c0f8ae8bd7350b8b8629306a19fd56bb0bb80fe24c2d696692e7&scene=21#wechat_redirect)
 
 [从JDK源码角度看Integer](https://mp.weixin.qq.com/s?__biz=MjM5MzA1Mzc3Nw==&mid=2247483937&idx=1&sn=f8d891ec753e33cf5b11f531ae3dc857&chksm=a69daf1f91ea260906d99263f9dc2783c29ea521de456a0b98b9ec46a4b62ed9a3535f7c5cb4&scene=21#wechat_redirect)
