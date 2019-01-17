@@ -14,13 +14,13 @@
 
 # 有用的参考
 
-* [从JDK源码角度看Short](https://mp.weixin.qq.com/s?__biz=MjM5MzA1Mzc3Nw==&mid=2247483926&idx=1&sn=f768b06a9979c363f758a43fb92534bb&chksm=a69daf2891ea263e832bca66c0f8ae8bd7350b8b8629306a19fd56bb0bb80fe24c2d696692e7&scene=21#wechat_redirect)
+[从JDK源码角度看Short](https://mp.weixin.qq.com/s?__biz=MjM5MzA1Mzc3Nw==&mid=2247483926&idx=1&sn=f768b06a9979c363f758a43fb92534bb&chksm=a69daf2891ea263e832bca66c0f8ae8bd7350b8b8629306a19fd56bb0bb80fe24c2d696692e7&scene=21#wechat_redirect)
 
-* [从JDK源码角度看Integer](https://mp.weixin.qq.com/s?__biz=MjM5MzA1Mzc3Nw==&mid=2247483937&idx=1&sn=f8d891ec753e33cf5b11f531ae3dc857&chksm=a69daf1f91ea260906d99263f9dc2783c29ea521de456a0b98b9ec46a4b62ed9a3535f7c5cb4&scene=21#wechat_redirect)
+[从JDK源码角度看Integer](https://mp.weixin.qq.com/s?__biz=MjM5MzA1Mzc3Nw==&mid=2247483937&idx=1&sn=f8d891ec753e33cf5b11f531ae3dc857&chksm=a69daf1f91ea260906d99263f9dc2783c29ea521de456a0b98b9ec46a4b62ed9a3535f7c5cb4&scene=21#wechat_redirect)
 
-* [从JDK源码角度看Long](https://mp.weixin.qq.com/s?__biz=MjM5MzA1Mzc3Nw==&mid=2247483967&idx=1&sn=057417264f8ac07dad035bc1d66ac4a8&chksm=a69daf0191ea26177934386dcf21407a70fd6d69e8717b526c8baa3a73e5c3fdda9cfe5c6a71&scene=21#wechat_redirect)
+[从JDK源码角度看Long](https://mp.weixin.qq.com/s?__biz=MjM5MzA1Mzc3Nw==&mid=2247483967&idx=1&sn=057417264f8ac07dad035bc1d66ac4a8&chksm=a69daf0191ea26177934386dcf21407a70fd6d69e8717b526c8baa3a73e5c3fdda9cfe5c6a71&scene=21#wechat_redirect)
 
-* [从JDK源码角度看Long](https://mp.weixin.qq.com/s?__biz=MjM5MzA1Mzc3Nw==&mid=2247483967&idx=1&sn=057417264f8ac07dad035bc1d66ac4a8&chksm=a69daf0191ea26177934386dcf21407a70fd6d69e8717b526c8baa3a73e5c3fdda9cfe5c6a71&scene=21#wechat_redirect)
+[从JDK源码角度看Long](https://mp.weixin.qq.com/s?__biz=MjM5MzA1Mzc3Nw==&mid=2247483967&idx=1&sn=057417264f8ac07dad035bc1d66ac4a8&chksm=a69daf0191ea26177934386dcf21407a70fd6d69e8717b526c8baa3a73e5c3fdda9cfe5c6a71&scene=21#wechat_redirect)
 
 
 
