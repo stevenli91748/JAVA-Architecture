@@ -135,6 +135,7 @@
 
 ## Java技术面试经验
  * Java核心技术及面试指南.pdf
+ * [Java 面试题史上最强整理](https://mp.weixin.qq.com/s/kJpRgfI3zT77XqMeRfmmQQ)
  * [百战程序员V1.2——尚学堂旗下高端培训_ Java1573题](https://www.jianshu.com/p/49ad52bd5405)
  * [Java方向如何准备BAT技术面试答案(汇总版)](https://blog.csdn.net/x00xfeng/article/details/71123077)
  * [有一到五年开发经验的JAVA程序员需要掌握的知识与技能](https://blog.csdn.net/gupao123456/article/details/80547447)
