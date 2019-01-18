@@ -16,3 +16,9 @@
 ## 1.2. 对象
 
 ## 1.3. 接口
+
+
+
+# 有用的参考
+
+* [Java对象引用四个级别（强、软、弱、虚）](https://mp.weixin.qq.com/s/QPEqJemzBaKQ8kJE94peig)
