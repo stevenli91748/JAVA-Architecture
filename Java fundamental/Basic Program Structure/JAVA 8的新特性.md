@@ -88,7 +88,7 @@
 # 有用的参考
 * [JAVA8 十大新特性详解](https://www.jb51.net/article/48304.htm）
 
-https://mp.weixin.qq.com/s/-KbOyp4gXYY4Ok8S-rPa6Q
+* https://mp.weixin.qq.com/s/-KbOyp4gXYY4Ok8S-rPa6Q
 
 
 * [Java 11 正式发布，8 个逆天新特性](https://mp.weixin.qq.com/s/SXEqAmfbmK4NklihukbE-Q)
