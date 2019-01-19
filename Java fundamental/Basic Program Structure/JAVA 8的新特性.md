@@ -97,25 +97,25 @@ https://mp.weixin.qq.com/s/-KbOyp4gXYY4Ok8S-rPa6Q
 * [JDK 11 发布计划来了，已确定 3个 新特性](https://mp.weixin.qq.com/s/otydsSk3oqxxFf01Rka7Sg)
 * [Java 10 实战第 1 篇：局部变量类型推断](https://mp.weixin.qq.com/s/4zUtQPUn5LYw43IRLm0Dwg)
 * [JDK 5 ~ 10 新特性倾情整理](https://mp.weixin.qq.com/s/Q-09zfXxgcOSmjIQ2zv7gQ)
-JDK 10 的 10 个新特性
-JDK 10 最重要的 5 个新特性
-JDK 9 的 9 个新特性
-JDK 9 新特性实战：简化流关闭新姿势
-Java 8 开发的 4 大顶级技巧
-JDK 8 的排序大法
-JDK 8 新特性之 Lambda 表达式
-JDK 8 新特性之函数式接口
-JDK 8 新特性之方法引用
-JDK 8 新特性之接口默认方法与静态方法
-JDK 8 新特性之 Optional
-JDK 8 新特性之重复注解
-JDK 8 新特性之 Stream 流
-JDK 8 新特性之 Stream 流（一）基础体验
-JDK 8 新特性之 Stream 流（二）关键知识点
-JDK 8 新特性之 Stream 流（三）缩减操作
-JDK 8 新特性之 Stream 流（四）并行流
-JDK 8 新特性之 Stream 流（五）映射
-JDK 8 新特性之 Stream 流（六）收集缩
-JDK 8 新特性之 Stream 流（七）流与迭代器
-JDK 8 新特性之扩展篇
-现在该用 Java 12，还是坚持 Java 11？
+* [JDK 10 的 10 个新特性](https://mp.weixin.qq.com/s/-xJ5U7i69KKl-Uc5POzAjg)
+* [JDK 10 最重要的 5 个新特性](https://mp.weixin.qq.com/s/MWWFrL-56aGfkmsLIOWJ6A)
+* [JDK 9 的 9 个新特性](https://mp.weixin.qq.com/s/Dl8Czb1zHph6XFRYpRMM2A)
+* [JDK 9 新特性实战：简化流关闭新姿势](https://mp.weixin.qq.com/s/Ni_JsLMBXGe2_HhVOPxW1w)
+* [Java 8 开发的 4 大顶级技巧](https://mp.weixin.qq.com/s/xPljAG0leo6ofLsfQWCbzg)
+* [JDK 8 的排序大法](https://mp.weixin.qq.com/s/GKq8cgAonv91iqplspxfwg)
+* [JDK 8 新特性之 Lambda 表达式](https://mp.weixin.qq.com/s/C2Pxkx3mPx4MbkdXo6kinQ)
+* [JDK 8 新特性之函数式接口](https://mp.weixin.qq.com/s/nC3f17zZlXC08XNJWA-FBw)
+* [JDK 8 新特性之方法引用](https://mp.weixin.qq.com/s/--PKabEKxwuWuSvl3wwirg)
+* [JDK 8 新特性之接口默认方法与静态方法](https://mp.weixin.qq.com/s/_V6oyDle4PrpzL65x_8K5w)
+* [JDK 8 新特性之 Optional](https://mp.weixin.qq.com/s/uXw4eTZqLfj871FlciPh6Q)
+* [JDK 8 新特性之重复注解](https://mp.weixin.qq.com/s/z3rZrCAj3Byx7qA5X67sOg)
+* [JDK 8 新特性之 Stream 流](https://mp.weixin.qq.com/s/zGj3K35WU4UxvqIDcmCwQQ)
+* [JDK 8 新特性之 Stream 流（一）基础体验](https://mp.weixin.qq.com/s/J69Sgju6XI3Q8JArnJBg6g)
+* [JDK 8 新特性之 Stream 流（二）关键知识点](https://mp.weixin.qq.com/s/CPHc9jEcKohstcplY9_zDw)
+* [JDK 8 新特性之 Stream 流（三）缩减操作](https://mp.weixin.qq.com/s/-xwpeFs0CoCYWSXLJ1pRiQ)
+* [JDK 8 新特性之 Stream 流（四）并行流](https://mp.weixin.qq.com/s/Qdg01y9vTGucSfcglyyHVQ)
+* [JDK 8 新特性之 Stream 流（五）映射](https://mp.weixin.qq.com/s/1ETiwxHpuXifJBjgOieeaA)
+* [JDK 8 新特性之 Stream 流（六）收集缩](https://mp.weixin.qq.com/s/fX_qBZHhDDS-i_J9KEe6KQ)
+* [JDK 8 新特性之 Stream 流（七）流与迭代器](https://mp.weixin.qq.com/s/h1kUcyOIillMP4Qn4QO-Ig)
+* [JDK 8 新特性之扩展篇](https://mp.weixin.qq.com/s/N6svSAP9_pVs5oc4tYxXwA)
+* [现在该用 Java 12，还是坚持 Java 11？](https://mp.weixin.qq.com/s/3fPe5p5mc_nCe5BFQ4dQlQ)
