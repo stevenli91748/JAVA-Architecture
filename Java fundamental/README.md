@@ -13,7 +13,7 @@
 * [异常 断言和日志](#异常-断言和日志)
 * [泛型](#泛型)
 * [集合](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/%E9%9B%86%E5%90%88.md)
-* [JAVA 8的新特性](#JAVA-8的流库)
+* [JAVA 8的新特性](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JAVA%208%E7%9A%84%E6%96%B0%E7%89%B9%E6%80%A7.md)
 * [Java常用类](#Java常用类)
 * [输入与输出](#输入与输出)
 * [XML](#XML)
@@ -65,7 +65,7 @@
 ### 异常 断言和日志
 ### 泛型
 ### 集合
-### JAVA 8的流库
+### [JAVA 8的流库](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JAVA%208%E7%9A%84%E6%96%B0%E7%89%B9%E6%80%A7.md)
 ### Java常用类
 ### 输入与输出
 ### XML
