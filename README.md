@@ -144,7 +144,7 @@ ORM架构|
 [反射][%反射]|[注解][%注解]|[JSON][%JSON]|[正则表达式][%正则表达式]|[文本操作][%文本操作]|[数组][%数组]|[容器][%容器]|[数据结构与算法](https://github.com/stevenli91748/Data-Structure-and-Algorithmic)|[JDK API 8](https://github.com/stevenli91748/JAVA-Architecture/tree/master/API)|[JDBC][%JDBC]|
 ---|---|---|---|---|---|---|---|---|---|
 ---
-[序列化与反序列化][%序列化与反序列化]|[JAVA8 十大新特性详解](https://www.jb51.net/article/48304.htm)|[日期和时间API][%日期和时间API]|[Java常用类][%Java常用类]|手写服务器|手写SORM框架|
+[序列化与反序列化][%序列化与反序列化]|[JAVA8 十大新特性详解][%java8]|[日期和时间API][%日期和时间API]|[Java常用类][%Java常用类]|手写服务器|手写SORM框架|
 ---|---|---|---|---|---|
 ---
 [图形程序设计][%图形程序设计]|[Swing界面组件][%Swing界面组件]|[事件处理][%事件处理]|[高级Swing 界面组件][%高级Swing 界面组件]|[高级AWT][%高级AWT]|[部署JAVA应用程序][%部署JAVA应用程序]|
@@ -259,7 +259,7 @@ ORM架构|
 [%Utility]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Library/README.md#Utility
 [%Web Crawling]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Library/README.md#Web-Crawling
 [%Web Frameworks]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Library/README.md#Web-Frameworks
-
+[%java8]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JAVA%208%E7%9A%84%E6%96%B0%E7%89%B9%E6%80%A7.md
 [%Servlet]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/Servlet.md
 
 
