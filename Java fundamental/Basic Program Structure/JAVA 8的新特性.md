@@ -1,83 +1,86 @@
 
+# 目录
+![Imgur](https://lh3.googleusercontent.com/4wPdQjnamcxPwcmGKLmPeZ8zxEk916vG36bwdx5uk17OWuwTWOGHPJRjs3Lo21rHA5AgyuzWVvLT_5VSIBRpWbqSRpEgJTQH1RrtHsCPv7X1vJ-fEeFq_di0mfQduavoOglhfMivq6WnMjVtMXcwppePI7RTtX6C2J8lBtYldY7FhqwjV5XmI9DNKfmsv4ISQ_DbYu0FhiHn5yMeb4RZYmncBV7t7oNrt2zgKR5xPU3Oo2Gbu0jzzSEG09OyovaSlx_L56iw6nB6yc-5EefuYv3344aqsp061sBtjyWMuHs43fnD1UBiodXKyj84bauQUJLPr2GA5a__VUiRNDivHsONtW47c0M-8QkktOFOKsRX7_r_Y5WdYKA7XQDCY6gs7g4minKHHq8BEcTmuIKqllvlQCRsGEdw87ATEgz9HFEKfJ78-dMcxIQ9m561si7ONovZS_K2UAe4ph965xYyQ8dGWgeic1DQrE073zX1ICNKPbltolzGHG6WU8Q8qTUVnolnGfidq-qki_vv96bdO088Yz_FZKD7sc6BiTlBvyU8MVJUuZivUEjGpWiBaCxoBTc3gkx2dXiBnPSaSiKf5ujfLJXqaoTyNh_iJfzC9VljhgLTvPYcoap8osLktuUzBF07NIeezXOssziofYTCWlw=w540-h783-no)
 
-JDK5新特性
 
-自动装箱与拆箱
-枚举
-静态导入
-可变参数（Varargs）
-内省（introspector）
-泛型（Generic）
-For-Each循环
+# JDK5新特性
 
-JDK6新特性
+* 自动装箱与拆箱
+* 枚举
+* 静态导入
+* 可变参数（Varargs）
+* 内省（introspector）
+* 泛型（Generic）
+* For-Each循环
 
-Desktop类和SystemTray类
-使用JAXB2来实现对象与XML之间的映射
-理解STAX
-使用Compiler API
-轻量级 Http Server API
-插入式注解处理 API
-使用Console开发控制台程序
-对脚本语言的支持
-Common Annotations
-Java GUI界面的显示
-嵌入式数据库Derby
-Web服务元数据
-Jtable的排序和过滤
-更简单更强大的JAX-WS
+# JDK6新特性
 
-JDK7新特性
+* Desktop类和SystemTray类
+* 使用JAXB2来实现对象与XML之间的映射
+* 理解STAX
+* 使用Compiler API
+* 轻量级 Http Server API
+* 插入式注解处理 API
+* 使用Console开发控制台程序
+* 对脚本语言的支持
+* Common Annotations
+* Java GUI界面的显示
+* 嵌入式数据库Derby
+* Web服务元数据
+* Jtable的排序和过滤
+* 更简单更强大的JAX-WS
 
-switch中可以使用字符串了
-泛型实例化类型自动推断
-自定义自动关闭类
-新增一些读取环境信息的工具方法
-Boolean类型反转，空指针安全，参与位运算
-两个char之间的equals
-安全的加减乘除|sd
-对Java集合( Collections）的增强支持
-数值可加下划线
-支持二进制数字
-在try/catch异常扑捉中，一个catch可以写多个异常类型用|隔开
-可以不必要写finally语句来关闭资源，只要你在try()的括号内部定义要使用的资源
+# JDK7新特性
 
-JDK8新特性
+* switch中可以使用字符串了
+* 泛型实例化类型自动推断
+* 自定义自动关闭类
+* 新增一些读取环境信息的工具方法
+* Boolean类型反转，空指针安全，参与位运算
+* 两个char之间的equals
+* 安全的加减乘除|sd
+* 对Java集合( Collections）的增强支持
+* 数值可加下划线
+* 支持二进制数字
+* 在try/catch异常扑捉中，一个catch可以写多个异常类型用|隔开
+* 可以不必要写finally语句来关闭资源，只要你在try()的括号内部定义要使用的资源
 
-接口的默认方法
-Lambda表达式
-函数式接口
-方法与构造函数引用
-扩展了集合类
-新的Date API
-Annotation多重注解
-streams（流）
-parallel streams(并行流)
-Map数据结构改进
+# JDK8新特性
 
-JDK9新特性
+* 接口的默认方法
+* Lambda表达式
+* 函数式接口
+* 方法与构造函数引用
+* 扩展了集合类
+* 新的Date API
+* Annotation多重注解
+* streams（流）
+* parallel streams(并行流)
+* Map数据结构改进
 
-Jigsaw模块化项目
-简化进程API
-轻量级JSON API
-钱和货币的API
-改善锁竞争机制
-代码分段缓存
-智能java编译
-http2.0客户端
-kulla计划
+# JDK9新特性
 
-JDK10新特性
-局部变量的类型推断
-GC改进和内存管理
-线程本地握手
-备用内存设备上的堆分配
-其他Unicode语言 - 标记扩展
-基于Java的实验性JIT编译器
-开源根证书
-根证书颁发认证（CA）
-将JDK生态整合单个存储库
-删除工具javah
+* Jigsaw模块化项目
+* 简化进程API
+* 轻量级JSON API
+* 钱和货币的API
+* 改善锁竞争机制
+* 代码分段缓存
+* 智能java编译
+* http2.0客户端
+* kulla计划
+
+* JDK10新特性
+* 局部变量的类型推断
+* GC改进和内存管理
+* 线程本地握手
+* 备用内存设备上的堆分配
+* 其他Unicode语言 - 标记扩展
+* 基于Java的实验性JIT编译器
+* 开源根证书
+* 根证书颁发认证（CA）
+* 将JDK生态整合单个存储库
+* 删除工具javah
 
 
 
