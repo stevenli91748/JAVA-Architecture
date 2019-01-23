@@ -4,11 +4,20 @@
 # 目录
 
 * [基本程序设计结构](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/README.md)
-  * 数据类型
-    * 基本类型
-    * 引用类型
-  * 变量
-* [面向对象-对象与类](#对象与类)
+  * [java关键字和标识符](#java关键字和标识符)
+  * [数据类型](#数据类型)
+    * [基本类型](#基本类型)
+    * [引用类型](#引用类型)
+  * [常量](#常量)
+  * [变量](#变量)
+  * [操作运算符](#操作运算符)
+  * [流程控制](#流程控制)
+* [Java面向对象](#Java面向对象)
+  * [掌握对象的三大特性](#掌握对象的三大特性)
+  * [java语言的修饰符](#java语言的修饰符)
+  * [类的生命周期](#类的生命周期)
+  * [对象的生命周期](#对象的生命周期)
+  
 * [继承](#继承)
   * [继承设计技巧](#继承设计技巧)
 * [接口](#接口)
@@ -19,6 +28,18 @@
 * [集合](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/%E9%9B%86%E5%90%88.md)
 * [JAVA 8的新特性](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JAVA%208%E7%9A%84%E6%96%B0%E7%89%B9%E6%80%A7.md)
 * [Java常用类](#Java常用类)
+  * [Object类](#Object类)
+  * [String类和StringBuffer StringBuilder类](#String类和StringBuffer StringBuilder类)
+  * [包装类](#包装类)
+  * [Math类](#Math类)
+  * [Random类](#Random类)
+  * [传统的处理日期 时间的类](#传统的处理日期 时间的类)
+  * [新的处理日期 时间的类](#新的处理日期 时间的类)
+  * [BigInteger类](#BigInteger类)
+  * [BigDecimal类](#BigDecimal类)
+  * [用Optional类避免空指针异常](#用Optional类避免空指针异常)
+
+
 * [输入与输出](#输入与输出)
 * [XML](#XML)
 * [JAVA网络操作](#JAVA网络操作)
@@ -57,8 +78,21 @@
 
 ### [基本程序设计结构]()
 
+#### java关键字和标识符
+#### 数据类型
+##### 基本类型
+##### 引用类型
+#### 常量
+#### 变量
+#### 操作运算符
+#### 流程控制
 
-### 对象与类
+### Java面向对象
+#### 掌握对象的三大特性
+#### java语言的修饰符
+#### 类的生命周期
+#### 对象的生命周期
+
 ### 继承
 #### 继承设计技巧
     * 1. 将公共操作和域放在超类
@@ -71,6 +105,17 @@
 ### 集合
 ### [JAVA 8的流库](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JAVA%208%E7%9A%84%E6%96%B0%E7%89%B9%E6%80%A7.md)
 ### Java常用类
+#### Object类
+#### String类和StringBuffer StringBuilder类
+#### 包装类
+#### Math类
+#### Random类
+#### 传统的处理日期 时间的类
+#### 新的处理日期 时间的类
+#### BigInteger类
+#### BigDecimal类
+#### 用Optional类避免空指针异常
+
 ### 输入与输出
 ### XML
 ### JAVA网络操作
