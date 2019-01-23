@@ -40,10 +40,31 @@
   * [用Optional类避免空指针异常](#用Optional类避免空指针异常)
 * [输入与输出](#输入与输出)
   * 输入流
+    * ByteArrayInputStream类
+    * FileInputStream类
+    * PipedInputStream类
+    * SequenceInputStream类
   * 过滤输入流
+    * FilterInputStream类
+    * 装饰器设计模式
+    * 过滤输入流的种类
+    * DataInputStream类
+    * BufferedInputStream类
+    * PushbackInputStream类
   * 输出流
+    * ByteArrayOutputStream类
+    * FileOutputStream类
   * 过滤输出流
+    * FilterOutputStream类
+    * DataOutputSrream类
+    * BufferedOutputStream类
+    * PrintStream类
   * Reader 
+    * CharArrayReader类
+    * StringReader类
+    * InputStreamReader类
+    * FileReader类
+    * BufferedReader类
   * Writer
     * CharArrayWriter类
     * OutputStreamWriter类
@@ -54,9 +75,21 @@
     * 重新包装标准输入和输出
     * 标准I/O 重定向
   * 新I/O 类库
-    * 
+    * 缓冲器Buffer概述
+    * 通道Channel类
+    * 字符编码Charset类
+    * 用FileChannel读写文件
+    * 控制缓冲区
+    * 字符编码转换
+    * 缓冲区视图
+    * 文件映射缓冲区 MappedByteBuffer
+    * 文件加锁
   * 随机访问文件类库
     * RandomAccessFile
+  * [序列化与反序列化](#序列化与反序列化)
+  * 自动释放资源
+  * 用File类来查看 创建和删除文件或目录
+  * 用Java。nio.file类库来操作文件系统
 * [XML](#XML)
 * [JAVA网络操作](#JAVA网络操作)
 * [JAVA数据库](#JAVA数据库)
@@ -76,7 +109,7 @@
 * [文本操作](#文本操作)
 * [数组](#数组)
 * [容器](#容器)
-* [序列化与反序列化](#序列化与反序列化)
+
 * [图形程序设计](#图形程序设计)
 * [Swing界面组件](#Swing界面组件)
 * [事件处理](#事件处理)
