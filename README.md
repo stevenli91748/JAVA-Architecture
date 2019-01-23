@@ -84,7 +84,7 @@ HTML5|CSS3|JavaScript|
 
 # 第二阶段   数据库开发篇
 
-SQL语言|MySQL|ORACLE|PowerDesigner|MongoDB|分布式数据库|[Redis缓存](https://github.com/stevenli91748/Distributed-System/blob/master/Types%20of%20system/Redis/README.md)|[Mybatis](https://github.com/stevenli91748/Database/blob/master/Mybatis/README.md)|
+SQL语言|MySQL|ORACLE|PowerDesigner|MongoDB|分布式数据库|[Redis缓存](https://github.com/stevenli91748/Database/blob/master/Redis/README.md)|[Mybatis](https://github.com/stevenli91748/Database/blob/master/Mybatis/README.md)|
 ---|---|---|---|---|---|---|---|
 
 ORM架构|
