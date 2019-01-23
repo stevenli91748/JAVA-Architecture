@@ -4,6 +4,10 @@
 # 目录
 
 * [基本程序设计结构](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/README.md)
+  * 数据类型
+   * 基本类型
+   * 引用类型
+  * 变量
 * [面向对象-对象与类](#对象与类)
 * [继承](#继承)
   * [继承设计技巧](#继承设计技巧)
