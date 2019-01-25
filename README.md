@@ -9,8 +9,8 @@
 
 # 第九阶段   Java 项目工程化和部署篇
 
-[Git](https://github.com/stevenli91748/Engineering-special/tree/master/Git)|[Jenkins](https://github.com/stevenli91748/Engineering-special/tree/master/Jenkins)|[Gradle](https://github.com/stevenli91748/Engineering-special/tree/master/Gradle)|[Sonar](https://github.com/stevenli91748/Engineering-special/tree/master/Sonar)|[java代码规范](https://github.com/stevenli91748/JAVA-Architecture/blob/master/java%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83.md)|
----|---|---|---|---|
+[Jenkins](https://github.com/stevenli91748/Engineering-special/tree/master/Jenkins)|[Gradle](https://github.com/stevenli91748/Engineering-special/tree/master/Gradle)|[Sonar](https://github.com/stevenli91748/Engineering-special/tree/master/Sonar)|[java代码规范](https://github.com/stevenli91748/JAVA-Architecture/blob/master/java%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83.md)|
+---|---|---|---|
 
 ####   项目部署
 
@@ -74,7 +74,7 @@ SOA|Struts2|Hibernate4|[Spring5](https://github.com/stevenli91748/JAVA-Architect
 [Servlet][%Servlet]|[JSP][%JSP]|[MVC][%MVC]|JSF|JTA|JNDI|表现层设计|业务层设计|数据层设计|RESTful API|
 ---|---|---|---|---|---|---|----|---|---|
 ---
-[Session][%Session]|[Cookie][%Cookie]|[Token][%Token]|[Tomcat](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Tomcat/README.md)|[Maven](https://github.com/stevenli91748/Engineering-special/tree/master/Maven)|Git|Github|
+[Session][%Session]|[Cookie][%Cookie]|[Token][%Token]|[Tomcat](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Tomcat/README.md)|[Maven](https://github.com/stevenli91748/Engineering-special/tree/master/Maven)|[Git][%Git]|Github|
 ---|---|---|---|---|---|---|
 
 
@@ -268,6 +268,7 @@ ORM架构|
 [%Cookie]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/Cookie.md
 [%Session]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/Session.md
 [%Token]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/Token.md
+[%Git]:https://github.com/stevenli91748/Engineering-special/tree/master/Git
 
 
 
