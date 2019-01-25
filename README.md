@@ -71,11 +71,11 @@ SOA|Struts2|Hibernate4|[Spring5](https://github.com/stevenli91748/JAVA-Architect
 
 **重点了接servlet， tomcat， session， cookie， RESTFul API**
 
-[Servlet][%Servlet]|JSP|MVC|JSF|JTA|JNDI|表现层设计|业务层设计|数据层设计|RESTful API|
+[Servlet][%Servlet]|[JSP][%JSP]|[MVC][%MVC]|JSF|JTA|JNDI|表现层设计|业务层设计|数据层设计|RESTful API|
 ---|---|---|---|---|---|---|----|---|---|
 ---
-Session|Cookie|[Tomcat](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Tomcat/README.md)
----|---|---|
+[Session][%Session]|[Cookie][%Cookie]|[Token][%Token]|[Tomcat](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Tomcat/README.md)
+---|---|---|---|
 
 ### 网页开发基础
 
@@ -262,6 +262,12 @@ ORM架构|
 [%Web Frameworks]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Library/README.md#Web-Frameworks
 [%java8]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JAVA%208%E7%9A%84%E6%96%B0%E7%89%B9%E6%80%A7.md
 [%Servlet]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/Servlet.md
+[%JSP]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/JSP.md
+[%MVC]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/MVC.md
+[%Cookie]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/Cookie.md
+[%Session]"https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/Session.md
+[%Token]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/Token.md
+
 
 
 
