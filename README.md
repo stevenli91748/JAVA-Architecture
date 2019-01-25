@@ -152,6 +152,7 @@ ORM架构|
 
 # 有用的参考
   * [搞 Java 的年薪 40W 是什么水平？](https://www.zhihu.com/question/31437847/answer/569985603)
+  * [你不可错过的Java学习资源清单](https://mp.weixin.qq.com/s?__biz=MzUyOTk5NDQwOA==&mid=2247484594&amp;idx=1&amp;sn=9fd9a0e2dd61f5973eb81349066f8e99&source=41#wechat_redirect)
   * [百战程序员 1809期Java+架构全套视频课程【北京尚学堂】](https://www.yunpanjingling.com/resources/5bd572604b3f41693f0a2433)
   * [解道](https://www.jdon.com/)
   * java服务端研发知识图谱.pdf
