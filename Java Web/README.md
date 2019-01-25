@@ -3,7 +3,7 @@
 
 * [Servlet](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/Servlet.md)
 * [JSP](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/JSP.md)
-* [Cookie](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/Cookie.md)
+* [Cookie](+b/Cookie.md)
 * [Session](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/Session.md)
 * [Token](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/Token.md)
 * [MVC](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/MVC.md)
