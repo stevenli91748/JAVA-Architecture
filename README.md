@@ -80,8 +80,8 @@ SOA|Struts2|Hibernate4|[Spring5](https://github.com/stevenli91748/JAVA-Architect
 
 ### 网页开发基础
 
-HTML5|CSS3|JavaScript|
----|---|---|
+HTML5|CSS3|JavaScript|jQuery|JavaScript DOM|Ajax
+---|---|---|---|---|---|
 
 # 第二阶段   数据库开发篇
 
