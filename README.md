@@ -67,21 +67,26 @@ SOA|Struts2|Hibernate4|[Spring5](https://github.com/stevenli91748/JAVA-Architect
 
 # [第三阶段   Java Web开发篇](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/README.md)
 
-### Servlet和JSP
-
 **重点了接servlet， tomcat， session， cookie， RESTFul API**
+
+### WEB服务器基础
+
+HTTP|HttpWatch|[Tomcat](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Tomcat/README.md)|
+---|---|---|
+
+### Servlet和JSP
 
 [Servlet][%Servlet]|[JSP][%JSP]|[MVC][%MVC]|JSF|JTA|JNDI|表现层设计|业务层设计|数据层设计|RESTful API|
 ---|---|---|---|---|---|---|----|---|---|
 ---
-[Session][%Session]|[Cookie][%Cookie]|[Token][%Token]|[Tomcat](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Tomcat/README.md)|[Maven](https://github.com/stevenli91748/Engineering-special/tree/master/Maven)|[Git][%Git]|Github|
----|---|---|---|---|---|---|
+[Session][%Session]|[Cookie][%Cookie]|[Token][%Token]|[Maven](https://github.com/stevenli91748/Engineering-special/tree/master/Maven)|[Git][%Git]|Github|
+---|---|---|---|---|---|
 
 
 ### 网页开发基础
 
-HTML5|CSS3|JavaScript|jQuery|JavaScript DOM|Ajax
----|---|---|---|---|---|
+HTML5|CSS3|JavaScript|jQuery|JavaScript DOM|Ajax|EL|
+---|---|---|---|---|---|---|
 
 # 第二阶段   数据库开发篇
 
