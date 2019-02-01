@@ -48,6 +48,13 @@ VisualVM分析工具|
 
 # [第六阶段   互联网架构篇](https://github.com/stevenli91748/JAVA-Architecture/blob/master/internet%20architecture/README.md)
 
+### 大数据
+
+大数据技术概述|Hadoop|Hadoop-HA高可用|Flume|Kafka|HBase|Hive|Sqoop|Oozie|
+---|---|---|---|---|---|---|---|---|
+
+### 互联网架构基础
+
 linux|[Java Netty](https://github.com/stevenli91748/JAVA-Architecture/tree/master/Java%20Advanced/Netty)|高并发编程|系统和虚拟机调优|[高级网络编程][%networkprogramming]|单点登录SSO|Redis|
 ---|---|---|---|---|---|---|
 
