@@ -7,6 +7,9 @@
 [天狗前端 🐶](https://github.com/stevenli91748/JAVA-Architecture/blob/master/project/TDog%20FrontEnd)| [天狗整站 J2EE框架](https://github.com/stevenli91748/JAVA-Architecture/blob/master/project/TDog%20J2EE%20Project) 🐶 |[天狗整站 SSH框架](https://github.com/stevenli91748/JAVA-Architecture/blob/master/project/TDog%20SSH%20Project) 🐶| [天狗整站 SSM 框架](https://github.com/stevenli91748/JAVA-Architecture/blob/master/project/TDog%20SSM%20Project)🐶 | [天狗整站 SpringBoot框架](https://github.com/stevenli91748/JAVA-Architecture/blob/master/project/TDog%20SpringBoot%20Project) 🐶|
 ------------ | -------------|----------- |---------- | -----------------|
 
+爬虫技术项目|高速缓存项目|单点登录项目|页面静态化项目|虚拟化部署|分布式事务|
+---|---|---|---|---|---|
+
 # 第九阶段   Java 项目工程化和部署篇
 
 [Jenkins](https://github.com/stevenli91748/Engineering-special/tree/master/Jenkins)|[Gradle](https://github.com/stevenli91748/Engineering-special/tree/master/Gradle)|[Sonar](https://github.com/stevenli91748/Engineering-special/tree/master/Sonar)|[java代码规范](https://github.com/stevenli91748/JAVA-Architecture/blob/master/java%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83.md)|
