@@ -27,3 +27,4 @@ Spring Boot 并不是用来替代 Spring 的解决方案，而是和 Spring 框�
   * [SpringBoot构建web项目](http://objcoding.com/2017/05/03/SpringBoot/)
   * [SpringBoot自动化配置源码分析](http://objcoding.com/2018/01/30/The-principle-of-Spring-Boot-automation-configuration/)
   * [自定义SpringBoot Starter](http://objcoding.com/2018/02/02/Costom-SpringBoot-Starter/)
+  * [IDEA下从零开始搭建SpringBoot工程](https://blog.csdn.net/u013248535/article/details/55100979)
