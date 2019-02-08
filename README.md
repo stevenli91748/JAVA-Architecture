@@ -94,7 +94,7 @@ HTTP|HttpWatch|[Tomcat](https://github.com/stevenli91748/JAVA-Architecture/blob/
 
 ### Servlet和JSP
 
-[Servlet][%Servlet]|[JSP][%JSP]|[MVC][%MVC]|JSF|JTA|JNDI|表现层设计|业务层设计|数据层设计|RESTful API|
+[Servlet][%Servlet]|[JSP][%JSP]|[MVC][%MVC]|JSF|JTA|JNDI|表现层设计|业务层设计|数据层设计|[RESTful API](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/RESTfulAPI.md)|
 ---|---|---|---|---|---|---|----|---|---|
 ---
 [Session][%Session]|[Cookie][%Cookie]|[Token][%Token]|[Maven](https://github.com/stevenli91748/Engineering-special/tree/master/Maven)|[Git][%Git]|Github|Filter and Listener|国际化|文件上传下载|
