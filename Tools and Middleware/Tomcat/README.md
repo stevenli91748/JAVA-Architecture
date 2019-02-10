@@ -1,7 +1,9 @@
 
 
 
-
+# 已安装Tomcat
+安装目录
+c:\apache-tomcat-9.0.16
 
 
 
