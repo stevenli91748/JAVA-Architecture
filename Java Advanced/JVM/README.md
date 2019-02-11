@@ -197,3 +197,5 @@
   * [JVM的ServerSocket是怎么实现的（上）](https://mp.weixin.qq.com/s?__biz=MjM5MzA1Mzc3Nw==&mid=2247484390&idx=1&sn=718cfa6c0b1634762137f0f02e976ce8&chksm=a69daed891ea27ceee9f4ba8f61e2e689590c7f1648b98b8eea58048c5d70235bab48629ced1&scene=21#wechat_redirect)
 
 * [JVM的ServerSocket是怎么实现的（下）](https://mp.weixin.qq.com/s?__biz=MjM5MzA1Mzc3Nw==&mid=2247484393&idx=1&sn=de4945c7233e950bdfbb62a52826ca92&chksm=a69daed791ea27c1f5d29ab163618a9ca3603f9fd11e4f74946f5683039432dc083832dcd8cd&scene=21#wechat_redirect)
+
+* [JVM知识问答集锦](https://blog.csdn.net/WYpersist/article/details/86547891)
