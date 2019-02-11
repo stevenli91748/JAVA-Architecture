@@ -29,3 +29,6 @@ Spring Boot 并不是用来替代 Spring 的解决方案，而是和 Spring 框�
   * [自定义SpringBoot Starter](http://objcoding.com/2018/02/02/Costom-SpringBoot-Starter/)
   * [IDEA下从零开始搭建SpringBoot工程](https://blog.csdn.net/u013248535/article/details/55100979)
   * [十分钟搞定SpringBoot 和Redis 实战整合](https://blog.csdn.net/WYpersist/article/details/81221100)
+  * [Docker下redis与springboot三部曲之一：极速体验](https://blog.csdn.net/boling_cavalry/article/details/78991422)
+  * [Docker下redis与springboot三部曲之二：安装redis主从和哨兵](https://blog.csdn.net/boling_cavalry/article/details/78995407)
+  * [Docker下redis与springboot三部曲之三：springboot下访问redis哨兵](https://blog.csdn.net/boling_cavalry/article/details/79041129)
