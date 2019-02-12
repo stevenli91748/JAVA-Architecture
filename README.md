@@ -196,6 +196,7 @@ ORM架构|数据库和SQL优化|数据库集群和高并发|
   * [如何设计一个web容器](https://mp.weixin.qq.com/s?__biz=MjM5MzA1Mzc3Nw==&mid=2247483699&idx=1&sn=66d916f204121243c39d8e3c3f0b88f0&chksm=a69dac0d91ea251bdaf7a16f1acf7ad790de164fe6a45be8a18fcb7ebf5a3b079a93cbc6b67f&scene=21#wechat_redirect)
   * [java开发涉及到的各种框架比较，技术选型](https://blog.csdn.net/qq_26925039/article/details/53884529)
   * [Java JSON技术框架选型与实例](https://blog.csdn.net/giveme38/article/details/84046014)
+  * [后台服务程序框架技术选型方案](https://blog.csdn.net/coloriy/article/details/66969756)
  
 [%JAVA-8的流库]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#JAVA-8的流库
 [%Java常用类]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#Java常用类
