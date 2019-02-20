@@ -23,3 +23,4 @@
 * [亿级流量系统架构之如何保证百亿流量下的数据一致性（中）？](https://mp.weixin.qq.com/s/suPMfwaXc4ze_csS2WfzHA)
 * [亿级流量系统架构之如何保证百亿流量下的数据一致性（下）？](https://mp.weixin.qq.com/s/TdGiiBzaOTo1TeY40NpSTw)
 * [【亿级流量系统】数据一致性重构的食用指南](https://mp.weixin.qq.com/s/bZwhgi9MFioSmfPeb9tcsg)
+* [五分钟阅读阿里巴巴架构师如何使用微服务框架搭建电商平台全过程](https://blog.csdn.net/pingdouble/article/details/79527044)
