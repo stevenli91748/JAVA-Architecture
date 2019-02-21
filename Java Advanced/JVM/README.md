@@ -166,7 +166,7 @@
  *   对虚拟机里的堆进行分析
  
 # 参考书籍
- 
+  * [Java虚拟机内存分配机制与启动参数说明](https://blog.csdn.net/chengyun19830206/article/details/53244278)
   *  深入理解Java虚拟机_JVM高级特性与最佳实践.PDF
   *   HotSpot 实战.PDF
   *  揭秘Java虚拟机-JVM设计原理与实现.PDF
