@@ -158,21 +158,37 @@ ORM架构|数据库和SQL优化|数据库集群和高并发|
 
 ## [Java 基础](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md)
 
+### 阶段 1 JAVA基础
+
+### 阶段 2 面向对象
+
+### 阶段 3 JAVA进阶
+
+[异常 断言和日志][%异常 断言和日志]|[反射][%反射]|[注解][%注解]|[对象容器--集合][%容器]|[序列化与反序列化][%序列化与反序列化]|[JAVA8 十大新特性详解][%java8]|
+---|---|---|---|---|---|
+
+
+
   
-[基本程序设计结构](https://github.com/stevenli91748/JAVA-Architecture/tree/master/Java%20fundamental/Basic%20Program%20Structure)|[对象与类][%对象与类]|[继承][%继承]|[接口][%接口]|[Lambda标达式][%Lambda标达式]|[内部类][%内部类]|[异常 断言和日志][%异常 断言和日志]|[泛型][%泛型]|[集合][%集合]|
----|---|---|---|---|----|----|---|---|  
+[基本程序设计结构](https://github.com/stevenli91748/JAVA-Architecture/tree/master/Java%20fundamental/Basic%20Program%20Structure)|[对象与类][%对象与类]|[继承][%继承]|[接口][%接口]|[Lambda标达式][%Lambda标达式]|[内部类][%内部类]|[泛型][%泛型]|[集合][%集合]|
+---|---|---|---|---|----|----|---|  
 ---
 [JAVA 8的流库][%JAVA-8的流库]|[输入与输出][%输入与输出]|[XML][%XML]|[JAVA网络操作][%JAVA网络操作]|[JAVA数据库][%JAVA数据库]|[国际化][%国际化]|[本地方法][%本地方法]|[脚本 编译与注解][%脚本 编译与注解]|
 ---|---|---|---|---|---|---|---|
 ---
-[反射][%反射]|[注解][%注解]|[正则表达式][%正则表达式]|[文本操作][%文本操作]|[数组][%数组]|[容器][%容器]|[数据结构与算法](https://github.com/stevenli91748/Data-Structure-and-Algorithmic)|[JDK API 8](https://github.com/stevenli91748/JAVA-Architecture/tree/master/API)|[JDBC][%JDBC]|
----|---|---|---|---|---|---|---|---|
----
-[序列化与反序列化][%序列化与反序列化]|[JAVA8 十大新特性详解][%java8]|[日期和时间API][%日期和时间API]|[Java常用类][%Java常用类]|手写服务器|手写SORM框架|
+[正则表达式][%正则表达式]|[文本操作][%文本操作]|[数组][%数组]|[数据结构与算法](https://github.com/stevenli91748/Data-Structure-and-Algorithmic)|[JDK API 8](https://github.com/stevenli91748/JAVA-Architecture/tree/master/API)|[JDBC][%JDBC]|
 ---|---|---|---|---|---|
+---
+[日期和时间API][%日期和时间API]|[Java常用类][%Java常用类]|手写服务器|手写SORM框架|
+---|---|---|---|
 ---
 [图形程序设计][%图形程序设计]|[Swing界面组件][%Swing界面组件]|[事件处理][%事件处理]|[高级Swing 界面组件][%高级Swing 界面组件]|[高级AWT][%高级AWT]|[部署JAVA应用程序][%部署JAVA应用程序]|
 ---|---|---|---|---|---|
+
+
+
+
+
 
 # 有用的参考
   * [搭建“双11”大型网站架构必须掌握的 5 个核心知识](https://blog.csdn.net/hang1995/article/details/83757423)
