@@ -22,3 +22,4 @@
 # 有用的参考
 
 * [Java对象引用四个级别（强、软、弱、虚）](https://mp.weixin.qq.com/s/QPEqJemzBaKQ8kJE94peig)
+* [从JVM角度看为什么子类不能重写父类静态方法](https://blog.csdn.net/TyroneRenekton/article/details/68923475)
