@@ -67,5 +67,6 @@ File | Settings | Editor | General | Code Completion Case | Sensitive Completion
   * [IntelliJ IDEA 使用教程(2019图文版) -- 从入门到上瘾](https://www.jianshu.com/p/9c65b7613c30)
   * [SpringBoot 在IDEA中实现热部署(实用版)](https://www.jianshu.com/p/f658fed35786)
   * [IntelliJ IDEA 简体中文专题教程](https://github.com/judasn/IntelliJ-IDEA-Tutorial)
-  * [IntelliJ IDEA使用教程 （总目录篇）](https://blog.csdn.net/weixin_42872270/article/details/81512713)
+  * [IntelliJ IDEA使用教程 1 （总目录篇）](https://blog.csdn.net/weixin_42872270/article/details/81512713)
+  * [IntelliJ IDEA使用教程 2 （总目录篇） ](https://blog.csdn.net/weixin_33400820/article/details/79105890)
   
