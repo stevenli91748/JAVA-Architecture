@@ -26,3 +26,4 @@
 * [父类的静态变量被继承后,子类修改静态变量,为什么父类的也跟着变了?](https://bbs.csdn.net/topics/370216386)
 * [子类是否可以继承父类的静态方法，是否可以重写父类的静态方法呈现多态性？](https://blog.csdn.net/Ghost_tal/article/details/80295730)
 * [子类继承的父类中的static变量会和单独创建的父类的实例中的是static变量是同一个变量吗](https://blog.csdn.net/qq_39632912/article/details/79001659)
+* [当子类继承父类时，构造块，静态块，静态方法的执行顺序](https://blog.csdn.net/uhana/article/details/60869535)
