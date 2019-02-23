@@ -1,6 +1,7 @@
 
+# 关键字
+
 * assert
-* const
 * final
 * finally
 * instanceof
@@ -11,3 +12,8 @@
 * throws
 * transient
 * volatile
+
+# 保留字
+
+* goto
+* const
