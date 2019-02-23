@@ -163,7 +163,7 @@ ORM架构|数据库和SQL优化|数据库集群和高并发|
 [java程序的执行顺序](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/java%E7%A8%8B%E5%BA%8F%E7%9A%84%E6%89%A7%E8%A1%8C%E9%A1%BA%E5%BA%8F.md)|
 ---|
 
-[java关键字和标识符](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/java%E5%85%B3%E9%94%AE%E5%AD%97%E5%92%8C%E6%A0%87%E8%AF%86%E7%AC%A6.md)|java语法基础|Java编码规范|数据类型|常量|变量|运算符|控制语句|[数组][%数组]|
+[java关键字和标识符](https://blog.csdn.net/candy_day/article/details/79942153)|java语法基础|Java编码规范|数据类型|常量|变量|运算符|控制语句|[数组][%数组]|
 ---|---|---|---|---|---|---|---|---|
 
 字符串|java语言中的修饰符|
