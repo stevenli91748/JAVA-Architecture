@@ -3,6 +3,7 @@
 [1.  类与对象](#类与对象)
 * [1.1  类](#11-类)
 * [1.2. 对象](#12-对象)
+  * [java中的instance方法](https://blog.csdn.net/zrds2e/article/details/56958388)
 * [1.3. 接口](#13-接口)
     
     
