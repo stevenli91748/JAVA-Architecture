@@ -8,6 +8,7 @@
 ### new关键字
 * [java new 关键字到底做了什么？](https://blog.csdn.net/u010523770/article/details/68969482)
 * [Java中new和不new的区别](https://blog.csdn.net/xujiangdong1992/article/details/73910088)
+* [new和java反射的区别](https://blog.csdn.net/brucehome/article/details/17098971)
 
 ### final,finally,finalize
 * [java中final,finally,finalize三个关键字的区别](https://blog.csdn.net/NDboy/article/details/45535201)
