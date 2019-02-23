@@ -11,6 +11,7 @@
 * [new和java反射的区别](https://blog.csdn.net/brucehome/article/details/17098971)
 * [Java new关键字和newInstance()方法的区别](https://blog.csdn.net/shipfei_csdn/article/details/81939616)
 * [Class.forName()用法及与new的区别](https://blog.csdn.net/zhangxichao100/article/details/51105205)
+* [java中代理模式以及new和newInatance（）的区别](https://blog.csdn.net/lnjphjh/article/details/48752983)
 
 ### final,finally,finalize
 * [java中final,finally,finalize三个关键字的区别](https://blog.csdn.net/NDboy/article/details/45535201)
