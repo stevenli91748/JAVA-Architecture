@@ -29,3 +29,7 @@
 
 ### native关键字
 * [java中native关键字的详解](https://blog.csdn.net/u013531824/article/details/21012655)
+
+### volatile关键字
+ * [全面理解Java内存模型(JMM)及volatile关键字](https://blog.csdn.net/javazejian/article/details/72772461)
+ * [Java中volatile关键字的最全总结](https://blog.csdn.net/u012723673/article/details/80682208)
