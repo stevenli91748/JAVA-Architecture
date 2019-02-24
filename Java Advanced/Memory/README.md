@@ -22,4 +22,5 @@
   * [全面理解Java内存模型(JMM)及volatile关键字](https://blog.csdn.net/javazejian/article/details/72772461)
   * [深入理解 Java 内存模型](https://blog.csdn.net/weixin_36795183/article/details/79420771)
   * [从Java内存模型理解synchronized、volatile和final关键字](https://blog.csdn.net/fuzhongmin05/article/details/60464835)
+  * [全面理解Java内存模型(JMM)及volatile关键字](https://blog.csdn.net/javazejian/article/details/72772461)
   
