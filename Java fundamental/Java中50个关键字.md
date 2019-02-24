@@ -40,7 +40,7 @@
 * [synchronized](https://blog.csdn.net/mingyundezuoan/article/details/79264644)
 * [synchronized(.class) synchronized(Object ) synchronized(this) 区别](https://blog.csdn.net/u011996917/article/details/80783471)
 * [Java语言中synchronized 修饰在 static方法和 非static方法的区别](https://blog.csdn.net/virgoboy2004/article/details/7585182)
-
+* [Synchronized和volatile 的区别，两者使用的场景](https://blog.csdn.net/yinni11/article/details/81514082)
 
 ### this关键字
 * [Java this关键字详解](https://blog.csdn.net/kuangay/article/details/81535701)
@@ -68,5 +68,6 @@
  * [volatile与synchronized 同步原理基础讲解](https://blog.csdn.net/lxlmycsdnfree/article/details/70256031)
  * [从volatile和synchronized的底层实现原理看Java虚拟机对锁优化所做的努力](https://blog.csdn.net/lxlmycsdnfree/article/details/70256031)
  * [Java中volatile关键字的最全总结](https://blog.csdn.net/u012723673/article/details/80682208)
+ * [Synchronized和volatile 的区别，两者使用的场景](https://blog.csdn.net/yinni11/article/details/81514082)
  
  
