@@ -236,7 +236,7 @@ ORM架构|数据库和SQL优化|数据库集群和高并发|
 [%Lambda标达式]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#Lambda标达式
 [%内部类]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#内部类
 [%异常 断言和日志]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#异常-断言和日志
-[%泛型]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#泛型
+[%泛型]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/%E6%B3%9B%E5%9E%8B.md
 [%集合]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#集合
 [%输入与输出]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#输入与输出
 [%XML]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#XML
