@@ -28,9 +28,17 @@
 * [static关键字的四种用法](https://blog.csdn.net/shuyizhi/article/details/79700054)
 * [细说final关键字和static关键字](https://blog.csdn.net/m15732622413/article/details/53241231)
 * [JAVA 堆栈 堆 方法区 静态区 final static 内存分配 详解](https://blog.csdn.net/peterwin1987/article/details/7571808)
+* [静态方法中new对象](https://blog.csdn.net/weixin_41929877/article/details/80422009)
+* [静态方法中不可直接new内部类实例对象问题](https://blog.csdn.net/aizhihua19900214/article/details/79714235)
 
 ### strictfp关键字
 * [Java语言中关键字strictfp的用途](https://blog.csdn.net/redv/article/details/326444)
+
+### synchronized关键字
+* [synchronized](https://blog.csdn.net/mingyundezuoan/article/details/79264644)
+* [synchronized(.class) synchronized(Object ) synchronized(this) 区别](https://blog.csdn.net/u011996917/article/details/80783471)
+* [Java语言中synchronized 修饰在 static方法和 非static方法的区别](https://blog.csdn.net/virgoboy2004/article/details/7585182)
+
 
 ### this关键字
 * [Java this关键字详解](https://blog.csdn.net/kuangay/article/details/81535701)
