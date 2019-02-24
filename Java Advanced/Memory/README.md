@@ -17,5 +17,7 @@
   * [JVM内存结构 VS Java内存模型 VS Java对象模型](https://blog.csdn.net/hollis_chuang/article/details/80839410)
   * [异常、堆内存溢出、OOM的几种情况](https://blog.csdn.net/sinat_29912455/article/details/51125748)
   * [如何用弱引用实现内存泄漏检测](https://mp.weixin.qq.com/s?__biz=MjM5MzA1Mzc3Nw==&mid=2247483863&idx=1&sn=65d2df0ff4a250f7b5360fe31cb1c78f&chksm=a69dace991ea25ff33b3dc6d0156c2eea3ff1a4cb7935ad796fe72a04adcf1d341f25e1b612f&scene=21#wechat_redirect)
-  
+  * [全面理解Java内存模型(JMM)及Java内存区域](https://blog.csdn.net/qq_32625839/article/details/81510800)
+  * [java中JVM和JMM之间的区别](https://blog.csdn.net/zhaomengszu/article/details/80270696)
+  * [全面理解Java内存模型(JMM)及volatile关键字](https://blog.csdn.net/javazejian/article/details/72772461)
   
