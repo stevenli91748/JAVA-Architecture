@@ -11,6 +11,7 @@
 ### enum关键字
 * [枚举enum与多例设计](https://blog.csdn.net/qq_36582604/article/details/81408919)
 * [Java 枚举(enum) 详解7种常见的用法](https://blog.csdn.net/qq_27093465/article/details/52180865)
+* [java反射获取枚举值](https://blog.csdn.net/Bronze5/article/details/80214011)
 
 ### strictfp关键字
 * [Java语言中关键字strictfp的用途](https://blog.csdn.net/redv/article/details/326444)
