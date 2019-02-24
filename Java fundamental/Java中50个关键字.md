@@ -13,10 +13,20 @@
 * [Java 枚举(enum) 详解7种常见的用法](https://blog.csdn.net/qq_27093465/article/details/52180865)
 * [java反射获取枚举值](https://blog.csdn.net/Bronze5/article/details/80214011)
 
+### final,finally,finalize
+* [java中final,finally,finalize三个关键字的区别](https://blog.csdn.net/NDboy/article/details/45535201)
+* [细说final关键字和static关键字](https://blog.csdn.net/m15732622413/article/details/53241231)
+* [JAVA 堆栈 堆 方法区 静态区 final static 内存分配 详解](https://blog.csdn.net/peterwin1987/article/details/7571808)
+
+
 ### instanceof关键字
 * [Java instanceof用法详解](https://blog.csdn.net/kuangay/article/details/81563992)
 
-
+### static关键字
+* [Java static关键字详解](https://blog.csdn.net/kuangay/article/details/81485324)
+* [static关键字的四种用法](https://blog.csdn.net/shuyizhi/article/details/79700054)
+* [细说final关键字和static关键字](https://blog.csdn.net/m15732622413/article/details/53241231)
+* [JAVA 堆栈 堆 方法区 静态区 final static 内存分配 详解](https://blog.csdn.net/peterwin1987/article/details/7571808)
 
 ### strictfp关键字
 * [Java语言中关键字strictfp的用途](https://blog.csdn.net/redv/article/details/326444)
@@ -33,8 +43,6 @@
 * [Class.forName()用法及与new的区别](https://blog.csdn.net/zhangxichao100/article/details/51105205)
 * [java中代理模式以及new和newInatance（）的区别](https://blog.csdn.net/lnjphjh/article/details/48752983)
 
-### final,finally,finalize
-* [java中final,finally,finalize三个关键字的区别](https://blog.csdn.net/NDboy/article/details/45535201)
 
 ### native关键字
 * [java中native关键字的详解](https://blog.csdn.net/u013531824/article/details/21012655)
