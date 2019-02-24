@@ -18,6 +18,7 @@
 * [细说final关键字和static关键字](https://blog.csdn.net/m15732622413/article/details/53241231)
 * [JAVA 堆栈 堆 方法区 静态区 final static 内存分配 详解](https://blog.csdn.net/peterwin1987/article/details/7571808)
 * [final、static和final static之间的差别](https://blog.csdn.net/tracyjack123/article/details/81630997)
+* [从Java内存模型理解synchronized、volatile和final关键字](https://blog.csdn.net/fuzhongmin05/article/details/60464835)
 
 
 ### instanceof关键字
