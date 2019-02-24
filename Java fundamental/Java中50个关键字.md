@@ -19,6 +19,7 @@
 * [JAVA 堆栈 堆 方法区 静态区 final static 内存分配 详解](https://blog.csdn.net/peterwin1987/article/details/7571808)
 * [final、static和final static之间的差别](https://blog.csdn.net/tracyjack123/article/details/81630997)
 * [从Java内存模型理解synchronized、volatile和final关键字](https://blog.csdn.net/fuzhongmin05/article/details/60464835)
+* [final关键词在多线程环境中的使用](https://blog.csdn.net/xiaoxiaoxuanao/article/details/52573859)
 
 
 ### instanceof关键字
@@ -66,5 +67,6 @@
  * [绝对深度解析volatile关键字的实现原理（大部分内容整理于其他博客](https://blog.csdn.net/yanshuanche3765/article/details/78405872)
  * [volatile与synchronized 同步原理基础讲解](https://blog.csdn.net/lxlmycsdnfree/article/details/70256031)
  * [从volatile和synchronized的底层实现原理看Java虚拟机对锁优化所做的努力](https://blog.csdn.net/lxlmycsdnfree/article/details/70256031)
+ * [Java中volatile关键字的最全总结](https://blog.csdn.net/u012723673/article/details/80682208)
  
  
