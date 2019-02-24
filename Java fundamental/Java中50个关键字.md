@@ -43,6 +43,9 @@
 ### this关键字
 * [Java this关键字详解](https://blog.csdn.net/kuangay/article/details/81535701)
 
+### transient关键字
+* [transient关键字有何作用](https://blog.csdn.net/duyiwuerluozhixiang/article/details/86633179)
+* [简述serializable和transient关键字作用](https://blog.csdn.net/java__project/article/details/54960525)
 
 ### new关键字
 * [java new 关键字到底做了什么？](https://blog.csdn.net/u010523770/article/details/68969482)
