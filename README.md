@@ -231,7 +231,7 @@ ORM架构|数据库和SQL优化|数据库集群和高并发|
 [%JAVA-8的流库]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#JAVA-8的流库
 [%Java常用类]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#Java常用类
 [%对象与类]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#对象与类
-[%继承]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#继承
+[%继承]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Object%20oriented/%E7%BB%A7%E6%89%BF.md
 [%接口]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#接口
 [%Lambda标达式]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#Lambda标达式
 [%内部类]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#内部类
