@@ -166,7 +166,7 @@ ORM架构|数据库和SQL优化|数据库集群和高并发|
 [java关键字和标识符](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Java%E4%B8%AD50%E4%B8%AA%E5%85%B3%E9%94%AE%E5%AD%97.md)|java语法基础|Java编码规范|数据类型|常量|变量|运算符|控制语句|[数组][%数组]|
 ---|---|---|---|---|---|---|---|---|
 
-字符串|[java语言中的修饰符](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/java%E8%AF%AD%E8%A8%80%E4%B8%AD%E7%9A%84%E4%BF%AE%E9%A5%B0%E7%AC%A6.md)|
+[字符串](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/%E5%AD%97%E7%AC%A6%E4%B8%B2.md)|[java语言中的修饰符](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/java%E8%AF%AD%E8%A8%80%E4%B8%AD%E7%9A%84%E4%BF%AE%E9%A5%B0%E7%AC%A6.md)|
 ---|---|
 
 
