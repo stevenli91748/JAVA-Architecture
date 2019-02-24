@@ -20,4 +20,5 @@
   * [全面理解Java内存模型(JMM)及Java内存区域](https://blog.csdn.net/qq_32625839/article/details/81510800)
   * [java中JVM和JMM之间的区别](https://blog.csdn.net/zhaomengszu/article/details/80270696)
   * [全面理解Java内存模型(JMM)及volatile关键字](https://blog.csdn.net/javazejian/article/details/72772461)
+  * [深入理解 Java 内存模型](https://blog.csdn.net/weixin_36795183/article/details/79420771)
   
