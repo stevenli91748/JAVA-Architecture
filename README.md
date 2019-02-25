@@ -163,7 +163,7 @@ ORM架构|数据库和SQL优化|数据库集群和高并发|
 [java程序的执行顺序](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/java%E7%A8%8B%E5%BA%8F%E7%9A%84%E6%89%A7%E8%A1%8C%E9%A1%BA%E5%BA%8F.md)|
 ---|
 
-[java关键字和标识符](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Java%E4%B8%AD50%E4%B8%AA%E5%85%B3%E9%94%AE%E5%AD%97.md)|java语法基础|Java编码规范|数据类型|常量|变量|运算符|控制语句|[数组][%数组]|
+[java关键字和标识符](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Java%E4%B8%AD50%E4%B8%AA%E5%85%B3%E9%94%AE%E5%AD%97.md)|java语法基础|Java编码规范|[数据类型][%数据类型]|常量|变量|运算符|控制语句|[数组][%数组]|
 ---|---|---|---|---|---|---|---|---|
 
 [字符串](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/%E5%AD%97%E7%AC%A6%E4%B8%B2.md)|[java语言中的修饰符](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/java%E8%AF%AD%E8%A8%80%E4%B8%AD%E7%9A%84%E4%BF%AE%E9%A5%B0%E7%AC%A6.md)|
@@ -236,6 +236,7 @@ ORM架构|数据库和SQL优化|数据库集群和高并发|
 [%Lambda标达式]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#Lambda标达式
 [%内部类]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/%E5%86%85%E9%83%A8%E7%B1%BB.md
 [%异常 断言和日志]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#异常-断言和日志
+[%数据类型]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md
 [%泛型]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/%E6%B3%9B%E5%9E%8B.md
 [%集合]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#集合
 [%输入与输出]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#输入与输出
