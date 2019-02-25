@@ -70,3 +70,4 @@ File | Settings | Editor | General | Code Completion Case | Sensitive Completion
   * [IntelliJ IDEA使用教程 1 （总目录篇）](https://blog.csdn.net/weixin_42872270/article/details/81512713)
   * [IntelliJ IDEA使用教程 2 （总目录篇） ](https://blog.csdn.net/weixin_33400820/article/details/79105890)
   * [五分钟阅读阿里巴巴架构师如何在IntelliJ IDEA上使用微服务框架搭建电商平台全过程](https://blog.csdn.net/pingdouble/article/details/79527044)
+  * [IDEA上面搭建一个SpringBoot的web-mvc项目](https://blog.csdn.net/linzhiqiang0316/article/details/52589789)
