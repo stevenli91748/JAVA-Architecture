@@ -154,6 +154,7 @@
  * [2018java后端面试看这篇就够了(二)](https://blog.csdn.net/qq_37939251/article/details/83578496)
  * [2018java后端面试看这篇就够了(三)](https://blog.csdn.net/qq_37939251/article/details/83578626)
  * [2018java后端面试集合篇最值得收藏的(四)](https://blog.csdn.net/qq_37939251/article/details/83578716)
+ * [史上最全Java面试题（带全部答案）](https://blog.csdn.net/linzhiqiang0316/article/details/80473906#comments)
  
 ### Java架构面试经验
  * [Java进阶面试系列之一：哥们，你们的系统架构中为什么要引入消息中间件？](https://juejin.im/post/5c0fbaf8f265da616f6fd0c3)
