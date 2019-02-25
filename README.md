@@ -23,7 +23,7 @@
 
 ####   项目部署
 
-Docker镜像技术|Harbor镜像倉库|Rancher容器管理|
+[Docker镜像技术]|Harbor镜像倉库|Rancher容器管理|
 ---|---|---|
 
 # 第八阶段   工具和组件篇
