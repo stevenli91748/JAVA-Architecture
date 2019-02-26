@@ -72,4 +72,4 @@ File | Settings | Editor | General | Code Completion Case | Sensitive Completion
   * [五分钟阅读阿里巴巴架构师如何在IntelliJ IDEA上使用微服务框架搭建电商平台全过程](https://blog.csdn.net/pingdouble/article/details/79527044)
   * [IDEA上面搭建一个SpringBoot的web-mvc项目](https://blog.csdn.net/linzhiqiang0316/article/details/52589789)
   * [IDEA中创建Maven聚合项目（best）](https://blog.csdn.net/CarryBest/article/details/84339784)
-  * [IntelliJ IDEA中手工创建Web聚合项目(Maven多模块项目)](https://blog.csdn.net/u012702547/article/details/77431765)
+  * [IntelliJ IDEA中手工创建Web聚合项目(Maven多模块项目) 不用模板创建](https://blog.csdn.net/u012702547/article/details/77431765)
