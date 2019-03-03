@@ -22,6 +22,8 @@ Spring Boot 并不是用来替代 Spring 的解决方案，而是和 Spring 框�
 
 # 有用的参考
 
+
+  * [Spring Boot基础教程--优先](http://blog.didispace.com/Spring-Boot基础教程/)
   * [SpringBoot布道系列](https://www.jianshu.com/p/964370d9374e)
   * [Spring Boot 从入门到上瘾](https://www.jianshu.com/c/fc788f631211)
   * [SpringBoot构建web项目](http://objcoding.com/2017/05/03/SpringBoot/)
