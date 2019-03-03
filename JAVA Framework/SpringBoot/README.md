@@ -2,7 +2,7 @@
 # 目录
 
  * [Spring Boot概述](#Spring-Boot概述)
- * [三种方法建立Spring Boot环境](#三种方法建立Spring Boot环境)
+ * [三种方法建立Spring Boot环境](#三种方法建立Spring-Boot环境)
  
 
 ### Spring Boot概述
