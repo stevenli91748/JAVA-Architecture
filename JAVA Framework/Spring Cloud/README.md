@@ -6,6 +6,7 @@
 
 # 有用的参考
 * [Spring Cloud 从入门到精通](http://blog.didispace.com/spring-cloud-learning/) 
+* [拜托！面试请不要再问我Spring Cloud底层原理--石杉的架构笔记](https://juejin.im/post/5be13b83f265da6116393fc7)
 * [Spring Cloud 中文官网](https://springcloud.cc/)
 * [SpringCloud微服务架构之服务注册与发现](http://objcoding.com/2017/05/07/SpringCloud%281%29/)
 * [SpringCloud微服务架构之服务消费者](http://objcoding.com/2017/05/10/SpringCloud%282%29/)
