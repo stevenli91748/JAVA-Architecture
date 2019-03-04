@@ -11,7 +11,7 @@
   * java内存模型
   * [JAVA 虚拟机面试部份](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/JVM%20interview.md)
   * [多线程面试](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/Mutilthreading/interview.md)
-  * [Java并发知识点]()
+  * Java并发知识点
   * [数据结构和算法](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/tree/master/Interview)
   * [设计模式](https://github.com/stevenli91748/Design-Patterns/blob/master/Interview.md)
 
@@ -23,6 +23,7 @@
   * MySQL
   * MongoDB
   * Redis
+  * Hibernate4
   * Mybatis
   * 分布式数据库
     
@@ -56,8 +57,6 @@
   *  [Spring5 面试](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/interview.md)
   *  Spring MVC
   *  Spring Security
-  *  Hibernate4
-  *  jFinal
   *  Nginx
   *  java分布式
   *  消息队列
@@ -79,7 +78,6 @@
   * 高级网络编程
   * 单点登录SSO
   * Dubbo
-  * Redis
   * 数据库和SQL优化
   * 数据库集群和高并发
   * ActiveMQ消息中间件
@@ -96,6 +94,7 @@
   * Shiro权限框架
   * Junit
   * ZooKeeper
+  * Kafka
   * FastDFS文件存储
   * Quartz定时任务
   * RabbitMQ消息队列
