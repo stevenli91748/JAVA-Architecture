@@ -20,9 +20,9 @@
   * ORM架构
   * SQL语法
   * Oracle
-  * MySQL
+  * [MySQL](https://github.com/stevenli91748/Database/blob/master/MySQL/Interview/README.md)
   * MongoDB
-  * Redis
+  * [Redis](https://github.com/stevenli91748/Database/blob/master/Redis/Interview/README.md)
   * [Hibernate4](https://github.com/stevenli91748/Database/blob/master/Hibernate/Interview/README.md)
   * [Mybatis](https://github.com/stevenli91748/Database/blob/master/Mybatis/Interview/README.md)
   * 分布式数据库
@@ -92,11 +92,11 @@
   * QRCode
   * Shiro权限框架
   * Junit
-  * ZooKeeper
-  * Kafka
+  * [ZooKeeper](https://github.com/stevenli91748/Message-Server-System/blob/master/Zookeeper/Interview/README.md)
+  * [Kafka](https://github.com/stevenli91748/Message-Server-System/blob/master/Kafka/Interview/README.md)
   * FastDFS文件存储
   * Quartz定时任务
-  * RabbitMQ消息队列
+  * [RabbitMQ消息队列](https://github.com/stevenli91748/Message-Server-System/blob/master/RabbitMQ/Interview/README.md)
   * JFinal
   * ElasticSearch搜索
   * ELK日志展示及分析
