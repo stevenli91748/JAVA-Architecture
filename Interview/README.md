@@ -6,7 +6,6 @@
 # 第一阶段 Java基础篇
 
   * [Java基本知识面试](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/interview/README.md)
-  * [容器](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Interview/容器.md)
   * Java5--8 知识点
   * java内存模型
   * [JAVA 虚拟机面试部份](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/JVM%20interview.md)
