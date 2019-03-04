@@ -11,7 +11,7 @@
 * [6. 内部类知识点](#6-内部类)
 * [7. 异常 断言和日志知识点](#7-异常-断言和日志)
 * [8. 泛型知识点](#8-泛型)
-* [9. 集合知识点](#9-集合)
+* [9. 集合知识点](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/interview/容器.md)
 * [10. JAVA 8的流库知识点](#10-JAVA-8的流库)
 * [11. Java常用类知识点](#11-Java常用类)
 * [12. 输入与输出知识点](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/interview/javaIO.md)
@@ -64,9 +64,6 @@
 ## 6. 内部类
 ## 7. 异常 断言和日志
 ## 8. 泛型
-## 9. [集合](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/interview/容器.md)
-
-
 ## 10. JAVA 8的流库
 ## 11. Java常用类
 ## 12. 输入与输出
