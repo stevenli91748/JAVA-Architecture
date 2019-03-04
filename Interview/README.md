@@ -23,7 +23,7 @@
   * MySQL
   * MongoDB
   * Redis
-  * [Hibernate4](https://github.com/stevenli91748/Database/blob/master/Hibernate/README.md)
+  * [Hibernate4](https://github.com/stevenli91748/Database/blob/master/Hibernate/Interview/README.md)
   * [Mybatis](https://github.com/stevenli91748/Database/blob/master/Mybatis/Interview/README.md)
   * 分布式数据库
     
