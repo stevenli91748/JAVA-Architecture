@@ -1,5 +1,7 @@
 
 # 面试知识点目录
+
+![Imgur](https://i.ibb.co/Qckt53r/16936e93f737aea4-webp.jpg)
 ---
 # 第一阶段 Java基础篇
 
