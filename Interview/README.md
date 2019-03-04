@@ -35,8 +35,7 @@
    * JavaScript
 
 ## Servlet和JSP
-  * Servlet
-  * JSP
+  * [Servlet and JSP](https://github.com/stevenli91748/JAVA-Architecture/tree/master/Java%20Web/Interview)
   * Tomcat
   * MVC框架相关
   * Cookie
