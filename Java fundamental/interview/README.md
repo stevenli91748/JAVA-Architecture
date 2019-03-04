@@ -9,7 +9,7 @@
 * [4. 接口知识点](#4-接口)
 * [5. Lambda标达式知识点](#5-Lambda标达式)
 * [6. 内部类知识点](#6-内部类)
-* [7. 异常 断言和日志知识点](#7-异常-断言和日志)
+* [7. 异常 断言和日志知识点](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/interview/异常%20断言和日志知识点.md)
 * [8. 泛型知识点](#8-泛型)
 * [9. 集合知识点](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/interview/容器.md)
 * [10. JAVA 8的流库知识点](#10-JAVA-8的流库)
