@@ -8,7 +8,7 @@
   * [Java基本知识面试](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/interview/README.md)
   * Java5--8 知识点
   * java内存模型
-  * [JAVA 虚拟机面试部份](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/JVM%20interview.md)
+  * [JAVA 虚拟机面试部份](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/Interview/README.md)
   * [多线程面试](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/Mutilthreading/interview.md)
   * Java并发知识点
   * [数据结构和算法](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/tree/master/Interview)
