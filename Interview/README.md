@@ -13,7 +13,7 @@
   * Java并发知识点
   * [数据结构和算法](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/tree/master/Interview)
   * [网络](https://github.com/stevenli91748/Network/blob/master/Interview/README.md)
-  * [设计模式](https://github.com/stevenli91748/Design-Patterns/blob/master/Interview.md)
+  * [设计模式](https://github.com/stevenli91748/Design-Patterns/blob/master/Interview/README.md)
 
 # 第二阶段 数据库开发篇
 
