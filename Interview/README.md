@@ -134,6 +134,8 @@
 
 
 ## Java技术面试经验
+
+ * [Java工程师如何在1个月内做好面试准备？](https://juejin.im/post/5c62c4396fb9a04a0441820b)
  * [速来围观老田的蚂蚁金服Java面试经历](https://studygolang.com/topics/6902/comment/21021)
  * Java核心技术及面试指南.pdf
  * [Java 面试题史上最强整理](https://mp.weixin.qq.com/s/kJpRgfI3zT77XqMeRfmmQQ)
