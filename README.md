@@ -55,6 +55,9 @@ VisualVM分析工具|
 
 # [第六阶段   互联网架构篇](https://github.com/stevenli91748/JAVA-Architecture/blob/master/internet%20architecture/README.md)
 
+### 分布式
+
+
 ### 大数据
 
 大数据技术概述|Hadoop|Hadoop-HA高可用|Flume|Kafka|HBase|Hive|Sqoop|Oozie|
@@ -81,6 +84,8 @@ RPC原理|ZooKeeper|
 
 
 # 第四阶段   高级框架阶段篇
+
+<a href="https://ibb.co/kSVGgy6"><img src="https://i.ibb.co/mcrRCBF/image.jpg" alt="image" border="0"></a>
 
 **重点了解：SSM 框架**
 
