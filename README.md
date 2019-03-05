@@ -227,6 +227,7 @@ ORM架构|数据库和SQL优化|数据库集群和高并发|
   * [后台服务程序框架技术选型方案](https://blog.csdn.net/coloriy/article/details/66969756)
   * [深入解析java应用程序的一般架构（好文）](https://blog.csdn.net/hliq5399/article/details/51584622)
   * [JavaWeb项目部署到服务器详细步骤](https://blog.csdn.net/parade0393/article/details/78768414)
+  * [如何学习JavaEE,项目又该如何做](https://mp.weixin.qq.com/s/XdpQyvQ8PtdFiD5E5yHVVw)
  
 [%JAVA-8的流库]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#JAVA-8的流库
 [%Java常用类]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#Java常用类
