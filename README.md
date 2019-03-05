@@ -228,6 +228,8 @@ ORM架构|数据库和SQL优化|数据库集群和高并发|
   * [深入解析java应用程序的一般架构（好文）](https://blog.csdn.net/hliq5399/article/details/51584622)
   * [JavaWeb项目部署到服务器详细步骤](https://blog.csdn.net/parade0393/article/details/78768414)
   * [如何学习JavaEE,项目又该如何做](https://mp.weixin.qq.com/s/XdpQyvQ8PtdFiD5E5yHVVw)
+  * [Java学到什么程度才能叫精通？](https://www.zhihu.com/question/28903757/answer/575333243?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
+  * [Java 工程师成神之路 | 2019正式版](https://mp.weixin.qq.com/s/g63lc1d_eaBXgIcZWLlBYw)
  
 [%JAVA-8的流库]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#JAVA-8的流库
 [%Java常用类]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#Java常用类
