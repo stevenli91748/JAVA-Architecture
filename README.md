@@ -18,7 +18,11 @@
 数据库集群项目|数据库分片项目|消息队列项目|商品业务项目|第三方支付项目|购物车业务项目|
 ---|---|---|---|---|---|
 
-# 第九阶段   Java 项目工程化和部署篇
+# [第九阶段   分布式亿级高并发电商项目篇](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Ecommerce%20Project/README.md)
+
+<a href="https://ibb.co/YLk15F3"><img src="https://i.ibb.co/1mqPCtL/image.jpg" alt="image" border="0"></a>
+
+# 第八阶段   Java 项目工程化和部署篇
 
 <a href="https://ibb.co/ZcndDkg"><img src="https://i.ibb.co/h2Psztd/image.jpg" alt="image" border="0"></a>
 
@@ -30,7 +34,7 @@
 [Docker镜像技术]|Harbor镜像倉库|Rancher容器管理|
 ---|---|---|
 
-# 第八阶段   工具和组件篇
+# 第七阶段   工具和组件篇
 
 第三阶段的项目实现|
 ---|
@@ -47,7 +51,7 @@ Junit|ZooKeeper|FastDFS文件存储|[Quartz定时任务](https://github.com/stev
 VisualVM分析工具|
 ---|
 
-# [第七阶段   分布式亿级高并发电商项目篇](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Ecommerce%20Project/README.md)
+
 
 # [第六阶段   互联网架构篇](https://github.com/stevenli91748/JAVA-Architecture/blob/master/internet%20architecture/README.md)
 
