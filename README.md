@@ -55,8 +55,9 @@ VisualVM分析工具|
 
 # [第六阶段   互联网架构篇](https://github.com/stevenli91748/JAVA-Architecture/blob/master/internet%20architecture/README.md)
 
-### 分布式
+### 高性能 高并发和分布式技术
 
+<a href="https://ibb.co/strLHBt"><img src="https://i.ibb.co/zNwKJkN/image.jpg" alt="image" border="0"></a>
 
 ### 大数据
 
