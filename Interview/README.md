@@ -4,7 +4,7 @@
 ![Imgur](https://i.ibb.co/Qckt53r/16936e93f737aea4-webp.jpg)
 ---
 
-面试官考察候选人的时候主要是从技术广度、技术深度、基础功底、系统设计、项目经验几个角度来进行的
+[面试官考察候选人的时候主要是从技术广度、技术深度、基础功底、系统设计、项目经验几个角度来进行的]()
 
 
 # 第0阶段  [面向对象](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Object%20oriented/interview/README.md)
