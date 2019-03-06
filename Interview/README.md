@@ -164,6 +164,7 @@
  * [Java 最常见的 200+ 面试题：面试必备](https://juejin.im/post/5c788d986fb9a049f154e479)
  * [2019秋招｜阿里中间件Java岗：4轮技术面+2轮笔试](https://zhuanlan.zhihu.com/p/43318646)
  * [Java工程师修炼之路（校招总结）](https://zhuanlan.zhihu.com/p/45859184)
+ * [Java面试通关手册](https://zhuanlan.zhihu.com/Snaiclimb)
  
 ### Java架构面试经验
  * [Java进阶面试系列之一：哥们，你们的系统架构中为什么要引入消息中间件？](https://juejin.im/post/5c0fbaf8f265da616f6fd0c3)
