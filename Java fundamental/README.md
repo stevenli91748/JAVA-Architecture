@@ -3,7 +3,7 @@
 
 # 目录
 
-* [基本程序设计结构](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/README.md)
+* [基本程序设计结构](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/基本程序设计结构.md)
   
 * [Java面向对象](#Java面向对象)
   * [掌握对象的三大特性](#掌握对象的三大特性)
