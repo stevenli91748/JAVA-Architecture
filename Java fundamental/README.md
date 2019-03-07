@@ -7,22 +7,7 @@
   
 * [Java面向对象](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Java面向对象.md)
  
-* [继承](#继承)
-  * 方法重载
-  * 方法覆盖
-  * 方法覆盖和方法重载的异同
-  * Super关键字
-  * 多态
-  * 继承的利弊和使用原则
-    * 继承树的层次不可太多
-    * 继承树的上层为抽象层
-    * 继承关系的最大弱点
-    * 精心设计专门用于被继承的类
-    * 区分对象的属性于继承
-  * 比较组合于继承
-    * 组合关系的分解过程对应继承关系的抽象过程
-    * 组合关系的组合过程对应继承关系的旷展过程
-  * [继承设计技巧](#继承设计技巧)
+* [继承](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/继承.md)
   
   
 * [接口](#接口)
