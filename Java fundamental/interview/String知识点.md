@@ -51,3 +51,5 @@
 </details>
 
 1.String类为什么是final的。
+
+* [每周10道Java面试题：String, String Pool, StringBuilder](http://www.importnew.com/31022.html)
