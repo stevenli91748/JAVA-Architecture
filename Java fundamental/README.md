@@ -3,6 +3,8 @@
 
 # 目录
 
+* [java程序的执行顺序](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/java程序的执行顺序.md)
+
 * [基本程序设计结构](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/基本程序设计结构.md)
   
 * [Java面向对象](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Java面向对象.md)
