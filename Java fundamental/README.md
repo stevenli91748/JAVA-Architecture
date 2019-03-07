@@ -12,15 +12,7 @@
 * [继承](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/继承.md)
   
   
-* [接口](#接口)
-  * [比较抽象类与接口的不同](#比较抽象类与接口的不同)
-  * [与接口相关的设计模式](#与接口相关的设计模式)
-    * [定制服务模式](#定制服务模式)
-    * [默认适配器模式](#默认适配器模式)
-    * [适配器模式](#适配器模式)
-    * [代理模式](#代理模式)
-    * [标识类型模式](#标识类型模式)
-    * [常量接口模式](#常量接口模式)
+* [接口](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/接口.md)
 * [Lambda标达式](#Lambda标达式)
   * 用Lambda表达式代替内部类
   * Lambda表达式和集合的forEach()方法
