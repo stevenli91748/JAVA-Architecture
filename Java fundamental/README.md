@@ -23,38 +23,18 @@
 * [Java常用类](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Java常用类.md)
 * [输入与输出](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/输入与输出.md)
 * [XML](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/XML.md)
-* [JAVA网络操作](#JAVA网络操作)
-* [JAVA数据库](#JAVA数据库)
+* [JAVA网络操作](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/JAVA网络操作.md)
+* [JAVA数据库操作](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/JAVA数据库.md)
   *  [JDBC](#JDBC)
-* [国际化](#国际化)
-* [本地方法](#本地方法)
-* [脚本 编译与注解](#脚本-编译与注解)
-* [反射](#反射)
-  * [利用反射分析类的能力](#利用反射分析类的能力)
-  * [利用反射在运行时分析对象的能力](#利用反射在运行时分析对象的能力)
-  * [调用任意方法](#调用任意方法)
-  * [反射类的方法](#反射类的方法)
-* [注解](#注解)
-  * 自定义Annotation注解类型
-  * 在类的源代码中引用注解类型
-  * 在程序中运用反射机制读取类的注解信息
-  * 基本内置注解
-* [JSON](#JSON)
-* [正则表达式](#正则表达式)
-* [文本操作](#文本操作)
-* [数组](#数组)
-  * 数组变量的声明
-  * 创建数组对象
-  * 访问数组的元素和长度
-  * 数组的初始化
-  * 多维数组以及不规则数组
-  * 调用数组对象的方法
-  * 把数组作为方法参数或返回值
-  * 数组排序
-  * 数组的二分查找算法
-  * 哈希表
-  * 数组实用类 Arrays
-  * 用符号“...”声明数目可变参数
+* [国际化](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/国际化.md)
+* [本地方法](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/本地方法.md)
+* [脚本 编译与注解](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/脚本%20编译与注解.md)
+* [反射](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/反射.md)
+* [注解](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/注解.md)
+* [JSON](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/JSON.md)
+* [正则表达式](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/正则表达式.md)
+* [文本操作](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/文本操作.md)
+* [数组](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/数组.md)
 * [容器](#容器)
 
 * [图形程序设计](#图形程序设计)
