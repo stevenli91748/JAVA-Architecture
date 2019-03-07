@@ -32,7 +32,7 @@
 * [序列化与反序列化知识点](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/interview/序列化与反序列化知识点.md)
 * [图形程序设计知识点](#28-图形程序设计)
 * [Swing界面组件知识点](#29-Swing界面组件)
-* [事件处理知识点](#30-事件处理)
+* [事件处理知识点](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/interview/java事件处理知识点.md)
 * [高级Swing 界面组件知识点](#31-高级Swing-界面组件)
 * [高级AWT知识点](#32-高级AWT)
 * [部署JAVA应用程序知识点](#33-部署JAVA应用程序)
