@@ -18,7 +18,7 @@
   
 * [异常 断言和日志](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/异常%20断言和日志.md)
 * [泛型](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/泛型.md)
-* [集合](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/%E9%9B%86%E5%90%88.md)
+* [集合](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/集合.md)
 * [JAVA 8的新特性](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/JAVA%208的新特性.md)
 * [Java常用类](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Java常用类.md)
 * [输入与输出](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/输入与输出.md)
