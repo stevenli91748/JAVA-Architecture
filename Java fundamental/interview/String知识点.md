@@ -49,3 +49,5 @@
 <summary>String与byte[]两者相互之间如何转换？</summary>
 
 </details>
+
+1.String类为什么是final的。
