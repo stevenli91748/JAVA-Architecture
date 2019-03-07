@@ -15,15 +15,6 @@
 * [接口](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/接口.md)
 * [Lambda标达式](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Lambda标达式.md)
 * [内部类](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/内部类.md)
-  * [内部类的用途](#内部类的用途)
-  * [实例内部类](#实例内部类)
-  * [静态内部类](#静态内部类)
-  * [局部内部类](#局部内部类)
-  * [内部类的继承](#内部类的继承)
-  * [子类与父类中的内部类同名](#子类与父类中的内部类同名)
-  * [匿名内部类](#匿名内部类)
-  * [内部接口以及接口中的内部类](#内部接口以及接口中的内部类)
-  * [内部类的类文件](#内部类的类文件)
   
 * [异常 断言和日志](#异常-断言和日志)
   * Java异常处理机制概述
