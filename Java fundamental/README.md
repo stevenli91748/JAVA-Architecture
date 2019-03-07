@@ -22,7 +22,7 @@
 * [JAVA 8的新特性](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/JAVA%208的新特性.md)
 * [Java常用类](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Java常用类.md)
 * [输入与输出](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/输入与输出.md)
-* [XML](#XML)
+* [XML](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/XML.md)
 * [JAVA网络操作](#JAVA网络操作)
 * [JAVA数据库](#JAVA数据库)
   *  [JDBC](#JDBC)
