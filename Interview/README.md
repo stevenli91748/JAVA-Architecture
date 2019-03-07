@@ -153,9 +153,8 @@
  * [常被问到的十个 Java 面试题](http://www.importnew.com/30956.html)
  * [Java面试题全集（上）](http://www.importnew.com/22083.html)
  * [Java面试题全集（下）](http://www.importnew.com/22087.html)
- * [每周10道Java面试题：String, String Pool, StringBuilder](http://www.importnew.com/31022.html)
  * [Java的21个技术点,你知道吗？](https://blog.csdn.net/javaniuniu/article/details/51914970)
- * [Hibernate面试精华知识点---------不看你会后悔](https://blog.csdn.net/Cs_hnu_scw/article/details/78762294)
+ 
  * [2018java后端面试集合篇最值得收藏的(一)](https://blog.csdn.net/qq_37939251/article/details/83578311)
  * [2018java后端面试看这篇就够了(二)](https://blog.csdn.net/qq_37939251/article/details/83578496)
  * [2018java后端面试看这篇就够了(三)](https://blog.csdn.net/qq_37939251/article/details/83578626)
