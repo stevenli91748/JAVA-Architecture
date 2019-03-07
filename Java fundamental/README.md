@@ -14,7 +14,7 @@
   
 * [接口](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/接口.md)
 * [Lambda标达式](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Lambda标达式.md)
-* [内部类](#内部类)
+* [内部类](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/内部类.md)
   * [内部类的用途](#内部类的用途)
   * [实例内部类](#实例内部类)
   * [静态内部类](#静态内部类)
