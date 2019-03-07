@@ -11,7 +11,7 @@
 * [ 异常 断言和日志知识点](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/interview/异常%20断言和日志知识点.md)
 * [泛型知识点](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/interview/泛型知识点.md)
 * [集合知识点](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/interview/容器.md)
-* [JAVA 8的流库知识点](#10-JAVA-8的流库)
+* [JAVA 8的流库知识点](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/interview/JAVA5-8的流库知识点.md)
 * [Java常用类知识点](#11-Java常用类)
 * [输入与输出知识点](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/interview/javaIO.md)
 * [XML知识点](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/interview/XML知识点.md)
