@@ -16,15 +16,8 @@
 * [Lambda标达式](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Lambda标达式.md)
 * [内部类](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/内部类.md)
   
-* [异常 断言和日志](#异常-断言和日志)
-* [泛型](#泛型)
-  * java集合的泛型
-  * 定义泛型类和泛型接口
-  * 定义泛型数组
-  * 定义泛型方法
-  * 用extends 关键字限定类型参数
-  * 使用“？”通配符
-  * 使用泛型注意事项
+* [异常 断言和日志](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/异常%20断言和日志.md)
+* [泛型](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/泛型.md)
 * [集合](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/%E9%9B%86%E5%90%88.md)
 * [JAVA 8的新特性](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JAVA%208%E7%9A%84%E6%96%B0%E7%89%B9%E6%80%A7.md)
 * [Java常用类](#Java常用类)
