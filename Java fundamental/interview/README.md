@@ -39,40 +39,7 @@
 * [String知识点](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/interview/String知识点.md)
 * [Java Map知识点](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/interview/Java%20Map知识点.md)
 
-# 内容
-## 基本程序设计结构
 
-
-## 继承
-## 接口
-## Lambda标达式
-## 内部类
-## 异常 断言和日志
-## 泛型
-## JAVA 8的流库
-## Java常用类
-## 输入与输出
-## XML
-## JAVA网络操作
-## JAVA数据库
-## 日期和时间API
-##  国际化
-## 本地方法
-## 脚本 编译与注解
-## 反射
-## 注解
-## JSON
-## 正则表达式
-## 文本操作
-## 数组
-## 容器
-## 序列化与反序列化
-## 图形程序设计
-## Swing界面组件
-## 事件处理
-## 高级Swing 界面组件
-## 高级AWT
-## 部署JAVA应用程序
 ## String
 
 <details>
