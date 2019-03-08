@@ -56,9 +56,7 @@
 
 5.java 中的 Math.round(-1.5) 等于多少？
 
-15.java 中 IO 流分为几种？
 
-16.BIO、NIO、AIO 有什么区别？
 
 17.Files的常用方法都有哪些？
 
