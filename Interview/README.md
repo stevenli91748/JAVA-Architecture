@@ -105,7 +105,7 @@
   * [ZooKeeper](https://github.com/stevenli91748/Message-Server-System/blob/master/Zookeeper/Interview/README.md)
   * [Kafka](https://github.com/stevenli91748/Message-Server-System/blob/master/Kafka/Interview/README.md)
   * FastDFS文件存储
-  * Docket
+  * Docker
   * [RabbitMQ消息队列](https://github.com/stevenli91748/Message-Server-System/blob/master/RabbitMQ/Interview/README.md)
   * JFinal
   * Swagger接口文档编写及测试工具
