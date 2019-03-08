@@ -120,7 +120,7 @@
   * Github
   * Jenkins
   * Gradle
-  * Sonar
+  * [Sonar知识点](https://github.com/stevenli91748/Engineering-special/blob/master/Sonar/Interview/README.md)
   * java代码规范
   
 ## 项目部暑  
