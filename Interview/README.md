@@ -42,7 +42,6 @@
 
 ## Servlet和JSP
   * [Servlet and JSP](https://github.com/stevenli91748/JAVA-Architecture/tree/master/Java%20Web/Interview)
-  * Tomcat
   * MVC框架相关
   * Cookie
   * Session
@@ -58,11 +57,14 @@
 # 第四阶段 高级框架阶段篇
 
   *  SOA软件架构
-  *  Struts2
   *  [Spring5 面试](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Interview/README.md)
   *  Spring MVC
   *  Spring Security
-  *  Nginx
+  * Shiro权限框架
+  * Quartz定时任务
+  * ElasticSearch搜索
+  * ELK日志展示及分析
+  
   *  java分布式
   *  消息队列
 
@@ -77,6 +79,7 @@
   
   * Linux
   * Java Netty
+  *  Nginx  
   * 系统和虚拟机调优
   * 多线程性能分析
   * [高并发编程](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/Concurrency/%E5%B9%B6%E5%8F%91%E9%9D%A2%E8%AF%95.md)
@@ -93,19 +96,18 @@
 
   * IntelijiIDEA
   * Nginx
+  * NginxPlus
   * Tomcat
+  * Node.js
   * Websocket
   * QRCode
-  * Shiro权限框架
   * Junit
   * [ZooKeeper](https://github.com/stevenli91748/Message-Server-System/blob/master/Zookeeper/Interview/README.md)
   * [Kafka](https://github.com/stevenli91748/Message-Server-System/blob/master/Kafka/Interview/README.md)
   * FastDFS文件存储
-  * Quartz定时任务
+  * Docket
   * [RabbitMQ消息队列](https://github.com/stevenli91748/Message-Server-System/blob/master/RabbitMQ/Interview/README.md)
   * JFinal
-  * ElasticSearch搜索
-  * ELK日志展示及分析
   * Swagger接口文档编写及测试工具
   * JMeter测试工具
   * VisualVM 虚拟机分析工具
@@ -115,6 +117,7 @@
 
   * Maven
   * Git
+  * Github
   * Jenkins
   * Gradle
   * Sonar
