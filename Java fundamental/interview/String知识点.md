@@ -52,4 +52,12 @@
 
 1.String类为什么是final的。
 
+10.string、stringbuilder、stringbuffer区别
+
+14.Stringa=“abc”Stringb=“abc”Stringc=newString(“abc”)Stringd=“ab”+“c”.他们之间用==比较的结果
+
+15.String类的常用方法
+
 * [每周10道Java面试题：String, String Pool, StringBuilder](http://www.importnew.com/31022.html)
+
+
