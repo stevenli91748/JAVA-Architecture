@@ -58,6 +58,16 @@
 
 15.String类的常用方法
 
+6.String 属于基础的数据类型吗？
+
+
+
+8.String str="i"与 String str=new String("i")一样吗？
+
+9.如何将字符串反转？
+
+10.String 类的常用方法都有那些？
+
 * [每周10道Java面试题：String, String Pool, StringBuilder](http://www.importnew.com/31022.html)
 
 
