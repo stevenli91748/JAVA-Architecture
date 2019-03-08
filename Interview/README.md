@@ -115,11 +115,11 @@
 
 # 第八阶段 Java 项目工程化和部署篇
 
-  * Maven
-  * Git
-  * Github
-  * Jenkins
-  * Gradle
+  * Maven知识点
+  * Git知识点
+  * Github知识点
+  * [Jenkins知识点](https://github.com/stevenli91748/Engineering-special/blob/master/Jenkins/Interview/README.md)
+  * Gradle知识点
   * [Sonar知识点](https://github.com/stevenli91748/Engineering-special/blob/master/Sonar/Interview/README.md)
   * java代码规范
   
