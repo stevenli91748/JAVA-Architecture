@@ -44,160 +44,21 @@
 
 
 ---
-## 35. Java Map
-
-<details>
-<summary>你都知道哪些常用的Map集合? </summary>
-
-
-</details>
-
-<details>
-<summary>Collection集合接口和Map接口有什么关系？</summary>
-
-
-</details>
-
-<details>
-<summary>HashMap是线程安全的吗？线程安全的Map都有哪些？性能最好的是哪个？</summary>
-
-
-</details>
-
-<details>
-<summary>使用HashMap有什么性能问题吗？</summary>
-
-
-</details>
-
-<details>
-<summary>HashMap的数据结构是怎样的？默认大小是多少？内部是怎么扩容的？</summary>
-
-
-</details>
-
-<details>
-<summary>怎么按添加顺序存储元素？怎么按A-Z自然顺序存储元素？怎么自定义排序？</summary>
-
-
-</details>
-
-
-<details>
-<summary>HashMap的链表结构设计是用来解决什么问题的？</summary>
-
-
-</details>
-
-<details>
-<summary>HashMap的键、值可以为NULL吗？HashTable呢？</summary>
-
-
-</details>
-
-<details>
-<summary>HashMap使用对象作为key，如果hashcode相同会怎么处理？</summary>
-
-
-</details>
-
-<details>
-<summary>HashMap中的get操作是什么原理？</summary>
-
-
-</details>
-
-
----
----
-
-<details>
-<summary>JAVA中静态块、静态变量加载顺序详解</summary>
-
-* [JAVA中静态块、静态变量加载顺序详解](https://blog.csdn.net/Mrzhoug/article/details/51581994)
-
-</details>
-
-
-
-<details>
-<summary>1、java事件机制包括哪三个部分？分别介绍 </summary>
-
-
-</details>
-
-<details>
-<summary> 6、怎么理解无界队列和有界队列？</summary>
-
-
-</details>
-
-
-<details>
-<summary>8、什么是反射机制？</summary>
-
-
-</details>
-
-<details>
-<summary>9、说说反射机制的作用。</summary>
-
-
-</details>
-
-<details>
-<summary>10、反射机制会不会有性能问题？</summary>
-
-
-
-</details>
-
-
-
-<details>
-<summary>16、你怎么理解cookie和session，有哪些不同点？</summary>
-
-
-
-</details>
-
-<details>
-<summary>17、什么是web缓存？有什么优点？</summary>
-
-
-</details>
-
-
-<details>
-<summary>20、什么是虚拟主机及实现原理？</summary>
-
-
-
-</details>
 
 
 
 ---
 ---
-1.JDK 和 JRE 有什么区别？
-
-2.== 和 equals 的区别是什么？
 
 3.两个对象的 hashCode()相同，则 equals()也一定为 true，对吗？
 
-4.final 在 java 中有什么作用？
+
 
 5.java 中的 Math.round(-1.5) 等于多少？
 
-6.String 属于基础的数据类型吗？
 
-7.java 中操作字符串都有哪些类？它们之间有什么区别？
 
-8.String str="i"与 String str=new String("i")一样吗？
 
-9.如何将字符串反转？
-
-10.String 类的常用方法都有那些？
 
 11.抽象类必须要有抽象方法吗？
 
@@ -219,15 +80,13 @@
 
 31、什么是检查异常，不受检查异常，运行时异常？并分别举例说明。
 
-32、finally块一定会执行吗？
 
-33、正常情况下，当在try块或catch块中遇到return语句时，finally语句块在方法返回之前还是之后被执行？
 
-34、try、catch、finally语句块的执行顺序。
+
 
 40、Java中的参数传递时传值呢？还是传引用？
 
-41、Java中有没有指针的概念？
+
 
 58、如何解决业务层的数据访问问题？
 
@@ -270,15 +129,15 @@
 
 9.Java内存泄露的问题调查定位：jmap，jstack的使用等等
 
-10.string、stringbuilder、stringbuffer区别
+
 
 11.hashtable和hashmap的区别
 
 13.异常的结构，运行时异常和非运行时异常，各举个例子
 
-14.Stringa=“abc”Stringb=“abc”Stringc=newString(“abc”)Stringd=“ab”+“c”.他们之间用==比较的结果
 
-15.String类的常用方法
+
+
 
 16.Java的引用类型有哪几种
 
