@@ -200,3 +200,5 @@
 
 * [JVM知识问答集锦](https://blog.csdn.net/WYpersist/article/details/86547891)
 * [java存储机制（栈、堆、方法区详解）](https://blog.csdn.net/qq_26805137/article/details/52996910)
+* [【深入Java虚拟机】之五：多态性实现机制——静态分派与动态分派](https://blog.csdn.net/ns_code/article/details/17965867)
+
