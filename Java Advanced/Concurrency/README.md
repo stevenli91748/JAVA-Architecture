@@ -24,6 +24,11 @@
 
 * [我们来谈下高并发和分布式中的幂等处理](https://juejin.im/post/5c05f233e51d4524860fc51a)
 * [关于java高并发设计整合-分布式事务(转发)](https://blog.csdn.net/rainyear/article/details/81294959)
+* [Java系统的高并发解决方法详解](https://www.jb51.net/article/124145.htm)
+* [Java使用代码模拟高并发操作的示例](https://www.jb51.net/article/139429.htm)
+* [Java构建高并发高可用的电商平台架构实践](https://blog.csdn.net/lsm135/article/details/50920483)
+
+
 
 石杉的架构笔记
 * [大白话聊聊Java并发面试问题之volatile到底是什么？](https://mp.weixin.qq.com/s/MIsQv8ZWWBzfB-Qhg3l4lA)
