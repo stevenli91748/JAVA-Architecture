@@ -201,4 +201,6 @@
 * [JVM知识问答集锦](https://blog.csdn.net/WYpersist/article/details/86547891)
 * [java存储机制（栈、堆、方法区详解）](https://blog.csdn.net/qq_26805137/article/details/52996910)
 * [【深入Java虚拟机】之五：多态性实现机制——静态分派与动态分派](https://blog.csdn.net/ns_code/article/details/17965867)
+* [一次JVM FullGC的背后，竟隐藏着惊心动魄的线上生产事故！](https://juejin.im/post/5c1a448a6fb9a04a0f652134)
+
 
