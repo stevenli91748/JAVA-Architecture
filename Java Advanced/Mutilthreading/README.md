@@ -69,7 +69,7 @@
   * [深入源码分析Java线程池的实现原理](https://mp.weixin.qq.com/s/-89-CcDnSLBYy3THmcLEdQ)
   * [简看线程池原理](https://mp.weixin.qq.com/s?__biz=MjM5MzA1Mzc3Nw==&mid=2247483851&idx=1&sn=d4da59dfda97ffaa2915ea87c4748e87&chksm=a69dacf591ea25e32781923cc3a41238ffb3a74dc773ac97e105e78bd231f9630650c3c4c446&scene=21#wechat_redirect)
   * [谈谈Serializable、transient、volatile、final在多线程编程中的应用](https://blog.csdn.net/shen_gang/article/details/18942431)
-  
+  * [Java 200+ 面试题补充 ThreadLocal 模块](https://juejin.im/post/5c805cb9f265da2d9e177f6d)
   
   
   
