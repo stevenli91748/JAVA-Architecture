@@ -215,6 +215,7 @@
  * [消息中间件集群崩溃，如何保证百万生产数据不丢失？](https://mp.weixin.qq.com/s/AEn3j2lVJOHZx9yegwTsvw)
  * [互联网面试必杀：如何保证消息中间件全链路数据100%不丢失（1）](https://mp.weixin.qq.com/s/uqWIf0MAet_StszuOrZCwQ)
  * [互联网面试必杀：如何保证消息中间件全链路数据100%不丢失（2）](https://mp.weixin.qq.com/s/9SFrwaCCLnNyuCqP_KQ0zw)
+ * [记一位朋友斩获BAT技术专家Offer的面试经历](https://juejin.im/post/5c16471f6fb9a049c43d91d4)
 
 
 ## 项目面试经验
