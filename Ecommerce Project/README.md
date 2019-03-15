@@ -29,6 +29,7 @@
 * [【亿级流量系统】数据一致性重构的食用指南](https://mp.weixin.qq.com/s/bZwhgi9MFioSmfPeb9tcsg)
 * [五分钟阅读阿里巴巴架构师如何使用微服务框架搭建电商平台全过程](https://blog.csdn.net/pingdouble/article/details/79527044)
 * [一个比较不错的大型分布式网站架构技术总结，可做参考](https://blog.csdn.net/hjm4702192/article/details/79612611)
+* [手把手0基础项目实战（一）——教你搭建一套可自动化构建的微服务框架](https://juejin.im/post/5a97fbb46fb9a028b5475043)
 
 
 
