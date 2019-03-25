@@ -76,3 +76,4 @@ File | Settings | Editor | General | Code Completion Case | Sensitive Completion
   * [IntelliJ IDEA中手工创建Web聚合项目(Maven多模块项目) 不用模板创建](https://blog.csdn.net/u012702547/article/details/77431765)
   * [SSM框架——详细整合教程](https://blog.csdn.net/zhshulin/article/details/37956105#comments)
   * [Intellij IDEA神器居然还有这些小技巧](http://blog.didispace.com/intellij-idea-some-features-sam-1/)
+  * [使用intellij idea搭建SSM架构的maven项目 超详细](https://blog.csdn.net/niqinge/article/details/79280204)
