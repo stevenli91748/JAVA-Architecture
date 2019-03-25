@@ -77,3 +77,4 @@ File | Settings | Editor | General | Code Completion Case | Sensitive Completion
   * [SSM框架——详细整合教程](https://blog.csdn.net/zhshulin/article/details/37956105#comments)
   * [Intellij IDEA神器居然还有这些小技巧](http://blog.didispace.com/intellij-idea-some-features-sam-1/)
   * [使用intellij idea搭建SSM架构的maven项目 超详细](https://blog.csdn.net/niqinge/article/details/79280204)
+  * [用intellij idea2018搭建ssm框架：SpringMVC+Spring+Mybatis](https://blog.csdn.net/nba_linshuhao/article/details/82799685)
