@@ -151,6 +151,9 @@ HTTP|HttpWatch|[Tomcat](https://github.com/stevenli91748/JAVA-Architecture/blob/
 
 [Servlet][%Servlet]|[JSP][%JSP]|[MVC][%MVC]|JSF|JTA|JNDI|表现层设计|业务层设计|数据层设计|[RESTful API](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/RESTfulAPI.md)|
 ---|---|---|---|---|---|---|----|---|---|
+
+Request和Response|
+---|
 ---
 [Session][%Session]|[Cookie][%Cookie]|[Token][%Token]|[Maven](https://github.com/stevenli91748/Engineering-special/tree/master/Maven)|[Git][%Git]|Github|Filter and Listener|国际化|文件上传下载|
 ---|---|---|---|---|---|---|---|---|
@@ -158,8 +161,8 @@ HTTP|HttpWatch|[Tomcat](https://github.com/stevenli91748/JAVA-Architecture/blob/
 
 ### 网页开发基础
 
-HTML5|CSS3|JavaScript|jQuery|JavaScript DOM|Ajax|EL|
----|---|---|---|---|---|---|
+HTML5|CSS3|JavaScript|jQuery|JavaScript DOM|Ajax|EL|JDBC|
+---|---|---|---|---|---|---|---|
 
 # 第二阶段   数据库开发篇
 
@@ -233,6 +236,9 @@ SQL语言|MySQL|ORACLE|PowerDesigner|MongoDB|分布式数据库|[Redis缓存](ht
 
 面向对象基础|[对象与类][%对象与类]|[继承][%继承]|[接口][%接口]|抽象类|枚举类|[Lambda标达式][%Lambda标达式]|[内部类][%内部类]|
 ---|---|---|---|---|---|---|---|
+
+多态|
+---|
 
 
 ### 阶段 3 JAVA进阶
