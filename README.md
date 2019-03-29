@@ -264,7 +264,7 @@ SQL语言|MySQL|ORACLE|PowerDesigner|MongoDB|分布式数据库|[Redis缓存](ht
 
 
 # 有用的参考
-
+  * [清华、北大、浙大的计算机课程资源集都在这里了](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/88858917)
   * [程序员一般喜欢浏览哪些网站呢？](https://www.zhihu.com/question/283272958/answer/598956527?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
   * [Java程序员从入门到进阶技术书籍推荐十个系列最全50+本附阅读技术书方法论（珍藏版)](https://blog.csdn.net/qq_43337774/article/details/83718570)
   * [搭建“双11”大型网站架构必须掌握的 5 个核心知识](https://blog.csdn.net/hang1995/article/details/83757423)
