@@ -80,3 +80,4 @@ File | Settings | Editor | General | Code Completion Case | Sensitive Completion
   * [用intellij idea2018搭建ssm框架：SpringMVC+Spring+Mybatis](https://blog.csdn.net/nba_linshuhao/article/details/82799685)
   * [idea中配置maven](https://blog.csdn.net/nba_linshuhao/article/details/82715485)
   * [超详细图解从0搭建SSM框架【intellij idea】](https://blog.csdn.net/FYGu18/article/details/79056075)
+  * [IntelliJ IDEA使用教程（很全](https://www.imooc.com/article/28558)
