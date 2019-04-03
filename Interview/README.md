@@ -173,7 +173,8 @@
 
 
 # 有用的参考
-
+ * [互联网 Java 工程师进阶知识完全扫盲](https://github.com/doocs/advanced-java)
+ * [2019年GitHub上最热门的Java开源项目](https://www.jianshu.com/p/35ad594f6163)
  * [精通Java需要经历哪几个阶段？](http://www.10tiao.com/html/779/201903/2650422015/1.html)
 
 ## Java技术面试经验
