@@ -28,7 +28,7 @@ Spring Boot 并不是用来替代 Spring 的解决方案，而是和 Spring 框�
 
 # 有用的参考
 
-
+  * [spring boot和SSM开发中有什么区别？](https://www.zhihu.com/question/284488830/answer/618537039?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
   * [Spring Boot基础教程--优先](http://blog.didispace.com/Spring-Boot基础教程/)
   * [Spring Boot 2.0 新特性学习](http://blog.didispace.com/Spring-Boot-2-0-feature/)
   * [SpringBoot布道系列](https://www.jianshu.com/p/964370d9374e)
