@@ -32,6 +32,8 @@
   * [Hibernate4](https://github.com/stevenli91748/Database/blob/master/Hibernate/Interview/README.md)
   * [Mybatis](https://github.com/stevenli91748/Database/blob/master/Mybatis/Interview/README.md)
   * 分布式数据库
+  * Hbase
+  * Cassandra
     
 # 第三阶段 Java Web开发篇
 
@@ -72,7 +74,6 @@
 # 第五阶段 微服务架构篇
 
   * 微框架
-  * 微服务架构
   * Docker虚拟化
   * [微服务](https://github.com/stevenli91748/MicroService/blob/master/Interview/README.md)
   * [Spring Boot](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/Interview/README.md)
