@@ -3,13 +3,18 @@
 
 # JDK5新特性
 
-* 自动装箱与拆箱
-* 枚举
-* 静态导入
-* 可变参数（Varargs）
+* 自动装箱与拆箱(boxing unboxing)
+* 枚举(Enumeration classes)
+* 静态导入(static imports)
+* 可变参数（variable argument）
+* 可变返回类型
+* 控制台输入(console input)
+* 格式化I/O
+* StringBuilder类
 * 内省（introspector）
 * 泛型（Generic）
 * For-Each循环
+* 
 
 # JDK6新特性
 
