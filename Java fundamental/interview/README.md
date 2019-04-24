@@ -12,7 +12,7 @@
 * [泛型知识点](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/interview/泛型知识点.md)
 * [集合知识点](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/interview/容器.md)
 * [JAVA 8的流库知识点](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/interview/JAVA5-8的流库知识点.md)
-* [Java常用类知识点](#11-Java常用类)
+* [Java常用类知识点](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/interview/Java常用类知识点.md)
 * [输入与输出知识点](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/interview/javaIO.md)
 * [XML知识点](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/interview/XML知识点.md)
 * [JAVA网络操作知识点](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/interview/JAVA网络操作知识点.md)
