@@ -91,7 +91,7 @@
 # 有用的参考
 * [java5的新特性](https://blog.csdn.net/weixin_34152820/article/details/89437796)
 * [java6的新特性](https://blog.csdn.net/weixin_34416754/article/details/89438528)
-* [Java7的新特性](https://blog.csdn.net/weixin_34242658/article/details/89435420)
+* [Java7的新特性](https://blog.csdn.net/qq_34755766/article/details/82877052)
 * [JAVA8 十大新特性详解](https://www.jb51.net/article/48304.htm)
 * [JDK8新特性之Optional](https://mp.weixin.qq.com/s/uXw4eTZqLfj871FlciPh6Q)
 * https://mp.weixin.qq.com/s/-KbOyp4gXYY4Ok8S-rPa6Q
