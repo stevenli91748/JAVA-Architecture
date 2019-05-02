@@ -27,6 +27,7 @@ Spring Boot 并不是用来替代 Spring 的解决方案，而是和 Spring 框�
 
 
 # 有用的参考
+  * [Springboot 整合 Mybatis 的完整 Web 案例](https://zhuanlan.zhihu.com/p/25959187)
   * [SpringBoot常用注解大全](https://zhuanlan.zhihu.com/p/59110902)
   * [SpringBoot 究竟是如何跑起来的?](https://zhuanlan.zhihu.com/p/54146400)
   * [spring boot和SSM开发中有什么区别？](https://www.zhihu.com/question/284488830/answer/618537039?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
