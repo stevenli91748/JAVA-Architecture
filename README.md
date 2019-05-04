@@ -296,6 +296,7 @@ SQL语言|MySQL|ORACLE|PowerDesigner|MongoDB|分布式数据库|[Redis缓存](ht
   * [Java学到什么程度才能叫精通？](https://www.zhihu.com/question/28903757/answer/575333243?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
   * [Java 工程师成神之路 | 2019正式版](https://mp.weixin.qq.com/s/g63lc1d_eaBXgIcZWLlBYw)
   * [JavaEE企业级分布式架构核心技术](https://gitee.com/AlanShelby/Course-Chapter)
+  * [如何模拟超过 5 万的并发用户](https://blog.csdn.net/j3T9Z7H/article/details/89666686)
  
 [%JAVA-8的流库]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#JAVA-8的流库
 [%Java常用类]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#Java常用类
