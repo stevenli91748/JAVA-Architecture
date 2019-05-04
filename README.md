@@ -298,6 +298,7 @@ SQL语言|MySQL|ORACLE|PowerDesigner|MongoDB|分布式数据库|[Redis缓存](ht
   * [JavaEE企业级分布式架构核心技术](https://gitee.com/AlanShelby/Course-Chapter)
   * [如何模拟超过 5 万的并发用户](https://blog.csdn.net/j3T9Z7H/article/details/89666686)
   * [设计扛住千万级流量架构](https://blog.csdn.net/qq_35394891/article/details/80992999)
+  * [JAVA 模拟瞬间高并发](https://blog.csdn.net/klzyf100/article/details/78065723)
  
 [%JAVA-8的流库]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#JAVA-8的流库
 [%Java常用类]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#Java常用类
