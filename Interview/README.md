@@ -242,6 +242,7 @@
  * [我简历上的Java项目都好low，怎么办](https://juejin.im/post/5c63f52a6fb9a049d519ffa1)
  * [我一连面试了十个Java岗，统统石沉大海](https://juejin.im/post/5c656f75e51d45141d1d732a)
  * [中小公司的Java工程师应该如何逆袭冲进BAT？](https://juejin.im/post/5c48bb0d51882525c7132528)
+ * [阿里 P9 级面试官是如何 360° 无死角考察候选人的？](https://blog.csdn.net/csdnnews/article/details/89702195)
  
 ## HR面试经验
  * [十大面试问题解惑，秒杀一切HR、技术面试](https://blog.csdn.net/QQ282030166/article/details/38388283)
