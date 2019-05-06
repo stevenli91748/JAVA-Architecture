@@ -32,6 +32,7 @@
 * [JAVA 堆栈 堆 方法区 静态区 final static 内存分配 详解](https://blog.csdn.net/peterwin1987/article/details/7571808)
 * [静态方法中new对象](https://blog.csdn.net/weixin_41929877/article/details/80422009)
 * [静态方法中不可直接new内部类实例对象问题](https://blog.csdn.net/aizhihua19900214/article/details/79714235)
+* [Java里面 创建对象放在main方法外面为什么要用static修饰](https://www.zhihu.com/question/322912459/answer/674332458?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
 
 ### strictfp关键字
 * [Java语言中关键字strictfp的用途](https://blog.csdn.net/redv/article/details/326444)
