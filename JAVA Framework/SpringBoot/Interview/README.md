@@ -4,6 +4,8 @@
 
 105.为什么要用 spring boot？
 
+Spring Boot 的特点是什麽？
+
 106.spring boot 核心配置文件是什么？
 
 107.spring boot 配置文件有哪几种类型？它们有什么区别？
