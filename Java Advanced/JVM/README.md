@@ -204,5 +204,11 @@
 * [一次JVM FullGC的背后，竟隐藏着惊心动魄的线上生产事故！](https://juejin.im/post/5c1a448a6fb9a04a0f652134)
 * [95%的技术面试必考的JVM知识点都在这](https://zhuanlan.zhihu.com/p/58724558?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
 * [一篇年薪60万的JVM性能调优文章](https://zhuanlan.zhihu.com/p/62762455?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
+* [笔者带你剖析大规模分布式Java平台跟JVM性能调优](https://zhuanlan.zhihu.com/p/35605715?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
 
+* [关于Java虚拟机性能调优的清单](https://zhuanlan.zhihu.com/p/29043288?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
+
+* [作为程序员必须掌握的Java虚拟机中的22个重难点](https://zhuanlan.zhihu.com/p/60185162?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
+
+* [看完你还敢说你懂JVM吗？](https://zhuanlan.zhihu.com/p/61049063?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
 
