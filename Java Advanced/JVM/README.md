@@ -203,5 +203,6 @@
 * [【深入Java虚拟机】之五：多态性实现机制——静态分派与动态分派](https://blog.csdn.net/ns_code/article/details/17965867)
 * [一次JVM FullGC的背后，竟隐藏着惊心动魄的线上生产事故！](https://juejin.im/post/5c1a448a6fb9a04a0f652134)
 * [95%的技术面试必考的JVM知识点都在这](https://zhuanlan.zhihu.com/p/58724558?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
+* [一篇年薪60万的JVM性能调优文章](https://zhuanlan.zhihu.com/p/62762455?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
 
 
