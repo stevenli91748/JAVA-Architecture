@@ -302,7 +302,7 @@ http://www.idl.com.cn/china.html
   * [如何模拟超过 5 万的并发用户](https://blog.csdn.net/j3T9Z7H/article/details/89666686)
   * [设计扛住千万级流量架构](https://blog.csdn.net/qq_35394891/article/details/80992999)
   * [JAVA 模拟瞬间高并发](https://blog.csdn.net/klzyf100/article/details/78065723)
-  * [4月Github最热门的Java项目推荐](https://mp.weixin.qq.com/s/OawYQ9saxtRbZ1gPMof2Og)
+  * [五一假期充电指南：4月Github最热门的Java项目推荐](https://mp.weixin.qq.com/s/OawYQ9saxtRbZ1gPMof2Og)
   * [Java和操作系统交互细节](https://zhuanlan.zhihu.com/p/62055873?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
  
 [%JAVA-8的流库]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#JAVA-8的流库
