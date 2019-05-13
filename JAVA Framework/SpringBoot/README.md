@@ -46,3 +46,4 @@ Spring Boot 并不是用来替代 Spring 的解决方案，而是和 Spring 框�
   * [Spring Boot写后台接口](https://blog.csdn.net/qq_29370483/article/details/79043972)
   * [SpringBoot项目结构介绍](https://blog.csdn.net/zhou6282610/article/details/87868857)
   * [SpringBoot系列之三_一个完整的MVC案例](https://blog.csdn.net/hanhf/article/details/76713838)
+  * [spring boot和SSM开发中有什么区别？](https://www.zhihu.com/question/284488830/answer/618290880?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
