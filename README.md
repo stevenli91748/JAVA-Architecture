@@ -155,8 +155,8 @@ HTTP|HttpWatch|[Tomcat](https://github.com/stevenli91748/JAVA-Architecture/blob/
 Request和Response|
 ---|
 ---
-[Session][%Session]|[Cookie][%Cookie]|[Token][%Token]|[Maven](https://github.com/stevenli91748/Engineering-special/tree/master/Maven)|[Git][%Git]|Github|Filter and Listener|国际化|文件上传下载|
----|---|---|---|---|---|---|---|---|
+[Session][%Session]|[Cookie][%Cookie]|[Token][%Token]|[Git][%Git]|Github|Filter and Listener|国际化|文件上传下载|
+---|---|---|---|---|---|---|---|
 
 
 ### 网页开发基础
