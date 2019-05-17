@@ -7,6 +7,14 @@
 [面试官考察候选人的时候主要是从技术广度、技术深度、基础功底、系统设计、项目经验几个角度来进行的]()
 
 
+# java技术的学习阶段有三
+
+## 第1个是java基础，比如对集合类，并发，IO，JVM，内存模型，泛型，异常，反射，等有深入了解。
+
+### 第2个是全面的互联网技术相关知识，比如redis，mogodb，nginx，代码自动生成，自动部署，并发问题，性能调优，前端流行框架，spring，mybaties深入了解，能够定位问题。
+
+### 第3个是编程，算法与架构能力，比如分布式，微服务。下面是我为大家罗列出来的一些系统全面学习的导图。
+
 # 第0阶段  [面向对象](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Object%20oriented/interview/README.md)
 
 # 第一阶段 Java基础篇
