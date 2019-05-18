@@ -216,7 +216,7 @@
  * [2018java后端面试看这篇就够了(三)](https://blog.csdn.net/qq_37939251/article/details/83578626)
  * [2018java后端面试集合篇最值得收藏的(四)](https://blog.csdn.net/qq_37939251/article/details/83578716)
  * [史上最全Java面试题（带全部答案）](https://blog.csdn.net/linzhiqiang0316/article/details/80473906#comments)
- * [Java 最常见的 200+ 面试题：面试必备](https://juejin.im/post/5c788d986fb9a049f154e479)
+ * [Java 最常见的 200+ 面试题：面试必备](https://gitbook.cn/m/mazi/article/5c6cf6044bb44360f3370255?isLogArticle=no&readArticle=yes&sut=2fbaff30798b11e9817d9f8aa2adfdea)
  * [2019秋招｜阿里中间件Java岗：4轮技术面+2轮笔试](https://zhuanlan.zhihu.com/p/43318646)
  * [Java工程师修炼之路（校招总结）](https://zhuanlan.zhihu.com/p/45859184)
  * [Java面试通关手册](https://zhuanlan.zhihu.com/Snaiclimb)
