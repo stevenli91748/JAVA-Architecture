@@ -77,35 +77,199 @@ String pool：这是方法（method）区域里一个特殊的存储区域，创
 
 <details>
 <summary>String str = new String("abc");创建了几个对象，为什么？</summary>
-据说这是《java面试宝典》上的一道题，对java不熟悉的朋友可能就被唬住了，我曾经也是其中之一。
+String s=new String("sdd")
 
-而事实上，这是一道本身就经不起推敲的问题，或许这也是容易让很多人疑惑的原因吧。
+这个产生了2个对象，一个是new关键字创建的new Sring（）；另一个是“sdd”对象，abc在一个字符串池中s这个对象指向这个串池 
 
-先说这个问题的槽点：答案将String变量和String对象（实例）混淆、问题没有具体说明是在类加载时还是代码运行时，应该分开讨论、问题没有针对具体的运行环境。
+这个题的考点知识很多：
+
+引用变量与对象的区别；
+字符串文字"abc"是一个String对象； 
+文字池(pool of literal strings)和堆(heap)中的字符串对象。
+一、引用变量与对象：除了一些早期的Java书籍和现在的垃圾书籍，人们都可以从中比较清楚地学习到两者的区别。
+A aa;
+这个语句声明一个类A的引用变量aa[我们常常称之为句柄]，而对象一般通过new创建。所以题目中s仅仅是一个引用变量，它不是对象。
+
+二、Java中所有的字符串文字[字符串常量]都是一个String的对象。有人[特别是C程序员]在一些场合喜欢把字符串"当作/看成"字符数组，这也没有办法，因为字符串与字符数组存在一些内在的联系。事实上，它与字符数组是两种完全不同的对象。
+
+System.out.println("Hello".length());
+char[] cc={'H','i'};
+System.out.println(cc.length);
+
+三、字符串对象的创建:
+由于字符串对象的大量使用(它是一个对象，一般而言对象总是在heap分配内存)，Java中为了节省内存空间和运行时间(如比较字符串时，==比equals()快)，在编译阶段就把所有的字符串文字放到一个文字池(pool of literal strings)中，而运行时文字池成为常量池的一部分。文字池的好处，就是该池中所有相同的字符串常量被合并，只占用一个空间。
+我们知道，对两个引用变量，使用==判断它们的值(引用)是否相等，即指向同一个对象：
+String s1 = "abc" ;
+String s2 = "abc" ;
+if( s1 == s2 ) System.out.println("s1,s2 refer to the same object");
+else System.out.println("trouble");
+
+这里的输出显示，两个字符串文字保存为一个对象。就是说，上面的代码只在pool中创建了一个String对象。
+
+现在看String s = new String("abc");语句，这里"abc"本身就是pool中的一个对象，而在运行时执行new String()时，
+将pool中的对象复制一份放到heap中，并且把heap中的这个对象的引用交给s持有。ok，这条语句就创建了2个String对象。
+String s1 = new String("abc") ;
+String s2 = new String("abc") ;
+if( s1 == s2 ){ //不会执行的语句}
+
+这时用==判断就可知，虽然两个对象的"内容"相同(equals()判断)，但两个引用变量所持有的引用不同
+
+补充一个面试题：String str = "aaa" + new String("bbb")创建了几个String对象？
+
+ "aa"一个对象   new Sring()一个对象  "bbb"一个对象 "aa" + new String("bbb");一个对象
+
+注意下面的区别：
+
+如果
+
+String str = "aa";
+   String s = "aa";
+那么if(str == s) 为true 即引用同一个对象
+继续
+   String str = new String();
+String s = new String();
+   那么if(str == s) 为false 既不同对象
+再来 
+   String str = "aa" + new String();
+   String s = "aa" + new String();
+那么if(sre == s) 为false 既不同对象
 
 
 
-结论1：题目问的是String Object，应认为是问创建了几个String对象，String对象和String变量是两个概念。String变量是String s，这个s就是一个用户声明的String类型的变量，这里没有final，所以s可以指向任意的String对象，这里它指向了new出来的一个String对象。ps：String类的对象一旦创建，内容就不可变更，用户对String变量重新赋值只是让它指向另一个String对象。想具体了解这个，附传送门，看胖胖回答.https://www.zhihu.com/question/31345592
+举例一
+
+package com.jit.java.test;
+
+public class TestStringObject {
+ public static void main(String[] args) {
+  String str = new String("sdd");
+
+ }
+
+}
+
+查看下面的结果 运行时javap -c可以查看
+
+E:\XiaoCheng\2012workspace\Test2Array\src\com\jit\java\test>javac TestStringObje
+ct.java
+
+E:\XiaoCheng\2012workspace\Test2Array\src\com\jit\java\test>javap -c TestStringO
+bject
+Compiled from "TestStringObject.java"
+public class com.jit.java.test.TestStringObject extends java.lang.Object{
+public com.jit.java.test.TestStringObject();
+  Code:
+   0:   aload_0
+   1:   invokespecial   #1; //Method java/lang/Object."<init>":()V
+   4:   return
+
+public static void main(java.lang.String[]);
+  Code:
+   0:   new     #2; //class java/lang/String
+   3:   dup
+   4:   ldc     #3; //String sdd
+   6:   invokespecial   #4; //Method java/lang/String."<init>":(Ljava/lang/Strin
+g;)V
+   9:   astore_1
+   10:  return
+
+}
+
+举例二
+
+package com.jit.java.test;
+
+public class TestStringObject {
+ public static void main(String[] args) {
+  String str = new String("sdd");
+  String st = new String("sdd"); //如果不看前面的，光看这一行本身也是创建了2个对象，但sdd在字符串池里已经有了，所以结合前面的就创建了1个对象new Sring（）;
+
+解释下字符串池：他是一个由字符组成的一个数组就相当于char str1 =new char[]{a,b,c};
+如果不是遇到新的字符串，则直接指向原来的串池，如果遇到新的字符串则创建一个新的串池
+
+}
+
+}
 
 
+E:\XiaoCheng\2012workspace\Test2Array\src\com\jit\java\test>javap -c TestStringO
+bject
+Compiled from "TestStringObject.java"
+public class com.jit.java.test.TestStringObject extends java.lang.Object{
+public com.jit.java.test.TestStringObject();
+  Code:
+   0:   aload_0
+   1:   invokespecial   #1; //Method java/lang/Object."<init>":()V
+   4:   return
 
-结论2：类加载时，符合规范的JVM实现应该在类加载的过程中创建并驻留一个String实例作为常量来对应"xyz"字面量；具体是在类加载的resolve阶段进行的。这个常量是全局共享的，只在先前尚未有内容相同的字符串驻留过的前提下才需要创建新的String实例。也就是说如果在类加载到这段之前没有对应“xyz”字面量的常量String对象，加载到这里会创建一个String对象。
+public static void main(java.lang.String[]);
+  Code:
+   0:   new     #2; //class java/lang/String
+   3:   dup
+   4:   ldc     #3; //Stringsdd
+   6:   invokespecial   #4; //Method java/lang/String."<init>":(Ljava/lang/Strin
+g;)V
+   9:   astore_1
+   10:  new     #2; //class java/lang/String
+   13:  dup
+   14:  ldc     #3; //Stringsdd
+   16:  invokespecial   #4; //Method java/lang/String."<init>":(Ljava/lang/Strin
+g;)V
+   19:  astore_2
+   20:  return
 
+}
 
+举例三
 
-结论3：在代码执行时，这里new关键字会创建一个String对象。
+package com.jit.java.test;
 
+public class TestStringObject {
+ public static void main(String[] args) {
+  String str = new String("sdd");
+  String st = new String("sdd");
+         String st1 = "sdd";
 
+此处没有创建新的对象，故运行到此还是3个对象，首先没new，另外它会去看字符串池中有没有相同的字符，如果有则st1直接指向sdd,如果不是abc,而是xyz的话则又创建了一个对象 
+         String st2= "xyz";
+ }
 
-结论4：结论3前提是符合规范的JVM。实际上有些JVM会有好的优化，不同的JVM和不同的运行参数可能会有不同结果。例如HotSpot在开启逃逸分析和空间分配消除功能后，发现如果这个new String("xyz")没有什么用，那么在执行至此时并不会创建String对象。
+}
+E:\XiaoCheng\2012workspace\Test2Array\src\com\jit\java\test>javap -c TestStringO
+bject
+Compiled from "TestStringObject.java"
+public class com.jit.java.test.TestStringObject extends java.lang.Object{
+public com.jit.java.test.TestStringObject();
+  Code:
+   0:   aload_0
+   1:   invokespecial   #1; //Method java/lang/Object."<init>":()V
+   4:   return
 
+public static void main(java.lang.String[]);
+  Code:
+   0:   new     #2; //class java/lang/String
+   3:   dup
+   4:   ldc    #3; //Stringsdd
+   6:   invokespecial   #4; //Method java/lang/String."<init>":(Ljava/lang/Strin
+g;)V
+   9:   astore_1
+   10:  new     #2; //class java/lang/String
+   13:  dup
+   14:  ldc   #3; //Stringsdd
+   16:  invokespecial   #4; //Method java/lang/String."<init>":(Ljava/lang/Strin
+g;)V
+   19:  astore_2
+   20:  ldc   #3; //Stringsdd
+   22:  astore_3
+   23:  ldc     #5; //Stringxyz
+   25:  astore  4
+   27:  return
 
-
-总结：问题不靠谱，面试的时候可以直接甩结论，笔试的话可以按原答案回答吧，但是搞不好会有人专门挑书上有毛病的问题来问，所以追求完美的答案应该是这样的：会创建一个String类型的变量s。在类加载到此处之前没有出现“xyz”字面量的话，加载此处会创建一个对应“xyz”的String常量对象。在符合规范的JVM上，执行到此处new关键字会创建一个String对象。
+}
 --------------------- 
-作者：_古井心 
+作者：边缘元素 
 来源：CSDN 
-原文：https://blog.csdn.net/u010234516/article/details/52738254 
+原文：https://blog.csdn.net/john2522/article/details/7437120 
 版权声明：本文为博主原创文章，转载请附上博文链接！
 </details>
 
