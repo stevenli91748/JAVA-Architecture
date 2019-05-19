@@ -63,6 +63,17 @@ equals()：字符串比较。
  
 </details> 
 
+<details>
+<summary>String可以被子类继承吗？</summary>
+
+不能。因为 String 类的定义为 final class，被 final 修饰的类不能被继承
+
+String 对象不可变的（immutable）。分析为什么要这么设计，可能有以下3个原因：
+
+String pool：这是方法（method）区域里一个特殊的存储区域，创建一个 String 时，如果已经在 String pool 中存在，那么会返回已存在的 String 引用。
+允许 String 缓存 hashcode：String 定义中，有 hash 成员变量 private int hash; // 默认为0，对 hashcode 进行缓存。
+安全性：确保不会被恶意篡改。
+</details>
 
 
 
@@ -95,10 +106,6 @@ equals()：字符串比较。
 
 </details>
 
-<details>
-<summary>String可以被子类继承吗？</summary>
-
-</details>
 
 <details>
 <summary>可以自定义java.lang.String类并使用吗？</summary>
