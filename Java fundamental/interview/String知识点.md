@@ -17,6 +17,51 @@ String 不属于基础类型，基础类型有 8 种：byte、boolean、char、s
 
 </details>
 
+<details>
+<summary> String str="i"与 String str=new String("i")一样吗？</summary>
+ 
+ 不一样，因为内存的分配方式不一样。String str="i"的方式，Java 虚拟机会将其分配到常量池中；而 String str=new String("i") 则会被分到堆内存中。
+ 
+</details> 
+
+<details>
+<summary>如何将字符串反转？</summary>
+
+使用 StringBuilder 或者 stringBuffer 的 reverse() 方法。
+
+示例代码：
+
+```java
+
+// StringBuffer reverse
+StringBuffer stringBuffer = new StringBuffer();
+stringBuffer. append("abcdefg");
+System. out. println(stringBuffer. reverse()); // gfedcba
+// StringBuilder reverse
+StringBuilder stringBuilder = new StringBuilder();
+stringBuilder. append("abcdefg");
+System. out. println(stringBuilder. reverse()); // gfedcba
+
+```
+
+</details>
+ 
+<details>
+<summary> String 类的常用方法都有那些？</summary>
+ 
+IndexOf()：返回指定字符的索引。
+charAt()：返回指定索引处的字符。
+replace()：字符串替换。
+trim()：去除字符串两端空白。
+split()：分割字符串，返回一个分割后的字符串数组。
+getBytes()：返回字符串的 byte 类型数组。
+length()：返回字符串长度。
+toLowerCase()：将字符串转成小写字母。
+toUpperCase()：将字符串转成大写字符。
+substring()：截取字符串。
+equals()：字符串比较。
+ 
+</details> 
 ---
 
 
