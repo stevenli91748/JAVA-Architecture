@@ -63,6 +63,9 @@ equals()：字符串比较。
  
 </details> 
 
+
+
+
 ---
 
 
@@ -113,5 +116,6 @@ equals()：字符串比较。
 14.Stringa=“abc”Stringb=“abc”Stringc=newString(“abc”)Stringd=“ab”+“c”.他们之间用==比较的结果
 
 * [每周10道Java面试题：String, String Pool, StringBuilder](http://www.importnew.com/31022.html)
+* [Java String 对 null 对象的容错处理](http://www.importnew.com/27601.html)
 
 
