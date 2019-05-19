@@ -86,10 +86,6 @@ equals()：字符串比较。
 
 </details>
 
-<details>
-<summary>String、StringBuffer、StringBuilder有什么区别？</summary>
-
-</details>
 
 <details>
 <summary>String.trim()方法去掉的是哪些字符？</summary>
@@ -113,21 +109,8 @@ equals()：字符串比较。
 
 1.String类为什么是final的。
 
-10.string、stringbuilder、stringbuffer区别
 
 14.Stringa=“abc”Stringb=“abc”Stringc=newString(“abc”)Stringd=“ab”+“c”.他们之间用==比较的结果
-
-15.String类的常用方法
-
-6.String 属于基础的数据类型吗？
-
-
-
-8.String str="i"与 String str=new String("i")一样吗？
-
-9.如何将字符串反转？
-
-10.String 类的常用方法都有那些？
 
 * [每周10道Java面试题：String, String Pool, StringBuilder](http://www.importnew.com/31022.html)
 
