@@ -75,6 +75,39 @@ String pool：这是方法（method）区域里一个特殊的存储区域，创
 安全性：确保不会被恶意篡改。
 </details>
 
+<details>
+<summary>String str = new String("abc");创建了几个对象，为什么？</summary>
+据说这是《java面试宝典》上的一道题，对java不熟悉的朋友可能就被唬住了，我曾经也是其中之一。
+
+而事实上，这是一道本身就经不起推敲的问题，或许这也是容易让很多人疑惑的原因吧。
+
+先说这个问题的槽点：答案将String变量和String对象（实例）混淆、问题没有具体说明是在类加载时还是代码运行时，应该分开讨论、问题没有针对具体的运行环境。
+
+
+
+结论1：题目问的是String Object，应认为是问创建了几个String对象，String对象和String变量是两个概念。String变量是String s，这个s就是一个用户声明的String类型的变量，这里没有final，所以s可以指向任意的String对象，这里它指向了new出来的一个String对象。ps：String类的对象一旦创建，内容就不可变更，用户对String变量重新赋值只是让它指向另一个String对象。想具体了解这个，附传送门，看胖胖回答.https://www.zhihu.com/question/31345592
+
+
+
+结论2：类加载时，符合规范的JVM实现应该在类加载的过程中创建并驻留一个String实例作为常量来对应"xyz"字面量；具体是在类加载的resolve阶段进行的。这个常量是全局共享的，只在先前尚未有内容相同的字符串驻留过的前提下才需要创建新的String实例。也就是说如果在类加载到这段之前没有对应“xyz”字面量的常量String对象，加载到这里会创建一个String对象。
+
+
+
+结论3：在代码执行时，这里new关键字会创建一个String对象。
+
+
+
+结论4：结论3前提是符合规范的JVM。实际上有些JVM会有好的优化，不同的JVM和不同的运行参数可能会有不同结果。例如HotSpot在开启逃逸分析和空间分配消除功能后，发现如果这个new String("xyz")没有什么用，那么在执行至此时并不会创建String对象。
+
+
+
+总结：问题不靠谱，面试的时候可以直接甩结论，笔试的话可以按原答案回答吧，但是搞不好会有人专门挑书上有毛病的问题来问，所以追求完美的答案应该是这样的：会创建一个String类型的变量s。在类加载到此处之前没有出现“xyz”字面量的话，加载此处会创建一个对应“xyz”的String常量对象。在符合规范的JVM上，执行到此处new关键字会创建一个String对象。
+--------------------- 
+作者：_古井心 
+来源：CSDN 
+原文：https://blog.csdn.net/u010234516/article/details/52738254 
+版权声明：本文为博主原创文章，转载请附上博文链接！
+</details>
 
 
 ---
@@ -95,10 +128,6 @@ String pool：这是方法（method）区域里一个特殊的存储区域，创
 
 </details>
 
-<details>
-<summary>String str = new String("abc");创建了几个对象，为什么？</summary>
-
-</details>
 
 
 <details>
