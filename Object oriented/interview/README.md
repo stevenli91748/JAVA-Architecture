@@ -13,6 +13,29 @@
 
 ### 面向对象入门
 
+<details>
+<summary> 抽象类必须要有抽象方法吗？</summary>
+ 
+ 不需要，抽象类不一定非要有抽象方法。
+
+示例代码：
+
+```java
+
+abstract class Cat {
+    public static void sayHi() {
+        System. out. println("hi~");
+    }
+}
+
+```
+
+上面代码，抽象类并没有抽象方法但完全可以正常运行。
+
+</details> 
+
+
+
 1. 什么是面向对象
 
 2. 面向过程
