@@ -75,8 +75,11 @@
   *  Shiro权限框架
   *  Quartz定时任务
   *  ElasticSearch搜索
-  *  ELK日志展示及分析
-  
+  *  日志展示及分析
+     * Slf4j
+     * Log4j
+     * LogBack
+     * ELK
   *  java分布式
   *  消息队列
 
@@ -97,7 +100,7 @@
   * 多线程性能分析
   * [高并发编程](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/Concurrency/%E5%B9%B6%E5%8F%91%E9%9D%A2%E8%AF%95.md)
   * 高级网络编程
-  * 单点登录SSO
+  * 负载均衡
   
   * 数据库和SQL优化
   * 数据库集群和高并发
