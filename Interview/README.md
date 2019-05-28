@@ -10,7 +10,7 @@
 # java技术的学习阶段有三
 
 ### 第1个是java基础，比如对Java 基础知识点，集合类，高并发编程（JUC 包），IO，JVM，内存模型，Jav a 8 知识点, 网络协议相关, 数据库相关, 
-### 计算机原理, 泛型，异常，反射，M VC 框架相关, Linux 命令相关等有深入了解。
+### 计算机原理, 泛型，异常，反射，MVC 框架相关, Linux 命令相关等有深入了解。
 
 ### 第2个是全面的互联网技术相关知识，比如redis，mogodb，nginx，代码自动生成，自动部署，并发问题，性能调优，前端流行框架，spring，mybaties深入了解，能够定位问题。
 
@@ -29,6 +29,7 @@
   * [数据结构和算法](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/tree/master/Interview)
   * [网络](https://github.com/stevenli91748/Network/blob/master/Interview/README.md)
   * [设计模式](https://github.com/stevenli91748/Design-Patterns/blob/master/Interview/README.md)
+  
 
 # 第二阶段 数据库开发篇
 
@@ -95,7 +96,7 @@
   
   * Linux
   * [Java Netty](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/Netty/Interview/README.md)
-  *  Nginx  
+  * 分布式缓存
   * 系统和虚拟机调优
   * 多线程性能分析
   * [高并发编程](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/Concurrency/%E5%B9%B6%E5%8F%91%E9%9D%A2%E8%AF%95.md)
@@ -128,7 +129,10 @@
   * Swagger接口文档编写及测试工具
   * JMeter测试工具
   * VisualVM 虚拟机分析工具
-
+  * Hadoop
+  * Spark
+  * Storm
+  * Yarn
 
 # 第八阶段 Java 项目工程化和部署篇
 
