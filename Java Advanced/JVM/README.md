@@ -211,4 +211,5 @@
 * [作为程序员必须掌握的Java虚拟机中的22个重难点](https://zhuanlan.zhihu.com/p/60185162?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
 
 * [看完你还敢说你懂JVM吗？](https://zhuanlan.zhihu.com/p/61049063?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
+* [扒一扒 JVM 的垃圾回收机制，拿大厂offer少不了它！](https://mp.weixin.qq.com/s/-npEviJ8m1TcO84i7-HVYg)
 
