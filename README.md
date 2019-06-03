@@ -351,7 +351,7 @@ http://www.idl.com.cn/china.html
 [%数据类型]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md
 [%泛型]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/%E6%B3%9B%E5%9E%8B.md
 [%集合]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#集合
-[%输入与输出]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#输入与输出
+[%输入与输出]:
 [%XML]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#XML
 [%JAVA网络操作]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#JAVA网络操作
 [%JAVA数据库]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#JAVA数据库
