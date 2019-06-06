@@ -104,7 +104,7 @@ final关键字修饰形参：1：当形参被修饰为final,那么该形参所�
  * [从volatile和synchronized的底层实现原理看Java虚拟机对锁优化所做的努力](https://blog.csdn.net/lxlmycsdnfree/article/details/70256031)
  * [Java中volatile关键字的最全总结](https://blog.csdn.net/u012723673/article/details/80682208)
  * [Synchronized和volatile 的区别，两者使用的场景](https://blog.csdn.net/yinni11/article/details/81514082)
- 
+ * [内存屏障和 volatile 语义](http://www.importnew.com/29860.html)
  
 ### throw and throws关键字
 
