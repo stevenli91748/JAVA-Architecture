@@ -33,7 +33,7 @@
 
 
 # 有用的参考
-
+* [聊聊高并发](https://blog.csdn.net/ITer_ZC/column/info/loveconcurrency)
 * [我们来谈下高并发和分布式中的幂等处理](https://juejin.im/post/5c05f233e51d4524860fc51a)
 * [关于java高并发设计整合-分布式事务(转发)](https://blog.csdn.net/rainyear/article/details/81294959)
 * [Java系统的高并发解决方法详解](https://www.jb51.net/article/124145.htm)
