@@ -96,6 +96,7 @@ final关键字修饰形参：1：当形参被修饰为final,那么该形参所�
 * [java中native关键字的详解](https://blog.csdn.net/u013531824/article/details/21012655)
 
 ### volatile关键字
+ * [《volatile 关键字实现原理》汇编层面的讲解，推荐！](http://www.importnew.com/27002.html)
  * [全面理解Java内存模型(JMM)及volatile关键字](https://blog.csdn.net/javazejian/article/details/72772461)
  * [Java中volatile关键字的最全总结](https://blog.csdn.net/u012723673/article/details/80682208)
  * [绝对深度解析volatile关键字的实现原理（大部分内容整理于其他博客](https://blog.csdn.net/yanshuanche3765/article/details/78405872)
