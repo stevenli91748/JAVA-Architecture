@@ -49,6 +49,12 @@ final关键字修饰形参：1：当形参被修饰为final,那么该形参所�
 * [Java instanceof用法详解](https://blog.csdn.net/kuangay/article/details/81563992)
 
 ### static关键字
+<details>
+<summary>能否在运行时向 static final 类型的赋值</summary>
+不可以，被static final修饰的变量只能在被定义的时候或者类的静态代码块中初始化，一旦赋值后就不能在改变了。static final相当于类常量，就是在类被加载进内存的时候就要为属性分配内存，static块就是类被加载的时候执行且被执行一次，所以可以在其中进行初始化。
+
+</details>
+
 * [Java static关键字详解](https://blog.csdn.net/kuangay/article/details/81485324)
 * [static关键字的四种用法](https://blog.csdn.net/shuyizhi/article/details/79700054)
 * [细说final关键字和static关键字](https://blog.csdn.net/m15732622413/article/details/53241231)
