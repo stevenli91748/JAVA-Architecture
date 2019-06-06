@@ -23,8 +23,11 @@ final关键字有哪些用法
 final关键字主要用于修饰类、类成员、方法、以及方法的形参。
 
 final修饰成员属性：说明该成员属性是常量，不能被修改；
+
 final修饰类，该类是最终类，不能被继承。
+
 final修饰方法：该方法是最终方法，不能被重写。
+
 final关键字修饰形参：1：当形参被修饰为final,那么该形参所属的方法中不能被篡改。
 
 * [java中final,finally,finalize三个关键字的区别](https://blog.csdn.net/NDboy/article/details/45535201)
