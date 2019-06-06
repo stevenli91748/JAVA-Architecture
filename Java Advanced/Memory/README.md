@@ -27,3 +27,4 @@
   * [深入理解 Java 内存模型](https://zhuanlan.zhihu.com/p/34147141?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
   * [终于有人把Java内存模型说清楚了](https://zhuanlan.zhihu.com/p/61424782)
   * [案例：隐秘而低调的内存泄露（OOM）](https://blog.51cto.com/xqtesting/2402372)
+  * [内存屏障和 volatile 语义](http://www.importnew.com/29860.html)
