@@ -40,7 +40,7 @@ final关键字修饰形参：1：当形参被修饰为final,那么该形参所�
 3、finally是在return后面的表达式运算后执行的（此时并没有返回运算后的值，而是先把要返回的值保存起来，管finally中的代码怎么样，返回的值都不会改变，仍然是之前保存的值），所以函数返回值是在finally执行前确定的；
 4、finally中最好不要包含return，否则程序会提前退出，返回值不是try或catch中保存的返回值。
 
-
+* [深入分析Object.finalize方法的实现原理](http://www.importnew.com/23913.html)
 * [java中final,finally,finalize三个关键字的区别](https://blog.csdn.net/NDboy/article/details/45535201)
 * [细说final关键字和static关键字](https://blog.csdn.net/m15732622413/article/details/53241231)
 * [JAVA 堆栈 堆 方法区 静态区 final static 内存分配 详解](https://blog.csdn.net/peterwin1987/article/details/7571808)
