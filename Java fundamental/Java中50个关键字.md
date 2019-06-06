@@ -14,6 +14,10 @@
 * [java反射获取枚举值](https://blog.csdn.net/Bronze5/article/details/80214011)
 
 ### final,finally,finalize
+<details>
+<summary>使用final关键字修饰一个变量时，是引用不能变，还是引用的对象不能变?</summary>
+ 是引用不能变（final引用恒定不变），引用的对象内容还是可以变的
+</details>
 
 什么是finalize()方法？finalize()方法什么时候被调用？
 答： Java允许在类中定义一个名为finalize()的方法，一旦垃圾回收器准备好释放对象占用的存储空间，将首先调用finalize()方法，并且在下一次垃圾回收动作发生时，才会真正回收对象占用的内存。
