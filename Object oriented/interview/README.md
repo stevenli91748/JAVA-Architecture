@@ -383,6 +383,125 @@ S、U、V 等：多参数情况中的第 2、3、4 个类型
  
 </details>
 
+<details>
+<summary> 匿名内部类是否可以继承其它类？是否可以实现接口？</summary>
+
+
+使用匿名内部类我们必须要继承一个父类或者实现一个接口，当然也仅能只继承一个父类或者实现一个接口。同时它也是没有class关键字，这是因为匿名内部类是直接使用new来生成一个对象的引用，当然这个引用是隐式的。不可以继承其它类和实现接口。
+
+</details>
+
+
+<details>
+<summary> 内部类分为几种？</summary>
+ 
+* 成员内部类，在一个类（外部类）中直接定义的内部类；
+
+* 局部内部类，在一个方法（外部类的方法）中定义的内部类;
+
+* 匿名内部类，
+
+1.成员内部类
+
+可以访问它的外部类的所有成员变量和方法，不管是静态的还是非静态的都可以。
+
+在外部类里面创建成员内部类的实例：this.new B()；
+
+在外部类之外创建内部类的实例：(new Test1()).new B().go();
+
+2.局部内部类
+
+定义在方法中，比方法的范围还小。是内部类中最少用到的一种类型。像局部变量一样，不能被public,protected, private和static修饰。只能访问方法中定义的final类型的局部变量。
+
+方法内部类在方法中定义，所以只能在方法中使用，即只能在方法当中生成方法内部类的实例并且调用其方法。
+
+3.匿名内部类
+
+没有名字的局部内部类，不使用关键字class, extends, implements, 没有构造方法。什么情况下需要使用匿名内部类？如果满足下面的一些条件，使用匿名内部类是比较合适的：
+
+* 只用到类的一个实例。
+
+* 类在定义后马上用到。
+
+* 类非常小（SUN推荐是在4行代码以下）
+
+* 给类命名并不会导致你的代码更容易被理解。
+
+在使用匿名内部类时，要记住以下几个原则：
+
+* 匿名内部类不能有构造方法。
+
+* 匿名内部类不能定义任何静态成员、方法和类。
+
+* 匿名内部类不能是public,protected,private,static。
+
+* 只能创建匿名内部类的一个实例。
+
+* 一个匿名内部类一定是在new的后面，用其隐含实现一个接口或实现一个类。
+
+* 因匿名内部类为局部内部类，所以局部内部类的所有限制都对其生效。
+
+```java
+//实例代码
+interface innerclass{
+    public void print();
+}
+
+public class Main {
+    public static void main(String[] args) {
+        innerclass i = new innerclass() {
+            @Override
+            public void print() {
+                System.out.println("匿名内部类");
+                // TODO Auto-generated method stub
+
+            }
+        };
+        i.print();
+    }
+}
+
+```
+
+匿名内部类的高频使用场景是在多线程下(灵活使用箭头函数语法糖)：
+
+```java
+// Java 8之前：
+new Thread(new Runnable() {
+    @Override
+    public void run() {
+        System.out.println("Before Java8, too much code for too little to do");
+    }
+}).start();
+
+//Java 8方式：
+new Thread(() -> System.out.println("In Java8, Lambda expression!!") ).start();
+
+```
+ 
+</details> 
+
+<details>
+<summary> 内部类可以引用它的包含类（外部类）的成员吗？</summary>
+
+内部类可以直接访问外部类的成员属性
+
+</details> 
+
+<details>
+<summary> 请说一下 Java 中为什么要引入内部类？还有匿名内部类？</summary>
+
+内部类对象可以访问创建它的对象的实现，包括私有数据；
+
+内部类不为同一包的其他类所见，具有很好的封装性；
+
+使用内部类可以很方便的编写事件驱动程序；
+
+匿名内部类可以方便的定义运行时回调；
+
+内部类可以方便的定义
+
+</details> 
 
 
 ---
