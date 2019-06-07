@@ -5,7 +5,7 @@
 * [1.2. 对象](#12-对象)
   * [java中的instance方法](https://blog.csdn.net/zrds2e/article/details/56958388)
 * [1.3. 接口](#13-接口)
-    
+* [多态]()    
     
     
     
