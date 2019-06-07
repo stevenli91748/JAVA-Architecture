@@ -272,7 +272,7 @@ SQL语言|MySQL|ORACLE|PowerDesigner|MongoDB|分布式数据库|[Redis缓存](ht
 面向对象基础|[对象与类][%对象与类]|[继承][%继承]|[接口][%接口]|抽象类|枚举类|[Lambda标达式][%Lambda标达式]|[内部类][%内部类]|
 ---|---|---|---|---|---|---|---|
 
-多态|
+[多态](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Object%20oriented/多态.md)|
 ---|
 
 
