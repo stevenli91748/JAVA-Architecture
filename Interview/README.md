@@ -3,7 +3,7 @@
 
 
 
-[url=https://ibb.co/FWKx5VP][img]https://i.ibb.co/vBHw3Yt/know-Java.jpg[/img][/url]
+<a href="https://ibb.co/FWKx5VP"><img src="https://i.ibb.co/vBHw3Yt/know-Java.jpg" alt="know-Java" border="0"></a>
 
 
 
