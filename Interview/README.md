@@ -32,13 +32,14 @@
 # 第0阶段  [面向对象](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Object%20oriented/interview/README.md)
 
 # 第一阶段 Java基础篇
-
+  * [计算机系统原理]()
+  * [计算机操作系统]()
   * [Java基本知识面试](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/interview/README.md)
   * [Java5--8 知识点](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/JAVA%208的新特性.md)
   * [java内存模型](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/Memory/Interview/JAVA内存模型.md)
   * [JAVA 虚拟机面试部份](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/Interview/README.md)
   * [多线程面试](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/Mutilthreading/interview.md)
-  * Java并发知识点
+  * [Java并发知识点]()
   * [数据结构和算法](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/tree/master/Interview)
   * [网络](https://github.com/stevenli91748/Network/blob/master/Interview/README.md)
   * [设计模式](https://github.com/stevenli91748/Design-Patterns/blob/master/Interview/README.md)
@@ -108,7 +109,8 @@
 # 第六阶段 互联网架构篇
   
   * Linux
-  * [Java Netty](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/Netty/Interview/README.md)
+  * [高性能NIO框架- Netty](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/Netty/Interview/README.md)
+  * [分布式架构基石-RPC]()
   * 分布式缓存
   * 系统和虚拟机调优
   * 多线程性能分析
@@ -124,8 +126,11 @@
 
 # 第七阶段 工具和组件篇
 
+  * JVM问题排查工具-JMC
+  * 线上调试神器-btrace
+  * linux常用分析工具
   * IntelijiIDEA
-  * Nginx
+  * Nginxb
   * NginxPlus
   * Tomcat
   * Node.js
