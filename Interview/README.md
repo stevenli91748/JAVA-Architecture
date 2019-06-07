@@ -211,6 +211,7 @@
 
  * [Java知识体系及超全题库整理](https://www.jianshu.com/p/e2d53c2109b0)
  * [2019年最新Java学习路线图](http://www.java1234.com/a/javaziliao/javabase/2019/0321/13184.html)
+ * [java题库](http://yitaicloud.com/tags/Interview/)
  * [揭秘阿里Java架构师背后的技术体系支撑（详细分层，建议收藏）](https://zhuanlan.zhihu.com/p/51251590?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
  * [Java架构师必须掌握的七大知识点](https://zhuanlan.zhihu.com/p/59934991?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
  * [BAT最全Java面试168题汇总:并发编程+JVM+Spring+分布式+缓存等](https://zhuanlan.zhihu.com/p/59471302?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
