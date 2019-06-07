@@ -76,9 +76,9 @@ abstract class Cat {
 
 * 多态通常有两种实现方法：
 
-1、子类继承父类（extends）
+  1、子类继承父类（extends）
 
-2、子类实现接口（implements）
+  2、子类实现接口（implements）
 
 * 多态最大的用途
 
@@ -94,7 +94,9 @@ abstract class Cat {
 tips：因为每次接口调用都要搜索方法表，所以从效率上来说，接口方法的调用总是慢于类方法的调用的。
 
 </details>
+
 ---
+
 1. 什么是面向对象
 
 2. 面向过程
