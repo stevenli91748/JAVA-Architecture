@@ -159,13 +159,23 @@ native，本地修饰符。指定此方法的方法体是用其他语言在程�
 
 ### switch关键字
 
-1、switch 语句中的表达式可以是什么类型数据？
+<details>
+<summary>1、switch 语句中的表达式可以是什么类型数据？</summary>
+ 
+ switch(A),括号中A的取值可以是byte、short、int、char、String，还有枚举类型。
+ 
+</details>
 
-switch(A),括号中A的取值可以是byte、short、int、char、String，还有枚举类型。
 
-2、switch 是否能作用在byte 上，是否能作用在long 上，是否能作用在String上？
-
+<details>
+<summary>2、switch 是否能作用在byte 上，是否能作用在long 上，是否能作用在String上？</summary>
+ 
 Java 7之前，switch后面的括号里面只能放int类型的值，注意是只能放int类型，但是放byte，short，char类型的也可以，是因为byte，short，shar可以自动提升（自动类型转换）为int，不是说就可以放它们，说白了，你放的byte，short，shar类型，然后他们会自动转换为int类型（宽化，自动转换并且安全），其实最后放的还是int类型。String可以了，但是long仍然不行。
 
 1.小的往大的转换(宽化)，自动转换，有些时候就会自动提升为大的类型，比如switch中
 2.大的往小的转换(窄化)必须强制类型转换所以long不行，要想行就得强转如（int）long。同理，float、double也是不行的，要想行就强转。
+ 
+</details>
+
+
+
