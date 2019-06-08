@@ -139,6 +139,140 @@ finally，当代码抛出一个异常时，就会终止方法中剩余代码的�
 静态方法和实例方法是一样的，在类型第一次被使用时加载。调用的速度基本上没有差别。
  
 </details>
+
+<details>
+<summary>static 关键字是什么意思？Java中是否可以覆盖(override)一个private或者是static的方法，静态类型有什么特点？</summary>
+
+static表示静态的意思，可用于修饰成员变量和成员函数，被静态修饰的成员函数只能访问静态成员，不可以访问非静态成员。静态是随着类的加载而加载的，因此可以直接用类进行访问。 重写是子类中的方法和子类继承的父类中的方法一样（函数名，参数，参数类型，反回值类型），但是子类中的访问权限要不低于父类中的访问权限。重写的前提是必须要继承，private修饰不支持继承，因此被私有的方法不可以被重写。在Java中，如果父类中含有一个静态方法，且在子类中也含有一个返回类型、方法名、参数列表均与之相同的静态方法，那么该子类实际上只是将父类中的该同名方法进行了隐藏，而非重写。换句话说，父类和子类中含有的其实是两个没有关系的方法，它们的行为也并不具有多态性。
+
+</details> 
+
+<details>
+<summary>main() 方法为什么必须是静态的？能不能声明 main() 方法为非静态？</summary>
+
+用static修饰的就是静态方法。静态方法不依靠对象而存在。其直接与类有关，只要包含在类中，就可以得到执行，而不一定依附于对象的存在而执行。因此，main方法作为程序的入口方法，在这之前是不可能有任何对象被建立的，也就在main之前包括main自身不可能是非静态方法。所以main方法一定是静态的，有类就行——从而得到执行，进而有更多静态或非静态方法得到执行。
+
+</details> 
+
+<details>
+<summary>是否可以从一个静态（static）方法内部发出对非静态（non-static）方法的调用</summary>
+ 
+ 不可以，静态函数中不能访问非静态成员变量，只能访问静态变量。因为静态优先于对象存在.静态方法中更不可以出现this
+ 
+</details>  
+
+<details>
+<summary>静态变量在什么时候加载？编译期还是运行期？静态代码块加载的时机呢？</summary>
+ 
+ 静态是随着类的加载而加载的，JVM的代码编译运行顺序是编译、类的加载到执行，属于二者的过渡期。静态代码块也是如此
+ 
+</details>  
+
+
+<details>
+<summary>成员方法是否可以访问静态变量？为什么静态方法不能访问成员变量？</summary>
+ 
+ 成员方法中可以访问静态成员变量。
+
+请看下面代码来确定程序的打印先后顺序：
+
+```java
+
+public class test {
+
+    public static void main(String[] args) {
+        new test();
+    }
+
+    static int num = 4;
+
+    {
+        num += 3;
+        System.out.println(b);
+    }
+
+    int a = 5;
+
+    {
+        System.out.println(c);
+    }
+
+    test() {System.out.println(d);}
+
+    static {System.out.println(a);}
+
+    static void run() {System.out.println(e);}
+}
+
+```
+
+执行顺序如下：
+
+```java
+
+public class test {        //1.第一步，准备加载类
+
+    public static void main(String[] args) {
+        new test();        //4.第四步，new一个类，但在new之前要处理匿名代码块
+    }
+
+    static int num = 4;    //2.第二步，静态变量和静态代码块的加载顺序由编写先后决定
+
+    {
+        num += 3;
+        System.out.println(b);//5.第五步，按照顺序加载匿名代码块，代码块中有打印
+    }
+
+    int a = 5;                //6.第六步，按照顺序加载变量
+
+    {  成员变量第三个
+        System.out.println(c);    //7.第七步，按照顺序打印c
+    }
+              //如果将构造函数和构造代码块互换，依旧还是先执行构造代码块。
+    test() {  //类的构造函数，第四个加载
+        System.out.println(d);     //8.第八步，最后加载构造函数，完成对象的建立
+    }
+
+    static {             //3.第三步，静态块，然后执行静态代码块，因为有输出，故打印a
+        System.out.println(a);
+    }
+
+    static void run()              //静态方法，调用的时候才加载 注意看，e没有加载
+    {
+        System.out.println(e);
+    }
+}
+
+```
+
+静态块（静态变量）——成员变量——构造方法——静态方法
+1、静态代码块（只加载一次） 2、构造方法（创建一个实例就加载一次）3、静态方法需要调用才会执行.
+
+如果类还没有被加载：
+
+1、先执行父类的静态代码块和静态变量初始化，并且静态代码块和静态变量的执行顺序只跟代码中出现的顺序有关。
+
+2、执行子类的静态代码块和静态变量初始化。
+
+3、执行父类的实例变量初始化
+
+4、执行父类的构造函数（有构造代码块则先执行构造代码块）
+
+5、执行子类的实例变量初始化
+
+6、执行子类的构造函数
+
+如果类已经被加载：
+
+则静态代码块和静态变量就不用重复执行，再创建类对象时，只执行与实例相关的变量初始化和构造方法。
+
+补充构造代码块：给对象进行初始化。对象一建立就运行并且优先于构造函数。
+
+构造代码块和构造函数的区别，构造代码块是给所有对象进行统一初始化， 构造函数给对应的对象初始化。
+ 
+</details>  
+
+
 * [Java static关键字详解](https://blog.csdn.net/kuangay/article/details/81485324)
 * [static关键字的四种用法](https://blog.csdn.net/shuyizhi/article/details/79700054)
 * [细说final关键字和static关键字](https://blog.csdn.net/m15732622413/article/details/53241231)
@@ -146,6 +280,7 @@ finally，当代码抛出一个异常时，就会终止方法中剩余代码的�
 * [静态方法中new对象](https://blog.csdn.net/weixin_41929877/article/details/80422009)
 * [静态方法中不可直接new内部类实例对象问题](https://blog.csdn.net/aizhihua19900214/article/details/79714235)
 * [Java里面 创建对象放在main方法外面为什么要用static修饰](https://www.zhihu.com/question/322912459/answer/674332458?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
+* [static方法能否被重写](https://blog.csdn.net/xiangwanpeng/article/details/52504274?locationNum=12&fps=1)
 
 ### strictfp关键字
 * [Java语言中关键字strictfp的用途](https://blog.csdn.net/redv/article/details/326444)
