@@ -106,6 +106,39 @@ finally，当代码抛出一个异常时，就会终止方法中剩余代码的�
 
 </details>
 
+<details>
+<summary>public static void 写成 static public void会怎样?</summary>
+
+一样的
+
+</details>
+
+<details>
+<summary>static class 与 non static class的区别</summary>
+ 
+* 内部静态类不需要有指向外部类的引用。但非静态内部类需要持有对外部类的引用。
+
+* 非静态内部类能够访问外部类的静态和非静态成员。静态类不能访问外部类的非静态成员。他只能访问外部类的静态成员。
+
+* 一个非静态内部类不能脱离外部类实体被创建，一个非静态内部类可以访问外部类的数据和方法，因为他就在外部类里面。
+
+#### 生命周期（Lifecycle）：
+
+* 静态方法（Static Method）与静态成员变量一样，属于类本身，在类装载的时候被装载到内存（Memory），不自动进行销毁，会一直存在于内存中，直到JVM关闭。
+
+* 非静态方法（Non-Static Method）又叫实例化方法，属于实例对象，实例化后才会分配内存，必须通过类的实例来引用。不会常驻内存，当实例对象被JVM 回收之后，也跟着消失。
+
+效率：静态方法的使用效率比非静态方法的效率高。
+
+#### 线程安全
+
+* 静态方法是共享代码段，静态变量是共享数据段。既然是“共享”就有并发（Concurrence）的问题。
+
+* 非静态方法是针对确定的一个对象的，所以不会存在线程安全的问题。
+
+静态方法和实例方法是一样的，在类型第一次被使用时加载。调用的速度基本上没有差别。
+ 
+</details>
 * [Java static关键字详解](https://blog.csdn.net/kuangay/article/details/81485324)
 * [static关键字的四种用法](https://blog.csdn.net/shuyizhi/article/details/79700054)
 * [细说final关键字和static关键字](https://blog.csdn.net/m15732622413/article/details/53241231)
@@ -127,6 +160,17 @@ finally，当代码抛出一个异常时，就会终止方法中剩余代码的�
 * [Java this关键字详解](https://blog.csdn.net/kuangay/article/details/81535701)
 
 ### transient关键字
+
+<details>
+<summary>transient变量有什么特点</summary>
+ 
+ 一旦变量被transient修饰，变量将不再是对象持久化的一部分，该变量内容在序列化后无法获得访问。
+ 
+transient关键字只能修饰变量，而不能修饰方法和类。注意，本地变量是不能被transient关键字修饰的。变量如果是用户自定义类变量，则该类需要实现Serializable接口。
+
+被transient关键字修饰的变量不能被序列化，一个静态变量不管是否被transient修饰，均不能被序列化。
+ 
+</details> 
 * [transient关键字有何作用](https://blog.csdn.net/duyiwuerluozhixiang/article/details/86633179)
 * [简述serializable和transient关键字作用](https://blog.csdn.net/java__project/article/details/54960525)
 
@@ -143,6 +187,39 @@ finally，当代码抛出一个异常时，就会终止方法中剩余代码的�
 * [java中native关键字的详解](https://blog.csdn.net/u013531824/article/details/21012655)
 
 ### volatile关键字
+
+volatile是一个特殊的修饰符，只有成员变量才能使用它。在Java并发程序缺少同步类的情况下，多线程对成员变量的操作对其它线程是透明的。volatile变量可以保证下一个读取操作会在前一个写操作之后发生
+
+<details>
+<summary>volatile 变量是什么？volatile 变量和 atomic 变量有什么不同值</summary>
+ 
+ Java语言提供了一种稍弱的同步机制，即volatile变量，用来确保将变量的更新操作通知到其他线程。当把变量声明为volatile类型后，编译器与运行时都会注意到这个变量是共享的，因此不会将该变量上的操作与其他内存操作一起重排序。volatile变量不会被缓存在寄存器或者对其他处理器不可见的地方，因此在读取volatile类型的变量时总会返回最新写入的值。
+ 
+在访问volatile变量时不会执行加锁操作，因此也就不会使执行线程阻塞，因此volatile变量是一种比sychronized关键字更轻量级的同步机制。
+ 
+</details> 
+
+<details>
+<summary>volatile 类型变量提供什么保证？能使得一个非原子操作变成原子操作吗?</summary>
+
+volatile只提供了保证访问该变量时，每次都是从内存中读取最新值，并不会使用寄存器缓存该值——每次都会从内存中读取。而对该变量的修改，volatile并不提供原子性的保证。那么编译器究竟是直接修改内存的值，还是使用寄存器修改都符合volatile的定义。所以，一句话，volatile并不提供原子性的保证。
+
+</details>
+
+<details>
+<summary>能创建 volatile 数组吗？</summary>
+
+可以，volatile修饰的变量如果是对象或数组之类的，其含义是对象获数组的地址具有可见性，但是数组或对象内部的成员改变不具备可见性
+
+</details>
+
+
+<details>
+<summary>能创建 volatile 数组吗？</summary>
+
+可以，volatile修饰的变量如果是对象或数组之类的，其含义是对象获数组的地址具有可见性，但是数组或对象内部的成员改变不具备可见性
+
+</details>
  * [《volatile 关键字实现原理》汇编层面的讲解，推荐！](http://www.importnew.com/27002.html)
  * [全面理解Java内存模型(JMM)及volatile关键字](https://blog.csdn.net/javazejian/article/details/72772461)
  * [Java中volatile关键字的最全总结](https://blog.csdn.net/u012723673/article/details/80682208)
@@ -152,6 +229,8 @@ finally，当代码抛出一个异常时，就会终止方法中剩余代码的�
  * [Java中volatile关键字的最全总结](https://blog.csdn.net/u012723673/article/details/80682208)
  * [Synchronized和volatile 的区别，两者使用的场景](https://blog.csdn.net/yinni11/article/details/81514082)
  * [内存屏障和 volatile 语义](http://www.importnew.com/29860.html)
+ * [面试必问的 volatile，你了解多少？](http://www.importnew.com/27863.html)
+ * [就是要你懂 Java 中 volatile 关键字实现原理](http://www.importnew.com/27002.html)
  
 ### throw and throws关键字
 
@@ -202,7 +281,6 @@ synchronize，同步修饰符，在多个线程中，该修饰符用于在运行
 native，本地修饰符。指定此方法的方法体是用其他语言在程序外部编写的。
 
 </details>
-
 
 ### switch关键字
 
