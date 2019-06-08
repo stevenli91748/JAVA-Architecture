@@ -19,11 +19,23 @@
  是引用不能变（final引用恒定不变），引用的对象内容还是可以变的
 </details>
 
-什么是finalize()方法？finalize()方法什么时候被调用？
-答： Java允许在类中定义一个名为finalize()的方法，一旦垃圾回收器准备好释放对象占用的存储空间，将首先调用finalize()方法，并且在下一次垃圾回收动作发生时，才会真正回收对象占用的内存。
-析构函数(finalization)的目的是什么
-析构函数目的是撤销对象前、完成一些清理工作，比如释放资源。释放了之后这些资源可以被回收，重新利用。
-final关键字有哪些用法
+<details>
+<summary>什么是finalize()方法？finalize()方法什么时候被调用？</summary>
+
+Java允许在类中定义一个名为finalize()的方法，一旦垃圾回收器准备好释放对象占用的存储空间，将首先调用finalize()方法，并且在下一次垃圾回收动作发生时，才会真正回收对象占用的内存。
+
+</details>
+
+<details>
+<summary>析构函数(finalization)的目的是什么</summary>
+
+析构函数目的是撤销对象前、完成一些清理工作，比如释放资源。释放了之后这些资源可以被回收，重新利用
+
+</details>
+
+<details>
+<summary>final关键字有哪些用法</summary>
+
 final关键字主要用于修饰类、类成员、方法、以及方法的形参。
 
 final修饰成员属性：说明该成员属性是常量，不能被修改；
@@ -34,11 +46,46 @@ final修饰方法：该方法是最终方法，不能被重写。
 
 final关键字修饰形参：1：当形参被修饰为final,那么该形参所属的方法中不能被篡改。
 
-补充: try / catch / finally 中return的关系？
-1、不管有木有出现异常，finally块中代码都会执行；
-2、当try和catch中有return时，finally仍然会执行；
-3、finally是在return后面的表达式运算后执行的（此时并没有返回运算后的值，而是先把要返回的值保存起来，管finally中的代码怎么样，返回的值都不会改变，仍然是之前保存的值），所以函数返回值是在finally执行前确定的；
-4、finally中最好不要包含return，否则程序会提前退出，返回值不是try或catch中保存的返回值。
+</details>
+
+<details>
+<summary>final 与 static 关键字可以用于哪里？它们的作用是什么？</summary>
+
+用于修饰成员变量和成员方法，可以理解为“全局常量”，对于变量表示一旦给定值就不可以修改，并且通过类名可以访问；对于方法表示不可覆盖，并且可以通过类名直接访问
+
+</details>
+
+
+<details>
+<summary> final, finally, finalize的区别（或者说final、finalize 和 finally 的不同之处？）</summary>
+
+final关键字可以用于类，方法，变量前，用来表示该关键字修饰的类，方法，变量具有不可变的特性。
+
+final关键字用于基本数据类型前：这时表明该关键字修饰的变量是一个常量，在定义后该变量的值就不能被修改。
+
+final关键字用于方法声明前：这时意味着该方法时最终方法，只能被调用，不能被覆盖，但是可以被重载。
+
+final关键字用于类名前：此时该类被称为最终类，该类不能被其他类继承。
+
+finalize()方法来自于java.lang.Object，用于回收资源。可以为任何一个类添加finalize方法。finalize方法将在垃圾回收器清除对象之前调用。在实际应用中，不要依赖使用该方法回收任何短缺的资源，这是因为很难知道这个方法什么时候被调用。
+
+finally，当代码抛出一个异常时，就会终止方法中剩余代码的处理，并退出这个方法的执行。finally块是程序在正常情况下或异常情况下都会运行的。比较适合用于既要处理异常又有资源释放的代码，保证了资源的合理回收。
+
+</details>
+
+<details>
+<summary>能否在运行时向 static final 类型的赋值</summary>
+
+不可以，被static final修饰的变量只能在被定义的时候或者类的静态代码块中初始化，一旦赋值后就不能在改变了。static final相当于类常量，就是在类被加载进内存的时候就要为属性分配内存，static块就是类被加载的时候执行且被执行一次，所以可以在其中进行初始化。
+
+</details>
+
+<details>
+<summary>使用final关键字修饰一个变量时，是引用不能变，还是引用的对象不能变?</summary>
+
+是引用不能变（final引用恒定不变），引用的对象内容还是可以变的
+
+</details>
 
 * [深入分析Object.finalize方法的实现原理](http://www.importnew.com/23913.html)
 * [java中final,finally,finalize三个关键字的区别](https://blog.csdn.net/NDboy/article/details/45535201)
