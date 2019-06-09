@@ -14,3 +14,4 @@
 * [SpringAOP ApectJ 动态代理](https://www.cnblogs.com/heapStark/p/8358217.html)
 * [AOP的两种实现-Spring AOP以及AspectJ](https://www.cnblogs.com/john8169/p/9780502.html)
 * [spring aop原理和实现](https://www.cnblogs.com/JavaZhangXu/p/10109642.html)
+* [SpringAOP面向切面编程](https://www.cnblogs.com/SimpleWu/p/9652700.html)
