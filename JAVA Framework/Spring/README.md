@@ -11,3 +11,4 @@
 * [Spring 经典面试题和答案](https://blog.csdn.net/wypersist/article/details/80274561)
 * [详解设计模式在Spring中的应用](https://blog.csdn.net/Y0Q2T57s/article/details/87899161)
 * [10分钟详解Spring全家桶7大知识点](https://zhuanlan.zhihu.com/p/59327709?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
+* [SpringAOP ApectJ 动态代理](https://www.cnblogs.com/heapStark/p/8358217.html)
