@@ -122,12 +122,37 @@ application-prod.properties
 
 </details> 
 
+<details>
+<summary>@Component和@Bean有什么区别？</summary>
+  
+@Component被用在要被自动扫描和装配的类上。@Component类中使用方法或字段时不会使用CGLIB增强(及不使用代理类：调用任何方法，使用任何变量，拿到的是原始对象)Spring 注解@Component等效于@Service,@Controller,@Repository
+@Bean主要被用在方法上，来显式声明要用生成的类;用@Configuration注解该类，用@Bean标注方法等价于XML中配置bean。
+
+现在项目上，本工程中的类，一般都使用@Component来生成bean。在把通过web service取得的类，生成Bean时，使用@Bean和getter方法来生成bean
+
+</details> 
 
 
+<details>
+<summary>有什么springboot的安全方面的实践？</summary>
+  
+[10 种保护 Spring Boot 应用的绝佳方法](https://mp.weixin.qq.com/s/HG4_StZyNCoWx02mUVCs1g)
 
+</details> 
 
+<details>
+<summary>如何使用@Async？</summary>
+  
+现在启动类@SpringBootApplication后面加入@EnableAsync，定义@Component类中的异步任务方法，其中注解@Async，方法返回void或者Future<T>，调用方法即平常的@Autowired实例化即可。
 
+</details> 
 
+<details>
+<summary>springboot如何开启定时任务？</summary>
+  
+定义启动类@EnableScheduling，然后在任务类使用cron表达式来定义任务时间，比如@Scheduled(cron="/6 * * * * ?")代表每6秒一次，再如：“0 0 12 * * ?” 每天中午12点触发。
+
+</details> 
 
 
 
