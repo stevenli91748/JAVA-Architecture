@@ -48,24 +48,79 @@ book.desc = ${book.name} 's desc
 
 </details> 
 
+<details>
+<summary>Spring Boot Actuator有什么作用？</summary>
 
+监控和管理Spring Boot应用，比如Mappring、健康检查、审计、统计和HTTP追踪等。所有的这些特性可以通过JMX或者HTTP endpoints来获得。
 
+</details> 
 
+<details>
+<summary>RequestMapping 和 GetMapping 的不同之处在哪里？</summary>
 
+RequestMapping 具有类属性的，可以进行 GET,POST,PUT 或者其它的注释中具有的请求方法。
 
+GetMapping 是 GET 请求方法中的一个特例。它只是 ResquestMapping 的一个延伸，目的是为了提高清晰度。
 
+</details> 
 
+<details>
+<summary>@ConfigurationProperties 注解的作用</summary>
 
+将配置属性注入到bean 
+类似如下：
 
+```java
 
+@Component
+@ConfigurationProperties(prefix = "person")
+public class Person {
 
+private String firstName;
 
+}
 
+application.properties属性：
+person.firstName = XXX
 
+```
 
+</details> 
 
+<details>
+<summary>@value和@configurationproperties的区别</summary>
 
+[springboot @value和@configurationproperties注解的区别](https://www.cnblogs.com/slowcity/p/9097969.html)
 
+</details> 
+
+<details>
+<summary>Spring Boot 如何定义多套不同环境配置？</summary>
+
+提供多套配置文件，如：
+
+applcation.properties
+application-dev.properties
+application-test.properties
+application-prod.properties
+
+[Spring Boot - Profile不同环境配置](https://mp.weixin.qq.com/s/K0kdQwoo2t5FDsTUJttSAA)
+
+</details> 
+
+<details>
+<summary>@responsebody有什么作用？</summary>
+  
+@responsebody后返回结果不会被解析为跳转路径，而是直接写入HTTP response body中。比如异步获取json数据，加上@responsebody后，会直接返回json数据。该注解一般会配合@RequestMapping一起使用。
+
+</details> 
+
+<details>
+<summary>@Controller 和 @RestController有什么区别？</summary>
+  
+@RestController 是Spring4之后加入的注解，原来在@Controller中返回json需要@ResponseBody来配合，如果直接用@RestController替代@Controller就不需要再配置@ResponseBody，默认返回json格式。而@Controller是用来创建处理http请求的对象，一般结合@RequestMapping使用。
+
+</details> 
 
 
 
