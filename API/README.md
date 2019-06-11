@@ -14,6 +14,9 @@
 
 # 有用的参考
 
+
+[JavaTM Platform Standard Edition 6 API 规范](http://www.cjsdn.net/doc/jdk60/index.html?overview-summary.html)
+
 [从JDK源码看String(上)](https://mp.weixin.qq.com/s?__biz=MjM5MzA1Mzc3Nw==&mid=2247484623&idx=1&sn=5bc4c40498d62e778ab045438096c67b&chksm=a69da9f191ea20e74d1b747eacce3f04e2b3b5f6265ec1a2bb2a2a7d0f6c38a118569277289f&scene=21#wechat_redirect)
 
 [从JDK源码看String(下)](https://mp.weixin.qq.com/s?__biz=MjM5MzA1Mzc3Nw==&mid=2247484627&idx=1&sn=2afa783ef1626d7f6b7000a5cdce7a8a&chksm=a69da9ed91ea20fbeb030e79a7d556d5dfb80dd234cfc9f44332c0091c349321c79047923295&scene=21#wechat_redirect)
