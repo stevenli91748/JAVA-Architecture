@@ -11,7 +11,92 @@
 
 5、完全没有代码生成和xml配置文件
 
-</details>  
+</details> 
+
+<details>
+<summary>有什么常用的Spring Boot启动器？</summary>
+  
+spring-boot-starter： 核心启动器，包括自动配置支持，日志记录和YAML
+
+spring-boot-starter-aop： 使用Spring AOP和AspectJ进行面向方面编程的启动器
+
+spring-boot-starter-data-jpa： 使用Spring Data JPA和Hibernate的启动器
+
+spring-boot-starter-jdbc： 用于将JDBC与HikariCP连接池一起使用的启动器
+
+spring-boot-starter-security： 使用Spring Security的启动器
+
+spring-boot-starter-test： 用于测试Spring Boot应用程序的启动器
+
+spring-boot-starter-web： 用于构建Web的入门者，包括使用Spring MVC的RESTful应用程序  
+
+</details> 
+
+<details>
+<summary>application.properties中如何引用已定义的配置参数？</summary>
+
+使用${},比如：
+book.name = XXX
+book.desc = ${book.name} 's desc
+
+</details> 
+
+<details>
+<summary>spring boot Devtools有什么作用？</summary>
+
+[Spring DevTools 介绍](https://blog.csdn.net/isea533/article/details/70495714)
+
+</details> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
 
 104.什么是 spring boot？
 
