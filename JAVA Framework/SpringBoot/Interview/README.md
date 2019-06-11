@@ -1,7 +1,8 @@
-<detail>
-<summer>列举一些SpringBoot特性</summer>
-1、创建独立的Spring项目
+<details>
+<summary>列举一些SpringBoot特性</summary>
   
+1、创建独立的Spring项目
+
 2、内置Tomcat和Jetty容器
 
 3、提供一个starter POMs来简化Maven配置
@@ -10,7 +11,7 @@
 
 5、完全没有代码生成和xml配置文件
 
-</detail>
+</details>  
 
 104.什么是 spring boot？
 
