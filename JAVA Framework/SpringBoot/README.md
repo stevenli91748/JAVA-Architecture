@@ -38,7 +38,7 @@ Spring Boot 并不是用来替代 Spring 的解决方案，而是和 Spring 框�
 * [3. 使用Cloud Studio在线编写、调试和管理Spring Boot应用](http://blog.didispace.com/studio-coding-spring-boot-app/#)
 * [4. 通过Maven来手工构建]()
 * [5. 通过脚手架等方式快速搭建]()
-
+* [一站式SpringBoot for NoSQL Study Tutorial 开发教程学习手册](https://www.cnblogs.com/starcrm/p/9667830.html)
 
 
 # 有用的参考
