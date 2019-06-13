@@ -304,6 +304,7 @@ SQL语言|MySQL|ORACLE|PowerDesigner|MongoDB|分布式数据库|[Redis缓存](ht
 http://www.idl.com.cn/china.html
 
 # 有用的参考
+  * [IT技术精华网关注搜索、分布式系统、云计算、系统架构设计、性能调优、Web开发、数据挖掘、推荐系统](http://www.chepoo.com)
   * [怎样学好java后端？](https://www.zhihu.com/question/307849855/answer/623576509?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
   * [清华、北大、浙大的计算机课程资源集都在这里了](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/88858917)
   * [程序员一般喜欢浏览哪些网站呢？](https://www.zhihu.com/question/283272958/answer/598956527?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
