@@ -30,7 +30,7 @@
 ### 第3个是编程，算法与架构能力，比如分布式，微服务。下面是我为大家罗列出来的一些系统全面学习的导图。
 
 * [一个程序员如何能成为一名资深阿里P7架构师？](https://yq.aliyun.com/articles/660334)
-
+* [如何成为一名合格的Java程序员，阿里P8大牛为你设计路线](https://yq.aliyun.com/articles/661442?spm=a2c4e.11153940.0.0.629015b7gbatxU)
 
 # 第0阶段  [面向对象](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Object%20oriented/interview/README.md)
 
