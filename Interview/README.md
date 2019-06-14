@@ -1,16 +1,5 @@
 
-
-
-
-
 <a href="https://ibb.co/FWKx5VP"><img src="https://i.ibb.co/vBHw3Yt/know-Java.jpg" alt="know-Java" border="0"></a>
-
-
-
-
-
-
-
 
 # 面试知识点目录
 <a href="https://ibb.co/YD10QcB"><img src="https://i.ibb.co/ZHF2XBz/v2-520176dfef7fd1018509c41664b3d8d6-hd.jpg" alt="v2-520176dfef7fd1018509c41664b3d8d6-hd" border="0"></a>
