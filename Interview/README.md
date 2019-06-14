@@ -162,7 +162,7 @@
   * [Sonar知识点](https://github.com/stevenli91748/Engineering-special/blob/master/Sonar/Interview/README.md)
   * java代码规范
   
-# 第九阶段 性能优化
+# [第九阶段 性能优化](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Performance/interview/性能优化知识点.md)
 
 <a href="https://ibb.co/qrYG2KT"><img src="https://i.ibb.co/rw2PXYD/2.jpg" alt="2" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>upload pic</a><br />
 
