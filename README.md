@@ -217,14 +217,14 @@ SOA架构|JPA|Hibernate4|[Spring5](https://github.com/stevenli91748/JAVA-Archite
 
 ### Servlet和JSP
 
-[Servlet][%Servlet]|[JSP][%JSP]|[MVC][%MVC]|JSF|JTA|JNDI|表现层设计|业务层设计|数据层设计|[RESTful API](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/RESTfulAPI.md)|
----|---|---|---|---|---|---|----|---|---|
+[Servlet][%Servlet]|[JSP][%JSP]|[MVC][%MVC]|Servlet3.0特性|[RESTful API](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/RESTfulAPI.md)|
+---|---|---|---|---|
 
 Request和Response|
 ---|
 ---
-[Session][%Session]|[Cookie][%Cookie]|[Token][%Token]|Github|Filter and Listener|国际化|文件上传下载|
----|---|---|---|---|---|---|
+[Session][%Session]|[Cookie][%Cookie]|[Token][%Token]|Github|Filter |Listener|国际化|文件上传下载|
+---|---|---|---|---|---|---|---|
 
 
 ### 网页开发基础
