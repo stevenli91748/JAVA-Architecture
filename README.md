@@ -149,7 +149,7 @@ VisualVM分析工具|
 
 <a href="https://ibb.co/strLHBt"><img src="https://i.ibb.co/zNwKJkN/image.jpg" alt="image" border="0"></a>
 
-### 性能优化
+### [性能优化](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Performance/README.md)
 
 <a href="https://ibb.co/9tFwPRT"><img src="https://i.ibb.co/JQfxZX7/image.jpg" alt="image" border="0"></a>
 
