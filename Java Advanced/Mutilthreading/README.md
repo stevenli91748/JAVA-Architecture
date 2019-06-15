@@ -82,5 +82,5 @@
   * [Java 指定线程执行顺序（三种方式）](https://blog.csdn.net/difffate/article/details/63684290)
   * [java指定线程执行的顺序](https://blog.csdn.net/BeauXie/article/details/53018570)
   * [Java常用锁机制简介](https://www.cnblogs.com/hanganglin/p/3577096.html)
-  
+  * [Java并发编程：Lock](https://www.cnblogs.com/dolphin0520/p/3923167.html)
   
