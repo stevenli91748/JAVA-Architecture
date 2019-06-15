@@ -76,7 +76,8 @@
   * [java多线程之——interrupt深入研究](https://www.cnblogs.com/carmanloneliness/p/3516405.html)
   * [关于线程同步的7种方式](https://www.cnblogs.com/XHJT/p/3897440.html)
   
-  
+  * [深入分析Synchronized](https://blog.csdn.net/shandian000/article/details/54927876) 
+  * [Java并发编程之——Synchronized](https://www.cnblogs.com/paddix/p/5367116.html)
   
   
   
