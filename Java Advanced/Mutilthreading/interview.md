@@ -4,9 +4,6 @@
 
 ---
 
-什麽是Futuretask,future, callable
-
-什麽是虚假唤醒？
 
 
 <details>
@@ -436,6 +433,18 @@ Java程序中wait 和 sleep都会造成某种形式的暂停，它们可以满�
 
 ---
 ---
+
+<details>
+<summary>什麽是Futuretask,future, callable
+</summary>
+
+</details>
+
+<details>
+<summary>什麽是虚假唤醒？</summary>
+
+</details>
+
 
 <details>
 <summary>什么是原子操作？Java 中有哪些原子操作？</summary>
