@@ -189,7 +189,63 @@ volatile是一个特殊的修饰符，只有成员变量才能使用它。在Jav
 <details>
 <summary>什么是线程安全？Vector是一个线程安全类吗？</summary>
   
-如果你的代码所在的进程中有多个线程在同时运行，而这些线程可能会同时运行这段代码。如果每次运行结果和单线程运行的结果是一样的，而且其他的变量的值也和预期的是一样的，就是线程安全的。一个线程安全的计数器类的同一个实例对象在被多个线程使用的情况下也不会出现计算失误。很显然你可以将集合类分成两组，线程安全和非线程安全的。Vector 是用同步方法来实现线程安全的, 而和它相似的ArrayList不是线程安全的。
+线程安全就是多线程访问时，采用了加锁机制，当一个线程访问该类的某个数据时，进行保护，其他线程不能进行访问直到该线程读取完，其他线程才可使用。不会出现数据不一致或者数据污染。线程不安全就是不提供数据访问保护，有可能出现多个线程先后更改数据造成所得到的数据是脏数据
+还有一种通俗的解释：如果你的代码在多线程下执行和在单线程下执行永远都能获得一样的结果，那么你的代码就是线程安全的。
+
+这个问题有值得一提的地方，就是线程安全也是有几个级别的：
+
+（1）不可变
+
+像String、Integer、Long这些，都是final类型的类，任何一个线程都改变不了它们的值，要改变除非新创建一个，因此这些不可变对象不需要任何同步手段就可以直接在多线程环境下使用
+
+（2）绝对线程安全
+
+不管运行时环境如何，调用者都不需要额外的同步措施。要做到这一点通常需要付出许多额外的代价，Java中标注自己是线程安全的类，实际上绝大多数都不是线程安全的，不过绝对线程安全的类，Java中也有，比方说CopyOnWriteArrayList、CopyOnWriteArraySet
+
+（3）相对线程安全
+
+相对线程安全也就是我们通常意义上所说的线程安全，像Vector这种，add、remove方法都是原子操作，不会被打断，但也仅限于此，如果有个线程在遍历某个Vector、有个线程同时在add这个Vector，99%的情况下都会出现ConcurrentModificationException，也就是fail-fast机制。
+
+（4）线程非安全
+
+这个就没什么好说的了，ArrayList、LinkedList、HashMap等都是线程非安全的类.
+
+</details>
+
+<details>
+<summary>JVector, SimpleDateFormat是线程安全类吗？</summary>
+  
+SimpleDateFormate不是线程安全的，如果我们把SimpleDateFormat定义成static成员变量，那么多个thread之间会共享这个sdf对象， 所以Calendar对象也会共享。假定线程A和线程B都进入了parse(text, pos)方法， 线程B执行到calendar.clear()后，线程A执行到calendar.getTime(), 那么就会有问题。
+
+Vector 在方法上使用同步这样做本身没有解决多线程问题，反而，在引入了概念的混乱的同时，导致性能问题，因为 synchronized 的开销是巨大的：阻止编译器乱序 。详情请看《Vector是线程安全吗？》。看下面Vector代码就知道了：
+
+```java
+
+if (!vector.contains(element))
+    vector.add(element);
+    ...
+}
+
+```
+
+这是经典的 put-if-absent 情况，尽管contains, add方法都正确地同步了，但作为 vector之外的使用环境，仍然存在 race condition: 因为虽然条件判断if (!vector.contains(element))与方法调用 vector.add(element); 都是原子性的操作 (atomic)，但在 if 条件判断为真后，那个用来访问vector.contains方法的锁已经释放，在即将的 vector.add方法调用 之间有间隙，在多线程环境中，完全有可能被其他线程获得 vector的 lock并改变其状态, 此时当前线程的vector.add(element); 正在等待（只不过我们不知道而已）。只有当其他线程释放了 vector 的 lock 后，vector.add(element); 继续，但此时它已经基于一个错误的假设了。单个的方法synchronized 了并不代表组合（compound）的方法调用具有原子性，使 compound actions成为线程安全的可能解决办法之一还是离不开intrinsic lock(这个锁应该是 vector的，但由 client 维护)：
+
+```java
+
+// Vector v = ...
+   public  boolean putIfAbsent(E x) {
+       synchronized(v) {
+           boolean absent = !contains(x);
+           if (absent) {
+               add(x);
+           }
+       }
+       return absent;
+   }
+   
+```
+
+所以，正确地回答那个“愚蠢”的问题是：Vector 和 ArrayList 实现了同一接口 List, 但所有的 Vector 的方法都具有 synchronized 关键修饰。但对于复合操作，Vector仍然需要进行同步处理。
 
 </details>
 
@@ -540,12 +596,104 @@ Java程序中wait 和 sleep都会造成某种形式的暂停，它们可以满�
 
 </details>
 
+<details>
+<summary>哪些集合类是线程安全的？</summary>
+
+### 1.在Map类中，提供两种线程安全容器。
+
+(1)java.util.Hashtable
+
+Hashtable和HashMap类似，都是散列表，存储键值对映射。主要区别在于Hashtable是线程安全的。当我们查看Hashtable源码的时候，可以看到Hashtable的方法都是通过synchronized来进行方法层次的同步，以达到线程安全的作用。
+
+(2)java.util.concurrent.ConcurrentHashMap
+
+ConcurrentHashMap是性能更好的散列表。在兼顾线程安全的同时，相对于Hashtable，在效率上有很大的提高。我们可以猜想，Hashtable的线程安全实现是对方法进行synchronized，很明显可以通过其他并发方式，如ReentrantLock进行优化。而ConcurrentHashMap正是采用了ReentrantLock。运用锁分离技术，即在代码块上加锁，而不是方法上加。同时ConcurrentHashMap的一个特色是允许多个修改并发操作。这就有意思了，我们知道一般写都是互斥的，为什么这个还能多个同时写呢？那是因为ConcurrentHashMap采用了内部使用段机制，将ConcurrentHashMap分成了很多小段。只要不在一个小段上写就可以并发写
+
+
+### 2.Collection部分主要是运用的CopyOnWrite机制，即写时复制机制。从字面上就能理解什么意思，就是当我们往一个容器里添加元素的时候，先对这个容器进行一次复制，对副本进行写操作。写操作结束后，将原容器的引用指向新副本容器，就完成了写的刷新。从它的实现原理，我们可以看出这种机制是存在缺点的。
+
+(1).内存占用：毫无疑问，每次写时需要首先复制一遍原容器，假如复制了很多，或者本身原容器就比较大，那么肯定会占用很多内存。可以采用压缩容器中的元素来防止内存消耗过大。
+
+(2).数据一致性问题：当我们在副本中进行写操组时，只能在最终结束后使数据同步，不能实时同步
+可以看到，这种机制适用于读操作多，写操作少的应用场景。
+
+java.util.concurrent.CopyOnWriteArrayList
+
+Collection类的线程安全容器主要都是利用的ReentrantLock实现的线程安全，CopyOnWriteArrayList也不例外。在并发写的时候，需要获取lock。读的时候不需要进行lock
+
+java.util.concurrent.CopyOnWriteArraySet
+
+CopyOnWriteArraySet的实现就是基于CopyOnWriteArrayList实现的，采用的装饰器进行实现。二者的区别和List和Set的区别一样。
+
+Vector
+
+一般我们都不用Vector了，不过它确实也是线程安全的。相对于其他容器，能够提供随机访问功能。
+
+
+</details>
+
+<details>
+<summary>多线程中的忙循环是什么?</summary>
+
+忙循环就是程序员用循环让一个线程等待，不像传统方法wait(), sleep()或 yield()它们都放弃了CPU控制，而忙循环不会放弃CPU，它就是在运行一个空循环。这么做的目的是为了保留CPU缓存，在多核系统中，一个等待线程醒来的时候可能会在另一个内核运行，这样会重建缓存。为了避免重建缓存和减少等待重建的时间就可以使用它了。
+</details>
+
+<details>
+<summary>什么是线程局部变量?</summary>
+
+ThreadLocal，很多地方叫做线程本地变量，也有些地方叫做线程本地存储。变量值的共享可以使用public static变量的形式，所有的线程都使用同一个public static变量，但是如果每一个线程都有自己的变量该如何共享呢，就是通过ThreadLocal，ThreadLocal为变量在每个线程中都创建了一个副本，那么每个线程可以访问自己内部的副本变量。
+
+最常见的ThreadLocal使用场景为 用来解决 数据库连接、Session管理等。譬如在数据库链接的时候可以这样实现：
+
+```java
+
+class ConnectionManager {
+    private  Connection connect = null;
+    public Connection openConnection() {
+        if(connect == null){
+            connect = DriverManager.getConnection();
+        }
+        return connect;
+    }
+    public void closeConnection() {
+        if(connect!=null)
+            connect.close();
+    }
+}
+class Dao{
+    public void insert() {
+        ConnectionManager connectionManager = new ConnectionManager();
+        Connection connection = connectionManager.openConnection();
+        //使用connection进行操作
+        connectionManager.closeConnection();
+    }
+}
+
+```
+
+每次都是在方法内部创建的连接，那么线程之间避免了线程安全问题。但是这样会有一个致命的影响：导致服务器压力非常大，并且严重影响程序执行性能。由于在方法中需要频繁地开启和关闭数据库连接，这样不尽严重影响程序执行效率，还可能导致服务器压力巨大。　那么这种情况下使用ThreadLocal是再适合不过的了，因为ThreadLocal在每个线程中对该变量会创建一个副本，即每个线程内部都会有一个该变量，且在线程内部任何地方都可以使用，线程之间互不影响，这样一来就不存在线程安全问题，也不会严重影响程序执行性能。但是要注意，虽然ThreadLocal能够解决上面说的问题，但是由于在每个线程中都创建了副本，所以要考虑它对资源的消耗，比如内存的占用会比不使用ThreadLocal要大。
+关于ThreadLocal的API：
+
+//关于ThreadLocal的API：
+public T get() { }
+public void set(T value) { }
+public void remove() { }
+protected T initialValue() { }
+
+get()方法是用来获取ThreadLocal在当前线程中保存的变量副本，set()用来设置当前线程中变量的副本，remove()用来移除当前线程中变量的副本，initialValue()是一个protected方法，一般是用来在使用时进行重写的，它是一个延迟加载方法。这部分可以网上参考：[Java并发编程：深入剖析ThreadLocal](https://www.cnblogs.com/dolphin0520/p/3920407.html) ，往上关于此部分知识的有几篇高访问量博文都有争议，切勿照搬，可看评论区。
+
+</details>
+
 ---
 ---
 
 <details>
-<summary>什麽是Futuretask,future, callable
-</summary>
+<summary>什么 Java 原型不是线程安全的？</summary>
+
+</details>
+
+<details>
+<summary>什麽是Futuretask,future, callable</summary>
 
 </details>
 
