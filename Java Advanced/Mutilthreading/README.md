@@ -73,7 +73,7 @@
   * [BAT一线互联网公司多线程面试59道题和答案](https://zhuanlan.zhihu.com/p/59376173?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
   
   * [分门别类总结Java中的各种锁，让你彻底记住](https://zhuanlan.zhihu.com/p/61778635?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
-  
+  * [java多线程之——interrupt深入研究](https://www.cnblogs.com/carmanloneliness/p/3516405.html)
   
   
   
