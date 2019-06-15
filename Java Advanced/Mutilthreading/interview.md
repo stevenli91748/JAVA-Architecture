@@ -1492,6 +1492,40 @@ synchronized在发生异常时，会自动释放线程占有的锁，因此不�
 
 </details>
 
+<details>
+<summary>同步块内的线程抛出异常会发生什么</summary>
+
+
+这个问题坑了很多Java程序员，若你能想到锁是否释放这条线索来回答还有点希望答对。无论你的同步块是正常还是异常退出的，里面的线程都会释放锁，所以对比锁接口我更喜欢同步块，因为它不用我花费精力去释放锁，该功能可以在finally block里释放锁实现。
+
+</details>
+
+<details>
+<summary>当一个线程进入一个对象的synchronized 方法A 之后，其它线程是否可进入此对象的synchronized 方法B</summary>
+
+不能。其它线程只能访问该对象的非同步方法，同步方法则不能进入。因为非静态方法上的synchronized修饰符要求执行方法时要获得对象的锁，如果已经进入A方法说明对象锁已经被取走，那么试图进入B方法的线程就只能在等锁池（注意不是等待池哦 ）中等待对象的锁
+
+</details>
+
+<details>
+<summary>使用 synchronized 修饰静态方法和非静态方法有什么区别</summary>
+
+在static方法前加synchronizedstatic：静态方法属于类方法，它属于这个类，获取到的锁，是属于类的锁。 在普通方法前加synchronizedstatic：非static方法获取到的锁，是属于当前对象的锁。 结论：类锁和对象锁不同，他们之间不会产生互斥。
+
+</details>
+
+<details>
+<summary>如何从给定集合那里创建一个 synchronized 的集合</summary>
+
+我们可以使用Collections.synchronizedCollection(Collection c)根据指定集合来获取一个synchronized（线程安全的）集合。比如HashMap可以这样来实现线程安全：
+
+</details>
+
+
+
+
+
+
 
 
 
