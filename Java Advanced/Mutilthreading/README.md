@@ -74,7 +74,7 @@
   
   * [分门别类总结Java中的各种锁，让你彻底记住](https://zhuanlan.zhihu.com/p/61778635?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
   * [java多线程之——interrupt深入研究](https://www.cnblogs.com/carmanloneliness/p/3516405.html)
-  
+  * [关于线程同步的7种方式](https://www.cnblogs.com/XHJT/p/3897440.html)
   
   
   
