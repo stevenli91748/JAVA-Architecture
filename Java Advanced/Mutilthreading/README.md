@@ -84,3 +84,5 @@
   * [Java常用锁机制简介](https://www.cnblogs.com/hanganglin/p/3577096.html)
   * [Java并发编程：Lock](https://www.cnblogs.com/dolphin0520/p/3923167.html)
   * [ReadWriteLock场景应用](https://www.cnblogs.com/liang1101/p/6475555.html?utm_source=itdadao&utm_medium=referral)  
+  * [分布式锁的几种实现方式](http://www.hollischuang.com/archives/1716)
+  * [分布式锁的3种方式](https://www.cnblogs.com/rwxwsblog/p/6046034.html)
