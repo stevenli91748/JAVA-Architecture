@@ -98,5 +98,5 @@
 
 [JDK并发AQS系列(五)](https://mp.weixin.qq.com/s?__biz=MjM5MzA1Mzc3Nw==&mid=2247484731&idx=1&sn=ab2953011ff87bb863d1aec8fdd176dc&chksm=a69da80591ea21133cc8a3057b73c0bda4cc833c8a7cb16ee6a93cd2db0fcad167e546244aba&scene=21#wechat_redirect)
 
-
+[Java并发编程：深入剖析ThreadLocal](https://www.cnblogs.com/dolphin0520/p/3920407.html)
 
