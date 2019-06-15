@@ -41,14 +41,22 @@
 <details>
 <summary>如何在Java中实现线程？</summary>
   
-在语言层面有两种方式。java.lang.Thread 类的实例就是一个线程但是它需要调用java.lang.Runnable接口来执行，由于线程类本身就是调用的Runnable接口所以你可以继承java.lang.Thread 类或者直接调用Runnable接口来重写run()方法实现线程。更多详细信息请点击这里.
+在语言层面有两种方式。java.lang.Thread 类的实例就是一个线程但是它需要调用java.lang.Runnable接口来执行，由于线程类本身就是调用的Runnable接口所以你可以继承java.lang.Thread 类或者直接调用Runnable接口来重写run()方法实现线程。
 
 </details>
 
 <details>
 <summary>用Runnable还是Thread？</summary>
 
-这个问题是上题的后续，大家都知道我们可以通过继承Thread类或者调用Runnable接口来实现线程，问题是，那个方法更好呢？什么情况下使用它？这个问题很容易回答，如果你知道Java不支持类的多重继承，但允许你调用多个接口。所以如果你要继承其他类，当然是调用Runnable接口好了。更多详细信息请点击这里。
+显然是用Runnable更好，实现Runnable接口比继承Thread类所具有的优势：
+
+1）：适合多个相同的程序代码的线程去处理同一个资源
+
+2）：可以避免java中的单继承的限制
+
+3）：增加程序的健壮性，代码可以被多个线程共享，代码和数据独立
+
+4）：线程池只能放入实现Runable或callable类线程，不能直接放入继承Thread的类
 
 </details>
 
@@ -63,6 +71,89 @@
 <summary>Java中Runnable和Callable有什么不同？</summary>
 
 Runnable和Callable都代表那些要在不同的线程中执行的任务。Runnable从JDK1.0开始就有了，Callable是在JDK1.5增加的。它们的主要区别是Callable的 call() 方法可以返回值和抛出异常，而Runnable的run()方法没有这些功能。Callable可以返回装载有计算结果的Future对象。
+
+</details>
+
+<details>
+<summary>多线程的几种实现方式？</summary>
+
+（1）继承Thread类
+
+（2）实现Runnable接口
+
+```java
+
+//继承Thread类
+class Thread1 extends Thread{
+    private String name;
+    public Thread1(String name) {
+       this.name=name;
+    }
+    public void run() {
+        for (int i = 0; i < 5; i++) {
+            System.out.println(name + "运行  :  " + i);
+            try {
+                sleep((int) Math.random() * 10);
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
+        }
+    }
+}
+public class Main {
+    public static void main(String[] args) {
+        Thread1 mTh1=new Thread1("A");
+        Thread1 mTh2=new Thread1("B");
+        mTh1.start();
+        mTh2.start();
+    }
+}
+
+```
+
+说明：
+程序启动运行main时候，java虚拟机启动一个进程，主线程main在main()调用时候被创建。随着调用两个对象的start方法，另外两个线程也启动了，这样，整个应用就在多线程下运行。
+
+注意：start()方法的调用后并不是立即执行多线程代码，而是使得该线程变为可运行态（Runnable），什么时候运行是由操作系统决定的。从程序运行的结果可以发现，多线程程序是乱序执行。因此，只有乱序执行的代码才有必要设计为多线程。Thread.sleep()方法调用目的是不让当前线程独自霸占该进程所获取的CPU资源，以留出一定时间给其他线程执行的机会。实际上所有的多线程代码执行顺序都是不确定的，每次执行的结果都是随机的。
+
+实现接口的方式比继承类的方式更灵活，也能减少程序之间的耦合度，面向接口编程也是设计模式6大原则的核心。
+
+```java
+
+//实现Runnable接口
+class Thread2 implements Runnable{
+    private String name;
+    public Thread2(String name) {
+        this.name=name;
+    }
+
+    @Override
+    public void run() {
+          for (int i = 0; i < 5; i++) {
+                System.out.println(name + "运行  :  " + i);
+                try {
+                    Thread.sleep((int) Math.random() * 10);
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                }
+            }
+    }
+}
+
+public class Main {
+    public static void main(String[] args) {
+        new Thread(new Thread2("C")).start();
+        new Thread(new Thread2("D")).start();
+    }
+}
+
+```
+
+说明：
+Thread2类通过实现Runnable接口，使得该类有了多线程类的特征。run（）方法是多线程程序的一个约定。所有的多线程代码都在run方法里面。Thread类实际上也是实现了Runnable接口的类。
+
+在启动的多线程的时候，需要先通过Thread类的构造方法Thread(Runnable target)构造出对象，然后调用Thread对象的start()方法来运行多线程代码。
+实际上所有的多线程代码都是通过运行Thread的start()方法来运行的。因此，不管是扩展Thread类还是实现Runnable接口来实现多线程，最终还是通过Thread的对象的API来控制线程的，熟悉Thread类的API是进行多线程编程的基础。
 
 </details>
 
