@@ -78,7 +78,7 @@
   
   * [深入分析Synchronized](https://blog.csdn.net/shandian000/article/details/54927876) 
   * [Java并发编程之——Synchronized](https://www.cnblogs.com/paddix/p/5367116.html)
-  
+  * [java两种线程同步方式的区别——Synchronized和ReentrantLock](https://blog.csdn.net/chenchaofuck1/article/details/51045134)
   
   
   
