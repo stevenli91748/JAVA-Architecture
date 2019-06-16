@@ -105,3 +105,9 @@
 
 [Java并发编程：深入剖析ThreadLocal](https://www.cnblogs.com/dolphin0520/p/3920407.html)
 [聊聊并发系列文章](http://ifeve.com/talk-concurrency/)
+
+[从Java视角理解系统结构(一)CPU上下文切换](http://ifeve.com/java-context-switch/)
+
+[从Java视角理解系统结构（二）CPU缓存](http://ifeve.com/from-javaeye-cpu-cache/)
+
+[从Java视角理解系统结构（三）伪共享](http://ifeve.com/from-javaeye-false-sharing/)
