@@ -86,3 +86,4 @@
   * [ReadWriteLock场景应用](https://www.cnblogs.com/liang1101/p/6475555.html?utm_source=itdadao&utm_medium=referral)  
   * [分布式锁的几种实现方式](http://www.hollischuang.com/archives/1716)
   * [分布式锁的3种方式](https://www.cnblogs.com/rwxwsblog/p/6046034.html)
+  * [深入理解线程通信](http://ifeve.com/深入理解线程通信/)
