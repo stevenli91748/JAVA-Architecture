@@ -28,6 +28,7 @@
   * [终于有人把Java内存模型说清楚了](https://zhuanlan.zhihu.com/p/61424782)
   * [案例：隐秘而低调的内存泄露（OOM）](https://blog.51cto.com/xqtesting/2402372)
   * [内存屏障和 volatile 语义](http://www.importnew.com/29860.html)
+  * [内存屏障与 JVM 并发](https://www.infoq.cn/article/memory_barriers_jvm_concurrency/)
   * [如何保存/恢复Java应用程序核心内存数据现场](http://ifeve.com/如何保存-恢复java应用程序核心内存数据现场？/)
   
   * [深入理解Java内存模型（一）——基础](http://ifeve.com/java-memory-model-1/)
