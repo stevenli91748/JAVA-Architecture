@@ -216,7 +216,7 @@
 * [扒一扒 JVM 的垃圾回收机制，拿大厂offer少不了它！](https://mp.weixin.qq.com/s/-npEviJ8m1TcO84i7-HVYg)
 * [聊聊JVM](https://blog.csdn.net/ITer_ZC/column/info/talk-about-jvm)
 * [从字节码和 JVM 的角度解析 Java 核心类 String 的不可变特性](http://www.importnew.com/26595.html)
-* []()
+* [通过JVM日志来进行安全点分析](http://ifeve.com/logging-stop-the-world-pauses-in-jvm/)
 * []()
 * []()
 * []()
