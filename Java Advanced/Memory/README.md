@@ -52,11 +52,11 @@
   * [同步和Java内存模型(四)有序性](http://ifeve.com/syn-jmm-ordering/)
   * [同步和Java内存模型（五）Volatile](http://ifeve.com/syn-jmm-volatile/)
   
-  [CPU缓存刷新的误解](http://ifeve.com/cpu-cache-flushing-fallacy-cn/)
-  [伪共享(False Sharing)](http://ifeve.com/falsesharing/)
-  [Java 7与伪共享的新仇旧恨](http://ifeve.com/false-shareing-java-7-cn/)
-  [内存访问模型的重要性](http://ifeve.com/memory-access-patterns-are-important-2/)
-  [Memory Barriers/Fences](http://ifeve.com/mechanical-sympathy/)
-  [合并写(write combining)](http://ifeve.com/writecombining/)
-  [内存屏障](http://ifeve.com/memory-barriers-or-fences/)
+  * [CPU缓存刷新的误解](http://ifeve.com/cpu-cache-flushing-fallacy-cn/)
+  * [伪共享(False Sharing)](http://ifeve.com/falsesharing/)
+  * [Java 7与伪共享的新仇旧恨](http://ifeve.com/false-shareing-java-7-cn/)
+  * [内存访问模型的重要性](http://ifeve.com/memory-access-patterns-are-important-2/)
+  * [Memory Barriers/Fences](http://ifeve.com/mechanical-sympathy/)
+  * [合并写(write combining)](http://ifeve.com/writecombining/)
+  * [内存屏障](http://ifeve.com/memory-barriers-or-fences/)
   
