@@ -34,6 +34,7 @@
 
 
 # 有用的参考
+* [并发网系列文章集](http://ifeve.com/paper-set/)
 * [看动画学并发编程](https://sourceforge.net/projects/javaconcurrenta/)
 
 
