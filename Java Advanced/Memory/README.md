@@ -29,7 +29,7 @@
   * [案例：隐秘而低调的内存泄露（OOM）](https://blog.51cto.com/xqtesting/2402372)
   * [内存屏障和 volatile 语义](http://www.importnew.com/29860.html)
 
-  * [深入理解Java内存模型（一）——基础](http://ifeve.com/java-memory-model-1/)http://ifeve.com/java-memory-model-1/
+  * [深入理解Java内存模型（一）——基础](http://ifeve.com/java-memory-model-1/)
   * [深入理解Java内存模型（二）——重排序](http://ifeve.com/java-memory-model-2/)
   * [深入理解Java内存模型（三）——顺序一致性](http://ifeve.com/java-memory-model-3/)
   * [深入理解Java内存模型（四）——volatile](http://ifeve.com/java-memory-model-4/)
