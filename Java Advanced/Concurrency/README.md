@@ -111,3 +111,17 @@
 [从Java视角理解系统结构（二）CPU缓存](http://ifeve.com/from-javaeye-cpu-cache/)
 
 [从Java视角理解系统结构（三）伪共享](http://ifeve.com/from-javaeye-false-sharing/)
+
+[Java 7 并发编程指南中文版](http://ifeve.com/java-7-concurrency-cookbook/)
+
+[Java并发性和多线程介绍目录](http://ifeve.com/java-concurrency-thread-directory/)
+
+[CPU缓存刷新的误解](http://ifeve.com/cpu-cache-flushing-fallacy-cn/)
+[伪共享(False Sharing)](http://ifeve.com/falsesharing/)
+[Java 7与伪共享的新仇旧恨](http://ifeve.com/false-shareing-java-7-cn/)
+[内存访问模型的重要性](http://ifeve.com/memory-access-patterns-are-important-2/)
+[Memory Barriers/Fences](http://ifeve.com/mechanical-sympathy/)
+[合并写(write combining)](http://ifeve.com/writecombining/)
+[内存屏障](http://ifeve.com/memory-barriers-or-fences/)
+[]()
+[]()
