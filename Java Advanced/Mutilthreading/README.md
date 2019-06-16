@@ -87,3 +87,4 @@
   * [分布式锁的几种实现方式](http://www.hollischuang.com/archives/1716)
   * [分布式锁的3种方式](https://www.cnblogs.com/rwxwsblog/p/6046034.html)
   * [深入理解线程通信](http://ifeve.com/深入理解线程通信/)
+  * [线程池运用实例——一次错误的多线程程序设计以及修复过程](http://ifeve.com/threadpool-example/)
