@@ -59,4 +59,4 @@
   * [Memory Barriers/Fences](http://ifeve.com/mechanical-sympathy/)
   * [合并写(write combining)](http://ifeve.com/writecombining/)
   * [内存屏障](http://ifeve.com/memory-barriers-or-fences/)
-  
+  * [Linux内核的内存屏障](http://ifeve.com/linux-memory-barriers/)
