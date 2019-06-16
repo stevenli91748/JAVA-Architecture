@@ -41,7 +41,7 @@
 * [Java构建高并发高可用的电商平台架构实践](https://blog.csdn.net/lsm135/article/details/50920483)
 * [【Java并发编程】并发编程大合集](https://blog.csdn.net/ns_code/article/details/17539599)
 * [java系统高并发解决方案（转载）](https://blog.csdn.net/jimmy609/article/details/37810591)
-
+* [Java并发-不懂原理多吃亏](http://ifeve.com/java-concureent/)
 石杉的架构笔记
 * [大白话聊聊Java并发面试问题之volatile到底是什么？](https://mp.weixin.qq.com/s/MIsQv8ZWWBzfB-Qhg3l4lA)
 * [大白话聊聊Java并发面试问题之Java 8如何优化CAS性能？](https://mp.weixin.qq.com/s/KFsqsCVgyiiTDXMR-Hu1-Q)
