@@ -130,6 +130,16 @@
 
 [内存屏障](http://ifeve.com/memory-barriers-or-fences/)
 
+[Java并发结构](http://ifeve.com/java-concurrency-constructs/)
+
+[任务取消(Cancellation)](http://ifeve.com/cancellation/)
+
+[JUC同步框架 ](http://ifeve.com/aqs/)
+
+[并发数据结构](http://ifeve.com/concurrent-data-structures/)
+[]()
+[]()
+
 [Oracle官方并发教程](http://ifeve.com/oracle-java-concurrency-tutorial/)
 
 [聊聊并发（一）深入分析Volatile的实现原理](http://ifeve.com/volatile/)
@@ -141,10 +151,15 @@
 [聊聊并发（四）深入分析ConcurrentHashMap](http://ifeve.com/concurrenthashmap/)
 
 [聊聊并发（五）原子操作的实现原理](http://ifeve.com/atomic-operation/)
+
 [聊聊并发（六）ConcurrentLinkedQueue的实现原理分析](http://ifeve.com/concurrentlinkedqueue/)
+
 [聊聊并发（七）——Java中的阻塞队列](http://ifeve.com/java-blocking-queue/)
+
 [聊聊并发（八）——Fork/Join框架介绍](http://ifeve.com/talk-concurrency-forkjoin/)
+
 [聊聊并发（九）Java中的CopyOnWrite容器](http://ifeve.com/java-copy-on-write/)
+
 [聊聊并发（十）生产者消费者模式](http://ifeve.com/producers-and-consumers-mode/)
 []()
 []()
