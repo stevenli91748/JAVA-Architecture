@@ -73,6 +73,9 @@
 # 69.@RequestMapping注解
 # 70.返回Json用什么注解？
 
+[69道Spring面试题和答案](http://ifeve.com/spring-interview-questions-and-answers/)
+
+
 90.为什么要使用 spring？
 91.解释一下什么是 aop？
 92.解释一下什么是 ioc？
