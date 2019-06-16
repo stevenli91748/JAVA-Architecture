@@ -438,5 +438,5 @@ Java 7之前，switch后面的括号里面只能放int类型的值，注意是�
  
 </details>
 
-
-
+### Try-with-resources
+[Java 7中的Try-with-resources](http://ifeve.com/java-7中的try-with-resources/)
