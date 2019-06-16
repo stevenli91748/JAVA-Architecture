@@ -38,4 +38,17 @@
   * [深入理解Java内存模型（五）——锁](http://ifeve.com/java-memory-model-5/)
   * [深入理解Java内存模型（六）——final](http://ifeve.com/java-memory-model/)
   * [深入理解Java内存模型（七）——总结](http://ifeve.com/java-memory-model-7/)
-  * [Java内存模型FAQ](http://ifeve.com/jmm-faq/)
+  * [Java内存模型FAQ系列](http://ifeve.com/jmm-faq/)
+  
+  * [Java内存模型Cookbook-前言](http://ifeve.com/jmm-cookbook/)
+  * [JMM Cookbook(一)指令重排](http://ifeve.com/jmm-cookbook-reorderings/)
+  * [Java内存模型Cookbook（二）内存屏障](http://ifeve.com/jmm-cookbook-mb/)
+  * [Java内存模型Cookbook(三)多处理器](http://ifeve.com/jmm-cookbook-mps/)
+  * [Java内存模型Cookbook（四）指南(Recipes)](http://ifeve.com/cookbook-recipes/)
+  
+  * [同步与Java内存模型(一)序言](http://ifeve.com/syn-jmm-pre/)
+  * [同步和Java内存模型 (二)原子性](http://ifeve.com/syn-jmm-atomicity/)
+  * [同步和Java内存模型 (三)可见性](http://ifeve.com/syn-jmm-visibility/)
+  * [同步和Java内存模型(四)有序性](http://ifeve.com/syn-jmm-ordering/)
+  * [同步和Java内存模型（五）Volatile](http://ifeve.com/syn-jmm-volatile/)
+  
