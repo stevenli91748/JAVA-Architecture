@@ -117,11 +117,35 @@
 [Java并发性和多线程介绍目录](http://ifeve.com/java-concurrency-thread-directory/)
 
 [CPU缓存刷新的误解](http://ifeve.com/cpu-cache-flushing-fallacy-cn/)
+
 [伪共享(False Sharing)](http://ifeve.com/falsesharing/)
+
 [Java 7与伪共享的新仇旧恨](http://ifeve.com/false-shareing-java-7-cn/)
+
 [内存访问模型的重要性](http://ifeve.com/memory-access-patterns-are-important-2/)
+
 [Memory Barriers/Fences](http://ifeve.com/mechanical-sympathy/)
+
 [合并写(write combining)](http://ifeve.com/writecombining/)
+
 [内存屏障](http://ifeve.com/memory-barriers-or-fences/)
+
+[Oracle官方并发教程](http://ifeve.com/oracle-java-concurrency-tutorial/)
+
+[聊聊并发（一）深入分析Volatile的实现原理](http://ifeve.com/volatile/)
+
+[聊聊并发（二）Java SE1.6中的Synchronized](http://ifeve.com/java-synchronized/)
+
+[聊聊并发（三）Java线程池的分析和使用](http://ifeve.com/java-threadpool/)
+
+[聊聊并发（四）深入分析ConcurrentHashMap](http://ifeve.com/concurrenthashmap/)
+
+[聊聊并发（五）原子操作的实现原理](http://ifeve.com/atomic-operation/)
+[聊聊并发（六）ConcurrentLinkedQueue的实现原理分析](http://ifeve.com/concurrentlinkedqueue/)
+[聊聊并发（七）——Java中的阻塞队列](http://ifeve.com/java-blocking-queue/)
+[聊聊并发（八）——Fork/Join框架介绍](http://ifeve.com/talk-concurrency-forkjoin/)
+[聊聊并发（九）Java中的CopyOnWrite容器](http://ifeve.com/java-copy-on-write/)
+[聊聊并发（十）生产者消费者模式](http://ifeve.com/producers-and-consumers-mode/)
+[]()
 []()
 []()
