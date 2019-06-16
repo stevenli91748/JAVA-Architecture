@@ -140,7 +140,7 @@
 
 [J.U.C并发框架](http://ifeve.com/j-u-c-framework/)
 
-[]()
+[并发框架Disruptor](http://ifeve.com/disruptor/)
 []()
 
 [Oracle官方并发教程](http://ifeve.com/oracle-java-concurrency-tutorial/)
