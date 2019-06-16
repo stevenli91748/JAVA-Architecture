@@ -38,4 +38,4 @@
   * [深入理解Java内存模型（五）——锁](http://ifeve.com/java-memory-model-5/)
   * [深入理解Java内存模型（六）——final](http://ifeve.com/java-memory-model/)
   * [深入理解Java内存模型（七）——总结](http://ifeve.com/java-memory-model-7/)
-  * []()
+  * [Java内存模型FAQ](http://ifeve.com/jmm-faq/)
