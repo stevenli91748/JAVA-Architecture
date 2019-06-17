@@ -596,6 +596,7 @@ class Singleton{
 这是一种懒汉的单例模式，使用时才创建对象，而且为了避免初始化操作的指令重排序，给instance加上了volatile
 
 </details>
+
 * [volatile 关键字实现原理》汇编层面的讲解，推荐](http://www.importnew.com/27002.html)
 * [全面理解Java内存模型(JMM)及volatile关键字](https://blog.csdn.net/javazejian/article/details/72772461)
 * [Java中volatile关键字的最全总结](https://blog.csdn.net/u012723673/article/details/80682208)
