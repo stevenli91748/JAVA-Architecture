@@ -608,7 +608,8 @@ class Singleton{
 * [内存屏障和 volatile 语义](http://www.importnew.com/29860.html)
 * [面试必问的 volatile，你了解多少？](http://www.importnew.com/27863.html)
 * [就是要你懂 Java 中 volatile 关键字实现原理](http://www.importnew.com/27002.html)
- 
+* [详解Java面试官最爱问的volatile关键字](https://www.jb51.net/article/133313.htm) 
+
 ### throw and throws关键字
 
 throw是指的语句抛出一个异常，throws指的是声明方法可能抛出的异常类型
