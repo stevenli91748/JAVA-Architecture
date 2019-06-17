@@ -92,3 +92,4 @@
   * [线程池运用实例——一次错误的多线程程序设计以及修复过程](http://ifeve.com/threadpool-example/)
   * [Java Fork Join 框架](http://ifeve.com/a-java-fork-join-framework/)
   * [同步和Java内存模型](http://ifeve.com/syn-jmm/)
+  * [实例详解Java中ThreadLocal内存泄露](https://www.jb51.net/article/90450.htm)
