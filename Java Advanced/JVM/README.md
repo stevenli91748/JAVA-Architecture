@@ -229,4 +229,4 @@
 * [JVM性能优化 （五）Java的伸缩性](http://ifeve.com/jvm-performance-optimization-java-scalability-5/)
 * [JVM 内部运行线程介绍](http://ifeve.com/jvm-thread/)
 * [JVM Attach机制实现](http://ifeve.com/jvm-attach/)
-
+* [JVM 心得 OOM时的堆信息获取方法与分析](https://www.jb51.net/article/125968.htm)
