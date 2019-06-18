@@ -73,6 +73,20 @@
 # 69.@RequestMapping注解
 # 70.返回Json用什么注解？
 
+
+
+# 项目经验
+
+<details>
+<summary>一项目中有通过插件的方式，利用java中反射加载的类，有通过spring bean配置加载类，对于反射加载的类，如何来进行spring aop的配置呢？</summary>
+
+通过spring 自己加载的类, 它在加载时, 它可以有两个选择(二者选其一即可), 一个是做动态代理. 一个是通过asm,进行class修改. 做了这两个之后, aop便是顺其自然的事情 . 你new的类,没有做这些事情, 肯定无法利用spring的aop.
+aop本身实现并不复杂, 你可以自己写一个加载器. 多多参考一下网上用例吧. 自己使用动态代理+反射做,效率会低一些. 如果使用asm或者cglib做,负责一些,但是效率最高.
+
+<details>
+  
+  
+  
 [69道Spring面试题和答案](http://ifeve.com/spring-interview-questions-and-answers/)
 
 
