@@ -6,3 +6,5 @@
   * Lambda表达式可操纵的变量作用域
   * Lambda表达式中的方法引用
   * 函数式接口
+
+  * [Java内部类与lambda表达式](https://blog.csdn.net/m0_38090156/article/details/79493515)
