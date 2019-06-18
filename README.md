@@ -381,7 +381,7 @@ http://www.idl.com.cn/china.html
 [%Java常用类]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#Java常用类
 [%对象与类]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#对象与类
 [%继承]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Object%20oriented/%E7%BB%A7%E6%89%BF.md
-[%接口]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#接口
+[%接口]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/接口.md
 [%Lambda标达式]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#Lambda标达式
 [%内部类]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/%E5%86%85%E9%83%A8%E7%B1%BB.md
 [%异常 断言和日志]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/异常%20断言和日志.md
