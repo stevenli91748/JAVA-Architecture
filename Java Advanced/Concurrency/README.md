@@ -172,3 +172,5 @@
 [非阻塞同步算法实战（三）－LatestResultsProvider](http://ifeve.com/latestresultsprovider/)
 
 [TimeUnit是java.util.concurrent包下面的一个类，表示给定单元粒度的时间段](https://www.cnblogs.com/zhaoyanjun/p/5486726.html)
+
+[阿里一道Java并发面试题 (详细分析篇)](https://blog.csdn.net/lirenzuo/article/details/90050894)
