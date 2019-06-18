@@ -376,7 +376,9 @@ http://www.idl.com.cn/china.html
   * [五一假期充电指南：4月Github最热门的Java项目推荐](https://mp.weixin.qq.com/s/OawYQ9saxtRbZ1gPMof2Og)
   * [Java和操作系统交互细节](https://zhuanlan.zhihu.com/p/62055873?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
   * [Java 推荐读物与源代码阅读！](https://blog.csdn.net/zidane1983/article/details/4177240)
+  * [函数回调机制、异步函数回调机制图例详解](https://blog.csdn.net/zhangliangzi/article/details/52066560)
   
+
 [%JAVA-8的流库]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#JAVA-8的流库
 [%Java常用类]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#Java常用类
 [%对象与类]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#对象与类
