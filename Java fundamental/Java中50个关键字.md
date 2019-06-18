@@ -682,3 +682,6 @@ Java 7之前，switch后面的括号里面只能放int类型的值，注意是�
 
 ### Try-with-resources
 [Java 7中的Try-with-resources](http://ifeve.com/java-7中的try-with-resources/)
+
+### Serializable
+[Java中序列化接口Serializable接口的作用](https://blog.csdn.net/xilihong816/article/details/78893032)
