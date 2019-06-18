@@ -43,3 +43,4 @@
 * [面向对象三大特性五大原则 + 低耦合高内聚](https://www.cnblogs.com/corvoh/p/5747856.html)
 * [java中的访问修饰符](https://www.cnblogs.com/tjudzj/p/4443066.html)
 * [java中的类修饰符、成员变量修饰符、方法修饰符。](https://www.cnblogs.com/lixiaolun/p/4311727.html)
+* [理解java多态的概念和作用](https://blog.csdn.net/Hack_Bug/article/details/26231221)
