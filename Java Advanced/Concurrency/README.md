@@ -170,3 +170,5 @@
 [非阻塞同步算法实战（二）－BoundlessCyclicBarrier](http://ifeve.com/boundlesscyclicbarrier/)
 
 [非阻塞同步算法实战（三）－LatestResultsProvider](http://ifeve.com/latestresultsprovider/)
+
+[TimeUnit是java.util.concurrent包下面的一个类，表示给定单元粒度的时间段](https://www.cnblogs.com/zhaoyanjun/p/5486726.html)
