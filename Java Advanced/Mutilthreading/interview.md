@@ -2375,6 +2375,17 @@ class Singleton{
 
 </details>
 
+<details>
+<summary>守护线程</summary>
+
+1、setDaemon(true)必须在调用线程的start（）方法之前设置，否则会抛出IllegalThreadStateException异常。
+
+2、在守护线程中产生的新线程也是守护线程。
+
+3、 不要认为所有的应用都可以分配给守护线程来进行服务，比如读写操作或者计算逻辑。
+
+</details>
+
 
 ---
 ---
