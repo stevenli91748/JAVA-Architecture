@@ -96,3 +96,5 @@
   * [同步和Java内存模型](http://ifeve.com/syn-jmm/)
   * [实例详解Java中ThreadLocal内存泄露](https://www.jb51.net/article/90450.htm)
   * [15个顶级Java多线程面试题及回答 / Java程序员面试中的多线程问题](https://blog.csdn.net/liangxw1/article/details/51187162)
+  * [Java并发：创建线程的两种方法：继承Thread类和实现Runnable接口（一）](https://blog.csdn.net/jingzi123456789/article/details/69830907)
+  * [守护线程与非守护线程](https://blog.csdn.net/lc1010078424/article/details/79613348)
