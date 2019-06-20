@@ -60,3 +60,4 @@
   * [合并写(write combining)](http://ifeve.com/writecombining/)
   * [内存屏障](http://ifeve.com/memory-barriers-or-fences/)
   * [Linux内核的内存屏障](http://ifeve.com/linux-memory-barriers/)
+  * [Java中对象都是分配在堆上吗](https://blog.csdn.net/c526796017/article/details/80816061)
