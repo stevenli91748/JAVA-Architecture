@@ -1,6 +1,8 @@
 # [java 内存面试知识点](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/Memory/Interview/JAVA内存模型.md)
 # 目录
 
+<a href="https://ibb.co/6gS7kFZ"><img src="https://i.ibb.co/SRg4zBx/2018090421174179.png" alt="2018090421174179" border="0"></a>
+
 * 栈内存：用于存储局部变量，当数据使用完，所占空间会自动释放。 
 * 堆内存：数组和对象，通过new建立的实例都存放在堆内存中。 
 * 方法区：静态成员、构造函数、常量池、线程池 
