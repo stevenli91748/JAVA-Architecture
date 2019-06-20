@@ -63,6 +63,11 @@
 <details>
 <summary>虚拟机体系结构</summary>
 
+### Java线程栈
+### 本地方法栈
+### 
+[虚拟机体系结构](https://blog.csdn.net/qq_35779815/article/details/82882641)
+
 </details>
 
 <details>
