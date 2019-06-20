@@ -1,4 +1,4 @@
-# [java 内存面试知识点]()
+# [java 内存面试知识点](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/Memory/Interview/JAVA内存模型.md)
 # 目录
 
 * 栈内存：用于存储局部变量，当数据使用完，所占空间会自动释放。 
