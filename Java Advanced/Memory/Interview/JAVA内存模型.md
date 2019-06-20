@@ -86,7 +86,7 @@
   
 **编译器通过逃逸分析，确定对象是在栈上分配还是在堆上分配**。
 
-如果开启栈上分配，JVM会先进行栈上分配，如果没有开启栈上分配或则不符合条件的则会在堆上进行TLAB分配，如果tlab_top + size <= tlab_end，则在在TLAB上直接分配对象并增加tlab_top 的值，如果现有的TLAB不足以存放当前对象则重新申请一个TLAB，并再次尝试存放当前对象。如果放不下，再尝试在eden区分配，在Eden区加锁（这个区是多线程共享的），如果eden_top + size <= eden_end则将对象存放在Eden区，增加eden_top 的值，如果Eden区不足以存放则执行一次Young GC（minor collection）,经过Young GC之后，如果Eden区任然不足以存放当前对象，则直接分配到老年代。 
+如果开启栈上分配，JVM会先进行栈上分配，如果没有开启栈上分配或则不符合条件的则会在堆上进行TLAB分配，如果tlab_top + size <= tlab_end，则在在TLAB上直接分配对象并增加tlab_top 的值，如果现有的TLAB不足以存放当前对象则重新申请一个TLAB，发出一次“TLAB refill”，也就是说之前自己的TLAB就“不管了”（所有权交回给共享的Eden），然后重新从Eden里分配一块空间作为新的TLAB。所谓“不管了”并不是说就让旧TLAB里的对象直接死掉，而是把那块空间的控制权归还给普通的Eden，里面的对象该怎样还是怎样  并再次尝试存放当前对象。如果放不下，再尝试在eden区分配，在Eden区加锁（这个区是多线程共享的），如果eden_top + size <= eden_end则将对象存放在Eden区，增加eden_top 的值，如果Eden区不足以存放则执行一次Young GC（minor collection）,经过Young GC之后，如果Eden区任然不足以存放当前对象，则直接分配到老年代。 
 
 对象不在堆上分配主要的原因还是堆是共享的，在堆上分配有锁的开销。无论是TLAB还是栈都是线程私有的，私有即避免了竞争（当然也可能产生额外的问题例如可见性问题），这是典型的用空间换效率的做法。
 
@@ -112,8 +112,24 @@ JVM在内存新生代Eden Space中开辟了一小块线程私有的区域，称�
 
 也就是说，**Java中每个线程都会有自己的缓冲区称作TLAB（Thread-local allocation buffer），每个TLAB都只有一个线程可以操作**，TLAB结合bump-the-pointer技术可以实现快速的对象分配，而不需要任何的锁进行同步，也就是说，在对象分配的时候不用锁住整个堆，而只需要在自己的缓冲区分配即可。 
 
- [Java中对象都是分配在堆上吗？](https://blog.csdn.net/c526796017/article/details/80816061)
+即线程本地分配缓存区，这是一个线程专用的内存分配区域。 
+由于对象一般会分配在堆上，而堆是全局共享的。因此在同一时间，可能会有多个线程在堆上申请空间。因此，每次对象分配都必须要进行同步（虚拟机采用CAS配上失败重试的方式保证更新操作的原子性），而在竞争激烈的场合分配的效率又会进一步下降。JVM使用TLAB来避免多线程冲突，在给对象分配内存时，每个线程使用自己的TLAB，这样可以避免线程同步，提高了对象分配的效率。
+
+每个线程会从Eden分配一大块空间，例如说100KB，作为自己的TLAB。这个start是TLAB的起始地址，end是TLAB的末尾，然后top是当前的分配指针。显然start <= top < end。
+
+当一个Java线程在自己的TLAB中分配到尽头之后，再要分配就会出发一次“TLAB refill”，也就是说之前自己的TLAB就“不管了”（所有权交回给共享的Eden），然后重新从Eden里分配一块空间作为新的TLAB。所谓“不管了”并不是说就让旧TLAB里的对象直接死掉，而是把那块空间的控制权归还给普通的Eden，里面的对象该怎样还是怎样。通常情况下，在TLAB中分配多次才会填满TLAB、触发TLAB refill，这样使用TLAB分配就比直接从共享部分的Eden分配要均摊（amortized）了同步开销，于是提高了性能。其实很多关注多线程性能的malloc库实现也会使用类似的做法，例如TCMalloc。
+
+到触发GC的时候，无论是minor GC还是full GC，要收集Eden的时候里面的空间无论是属于某个线程的TLAB还是不属于任何TLAB都一视同仁，把Eden当作一个整体来收集里面的对象——把活的对象拷贝到survivor space（或者直接晋升到Old Gen）。在GC结束之后，每个Java线程又会重新从Eden分配自己的TLAB。周而复始。
+
+[Java中对象都是分配在堆上吗？](https://blog.csdn.net/c526796017/article/details/80816061)
  
+</details>   
+
+<details>
+<summary>TLAB分配的对象可以共享吗？  </summary>
+   
+只要是Heap上的对象，所有线程都是可以共享的，就看你有没有本事访问到了。在GC的时候只从root sets来扫描对象，而不管你到底在哪个TLAB中。
+
 </details>   
 
 <details>
