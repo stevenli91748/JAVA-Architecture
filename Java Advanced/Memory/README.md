@@ -64,3 +64,5 @@
   * [内存屏障](http://ifeve.com/memory-barriers-or-fences/)
   * [Linux内核的内存屏障](http://ifeve.com/linux-memory-barriers/)
   * [Java中对象都是分配在堆上吗](https://blog.csdn.net/c526796017/article/details/80816061)
+  * [java 进程内存组成](https://blog.csdn.net/snoweaglelord/article/details/81094153)
+  * [java进程占用系统内存高，排查方法](https://blog.csdn.net/weixin_41953276/article/details/81362739)
