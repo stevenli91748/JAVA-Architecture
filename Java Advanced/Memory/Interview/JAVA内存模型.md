@@ -1,4 +1,13 @@
+<details>
+<summary>java 进程内存组成</summary>
 
+[java 进程内存组成](https://blog.csdn.net/snoweaglelord/article/details/81094153)
+
+[]()
+
+
+</details>
+   
 <details>
 <summary>java内存分布</summary>
 
