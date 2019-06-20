@@ -72,6 +72,6 @@
   * [Java线上应用故障排查之二：高内存占用](https://blog.csdn.net/lao_pei/article/details/50615857)
   * [线上应用故障排查：高内存占用](https://blog.csdn.net/li12412414/article/details/81366478)
   * [LINUX类主机JAVA应用程序占用CPU、内存过高分析手段](https://blog.csdn.net/lin443514407lin/article/details/54667317)
-  * []()
+  * [简单通俗了解一个完整的Java程序运行过程（内存分配情况）](https://blog.csdn.net/m0_37499059/article/details/80451799)
   * []()
   
