@@ -67,3 +67,11 @@
   * [java 进程内存组成](https://blog.csdn.net/snoweaglelord/article/details/81094153)
   * [java进程占用系统内存高，排查方法](https://blog.csdn.net/weixin_41953276/article/details/81362739)
   * [Java内存溢出的原因有哪些](https://blog.csdn.net/sinlff/article/details/62040358)
+  * [JAVA进程占用高内存原因分析与优化方法](https://blog.csdn.net/u014022631/article/details/73499629)
+  * [Java线上应用故障排查之一：高内存占用](https://blog.csdn.net/jlh912008548/article/details/79768889)
+  * [Java线上应用故障排查之二：高内存占用](https://blog.csdn.net/lao_pei/article/details/50615857)
+  * [线上应用故障排查：高内存占用](https://blog.csdn.net/li12412414/article/details/81366478)
+  * [LINUX类主机JAVA应用程序占用CPU、内存过高分析手段](https://blog.csdn.net/lin443514407lin/article/details/54667317)
+  * []()
+  * []()
+  
