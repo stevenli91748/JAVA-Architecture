@@ -1,5 +1,14 @@
+
+
 <details>
 <summary>java 进程内存组成</summary>
+
+**JVM内存占用 = 操作系统自身耗内存 + 堆 + Java永久代/元数据区/方法区/常量池/代码缓存 + 程序计数器(可忽略不计) plus 线程数 + 虚拟机进程本身 + 虚拟机栈(线程栈) plus 线程数 + 本地方法栈(JNI调用) plus 线程数 + 直接内存(Java NIO)**
+
+
+
+
+
 
 [java 进程内存组成](https://blog.csdn.net/snoweaglelord/article/details/81094153)
 
@@ -7,7 +16,15 @@
 
 
 </details>
+
+<details>
+<summary>Java内存溢出的原因有哪些？Java进程占用内存构成有哪些？</summary>
    
+  [Java内存溢出的原因有哪些？Java进程占用内存构成有哪些？](https://blog.csdn.net/sinlff/article/details/62040358) 
+   
+</details>   
+
+
 <details>
 <summary>java内存分布</summary>
 
@@ -82,6 +99,8 @@
   
   逃逸分析，是一种可以有效减少Java 程序中同步负载和内存堆分配压力的跨函数全局数据流分析算法。通过逃逸分析，Java Hotspot编译器能够分析出一个新的对象的引用的使用范围从而决定是否要将这个对象分配到堆上。
   
+  逃逸分析的目的是判断对象的作用域是否有可能逃逸出函数体。在运行时分析对象的生命周期，如果发现该对象只会被本线程使用（一般是一些局部对象），那么就将该对象在栈上分配，而不在堆中（heap）分配，以减少对象对堆的压力，减少GC的次数。
+  
   [Java中对象都是分配在堆上吗？](https://blog.csdn.net/c526796017/article/details/80816061)
   
 </details>   
@@ -104,13 +123,14 @@ Bump-the-pointer技术跟踪在伊甸园空间创建的最后一个对象。这�
   
 </details>   
 
----
-
 <details>
 <summary>栈上分配技术</summary>
   
-  
+  栈上分配是java虚拟机提供的一种优化技术，基本思想是对于那些线程私有的对象（指的是不可能被其他线程访问的对象），可以将它们打散分配在栈上，而不是分配在堆上。分配在栈上的好处是可以在函数调用结束后自行销毁，而不需要垃圾回收器的介入，从而提供系统的性能。
+
 </details>   
+
+---
 
 <details>
 <summary>标量替换优化技术</summary>
