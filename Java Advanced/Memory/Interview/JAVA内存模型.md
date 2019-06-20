@@ -21,7 +21,7 @@
 
   [Java中对象都是分配在堆上吗？](https://blog.csdn.net/c526796017/article/details/80816061)
   
-<details>  
+</details>  
 
 <details>
 <summary>逃逸分析</summary>
@@ -30,7 +30,7 @@
   
   [Java中对象都是分配在堆上吗？](https://blog.csdn.net/c526796017/article/details/80816061)
   
-<details>   
+</details>   
 
 <details>
 <summary>TLAB </summary>
@@ -41,14 +41,14 @@ JVM在内存新生代Eden Space中开辟了一小块线程私有的区域，称�
 
  [Java中对象都是分配在堆上吗？](https://blog.csdn.net/c526796017/article/details/80816061)
  
-<details>   
+</details>   
 
 
 <details>
 <summary>bump-the-pointer技术</summary>
   
   
-<details>   
+</details>   
 
 9.Java内存泄露的问题调查定位：jmap，jstack的使用等等
 
