@@ -66,3 +66,4 @@
   * [Java中对象都是分配在堆上吗](https://blog.csdn.net/c526796017/article/details/80816061)
   * [java 进程内存组成](https://blog.csdn.net/snoweaglelord/article/details/81094153)
   * [java进程占用系统内存高，排查方法](https://blog.csdn.net/weixin_41953276/article/details/81362739)
+  * [Java内存溢出的原因有哪些](https://blog.csdn.net/sinlff/article/details/62040358)
