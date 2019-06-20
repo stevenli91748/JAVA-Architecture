@@ -230,3 +230,4 @@
 * [JVM 内部运行线程介绍](http://ifeve.com/jvm-thread/)
 * [JVM Attach机制实现](http://ifeve.com/jvm-attach/)
 * [JVM 心得 OOM时的堆信息获取方法与分析](https://www.jb51.net/article/125968.htm)
+* [如何限制一个类对象只在堆上分配或者只在栈上分配？](https://blog.csdn.net/wonengxing/article/details/6862971)
