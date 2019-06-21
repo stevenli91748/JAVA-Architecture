@@ -403,7 +403,7 @@ http://www.idl.com.cn/china.html
 [%JSON]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#JSON
 [%正则表达式]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/正则表达式.md
 [%文本操作]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#文本操作
-[%数组]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#数组
+[%数组]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/数组.md
 [%容器]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#容器
 [%序列化与反序列化]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#序列化与反序列化
 [%日期和时间API]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Date%20and%20Time.md
