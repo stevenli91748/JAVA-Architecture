@@ -10,7 +10,12 @@ JDK1.7及以后，调用String.intern()，如果常量池中没有，则拷贝�
 这会导致intern()方法返回的字符串的含义有微小的区别，考虑常量池中现在没有字符串"test"，现在有一个字符串s，内容为"test"，JDK1.6以前，s.intern() 返回的地址是拷贝后的对象的地址，JDK1.7以后，返回的是s的地址，因此用 s == s.intern()这句判断JDK1.6为false，JDK1.7为true。
 
  
- [String的intern()方法详解](https://blog.csdn.net/wjzhang5514/article/details/70209403)
+* [String的intern()方法详解](https://blog.csdn.net/wjzhang5514/article/details/70209403)
+* [String.intern()详细分析，JDK1.8](https://blog.csdn.net/u013366617/article/details/83618361)
+* [几张图轻松理解String.intern()](https://blog.csdn.net/tyyking/article/details/82496901)
+* [Java面试——从JVM角度比较equals和==的区别](https://blog.csdn.net/seu_calvin/article/details/52089040)
+* [Java技术——你真的了解String类的intern()方法吗](https://blog.csdn.net/seu_calvin/article/details/52291082)
+
  
 </details>
 
