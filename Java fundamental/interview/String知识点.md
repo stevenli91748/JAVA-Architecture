@@ -1,6 +1,15 @@
 <details>
 <summary> String的intern()方法详解</summary>
  
+ 先说说常量池里的字符串怎么来。
+
+JDK1.6及以前，调用String.intern()，如果常量池中没有，则拷贝一份对象，放到常量池中。
+
+JDK1.7及以后，调用String.intern()，如果常量池中没有，则拷贝一份引用，放到常量池中。
+
+这会导致intern()方法返回的字符串的含义有微小的区别，考虑常量池中现在没有字符串"test"，现在有一个字符串s，内容为"test"，JDK1.6以前，s.intern() 返回的地址是拷贝后的对象的地址，JDK1.7以后，返回的是s的地址，因此用 s == s.intern()这句判断JDK1.6为false，JDK1.7为true。
+
+ 
  [String的intern()方法详解](https://blog.csdn.net/wjzhang5514/article/details/70209403)
  
 </details>
