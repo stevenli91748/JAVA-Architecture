@@ -1,3 +1,9 @@
+<details>
+<summary> String的intern()方法详解</summary>
+ 
+ [String的intern()方法详解](https://blog.csdn.net/wjzhang5514/article/details/70209403)
+ 
+</details>
 
 <details>
 <summary> Java 中操作字符串都有哪些类？它们之间有什么区别？</summary>
