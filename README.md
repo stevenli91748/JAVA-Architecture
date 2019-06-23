@@ -116,8 +116,8 @@
 
 <a href="https://ibb.co/ZcndDkg"><img src="https://i.ibb.co/h2Psztd/image.jpg" alt="image" border="0"></a>
 
-[Jenkins](https://github.com/stevenli91748/Engineering-special/tree/master/Jenkins)|[Gradle](https://github.com/stevenli91748/Engineering-special/tree/master/Gradle)|[Sonar](https://github.com/stevenli91748/Engineering-special/tree/master/Sonar)|[java代码规范](https://github.com/stevenli91748/JAVA-Architecture/blob/master/java%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83.md)|[Nexus](https://github.com/stevenli91748/Engineering-special/blob/master/Nexus/README.md)|[Git](https://github.com/stevenli91748/Engineering-special/tree/master/Git)|
----|---|---|---|---|---|
+[Jenkins](https://github.com/stevenli91748/Engineering-special/tree/master/Jenkins)|[Gradle](https://github.com/stevenli91748/Engineering-special/tree/master/Gradle)|[Sonar](https://github.com/stevenli91748/Engineering-special/tree/master/Sonar)|[java代码规范](https://github.com/stevenli91748/JAVA-Architecture/blob/master/java%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83.md)|[Nexus](https://github.com/stevenli91748/Engineering-special/blob/master/Nexus/README.md)|[Git](https://github.com/stevenli91748/Engineering-special/tree/master/Git)|github|
+---|---|---|---|---|---|---|
 
 ####   项目部署
 
