@@ -13,3 +13,8 @@
 * [1.6 Elasticsearch DSL 批量操作](http://www.youmeek.com/elasticsearch-dsl-batch/)
 * [1.7 Elasticsearch 锁相关介绍](http://www.youmeek.com/elasticsearch-lock/)
 * [1.8 Elasticsearch Java API](http://www.youmeek.com/elasticsearch-java-api/)
+
+* [Windows搭建ElasticSearch](https://blog.csdn.net/Julycaka/article/details/82665522) 
+
+
+
