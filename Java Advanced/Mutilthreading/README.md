@@ -104,3 +104,4 @@
   * [JVM 中synchronized的底层实现原理解析](https://blog.csdn.net/HinstenyHisoka/article/details/80864378)
   * [Java 多线程全局锁与对象锁](https://blog.csdn.net/weixin_40739833/article/details/80293480)
   * [Synchronize实现原理（很难）](https://blog.csdn.net/zbuger/article/details/51030772)
+  * [Java synchronized锁对象和锁非静态成员变量的实验](https://blog.csdn.net/wbybyb/article/details/83989121)
