@@ -293,6 +293,9 @@ public class test {        //1.第一步，准备加载类
 * [Synchronized和volatile 的区别，两者使用的场景](https://blog.csdn.net/yinni11/article/details/81514082)
 * [JVM - synchronized 关键字原理](https://blog.csdn.net/dao_wolf/article/details/85627828)
 * [非常好   Synchronized的JVM底层实现](https://blog.csdn.net/Winston_Limf/article/details/80915304)
+* [深入JVM锁机制1-synchronized](https://blog.csdn.net/chen77716/article/details/6618779)
+* [深入JVM锁机制2-Lock](https://blog.csdn.net/chen77716/article/details/6641477)
+
 ### this关键字
 * [Java this关键字详解](https://blog.csdn.net/kuangay/article/details/81535701)
 
