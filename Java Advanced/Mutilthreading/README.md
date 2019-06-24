@@ -103,3 +103,4 @@
   * [Java中的ReentrantLock和synchronized两种锁定机制的对比](https://blog.csdn.net/fw0124/article/details/6672522)
   * [JVM 中synchronized的底层实现原理解析](https://blog.csdn.net/HinstenyHisoka/article/details/80864378)
   * [Java 多线程全局锁与对象锁](https://blog.csdn.net/weixin_40739833/article/details/80293480)
+  * [Synchronize实现原理（很难）](https://blog.csdn.net/zbuger/article/details/51030772)
