@@ -233,3 +233,4 @@
 * [如何限制一个类对象只在堆上分配或者只在栈上分配？](https://blog.csdn.net/wonengxing/article/details/6862971)
 * [简单通俗了解一个完整的Java程序运行过程（内存分配情况）](https://blog.csdn.net/m0_37499059/article/details/80451799)
 * [你需要知道的那些 Java 字节码知识](https://blog.csdn.net/lpd_tech/article/details/88948020)
+* [记一次服务内存不断飙升的JVM调试过程](https://blog.csdn.net/hanchao5272/article/details/93130951)
