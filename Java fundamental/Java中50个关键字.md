@@ -295,7 +295,8 @@ public class test {        //1.第一步，准备加载类
 * [非常好   Synchronized的JVM底层实现](https://blog.csdn.net/Winston_Limf/article/details/80915304)
 * [深入JVM锁机制1-synchronized](https://blog.csdn.net/chen77716/article/details/6618779)
 * [深入JVM锁机制2-Lock](https://blog.csdn.net/chen77716/article/details/6641477)
-
+* [JVM 中synchronized的底层实现原理解析](https://blog.csdn.net/HinstenyHisoka/article/details/80864378)
+* [Java中的ReentrantLock和synchronized两种锁定机制的对比](https://blog.csdn.net/fw0124/article/details/6672522)
 ### this关键字
 * [Java this关键字详解](https://blog.csdn.net/kuangay/article/details/81535701)
 
