@@ -10,6 +10,14 @@
 # 虚拟机体系结构
 
 <details>
+<summary>什么是Monitor?</summary>
+ 
+[什么是Monitor](https://blog.csdn.net/dao_wolf/article/details/85627361)
+
+</details>
+
+
+<details>
 <summary>字节码、虚拟机、JRE 和跨平台特性</summary>
 
 </details>
