@@ -2184,6 +2184,16 @@ i = i + 1;
 </details>
 
 <details>
+<summary>Java中的两种锁</summary>
+  
+目前Java中存在两种锁机制：Synchronized(使用广泛)和Lock。
+
+数据同步需要依赖锁，而Synchronized锁的同步在软件层面需要依赖JVM；Lock锁的同步在硬件层面需要依赖特殊的CPU指令。
+  
+</details>
+
+
+<details>
 <summary>那你具体说说这并发三个特性呢？</summary>
 
 1.原子性(Atomicity)： Java中，对基本数据类型的读取和赋值操作是原子性操作，所谓原子性操作就是指这些操作是不可中断的，要做一定做完，要么就没有执行。 比如：
