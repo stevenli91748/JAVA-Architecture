@@ -49,7 +49,7 @@
 * 可以不必要写finally语句来关闭资源，只要你在try()的括号内部定义要使用的资源
 
 # JDK8新特性
-* [JAVA8 十大新特性详解](https://www.jb51.net/article/48304.htm)
+
 * 接口的默认方法
 * Lambda表达式
 * 函数式接口
