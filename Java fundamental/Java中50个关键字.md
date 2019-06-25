@@ -316,10 +316,13 @@ public class test {        //1.第一步，准备加载类
 transient关键字只能修饰变量，而不能修饰方法和类。注意，本地变量是不能被transient关键字修饰的。变量如果是用户自定义类变量，则该类需要实现Serializable接口。
 
 被transient关键字修饰的变量不能被序列化，一个静态变量不管是否被transient修饰，均不能被序列化。
- 
+
 </details> 
+
 * [transient关键字有何作用](https://blog.csdn.net/duyiwuerluozhixiang/article/details/86633179)
+
 * [简述serializable和transient关键字作用](https://blog.csdn.net/java__project/article/details/54960525)
+
 
 ### new关键字
 * [java new 关键字到底做了什么？](https://blog.csdn.net/u010523770/article/details/68969482)
