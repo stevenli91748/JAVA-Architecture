@@ -298,6 +298,10 @@ public class test {        //1.第一步，准备加载类
 * [JVM 中synchronized的底层实现原理解析](https://blog.csdn.net/HinstenyHisoka/article/details/80864378)
 * [Java中的ReentrantLock和synchronized两种锁定机制的对比](https://blog.csdn.net/fw0124/article/details/6672522)
 * [Java 中 synchronized的用法详解(四种用法)](https://www.jb51.net/article/74566.htm)
+* [透彻理解Java中Synchronized（对象锁）和Static Synchronized（类锁）的区别](https://www.jb51.net/article/140175.htm)
+* [java中synchronized（同步代码块和同步方法）详解及区别](https://www.jb51.net/article/106941.htm)
+* [Java类锁、对象锁、私有锁冲突测试](https://www.jb51.net/article/56440.htm)
+* [详解Java中synchronized关键字的死锁和内存占用问题](https://www.jb51.net/article/86666.htm)
 ### this关键字
 * [Java this关键字详解](https://blog.csdn.net/kuangay/article/details/81535701)
 
