@@ -303,6 +303,7 @@ public class test {        //1.第一步，准备加载类
 * [Java类锁、对象锁、私有锁冲突测试](https://www.jb51.net/article/56440.htm)
 * [详解Java中synchronized关键字的死锁和内存占用问题](https://www.jb51.net/article/86666.htm)
 * [详解synchronized与Lock的区别与使用](https://blog.csdn.net/u012403290/article/details/64910926)
+* [java中volatile、synchronized和lock解析](https://blog.csdn.net/ztchun/article/details/60778950)
 ### this关键字
 * [Java this关键字详解](https://blog.csdn.net/kuangay/article/details/81535701)
 
@@ -623,6 +624,7 @@ class Singleton{
 * [面试必问的 volatile，你了解多少？](http://www.importnew.com/27863.html)
 * [就是要你懂 Java 中 volatile 关键字实现原理](http://www.importnew.com/27002.html)
 * [详解Java面试官最爱问的volatile关键字](https://www.jb51.net/article/133313.htm) 
+* [java中volatile、synchronized和lock解析](https://blog.csdn.net/ztchun/article/details/60778950)
 
 ### throw and throws关键字
 
