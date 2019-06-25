@@ -106,3 +106,4 @@
   * [Synchronize实现原理（很难）](https://blog.csdn.net/zbuger/article/details/51030772)
   * [Java synchronized锁对象和锁非静态成员变量的实验](https://blog.csdn.net/wbybyb/article/details/83989121)
   * [Java 中 synchronized的用法详解(四种用法)](https://www.jb51.net/article/74566.htm)
+  * [透彻理解Java中Synchronized（对象锁）和Static Synchronized（类锁）的区别](https://www.jb51.net/article/140175.htm)
