@@ -2405,6 +2405,41 @@ class Singleton{
 </details>
 
 
+<details>
+<summary>volatile和synchronized区别</summary>
+
+1）volatile本质是在告诉jvm当前变量在寄存器中的值是不确定的,需要从主存中读取,synchronized则是锁定当前变量,只有当前线程可以访问该变量,其他线程被阻塞住.
+
+2）volatile仅能使用在变量级别,synchronized则可以使用在变量,方法.
+
+3）volatile仅能实现变量的修改可见性,而synchronized则可以保证变量的修改可见性和原子性.
+
+　　《Java编程思想》上说，定义long或double变量时，如果使用volatile关键字，就会获得（简单的赋值与返回操作）原子性。 
+　　 
+4）volatile不会造成线程的阻塞,而synchronized可能会造成线程的阻塞.
+
+5、当一个域的值依赖于它之前的值时，volatile就无法工作了，如n=n+1,n++等。如果某个域的值受到其他域的值的限制，那么volatile也无法工作，如Range类的lower和upper边界，必须遵循lower<=upper的限制。
+
+6、使用volatile而不是synchronized的唯一安全的情况是类中只有一个可变的域。
+
+</details>
+
+<details>
+<summary>synchronized和lock区别</summary>
+
+   1）Lock是一个接口，而synchronized是Java中的关键字，synchronized是内置的语言实现；
+
+　　2）synchronized在发生异常时，会自动释放线程占有的锁，因此不会导致死锁现象发生；而Lock在发生异常时，如果没有主动通过unLock()去释放锁，则很可能造成死锁现象，因此使用Lock时需要在finally块中释放锁；
+
+　　3）Lock可以让等待锁的线程响应中断，而synchronized却不行，使用synchronized时，等待的线程会一直等待下去，不能够响应中断；
+
+　　4）通过Lock可以知道有没有成功获取锁，而synchronized却无法办到。
+
+　　5）Lock可以提高多个线程进行读操作的效率。
+
+</details>
+
+
 ---
 ---
 
