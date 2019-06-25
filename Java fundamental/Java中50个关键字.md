@@ -302,6 +302,7 @@ public class test {        //1.第一步，准备加载类
 * [java中synchronized（同步代码块和同步方法）详解及区别](https://www.jb51.net/article/106941.htm)
 * [Java类锁、对象锁、私有锁冲突测试](https://www.jb51.net/article/56440.htm)
 * [详解Java中synchronized关键字的死锁和内存占用问题](https://www.jb51.net/article/86666.htm)
+* [详解synchronized与Lock的区别与使用](https://blog.csdn.net/u012403290/article/details/64910926)
 ### this关键字
 * [Java this关键字详解](https://blog.csdn.net/kuangay/article/details/81535701)
 
