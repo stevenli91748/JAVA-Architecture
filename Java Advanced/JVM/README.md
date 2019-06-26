@@ -143,24 +143,10 @@
         *  Perfmon---性能监控工具
         *  Process Explorer---进程管理工具
         *  Pslist---windows下的命令行工具
- *   Java虚拟机性能监控工具
-     *  JDK性能监控工具
-        *  jps---查看JAVA进程
-        *  jstat---查看虚拟机运行时信息
-        *  jinfo---查看虚拟机参数
-        *  jmap---导出堆到文件
-        *  jhat---JDK自带的堆分析工具
-        *  jstack---查看线程堆栈
-        *  jstatd---查看远程主机信息
-        *  jcmd---多功能命令行
-        *  hprof---性能统计工具
-        *  加强JPS命令
-     *  转储分析
-        *  堆内存转储工具
-        *  堆转储分析
-        *  线程转储分析
-     *  图形化虚拟机监控工具JConsole
-     *  可视化性能监控工具Visual VM
+     * JVM TOOLS
+     
+       [JDK Tools and Utilities](https://docs.oracle.com/javase/7/docs/technotes/tools/#general)
+
      *  虚拟机诊断工具Mission Control
      *  [HSDB(Hotspot Debugger)](https://liuzhengyang.github.io/2017/05/27/serviceabilityagent/ "HSDB可以查看Java对象的oops、查看类信息、线程栈信息、堆信息、方法字节码和JIT编译后的汇编代码等")
  
