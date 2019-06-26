@@ -493,8 +493,17 @@ new Thread(() -> System.out.println("In Java8, Lambda expression!!") ).start();
 
 </details> 
 
-
 ---
+
+<details>
+<summary> Java Object类方法</summary>
+
+</details> 
+
+
+
+
+
 
 1. 什么是面向对象
 
