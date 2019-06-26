@@ -406,6 +406,10 @@ public class StaticTest {
 
 </details>
 
+Java GC机制（可达性分析法，引用计数法）
+
+JVM类加载机制
+
 1.Java的内存模型以及GC算法
 
 2.jvm性能调优都做了什么
