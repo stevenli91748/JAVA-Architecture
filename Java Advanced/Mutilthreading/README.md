@@ -111,3 +111,4 @@
   * [Java类锁、对象锁、私有锁冲突测试](https://www.jb51.net/article/56440.htm)
   * [详解Java中synchronized关键字的死锁和内存占用问题](https://www.jb51.net/article/86666.htm)
   * [java中volatile、synchronized和lock解析](https://blog.csdn.net/ztchun/article/details/60778950)
+  * [Java多线程干货](https://blog.csdn.net/qq_35808136/article/details/93847655)
