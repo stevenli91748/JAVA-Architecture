@@ -166,7 +166,7 @@ VisualVM分析工具|
 
 ### 大数据
 
-大数据技术概述|Hadoop|Hadoop-HA高可用|Flume|Kafka|HBase|Hive|Sqoop|Oozie|
+大数据技术概述|Hadoop|Hadoop-HA高可用|Flume|[Kafka](https://github.com/stevenli91748/Big-Data/blob/master/kafka/kafka.md)|HBase|Hive|Sqoop|Oozie|
 ---|---|---|---|---|---|---|---|---|
 
 ### 互联网架构基础
