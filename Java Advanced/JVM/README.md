@@ -221,3 +221,4 @@
 * [你需要知道的那些 Java 字节码知识](https://blog.csdn.net/lpd_tech/article/details/88948020)
 * [记一次服务内存不断飙升的JVM调试过程](https://blog.csdn.net/hanchao5272/article/details/93130951)
 * [非常好   Synchronized的JVM底层实现](https://blog.csdn.net/Winston_Limf/article/details/80915304)
+* [超详细java中的ClassLoader详解](https://blog.csdn.net/dw147258dw/article/details/93847568)
