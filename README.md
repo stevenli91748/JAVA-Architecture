@@ -320,8 +320,8 @@ SQL语言|MySQL|ORACLE|PowerDesigner|MongoDB|分布式数据库|[Redis缓存](ht
 [JAVA 8的流库][%JAVA-8的流库]|[输入与输出流][%输入与输出]|[XML][%XML]|[正则表达式][%正则表达式]|[数据结构与算法](https://github.com/stevenli91748/Data-Structure-and-Algorithmic)|[JDK API 8](https://github.com/stevenli91748/JAVA-Architecture/tree/master/API)|[JDBC][%JDBC]|[JNI](https://blog.csdn.net/createchance/article/details/53783490)|
 ---|---|---|---|---|---|---|---|
 
-手写服务器|手写SORM框架|[部署JAVA应用程序][%部署JAVA应用程序]|
----|---|---|
+手写服务器|手写SORM框架|[部署JAVA应用程序][%部署JAVA应用程序]|[Java Management Extensions   Java管理扩展(JMX)](https://blog.csdn.net/vking_wang/article/details/8668743)|
+---|---|---|---|
 
 [图形程序设计][%图形程序设计]|[Swing界面组件][%Swing界面组件]|[事件处理][%事件处理]|[高级Swing 界面组件][%高级Swing 界面组件]|[高级AWT][%高级AWT]|
 ---|---|---|---|---|
@@ -386,6 +386,10 @@ http://www.idl.com.cn/china.html
   * [java ipmi 获取服务器硬件信息（温度，风扇转速，内存数，硬盘数等等）](https://blog.csdn.net/heitkei/article/details/80415252)
   * [java获取服务器信息（siger）](https://blog.csdn.net/mmh_csdn/article/details/81870170)
   * [关于tomcat繁忙线程数获取](https://blog.csdn.net/LD0807/article/details/53742704)
+  * [JMX获取tomcat监控信息](https://blog.csdn.net/qq_36838191/article/details/83184135)
+  * [JMX实现远程服务器Tomcat系统监控之一](https://blog.csdn.net/fengshizty/article/details/40893815)
+  * [JMX实现远程服务器Tomcat系统监控之二](https://blog.csdn.net/fengshizty/article/details/40894785)
+  * [JMX实现远程服务器Tomcat系统监控之三](https://blog.csdn.net/fengshizty/article/details/41745291)
 [%JAVA-8的流库]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#JAVA-8的流库
 [%Java常用类]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#Java常用类
 [%对象与类]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#对象与类
