@@ -22,7 +22,7 @@
 数据库集群项目|数据库分片项目|消息队列项目|商品业务项目|第三方支付项目|购物车业务项目|
 ---|---|---|---|---|---|
 
-[人脸搜索系统](https://gitbook.cn/m/mazi/article/5c7b53d67210c9716e098537?isLogArticle=no&readArticle=yes&sut=66429a50797b11e9bbfc833cb6940b97)|
+[人脸搜索系统](https://github.com/stevenli91748/JAVA-Architecture/blob/master/project/人脸搜索系统.md)|
 ---|
 
 ## 电子商务项目实践
