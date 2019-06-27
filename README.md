@@ -385,6 +385,7 @@ http://www.idl.com.cn/china.html
   * [java在程序中利用ManagementFactory获取jvm,os的一些信息](https://blog.csdn.net/dream_broken/article/details/49759043)
   * [java ipmi 获取服务器硬件信息（温度，风扇转速，内存数，硬盘数等等）](https://blog.csdn.net/heitkei/article/details/80415252)
   * [java获取服务器信息（siger）](https://blog.csdn.net/mmh_csdn/article/details/81870170)
+  * [关于tomcat繁忙线程数获取](https://blog.csdn.net/LD0807/article/details/53742704)
 [%JAVA-8的流库]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#JAVA-8的流库
 [%Java常用类]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#Java常用类
 [%对象与类]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#对象与类
