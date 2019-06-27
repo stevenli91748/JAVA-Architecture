@@ -83,3 +83,4 @@ File | Settings | Editor | General | Code Completion Case | Sensitive Completion
   * [IntelliJ IDEA使用教程（很全](https://www.imooc.com/article/28558)
   * [实战 java 第1天：从零开始搭建项目,实现第一个接口（IDEA）](https://blog.csdn.net/weixin_44135121/article/details/92801713)
   * [用IntelliJ IDEA新建web项目 一步一步从零开始 搭建](https://blog.csdn.net/loveyouluobin/article/details/80062382)
+  * [IDEA导入Tomcat源码](https://blog.csdn.net/u013268035/article/details/81349341)
