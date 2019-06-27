@@ -44,3 +44,7 @@
 * [java中的访问修饰符](https://www.cnblogs.com/tjudzj/p/4443066.html)
 * [java中的类修饰符、成员变量修饰符、方法修饰符。](https://www.cnblogs.com/lixiaolun/p/4311727.html)
 * [理解java多态的概念和作用](https://blog.csdn.net/Hack_Bug/article/details/26231221)
+* [Java抽象类和抽象方法详解](https://blog.csdn.net/Smile_729day/article/details/79358043)
+* [Java多态详解](https://blog.csdn.net/smile_729day/article/details/79562589)
+* [Java内部类整理笔记](https://blog.csdn.net/smile_729day/article/details/79634309)
+* [Java接口详解](https://blog.csdn.net/smile_729day/article/details/79549018)
