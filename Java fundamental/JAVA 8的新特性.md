@@ -127,3 +127,4 @@
 * [JDK 8 新特性之扩展篇](https://mp.weixin.qq.com/s/N6svSAP9_pVs5oc4tYxXwA)
 * [现在该用 Java 12，还是坚持 Java 11？](https://mp.weixin.qq.com/s/3fPe5p5mc_nCe5BFQ4dQlQ)
 * [自JDK 8 以来所有Java和JVM新功能的分类列表](https://blog.csdn.net/weixin_42784331/article/details/87897842)
+* [JDK8与JDK9新特性学习](https://blog.csdn.net/marser1234/article/details/91402233)
