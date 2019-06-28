@@ -56,6 +56,17 @@
 # 虚拟机体系结构
 
 <details>
+<summary>ClassLoader详解</summary>
+[超详细java中的ClassLoader详解](https://blog.csdn.net/dw147258dw/article/details/93847568)
+</details>
+
+<details>
+<summary>双亲委托</summary>
+[超详细java中的ClassLoader详解](https://blog.csdn.net/dw147258dw/article/details/93847568)
+</details>
+
+
+<details>
 <summary>字节码、虚拟机、JRE 和跨平台特性</summary>
 
 </details>
