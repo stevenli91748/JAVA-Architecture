@@ -15,5 +15,5 @@
 
 # 有用的参考
 
-[Java 程序员必须了解的 7 个性能指标](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Performance/Java%20程序员必须了解的%207%20个性能指标.md)
-[五大最佳开源java性能监控工具](http://tech.it168.com/a2017/0120/3093/000003093435.shtml)
+* [Java 程序员必须了解的 7 个性能指标](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Performance/Java%20程序员必须了解的%207%20个性能指标.md)
+* [五大最佳开源java性能监控工具](http://tech.it168.com/a2017/0120/3093/000003093435.shtml)
