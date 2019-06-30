@@ -33,6 +33,7 @@ Spring Boot 并不是用来替代 Spring 的解决方案，而是和 Spring 框�
 也就是说，Spring Boot 只是起到一个承载的作用，辅助你简化项目搭建的过程。如果承载的是 Web 项目，使用 Spring MVC 作为 MVC 框架，那么整个业务工作流程还是由 Spring MVC 来完成的，因此 Spring Boot 并不能替代 Spring MVC，它只是简化了 Spring MVC 的相关配置，Spring Boot 帮你完成了很多底层工作。
 
 ### 建立Spring Boot工程的几种方法
+
 * [1. Spring官方的构建页面来生成项目](http://blog.didispace.com/spring-boot-learning-1/)
 * [2. 使用Intellij中的Spring Initializr来快速构建Spring Boot/Cloud工程](http://blog.didispace.com/spring-initializr-in-intellij/)
 * [3. 使用Cloud Studio在线编写、调试和管理Spring Boot应用](http://blog.didispace.com/studio-coding-spring-boot-app/#)
