@@ -11,3 +11,4 @@
 * [java8 lambda详解](https://blog.csdn.net/wxycm/article/details/80429299)
 * [Java8新特性之Lambda表达式浅析](https://www.jb51.net/article/50816.htm)
 * [Lambda表达式新特性学习](https://blog.csdn.net/marser1234/article/details/91402233)
+* [Java 8十个lambda表达式案例](https://www.jdon.com/idea/java/10-example-of-lambda-expressions-in-java8.html)
