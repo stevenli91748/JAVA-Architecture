@@ -5,7 +5,7 @@
 
 
 # 有用的参考
-
+ * [淘宝前后端分离实践](https://wenku.baidu.com/view/1a9f08aa33d4b14e85246895.html?sxts=1562937835448)
  * [异步 API 的设计](http://www.ruanyifeng.com/blog/2018/12/async-api-design.html)
  * [springboot综合项目练习三定义微服务接口返回规范](https://blog.csdn.net/chenhaotao/article/details/86500548)
  * [微服务RESTful 接口设计规范](https://blog.csdn.net/zl1zl2zl3/article/details/73867113)
