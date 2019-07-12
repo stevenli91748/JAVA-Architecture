@@ -48,6 +48,7 @@
  * [web项目前后端开发过程和体会](https://blog.csdn.net/gu_ude_god/article/details/81570544)
  * [构建SpringMVCRestful前后端分离项目实例](https://blog.csdn.net/songxinjianqwe/article/details/54976251)
  * [Docker 对前后端分离项目的部署和运维（详述）](https://blog.csdn.net/qq_35394891/article/details/83027804)
+ * [接口测试讲解](https://wenku.baidu.com/view/b1e8e09f0342a8956bec0975f46527d3250ca67d.html?from=search)
  * [Restful API接口测试四种方法](https://blog.csdn.net/u014677702/article/details/86373519)
  * [接口测试 | 接口测试入门](https://blog.csdn.net/lintyleo/article/details/79360730)
  
