@@ -5,6 +5,8 @@
 
 
 # 有用的参考
+ * [新一代API管理 & 自动化测试平台]()
+
  * [淘宝前后端分离实践](https://wenku.baidu.com/view/1a9f08aa33d4b14e85246895.html?sxts=1562937835448)
  * [异步 API 的设计](http://www.ruanyifeng.com/blog/2018/12/async-api-design.html)
  * [springboot综合项目练习三定义微服务接口返回规范](https://blog.csdn.net/chenhaotao/article/details/86500548)
@@ -53,3 +55,4 @@
  * [接口测试 | 接口测试入门](https://blog.csdn.net/lintyleo/article/details/79360730)
  * [Jmeter接口测试实例讲解](https://wenku.baidu.com/view/47046ca0a98271fe910ef9d2.html?rec_flag=default&sxts=1562938585342)
  * [API接口平台上一键化快速生成接口文档技巧](https://wenku.baidu.com/view/fedcfc226d175f0e7cd184254b35eefdc8d315d5.html?from=search)
+ * [前后端分界及项目流程解析](https://wenku.baidu.com/view/e677d1ecfc0a79563c1ec5da50e2524de418d05a.html?from=search)
