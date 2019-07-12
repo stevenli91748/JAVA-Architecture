@@ -52,3 +52,4 @@
  * [Restful API接口测试四种方法](https://blog.csdn.net/u014677702/article/details/86373519)
  * [接口测试 | 接口测试入门](https://blog.csdn.net/lintyleo/article/details/79360730)
  * [Jmeter接口测试实例讲解](https://wenku.baidu.com/view/47046ca0a98271fe910ef9d2.html?rec_flag=default&sxts=1562938585342)
+ * [API接口平台上一键化快速生成接口文档技巧](https://wenku.baidu.com/view/fedcfc226d175f0e7cd184254b35eefdc8d315d5.html?from=search)
