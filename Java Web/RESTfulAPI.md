@@ -30,8 +30,8 @@ Open API开放平台必然涉及到客户应用的接入、API权限的管理、
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/qkfBfs0/api-gateway-2.jpg" alt="api-gateway-2" border="0"></a>
 
 2、对于内网的API网关，在起到的作用上来说可以认为是微服务网关，也可以认为是内网的API服务治理平台。
-当企业将所有的应用使用微服务的架构管理起来，那么API网关就起到了微服务网关的作用。
-而当企业只是将系统与系统之间的调用使用rest api的方式进行访问时使用API网关对调用进行管理，那么API网关起到的就是API服务治理的作用。
+**当企业将所有的应用使用微服务的架构管理起来，那么API网关就起到了微服务网关的作用。**
+而当企业只是**将系统与系统之间的调用使用rest api的方式进行访问时使用API网关对调用进行管理，那么API网关起到的就是API服务治理的作用。**
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/LdwTxXZ/api-gateway-3.jpg" alt="api-gateway-3" border="0"></a>
 
@@ -71,11 +71,11 @@ Open API开放平台必然涉及到客户应用的接入、API权限的管理、
    1. Amazon API Gateway：
       https://aws.amazon.com/cn/api-gateway/
 	
-	 2. 阿里云API网关：
-	    https://www.aliyun.com/product/apigateway/
+   2. 阿里云API网关：
+      https://www.aliyun.com/product/apigateway/
 	
    3. 腾讯云API网关：
-	    https://cloud.tencent.com/product/apigateway
+      https://cloud.tencent.com/product/apigateway
 
 **自开发解决方案**
 
