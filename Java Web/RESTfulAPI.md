@@ -60,13 +60,13 @@ API网关可以解决这些问题，我们可以认为如果没有大规模的�
      这是新兴的基于无API网关的架构，通过在客户端上的代理完成屏蔽网络层的访问，这样达到对应用层最小的改动当前Service Mesh的产品还正在开发中，并没有
      非常成熟可直接应用的产品。发展最迅速的产品是Istio。建议大家密切关注相关产品的研发、业务使用进展。
 
-     <a href="https://ibb.co/NKZ8WFH"><img src="https://i.ibb.co/jDgc381/api-gateway-4.jpg" alt="api-gateway-4" border="0"></a>
+   <a href="https://ibb.co/NKZ8WFH"><img src="https://i.ibb.co/jDgc381/api-gateway-4.jpg" alt="api-gateway-4" border="0"></a>
 
   (2)基于duboo架构
   
      在这个架构中通常是不需要网关的，是由客户端直接访问服务提供方，由注册中心向客户端返回服务方的地址。
 
-     <a href="https://imgbb.com/"><img src="https://i.ibb.co/jTYbfBm/api-gateway-5.jpg" alt="api-gateway-5" border="0"></a>
+  <a href="https://imgbb.com/"><img src="https://i.ibb.co/jTYbfBm/api-gateway-5.jpg" alt="api-gateway-5" border="0"></a>
 
 # 五、API网关解决方案
 # 六、企业怎么选择API网关
