@@ -231,7 +231,7 @@
  * [BAT最全Java面试168题汇总:并发编程+JVM+Spring+分布式+缓存等](https://zhuanlan.zhihu.com/p/59471302?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
 
 ## Java技术面试经验
-
+ * [最近面试Java后端开发的感受：如果就以平时项目经验来面试，通过估计很难](https://zhuanlan.zhihu.com/p/68829038?utm_source=wechat_session&utm_medium=social&utm_oi=1119162453489045504)
  * [Java工程师如何在1个月内做好面试准备？](https://juejin.im/post/5c62c4396fb9a04a0441820b)
  * [速来围观老田的蚂蚁金服Java面试经历](https://studygolang.com/topics/6902/comment/21021)
  * Java核心技术及面试指南.pdf
