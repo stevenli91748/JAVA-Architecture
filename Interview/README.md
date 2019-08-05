@@ -293,5 +293,6 @@
 ## HR面试经验
  * [十大面试问题解惑，秒杀一切HR、技术面试](https://blog.csdn.net/QQ282030166/article/details/38388283)
  * [阿里资深HR和你聊聊技术面试](https://blog.csdn.net/qq_41534566/article/details/79865912)
+ * [作为HR，如何通过人选项目经历判断java开发水平？](https://www.zhihu.com/question/36531990/answer/68266552?hb_wx_block=1&utm_source=wechat_session&utm_medium=social&utm_oi=1119162453489045504)
  
  
