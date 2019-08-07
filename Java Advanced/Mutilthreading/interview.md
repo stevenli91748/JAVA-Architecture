@@ -56,6 +56,15 @@
 </details>
 
 <details>
+<summary>多线程并不是真正的并行处理？</summary>
+  
+多进程多线程虽然让多任务并行处理的性能大大提升，但本质上还是分时系统，并不能做到时间上真正的并行。解决这个问题的方式显而易见，就是让多个CPU 能够同时执行计算任务，从而实现真正意义上的多任务并行。目前这样的解决方案有3 种： SMP C 对称多处理器结构，Symmetric Multi -Processor ）、NUMA (Non-Uniform Memory Access ，非一致存储访问结构）、MPP (Massive Parallel Processi吨，海量并行处理结构） 。其中SMP 是我们最常见的，目前流行
+的多核处理器就是SMP 方案。
+
+</details>
+
+
+<details>
 <summary>如何在Java中实现线程？</summary>
   
 在语言层面有两种方式。java.lang.Thread 类的实例就是一个线程但是它需要调用java.lang.Runnable接口来执行，由于线程类本身就是调用的Runnable接口所以你可以继承java.lang.Thread 类或者直接调用Runnable接口来重写run()方法实现线程。
