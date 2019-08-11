@@ -225,3 +225,4 @@
 * [java classloader使用，热部署原理](https://blog.csdn.net/cyduo/article/details/80334038)
 * [从程序上java 利用managementFactory获取jvm信息](https://blog.csdn.net/dw147258dw/article/details/93164661)
 * [SkyWalking jvm指标采集与存储](https://blog.csdn.net/dw147258dw/article/details/93711710)
+* [性能分析之-- JAVA Thread Dump 分析综述](https://blog.csdn.net/rachel_luo/article/details/8920596)
