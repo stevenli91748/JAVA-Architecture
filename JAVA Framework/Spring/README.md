@@ -8,7 +8,7 @@
 
 
 # 有用的参考
-* [Java新手如何学习SSM三大框架](https://www.zhihu.com/question/21142149/answer/310738460?hb_wx_block=1&utm_source=wechat_session&utm_medium=social&utm_oi=1119162453489045504)
+* [Java新手如何学习SSM三大框架---有很多的知识](https://www.zhihu.com/question/21142149/answer/310738460?hb_wx_block=1&utm_source=wechat_session&utm_medium=social&utm_oi=1119162453489045504)
 * [谈谈对Spring IOC的理解](https://blog.csdn.net/qq_22654611/article/details/52606960/)
 * [Spring面向切面编程](http://objcoding.com/2017/08/25/Spring-AOP/)
 * [Spring 经典面试题和答案](https://blog.csdn.net/wypersist/article/details/80274561)
