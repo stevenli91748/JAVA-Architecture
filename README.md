@@ -340,7 +340,7 @@ http://www.idl.com.cn/china.html
 
 # 有用的参考
   * [Java Tutorial](http://tutorials.jenkov.com/java/index.html)
-  
+  * [Java 除了 Spring 还有什么](https://www.zhihu.com/question/320482163)
   * [如何规划学习步骤](https://blog.csdn.net/weixin_44135121/article/details/93226590)
   * [IT技术精华网关注搜索、分布式系统、云计算、系统架构设计、性能调优、Web开发、数据挖掘、推荐系统](http://www.chepoo.com)
   * [怎样学好java后端？](https://www.zhihu.com/question/307849855/answer/623576509?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
