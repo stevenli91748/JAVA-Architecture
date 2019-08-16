@@ -17,6 +17,17 @@ https://www.zhihu.com/question/64671972
   
 </details>
 
+<details>
+<summary>SpringBoot开发使用Mybatis还是Spring Data JPA??</summary>
+https://www.zhihu.com/question/316458408
+  
+</details>
+
+<details>
+<summary>spring boot和SSM开发中有什么区别？</summary>
+https://www.zhihu.com/question/284488830
+  
+</details>
 
 <details>
 <summary>列举一些SpringBoot特性</summary>
