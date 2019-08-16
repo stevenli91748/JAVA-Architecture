@@ -2,6 +2,11 @@
 目录
 ----
 
+<details>
+<summary>Spring4.x推荐使用java配置，为什么推荐这种配置方式？与xml配置和注解配置相比有什么优势？</summary>
+  https://www.zhihu.com/question/278435266
+</details>
+
 # 1.什么是spring?
 # 2.使用Spring框架的好处是什么？
 # 3.Spring由哪些模块组成?
