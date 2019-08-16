@@ -1,3 +1,18 @@
+
+<details>
+<summary>可以不学spring其他，直接学spring boot吗？</summary>
+  https://www.zhihu.com/question/303235503
+  
+</details>
+
+<details>
+<summary>spring boot集成mybatis时是用xml配置，还是用注解？</summary>
+https://www.zhihu.com/question/294748079
+  
+</details>
+
+
+
 <details>
 <summary>列举一些SpringBoot特性</summary>
   
