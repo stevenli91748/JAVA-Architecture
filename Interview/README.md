@@ -214,7 +214,7 @@
 # 有用的参考
 
   * [JAVA面试700问-english version ](https://www.careerride.com/advanced-java-interview-questions.aspx) 
-
+ * [2019最新整理JAVA面试题附答案](https://www.javazhiyin.com/42272.html)
  * [架构师之路：一个Java架构师需要掌握的知识技能，带思维导图](https://yq.aliyun.com/articles/672883?spm=a2c4e.11153940.0.0.40746773a6YrHE)
  * [Java知识体系及超全题库整理](https://www.jianshu.com/p/e2d53c2109b0)
  * [2019年最新Java学习路线图](http://www.java1234.com/a/javaziliao/javabase/2019/0321/13184.html)
