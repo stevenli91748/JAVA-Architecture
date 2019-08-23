@@ -25,6 +25,18 @@
 * [SpringCloud微服务架构之断路器](http://objcoding.com/2017/05/15/SpringCloud%283%29/)
 * [SpringCloud微服务架构之服务网关](http://objcoding.com/2017/05/20/SpringCloud%284%29/)
 * [spring cloud 实战（干货）](https://blog.csdn.net/qq_27384769/article/details/79439801)
+* [从 Spring Cloud 看一个微服务框架的「五脏六腑」](https://www.javazhiyin.com/17332.html)
+
+* [SpringCloud微服务架构第一篇](https://mp.weixin.qq.com/s?__biz=MzI4Njc5NjM1NQ==&mid=2247485849&idx=1&sn=fe4f7a4f6bdf225b74e6a24ff35bc806&chksm=ebd636b5dca1bfa3c676068d0535a7676b051c82adf25f24886042ca20fe84effb6d295a08cb&scene=21)
+
+* [SpringCloud微服务架构第二篇](https://mp.weixin.qq.com/s?__biz=MzI4Njc5NjM1NQ==&mid=2247485898&idx=1&sn=28ead1d02df25257fb8c2fd711c0a7cc&chksm=ebd636e6dca1bff02f23aa82d2669deb22371a9dde74d43e23a31e45702cea37e8c65d43c3e4&scene=21)
+
+* [SpringCloud微服务架构第三篇](https://mp.weixin.qq.com/s?__biz=MzI4Njc5NjM1NQ==&mid=2247485960&idx=1&sn=d69acb712f26aec6ecb73815a9160261&chksm=ebd63524dca1bc32ec27531bff118e3f1892473eae2a6e8514e6791eddd97005db78146d3844&scene=21)
+
+* [SpringCloud微服务架构第四篇](https://mp.weixin.qq.com/s?__biz=MzI4Njc5NjM1NQ==&mid=2247486002&idx=2&sn=8f1c76a3275e4d41bc1769d349efdfa6&chksm=ebd6351edca1bc08b190c4fc319def41111cba756333bad65dca3856c42842511b77c2506744&scene=21)
+
+* [SpringCloud第五篇结束版](https://mp.weixin.qq.com/s?__biz=MzI4Njc5NjM1NQ==&mid=2247486043&idx=2&sn=8cb27e2def06717f3487f74f9194cf7b&chksm=ebd63577dca1bc61e1134958b2b20a7bbb7f45ce3746af163b2ba5d482778f366bbef060b509&scene=21)
+
 
 -石杉的架构笔记
 * [拜托！面试请不要再问我Spring Cloud底层原理--石杉的架构笔记](https://juejin.im/post/5be13b83f265da6116393fc7)
