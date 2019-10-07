@@ -121,6 +121,7 @@ Open API开放平台必然涉及到客户应用的接入、API权限的管理、
 
 
 # 有用的参考
+ * [API 接口测试的全过程解析](https://gitchat.csdn.net/activity/5c2c65d22061ae3944327faa)
  * [新一代API管理 & 自动化测试平台]()
 
  * [某小公司RESTful、共用接口、前后端分离、接口约定的实践](https://www.javazhiyin.com/43686.html)
