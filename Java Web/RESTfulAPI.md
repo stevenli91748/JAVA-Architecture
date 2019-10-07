@@ -123,6 +123,7 @@ Open API开放平台必然涉及到客户应用的接入、API权限的管理、
 # 有用的参考
  * [新一代API管理 & 自动化测试平台]()
 
+ * [某小公司RESTful、共用接口、前后端分离、接口约定的实践](https://www.javazhiyin.com/43686.html)
  * [淘宝前后端分离实践](https://wenku.baidu.com/view/1a9f08aa33d4b14e85246895.html?sxts=1562937835448)
  * [异步 API 的设计](http://www.ruanyifeng.com/blog/2018/12/async-api-design.html)
  * [springboot综合项目练习三定义微服务接口返回规范](https://blog.csdn.net/chenhaotao/article/details/86500548)
