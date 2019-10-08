@@ -2,13 +2,8 @@
 # 目录
 
 * IntelliJ IDEA 的配置
-  * [全局JDK（默认配置）](#全局JDK（默认配置）)
-  * [全局Maven（默认配置）](#全局Maven（默认配置）)
-  * [版本控制Git/Svn （默认配置）](#版本控制Git/Svn（默认配置）)
-  * [自动导包和智能移除（默认配置）](#自动导包和智能移除（默认配置）)
-  * [Tomcat Server（当前项目配置） ](#Tomcat-Server（当前项目配置）)
-  * [自动编译](#自动编译)
-  * [取消大小写敏感](#取消大小写敏感)
+
+  * [这样配置：让你的 IDEA 好用到飞起来](file:///E:/F%20%20DISK/intellij%20IDEA/这样配置：让你的%20IDEA%20好用到飞起来-Java知音.html)
   
 * plugin
   * [Maven Helper插件](#Maven-Helper插件) 
