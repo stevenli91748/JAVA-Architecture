@@ -3,7 +3,7 @@
 
 * IntelliJ IDEA 的配置
 
-  * [这样配置：让你的 IDEA 好用到飞起来](file:///E:/F%20%20DISK/intellij%20IDEA/这样配置：让你的%20IDEA%20好用到飞起来-Java知音.html)
+ 
   
 * plugin
   * [Maven Helper插件](#Maven-Helper插件) 
