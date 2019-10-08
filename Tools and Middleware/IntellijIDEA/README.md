@@ -5,6 +5,8 @@
   * [IDEA的配置](#IDEA的配置)
     * [IDEA 设置代码行宽度](#IDEA-设置代码行宽度)
     * [IDEA 提示不区分大小写](#IDEA-提示不区分大小写)
+    * [自动编译](#自动编译)
+    * [自动导包和智能移除（默认配置）](#自动导包和智能移除)
   * [Project的配置]()
   * [Maven的配置](#Maven的配置)
     * [设置maven](#设置maven)
@@ -79,7 +81,7 @@
 具体步骤：顶部工具栏  File ->Other Settings -> Default Settings -> Version Control -> Git
 
 
-## 自动导包和智能移除（默认配置）
+## 自动导包和智能移除
 
 具体步骤：顶部工具栏  File ->Other Settings -> Default Settings -> Auto Import
 
@@ -102,13 +104,6 @@ compile.document.save.trigger.delay  -> 自动更新文件
 
 PS：网上极少有人提到compile.document.save.trigger.delay 它主要是针对静态文件如JS CSS的更新，将延迟时间减少后，免编译直接按F5刷新页面就能看到效果！
 
-## 取消大小写敏感
-
-具体步骤：
-
-File | Settings | Editor | General | Code Completion Case | Sensitive Completion = None
-
-取消大小敏感，在编写代码的时候，代码的自动提示将更加全面和丰富。
 
 
 # plugin
