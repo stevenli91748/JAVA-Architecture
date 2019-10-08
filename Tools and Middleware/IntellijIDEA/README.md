@@ -6,7 +6,9 @@
     * [IDEA 设置代码行宽度](#IDEA-设置代码行宽度)
     * [IDEA 提示不区分大小写](#IDEA-提示不区分大小写)
   * [Project的配置]()
-  * [Maven的配置]()
+  * [Maven的配置](#Maven的配置)
+    * [设置maven](#设置maven)
+    * [IntelliJ强制更新Maven Dependencies](#IntelliJ强制更新Maven-Dependencies)
   * [Version Control的配置]()
   * [Tomcat的配置]()
   * [Database的配置]()
@@ -37,6 +39,28 @@
 ### IDEA 提示不区分大小写
 
     File–>Settings–>Editor–>General–>Code Completion–>Mach case的勾取消掉就可以了 
+
+
+# Maven的配置
+
+## 设置maven
+
+    1.在File->settings->搜索maven
+
+    2.Mavan home directory--设置maven安装包的bin文件夹所在的位置
+
+    3.User settings file--设置setting文件所在的位置
+
+    4.Local repository--设置本地仓库
+
+## IntelliJ强制更新Maven Dependencies
+
+      Intellj IDEA 的自动载入Mave依赖的功能虽然好用，但有时候依赖多了或者缓存出问题，就会导致修改pom文件却没有触发自动重新载入的动作，这个时候
+      就需要手动强制让Intellj IDEA更新依赖了。主要需要以下两步：
+
+       手动删除Project Settings里面的Libraries内容
+       mvn clean删除之前编译过的文件
+       Reimport all maven projects
 
 ## 全局JDK（默认配置）
  
