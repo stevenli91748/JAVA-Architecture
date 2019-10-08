@@ -4,15 +4,20 @@
 * IntelliJ IDEA 的配置
   * [全局JDK（默认配置）](#全局JDK（默认配置）)
   * [全局Maven（默认配置）](#全局Maven（默认配置）)
-    * [Maven Helper插件](#Maven-Helper插件)
   * [版本控制Git/Svn （默认配置）](#版本控制Git/Svn（默认配置）)
   * [自动导包和智能移除（默认配置）](#自动导包和智能移除（默认配置）)
   * [Tomcat Server（当前项目配置） ](#Tomcat-Server（当前项目配置）)
   * [自动编译](#自动编译)
   * [取消大小写敏感](#取消大小写敏感)
   
-  
-  
+* plugin
+  * [Maven Helper插件](#Maven-Helper插件) 
+  * [GsonFormat 转化Json字符串](#GsonFormat-转化Json字符串)
+  * [Markdown](#Markdown)
+  * [FindBugs](#FindBugs)
+  * [ECTranslation](#ECTranslation)
+  * [CheckStyle](#CheckStyle)
+  * [MyBatisCodeHelp](#MyBatisCodeHelp)
   
 ## 全局JDK（默认配置）
  
@@ -24,9 +29,6 @@
  具体步骤：顶部工具栏  File ->Other Settings -> Default Settings -> Build & Tools -> Maven
  理论上只要配置了Maven主目录即可，实际开发推荐采用User Settins file .
  
- ## Maven Helper插件
-  
-可在项目中查找到版本冲突的插件，并解决冲突。  
  
 
 ## 版本控制Git/Svn（默认配置）
@@ -66,8 +68,26 @@ File | Settings | Editor | General | Code Completion Case | Sensitive Completion
 取消大小敏感，在编写代码的时候，代码的自动提示将更加全面和丰富。
 
 
+# plugin
 
+ ## Maven Helper插件
+  
+     可在项目中查找到版本冲突的插件，并解决冲突。  
 
+## GsonFormat 转化Json字符串
+
+## Markdown
+
+## FindBugs
+
+    查找BUG
+
+## ECTranslation
+
+## CheckStyle
+
+## MyBatisCodeHelp
+    
 
 
 
