@@ -4,6 +4,7 @@
 * [IntelliJ IDEA 的配置](#IntelliJ-IDEA-的配置)
   * [IDEA的配置](#IDEA的配置)
     * [IDEA 设置代码行宽度](#IDEA-设置代码行宽度)
+    * [IDEA 提示不区分大小写](#IDEA 提示不区分大小写)
   * [Project的配置]()
   * [Maven的配置]()
   * [Version Control的配置]()
@@ -33,7 +34,9 @@
     第一种方式：    在File->settings->Editor->Code Style
     第二种方式      在File->settings->Code Style->Java中
 
+### IDEA 提示不区分大小写
 
+    File–>Settings–>Editor–>General–>Code Completion–>Mach case的勾取消掉就可以了 
 
 ## 全局JDK（默认配置）
  
