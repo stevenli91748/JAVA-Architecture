@@ -4,7 +4,7 @@
 * [IntelliJ IDEA 的配置](#IntelliJ-IDEA-的配置)
   * [IDEA的配置](#IDEA的配置)
     * [IDEA 设置代码行宽度](#IDEA-设置代码行宽度)
-    * [IDEA 提示不区分大小写](#IDEA 提示不区分大小写)
+    * [IDEA 提示不区分大小写](#IDEA-提示不区分大小写)
   * [Project的配置]()
   * [Maven的配置]()
   * [Version Control的配置]()
