@@ -1,9 +1,15 @@
 
 # 目录
 
-* IntelliJ IDEA 的配置
-
- 
+* [IntelliJ IDEA 的配置](#IntelliJ-IDEA-的配置)
+  * [IDEA的配置](#IDEA的配置)
+    * [IDEA 设置代码行宽度](#IDEA-设置代码行宽度)
+  * [Project的配置]()
+  * [Maven的配置]()
+  * [Version Control的配置]()
+  * [Tomcat的配置]()
+  * [Database的配置]()
+  * [Web工程的配置]()
   
 * plugin
   * [Maven Helper插件](#Maven-Helper插件) 
@@ -17,6 +23,16 @@
 * IntelliJ IDEA 使用技巧
 
   * [Intellij IDEA神器居然还有这些小技巧](http://blog.didispace.com/intellij-idea-some-features-sam-1/)
+
+# IntelliJ IDEA 的配置
+
+## IDEA的配置
+
+### IDEA 设置代码行宽度
+
+    第一种方式：    在File->settings->Editor->Code Style
+    第二种方式      在File->settings->Code Style->Java中
+
 
 
 ## 全局JDK（默认配置）
