@@ -18,7 +18,12 @@
   * [ECTranslation](#ECTranslation)
   * [CheckStyle](#CheckStyle)
   * [MyBatisCodeHelp](#MyBatisCodeHelp)
-  
+
+* IntelliJ IDEA 使用技巧
+
+  * [Intellij IDEA神器居然还有这些小技巧](http://blog.didispace.com/intellij-idea-some-features-sam-1/)
+
+
 ## 全局JDK（默认配置）
  
  具体步骤：顶部工具栏  File ->Other Settins -> Default Project Structure -> SDKs -> JDK
