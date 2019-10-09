@@ -14,6 +14,7 @@
     * [鼠标滚轮修改字体的配置](#鼠标滚轮修改字体的配置)
     * [设置鼠标悬浮提示](#设置鼠标悬浮提示)
     * [设置行号和方法间的分隔符](#设置行号和方法间的分隔符)
+    * [多行显示Tab的操作](#多行显示Tab的操作)
   * [Project的配置]()
   * [Maven的配置](#Maven的配置)
     * [设置maven](#设置maven)
@@ -88,6 +89,11 @@
 
     file->settings->Editor->General->Appearance-> Show line numbers
                                                   Show method separators
+
+### 多行显示Tab的操作
+
+      file->settings->Editor->General->Editor Tabs->show tabs in single row
+
 
 # Maven的配置
 
