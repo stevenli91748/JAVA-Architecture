@@ -11,7 +11,8 @@
   * [Maven的配置](#Maven的配置)
     * [设置maven](#设置maven)
     * [IntelliJ强制更新Maven Dependencies](#IntelliJ强制更新Maven-Dependencies)
-  * [Version Control的配置]()
+  * [Version Control的配置](#Version-Control的配置)
+    * [Git的配置](#Git的配置)
   * [Tomcat的配置]()
   * [Database的配置]()
   * [Web工程的配置]()
@@ -63,6 +64,17 @@
        手动删除Project Settings里面的Libraries内容
        mvn clean删除之前编译过的文件
        Reimport all maven projects
+
+# Version Control的配置
+
+## Git的配置
+
+     1. Setting->version control->git->path    (git.exe 安装路径)
+     
+     2. Setting->version control->Github       (github account and password)
+
+---
+
 
 ## 全局JDK（默认配置）
  
