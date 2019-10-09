@@ -11,6 +11,7 @@
     * [设置窗体及菜单的字体及字体大小](#设置窗体及菜单的字体及字体大小)
     * [设置窗体背境图案](#设置窗体背境图案)
     * [表现模式的字体大小](#表现模式的字体大小)
+    * [鼠标滚轮修改字体的配置](#鼠标滚轮修改字体的配置)
   * [Project的配置]()
   * [Maven的配置](#Maven的配置)
     * [设置maven](#设置maven)
@@ -72,7 +73,12 @@
 ### 表现模式的字体大小
 
      file->settings->Appearance & Behavior-> Appearance->Presentation Mode font size  
-     
+
+### 鼠标滚轮修改字体的配置
+
+     file->settings->Editor->General->change font size (Zoom) with Ctrl+Mouse Wheel
+
+
 # Maven的配置
 
 ## 设置maven
