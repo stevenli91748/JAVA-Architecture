@@ -15,6 +15,8 @@
     * [设置鼠标悬浮提示](#设置鼠标悬浮提示)
     * [设置行号和方法间的分隔符](#设置行号和方法间的分隔符)
     * [多行显示Tab的操作](#多行显示Tab的操作)
+    * [设置默认的字体 字体大小 字体行间距](#设置默认的字体-字体大小-字体行间距)
+    * [设置代码中注释的字体颜色](#设置代码中注释的字体颜色)
   * [Project的配置]()
   * [Maven的配置](#Maven的配置)
     * [设置maven](#设置maven)
@@ -94,6 +96,15 @@
 
       file->settings->Editor->General->Editor Tabs->show tabs in single row
 
+### 设置默认的字体 字体大小 字体行间距
+
+       file->settings->Editor->Font->
+
+### 设置代码中注释的字体颜色
+
+       file->settings->Editor->Color Scheme->Language Defaults->Comments->Line Comment
+                                                                          Block Comment
+                                                                          Doc  Comment
 
 # Maven的配置
 
