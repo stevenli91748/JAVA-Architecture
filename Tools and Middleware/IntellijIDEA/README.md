@@ -13,6 +13,7 @@
     * [表现模式的字体大小](#表现模式的字体大小)
     * [鼠标滚轮修改字体的配置](#鼠标滚轮修改字体的配置)
     * [设置鼠标悬浮提示](#设置鼠标悬浮提示)
+    * [设置行号和方法间的分隔符](#设置行号和方法间的分隔符)
   * [Project的配置]()
   * [Maven的配置](#Maven的配置)
     * [设置maven](#设置maven)
@@ -83,6 +84,9 @@
 
      file->settings->Editor->General-> Show quick documentation on mouse move
 
+### 设置行号和方法间的分隔符
+
+
 
 # Maven的配置
 
@@ -135,7 +139,10 @@
 
 ## 自动导包和智能移除
 
-      具体步骤：顶部工具栏  File ->Other Settings -> Default Settings -> Auto Import
+      具体步骤：顶部工具栏  File ->Settings -> Editor->General -> Auto Import-> set all for insert imports on paste
+                                                                              Add unambiguous imports on the fly 自动导入不明确的结构
+                                                                              Optimize imports on the fly (for current project) 自动帮我们优化导入的包
+                                                                
 
 ## Tomcat Server（当前项目配置）
 
