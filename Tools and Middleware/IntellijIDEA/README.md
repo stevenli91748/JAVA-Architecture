@@ -7,7 +7,10 @@
     * [IDEA 提示不区分大小写](#IDEA-提示不区分大小写)
     * [自动编译](#自动编译)
     * [自动导包和智能移除（默认配置）](#自动导包和智能移除)
-    
+    * [主题的配置](#主题的配置)
+    * [设置窗体及菜单的字体及字体大小](#设置窗体及菜单的字体及字体大小)
+    * [设置窗体背境图案](#设置窗体背境图案)
+    * [表现模式的字体大小](#表现模式的字体大小)
   * [Project的配置]()
   * [Maven的配置](#Maven的配置)
     * [设置maven](#设置maven)
@@ -53,8 +56,23 @@
 ### IDEA 提示不区分大小写
 
     File–>Settings–>Editor–>General–>Code Completion–>Mach case的勾取消掉就可以了 
+    
+### 主题的配置
 
+     file->settings->Appearance & Behavior-> Appearance-> Theme
 
+### 设置窗体及菜单的字体及字体大小
+
+     file->settings->Appearance & Behavior-> Appearance->  use custom font      size  
+     
+### 设置窗体背境图案
+
+     file->settings->Appearance & Behavior-> Appearance-> background Image... 
+     
+### 表现模式的字体大小
+
+     file->settings->Appearance & Behavior-> Appearance->Presentation Mode font size  
+     
 # Maven的配置
 
 ## 设置maven
