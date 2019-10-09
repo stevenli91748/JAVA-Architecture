@@ -17,6 +17,9 @@
     * [多行显示Tab的操作](#多行显示Tab的操作)
     * [设置默认的字体 字体大小 字体行间距](#设置默认的字体-字体大小-字体行间距)
     * [设置代码中注释的字体颜色](#设置代码中注释的字体颜色)
+    * [设置类头的文档注释信息](#设置类头的文档注释信息)
+    * [设置项目文件编码](#设置项目文件编码)
+    * [设置代码水平或垂直显示](#设置代码水平或垂直显示)
   * [Project的配置]()
   * [Maven的配置](#Maven的配置)
     * [设置maven](#设置maven)
@@ -106,6 +109,21 @@
                                                                           Block Comment
                                                                           Doc  Comment
 
+### 设置类头的文档注释信息
+
+     file->settings->Editor->File and Code Templates-> tab includes-> file header
+
+### 设置项目文件编码
+
+     file->settings->Editor->File Encodings-> Global Encoding
+                                              Project Encoding
+                                              Default encoding for properties files
+                                              Transparent native to ascii conversion
+                                              
+### 设置代码水平或垂直显示
+
+     代码tab上右击，选 Split Vertically or Split Horizontally
+                                              
 # Maven的配置
 
 ## 设置maven
@@ -170,7 +188,8 @@
 
     1. 开启IDEA的自动编译（静态）
 
-       具体步骤：打开顶部工具栏 File -> Settings -> Default Settings -> Build -> Compiler 然后勾选 Build project automatically 。
+       具体步骤：打开顶部工具栏 File -> Settings ->Build Execution Deployment->Complier-> Build project automatically
+                                                                                        Compile independent modules in parallel
 
     2. 开启IDEA的自动编译（动态）
 
