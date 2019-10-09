@@ -12,6 +12,7 @@
     * [设置窗体背境图案](#设置窗体背境图案)
     * [表现模式的字体大小](#表现模式的字体大小)
     * [鼠标滚轮修改字体的配置](#鼠标滚轮修改字体的配置)
+    * [设置鼠标悬浮提示](#设置鼠标悬浮提示)
   * [Project的配置]()
   * [Maven的配置](#Maven的配置)
     * [设置maven](#设置maven)
@@ -77,6 +78,10 @@
 ### 鼠标滚轮修改字体的配置
 
      file->settings->Editor->General->change font size (Zoom) with Ctrl+Mouse Wheel
+
+### 设置鼠标悬浮提示
+
+     file->settings->Editor->General-> Show quick documentation on mouse move
 
 
 # Maven的配置
