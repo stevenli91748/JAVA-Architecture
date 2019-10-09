@@ -155,24 +155,6 @@
 
 ---
 
-
-## 全局JDK（默认配置）
- 
-      具体步骤：顶部工具栏  File ->Other Settins -> Default Project Structure -> SDKs -> JDK
-      同理，当前项目在Project Structure可为工程和各模块设置喜欢的JDK版本
- 
- ## 全局Maven（默认配置）
- 
-      具体步骤：顶部工具栏  File ->Other Settings -> Default Settings -> Build & Tools -> Maven
-      理论上只要配置了Maven主目录即可，实际开发推荐采用User Settins file .
- 
- 
-
-## 版本控制Git/Svn（默认配置）
-
-     具体步骤：顶部工具栏  File ->Other Settings -> Default Settings -> Version Control -> Git
-
-
 ## 自动导包和智能移除
 
       具体步骤：顶部工具栏  File ->Settings -> Editor->General -> Auto Import-> set all for insert imports on paste
