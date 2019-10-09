@@ -86,7 +86,8 @@
 
 ### 设置行号和方法间的分隔符
 
-
+    file->settings->Editor->General->Appearance-> Show line numbers
+                                                  Show method separators
 
 # Maven的配置
 
