@@ -58,7 +58,7 @@
 
 ### IDEA 提示不区分大小写
 
-    File–>Settings–>Editor–>General–>Code Completion–>Mach case的勾取消掉就可以了 
+    File–>Settings–>Editor–>General–>Code Completion–>Match case的勾取消掉就可以了 
     
 ### 主题的配置
 
