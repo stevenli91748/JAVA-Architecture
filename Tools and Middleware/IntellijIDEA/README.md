@@ -7,6 +7,7 @@
     * [IDEA 提示不区分大小写](#IDEA-提示不区分大小写)
     * [自动编译](#自动编译)
     * [自动导包和智能移除（默认配置）](#自动导包和智能移除)
+    
   * [Project的配置]()
   * [Maven的配置](#Maven的配置)
     * [设置maven](#设置maven)
@@ -14,8 +15,18 @@
   * [Version Control的配置](#Version-Control的配置)
     * [Git的配置](#Git的配置)
   * [Tomcat的配置]()
+  * [Nginx的配置]()
   * [Database的配置]()
+    * [MySQL的配置]()
+    * 
   * [Web工程的配置]()
+    * [Static Web的配置]()
+    * [Spring的配置]()
+    * [SpringMVC的配置]()
+    * [MyBatis的配置]()
+    * [SSM集成的配置]()
+    * [Spring Boot的配置]()
+    * [Spring Cloud的配置]()
   
 * plugin
   * [Maven Helper插件](#Maven-Helper插件) 
