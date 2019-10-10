@@ -32,6 +32,7 @@
   * [Version Control的配置](#Version-Control的配置)
     * [Git的配置](#Git的配置)
   * [Tomcat的配置]()
+    * [tomcat实现热部署的配置](#tomcat实现热部署的配置)
   * [Nginx的配置]()
   * [Database的配置]()
     * [MySQL的配置]()
@@ -189,6 +190,11 @@
                                                                                                                  
                                                                                                                  
      配置Tomcat方法2: run-> Edit Configration -> + ->Tomcat Server->                                                                                                                 
+
+## tomcat实现热部署的配置
+
+   [Tomcat实现热部署的几种方式](https://blog.csdn.net/qq_34567887/article/details/80551251)
+
 
 ## 自动编译
 
