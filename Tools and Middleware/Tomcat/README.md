@@ -8,6 +8,14 @@
 安装目录
 c:\apache-tomcat-9.0.16
 
+* [Tomcat热部署的实现原理](#Tomcat热部署的实现原理)
+
+
+# Tomcat热部署的实现原理
+
+  [Tomcat热部署的实现原理](https://my.oschina.net/xianggao/blog/364068)
+  [Tomcat实现热部署的几种方式](https://blog.csdn.net/qq_34567887/article/details/80551251)
+  
 # [TOMCAT性能调优](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Performance/tomcat.md)
 
 
