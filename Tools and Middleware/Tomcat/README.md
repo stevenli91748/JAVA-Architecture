@@ -14,7 +14,9 @@ c:\apache-tomcat-9.0.16
 # Tomcat热部署的实现原理
 
   [Tomcat热部署的实现原理](https://my.oschina.net/xianggao/blog/364068)
+  
   [Tomcat热部署的三种方式](https://my.oschina.net/u/1455528/blog/801631)
+  
   [菜鸟教程之工具使用——借助JRebel使Tomcat支持热部署](https://blog.csdn.net/liushuijinger/article/details/39898415)
   
   
