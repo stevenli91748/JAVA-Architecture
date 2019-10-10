@@ -184,7 +184,11 @@
 
 ## Tomcat Server（当前项目配置）
 
-     配置Tomcat方法： File -> Settings -> Deployment -> Application Servers -> Tomcat Server  
+     配置Tomcat方法1： File -> Settings ->Build Execution Deployment -> Application Servers -> + ->Tomcat Server-> Tomcat Home
+                                                                                                                 Tomcat base directory
+                                                                                                                 
+                                                                                                                 
+     配置Tomcat方法2: run-> Edit Configration -> + ->Tomcat Server->                                                                                                                 
 
 ## 自动编译
 
