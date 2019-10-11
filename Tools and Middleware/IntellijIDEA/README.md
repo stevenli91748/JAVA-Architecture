@@ -148,14 +148,34 @@
 # Maven的配置
 
 ## 设置maven
+ 
+    设置maven java 工程
+    
+    1.File->settings->Maven
 
-    1.在File->settings->搜索maven
+    2. create from archetype -> org.apache.maven.archetypemaven- archetype-quickstart 模板
+    
+    3. 设置 Groupid, Artifactid, Version
+    
+    4. Mavan home directory--设置maven安装包的bin文件夹所在的位置
 
-    2.Mavan home directory--设置maven安装包的bin文件夹所在的位置
+    5. User settings file--设置setting文件所在的位置
 
-    3.User settings file--设置setting文件所在的位置
+    6. Local repository--设置本地仓库
 
-    4.Local repository--设置本地仓库
+    7. 在Properties 中 要加入一个属性，默认没有，必需要加入该属性，不然 Maven JAVA 工程的创建过程会很慢
+       Name : archetypeCatalog     Value: internal 
+       
+    8. project name and project location
+    
+    9. 打开project 目录，找到src -> main ->java 目录，right click 选择 Mark Directory as Sources Root
+                            src -> main -> resource目录, 如果没有就创建目录，right click 选择 Mark Directory as resource Root                                                                                      
+                         找到src -> test -> java 目录,right click 选择 Mark Directory as test Sources Root
+                             src -> test -> resource目录, 如果没有就创建目录，right click 选择 Mark Directory as test resource Root 
+                             
+                             
+    设置maven java Web工程
+
 
 ## IntelliJ强制更新Maven Dependencies
 
