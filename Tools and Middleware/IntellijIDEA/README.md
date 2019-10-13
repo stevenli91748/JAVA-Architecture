@@ -30,6 +30,7 @@
     * [设置maven](#设置maven)
       * [设置maven java 工程](#设置maven-java-工程)
       * [设置maven java Web工程](#设置maven-java-Web工程)
+      * [设置maven父子工程](#设置maven父子工程)
     * [IntelliJ强制更新Maven Dependencies](#IntelliJ强制更新Maven-Dependencies)
   * [Version Control的配置](#Version-Control的配置)
     * [Git的配置](#Git的配置)
@@ -227,6 +228,41 @@
            
        11. 配置TOMCAT SERVER    
            
+### 设置maven父子工程
+
+    1. 先设置父工程
+     
+       1.1 创建maven父工程
+        
+           file->new->project->maven->不管选不选原型都可以->设置GAV->location
+           
+       1.2 在maven父工程中，如果它想当一个父工程，一定要删除掉SRC目录，也就是说在maven父工程目录下只有一个pom.xml文件。
+       1.3 在maven父工程中的POM.XML文件中packaging标签值必需设置为"POM"
+       
+           <packaging> pom </packaging>
+           
+     2. 添加子工程
+     
+       2.1  file->new->Module-> maven-> 选或不选原型都行 ->设置 Add as module to : 父工程名称
+                                                              Parent           : 父工程名称
+                                                              Groupid 继承 父工程
+                                                              version 继承 父工程
+                                                              antifiacID 不要输父工程相同的名称，要唯一的名子
+       2.2  子工程物理目录必需放在父目录下面。 
+       
+       2.3  打开子工程目录，找到src -> main ->java 目录，right click 选择 Mark Directory as Sources Root
+                            src -> main -> resource目录, 如果没有就创建目录，right click 选择 Mark Directory as resource Root                                                                                      
+                         找到src -> test -> java 目录,right click 选择 Mark Directory as test Sources Root
+                             src -> test -> resource目录, 如果没有就创建目录，right click 选择 Mark Directory as test resource Root 
+
+        2.4 
+
+                                                              
+                                                              
+           
+           
+       
+       
      
 ## IntelliJ强制更新Maven Dependencies
 
