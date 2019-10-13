@@ -28,6 +28,8 @@
   * [Project的配置]()
   * [Maven的配置](#Maven的配置)
     * [设置maven](#设置maven)
+      * [设置maven java 工程](#设置maven-java-工程)
+      * [设置maven java Web工程](#设置maven-java-Web工程)
     * [IntelliJ强制更新Maven Dependencies](#IntelliJ强制更新Maven-Dependencies)
   * [Version Control的配置](#Version-Control的配置)
     * [Git的配置](#Git的配置)
@@ -149,9 +151,9 @@
 
 ## 设置maven
  
-    设置maven java 工程
+### 设置maven java 工程
     
-    1.File->settings->Maven
+    1.File->new->project->Maven
 
     2. create from archetype -> org.apache.maven.archetypemaven- archetype-quickstart 模板
     
@@ -173,10 +175,59 @@
                          找到src -> test -> java 目录,right click 选择 Mark Directory as test Sources Root
                              src -> test -> resource目录, 如果没有就创建目录，right click 选择 Mark Directory as test resource Root 
                              
-                             
-    设置maven java Web工程
+### 
 
+### 设置maven java Web工程
 
+    1. File->new->project->Maven
+     
+    2. create from archetype -> maven-archetype-webapp 模板
+    
+    3. 设置 Groupid, Artifactid, Version
+    
+    4. Mavan home directory--设置maven安装包的bin文件夹所在的位置
+
+    5. User settings file--设置setting文件所在的位置
+
+    6. Local repository--设置本地仓库
+    
+    7. 清除project的pom.xml中的不要的信息
+    
+    8. 打开project 目录，找到src -> main ->java 目录，right click 选择 Mark Directory as Sources Root
+                            src -> main -> resource目录, 如果没有就创建目录，right click 选择 Mark Directory as resource Root                                                                                      
+                         找到src -> test -> java 目录,right click 选择 Mark Directory as test Sources Root
+                             src -> test -> resource目录, 如果没有就创建目录，right click 选择 Mark Directory as test resource Root 
+    9. 设置project的编译级别
+       
+       在setting->build execution deployment-> Compiler->java compiler查看编译级别。如果是 vresion 1.5（IDEA 会默任最小版本）,但是你
+       在project中设置的JDK是version 1.8，就要修改POM.XML文件，
+       
+       <build>
+         <plugins>
+           <plugin>
+             <artifacID>maven-compiler-plugin</artifacID>
+             <!--插件的版本-->
+             <version>3.5.1</version>
+             <!--编译级别-->
+             <configuration>
+                 <source>1.8</source>
+                 <target>1.8</target>
+                 <!--编码格式-->
+                 <encoding>UTF-8</encoding>
+             </configuration>
+           </plugin>
+         </plugins>
+       </build>
+       
+       10. 修改Web.xml文件
+        
+           在project目录树
+           
+           project->src->main-> webapp->web-inf->web.xml,可以用普通JavaWEB工程中的web.xml覆盖就行了
+           
+       11. 配置TOMCAT SERVER    
+           
+     
 ## IntelliJ强制更新Maven Dependencies
 
       Intellj IDEA 的自动载入Mave依赖的功能虽然好用，但有时候依赖多了或者缓存出问题，就会导致修改pom文件却没有触发自动重新载入的动作，这个时候
