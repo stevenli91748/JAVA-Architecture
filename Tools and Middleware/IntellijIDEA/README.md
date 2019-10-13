@@ -226,7 +226,9 @@
            
            project->src->main-> webapp->web-inf->web.xml,可以用普通JavaWEB工程中的web.xml覆盖就行了
            
-       11. 配置TOMCAT SERVER    
+       11. 配置TOMCAT SERVER   
+       
+       12. DEBUG 运行程序
            
 ### 设置maven父子工程
 
@@ -243,11 +245,11 @@
            
      2. 添加子工程
      
-       2.1  file->new->Module-> maven-> 选或不选原型都行 ->设置 Add as module to : 父工程名称
-                                                              Parent           : 父工程名称
-                                                              Groupid 继承 父工程
-                                                              version 继承 父工程
-                                                              antifiacID 不要输父工程相同的名称，要唯一的名子
+       2.1  file->new->Module-> maven-> 无论Java 程序或Java Web 程序选或不选原型都行 ->设置 Add as module to : 父工程名称
+                                                                                         Parent           : 父工程名称
+                                                                                         Groupid 继承 父工程
+                                                                                         version 继承 父工程
+                                                                                          antifiacID 不要输父工程相同的名称，要唯一的名字
        2.2  子工程物理目录必需放在父目录下面。 
        
        2.3  打开子工程目录，找到src -> main ->java 目录，right click 选择 Mark Directory as Sources Root
