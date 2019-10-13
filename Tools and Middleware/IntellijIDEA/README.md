@@ -31,6 +31,8 @@
       * [设置maven java 工程](#设置maven-java-工程)
       * [设置maven java Web工程](#设置maven-java-Web工程)
       * [设置maven父子工程](#设置maven父子工程)
+        * [maven父子工程的第一种继承关系](#maven父子工程的第一种继承关系)
+        * [maven父子工程的第二种继承关系](#maven父子工程的第二种继承关系)
     * [IntelliJ强制更新Maven Dependencies](#IntelliJ强制更新Maven-Dependencies)
   * [Version Control的配置](#Version-Control的配置)
     * [Git的配置](#Git的配置)
@@ -257,9 +259,13 @@
                          找到src -> test -> java 目录,right click 选择 Mark Directory as test Sources Root
                              src -> test -> resource目录, 如果没有就创建目录，right click 选择 Mark Directory as test resource Root 
 
-        2.4 
+### maven父子工程的第一种继承关系        
 
-                                                              
+
+
+
+
+### maven父子工程的第二种继承关系                                                              
                                                               
            
            
