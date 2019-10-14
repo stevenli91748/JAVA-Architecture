@@ -35,6 +35,14 @@
         * [设置maven父子工程](#设置maven父子工程)
           * [maven父子工程的第一种继承关系](#maven父子工程的第一种继承关系)
           * [maven父子工程的第二种继承关系](#maven父子工程的第二种继承关系)
+    * [Web工程的配置]()
+      * [Static Web的配置]()
+      * [Spring的配置]()
+      * [SpringMVC的配置]()
+      * [MyBatis的配置]()
+      * [SSM集成的配置]()
+      * [Spring Boot的配置]()
+      * [Spring Cloud的配置]()
     * [IntelliJ强制更新Maven Dependencies](#IntelliJ强制更新Maven-Dependencies)
   * [Version Control的配置](#Version-Control的配置)
     * [Git的配置](#Git的配置)
@@ -44,14 +52,13 @@
   * [Database的配置]()
     * [MySQL的配置]()
     * [Oracle的配置]()
-  * [Web工程的配置]()
-    * [Static Web的配置]()
-    * [Spring的配置]()
-    * [SpringMVC的配置]()
-    * [MyBatis的配置]()
-    * [SSM集成的配置]()
-    * [Spring Boot的配置]()
-    * [Spring Cloud的配置]()
+  * [IDEA Debug处理]()
+  * [Project的打包处理]()
+    * [Maven Project的打包处理]()
+    * [非Maven Project的打包处理]()
+
+  
+  
   
 * plugin
   * [Maven Helper插件](#Maven-Helper插件) 
