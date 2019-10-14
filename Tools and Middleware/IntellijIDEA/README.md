@@ -61,6 +61,7 @@
   * [ECTranslation](#ECTranslation)
   * [CheckStyle](#CheckStyle)
   * [MyBatisCodeHelp](#MyBatisCodeHelp)
+  * [codota-IDEA超赞代码搜索插件效率神器]()
 
 * IntelliJ IDEA 使用技巧
 
