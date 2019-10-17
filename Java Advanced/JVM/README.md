@@ -153,6 +153,12 @@
 # [9. 对虚拟机的各个组成部份的分析](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E5%AF%B9%E8%99%9A%E6%8B%9F%E6%9C%BA%E7%9A%84%E5%90%84%E4%B8%AA%E7%BB%84%E6%88%90%E9%83%A8%E4%BB%BD%E7%9A%84%E5%88%86%E6%9E%90.md)
  *   对虚拟机里的堆进行分析
  
+ 
+# JVM视频
+
+  * [深入理解Java虚拟机（JVM性能调优+内存模型+虚拟机原理）](https://www.bilibili.com/video/av29502877/?spm_id_from=333.788.videocard.0)
+ 
+ 
 # 参考书籍
   * [Java虚拟机内存分配机制与启动参数说明](https://blog.csdn.net/chengyun19830206/article/details/53244278)
   *  深入理解Java虚拟机_JVM高级特性与最佳实践.PDF
