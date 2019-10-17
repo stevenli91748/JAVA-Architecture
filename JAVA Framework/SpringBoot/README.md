@@ -42,6 +42,11 @@ Spring Boot 并不是用来替代 Spring 的解决方案，而是和 Spring 框�
 * [一站式SpringBoot for NoSQL Study Tutorial 开发教程学习手册](https://www.cnblogs.com/starcrm/p/9667830.html)
 
 
+
+# Spring Boot视频
+
+ * [SpringBoot 原理分析与知识点详解 （IDEA版）](https://www.bilibili.com/video/av52867311/?spm_id_from=333.788.videocard.13)
+
 # 有用的参考
   * [Springboot 整合 Mybatis 的完整 Web 案例](https://zhuanlan.zhihu.com/p/25959187)
   * [SpringBoot常用注解大全](https://zhuanlan.zhihu.com/p/59110902)
