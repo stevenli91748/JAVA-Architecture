@@ -108,7 +108,32 @@
 
     数据永不迁移的分库分表方案
 
+* 电商技术选型
 
+  1. Spring  SpringMVC  Mybatis
+  
+  2. JSP, JSTL, JQuery, JQery plugin, CSS+DIV, EasyUI, 
+  
+  2.3 Redis (缓存服务器)
+  
+  2.4 Solr (搜索) 
+  
+  2.5 Dubbo (调用系统服务)
+  
+  2.6. Mysql
+  
+  2.7 Nginx(Web 服务器)
+  
+  2.8 jsonp (跨域数据请求格式)
+  
+  2.9 nexus （maven 私服）
+  
+  2.10 MyBatis (逆向工程)
+  
+  2.11 HttpClient (使用Java完成请求及响应的技术)
+  
+  2.12 MyCat (MySql分库分表的技术)
+  
 
 # [第九阶段   分布式亿级高并发电商项目篇](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Ecommerce%20Project/README.md)
 
