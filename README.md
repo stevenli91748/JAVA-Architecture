@@ -110,9 +110,9 @@
 
 * 电商技术选型
 
-  1. Spring  SpringMVC  Mybatis
+  1 Spring  SpringMVC  Mybatis
   
-  2. JSP, JSTL, JQuery, JQery plugin, CSS+DIV, EasyUI, 
+  2 JSP, JSTL, JQuery, JQery plugin, CSS+DIV, EasyUI, 
   
   2.3 Redis (缓存服务器)
   
