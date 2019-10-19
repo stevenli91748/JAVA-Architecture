@@ -112,7 +112,7 @@
 
   1 Spring  SpringMVC  Mybatis
   
-  2 JSP, JSTL, JQuery, JQery plugin, CSS+DIV, EasyUI, 
+  2 JSP, JSTL, JQuery, JQery plugin, CSS+DIV, EasyUI, mapper, pojo
   
   2.3 Redis (缓存服务器)
   
