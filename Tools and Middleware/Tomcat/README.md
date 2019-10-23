@@ -101,13 +101,14 @@ c:\apache-tomcat-9.0.16
           6.1 修改server.xml
           
              增加一个主机标志，修改 host name and appBase的值， appBase指定的目录是相对tomcat_home主目录，如果没有该目录，就创建一个项目目录
+             也可以设置一个绝对路径：   appBase="c:/myemall"
           
              <Host name="www.myemall.com"  appBase="myemallapps"
                   unpackWARs="true" autoDeploy="true">
 
              </Host>
           
-         6.2  修改本地 DNS 服务器
+         6.2  修改本地 DNS 服务器做IP
           
               Windows 版本
           
@@ -128,8 +129,68 @@ c:\apache-tomcat-9.0.16
              然后，在brower中输入訪问地址：  www.myemall.com:8080/myemall , 就可以訪问了            
                                         
           
+          7. 在tomcat中有多个主机，而多个主机都影射同一个IP地址 127.0.0.1
+             拿如果在brower中输入IP地址 127.0.0.1:8080/myemall， 将会訪问那个项目
+             
+             host文件
+             
+             127.0.0.1   localhost
+             127.0.0.1   www.myemall.com
+             
+             TOMCAT将会訪问localhost的项目，因为在 /conf/server.xml文件中设定好了
+             
+             server.xml文件
+             
+               <Engine name="Catalina" defaultHost="localhost">
+             
+            8. 修改端口
+            
+               不想每次都输入  localhost:8080/myemall
+                           or 127.0.0.1:8080/myemall
+                           
+               想省去8080的输入
+               
+               server.xml
+               
+               找到  
+              
+               <Connector port="8080" protocol="HTTP/1.1"
+               connectionTimeout="20000"
+               redirectPort="8443" />
+             
+               改为
+               <Connector port="80" protocol="HTTP/1.1"
+               connectionTimeout="20000"
+               redirectPort="8443" />
 
-          
+               因为浏览器如果没有输入端口号，默任就是80端口
+               
+               在brower中输入訪问地址：  www.myemall.com/myemall , 就可以訪问了            
+
+
+             9  指定虚拟主机的默认应用
+             
+                到现在为止，从浏览器訪问，输入地址象这样   www.myemall.com/myemall ， 而输入localhost就会出现tomcat页面
+                能不能就输入www.myemall.com就能訪问到对应的项目？
+                
+                答案就是： 每一个虚拟主机都有一个默认的应用要加载，这个默认的应用是放在tomcat_home/webapps/ROOT目录下，当tomcat安装时
+                          就已经把localhost虚拟主机对应的应用放在ROOT目录下了，所以输入localhost能訪问。
+                          
+                          如果想要tomcat接受我们项目的域名，就要在server.xml文件中查找对应的主机标签，
+                          
+                          <Host name="www.myemall.com"  appBase="C:/APACHE-TOMCAT-9.0.16/myemallapps"
+                           unpackWARs="true" autoDeploy="true">
+                           
+                           项目是訪在C:/APACHE-TOMCAT-9.0.16/myemallapps目录下
+                           
+                           C:/APACHE-TOMCAT-9.0.16/myemallapps/myemall/*.*
+                           
+                           所以我们必须把项目目录名 /myemall 改成 /ROOT
+                           
+                  在brower中输入訪问地址：  www.myemall.com/ , 就能訪问对应默认项目          
+                          
+                
+
 
       
 # Tomcat的核心
