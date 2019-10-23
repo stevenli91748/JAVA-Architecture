@@ -94,7 +94,43 @@ c:\apache-tomcat-9.0.16
              
              然后，在brower中输入訪问地址：  localhost:8080/aaa , 就可以訪问了
 
-         
+       6. 虚拟主机
+       
+          创建DNS www.myemall.com ，达到可用www.myemall.com:8080/aaa訪问的目的
+          
+          6.1 修改server.xml
+          
+             增加一个主机标志，修改 host name and appBase的值， appBase指定的目录是相对tomcat_home主目录，如果没有该目录，就创建一个项目目录
+          
+             <Host name="www.myemall.com"  appBase="myemallapps"
+                  unpackWARs="true" autoDeploy="true">
+
+             </Host>
+          
+         6.2  修改本地 DNS 服务器
+          
+              Windows 版本
+          
+               copy c:\windows\system32\drivers\etc\host文件 to 任意目录下修改
+          
+               增加 127.0.0.1   www.myemall.com  到 host文件
+          
+               然后再把该文件覆盖 to c:\windows\system32\drivers\etc
+          
+          6.3  copy 已经开发好的myemall项目目录 到 tomcat-home/myemallapps目录下，
+                 tomcat_home\myemallapps\myemall
+                             \webapps
+                             \bin
+                             \conf
+                             \lib
+                  
+                  
+             然后，在brower中输入訪问地址：  www.myemall.com:8080/myemall , 就可以訪问了            
+                                        
+          
+
+          
+
       
 # Tomcat的核心
 
