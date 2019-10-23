@@ -59,6 +59,14 @@ c:\apache-tomcat-9.0.16
          
          在brower中输入訪问地址：  localhost:8080/myemall
       
+      5.如果不想把项目放到/webapps目录中，想放到任意目录中，有两种实现方法
+      
+         5.1  第一种方法 在/conf/server.xml文件中配置，然后重启tomcat，但是这种方法不可取，因为同时有多个程序在同一tomcat服务器上。
+         
+              
+              
+              
+         5.2  第二种方法
 
          
       
@@ -72,8 +80,17 @@ c:\apache-tomcat-9.0.16
          
         <Host name="localhost"  appBase="webapps" unpackWARs="true" autoDeploy="true">
 
-    
+     2. 当部署项目时，启动tomcat后，是否在wabapps目录下自动解压war包？
+        
+        unpackWARs="true"是设置是否自动解压war包
+        
+        <Host name="localhost"  appBase="webapps" unpackWARs="true" autoDeploy="true">
+        
+      3. 当部署项目时，在tomcat服务器在运行当中，当你把war包一放到webapps目录时，tomcat服务器自动解压和发布到服务器上
       
+         autoDeploy="true"
+         
+         <Host name="localhost"  appBase="webapps" unpackWARs="true" autoDeploy="true">
       
 # Tomcat热部署的实现原理
 
