@@ -11,7 +11,34 @@ c:\apache-tomcat-9.0.16
 * [Tomcat热部署的实现原理](#Tomcat热部署的实现原理)
 
 # Tomcat配置和使用
+  
+     逐步部署一个WAP项目例子，最后达到在浏览器输入网址就可訪问，
+     
+     1. 在tomcat_home/webapps/目录下建立一个目录 /myemall和在/myemall下创建一个index.html文件
+         webapps/myemall/index.html
+         
+        启动tomcat，在brower中输入訪问地址： localhost:8080/myemall/index.html 就可訪问
+        
+     2. 但是如果在myemall目录下有多个文件，不可能一一输入地址訪问，必须有一个默认的WELCOME訪问地址，
+     
+        在/myemall下建立/WEB-INF, 在/WEB-INF目录下创建一个web.xml文件，index.html文件就成了默认的welcome页面，可以指定任一在/myemall目录
+        下的文件为默认的welcome页面
+        
+        <?xml version="1.0" encoding="UTF-8"?>
+        <web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee
+                                    http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd"
+            version="4.0">
+  
+           <welcome-file-list>
+               <welcome-file>index.html</welcome-file>
+           </welcome-file-list>
+    
+        </web-app>
 
+        在brower中输入訪问地址： localhost:8080/myemall/ 就可訪问默认的WELCOME訪问地址
+    
 
 # Tomcat热部署的实现原理
 
