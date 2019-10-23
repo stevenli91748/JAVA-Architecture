@@ -57,6 +57,7 @@ c:\apache-tomcat-9.0.16
          
          就可把myemall.war部署到工作服务器的tomcat/webapps目录下, 当tomcat启动后， 该myemall.war会自动解压，然后就可訪问了
          
+         localhost:8080/myemall
       
 
          
