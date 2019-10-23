@@ -39,7 +39,31 @@ c:\apache-tomcat-9.0.16
 
         在brower中输入訪问地址： localhost:8080/myemall/ 就可訪问默认的WELCOME訪问地址
     
+      3. 在/WEB-INF下再建一个目录/classes放置 由servelet 编译成的xxx.class文件。
+          
+          /webapps/myemall/WEB-INF/classes/xxx.class
+                                  /web.xml
+          如果在xxx.class文件中要用到的其它的jar包，就必须在/WEB-INF下建立/lib目录,把jar包放到该目录下
+          
+          /webapps/myemall/WEB-INF/classes/xxx.class
+                                  /lib
+                                  /web.xml
+      4. 当项目已经开发好了，要部署到工作服务器的tomcat/webapps目录下，但是一般项目都会很大，需要把项目打成WAR包压缩，
+         需要进入到该项目的目录种，输入打包命令 jar cvf /目的目录/myemall.war . , 最后一个点表示要将当前目录中所有内容进行打包
+         
+         cd myemall
+         
+         jar cvf d:\目的目录/myemall.war .
+         
+         就可把myemall.war部署到工作服务器的tomcat/webapps目录下, 当tomcat启动后， 该myemall.war会自动解压，然后就可訪问了
+         
+      5.    
 
+         
+      
+      
+      
+      
 # Tomcat热部署的实现原理
 
   [Tomcat热部署的实现原理](https://my.oschina.net/xianggao/blog/364068)
