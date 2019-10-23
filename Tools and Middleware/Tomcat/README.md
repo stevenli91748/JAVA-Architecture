@@ -59,14 +59,40 @@ c:\apache-tomcat-9.0.16
          
          在brower中输入訪问地址：  localhost:8080/myemall
       
-      5.如果不想把项目放到/webapps目录中，想放到任意目录中，有两种实现方法
+      5.虚拟目录     
+      
+         如果不想把项目放到/webapps目录中，想放到任意目录中，有两种实现方法
       
          5.1  第一种方法 在/conf/server.xml文件中配置，然后重启tomcat，但是这种方法不可取，因为同时有多个程序在同一tomcat服务器上。
          
-              
+              找到你想加载的主机标签 <host>，然后输入：<Context path="/xxx" docBase="c:\myemall"/>
+         
+              <Host name="localhost"  appBase="webapps"
+                     unpackWARs="true" autoDeploy="true">
+
+                    <Context path="/xxx" docBase="c:\myemall"/>
+          
+              </Host>
+          
+          指明项目目录是在c:\myemal上，
+          
+          该应用是在localhost主机下的
+          
+          启动tomcat后， 在brower中输入訪问地址：  localhost:8080/xxx, 就可以訪问了
               
               
          5.2  第二种方法
+         
+             不需要重启tomcat服务器
+             
+             找tomcat_home/conf/Catalina/localhost, catalina 是设置在server.xml文件上的引擎，是可删除的目录，当tomcat重启后自动生成的
+             
+             创建  aaa.xml文件在localhost目录下，输入如下内容
+             
+             <?xml version="1.0" ?>
+             <Context docBase="c:/myemall"/>
+             
+             然后，在brower中输入訪问地址：  localhost:8080/aaa , 就可以訪问了
 
          
       
