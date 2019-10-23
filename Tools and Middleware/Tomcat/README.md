@@ -64,9 +64,15 @@ c:\apache-tomcat-9.0.16
       
 # Tomcat的核心
 
-  /tomcat安装目录/conf/server.xml
-  
-  
+     /tomcat安装目录/conf/server.xml
+   
+     1. 为什麽开发的项目war文件要方在/wabapps目录中?
+     
+         因为在server.xml中的 host标签中的appBase设置了webapps
+         
+        <Host name="localhost"  appBase="webapps" unpackWARs="true" autoDeploy="true">
+
+    
       
       
 # Tomcat热部署的实现原理
