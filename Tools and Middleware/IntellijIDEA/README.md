@@ -361,7 +361,9 @@
 ## MyBatisCodeHelp
     
 
+# 视频
 
+  [[win环境搭建教程]MySQL+Tomcat+Nginx+Redis+Maven+IDEA配置](https://www.bilibili.com/video/av50482524?from=search&seid=7338193802476677901)
 
 
 # 有用的参考
