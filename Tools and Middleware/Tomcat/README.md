@@ -25,6 +25,9 @@ c:\apache-tomcat-9.0.16
     * [Tomcat服务器配置---Connector](#Connector)
     * [Tomcat服务器配置---Engine Host](#Engine)
     * [Tomcat服务器配置---context](#Context)
+  * [Tomcat Web应用配置](#Tomcat-Web应用配置)
+  * Tomcat 管理配置
+    * [Host Manager](#Host Manager)
   * [Tomcat负载均衡](#Tomcat负载均衡)
   * [Tomcat反向代理机制](#Tomcat反向代理机制)
   * [Tomcat热部署的实现原理](#Tomcat热部署的实现原理)
@@ -286,7 +289,17 @@ c:\apache-tomcat-9.0.16
 # Context
 
   [服务器配置---Context](https://www.bilibili.com/video/av68043130/?p=24)
+
+
+# Host Manager
   
+  [Host Manager](https://www.bilibili.com/video/av71544536/?p=31)
+
+# Tomcat Web应用配置
+
+   [Tomcat Web应用配置介绍](https://www.bilibili.com/video/av71544536/?p=26)
+   []()
+   
 # Tomcat负载均衡
 
   [Tomcat负载均衡](https://www.bilibili.com/video/av58099303/?p=8)
