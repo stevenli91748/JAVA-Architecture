@@ -24,7 +24,7 @@ c:\apache-tomcat-9.0.16
     * [Tomcat服务器配置---Executor](#Executor)
     * [Tomcat服务器配置---Connector](#Connector)
     * [Tomcat服务器配置---Engine Host](#Engine)
-    * [Tomcat服务器配置---context](# Context)
+    * [Tomcat服务器配置---context](#Context)
   * [Tomcat负载均衡](#Tomcat负载均衡)
   * [Tomcat反向代理机制](#Tomcat反向代理机制)
   * [Tomcat热部署的实现原理](#Tomcat热部署的实现原理)
