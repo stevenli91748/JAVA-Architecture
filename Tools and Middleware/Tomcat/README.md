@@ -325,16 +325,21 @@ c:\apache-tomcat-9.0.16
   [菜鸟教程之工具使用——借助JRebel使Tomcat支持热部署](https://blog.csdn.net/liushuijinger/article/details/39898415)
   
 # TOMCAT性能调优  
+
   [Tomcat内存调优](https://www.bilibili.com/video/av58099303/?p=24)
+
   [TOMCAT性能调优](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Performance/tomcat.md)
 
 # Tomcat监控
 
   [Tomcat监控](https://www.bilibili.com/video/av58099303/?p=25)
+
 # Tomcat 视频
 
  [Tomcat从入门到精通](https://www.bilibili.com/video/av58099303?from=search&seid=17837694532059865818)
+ 
  [java进阶教程Tomcat核心原理解析](https://www.bilibili.com/video/av67233983?from=search&seid=12930421917432531946)
+
 # 有用的参考
 
 * [Tomcat结构及处理请求过程](http://objcoding.com/2017/06/12/Tomcat-structure-and-processing-request-process/)
