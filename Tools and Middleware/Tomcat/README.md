@@ -12,9 +12,19 @@ c:\apache-tomcat-9.0.16
   * [Tomcat源码部署](#Tomcat源码部署)
   * [Tomcat的核心](#Tomcat的核心)
   * [Tomcat的组件](#Tomcat的组件)
-  * [HTTP工作流程](#HTTP工作流程)
+  * [Tomcat整体架构](#Tomcat整体架构)
+    * [Tomcat启动流程](#Tomcat启动流程)
+    * [Tomcat请求处理](#Tomcat请求处理)
+    * [Coyote连接器架构](#Coyote连接器架构)
+    * [Catalina容器架构](#Catalina容器架构)
+    * [HTTP工作流程](#HTTP工作流程)
+  * [Jasper引擎](#Jasper引擎)
 * Tomcat配置和使用  
   * [Tomcat配置和使用](#Tomcat配置和使用)
+    * [Tomcat服务器配置---Executor](#Executor)
+    * [Tomcat服务器配置---Connector](#Connector)
+    * [Tomcat服务器配置---Engine Host](#Engine)
+    * [Tomcat服务器配置---context](# Context)
   * [Tomcat负载均衡](#Tomcat负载均衡)
   * [Tomcat反向代理机制](#Tomcat反向代理机制)
   * [Tomcat热部署的实现原理](#Tomcat热部署的实现原理)
@@ -27,6 +37,26 @@ c:\apache-tomcat-9.0.16
 # Tomcat源码部署
 
   [Tomcat源码部署](https://www.bilibili.com/video/av68043130/?p=5)
+  
+# Tomcat整体架构
+
+  [Tomcat整体架构](https://www.bilibili.com/video/av68043130/?p=7)
+
+# Coyote连接器架构
+
+  [Coyote连接器架构](https://www.bilibili.com/video/av68043130/?p=8)
+
+# Catalina容器架构
+
+  [Catalina容器架构](https://www.bilibili.com/video/av68043130/?p=10)
+
+# Tomcat启动流程
+  
+  [Tomcat启动流程](https://www.bilibili.com/video/av68043130/?p=14)
+  
+# Tomcat请求处理
+
+  [Tomcat请求处理](https://www.bilibili.com/video/av68043130/?p=15)
 
 # Tomcat的核心
 
@@ -240,12 +270,33 @@ c:\apache-tomcat-9.0.16
                            
                   在brower中输入訪问地址：  www.myemall.com/ , 就能訪问对应默认项目          
                           
-                
+# Executor
+
+  [服务器配置---Executor](https://www.bilibili.com/video/av68043130/?p=21)
+  
+# Connector
+
+  [服务器配置---Connector](https://www.bilibili.com/video/av68043130/?p=22)
+
+
+# Engine
+
+  [服务器配置---Engine Host](https://www.bilibili.com/video/av68043130/?p=23)
+  
+# Context
+
+  [服务器配置---Context](https://www.bilibili.com/video/av68043130/?p=24)
+  
 # Tomcat负载均衡
 
   [Tomcat负载均衡](https://www.bilibili.com/video/av58099303/?p=8)
   [Tomcat载均衡集群](https://www.bilibili.com/video/av58099303/?p=18)
-      
+
+# Jasper引擎
+
+  [Jasper引擎](https://www.bilibili.com/video/av68043130/?p=17)
+
+
 # Tomcat反向代理机制
 
   [Tomcat反向代理机制](https://www.bilibili.com/video/av58099303/?p=15)
