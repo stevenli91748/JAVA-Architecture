@@ -9,8 +9,10 @@
 c:\apache-tomcat-9.0.16
 
 * Tomcat基础知识
+  * [Tomcat源码部署](#Tomcat源码部署)
   * [Tomcat的核心](#Tomcat的核心)
   * [Tomcat的组件](#Tomcat的组件)
+  * [HTTP工作流程](#HTTP工作流程)
 * Tomcat配置和使用  
   * [Tomcat配置和使用](#Tomcat配置和使用)
   * [Tomcat负载均衡](#Tomcat负载均衡)
@@ -21,6 +23,11 @@ c:\apache-tomcat-9.0.16
   * [Tomcat监控](#Tomcat监控)
 
 ---
+
+# Tomcat源码部署
+
+  [Tomcat源码部署](https://www.bilibili.com/video/av68043130/?p=5)
+
 # Tomcat的核心
 
      /tomcat安装目录/conf/server.xml
@@ -47,6 +54,10 @@ c:\apache-tomcat-9.0.16
   
   [Tomcat组件详解](https://www.bilibili.com/video/av58099303/?p=6)
   [Tomcat组件的关连](https://www.bilibili.com/video/av58099303/?p=13)
+
+# HTTP工作流程
+
+  [HTTP工作流程](https://www.bilibili.com/video/av68043130/?p=6)
 
 # Tomcat配置和使用
     视频
@@ -259,7 +270,7 @@ c:\apache-tomcat-9.0.16
 # Tomcat 视频
 
  [Tomcat从入门到精通](https://www.bilibili.com/video/av58099303?from=search&seid=17837694532059865818)
-
+ [java进阶教程Tomcat核心原理解析](https://www.bilibili.com/video/av67233983?from=search&seid=12930421917432531946)
 # 有用的参考
 
 * [Tomcat结构及处理请求过程](http://objcoding.com/2017/06/12/Tomcat-structure-and-processing-request-process/)
