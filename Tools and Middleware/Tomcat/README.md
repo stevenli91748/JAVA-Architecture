@@ -8,9 +8,49 @@
 安装目录
 c:\apache-tomcat-9.0.16
 
-* [Tomcat热部署的实现原理](#Tomcat热部署的实现原理)
+* Tomcat基础知识
+  * [Tomcat的核心](#Tomcat的核心)
+  * [Tomcat的组件](#Tomcat的组件)
+* Tomcat配置和使用  
+  * [Tomcat配置和使用](#Tomcat配置和使用)
+  * [Tomcat负载均衡](#Tomcat负载均衡)
+  * [Tomcat反向代理机制](#Tomcat反向代理机制)
+  * [Tomcat热部署的实现原理](#Tomcat热部署的实现原理)
+* TOMCAT性能调优
+  * [TOMCAT性能调优](#TOMCAT性能调优)
+  * [Tomcat监控](#Tomcat监控)
+
+---
+# Tomcat的核心
+
+     /tomcat安装目录/conf/server.xml
+   
+     1. 为什麽开发的项目war文件要方在/wabapps目录中?
+     
+         因为在server.xml中的 host标签中的appBase设置了webapps
+         
+        <Host name="localhost"  appBase="webapps" unpackWARs="true" autoDeploy="true">
+
+     2. 当部署项目时，启动tomcat后，是否在wabapps目录下自动解压war包？
+        
+        unpackWARs="true"是设置是否自动解压war包
+        
+        <Host name="localhost"  appBase="webapps" unpackWARs="true" autoDeploy="true">
+        
+      3. 当部署项目时，在tomcat服务器在运行当中，当你把war包一放到webapps目录时，tomcat服务器自动解压和发布到服务器上
+      
+         autoDeploy="true"
+         
+         <Host name="localhost"  appBase="webapps" unpackWARs="true" autoDeploy="true">
+
+# Tomcat的组件
+  
+  [Tomcat组件详解](https://www.bilibili.com/video/av58099303/?p=6)
+  [Tomcat组件的关连](https://www.bilibili.com/video/av58099303/?p=13)
 
 # Tomcat配置和使用
+    视频
+    [Javaweb开发视频教程之Tomcat9配置和使用](https://www.bilibili.com/video/av14548279?from=search&seid=17837694532059865818)
   
      逐步部署一个WAP项目例子，最后达到在浏览器输入网址就可訪问，
      
@@ -190,31 +230,15 @@ c:\apache-tomcat-9.0.16
                   在brower中输入訪问地址：  www.myemall.com/ , 就能訪问对应默认项目          
                           
                 
+# Tomcat负载均衡
 
-
+  [Tomcat负载均衡](https://www.bilibili.com/video/av58099303/?p=8)
+  [Tomcat载均衡集群](https://www.bilibili.com/video/av58099303/?p=18)
       
-# Tomcat的核心
+# Tomcat反向代理机制
 
-     /tomcat安装目录/conf/server.xml
-   
-     1. 为什麽开发的项目war文件要方在/wabapps目录中?
-     
-         因为在server.xml中的 host标签中的appBase设置了webapps
-         
-        <Host name="localhost"  appBase="webapps" unpackWARs="true" autoDeploy="true">
+  [Tomcat反向代理机制](https://www.bilibili.com/video/av58099303/?p=15)
 
-     2. 当部署项目时，启动tomcat后，是否在wabapps目录下自动解压war包？
-        
-        unpackWARs="true"是设置是否自动解压war包
-        
-        <Host name="localhost"  appBase="webapps" unpackWARs="true" autoDeploy="true">
-        
-      3. 当部署项目时，在tomcat服务器在运行当中，当你把war包一放到webapps目录时，tomcat服务器自动解压和发布到服务器上
-      
-         autoDeploy="true"
-         
-         <Host name="localhost"  appBase="webapps" unpackWARs="true" autoDeploy="true">
-      
 # Tomcat热部署的实现原理
 
   [Tomcat热部署的实现原理](https://my.oschina.net/xianggao/blog/364068)
@@ -225,9 +249,16 @@ c:\apache-tomcat-9.0.16
   
   [菜鸟教程之工具使用——借助JRebel使Tomcat支持热部署](https://blog.csdn.net/liushuijinger/article/details/39898415)
   
-  
-# [TOMCAT性能调优](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Performance/tomcat.md)
+# TOMCAT性能调优  
+  [Tomcat内存调优](https://www.bilibili.com/video/av58099303/?p=24)
+  [TOMCAT性能调优](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Performance/tomcat.md)
 
+# Tomcat监控
+
+  [Tomcat监控](https://www.bilibili.com/video/av58099303/?p=25)
+# Tomcat 视频
+
+ [Tomcat从入门到精通](https://www.bilibili.com/video/av58099303?from=search&seid=17837694532059865818)
 
 # 有用的参考
 
