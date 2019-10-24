@@ -140,6 +140,7 @@
 <a href="https://ibb.co/YLk15F3"><img src="https://i.ibb.co/1mqPCtL/image.jpg" alt="image" border="0"></a>
 
 * [分布式亿级高并发电商项目(14天)](https://www.bilibili.com/video/av32170669/?spm_id_from=333.788.videocard.9)
+* [尚学堂-分布式亿级高并发电商项目教程](https://www.bilibili.com/video/av47984582/?spm_id_from=333.788.videocard.1)
 
 # 第八阶段   Java 项目工程化和部署篇
 
