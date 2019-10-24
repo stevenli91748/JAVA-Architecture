@@ -35,8 +35,15 @@ c:\apache-tomcat-9.0.16
   * [Tomcat热部署的实现原理](#Tomcat热部署的实现原理)
   * [如何部署Tomcat](#如何部署Tomcat)
   * [Tomcat集群](#Tomcat集群)
+* Tomcat安全
+  * [配置安全](https://www.bilibili.com/video/av67233983/?p=39)
+  * [传输安全](https://www.bilibili.com/video/av67233983/?p=40)
+  * [传输安全---HTTP配置](https://www.bilibili.com/video/av67233983/?p=41)
+* [Tomcat的Websocket](#Tomcat的Websocket)
 * TOMCAT性能调优
   * [TOMCAT性能调优](#TOMCAT性能调优)
+  * []()
+  
   * [Tomcat监控](#Tomcat监控)
 
 ---
@@ -315,9 +322,9 @@ c:\apache-tomcat-9.0.16
 
 # Tomcat集群
 
-  [Tomcat载均衡集群](https://www.bilibili.com/video/av58099303/?p=18)
+  [Tomcat负载均衡集群](https://www.bilibili.com/video/av58099303/?p=18)
   
-  [Tomcat集群](https://www.bilibili.com/video/av67233983/?p=34)
+  [Tomcat集群配置](https://www.bilibili.com/video/av67233983/?p=34)
 
 # Jasper引擎
 
@@ -355,6 +362,10 @@ c:\apache-tomcat-9.0.16
 # Tomcat监控
 
   [Tomcat监控](https://www.bilibili.com/video/av58099303/?p=25)
+
+# Tomcat的Websocket
+
+  [Tomcat的Websocket](https://www.bilibili.com/video/av67233983/?p=47)
 
 # Tomcat 视频
 
