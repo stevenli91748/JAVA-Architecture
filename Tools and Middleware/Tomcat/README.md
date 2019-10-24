@@ -350,6 +350,8 @@ c:\apache-tomcat-9.0.16
 
 # Tomcat热部署的实现原理
 
+  [实例分析Tomcat热加载技术](https://www.bilibili.com/video/av24500273?from=search&seid=5658735684576843185)
+  
   [Tomcat热部署的实现原理](https://my.oschina.net/xianggao/blog/364068)
   
   [如何让Tomcat热部署](https://blog.csdn.net/qq_40803316/article/details/83829868)
