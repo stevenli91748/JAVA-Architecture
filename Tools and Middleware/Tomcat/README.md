@@ -19,7 +19,7 @@ c:\apache-tomcat-9.0.16
     * [Catalina容器架构](#Catalina容器架构)
     * [HTTP工作流程](#HTTP工作流程)
   * [Jasper引擎](#Jasper引擎)
-  * []()
+  * [Tomcat结构以及其类加载器流程](https://www.bilibili.com/video/av56917568?from=search&seid=9890313462804608132)
 * Tomcat配置和使用  
   * [Tomcat配置和使用](#Tomcat配置和使用)
     * [Tomcat服务器配置---Executor](#Executor)
