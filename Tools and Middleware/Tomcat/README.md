@@ -35,11 +35,17 @@ c:\apache-tomcat-9.0.16
   * [Tomcat反向代理机制](#Tomcat反向代理机制)
   * [Tomcat热部署的实现原理](#Tomcat热部署的实现原理)
   * [如何部署Tomcat](#如何部署Tomcat)
+     * [Tomcat单机部署多应用](https://www.bilibili.com/video/av68236883/?p=14)
+     * [Tomcat多机部署多应用](https://www.bilibili.com/video/av68236883/?p=16)
   * [Tomcat集群](#Tomcat集群)
     * [负载均衡](https://www.bilibili.com/video/av67233983/?p=35)
     * [Session共享](https://www.bilibili.com/video/av67233983/?p=36)
     * [Session复制](https://www.bilibili.com/video/av67233983/?p=37)
     * [SSO解决Session共享](https://www.bilibili.com/video/av67233983/?p=38)
+    * [集群架构](https://www.bilibili.com/video/av68236883/?p=13)
+    * [Nginx + Tomcat搭建集群](https://www.bilibili.com/video/av68236883/?p=18)
+    * [Tomcat和Nginx配置回顾](https://www.bilibili.com/video/av68236883/?p=19)
+    * [Tomcat集群实战](https://www.bilibili.com/video/av68236883/?p=20)
 * Tomcat安全
   * [配置安全](https://www.bilibili.com/video/av67233983/?p=39)
   * [传输安全](https://www.bilibili.com/video/av67233983/?p=40)
@@ -325,6 +331,7 @@ c:\apache-tomcat-9.0.16
 
   [Tomcat负载均衡](https://www.bilibili.com/video/av58099303/?p=8)
   
+  [Nginx负载均衡](https://www.bilibili.com/video/av68236883/?p=17)
 
 # Tomcat集群
 
@@ -380,6 +387,11 @@ c:\apache-tomcat-9.0.16
  [java进阶教程Tomcat核心原理解析](https://www.bilibili.com/video/av67233983?from=search&seid=12930421917432531946)
 
  [Tomcat知识点全集，你学会几个？](https://www.bilibili.com/video/av69510408/?p=5)
+ 
+ [多个tomcat课程导学(上)](https://www.bilibili.com/video/av68236883/?p=1)
+ 
+ [多个tomcat课程导学(下)](https://www.bilibili.com/video/av68237544/?spm_id_from=333.788.videocard.0)
+ 
 # 有用的参考
 
 * [Tomcat结构及处理请求过程](http://objcoding.com/2017/06/12/Tomcat-structure-and-processing-request-process/)
