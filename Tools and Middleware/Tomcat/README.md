@@ -27,10 +27,14 @@ c:\apache-tomcat-9.0.16
     * [Tomcat服务器配置---context](#Context)
   * [Tomcat Web应用配置](#Tomcat-Web应用配置)
   * Tomcat 管理配置
-    * [Host Manager](#Host Manager)
+    * [Host Manager](#Host-Manager)
+    * [Manage APP](#Manage-APP)
+  * [Tomcat JVM配置](#Tomcat-JVM配置)  
   * [Tomcat负载均衡](#Tomcat负载均衡)
   * [Tomcat反向代理机制](#Tomcat反向代理机制)
   * [Tomcat热部署的实现原理](#Tomcat热部署的实现原理)
+  * [如何部署Tomcat](#如何部署Tomcat)
+  * [Tomcat集群](#Tomcat集群)
 * TOMCAT性能调优
   * [TOMCAT性能调优](#TOMCAT性能调优)
   * [Tomcat监控](#Tomcat监控)
@@ -295,6 +299,10 @@ c:\apache-tomcat-9.0.16
   
   [Host Manager](https://www.bilibili.com/video/av71544536/?p=31)
 
+# Manage APP
+
+  [Manage APP](https://www.bilibili.com/video/av67233983/?p=32)
+
 # Tomcat Web应用配置
 
    [Tomcat Web应用配置介绍](https://www.bilibili.com/video/av71544536/?p=26)
@@ -303,7 +311,13 @@ c:\apache-tomcat-9.0.16
 # Tomcat负载均衡
 
   [Tomcat负载均衡](https://www.bilibili.com/video/av58099303/?p=8)
+  
+
+# Tomcat集群
+
   [Tomcat载均衡集群](https://www.bilibili.com/video/av58099303/?p=18)
+  
+  [Tomcat集群](https://www.bilibili.com/video/av67233983/?p=34)
 
 # Jasper引擎
 
@@ -323,7 +337,15 @@ c:\apache-tomcat-9.0.16
   [Tomcat热部署的三种方式](https://my.oschina.net/u/1455528/blog/801631)
   
   [菜鸟教程之工具使用——借助JRebel使Tomcat支持热部署](https://blog.csdn.net/liushuijinger/article/details/39898415)
-  
+
+# 如何部署Tomcat
+
+  [教你如何部署Tomcat](https://www.bilibili.com/video/av55880985?from=search&seid=87210491669533119)
+
+# Tomcat JVM配置
+
+  [Tomcat JVM配置](https://www.bilibili.com/video/av67233983/?p=33)
+
 # TOMCAT性能调优  
 
   [Tomcat内存调优](https://www.bilibili.com/video/av58099303/?p=24)
