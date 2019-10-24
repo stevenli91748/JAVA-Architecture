@@ -35,6 +35,10 @@ c:\apache-tomcat-9.0.16
   * [Tomcat热部署的实现原理](#Tomcat热部署的实现原理)
   * [如何部署Tomcat](#如何部署Tomcat)
   * [Tomcat集群](#Tomcat集群)
+    * [负载均衡](https://www.bilibili.com/video/av67233983/?p=35)
+    * [Session共享](https://www.bilibili.com/video/av67233983/?p=36)
+    * [Session复制](https://www.bilibili.com/video/av67233983/?p=37)
+    * [SSO解决Session共享](https://www.bilibili.com/video/av67233983/?p=38)
 * Tomcat安全
   * [配置安全](https://www.bilibili.com/video/av67233983/?p=39)
   * [传输安全](https://www.bilibili.com/video/av67233983/?p=40)
@@ -42,8 +46,9 @@ c:\apache-tomcat-9.0.16
 * [Tomcat的Websocket](#Tomcat的Websocket)
 * TOMCAT性能调优
   * [TOMCAT性能调优](#TOMCAT性能调优)
-  * []()
-  
+  * [链接器配置调优](https://www.bilibili.com/video/av67233983/?p=47)
+  * [JVM内存参数调优](https://www.bilibili.com/video/av67233983/?p=44)
+  * [JVM垃圾收集器调优](https://www.bilibili.com/video/av67233983/?p=46)
   * [Tomcat监控](#Tomcat监控)
 
 ---
