@@ -33,6 +33,11 @@
   在http watch 看到一条记录，选择它，然后选择 stream Tab ,可看到Cookie and Cookie2
    
    
+   
+   
+   # HTTP WATCH 视频
+   
+   [ HTTP WATCH  ](https://www.37qiqi.com/video/c64db0605c83c5e7.html)
  
    
 
