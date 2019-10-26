@@ -367,6 +367,7 @@
 
 
 # 有用的参考
+  * [IEDA教程](https://github.com/stevenli91748/IntelliJ-IDEA-Tutorial)
   * [IntelliJ IDEA官方文档](https://www.w3cschool.cn/intellij_idea_doc/)
   * [intellij idea SpringMVC 配置FreeMarker模板引擎](https://blog.csdn.net/w8897282/article/details/71215591#理解springmvc的配置)
   * [intellij idea搭建SSM框架摘录](https://blog.csdn.net/w8897282/article/details/71173211)
