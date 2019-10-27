@@ -365,13 +365,10 @@ SQL语言|MySQL|ORACLE|PowerDesigner|MongoDB|分布式数据库|[Redis缓存](ht
 
 
 
-# 驾照
-专业协助外国/香港/台湾/澳门/华侨等申请中国大陆驾照，开始办理到拿证通常不需要超过两周时间！
-
-广州达成驾照服务公司
-http://www.idl.com.cn/china.html
 
 # 有用的参考
+
+  * [学会了这些技术，你离BAT大厂不远了---技术架构路径图](https://blog.csdn.net/z694644032/article/details/100084287)
   * [Java Tutorial](http://tutorials.jenkov.com/java/index.html)
   * [Java 除了 Spring 还有什么](https://www.zhihu.com/question/320482163)
   * [如何规划学习步骤](https://blog.csdn.net/weixin_44135121/article/details/93226590)
