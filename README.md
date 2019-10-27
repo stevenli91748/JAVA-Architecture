@@ -151,7 +151,7 @@
 
 ####   项目部署
 
-[Docker镜像技术](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Docker镜像技术/README.md)|Harbor镜像倉库|Rancher容器管理|
+[Docker镜像技术](https://github.com/stevenli91748/Engineering-special/blob/master/Docker/README.md)|Harbor镜像倉库|Rancher容器管理|
 ---|---|---|
 
 # 第七阶段   工具和组件篇
