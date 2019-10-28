@@ -16,6 +16,8 @@
 
 [Storm集群安装](https://v.youku.com/v_show/id_XODE3Mzc1ODYw.html?spm=a2h0k.11417342.soresults.dtitle)
 
+[使用 WebStorm 构建 Angular 应用程序](https://v.youku.com/v_show/id_XMjUyNDg4MDE2OA==.html?spm=a2h0k.11417342.soresults.dtitle)
+
 
 
 
