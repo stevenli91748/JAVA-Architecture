@@ -445,7 +445,7 @@ SQL语言|MySQL|ORACLE|PowerDesigner|MongoDB|分布式数据库|[Redis缓存](ht
 [%XML]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/XML.md
 [%JAVA网络操作]:https://github.com/stevenli91748/Network/blob/master/README.md
 [%JAVA数据库]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#JAVA数据库
-[%JDBC]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/jdbc.md
+[%JDBC]:https://github.com/stevenli91748/Database/blob/master/JDBC/README.md
 [%国际化]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/国际化.md
 [%本地方法]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#本地方法
 [%脚本 编译与注解]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#脚本-编译与注解
