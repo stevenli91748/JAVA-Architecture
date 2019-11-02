@@ -144,6 +144,7 @@
 * [微服务架构十大电商架构](https://www.yunpanjingling.com/resources/5da7c2a34b3f416a011033d4)
 * [大型高并发与高可用缓存架构实战 (上)](https://www.bilibili.com/video/av48758838/?spm_id_from=333.788.videocard.7)
 * [2019年Java实战项目 IDEA+金融p2p项目+分布式项目（完）](https://www.bilibili.com/video/av49037328/?spm_id_from=333.788.videocard.2)
+* [java高级项目实战,学完就有3年工作经验,直接拿高薪!](https://www.bilibili.com/video/av45560930/?spm_id_from=333.788.videocard.14)
 
 # 第八阶段   Java 项目工程化和部署篇
 
