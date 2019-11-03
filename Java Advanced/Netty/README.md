@@ -29,6 +29,8 @@
 
 [全网首部：Netty源码剖析&NIO+Netty5各种RPC架构实战演练](https://www.bilibili.com/video/av45655374/?spm_id_from=333.788.videocard.20)
 
+[java全栈工程师视频- 使用netty构建API网关实践之路](https://www.bilibili.com/video/av54737864/?spm_id_from=333.788.videocard.19)
+
 # 有用的参考
 
 * [新手入门：目前为止最透彻的的Netty高性能原理和框架架构解析](http://www.52im.net/thread-2043-1-1.html)
