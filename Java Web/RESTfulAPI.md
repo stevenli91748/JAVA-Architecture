@@ -128,6 +128,9 @@ Open API开放平台必然涉及到客户应用的接入、API权限的管理、
   * [接口自动化测试环境搭建（Java+HttpClient）](https://www.bilibili.com/video/av35129286/?spm_id_from=333.788.videocard.0)
   * [web自动化测试环境搭建(Java+selenium+主流浏览器](https://www.bilibili.com/video/av35129526/?spm_id_from=333.788.videocard.2)
   * [Java接口自动化系列（高级部分）](https://www.bilibili.com/video/av35944252/?spm_id_from=333.788.videocard.7)
+  * [微服务和网关API理解](https://www.bilibili.com/video/av29226224/?spm_id_from=333.788.videocard.0)
+  * [京东等大厂必备的api网关构建实战](https://www.bilibili.com/video/av71341301?from=search&seid=12766503076032577278)
+  * [2019年互联网企业必备高质量API网关接口设计（系统实战全集](https://www.bilibili.com/video/av60753511?from=search&seid=12766503076032577278)
 
 # 有用的参考
 
