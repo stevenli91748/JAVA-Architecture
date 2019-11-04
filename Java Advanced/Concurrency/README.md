@@ -30,7 +30,9 @@
 ## Lambda架构
 
 
+# 视频
 
+ * [阿里巴巴大牛教你快速了解并发编程](https://www.bilibili.com/video/av19131750/?spm_id_from=333.788.videocard.17)
 
 
 # 有用的参考
