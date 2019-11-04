@@ -4,8 +4,17 @@
 
 
 
+
+
 ### Nginx概述
   它可以同时扮演反向代理、负载均衡器以及现有HTTP流量所需的web服务器这三个角色，**Nginx 可以用多进程，也可以用单线程，**
+
+
+# Ngine视频
+
+ * [nginx实战集群环境搭建与核心原理详解](https://www.bilibili.com/video/av66849184?from=search&seid=12943368697372067470)
+ * [2019全新Nginx实战web服务企业实战](https://www.bilibili.com/video/av33614077/?spm_id_from=333.788.videocard.5)
+ * [nginx-超全视频2018](https://www.bilibili.com/video/av55251610/?spm_id_from=333.788.videocard.8)
 
 
 # 有用的参考
