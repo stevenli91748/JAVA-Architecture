@@ -15,7 +15,7 @@
  * [nginx实战集群环境搭建与核心原理详解](https://www.bilibili.com/video/av66849184?from=search&seid=12943368697372067470)
  * [2019全新Nginx实战web服务企业实战](https://www.bilibili.com/video/av33614077/?spm_id_from=333.788.videocard.5)
  * [nginx-超全视频2018](https://www.bilibili.com/video/av55251610/?spm_id_from=333.788.videocard.8)
-
+ * [Nginx 反向代理+负载均衡+动静分离+高可用](https://www.bilibili.com/video/av68783011/?spm_id_from=333.788.videocard.2)
 
 # 有用的参考
 
