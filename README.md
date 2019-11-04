@@ -148,6 +148,8 @@
 * [大型高并发与高可用缓存架构实战 (上)](https://www.bilibili.com/video/av48758838/?spm_id_from=333.788.videocard.7)
 * [2019年Java实战项目 IDEA+金融p2p项目+分布式项目（完）](https://www.bilibili.com/video/av49037328/?spm_id_from=333.788.videocard.2)
 * [java高级项目实战,学完就有3年工作经验,直接拿高薪!](https://www.bilibili.com/video/av45560930/?spm_id_from=333.788.videocard.14)
+* [SSM-电商网站开发实战-硅谷商城（附源码笔记）](https://www.bilibili.com/video/av57032859?from=search&seid=12943368697372067470)
+* [宜立方商城(附源码笔记)](https://www.bilibili.com/video/av56811084?from=search&seid=12943368697372067470)
 
 # 第八阶段   Java 项目工程化和部署篇
 
