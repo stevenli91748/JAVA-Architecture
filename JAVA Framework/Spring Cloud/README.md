@@ -14,7 +14,9 @@
 
 分布式配置中心Spring Cloud Config详解
 
+# SpringCloud视频
 
+* [70万年薪的大佬带你理解-springcloud Hystrix峰控、容错机制是如何实现的](https://www.bilibili.com/video/av48702767/?spm_id_from=333.788.videocard.1)
 
 # 有用的参考
 
