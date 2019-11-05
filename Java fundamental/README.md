@@ -45,6 +45,11 @@
 * [部署JAVA应用程序](#部署JAVA应用程序)
 
 
+
+# Java基础视频
+
+ * [尚硅谷_康师傅2019新版—30天搞定Java核心技术](https://www.bilibili.com/video/av47426548?from=search&seid=17342892563183546999)
+
 # 有用的参考
 
  * [Java基础知识大全](https://blog.csdn.net/xingkonglfs/article/details/54695622)
