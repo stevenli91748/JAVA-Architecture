@@ -26,7 +26,7 @@
 数据库集群项目|数据库分片项目|消息队列项目|商品业务项目|第三方支付项目|购物车业务项目|
 ---|---|---|---|---|---|
 
-在线聊天室系统|
+[在线聊天室系统](https://github.com/stevenli91748/JAVA-Architecture/blob/master/project/在线聊天室系统/README.md)|
 ---|
 
 [人脸搜索系统](https://github.com/stevenli91748/JAVA-Architecture/blob/master/project/人脸搜索系统.md)|[IM即时通信](https://github.com/stevenli91748/JAVA-Architecture/blob/master/project/IM即时通讯/README.md)|[在线直播系统](https://github.com/stevenli91748/JAVA-Architecture/blob/master/project/直播系统/README.md)|
