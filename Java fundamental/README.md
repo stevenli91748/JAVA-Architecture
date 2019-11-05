@@ -49,6 +49,7 @@
 # Java基础视频
 
  * [尚硅谷_康师傅2019新版—30天搞定Java核心技术](https://www.bilibili.com/video/av47426548?from=search&seid=17342892563183546999)
+ * [高淇老师JAVA300集](https://www.bilibili.com/video/av30023103/?spm_id_from=333.788.videocard.0)
 
 # 有用的参考
 
