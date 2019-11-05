@@ -55,8 +55,8 @@
 
 # 视频
 
-  [2019年6月最新Java多线程高级编程——电商项目实战](https://www.bilibili.com/video/av56465131/?spm_id_from=333.788.videocard.19)
-
+ * [2019年6月最新Java多线程高级编程——电商项目实战](https://www.bilibili.com/video/av56465131/?spm_id_from=333.788.videocard.19)
+ * [Java工程师 高并发与多线程网络编程 （完）](https://www.bilibili.com/video/av51503134/?spm_id_from=333.788.videocard.9)
 
 
 # 参考书
