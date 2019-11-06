@@ -59,6 +59,10 @@
  * [Java工程师 高并发与多线程网络编程 （完）](https://www.bilibili.com/video/av51503134/?spm_id_from=333.788.videocard.9)
  * [Java线程池原理讲解全集 Java高级面试必备](https://www.bilibili.com/video/av66055587/?spm_id_from=333.788.videocard.13)
  * [B站超牛老师带你找到挑战年薪50W,解密高性能线程池原理](https://www.bilibili.com/video/av66798714/?spm_id_from=333.788.videocard.11)
+ * [Java主流锁全部详解面试必备](https://www.bilibili.com/video/av70757405/?spm_id_from=333.788.videocard.7)
+ * [马士兵老师java多线程高并发编程](https://www.bilibili.com/video/av33688545/?spm_id_from=333.788.videocard.10) 
+ 
+ 
 
 # 参考书
 
