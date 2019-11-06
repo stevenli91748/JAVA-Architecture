@@ -61,7 +61,7 @@
  * [B站超牛老师带你找到挑战年薪50W,解密高性能线程池原理](https://www.bilibili.com/video/av66798714/?spm_id_from=333.788.videocard.11)
  * [Java主流锁全部详解面试必备](https://www.bilibili.com/video/av70757405/?spm_id_from=333.788.videocard.7)
  * [马士兵老师java多线程高并发编程](https://www.bilibili.com/video/av33688545/?spm_id_from=333.788.videocard.10) 
- 
+ * [百万年薪架构师带你了解--Java内存模型JMM与AQS同步器深入剖析](https://www.bilibili.com/video/av69537976/?spm_id_from=333.788.videocard.5)
  
 
 # 参考书
