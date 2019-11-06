@@ -157,7 +157,8 @@
 # JVM视频
 
   * [深入理解Java虚拟机（JVM性能调优+内存模型+虚拟机原理）](https://www.bilibili.com/video/av29502877/?spm_id_from=333.788.videocard.0)
- 
+  * [Java高并发编程精髓Java内存模型JMM详解全集](https://www.bilibili.com/video/av59871562/?spm_id_from=333.788.videocard.3)
+  * [百万年薪架构师带你了解--Java内存模型JMM与AQS同步器深入剖析](https://www.bilibili.com/video/av69537976/?spm_id_from=333.788.videocard.5)
  
 # 参考书籍
   * [Java虚拟机内存分配机制与启动参数说明](https://blog.csdn.net/chengyun19830206/article/details/53244278)
