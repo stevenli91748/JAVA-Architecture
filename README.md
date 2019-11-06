@@ -156,6 +156,7 @@
 * [宜立方商城(附源码笔记)](https://www.bilibili.com/video/av56811084?from=search&seid=12943368697372067470)
 * [2019尚硅谷谷粒商城微服务SpringBoot,Dubbo,MySql高级,Redis秒杀,ElasticSearch,ActiveMQ,SSO单点](https://www.bilibili.com/video/av55643074/?spm_id_from=333.788.videocard.13)
 * [黑马乐优商城IDEA最新2019](https://www.bilibili.com/video/av55444350/?spm_id_from=333.788.videocard.5)
+* [Java Web项目实战 黑马旅游网（IDEA版）](https://www.bilibili.com/video/av51089566/?spm_id_from=333.788.videocard.20)
 
 # 第八阶段   Java 项目工程化和部署篇
 
