@@ -27,6 +27,7 @@ Advice源码分析  基于Spring AOP实现应用插件机制
 
 * [B站最全Spring全家桶教程——深入源码底层（2019最新）](https://www.bilibili.com/video/av64330731/?spm_id_from=333.788.videocard.0)
 * [跟我读源码》最全源码分析Java三大源码框架一次彻底搞懂](https://www.bilibili.com/video/av67093775/?spm_id_from=333.788.videocard.17)
+* [Spring事务源码分析](https://www.bilibili.com/video/av63568054/?p=10)
 
 # 有用的参考
 
