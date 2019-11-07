@@ -2,8 +2,8 @@
 
 # HttpClient 视频
 
-[一头扎进HttpClient视频教程](https://www.bilibili.com/video/av42312868)
-
+* [一头扎进HttpClient视频教程](https://www.bilibili.com/video/av42312868)
+* [java爬虫实战项目（httpclient+hbase +springmvc+ solr）](https://www.bilibili.com/video/av57601703?from=search&seid=10926644651056977360)
 
 # 有用的参考
 
