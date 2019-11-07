@@ -364,8 +364,8 @@ SQL语言|MySQL|ORACLE|PowerDesigner|MongoDB|分布式数据库|[Redis缓存](ht
 [面向对象基础](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Object%20oriented/README.md)|[对象与类][%对象与类]|[继承][%继承]|[接口][%接口]|抽象类|[枚举类](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/枚举类.md)|[Lambda标达式][%Lambda标达式]|[内部类][%内部类]|
 ---|---|---|---|---|---|---|---|
 
-[多态](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Object%20oriented/多态.md)|
----|
+[多态](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Object%20oriented/多态.md)|[动态代理](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/动态代理.md)|
+---|---|
 
 
 ### 阶段 3 JAVA进阶
