@@ -162,6 +162,7 @@
 * [Java Web项目实战 黑马旅游网（IDEA版）](https://www.bilibili.com/video/av51089566/?spm_id_from=333.788.videocard.20)
 * [易购电商项目  SSM 2019](https://www.bilibili.com/video/av50875163/?spm_id_from=333.788.videocard.3)
 * [传智播客|JavaWeb网上图书商城完整项目](https://www.bilibili.com/video/av46815831/?spm_id_from=333.788.videocard.18)
+* [从零打造企业级电商后台管理系统](https://www.bilibili.com/video/av57082433/?spm_id_from=333.788.videocard.5)
 # 第八阶段   Java 项目工程化和部署篇
 
 <a href="https://ibb.co/ZcndDkg"><img src="https://i.ibb.co/h2Psztd/image.jpg" alt="image" border="0"></a>
