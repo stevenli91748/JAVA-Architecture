@@ -296,6 +296,9 @@ Request和Response|React|[VUE.JS](https://github.com/stevenli91748/Frontend/blob
 [HTML5](https://github.com/stevenli91748/Frontend/blob/master/HTML5/README)|[CSS3](https://github.com/stevenli91748/Frontend/blob/master/CSS3/README)|[JavaScript](https://github.com/stevenli91748/Frontend/blob/master/Javascri/README.md)|jQuery|JavaScript DOM|Ajax|EL|[JDBC](https://github.com/stevenli91748/Database/blob/master/JDBC/README.md)|
 ---|---|---|---|---|---|---|---|
 
+[JQuery](https://github.com/stevenli91748/Frontend/blob/master/JQuery/README.md)|[Ajax](https://github.com/stevenli91748/Frontend/blob/master/Ajax/README.md)|
+---|---|
+
 # 第二阶段   数据库开发篇
 
 SQL语言|[MySQL](https://github.com/stevenli91748/Database/blob/master/MySQL/README.md)|ORACLE|PowerDesigner|[MongoDB](https://github.com/stevenli91748/Database/blob/master/MongoDB/README.md)|分布式数据库|[Redis缓存](https://github.com/stevenli91748/Database/blob/master/Redis/README.md)|[Mybatis](https://github.com/stevenli91748/Database/blob/master/Mybatis/README.md)|
