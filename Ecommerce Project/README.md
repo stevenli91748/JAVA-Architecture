@@ -3,7 +3,19 @@
 # 了解需求
 # 需求分析
 # 需求设计
- 
+
+# 组件
+
+* [SSO单点登录](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Ecommerce%20Project/SSO单点登录/README.md)
+* [第三方登录](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Ecommerce%20Project/第三方登录/README.md)
+* [订单号统一生成规则](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Ecommerce%20Project/高并发场景的订单号ID生成策略/README.md)
+* [流量削峰](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Ecommerce%20Project/流量削峰/README.md)    
+* [银联支付](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Ecommerce%20Project/银联支付/README.md)
+* [第三方支付](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Ecommerce%20Project/第三方支付/README.md)
+* [微信支付](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Ecommerce%20Project/微信支付/README.md)    
+* [支付宝支付](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Ecommerce%20Project/支付宝支付/README.md)
+* [红包系统](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Ecommerce%20Project/红包系统/README.md)
+
 
 # 电商平台的八大控制模块
 
