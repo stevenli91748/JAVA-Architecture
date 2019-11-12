@@ -176,6 +176,13 @@
 [Docker镜像技术](https://github.com/stevenli91748/Engineering-special/blob/master/Docker/README.md)|Harbor镜像倉库|Rancher容器管理|
 ---|---|---|
 
+#### 项目测试
+
+[项目测试](https://github.com/stevenli91748/Testing/blob/master/README.md)|
+---|
+
+
+
 # 第七阶段   工具和组件篇
 
 第三阶段的项目实现|
