@@ -84,6 +84,14 @@
 * 删除工具javah
 
 
+# Java特性视频
+
+* [尚硅谷_Java8新特性](https://www.bilibili.com/video/av35195879/?spm_id_from=333.788.videocard.6)
+* [尚硅谷最新Java9新特性](https://www.bilibili.com/video/av44816282?from=search&seid=408333174116208008)
+* [尚学堂 1小时掌握Java 10新特性精讲教程](https://www.bilibili.com/video/av44822559?from=search&seid=3355280219283215777)
+* [尚硅谷Java11新特性教程](https://www.bilibili.com/video/av41747262?from=search&seid=213230975773551122)
+* [尚硅谷_宋红康_深入解读Java12&13新特性](https://www.bilibili.com/video/av68735735?from=search&seid=9330855572098463105)
+
 
 # 有用的参考
 * [JAVA8 十大新特性详解](https://www.jb51.net/article/48304.htm)
