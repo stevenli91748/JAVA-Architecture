@@ -35,6 +35,7 @@
  * [阿里巴巴大牛教你快速了解并发编程](https://www.bilibili.com/video/av19131750/?spm_id_from=333.788.videocard.17)
  * [程序员一线互联网面试必杀技Java并发编程之Volatile源码分析](https://www.bilibili.com/video/av68881701)
  * [JUC](https://www.bilibili.com/video/av68272550/?spm_id_from=333.788.videocard.2)
+ * [juc 与 jvm - Java 必学 2019版本-阳哥- 尚硅谷](https://www.bilibili.com/video/av70166821?from=search&seid=4915820349885388522)
 # 有用的参考
 * [并发网系列文章集](http://ifeve.com/paper-set/)
 * [看动画学并发编程](https://sourceforge.net/projects/javaconcurrenta/)
