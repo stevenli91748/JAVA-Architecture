@@ -16,6 +16,7 @@
  * [2019全新Nginx实战web服务企业实战](https://www.bilibili.com/video/av33614077/?spm_id_from=333.788.videocard.5)
  * [nginx-超全视频2018](https://www.bilibili.com/video/av55251610/?spm_id_from=333.788.videocard.8)
  * [Nginx 反向代理+负载均衡+动静分离+高可用](https://www.bilibili.com/video/av68783011/?spm_id_from=333.788.videocard.2)
+ * [Linux下nginx的安装使用+负载均衡+集群搭建](https://www.bilibili.com/video/av66388283?from=search&seid=3209376219057807635)
 
 # 有用的参考
 
