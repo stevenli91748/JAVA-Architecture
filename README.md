@@ -169,7 +169,7 @@
 
 ### 尚硅谷
 
-* [2019尚硅谷谷粒商城微服务SpringBoot,Dubbo,MySql高级,Redis秒杀,ElasticSearch,ActiveMQ,SSO单点](https://www.bilibili.com/video/av55643074/?spm_id_from=333.788.videocard.13 “谷粒商城是一个高并发、高可用、分布式架构的电商网站，架构SpringBoot+MyBatisPlus+Dubbo+RabbitMQ+Redis+Elasticsearch+Docker/K8S +Vue.js完全分布式系统架构.高并发与压力测试、MySQL集群/读写分离、Elasticsearch分布式搜索集群、Redis缓存集群、Nginx+Lua分布式限流、Redis+Lua分布式锁、支付宝接口、Docker虚拟化容器部署、高并发秒杀解决方案、RabbitMQ消息中间件、MyCat分库分表、Canal订阅binlog抽取MySQL数据、Servlet3.0异步线程隔离、异步编排”) 
+* [2019尚硅谷谷粒商城微服务SpringBoot,Dubbo,MySql高级,Redis秒杀,ElasticSearch,ActiveMQ,SSO单点](https://www.bilibili.com/video/av55643074/?spm_id_from=333.788.videocard.13 ) 
 * [尚硅谷谷粒在线教育项目](https://www.bilibili.com/video/av69718804?from=search&seid=9297901973965636156)
 * [Java-尚筹网-线下课堂实录-尚硅谷-2019年5月版-java 分布式大型项目实战](https://www.bilibili.com/video/av69857918?from=search&seid=1515252265112995349)
 
