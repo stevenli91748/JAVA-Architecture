@@ -169,7 +169,7 @@
 
 ### 尚硅谷
 
-* [2019尚硅谷谷粒商城微服务SpringBoot,Dubbo,MySql高级,Redis秒杀,ElasticSearch,ActiveMQ,SSO单点](https://www.bilibili.com/video/av55643074/?spm_id_from=333.788.videocard.13 ) 
+* [2019尚硅谷谷粒商城微服务SpringBoot,Dubbo,MySql高级,Redis秒杀,ElasticSearch,ActiveMQ,SSO单点](https://www.bilibili.com/video/av55643074/?spm_id_from=333.788.videocard.13 "THIS IS SAMPLE") 
 * [尚硅谷谷粒在线教育项目](https://www.bilibili.com/video/av69718804?from=search&seid=9297901973965636156)
 * [Java-尚筹网-线下课堂实录-尚硅谷-2019年5月版-java 分布式大型项目实战](https://www.bilibili.com/video/av69857918?from=search&seid=1515252265112995349)
 
