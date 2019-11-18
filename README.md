@@ -161,13 +161,20 @@
 * [java高级项目实战,学完就有3年工作经验,直接拿高薪!](https://www.bilibili.com/video/av45560930/?spm_id_from=333.788.videocard.14)
 * [SSM-电商网站开发实战-硅谷商城（附源码笔记）](https://www.bilibili.com/video/av57032859?from=search&seid=12943368697372067470)
 * [宜立方商城(附源码笔记)](https://www.bilibili.com/video/av56811084?from=search&seid=12943368697372067470)
-* [2019尚硅谷谷粒商城微服务SpringBoot,Dubbo,MySql高级,Redis秒杀,ElasticSearch,ActiveMQ,SSO单点](https://www.bilibili.com/video/av55643074/?spm_id_from=333.788.videocard.13)
 * [黑马乐优商城IDEA最新2019](https://www.bilibili.com/video/av55444350/?spm_id_from=333.788.videocard.5)
 * [Java Web项目实战 黑马旅游网（IDEA版）](https://www.bilibili.com/video/av51089566/?spm_id_from=333.788.videocard.20)
 * [易购电商项目  SSM 2019](https://www.bilibili.com/video/av50875163/?spm_id_from=333.788.videocard.3)
 * [传智播客|JavaWeb网上图书商城完整项目](https://www.bilibili.com/video/av46815831/?spm_id_from=333.788.videocard.18)
 * [从零打造企业级电商后台管理系统](https://www.bilibili.com/video/av57082433/?spm_id_from=333.788.videocard.5)
+
+### 尚硅谷
+
+* [2019尚硅谷谷粒商城微服务SpringBoot,Dubbo,MySql高级,Redis秒杀,ElasticSearch,ActiveMQ,SSO单点](https://www.bilibili.com/video/av55643074/?spm_id_from=333.788.videocard.13)
 * [尚硅谷谷粒在线教育项目](https://www.bilibili.com/video/av69718804?from=search&seid=9297901973965636156)
+
+
+
+
 # 第八阶段   Java 项目工程化和部署篇
 
 <a href="https://ibb.co/ZcndDkg"><img src="https://i.ibb.co/h2Psztd/image.jpg" alt="image" border="0"></a>
