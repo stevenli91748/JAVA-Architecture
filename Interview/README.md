@@ -208,7 +208,9 @@
   * 文件断点续传项目
 
 
-
+# 视频
+* [Java 面试 -互联网大厂高频重点面试题 （第1季）](https://www.bilibili.com/video/av37602130/?spm_id_from=333.788.videocard.0)
+* [尚硅谷】互联网大厂高频重点面试题（第2季](https://www.bilibili.com/video/av48958673?from=search&seid=3982535431121452257)
 
 
 # 有用的参考
