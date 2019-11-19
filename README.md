@@ -170,7 +170,8 @@
 ### 尚硅谷
 
 * [2019尚硅谷谷粒商城微服务SpringBoot,Dubbo,MySql高级,Redis秒杀,ElasticSearch,ActiveMQ,SSO单点](https://www.bilibili.com/video/av55643074/?spm_id_from=333.788.videocard.13 "谷粒商城是一个高并发、高可用、分布式架构的电商网站. SpringBoot+MyBatisPlus+Dubbo+RabbitMQ+Redis+Elasticsearch+Docker/K8S +Vue.js完全分布式系统架构,高并发与压力测试、MySQL集群/读写分离、Elasticsearch分布式搜索集群、Redis缓存集群、Nginx+Lua分布式限流、Redis+Lua分布式锁、支付宝接口、Docker虚拟化容器部署、高并发秒杀解决方案、RabbitMQ消息中间件、MyCat分库分表、Canal订阅binlog抽取MySQL数据、Servlet3.0异步线程隔离、异步编排") 
-* [尚硅谷谷粒在线教育项目](https://www.bilibili.com/video/av69718804?from=search&seid=9297901973965636156 "谷粒在线教育是一个使用了目前最主流微服务技术架构，前后端分离开发的IT在线教育平台.项目前后端分离开发前端使用Node.js + Vue.js技术栈;后端采用SpringCloud微服务架构，同时包含服务发现、服务路由、服务容错、API 网关、自动化部署、服务监控、服务跟踪等基础设施模块，涵盖容器化技术、服务器端渲染的技术，主流的缓存中间件、搜索引擎、消息队列的使用，有独立的配置中心，分库分表，多数据源路由")
+* [尚硅谷谷粒在线教育项目](https://www.bilibili.com/video/av69718804?from=search&seid=9297901973965636156 "谷粒在线教育是一个使用了目前最主流微服务技术架构，前后端分离开发的IT在线教育平台.项目前后端分离开发前端使用Node.js + Vue.js技术栈;后端采用SpringCloud微服务架构，同时包含服务发现、服务路由、服务容错、API 网关、自动化部署、服务监控、服务跟踪等基础设施模块，涵盖容器化技术、服务器端渲染的技术，主流的缓存中间件、搜索引擎、消息队列的使用，有独立的配置中心，分库分表，多数据源路由，后端：Docker + Nginx + SpringBoot + SpringCloud + SpringMVC + MyBatis-Plus + MySQL + Maven
+前端：Node.js + Vue.js + vueAdmin-template + Nuxt.js + NPM + WebPack")
 * [Java-尚筹网-线下课堂实录-尚硅谷-2019年5月版-java 分布式大型项目实战](https://www.bilibili.com/video/av69857918 "尚筹网是一个基于众筹业务的、完整的业务流程和后台管理系统的大型网站. SpringSecurity+RBAC完成权限系统、SpringBoot+SpringCloud微服务架构，FreeMarker模板技术+编写逆向代码生成器，Bootstrap页面框架，SpringSession进行分布式session管理，短信登陆/验证码、阿里云API、项目发布/支持、支付宝支付、内网穿透、Swagger2生成实时接口文档、PowerDesigner数据库模型设计")
 
 
