@@ -160,6 +160,8 @@
   * [Java高并发编程精髓Java内存模型JMM详解全集](https://www.bilibili.com/video/av59871562/?spm_id_from=333.788.videocard.3)
   * [百万年薪架构师带你了解--Java内存模型JMM与AQS同步器深入剖析](https://www.bilibili.com/video/av69537976/?spm_id_from=333.788.videocard.5)
   * [吊打面试官系列-史上最详细JVM虚拟机精讲](https://www.bilibili.com/video/av58325052)
+  * [Juc 与 jvm - Java 必学 2019版本-阳哥- 尚硅谷](https://www.bilibili.com/video/av70166821/?spm_id_from=333.788.videocard.1)
+  
 # 参考书籍
   * [Java虚拟机内存分配机制与启动参数说明](https://blog.csdn.net/chengyun19830206/article/details/53244278)
   *  深入理解Java虚拟机_JVM高级特性与最佳实践.PDF
