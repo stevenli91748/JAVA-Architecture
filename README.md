@@ -175,7 +175,7 @@
 * [Java-尚筹网-线下课堂实录-尚硅谷-2019年5月版-java 分布式大型项目实战](https://www.bilibili.com/video/av69857918 "尚筹网是一个基于众筹业务的、完整的业务流程和后台管理系统的大型网站. SpringSecurity+RBAC完成权限系统、SpringBoot+SpringCloud微服务架构，FreeMarker模板技术+编写逆向代码生成器，Bootstrap页面框架，SpringSession进行分布式session管理，短信登陆/验证码、阿里云API、项目发布/支持、支付宝支付、内网穿透、Swagger2生成实时接口文档、PowerDesigner数据库模型设计")
 
 * [尚硅谷】2019年 Java全栈工程师 就业班全套（1000小时](https://www.bilibili.com/video/av69222697/?spm_id_from=333.788.videocard.5)
-
+* [尚硅谷】徐靖博 最新电商项目实战（完结）](https://www.bilibili.com/video/av32637612?from=search&seid=15613602171119447210)
 
 # 第八阶段   Java 项目工程化和部署篇
 
