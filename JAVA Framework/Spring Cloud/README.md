@@ -18,7 +18,7 @@
 
 * [70万年薪的大佬带你理解-springcloud Hystrix峰控、容错机制是如何实现的](https://www.bilibili.com/video/av48702767/?spm_id_from=333.788.videocard.1)
 * [Spring Boot2.0 教程](https://www.bilibili.com/video/av37162103?p=1)
-* []()
+* [尚硅谷_SpringCloud（全](https://www.bilibili.com/video/av22613028?from=search&seid=11334929433863206245)
 
 # 有用的参考
 
