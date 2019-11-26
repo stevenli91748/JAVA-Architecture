@@ -363,6 +363,7 @@
 
 # 视频
 
+ * [2019】IntelliJ IDEA 入门到实战教程](https://www.bilibili.com/video/av71609179/?spm_id_from=333.788.videocard.3)
  * [[win环境搭建教程]MySQL+Tomcat+Nginx+Redis+Maven+IDEA配置](https://www.bilibili.com/video/av50482524?from=search&seid=7338193802476677901)
  * [Intellij-全套IDEA视频教程](https://www.bilibili.com/video/av48076362/?spm_id_from=333.788.videocard.9)
  * [2019最新Java IDEA版教程-4(高级篇-mybatis、Spring、SSM等等）](https://www.bilibili.com/video/av71389596/?spm_id_from=333.788.videocard.1)
