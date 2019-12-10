@@ -1,7 +1,7 @@
 # 目录
 
 
-[Nginx linux系统安装]()|
+[Nginx linux系统安装](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Nginx/Nginx%20linux系统安装/README.md)|
 ---|
 
 
