@@ -52,6 +52,15 @@
            查看nginx进程是否启动：
            ps -ef | grep nginx
    
+          1、验证nginx配置文件是否正确
+             方法一：进入nginx安装目录sbin下，输入命令./nginx -t
+                    看到如下显示nginx.conf syntax is ok
+
+                    nginx.conf test is successful       说明配置文件正确！
+   
+             方法二：在启动命令-c前加-t
+                    [root@LinuxServer sbin]# /usr/local/nginx/sbin/nginx -t -c /usr/local/nginx/conf/nginx.conf
+   
    第六步  安装完成一般常用命令
 
           进入安装目录中，
