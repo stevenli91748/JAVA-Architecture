@@ -18,6 +18,7 @@
           export CLASSPATH
 
 * 4  立即生效配置文件
+
         source /etc/profile
 
 * 5  验证配置信息
