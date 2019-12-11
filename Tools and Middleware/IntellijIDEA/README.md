@@ -1,4 +1,8 @@
 
+
+
+[intellij IDEA 2019.3 Linux系统安装]()|
+---|
 # 目录
 
 * [IntelliJ IDEA 的配置](#IntelliJ-IDEA-的配置)
