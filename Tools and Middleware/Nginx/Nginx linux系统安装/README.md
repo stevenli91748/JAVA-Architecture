@@ -44,7 +44,25 @@
    
    第五步 启动nginx
    
-          
-    
+           启动代码格式：nginx安装目录地址 -c nginx配置文件地址
 
-[Nginx详细的安装教程（linux）](https://blog.csdn.net/u013641234/article/details/73838472)
+           例如：
+           [root@LinuxServer sbin]# /usr/local/nginx/sbin/nginx -c /usr/local/nginx/conf/nginx.conf
+
+           查看nginx进程是否启动：
+           ps -ef | grep nginx
+   
+   第六步  安装完成一般常用命令
+
+          进入安装目录中，
+
+          命令： cd /usr/local/nginx/sbin
+
+          启动，关闭，重启，命令：
+
+          ./nginx 启动
+
+          ./nginx -s stop 关闭
+
+          ./nginx -s reload 重启
+
