@@ -1,7 +1,7 @@
 
 
 
-[intellij IDEA 2019.3 Linux系统安装]()|
+[intellij IDEA 2019.3 Linux系统安装](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/IntellijIDEA/intellij%20IDEA%202019.3%20Linux系统安装/README.md)|
 ---|
 # 目录
 
