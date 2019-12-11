@@ -5,10 +5,10 @@
 
 
 # 已安装Tomcat
-安装目录
+windows安装目录
 c:\apache-tomcat-9.0.16
 
-[Tomcat Linux系统安装]()|
+[Tomcat Linux系统安装](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Tomcat/Tomcat%20Linux系统安装/README.md)|
 ---|
 
 
