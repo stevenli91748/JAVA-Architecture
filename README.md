@@ -378,6 +378,10 @@ SQL语言|[MySQL](https://github.com/stevenli91748/Database/blob/master/MySQL/RE
 [java程序的执行顺序](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/java%E7%A8%8B%E5%BA%8F%E7%9A%84%E6%89%A7%E8%A1%8C%E9%A1%BA%E5%BA%8F.md)|
 ---|
 
+[JDK Linux系统安装](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/JDK%20Linux系统安装/README.md)|
+---|
+
+
 [java关键字和标识符](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Java%E4%B8%AD50%E4%B8%AA%E5%85%B3%E9%94%AE%E5%AD%97.md)|java语法基础|Java编码规范|[数据类型][%数据类型]|常量|变量|运算符|控制语句|[数组][%数组]|
 ---|---|---|---|---|---|---|---|---|
 
