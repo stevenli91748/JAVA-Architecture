@@ -122,7 +122,7 @@ c:\apache-tomcat-9.0.16
 
 # Tomcat配置和使用
     视频
-    [Javaweb开发视频教程之Tomcat9配置和使用](https://www.bilibili.com/video/av14548279?from=search&seid=17837694532059865818)
+  [Javaweb开发视频教程之Tomcat9配置和使用](https://www.bilibili.com/video/av14548279?from=search&seid=17837694532059865818)
   
      逐步部署一个WAP项目例子，最后达到在浏览器输入网址就可訪问，
      
