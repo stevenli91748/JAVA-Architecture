@@ -25,6 +25,8 @@
            [root@single apache-tomcat-7.0.77]# firewall-cmd --zone=public --add-port=8080/tcp --permanent
            [root@single apache-tomcat-7.0.77]# firewall-cmd --reload
            
+           查看Linux防火墙的状态
+           
            
          
 
