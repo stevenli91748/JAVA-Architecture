@@ -28,3 +28,6 @@
            
          
 
+# 疑难解析
+
+* [Tomcat中不能通过访问自己IP，但可以通过localhost/127.0.0.1访问](https://www.cnblogs.com/12three/p/11127338.html)
