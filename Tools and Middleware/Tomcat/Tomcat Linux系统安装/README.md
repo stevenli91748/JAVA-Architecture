@@ -57,7 +57,15 @@
            [root@single apache-tomcat-7.0.77]# firewall-cmd --zone=public --list-ports
            [root@single apache-tomcat-7.0.77]# 9090/tcp
            可以看到9090端口已经成功打开：
-         
+     
+    * 第六步 在本机浏览器上输入
+    
+            http://localhost:9090
+            
+            成功出现Tomcat猫的图像
+            
+            
+            
 
 # 疑难解析
 
