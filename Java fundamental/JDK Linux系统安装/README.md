@@ -1,6 +1,7 @@
 
 * 1. 从官网下载JDK到Linux中/opt目录中
-* 2. rpm -ivh /opt/jdk-7uq-linux-x64.rpm
+* 2. rpm -e openjdk
+     rpm -ivh /opt/jdk-7uq-linux-x64.rpm
 * 3. 配置环境变量
 
       1、 打开配置文件
