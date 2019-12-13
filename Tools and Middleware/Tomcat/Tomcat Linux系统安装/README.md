@@ -36,6 +36,31 @@
          <role rolename="role1"/>
          <role rolename="manager-gui"/>
          <user username="tomcat" password="tomcat" roles="tomcat,rolel,manager-gui"/>
+         
+         复制一份tomcat目录到 /home/tomcat
+         
+         [root@single src]# cp -Rf apache-tomcat-7.0.77 /home/tomcat
+
+         配置环境变量
+         
+         打开配置文件
+         vim /etc/profile
+
+         添加配置信息
+                    JAVA_HOME=/usr/java/jdk1.8.0_131
+                    TOMCAT_HOME=/home/tomcat/apache-tomcat-7.0.77
+                    CATALINA_HOME=/home/tomcat/apache-tomcat-7.0.77
+                    PATH=$JAVA_HOME/bin:$PATH
+                    PATH=$CATALINA_HOME/bin:$PATH
+                    CLASSPATH=.:$JAVA_HOME/lib/dt.jar:$JAVA_HOME/lib/tools.jar
+                    export JAVA_HOME
+                    export TOMCAT_HOME
+                    export CATALINA_HOME
+                    export PATH
+                    export CLASSPATH
+     
+       
+         
  * 第四步 启动tomcat
  
          [root@single src]# cd apache-tomcat-7.0.77/bin
