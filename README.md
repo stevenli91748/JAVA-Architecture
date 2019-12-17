@@ -191,8 +191,8 @@
 
 ####   项目部署
 
-[Docker镜像技术](https://github.com/stevenli91748/Engineering-special/blob/master/Docker/README.md)|Harbor镜像倉库|Rancher容器管理|
----|---|---|
+[Docker镜像技术](https://github.com/stevenli91748/Engineering-special/blob/master/Docker/README.md)|Harbor镜像倉库|Rancher容器管理|[JavaEE进阶1—工程化专题](https://www.bilibili.com/video/av60638359/?spm_id_from=333.788.videocard.14)|
+---|---|---|---|
 
 #### 项目测试
 
