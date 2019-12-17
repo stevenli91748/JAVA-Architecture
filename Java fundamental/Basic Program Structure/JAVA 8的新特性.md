@@ -87,6 +87,7 @@
 # Java特性视频
 
 * [尚硅谷_Java8新特性](https://www.bilibili.com/video/av35195879/?spm_id_from=333.788.videocard.6)
+* [java8 stream执行机制详解](https://www.bilibili.com/video/av63582848?from=search&seid=9591105149997618327)
 * [尚硅谷最新Java9新特性](https://www.bilibili.com/video/av44816282?from=search&seid=408333174116208008)
 * [尚学堂 1小时掌握Java 10新特性精讲教程](https://www.bilibili.com/video/av44822559?from=search&seid=3355280219283215777)
 * [尚硅谷Java11新特性教程](https://www.bilibili.com/video/av41747262?from=search&seid=213230975773551122)
