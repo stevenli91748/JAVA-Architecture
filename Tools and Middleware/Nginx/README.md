@@ -18,6 +18,7 @@
 
 # Ngine视频
 
+ * [尚硅谷Nginx教程（2019发布](https://www.bilibili.com/video/av68136734?p=4)
  * [nginx实战集群环境搭建与核心原理详解](https://www.bilibili.com/video/av66849184?from=search&seid=12943368697372067470)
  * [2019全新Nginx实战web服务企业实战](https://www.bilibili.com/video/av33614077/?spm_id_from=333.788.videocard.5)
  * [nginx-超全视频2018](https://www.bilibili.com/video/av55251610/?spm_id_from=333.788.videocard.8)
@@ -31,4 +32,4 @@
  * [八步部署NGINX Plus API网关](https://zhuanlan.zhihu.com/p/38359208?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
  * [超实用的 Nginx 极简教程，覆盖了常用场景](https://zhuanlan.zhihu.com/p/63737990?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
 
- * [你连Nginx怎么转发给你请求都说不清楚，还好意思说自
+ 
