@@ -2,8 +2,9 @@
 
 # Elasticsearch 视频
 
- [ElasticSearch视频_2019最新_ES在企业场景越来越多了](https://www.bilibili.com/video/av64033816/?spm_id_from=333.788.videocard.12)
-
+* [ElasticSearch视频_2019最新_ES在企业场景越来越多了](https://www.bilibili.com/video/av64033816/?spm_id_from=333.788.videocard.12)
+* [Elasticsearch顶尖高手系列课程-核心知识篇](https://www.bilibili.com/video/av73034310)
+* [Elasticsearch顶尖高手系列-高手进阶篇](https://www.bilibili.com/video/av73036633)
 
 # 有用的参考
 
