@@ -4,4 +4,4 @@
 
 # 视频
 
-* [Nginx正向和反向代理](https://www.bilibili.com/video/av68136734?p=3)
+* [Nginx负载均衡](https://www.bilibili.com/video/av68136734?p=4)
