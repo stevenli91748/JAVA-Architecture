@@ -1,6 +1,13 @@
 
 # [Java基本知识面试](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/interview/README.md)
 
+# 在linux下查看json文件  
+ 
+     在linux下，可以通过curl工具访问url，因为返回的是json串，非格式化的。可以结合python命令，转为格式化的json，让看起来比较清楚。如：
+     [root]# curl http://192.168.142.138:2375/images/json | python -mjson.tool
+     or 
+     [root]# cat /etc/docker/docker.json | python -mjson.tool
+
 # 目录
 
 * [java程序的执行顺序](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/java程序的执行顺序.md)
