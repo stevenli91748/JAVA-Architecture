@@ -11,3 +11,4 @@
   * [基于maven的ssm框架整合的示例代码](https://www.jb51.net/article/131250.htm)
   * [电商项目介绍SSH 与 SSM 的区别---说的很好](https://blog.csdn.net/qq_35661171/article/details/78524293)
   * [ssm](https://zhuanlan.zhihu.com/p/66151565?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
+  * [史上最详细的IDEA优雅整合Maven+SSM框架（详细思路+附带源码）](https://blog.csdn.net/qq_44543508/article/details/100192558)
