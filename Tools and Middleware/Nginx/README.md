@@ -34,3 +34,5 @@
 * [Nginx配置文件详解](https://www.jianshu.com/p/1593954d5faf)
 * [Nginx的配置文件详解（超详细）](https://blog.csdn.net/wangbin_0729/article/details/82109693) 
 * [百万并发下的Nginx优化](http://www.sohu.com/a/274307517_463994)
+* [打造3百万次请求/秒的高性能服务器集群第一部分](https://www.cnblogs.com/JohnABC/p/5264662.html)
+* [打造3百万次请求/秒的高性能服务器集群第二部分](https://www.cnblogs.com/JohnABC/p/5264687.html)
