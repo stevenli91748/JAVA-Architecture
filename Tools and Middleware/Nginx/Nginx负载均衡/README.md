@@ -10,3 +10,4 @@
 # 有用的参考
 
 * [Linux配置nginx实现负载均衡](https://blog.csdn.net/qq_33722172/article/details/81701946)
+* [Nginx高可用负载均衡集群实例架设](https://blog.51cto.com/14044882/2309786)
