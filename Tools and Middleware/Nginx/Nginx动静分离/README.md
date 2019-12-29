@@ -11,3 +11,4 @@
 # 有用的参考
 
 * [Nginx实现动静分离](https://www.jianshu.com/p/037a088eca4f)
+* [nginx 配置http服务器实现动静分离（一）](https://my.oschina.net/u/4034639/blog/3074294)
