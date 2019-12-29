@@ -32,4 +32,4 @@
  * [八步部署NGINX Plus API网关](https://zhuanlan.zhihu.com/p/38359208?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
  * [超实用的 Nginx 极简教程，覆盖了常用场景](https://zhuanlan.zhihu.com/p/63737990?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
 * [Nginx配置文件详解](https://www.jianshu.com/p/1593954d5faf)
- 
+* [Nginx的配置文件详解（超详细）](https://blog.csdn.net/wangbin_0729/article/details/82109693) 
