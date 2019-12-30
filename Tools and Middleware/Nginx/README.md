@@ -22,7 +22,8 @@
  [Nginx基础](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Nginx/Nginx基础/README.md)|[Nginx正向和反向代理服务](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Nginx/Nginx正向和反向代理/README.md)|[Nginx负载均衡服务](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Nginx/Nginx负载均衡/README.md)|[Nginx动静分离服务](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Nginx/Nginx动静分离/README.md)|[Nginx缓冲服务](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Nginx/Nginx缓冲服务/README.md)|
  ---|---|---|---|---|
 
-
+[手机站点和PC站点的分离](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Nginx/手机站点和PC站点的分离/README.md)|
+---|
 
 
 
