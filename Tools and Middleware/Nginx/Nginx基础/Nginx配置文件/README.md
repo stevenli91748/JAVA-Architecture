@@ -132,9 +132,13 @@ b、请求根目录配置
 c、更改location的URI
 
 d、网站默认首页配置
+ 
+     location / {
+              root   html;
+              index  index.html index.htm;
+          }
 
-
-
+     /  斜杠指的是，所有的流量都要经过这里
 
 
 # 有用的参考
