@@ -3,9 +3,13 @@
   /usr/local/nginx/conf/nginx.conf
 
 * --MAIN 全局模块
-*   ---EVENTS 模块
-*   ---HTTP 模块
-*   ---
+*   ----EVENTS 模块
+*   ----HTTP 模块
+        ----HTTP全局模块
+*       ----Upsteam
+        ----Server
+            ----Server全局全局模块
+        ----location
       
 
 
