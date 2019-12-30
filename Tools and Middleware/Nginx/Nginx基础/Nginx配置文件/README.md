@@ -46,9 +46,9 @@ c、错误日志的存放路径
 
       如：error_log logs/error.log  notice;  error_log 是个主模块指令，用来定义全局错误日志文件。日志输出级别有debug，info，notice，
       warn，error，erit可供选择，其中，debug输出日志最为详细，而crit输出日志最少。
-      指定格式：error_log file  | stderr;
-      file : 日志输出到某个文件file
-      stderr : 日志输出到标准错误输出 （日志输出级别）。 
+      指定格式：error_log file  | stderr;
+      file : 日志输出到某个文件file
+      stderr : 日志输出到标准错误输出 （日志输出级别）。 
 
  d、Nginx进程PID存放路径
   
