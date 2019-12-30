@@ -1,5 +1,7 @@
 
+#  Nginx配置文件的路径
 
+   /usr/local/nginx/conf/nginx.conf
 
 # 目录
 
