@@ -38,9 +38,8 @@
       的数量一致即可。Nginx服务器实现并发处理服务的关键。
       
       指令格式：worker_processes number | auto;
-      number : Nginx 进程最多可以产生的worker process 数。
-      auto ： Nginx 进程将自动检测
-      
+      number : Nginx 进程最多可以产生的worker process 数。
+      auto ： Nginx 进程将自动检测      
       在按照上面的配置格式配置了之后，假如上面的数目是2，那么启动Nginx服务器后，在后台主机上查看Nginx的进程情况，可以看到应该是有2个Nginx进程。
 
 c、错误日志的存放路径
