@@ -33,3 +33,5 @@ location / {
             index  index.html index.htm;
 
     }         
+
+
