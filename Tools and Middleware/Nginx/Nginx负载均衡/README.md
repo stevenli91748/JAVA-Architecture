@@ -1,5 +1,20 @@
 
+# 负载均衡
 
+     添加多台server 
+     
+     upstream demo{
+        server 192.168.2.138:8080;
+        server 192.168.2.138:8081;
+     }   
+
+     修改location为 
+     
+     location / {
+            proxy_pass  https://demo;
+            root   html;
+            index  index.html index.htm;
+     }
 
 
 # 视频
