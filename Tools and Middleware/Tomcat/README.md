@@ -4,6 +4,17 @@
 而 Jetty 刚好相反，Jetty 可以同时处理大量连接而且可以长时间保持这些连接。例如像一些 web 聊天应用非常适合用 Jetty 做服务器，像Taobao的 web 旺旺就是用 Jetty 作为 Servlet 引擎。
 
 
+# 在/etc/hosts文件中添加域名解析
+  
+  192.168.28.130 www.mywebapp-name.com
+  
+  本机访问
+
+  [root@www html]# curl www.mywebapp-name.com
+  就可用域名訪问了
+
+
+
 # 已安装Tomcat
 windows安装目录
 c:\apache-tomcat-9.0.16
