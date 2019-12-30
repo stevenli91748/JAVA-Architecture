@@ -28,8 +28,8 @@
 * a、配置运行Nginx服务器用户（组）
          
       如：user nobody nobody;   user是个主模块指令，指定Nginx Worker进程运行以及用户组。
-      指令格式：user user [group];  
-      user：指定可以运行Nginx服务器的用户；group：可选项，可以运行Nginx服务器的用户组。
+      指令格式：user user [group];
+      user：指定可以运行Nginx服务器的用户；group：可选项，可以运行Nginx服务器的用户组。
       如果user指令不配置或者配置为user nobody nobody，默认由nobody账户运行。
 
 * b、worker process数    
