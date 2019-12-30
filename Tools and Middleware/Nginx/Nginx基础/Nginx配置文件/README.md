@@ -2,9 +2,9 @@
 # Nginx配置文件的路径
   /usr/local/nginx/conf/nginx.conf
 
- >MAIN 全局模块             
- >>EVENTS 模块
- >>HTTP 模块
+ >MAIN全局模块             
+ >>EVENTS模块
+ >>HTTP模块
  >>>HTTP全局模块
  >>>Upsteam                
  >>>Server1                
