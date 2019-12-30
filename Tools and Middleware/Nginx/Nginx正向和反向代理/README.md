@@ -1,4 +1,21 @@
+# 反向代理
 
+     默认配置是查找nginx目录下的html
+     
+     location / {
+            root   html;
+            index  index.html index.htm;
+        }
+        
+     /  斜杠指的是，所有的流量都要经过这里
+     
+     修改为
+        location / {
+            proxy_pass  https://localhost:8080;
+            root   html;
+            index  index.html index.htm;
+        }
+     
 
 
 
