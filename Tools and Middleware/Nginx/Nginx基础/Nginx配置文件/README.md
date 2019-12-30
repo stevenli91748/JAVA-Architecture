@@ -9,19 +9,9 @@
  >>>Upsteam                
  >>>Server                
  >>>>Server全局全局模块
- >>>location               
+ >>>>location
  
       
->MAIN
->>EVENTS
-
-> MAIN
->> HTTP
->>> HTP全局模块
->>> Upsteam
->>> Server
->>>> Server全局模块
->>>> location
 
 
 
