@@ -76,6 +76,7 @@ events事件指令是设定Nginx的工作模式及连接数上限
 ## HTTP模块
 
 
+
 ## HTTP全局模块
 
 1. 定义MIMI-Type
