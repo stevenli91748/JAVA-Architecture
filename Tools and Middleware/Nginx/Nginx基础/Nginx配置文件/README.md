@@ -135,9 +135,11 @@ d、网站默认首页配置
 
 
 
+
+
 # 有用的参考
 
 * [Nginx配置文件详解](https://www.jianshu.com/p/1593954d5faf)
-
+* [nginx实例实战](https://blog.csdn.net/qq_15914047/article/details/78058268)
 
 
