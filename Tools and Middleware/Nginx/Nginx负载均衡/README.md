@@ -16,6 +16,12 @@
             index  index.html index.htm;
      }
 
+     /  斜杠指的是，所有的流量都要经过这里
+     
+     http://localhost/index.html
+     有时是8080响应，有时是8081响应
+     
+     
 
 # 视频
 
