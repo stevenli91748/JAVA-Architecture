@@ -14,14 +14,14 @@
  >>>>Server2全局全局模块
  >>>location
       
->MAIN
->>EVENTS
->>HTTP
->>>HTP全局模块
->>>Upsteam
->>>Server
->>>>Server全局模块
->>>>location
+> MAIN
+>> EVENTS
+>> HTTP
+>>> HTP全局模块
+>>> Upsteam
+>>> Server
+>>>> Server全局模块
+>>>> location
 
 
 
