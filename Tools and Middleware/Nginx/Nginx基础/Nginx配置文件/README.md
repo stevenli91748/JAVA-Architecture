@@ -122,6 +122,8 @@ E、charset用于设置网页的默认编码格式。
 
 F、access_log 用来指定虚拟主机的访问日志存放路径，最后的main 用于指定访问日志的输出格式。
 
+g. autoindex on: 使用 autoindex参数，nginx能识别的直接显示，不识别的直接下载, 配置完 autoindex on; 参数以后 会显示站点下的文件信息
+
 ## location   (Nginx配置中最灵活的部分)
 location（URL匹配特定位置的设置）：用于匹配网页位置。URL地址匹配是进行Nginx配置中最灵活的部分。 location支持正则表达式匹配，也支持条件判断匹配，用户可以通过location指令实现Nginx对动、静态网页进行过滤处理。使用location URL匹配配置还可以实现反向代理，用于实现PHP动态解析或者负载负载均衡。
 
