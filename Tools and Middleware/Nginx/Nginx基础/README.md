@@ -1,4 +1,20 @@
+# nginx 的目录
 
+  查找nginx的安装目录
+  
+  [root]# whereis nginx
+  nginx: /usr/local/nginx
+  
+  [root]# cd /usr/local/nginx
+  [root]# ls -l
+  
+  conf   #配置文件保存目录
+
+  html   #站点目录
+
+  logs   #nginx服务相关日志目录
+
+  sbin   #服务命令目录
 
 
 
