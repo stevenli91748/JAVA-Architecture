@@ -7,15 +7,15 @@
  >>HTTP模块
  >>>HTTP全局模块
  >>>Upsteam                
- >>>Server1                
- >>>>Server1全局全局模块
+ >>>Server                
+ >>>>Server全局全局模块
  >>>location               
- >>>Server2
- >>>>Server2全局全局模块
- >>>location
+ 
       
+>MAIN
+>>EVENTS
+
 > MAIN
->> EVENTS
 >> HTTP
 >>> HTP全局模块
 >>> Upsteam
@@ -24,12 +24,6 @@
 >>>> location
 
 
-> MAIN
->> 树
->> 标
->>> 二叉树
->>>> 平衡二叉树
->>>>> 满二叉树
 
 # 有用的参考
 
