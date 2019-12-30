@@ -2,7 +2,11 @@
 # Nginx配置文件的路径
   /usr/local/nginx/conf/nginx.conf
 
-
+* --MAIN 全局模块
+*   ---EVENTS 模块
+*   ---HTTP 模块
+*   ---
+      
 
 
 
