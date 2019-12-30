@@ -74,6 +74,22 @@ events事件指令是设定Nginx的工作模式及连接数上限
 
 ## HTTP全局模块
 
+1. 定义MIMI-Type
+   
+  1.1  include  mime.types;     //该指令主要用于将其他的Nginx配置或第三方模块的配置引用到当前的主配文件中，减少主配置文件的复杂度
+  1.2  default_type  application/octet-stream; //HTTP核心模块指令，这里设定默认类型为二进制流。也就是当文件类型未定义时使用这种方式
+
+2. 自定义服务日志
+
+    log_format main   //  log_format 是Nginx的HttpLog模块指令，用于指定Nginx日志的输出日志
+
+3. 允许sendfile方式传输文件
+
+   sendfile  on;      //参数on是表示开启高效文件传输模式，默认是关闭状态（off），将tcp_nopush和tcp_nodelay两个指令设置为on用于防止网络阻塞；
+
+4. 连接超时时间
+
+   keepalive_timeout 65;  // 设置客户端连接保持活动的超时时间。在超过这个时间之后，服务器会关闭该连接；
 
 ## Upsteam
 upstream（负载均衡服务器设置）：指令主要用于负载均衡，设置一系列的后端服务器
