@@ -53,10 +53,10 @@ c、错误日志的存放路径
  d、Nginx进程PID存放路径
   
        如：pid logs/nginx.pid;   pid是个主模块指令，用来指定进程pid的存储文件位置。
-       Nginx进程是作为系统守护进程在进行，需要在某个文件中保存当前运行程序的主进程号，Nginx支持该保存文件路径的定义。
-       指令格式：pid file;
-       file：指定存放路径和文件名称。
-       如果不指定，则默认置于路径 logs/nginx.pid
+       Nginx进程是作为系统守护进程在进行，需要在某个文件中保存当前运行程序的主进程号，Nginx支持该保存文件路径的定义。
+       指令格式：pid file;
+       file：指定存放路径和文件名称。
+       如果不指定，则默认置于路径 logs/nginx.pid
 
  e、worker_rlimit_nofile 
   
