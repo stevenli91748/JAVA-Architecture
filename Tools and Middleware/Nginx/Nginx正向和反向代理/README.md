@@ -16,6 +16,7 @@
             index  index.html index.htm;
         }
      
+    http://localhost/index 
 
 
 
