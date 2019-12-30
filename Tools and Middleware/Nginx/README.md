@@ -2,6 +2,15 @@
 #  Nginx配置文件的路径
 
    /usr/local/nginx/conf/nginx.conf
+   
+# 在/etc/hosts文件中添加域名解析
+  
+  192.168.28.130 www.mywebapp-name.com
+  
+  本机访问
+
+  [root@www html]# curl www.mywebapp-name.com
+  就可用域名訪问了
 
 # 目录
 
