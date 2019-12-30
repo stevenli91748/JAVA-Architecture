@@ -1,4 +1,13 @@
+# 动静分离
 
+  增加配置
+        只要是以jpg或者gif结尾的，去配置的目录下查找
+        
+        location ~ .*\.(jpg|gif)$ {
+            root /usr/local/images;
+        }
+        
+    http://localhost/a.jpg
 
 
 
