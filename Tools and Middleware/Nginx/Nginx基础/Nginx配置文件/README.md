@@ -24,15 +24,12 @@
 ## MAIN全局模块
 
 该部分配置主要影响Nginx全局，通常包括下面几个部分
-
-
-
-
+   
     a、配置运行Nginx服务器用户（组）
-       如：user nobody nobody;   user是个主模块指令，指定Nginx Worker进程运行以及用户组。
-       指令格式：user user [group];  
-       user：指定可以运行Nginx服务器的用户；group：可选项，可以运行Nginx服务器的用户组。
-       如果user指令不配置或者配置为user nobody nobody，默认由nobody账户运行。
+         如：user nobody nobody;   user是个主模块指令，指定Nginx Worker进程运行以及用户组。
+         指令格式：user user [group];  
+         user：指定可以运行Nginx服务器的用户；group：可选项，可以运行Nginx服务器的用户组。
+         如果user指令不配置或者配置为user nobody nobody，默认由nobody账户运行。
 
     b、worker process数    
       如：worker_processes 2;    woker_processes是个主模块指令，制定了Nginx要开启的进程数。每个Nginx进程平均耗费10M~12M内存。建议指定和CPU的数量一致即可。
@@ -82,10 +79,13 @@ events事件指令是设定Nginx的工作模式及连接数上限
 2. 自定义服务日志
 
     log_format main   //  log_format 是Nginx的HttpLog模块指令，用于指定Nginx日志的输出日志
-
+    access_log  
 3. 允许sendfile方式传输文件
 
-   sendfile  on;      //参数on是表示开启高效文件传输模式，默认是关闭状态（off），将tcp_nopush和tcp_nodelay两个指令设置为on用于防止网络阻塞；
+   sendfile  on;      //参数on是表示开启高效文件传输模式，默认是关闭状态（off），
+   
+   tcp_nopush on;
+   tcp_nodelay on;     //将tcp_nopush和tcp_nodelay两个指令设置为on用于防止网络阻塞；
 
 4. 连接超时时间
 
@@ -98,13 +98,20 @@ upstream（负载均衡服务器设置）：指令主要用于负载均衡，设
 ## Server
 server 块是对虚拟主机的配置
 
+A、listen用于指定虚拟主机的服务端口，
+B、server_name 用来指定IP地址或域名，多个域名之间用空格分开。
+C、index用于设定访问的默认首页地址.。
+D、root指令用于指定虚拟主机的网页根目录，这个目录可以是相对路径，也可以是绝对路径。
+E、charset用于设置网页的默认编码格式。
+F、access_log 用来指定虚拟主机的访问日志存放路径，最后的main 用于指定访问日志的输出格式。
 
-## Server全局全局模块
+## location   (Nginx配置中最灵活的部分)
+location（URL匹配特定位置的设置）：用于匹配网页位置。URL地址匹配是进行Nginx配置中最灵活的部分。 location支持正则表达式匹配，也支持条件判断匹配，用户可以通过location指令实现Nginx对动、静态网页进行过滤处理。使用location URL匹配配置还可以实现反向代理，用于实现PHP动态解析或者负载负载均衡。
 
-
-
-## location
-location（URL匹配特定位置的设置）：用于匹配网页位置。
+a、location配置
+b、请求根目录配置
+c、更改location的URI
+d、网站默认首页配置
 
 
 
