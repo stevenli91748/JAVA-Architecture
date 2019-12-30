@@ -25,14 +25,14 @@
 
 该部分配置主要影响Nginx全局，通常包括下面几个部分
    
-a、配置运行Nginx服务器用户（组）
+* a、配置运行Nginx服务器用户（组）
+         
+      如：user nobody nobody;   user是个主模块指令，指定Nginx Worker进程运行以及用户组。
+      指令格式：user user [group];  
+      user：指定可以运行Nginx服务器的用户；group：可选项，可以运行Nginx服务器的用户组。
+      如果user指令不配置或者配置为user nobody nobody，默认由nobody账户运行。
 
-         如：user nobody nobody;   user是个主模块指令，指定Nginx Worker进程运行以及用户组。
-         指令格式：user user [group];  
-         user：指定可以运行Nginx服务器的用户；group：可选项，可以运行Nginx服务器的用户组。
-         如果user指令不配置或者配置为user nobody nobody，默认由nobody账户运行。
-
-b、worker process数    
+* b、worker process数    
 
       如：worker_processes 2;    woker_processes是个主模块指令，制定了Nginx要开启的进程数。每个Nginx进程平均耗费10M~12M内存。建议指定和CPU
       的数量一致即可。
