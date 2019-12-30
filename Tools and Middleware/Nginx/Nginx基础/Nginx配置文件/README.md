@@ -27,10 +27,47 @@
 
 
 
+
+    a、配置运行Nginx服务器用户（组）
+       如：user nobody nobody;   user是个主模块指令，指定Nginx Worker进程运行以及用户组。
+       指令格式：user user [group];  
+       user：指定可以运行Nginx服务器的用户；group：可选项，可以运行Nginx服务器的用户组。
+       如果user指令不配置或者配置为user nobody nobody，默认由nobody账户运行。
+
+    b、worker process数    
+      如：worker_processes 2;    woker_processes是个主模块指令，制定了Nginx要开启的进程数。每个Nginx进程平均耗费10M~12M内存。建议指定和CPU的数量一致即可。
+      Nginx服务器实现并发处理服务的关键。
+      指令格式：worker_processes number | auto;
+      number : Nginx 进程最多可以产生的worker process 数。
+      auto ： Nginx 进程将自动检测
+      在按照上面的配置格式配置了之后，假如上面的数目是2，那么启动Nginx服务器后，在后台主机上查看Nginx的进程情况，可以看到应该是有2个Nginx进程。
+
+    c、错误日志的存放路径
+      如：error_log logs/error.log  notice;  error_log 是个主模块指令，用来定义全局错误日志文件。日志输出级别有debug，info，notice，warn，error，erit可供选择，其中，debug输出日志最为详细，而crit输出日志最少。
+     指定格式：error_log file  | stderr;
+     file : 日志输出到某个文件file
+     stderr : 日志输出到标准错误输出 （日志输出级别）。 
+
+    d、Nginx进程PID存放路径
+       如：pid logs/nginx.pid;   pid是个主模块指令，用来指定进程pid的存储文件位置。
+       Nginx进程是作为系统守护进程在进行，需要在某个文件中保存当前运行程序的主进程号，Nginx支持该保存文件路径的定义。
+       指令格式：pid file;
+       file：指定存放路径和文件名称。
+        如果不指定，则默认置于路径 logs/nginx.pid
+
+    e、worker_rlimit_nofile 
+       如：worker_rlimit_nofile 65535;  用来绑定worker进程和CPU，Linux内核2.4 以上可用
+
+
 ## EVENTS模块
 
 events事件指令是设定Nginx的工作模式及连接数上限
 
+1. use epoll;                //use是事件模块指令，用来指定Nginx的工作模式。Nginx支持的工作模式有select、poll、kqueue、epoll、rtsig和
+                               /dev/poll 。其中select 和poll 都是标准的工作模式，kqueue和epoll是高效的工作模式，不同的是epoll用在Linux
+                               平台上，而kqueue用在BSD系统中。对于Linux系统，epoll工作模式是首选
+
+2. worker_connections 65536;  // work_connections也是个事件模块指令，用于定义Nginx每个进程的最大连接数，默认是1024
 
 ## HTTP模块
 
@@ -39,11 +76,11 @@ events事件指令是设定Nginx的工作模式及连接数上限
 
 
 ## Upsteam
-
+upstream（负载均衡服务器设置）：指令主要用于负载均衡，设置一系列的后端服务器
 
 
 ## Server
-
+server 块是对虚拟主机的配置
 
 
 ## Server全局全局模块
@@ -51,6 +88,7 @@ events事件指令是设定Nginx的工作模式及连接数上限
 
 
 ## location
+location（URL匹配特定位置的设置）：用于匹配网页位置。
 
 
 
