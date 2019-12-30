@@ -3,7 +3,7 @@
   /usr/local/nginx/conf/nginx.conf
 
  >MAIN 全局模块             
- >>[EVENTS 模块](https://www.jianshu.com/p/1593954d5faf)
+ >>EVENTS 模块
  >>HTTP 模块
  >>>HTTP全局模块
  >>>Upsteam                
