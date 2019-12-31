@@ -36,3 +36,4 @@
 * [5台Nginx集群（负载均衡）实例](https://www.cnblogs.com/xiugeng/p/10155283.html)
 * [nginx upstream 配置实现多服务器无感知切换](https://blog.csdn.net/zhanaolu4821/article/details/94405492)
 * [nginx+keepalived搭建高可用负载均衡(双主模式)](https://blog.csdn.net/qq_34021712/article/details/73441168)
+* [Nginx 动态负载 upstream 三种方案](https://blog.csdn.net/weixin_33978044/article/details/91639848)
