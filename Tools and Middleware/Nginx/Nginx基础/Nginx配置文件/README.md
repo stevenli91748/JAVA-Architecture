@@ -125,11 +125,10 @@ F、access_log 用来指定虚拟主机的访问日志存放路径，最后的ma
 g. autoindex on: 使用 autoindex参数，nginx能识别的直接显示，不识别的直接下载, 配置完 autoindex on; 参数以后 会显示站点下的文件信息
 
 ## 别名配置
-
       server {
         listen       80;
         server_name  www.realxw.com realxw.com;
-        location / {
+        location / {
             root   html/www;
            index  index.html index.htm;
         }
