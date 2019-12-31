@@ -126,44 +126,35 @@ g. autoindex on: 使用 autoindex参数，nginx能识别的直接显示，不识
 
 ## 因为在大的项目当中，会有成百上千的server需要配置，如果都配置在同一文件上，操作上会很麻烦，所以nginx配置文件需要规范化
 
-1. 创建虚拟主机配置文件存储目录extra
+    1. 创建虚拟主机配置文件存储目录extra
 
-  [root]# mkdir  /usr/local/nginx/conf/extra   
+       [root]# mkdir  /usr/local/nginx/conf/extra   
   
-  在extra目录下创建每一个主机的配置文件
-  [root@/usr/local/nginx/conf/extra]# ls 
-  server1.conf   server2.conf server3.conf ................ serverN.conf
+       在extra目录下创建每一个主机的配置文件
+       [root@/usr/local/nginx/conf/extra]# ls 
+           server1.conf   server2.conf server3.conf ................ serverN.conf
   
-  修改nginx配置文件使之加载识别虚拟主机配置文件
+       修改nginx配置文件使之加载识别虚拟主机配置文件
   
-  [root]# vi /usr/local/nginx/conf/nginx.conf
+        [root]# vi /usr/local/nginx/conf/nginx.conf
 
-        events {
+              events {
+                      worker_connections  1024;
+              }
 
-              worker_connections  1024;
+              http {
 
-        }
-
-       http {
-
-            include       mime.types;
-
-            default_type  application/octet-stream;
-
-            sendfile        on;
-
-            keepalive_timeout  65;
-
-            include extra/server1.conf;
-
-            include extra/server2.conf;
-                   .
-                   .
-                   .
-                   
-            include extra/serverN.conf;
-
-           }  
+                    include       mime.types;
+                    default_type  application/octet-stream;
+                    sendfile        on;
+                    keepalive_timeout  65;
+                    include extra/server1.conf;
+                    include extra/server2.conf;
+                        .
+                        .
+                        .
+                    include extra/serverN.conf;
+               }  
   
   
   
