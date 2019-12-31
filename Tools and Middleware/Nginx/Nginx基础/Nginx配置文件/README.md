@@ -124,6 +124,56 @@ F、access_log 用来指定虚拟主机的访问日志存放路径，最后的ma
 
 g. autoindex on: 使用 autoindex参数，nginx能识别的直接显示，不识别的直接下载, 配置完 autoindex on; 参数以后 会显示站点下的文件信息
 
+## 因为在大的项目当中，会有成百上千的server需要配置，如果都配置在同一文件上，操作上会很麻烦，所以nginx配置文件需要规范化
+
+1. 创建虚拟主机配置文件存储目录extra
+
+  [root]# mkdir  /usr/local/nginx/conf/extra   
+  
+  在extra目录下创建每一个主机的配置文件
+  [root@/usr/local/nginx/conf/extra]# ls 
+  server1.conf   server2.conf server3.conf ................ serverN.conf
+  
+  修改nginx配置文件使之加载识别虚拟主机配置文件
+  
+  [root]# vi /usr/local/nginx/conf/nginx.conf
+
+        events {
+
+              worker_connections  1024;
+
+        }
+
+       http {
+
+            include       mime.types;
+
+            default_type  application/octet-stream;
+
+            sendfile        on;
+
+            keepalive_timeout  65;
+
+            include extra/server1.conf;
+
+            include extra/server2.conf;
+                   .
+                   .
+                   .
+                   
+            include extra/serverN.conf;
+
+           }  
+  
+  
+  
+
+
+
+
+
+
+
 ## location   (Nginx配置中最灵活的部分)
 location（URL匹配特定位置的设置）：用于匹配网页位置。URL地址匹配是进行Nginx配置中最灵活的部分。 location支持正则表达式匹配，也支持条件判断匹配，用户可以通过location指令实现Nginx对动、静态网页进行过滤处理。使用location URL匹配配置还可以实现反向代理，用于实现PHP动态解析或者负载负载均衡。
 
@@ -138,10 +188,12 @@ d、网站默认首页配置
      location / {
               root   html;
               index  index.html index.htm;
-          }
+              expires  7d;
+      }
 
      /  斜杠指的是，所有的流量都要经过这里
-
+     
+     expires 定义用户浏览器缓存的时间为7天，如果静态页面不常更新，可以设置更长，这样可以节省带宽和缓解服务器的压力
 
 # 有用的参考
 
