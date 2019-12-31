@@ -126,7 +126,7 @@ g. autoindex on: 使用 autoindex参数，nginx能识别的直接显示，不识
 
 ## 别名配置
       server {
-        listen       80;
+        listen       80;
         server_name  www.realxw.com realxw.com;
         location / {
             root   html/www;
@@ -170,17 +170,13 @@ g. autoindex on: 使用 autoindex参数，nginx能识别的直接显示，不识
                     include extra/serverN.conf;
                }  
   
-  
-  
-
-
-
-
-
-
-
 ## location   (Nginx配置中最灵活的部分)
-location（URL匹配特定位置的设置）：用于匹配网页位置。URL地址匹配是进行Nginx配置中最灵活的部分。 location支持正则表达式匹配，也支持条件判断匹配，用户可以通过location指令实现Nginx对动、静态网页进行过滤处理。使用location URL匹配配置还可以实现反向代理，用于实现PHP动态解析或者负载负载均衡。
+
+location 指令的作用是根据用户请求的URI来执行不同的应用
+
+location（URL匹配特定位置的设置）：用于匹配网页位置。URL地址匹配是进行Nginx配置中最灵活的部分。 location支持正则表达式匹配，也支持条件判断匹配，
+
+用户可以通过location指令实现Nginx对动、静态网页进行过滤处理。使用location URL匹配配置还可以实现反向代理，用于实现PHP动态解析或者负载负载均衡。
 
 a、location配置
 
@@ -199,6 +195,74 @@ d、网站默认首页配置
      /  斜杠指的是，所有的流量都要经过这里
      
      expires 定义用户浏览器缓存的时间为7天，如果静态页面不常更新，可以设置更长，这样可以节省带宽和缓解服务器的压力
+
+### 要求内网能够访问www.realxw.com/music/资源，  外网不能訪问。
+
+    创建music目录 
+
+    [root]# midir /usr/local/nginx/html/realxw-www/music
+    
+    [root]# vi /usr/local/nginx/conf/nginx.conf
+    
+    server{
+    
+        listen  80;
+        server_name  www.realxw.com
+        
+        location / {
+         
+              root  /usr/local/nginx/html/realxw-www;
+              index  homepage.html;
+        }
+
+         location /music{
+         
+              root  /usr/local/nginx/html/realxw-www/music;  
+              index music-homepage.html;
+              
+              allow  192.168.28.130;       
+              deny all;
+              }
+       }
+
+     测试：
+   
+     [root]# curl www.realxw.com/music
+     suesseful
+
+## locationn使用的语法为
+
+
+      location [=|~|~*|^~] uri {}
+      
+      ~  匹配内容区分大小写
+      
+      ~* 匹配内容不区分大小写
+      
+       !~ 取反
+       
+       ^~ 但多个匹配同时存在，优先匹配 ^~匹配的内容;不做正则表达式的检查 （优先处理）
+       
+## rewrite 模块的使用--地址重写       
+
+
+    server {
+
+        listen       80;
+
+        server_name  www.realxw.com realxw.com;
+
+        if ($host ~* "^realxw.com") {
+
+        rewrite ^/(.*) http://www.realxw.com/$1 permanent;
+
+        }
+
+
+
+
+
+
 
 # 有用的参考
 
