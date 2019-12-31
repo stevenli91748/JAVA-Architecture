@@ -417,3 +417,4 @@ c:\apache-tomcat-9.0.16
 * [Linux Tomcat日志查看实用命令](https://blog.csdn.net/qq_40803316/article/details/83582726)
 * [Linux下tomcat自起服务](https://blog.csdn.net/swiftly_654123/article/details/83903027)
 * [linux下配置，启动多个tomcat](https://blog.csdn.net/guorui303/article/details/1505442)
+* [服务器部署多个tomcat时需要修改的配置](https://blog.csdn.net/Jatham/article/details/80047119)
