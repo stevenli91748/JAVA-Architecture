@@ -62,6 +62,8 @@
        
          
  * 第四步 启动tomcat
+         查看tomcat的安装目录
+         [root]# cat /etc/profile
  
          [root@single src]# cd apache-tomcat-7.0.77/bin
          [root@single bin]# ./startup.sh  
