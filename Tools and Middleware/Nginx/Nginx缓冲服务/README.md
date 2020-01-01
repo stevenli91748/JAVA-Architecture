@@ -1,3 +1,8 @@
+# Nginx 缓冲
+
+      nginx可以通过expires设置缓存，比如我们可以针对图片做缓存。
+      在location中设置expires
+      格式： expires 30s|m|h|d
 
 
 
