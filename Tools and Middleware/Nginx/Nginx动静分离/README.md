@@ -23,3 +23,4 @@
 * [nginx 配置http服务器实现动静分离（一）](https://my.oschina.net/u/4034639/blog/3074294)
 * [Nginx动静分离实现负载均衡](https://cloud.tencent.com/developer/news/264359)
 * [nginx tomcat 动静分离配置](https://blog.csdn.net/a1161638319/article/details/78389247)
+* [基于前后端分离的Nginx+Tomcat动静分离](https://blog.csdn.net/weixin_34191845/article/details/93628653)
