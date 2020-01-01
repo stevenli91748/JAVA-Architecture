@@ -20,6 +20,7 @@
  >>>>[Server全局全局模块](#Server全局全局模块)
  >>>>[location](#location)
 
+* [/usr/local/nginx/conf/nginx.conf Nginx配置文件详解](https://blog.csdn.net/IsResultXaL/article/details/52032842)
  
 ## MAIN全局模块
 
