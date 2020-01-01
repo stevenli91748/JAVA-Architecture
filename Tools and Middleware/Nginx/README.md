@@ -29,6 +29,11 @@
 [手机站点和PC站点的分离](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Nginx/手机站点和PC站点的分离/README.md)|
 ---|
 
+# 实验：
+
+[虚拟主机配置例子实战](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Nginx/Nginx基础/虚拟主机配置例子实战.md)|
+---|
+
 
 
 ### Nginx概述
