@@ -26,6 +26,9 @@
 
 
 # 有用的参考
+# 有用的参考
+
+* [Nginx反向代理、负载均衡、动静分离、缓存、压缩、防盗链、跨域访问](https://www.cnblogs.com/ph7seven/p/9932712.html)
 
 * [Nginx实现动静分离](https://www.jianshu.com/p/037a088eca4f)
 * [nginx 配置http服务器实现动静分离（一）](https://my.oschina.net/u/4034639/blog/3074294)
