@@ -68,3 +68,4 @@ tomcat的优势在于少量的接收并处理复杂的http请求（将用户请�
 * [打造3百万次请求/秒的高性能服务器集群第二部分](https://www.cnblogs.com/JohnABC/p/5264687.html)
 * [Nginx安装及配置实战--重要](https://blog.csdn.net/yuanfangPOET/article/details/83446907)
 * [Nginx反向代理、负载均衡、动静分离、缓存、压缩、防盗链、跨域访问](https://www.cnblogs.com/ph7seven/p/9932712.html)
+* [Nginx实战（共十一章）总述&汇总](https://blog.csdn.net/ouyida3/article/details/86771967)
