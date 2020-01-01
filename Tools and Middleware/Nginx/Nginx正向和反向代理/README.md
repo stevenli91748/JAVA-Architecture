@@ -26,6 +26,9 @@
 
 
 # 有用的参考
+# 有用的参考
+
+* [Nginx反向代理、负载均衡、动静分离、缓存、压缩、防盗链、跨域访问](https://www.cnblogs.com/ph7seven/p/9932712.html)
 
 * [nginx反向代理实例](https://www.cnblogs.com/hanmk/p/9289069.html)
 * [Nginx正向代理与反向代理](https://www.jianshu.com/p/ae76c223c6ef)
