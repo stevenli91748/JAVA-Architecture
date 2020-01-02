@@ -17,3 +17,4 @@
  # 有用的参考
  
  * [Keepalived安装与配置](https://www.linuxidc.com/Linux/2017-02/140421.htm)
+* [keepalived的配置详解（非常详细）](https://blog.csdn.net/u014022631/article/details/79970238)
