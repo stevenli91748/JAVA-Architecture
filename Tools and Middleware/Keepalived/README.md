@@ -18,3 +18,4 @@
  
  * [Keepalived安装与配置](https://www.linuxidc.com/Linux/2017-02/140421.htm)
 * [keepalived的配置详解（非常详细）](https://blog.csdn.net/u014022631/article/details/79970238)
+* [keepalived详解 及 keepalived配置LVS高可用集群](https://blog.csdn.net/tjiyu/article/details/52891835)
