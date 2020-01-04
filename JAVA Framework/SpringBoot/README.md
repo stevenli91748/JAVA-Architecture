@@ -50,6 +50,8 @@ Spring Boot 并不是用来替代 Spring 的解决方案，而是和 Spring 框�
  * [尚硅谷SpringBoot整合篇](https://www.bilibili.com/video/av23284778/?spm_id_from=333.788.videocard.7)
  * [尚硅谷SpringBoot核心技术课程完整版](https://www.bilibili.com/video/av46503510/?spm_id_from=333.788.videocard.0)
  * [SpringBoot视频教程(idea版)_2019权威教程](https://www.bilibili.com/video/av38657363?from=search&seid=2329343007218467895)
+ * [SpringBoot2.0+Shiro+Jwt+SpringDataJpa框架的Saas多租户基于前后端分离进行开发](https://www.bilibili.com/video/av75572951?from=search&seid=553876227072387657)
+ 
 # 有用的参考
 
   * [Spring Boot中使用Swagger2构建强大的RESTful API文档](http://blog.didispace.com/springbootswagger2/)
