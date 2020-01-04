@@ -132,7 +132,8 @@ Open API开放平台必然涉及到客户应用的接入、API权限的管理、
   * [京东等大厂必备的api网关构建实战](https://www.bilibili.com/video/av71341301?from=search&seid=12766503076032577278)
   * [2019年互联网企业必备高质量API网关接口设计（系统实战全集](https://www.bilibili.com/video/av60753511?from=search&seid=12766503076032577278)
  * [2019千锋软件测试-接口测试全套视频教程](https://www.bilibili.com/video/av63249355/?spm_id_from=333.788.videocard.6)
-
+ * [SpringBoot2.0+Shiro+Jwt+SpringDataJpa框架的Saas多租户基于前后端分离进行开发](https://www.bilibili.com/video/av75572951?from=search&seid=553876227072387657)
+  
 # 有用的参考
 
   * [Spring Boot中使用Swagger2构建强大的RESTful API文档](http://blog.didispace.com/springbootswagger2/)
