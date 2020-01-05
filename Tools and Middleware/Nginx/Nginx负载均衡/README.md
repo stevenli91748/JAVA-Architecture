@@ -41,3 +41,4 @@
 * [nginx+keepalived搭建高可用负载均衡(双主模式)](https://blog.csdn.net/qq_34021712/article/details/73441168)
 * [Nginx 动态负载 upstream 三种方案](https://blog.csdn.net/weixin_33978044/article/details/91639848)
 * [Linux下Nginx负载均衡多个tomcat配置](https://blog.csdn.net/weixin_33446857/article/details/80918723)
+* [Nginx集群（负载均衡）](https://www.cnblogs.com/xiugeng/p/10155283.html)
