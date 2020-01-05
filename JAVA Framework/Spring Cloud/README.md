@@ -62,6 +62,7 @@
 # 有用的参考
 
 * [Spring Cloud Examples](https://github.com/ityouknow/spring-cloud-examples)
+* [Spring Cloud 资源大全](https://github.com/ityouknow/awesome-spring-cloud)
 * [Spring Cloud 从入门到精通](http://blog.didispace.com/spring-cloud-learning/) 
 * [Spring Cloud 中文官网](https://springcloud.cc/)
 * [SpringCloud微服务架构之服务注册与发现](http://objcoding.com/2017/05/07/SpringCloud%281%29/)
