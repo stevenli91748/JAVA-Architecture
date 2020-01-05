@@ -1,4 +1,43 @@
 
+* 服务注册与发现
+  * eureka
+  * consul
+  * zookeeper
+* 网关路由
+  * zuul1.x
+  * zuul2.x
+  * gateway
+* 服务调用
+  * Ribbon
+  * feign
+  * Hystrix
+* 链路监控中心
+  * 监控
+    * actuctor
+    * admin
+  * 链路监控
+    * sleuth
+    * zipkin
+* 消息中心
+  * Stream
+  * Bus
+* 配置中心
+  * git
+  * svn
+  * zookeeper
+* 认证授权中心
+  * security
+  * oauth
+  * jwt
+* 缓存中心
+  * data
+* 文档中心
+ * swagger
+  
+  
+
+
+
 
 ### 知识点
 
