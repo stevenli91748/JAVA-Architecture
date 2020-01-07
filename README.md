@@ -435,6 +435,7 @@ SQL语言|[MySQL](https://github.com/stevenli91748/Database/blob/master/MySQL/RE
 # 有用的参考
 
   * [学会了这些技术，你离BAT大厂不远了---技术架构路径图](https://blog.csdn.net/z694644032/article/details/100084287)
+  * [学完这100多技术，能当架构师么？](http://www.imooc.com/article/details/id/291107)
   * [Java Tutorial](http://tutorials.jenkov.com/java/index.html)
   * [Java 除了 Spring 还有什么](https://www.zhihu.com/question/320482163)
   * [如何规划学习步骤](https://blog.csdn.net/weixin_44135121/article/details/93226590)
