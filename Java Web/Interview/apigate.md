@@ -3,9 +3,14 @@
   
   [你的API有“状态”吗？](https://blog.csdn.net/annavijay/article/details/40374733)
 
-
 </details>
 
+<details>
+<summary> 软件开发中前端和后端如何协同开发和集成</summary>
+
+[软件开发中前端和后端如何协同开发和集成](https://www.jianshu.com/p/90754ac7857e)
+
+</details>
 
 1. 应用（APP）：用户需要创建APP作为调用API时的身份。
 
