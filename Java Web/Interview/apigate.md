@@ -1,3 +1,11 @@
+<details>
+<summary> 无状态API</summary>
+  
+  [你的API有“状态”吗？](https://blog.csdn.net/annavijay/article/details/40374733)
+
+
+</details>
+
 
 1. 应用（APP）：用户需要创建APP作为调用API时的身份。
 
