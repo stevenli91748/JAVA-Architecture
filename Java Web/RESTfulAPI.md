@@ -136,12 +136,12 @@ Open API开放平台必然涉及到客户应用的接入、API权限的管理、
   * [极速入门SpringCloud之API网关与服务发现](https://www.imooc.com/learn/1134)
 
 # 有用的参考
-
+  * [软件开发中前端和后端如何协同开发和集成](https://www.jianshu.com/p/90754ac7857e)
   * [Spring Boot中使用Swagger2构建强大的RESTful API文档](http://blog.didispace.com/springbootswagger2/)
   * [在 Spring Boot 项目中使用 Swagger 文档](https://www.ibm.com/developerworks/cn/java/j-using-swagger-in-a-spring-boot-project/index.html)
   * [一篇文章带你搞懂 SpringBoot与Swagger整合](https://blog.csdn.net/itguangit/article/details/78978296)
 
- * [软件开发中前端和后端如何协同开发和集成](https://www.jianshu.com/p/90754ac7857e)
+
  * [API 接口测试的全过程解析](https://gitchat.csdn.net/activity/5c2c65d22061ae3944327faa)
  * [新一代API管理 & 自动化测试平台]()
 
