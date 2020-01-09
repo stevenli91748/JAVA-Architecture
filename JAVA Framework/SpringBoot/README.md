@@ -1,8 +1,8 @@
 
 # 搭建环境
 
-[IDEA下从零开始搭建SpringBoot工程](https://blog.csdn.net/u013248535/article/details/55100979)|
----|
+[IDEA下从零开始搭建SpringBoot工程](https://blog.csdn.net/u013248535/article/details/55100979)|[建立SpringBoot工程的几种方法](#建立SpringBoot工程的几种方法)|
+---|---|
 
 
 # 目录
@@ -43,7 +43,7 @@ Spring Boot 并不是用来替代 Spring 的解决方案，而是和 Spring 框�
 * [1. Spring官方的构建页面来生成项目](http://blog.didispace.com/spring-boot-learning-1/)
 * [2. 使用Intellij中的Spring Initializr来快速构建Spring Boot/Cloud工程](http://blog.didispace.com/spring-initializr-in-intellij/)
 * [3. 使用Cloud Studio在线编写、调试和管理Spring Boot应用](http://blog.didispace.com/studio-coding-spring-boot-app/#)
-* [4. 通过Maven来手工构建]()
+* [4. 通过Maven来手工构建](https://blog.csdn.net/u013248535/article/details/55100979)
 * [5. 通过脚手架等方式快速搭建]()
 * [一站式SpringBoot for NoSQL Study Tutorial 开发教程学习手册](https://www.cnblogs.com/starcrm/p/9667830.html)
 
