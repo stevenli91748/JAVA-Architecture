@@ -60,6 +60,7 @@ Spring Boot 并不是用来替代 Spring 的解决方案，而是和 Spring 框�
   * [在 Spring Boot 项目中使用 Swagger 文档](https://www.ibm.com/developerworks/cn/java/j-using-swagger-in-a-spring-boot-project/index.html)
   * [一篇文章带你搞懂 SpringBoot与Swagger整合](https://blog.csdn.net/itguangit/article/details/78978296)
 
+  * [Spring Boot Tutorial](https://github.com/ganchaoyang/spring-tutorial)
   * [Springboot 整合 Mybatis 的完整 Web 案例](https://zhuanlan.zhihu.com/p/25959187)
   * [SpringBoot常用注解大全](https://zhuanlan.zhihu.com/p/59110902)
   * [SpringBoot 究竟是如何跑起来的?](https://zhuanlan.zhihu.com/p/54146400)
