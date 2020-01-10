@@ -1,5 +1,6 @@
 
-
+@Autowired|@Qualifier|@Resource|@Component|@Repository|@Service|@Controller|@RestController|
+---|---|---|---|---|---|---|---|
 
 
 # 有用的参考
