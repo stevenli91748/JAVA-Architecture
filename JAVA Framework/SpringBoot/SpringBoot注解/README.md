@@ -1,10 +1,10 @@
 
 
-@SpringBootApplication|@RestController|@SpringBootConfiguration|
----|---|---|
+@SpringBootApplication|@RestController|@SpringBootConfiguration|@ComponentScan|
+---|---|---|---|
 
-@EnableAutoConfiguration|@ComponentScan|
----|---|
+@EnableAutoConfiguration|
+---|
 
 
 
