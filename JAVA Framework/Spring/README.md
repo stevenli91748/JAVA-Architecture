@@ -2,8 +2,8 @@
 # [Spring知识点面试](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Interview/README.md)
 
 
-[Spring常用注解](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring常用注解/README.md)|
----|
+[Spring常用注解](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring常用注解/README.md)|[Spring实例化bean的三种方法](https://www.cnblogs.com/liwendeboke/p/6228129.html)|
+---|---|
 
 
 # 目录
