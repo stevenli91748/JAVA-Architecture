@@ -28,3 +28,4 @@
 * [AOP的两种实现-Spring AOP以及AspectJ](https://www.cnblogs.com/john8169/p/9780502.html)
 * [spring aop原理和实现](https://www.cnblogs.com/JavaZhangXu/p/10109642.html)
 * [SpringAOP面向切面编程](https://www.cnblogs.com/SimpleWu/p/9652700.html)
+* [Spring--通过注解来配置bean](https://www.cnblogs.com/dreamfree/p/4090746.html)
