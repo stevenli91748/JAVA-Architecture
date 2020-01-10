@@ -61,6 +61,7 @@ Spring Boot 并不是用来替代 Spring 的解决方案，而是和 Spring 框�
 # 有用的参考
 
   * [Spring Boot 学习Sample](https://github.com/ityouknow/spring-boot-examples)
+  * [快速学习SpringBoot技术栈](https://www.jianguoyun.com/p/De_2rM0Q3o_SBhiu1Dw#)
   * [Spring Boot 精选课程](https://github.com/ityouknow/spring-boot-leaning)
   * [Spring Boot中使用Swagger2构建强大的RESTful API文档](http://blog.didispace.com/springbootswagger2/)
   * [在 Spring Boot 项目中使用 Swagger 文档](https://www.ibm.com/developerworks/cn/java/j-using-swagger-in-a-spring-boot-project/index.html)
