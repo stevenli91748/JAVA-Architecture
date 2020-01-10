@@ -1,9 +1,9 @@
 
+# SpringBoot 基础知识
+[SpringBoot注解](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot注解/README.md)|[springboot基本原理(知识点)](https://blog.csdn.net/z446981439/article/details/103822257)|
+---|---|
+
 # 搭建环境
-
-[SpringBoot注解](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot注解/README.md)|
----|
-
 
 [IDEA下从零开始搭建SpringBoot工程](https://blog.csdn.net/u013248535/article/details/55100979)|[建立SpringBoot工程的几种方法](#建立SpringBoot工程的几种方法)|
 ---|---|
