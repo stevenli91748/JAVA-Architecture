@@ -161,7 +161,7 @@ Open API开放平台必然涉及到客户应用的接入、API权限的管理、
   * [Spring Boot中使用Swagger2构建强大的RESTful API文档](http://blog.didispace.com/springbootswagger2/)
   * [在 Spring Boot 项目中使用 Swagger 文档](https://www.ibm.com/developerworks/cn/java/j-using-swagger-in-a-spring-boot-project/index.html)
   * [一篇文章带你搞懂 SpringBoot与Swagger整合](https://blog.csdn.net/itguangit/article/details/78978296)
-
+  * [面试官：你连RESTful都不知道我怎么敢要你？](https://blog.csdn.net/kebi007/article/details/102927209)
 
  * [API 接口测试的全过程解析](https://gitchat.csdn.net/activity/5c2c65d22061ae3944327faa)
  * [新一代API管理 & 自动化测试平台]()
