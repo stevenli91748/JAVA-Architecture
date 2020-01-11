@@ -21,7 +21,11 @@
 * [基于springboot+bootstrap+mysql+redis搭建一套完整的权限架构](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/实验/基于springboot%2Bbootstrap%2Bmysql%2Bredis搭建一套完整的权限架构.md)
 * [SpringBoot2.0集成WebSocket，实现后台向前端推送信息](https://blog.csdn.net/moshowgame/article/details/80275084)
 * [想要快速上手 Spring Boot？看这些教程就足够了](https://blog.csdn.net/dgqvhtlwq472235338/article/details/101415016)
+* [使用Spring Boot+Dubbo+Zookeeper搭建第一个分布式项目(详细介绍如何搭建分布式项目，上篇)](https://blog.csdn.net/weixin_42146366/article/details/90268062)
+* [使用Spring Boot+Dubbo+Zookeeper搭建第一个分布式项目(详细介绍如何搭建分布式项目，下篇)](https://blog.csdn.net/weixin_42146366/article/details/90268555)
 
+* [分布式Restful SpringBoot骨架搭建](https://blog.csdn.net/songxinjianqwe/article/details/77478385)
+* [SpringBoot+SpringSession+Redis实现session共享及单点登录](https://blog.csdn.net/xjj1040249553/article/details/82658889)
 
 
 # 目录
