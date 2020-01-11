@@ -32,3 +32,4 @@
 * [spring aop原理和实现](https://www.cnblogs.com/JavaZhangXu/p/10109642.html)
 * [SpringAOP面向切面编程](https://www.cnblogs.com/SimpleWu/p/9652700.html)
 * [Spring--通过注解来配置bean](https://www.cnblogs.com/dreamfree/p/4090746.html)
+* [10分钟详解Spring全家桶7大知识点](https://zhuanlan.zhihu.com/p/59327709?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
