@@ -5,6 +5,12 @@
 [Spring常用注解](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring常用注解/README.md)|[Spring实例化bean的三种方法](https://www.cnblogs.com/liwendeboke/p/6228129.html)|[超详细Spring知识点汇总](https://blog.csdn.net/pingdouble/article/details/79526068)|[Spring如何学](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring如何学.md)|
 ---|---|---|---|
 
+[IOC/DI 控制反转](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring基础知识/IOC控制反转.md)|[Context&&Bean](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring基础知识/context上下文和bean.md)|[AOP 面向切面编程](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring基础知识/AOP.md)|
+---|---|---|
+
+
+
+
 # 实验
 
 * [史上最详细的IDEA优雅整合Maven+SSM框架（详细思路](https://blog.csdn.net/qq_44543508/article/details/100192558)
