@@ -5,14 +5,9 @@
 [Spring常用注解](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring常用注解/README.md)|[Spring实例化bean的三种方法](https://www.cnblogs.com/liwendeboke/p/6228129.html)|[超详细Spring知识点汇总](https://blog.csdn.net/pingdouble/article/details/79526068)|[Spring如何学](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring如何学.md)|
 ---|---|---|---|
 
-# Spring体系结构
+# 实验
 
-graph TB
-  A1-->B1
-  A2---B2
-
-
-
+* [史上最详细的IDEA优雅整合Maven+SSM框架（详细思路](https://blog.csdn.net/qq_44543508/article/details/100192558)
 
 # 目录
 * [Spring源代码分析](https://github.com/stevenli91748/JAVA-Architecture/blob/master/SourceCode/SpringSourceCode.md)
