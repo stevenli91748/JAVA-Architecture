@@ -17,7 +17,9 @@
 # 实验
 
 * [基于SpringBoot开发一套完整的项目](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/实验/基于SpringBoot开发一套完整的项目.md)
-
+* [一个列子让你弄懂SpringBoot实现后台框架的搭建](https://blog.csdn.net/qq_33883389/article/details/81322481)
+* [基于springboot+bootstrap+mysql+redis搭建一套完整的权限架构](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/实验/基于springboot%2Bbootstrap%2Bmysql%2Bredis搭建一套完整的权限架构.md)
+* [SpringBoot2.0集成WebSocket，实现后台向前端推送信息](https://blog.csdn.net/moshowgame/article/details/80275084)
 
 
 
