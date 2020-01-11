@@ -101,3 +101,4 @@ Spring Boot 并不是用来替代 Spring 的解决方案，而是和 Spring 框�
   * [SpringBoot内容聚合---非常强大](https://mp.weixin.qq.com/s?__biz=MzI4Njc5NjM1NQ==&mid=2247488811&idx=2&sn=0d054027651bef114ae6bec5a8f62359&chksm=ebd62a07dca1a3111269692dd9b0a5ab8af7d2038b8ec6600a057573364e76db1332adc5fd46&scene=21)
  * [SpringBoot 在IDEA中实现热部署(实用版)](https://www.jianshu.com/p/f658fed35786)
  * [springboot项目快速搭建](https://blog.csdn.net/wjg8209/article/details/94546110#comments)
+* [SpringBoot多数据源中的分布式事务](https://blog.csdn.net/weixin_37158722/article/details/103224786)
