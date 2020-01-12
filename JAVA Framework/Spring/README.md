@@ -4,7 +4,7 @@
 ```markdown                                             
 |item 1|item 2|                                         
 |----|---|                                              
-mysql|nginx|                                            
+|mysql|nginx|                                            
 ```                                                     
 
 
