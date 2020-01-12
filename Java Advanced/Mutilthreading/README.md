@@ -3,6 +3,8 @@
 
 # 多线程目录
 
+<a href="https://ibb.co/8ss6Hc3"><img src="https://i.ibb.co/pwwJSyD/thread2019050823383080.png" alt="thread2019050823383080" border="0"></a>
+
 * 操作系统
   * 进程和线程
   * 存储和寻址
