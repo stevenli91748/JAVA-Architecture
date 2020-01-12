@@ -1,6 +1,27 @@
 
-@Autowired|@Qualifier|@Resource|@Component|@Repository|@Service|@Controller|@RestController|
+# 类型类
+
+@Controller|@Service|@Repository|@Component|@Configuration|@Bean|
+---|---|---|---|---|---|
+
+# 设置类
+
+@Required|@Autowired|@Qualifier|@Scope|
+---|---|---|---|
+
+# Web类
+
+@RequestMapping|@GetMapping|@PostMapping|@PathVariable|@RequestParam|@RequestBoy|@ResponseBody|
+---|---|---|---|---|---|---|
+
+
+# 功能类
+
+@ImportResource|@ComponentScan|@EnableCaching|@Cacheable|@Transactional|@Aspect|@Pointcut|@Scheduled|
 ---|---|---|---|---|---|---|---|
+
+
+
 
 
 # 有用的参考
