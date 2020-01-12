@@ -1,7 +1,7 @@
 
 # 类型类
 
-@Controller|@Service|@Repository|@Component|@Configuration|@Bean|
+[@Controller](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring常用注解/%40Controller.md)|[@Service](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring常用注解/%40Service.md)|[@Repository](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring常用注解/%40Repository.md)|[@Component](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring常用注解/%40Component.md)|[@Configuration](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring常用注解/%40Configuration.md)|[@Bean](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring常用注解/%40Bean.md)|
 ---|---|---|---|---|---|
 
 # 设置类
