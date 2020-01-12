@@ -17,21 +17,36 @@
 
 # 启动流程
 
+主要步骤首先要配置environment，然后准备context上下文，包括执行applicationContext的后置处理、初始化initializer、通知listener处理
+contextPrepared和contextLoaded事件。最后执行refreshContext，也就是前面介绍过的AbstractApplicationContext类的refresh方法。
+
 PrepareEnvironment|CreateApplicationContext|PostProcessApplicationContext|
 ---|---|---|
 
 applyinitializers|listeners.contextPrepared|listeners.contextLoaded|refreshContext|
 ---|--|---|---|
 
-
-
 # 配置文件
+
+然后要知道在Spring Boot中有两种上下文，一种是bootstrap, 另外一种是application。
+
+bootstrap是应用程序的父上下文，也就是说bootstrap会先于applicaton加载。bootstrap主要用于从额外的资源来加载配置信息，还可以在本地外部配置文件中解密属性。bootstrap里面的属性会优先加载，默认也不能被本地相同配置覆盖。
 
 bootstrap|application|
 ---|---|
 
+# 特色模块
 
-# 模块
+starter是springboot提供的无缝集成功能的一种方式，使用某个功能时开发者不需要关注各种依赖库的处理，不需要具体的配置信息，由Spring Boot自动配置进行
+
+bean的创建。例如需要使用web功能时，只需要在依赖中引入spring-boot-starter-web即可。
+
+actuator是用来对应用程序进行监视和管理，通过restful api请求来监管、审计、收集应用的运行情况。
+
+devtools提供了一系列开发工具的支持，来提高开发效率。例如热部署能力等。
+
+CLI就是命令行接口，是一个命令行工具，支持使用Groovy脚本，可以快速搭建spring原型项目。
+
 
 starter|actuator|devtools|cli|
 ---|---|---|---|
