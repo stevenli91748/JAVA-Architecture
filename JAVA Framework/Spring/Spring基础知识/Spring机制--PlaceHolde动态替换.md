@@ -1,2 +1,6 @@
 
 主要需要了解替换发生的时间，是在bean definition创建完成后，bean初始化之前，是通过实现BeanFactoryPostProcessor接口实现的。主要实现方式有PropertyPlaceholderConfigurer和PropertySourcesPlaceholderConfigurer。这两个类实现逻辑不一样，spring boot使用PropertySourcesPlaceholderConfigurer实现。
+
+
+PropertyPlaceholderConfigurer|PropertySourcesPlaceholderConfigurer|
+---|---|
