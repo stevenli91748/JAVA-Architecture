@@ -15,6 +15,26 @@
 [Springboot启动原理解析](https://zhuanlan.zhihu.com/p/60475611)|
 ---|
 
+# 启动流程
+
+PrepareEnvironment|CreateApplicationContext|PostProcessApplicationContext|
+---|---|---|
+
+applyinitializers|listeners.contextPrepared|listeners.contextLoaded|refreshContext|
+---|--|---|---|
+
+
+
+# 配置文件
+
+bootstrap|application|
+---|---|
+
+
+# 模块
+
+starter|actuator|devtools|cli|
+---|---|---|---|
 
 
 
