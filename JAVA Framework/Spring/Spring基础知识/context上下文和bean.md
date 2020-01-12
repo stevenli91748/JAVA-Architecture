@@ -52,7 +52,36 @@ spring进行IOC实现时使用的有两个概念：context上下文和bean。
       至此，spring的context初始化完成。这里仅介绍了最主要的主流程，建议课后阅读源码来复习这个知识点，补全细节。
 
 
-
-
-
 # Bean
+
+## Spring中bean的生命周期
+
+<a href="https://ibb.co/bbsgfpF"><img src="https://i.ibb.co/xF1S4VY/bean39c8b381b7a-r.jpg" alt="bean39c8b381b7a-r" border="0"></a>
+
+        面试中经常问到的bean的生命周期，先看绿色的部分，bean的创建过程：
+
+        第1步：调用bean的构造方法创建bean；
+
+        第2步：通过反射调用setter方法进行属性的依赖注入；
+
+        第3步：如果实现BeanNameAware接口的话，会设置bean的name；
+
+        第4步：如果实现了BeanFactoryAware，会把bean factory设置给bean；
+
+        第5步：如果实现了ApplicationContextAware，会给bean设置ApplictionContext；
+
+        第6步：如果实现了BeanPostProcessor接口，则执行前置处理方法；
+
+        第7步：实现了InitializingBean接口的话，执行afterPropertiesSet方法；
+
+        第8步：执行自定义的init方法；
+
+        第9步：执行BeanPostProcessor接口的后置处理方法。
+
+        这时，就完成了bean的创建过程。
+
+        在使用完bean需要销毁时，会先执行DisposableBean接口的destroy方法，然后在执行自定义的destroy方法。
+
+        这部分也建议阅读源码加深理解。
+
+
