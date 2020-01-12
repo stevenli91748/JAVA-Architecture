@@ -7,11 +7,11 @@
 ---|---|---|---|---|---|
 
 # 数据訪问
-JDBC|ORM|OXM|JMS|TRANSACTIONS|
+[JDBC](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E7%BB%84%E4%BB%B6---JDBC.md)|[ORM](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E7%BB%84%E4%BB%B6---ORM.md)|[OXM](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E7%BB%84%E4%BB%B6---OXM.md)|[JMS](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E7%BB%84%E4%BB%B6---JMS.md)|[TRANSACTIONS](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E7%BB%84%E4%BB%B6---TRANSACTIONS.md)|
 ---|---|---|---|---|
 
 # WEB
-WebSocket|Servlet|web|webflux|
+[WebSocket](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E7%BB%84%E4%BB%B6---WebSocket.md)|Servlet|[web](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E7%BB%84%E4%BB%B6---Web.md)|[webflux](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E7%BB%84%E4%BB%B6---webflux.md)|
 ---|---|---|---|
 
 # 
