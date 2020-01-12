@@ -2,9 +2,9 @@
 # [Spring知识点面试](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Interview/README.md)
 
 
-| item1 | item2 |                           |item3|item4|                                         
-| ---- | --- |                              | ---| ---|                
-| mysql | nginx |                           |linux|oracle|                 
+| item1 | item2 |                           item3|item4|                                         
+| ---- | --- |                               ---| ---|                
+| mysql | nginx |                           linux|oracle|                 
 
 
 
