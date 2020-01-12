@@ -11,17 +11,19 @@
 
 # Web类
 
-@RequestMapping|@GetMapping|@PostMapping|@PathVariable|@RequestParam|@RequestBoy|@ResponseBody|
----|---|---|---|---|---|---|
+@RequestMapping|@GetMapping|@PostMapping|@PathVariable|@RequestParam|
+---|---|---|---|---|
 
+@RequestBoy|@ResponseBody|
+---|---|
 
 # 功能类
 
-@ImportResource|@ComponentScan|@EnableCaching|@Cacheable|@Transactional|@Aspect|@Pointcut|@Scheduled|
----|---|---|---|---|---|---|---|
+@ImportResource|@ComponentScan|@EnableCaching|@Cacheable|@Transactional|@Aspect|
+---|---|---|---|---|---|
 
-
-
+@Pointcut|@Scheduled|
+---|---|
 
 
 # 有用的参考
