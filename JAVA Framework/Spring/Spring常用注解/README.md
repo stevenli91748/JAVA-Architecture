@@ -6,23 +6,23 @@
 
 # 设置类
 
-@Required|@Autowired|@Qualifier|@Scope|
+[@Required](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring常用注解/%40Required.md)|[@Autowired](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring常用注解/%40Autowired.md)|[@Qualifier](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring常用注解/%40Qualifier.md)|[@Scope](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring常用注解/%40Scope.md)|
 ---|---|---|---|
 
 # Web类
 
-@RequestMapping|@GetMapping|@PostMapping|@PathVariable|@RequestParam|
+[@RequestMapping](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring常用注解/%40RequestMapping.md)|[@GetMapping](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring常用注解/%40GetMapping.md)|[@PostMapping](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring常用注解/%40PostMapping.md)|[@PathVariable](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring常用注解/%40PathVariable.md)|[@RequestParam](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring常用注解/%40RequestParam.md)|
 ---|---|---|---|---|
 
-@RequestBoy|@ResponseBody|
+[@RequestBody](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring常用注解/%40RequestBoy.md)|[@ResponseBody](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring常用注解/%40ResponseBody.md)|
 ---|---|
 
 # 功能类
 
-@ImportResource|@ComponentScan|@EnableCaching|@Cacheable|@Transactional|@Aspect|
+[@ImportResource](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring常用注解/%40ImportResource.md)|[@ComponentScan](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring常用注解/%40ComponentScan.md)|[@EnableCaching](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring常用注解/%40EnableCaching.md)|[@Cacheable](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring常用注解/%40Cacheable.md)|[@Transactional](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring常用注解/%40Transactional.md)|[@Aspect](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring常用注解/%40Aspect.md)|
 ---|---|---|---|---|---|
 
-@Pointcut|@Scheduled|
+[@Pointcut](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring常用注解/%40Pointcut.md)|[@Scheduled](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring常用注解/%40Scheduled.md)|
 ---|---|
 
 
