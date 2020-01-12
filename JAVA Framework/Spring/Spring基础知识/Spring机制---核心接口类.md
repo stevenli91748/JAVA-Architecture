@@ -1,1 +1,8 @@
+ApplicationContext保存了ioc的整个应用上下文，可以通过其中的beanfactory获取到任意到bean；
 
+BeanFactory主要的作用是根据bean definition来创建具体的bean；
+
+BeanWrapper是对Bean的包装，一般情况下是在spring ioc内部使用，提供了访问bean的属性值、属性编辑器注册、类型转换等功能，方便ioc容器用统一的方式来访问
+bean的属性；
+
+FactoryBean通过getObject方法返回实际的bean对象，例如motan框架中referer对service的动态代理就是通过FactoryBean来实现的。
