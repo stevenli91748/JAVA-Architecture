@@ -12,8 +12,8 @@
 [IOC/DI 控制反转](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring基础知识/IOC控制反转.md)|[Context&&Bean](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring基础知识/context上下文和bean.md)|[AOP 面向切面编程](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring基础知识/AOP.md)|
 ---|---|---|
 
-Spring框架|spring中机制和实现|
----|---|
+Spring框架|spring中机制和实现|spring应用相关|Spring中bean的生命周期|Spring扩展接口|
+---|---|---|---|---|
 
 
 # 实验
