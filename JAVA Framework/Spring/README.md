@@ -1,11 +1,11 @@
 
 # [Spring知识点面试](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Interview/README.md)
 
-```markdown                                              ```markdown
-|item 1|item 2|                                          |item 3| item 4|
-|----|---|                                               |---|---|
-mysql|nginx|                                             |linux|oracle|
-```                                                      ```
+```markdown                                             
+|item 1|item 2|                                         
+|----|---|                                              
+mysql|nginx|                                            
+```                                                     
 
 
 
