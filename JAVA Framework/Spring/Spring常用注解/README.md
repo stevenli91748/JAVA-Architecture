@@ -44,3 +44,4 @@
 # 有用的参考
 
 *  [Spring注解的意义](https://www.cnblogs.com/xiaoxi/p/5935009.html)
+* [Spring全注解式开发](https://blog.csdn.net/qq_35170365/article/details/81184435)
