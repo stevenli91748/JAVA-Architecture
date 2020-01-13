@@ -23,6 +23,10 @@
 # 实验
 
 * [史上最详细的IDEA优雅整合Maven+SSM框架（详细思路](https://blog.csdn.net/qq_44543508/article/details/100192558)
+* [xml方式配置IOC](https://blog.csdn.net/pingdouble/article/details/79526068)
+* [注解方式配置IOC](https://blog.csdn.net/pingdouble/article/details/79526068)
+* [xml方式配置AOP](https://blog.csdn.net/pingdouble/article/details/79526068)
+* [注解方式配置AOP](https://blog.csdn.net/pingdouble/article/details/79526068)
 
 # 目录
 * [Spring源代码分析](https://github.com/stevenli91748/JAVA-Architecture/blob/master/SourceCode/SpringSourceCode.md)
