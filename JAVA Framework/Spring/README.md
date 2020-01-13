@@ -54,3 +54,4 @@
 * [10分钟详解Spring全家桶7大知识点](https://zhuanlan.zhihu.com/p/59327709?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
 * [Spring解析，加载及实例化Bean的顺序（零配置）](https://blog.csdn.net/qq_27529917/article/details/79329809)
 * [Spring常见面试题总结（超详细回答）](https://blog.csdn.net/a745233700/article/details/80959716)
+* [基于maven开发spring项目需要配置的一些最基础的依赖](https://blog.csdn.net/rj1bww/article/details/71774568)
