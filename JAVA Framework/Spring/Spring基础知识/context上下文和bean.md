@@ -2,6 +2,7 @@
   * [Spring的Context的初始化流程](#Spring的Context的初始化流程)
 * [Bean](#Bean)
   * [spring bean是什么](https://www.awaimai.com/2596.html)
+  * [Spring中Bean及@Bean的理解](https://www.cnblogs.com/bossen/p/5824067.html)
   * [Spring中bean的生命周期](#Spring中bean的生命周期)
 
 # Context
