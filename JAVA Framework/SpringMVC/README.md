@@ -18,3 +18,4 @@
 * [SpringMVC启动原理](https://blog.csdn.net/qq_39385118/article/details/84261543)
 * [SpringMVC常见面试题总结（超详细回答）](https://blog.csdn.net/a745233700/article/details/80963758)
 * [基于maven的springMVC web项目的一些基本配置：](https://blog.csdn.net/rj1bww/article/details/71799268)
+* [IDEA创建基于maven的springMVC项目](https://blog.csdn.net/huangxin388/article/details/95756856)
