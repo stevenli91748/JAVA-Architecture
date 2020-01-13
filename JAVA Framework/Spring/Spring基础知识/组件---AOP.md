@@ -5,8 +5,7 @@ AOP动态代理|AOP静态代理|
 ---|--|
 
 
-[spring-aop]("面向切面编程")|[spring-aspects]("集成AspectJ")|[spring-instrument]("提供一些类级的工具支持和ClassLoader级的实现，用于服务器")|[spring-instrument-tomcat]("针对tomcat的instrument实现(包含了spring的tomcat设备代理)
-它们的完整依赖关系")|
+[spring-aop]("面向切面编程")|[spring-aspects]("集成AspectJ")|[spring-instrument]("提供一些类级的工具支持和ClassLoader级的实现，用于服务器")|[spring-instrument-tomcat]("针对tomcat的instrument实现包含了spring的tomcat设备代理它们的完整依赖关系")|
 ---|---|---|---|
 
 
