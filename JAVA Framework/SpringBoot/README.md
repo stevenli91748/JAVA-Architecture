@@ -112,6 +112,7 @@ Spring Boot 并不是用来替代 Spring 的解决方案，而是和 Spring 框�
 
 
 # Spring Boot视频
+ * [Java微服务架构（Spring Boot + Spring Cloud）](https://www.bilibili.com/video/av36042649?from=search&seid=15871128637146048672)
  * [SpringBoot实战教程（好评如潮）](https://www.bilibili.com/video/av45617671/?spm_id_from=333.788.videocard.0)
  * [SpringBoot 原理分析与知识点详解 （IDEA版）](https://www.bilibili.com/video/av52867311/?spm_id_from=333.788.videocard.13)
  * [教程：IDEA部署springboot程序到docker上](https://www.bilibili.com/video/av40407605/?spm_id_from=333.788.videocard.11)
