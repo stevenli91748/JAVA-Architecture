@@ -8,7 +8,7 @@
 # Spring MVC视频
  * [SpringMVC 2019_IDEA版](https://www.bilibili.com/video/av50213945/?spm_id_from=333.788.videocard.6)
  * [尚硅谷大数据_SpringMVC](https://www.bilibili.com/video/av61025246?from=search&seid=3612360283880520186)
-
+* [千锋Java：3天学会SpringMVC框架教程](https://www.bilibili.com/video/av45556876?from=search&seid=15013736168332447863)
 
 # 有用的参考
 * [Spring MVC 过时了吗？](https://www.zhihu.com/question/294282002)
