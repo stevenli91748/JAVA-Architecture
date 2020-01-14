@@ -162,6 +162,7 @@
 
 * [亿级流量电商详情页系统实战（第二版）：缓存架构+高可用服务架构+微服务](https://www.bilibili.com/video/av71494884/?spm_id_from=333.788.videocard.3)
 * [【学成在线】前后端分离式分布式微服务架构系统科技演讲·公开课](https://www.bilibili.com/video/av78225169/?spm_id_from=333.788.videocard.1)
+* [2019黑马头条推荐系统项目实战](https://www.bilibili.com/video/av68356229/?spm_id_from=333.788.videocard.7)
 * [分布式亿级高并发电商项目(14天)](https://www.bilibili.com/video/av32170669/?spm_id_from=333.788.videocard.9)
 * [尚学堂-分布式亿级高并发电商项目教程](https://www.bilibili.com/video/av47984582/?spm_id_from=333.788.videocard.1)
 * [微服务架构十大电商架构](https://www.yunpanjingling.com/resources/5da7c2a34b3f416a011033d4)
