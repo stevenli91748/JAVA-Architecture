@@ -23,6 +23,8 @@
 # 实验
 
 * [史上最详细的IDEA优雅整合Maven+SSM框架（详细思路](https://blog.csdn.net/qq_44543508/article/details/100192558)
+* [基于Maven在IDEA中用注解方式配置Spring](https://www.bilibili.com/video/av64742878?p=2)
+* [基于Maven在IDEA中用XML文件方式配置Spring](https://www.bilibili.com/video/av64742878?p=6)
 * [xml方式配置IOC](https://blog.csdn.net/pingdouble/article/details/79526068)
 * [注解方式配置IOC](https://blog.csdn.net/pingdouble/article/details/79526068)
 * [xml方式配置AOP](https://blog.csdn.net/pingdouble/article/details/79526068)
