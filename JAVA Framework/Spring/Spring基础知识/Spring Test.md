@@ -3,10 +3,12 @@
 1. 引认Spring单元测试模块
     1.1 maven: Junit   Spring-test
     1.2 RunWith(SpringJUnit4ClassRunner.class)
+    
 2.  加载配置类
     ContextConfiguration(classses=APPConfig.class)
     APPConfig.class 配置类是在项目中自定义的
-3.  然后在相关变量上注解，自动装载
+
+3.  然后在有参构造函数上注解，自动装载
     @Autowired
    
 4.  在要测试的方法上注解
