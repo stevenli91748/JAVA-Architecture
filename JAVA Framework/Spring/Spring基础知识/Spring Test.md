@@ -8,7 +8,7 @@
     ContextConfiguration(classses=APPConfig.class)
     APPConfig.class 配置类是在项目中自定义的
 
-3.  然后在有参构造函数上注解，自动装载
+3.  然后在有参构造函数上注解，自动装载这个参数到当前类所创造的Bean对象中
     @Autowired
    
 4.  在要测试的方法上注解
