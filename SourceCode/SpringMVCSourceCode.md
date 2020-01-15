@@ -3,6 +3,7 @@
 
  * [2019全网最全spring mvc底层框架原理源码深入分析 精品集](https://www.bilibili.com/video/av63994250?from=search&seid=12900862951832663015)
  * [最新Spring MVC SpringMVC 4 视频教程](https://www.bilibili.com/video/av15881080/?spm_id_from=333.788.videocard.7)
+ * [spring MVC设计思想](https://www.bilibili.com/video/av72006931?p=14)
  
 
 
