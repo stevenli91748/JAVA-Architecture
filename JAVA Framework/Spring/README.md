@@ -37,7 +37,7 @@
 
 # Spring 视频
 
-  * [spring框架教程(IDEA) 2019](https://www.bilibili.com/video/av64742878/?spm_id_from=333.788.videocard.1)
+  * [千锋Javaspring框架教程(IDEA) 2019--非常详细介绍了spring的三种装配方式: 1)自动装配 2)javaCongig 3)XML](https://www.bilibili.com/video/av64742878/?spm_id_from=333.788.videocard.1)
   * [spring 2019_IDEA版(上)](https://www.bilibili.com/video/av50155320/?spm_id_from=333.788.videocard.2)
   * [spring 2019_IDEA版(下)](https://www.bilibili.com/video/av50157169/?spm_id_from=333.788.videocard.0)
   
