@@ -144,6 +144,7 @@ Open API开放平台必然涉及到客户应用的接入、API权限的管理、
 
 # API网关视频
   * [接口自动化测试体系构建](https://www.bilibili.com/video/av75749911/?spm_id_from=333.788.videocard.1)
+  * [手把手教你做接口文档设计](https://www.bilibili.com/video/av47570402/?spm_id_from=333.788.videocard.4)
   * [微服务架构需要解决的问题---API网关](https://www.bilibili.com/video/av65833021?p=39)
   * [美团架构师-高质量api网关接口设计（实战精品合集）](https://www.bilibili.com/video/av59601665/?spm_id_from=333.788.videocard.2)
   * [java架构知识——大型互联网公司必备之高质量API网关组件实现](https://www.bilibili.com/video/av53757089/?spm_id_from=333.788.videocard.7)
