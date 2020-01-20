@@ -213,6 +213,7 @@
 * [尚硅谷】互联网大厂高频重点面试题（第2季](https://www.bilibili.com/video/av48958673?from=search&seid=3982535431121452257)
 * [尚硅谷面试](https://www.bilibili.com/video/av62285585?from=search&seid=6481752262698197941)
 * [2019最新Java高频重难点笔试面试通关秘籍](https://www.bilibili.com/video/av64213436?from=search&seid=4828143759422875222)
+* [Java面试题全集84集系列](https://www.bilibili.com/video/av29503459/?spm_id_from=333.788.videocard.9)
 
 # 有用的参考
 
