@@ -128,6 +128,7 @@ Spring Boot 并不是用来替代 Spring 的解决方案，而是和 Spring 框�
   * [Spring Boot 学习Sample](https://github.com/ityouknow/spring-boot-examples)
   * [构建微服务：Spring boot 入门篇系列--能够系统性的学习](https://www.cnblogs.com/ityouknow/p/5662753.html)
   * [快速学习SpringBoot技术栈](https://www.jianguoyun.com/p/De_2rM0Q3o_SBhiu1Dw#)
+  * [SpringBoot注解最全详解(整合超详细版本)](https://blog.csdn.net/weixin_40753536/article/details/81285046)
   * [Spring Boot 精选课程](https://github.com/ityouknow/spring-boot-leaning)
   * [Spring Boot中使用Swagger2构建强大的RESTful API文档](http://blog.didispace.com/springbootswagger2/)
   * [SpringBoot工作机制概述](https://blog.csdn.net/m0_37962779/article/details/78957309)
