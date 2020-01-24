@@ -419,3 +419,4 @@ c:\apache-tomcat-9.0.16
 * [Linux下tomcat自起服务](https://blog.csdn.net/swiftly_654123/article/details/83903027)
 * [linux下配置，启动多个tomcat](https://blog.csdn.net/guorui303/article/details/1505442)
 * [服务器部署多个tomcat时需要修改的配置](https://blog.csdn.net/Jatham/article/details/80047119)
+* [tomcat7插件将maven_web项目热部署到远程服务器](https://www.bilibili.com/video/av82792639?from=search&seid=13371764215596198302)
