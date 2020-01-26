@@ -123,6 +123,7 @@ Spring Boot 并不是用来替代 Spring 的解决方案，而是和 Spring 框�
  * [SpringBoot视频教程(idea版)_2019权威教程](https://www.bilibili.com/video/av38657363?from=search&seid=2329343007218467895)
  * [SpringBoot2.0+Shiro+Jwt+SpringDataJpa框架的Saas多租户基于前后端分离进行开发](https://www.bilibili.com/video/av75572951?from=search&seid=553876227072387657)
  * [Spring boot 项目打成war包部署到远程服务器tomcat](https://www.bilibili.com/video/av78310165/?spm_id_from=333.788.videocard.0)
+ * [SpringBoot项目实战 视频教程全集](https://www.bilibili.com/video/av62800055/?spm_id_from=333.788.videocard.8)
  
 # 有用的参考
 
