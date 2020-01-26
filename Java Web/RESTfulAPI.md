@@ -143,6 +143,7 @@ Open API开放平台必然涉及到客户应用的接入、API权限的管理、
 
 
 # API网关视频
+  * [快速构建标准RESTful API完成前后端分离开发](https://www.bilibili.com/video/av17305978/?spm_id_from=333.788.videocard.0)
   * [接口自动化测试体系构建](https://www.bilibili.com/video/av75749911/?spm_id_from=333.788.videocard.1)
   * [手把手教你做接口文档设计](https://www.bilibili.com/video/av47570402/?spm_id_from=333.788.videocard.4)
   * [微服务架构需要解决的问题---API网关](https://www.bilibili.com/video/av65833021?p=39)
