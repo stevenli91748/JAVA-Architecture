@@ -5,6 +5,7 @@
 # SSM视频
 
  * [尚硅谷SSM整合视频教程雷丰阳雷大神讲解(SSM整合开发是目前企业流行使用的框架整合方案)](https://www.bilibili.com/video/av35988777?from=search&seid=2329343007218467895)
+ * [Mybatis+Spring+SpringMVC+SSM案例](https://www.bilibili.com/video/av64585953/?spm_id_from=333.788.videocard.0)
  * [java高并发分布式SSM项目实战视频教](https://space.bilibili.com/7028047/channel/detail?cid=40223)
 
 # 有用的参考
