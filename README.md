@@ -335,7 +335,7 @@ Request和Response|React|[VUE.JS](https://github.com/stevenli91748/Frontend/blob
 
 # 第二阶段   数据库开发篇
 
-SQL语言|[MySQL](https://github.com/stevenli91748/Database/blob/master/MySQL/README.md)|ORACLE|PowerDesigner|[MongoDB](https://github.com/stevenli91748/Database/blob/master/MongoDB/README.md)|分布式数据库|[Redis缓存](https://github.com/stevenli91748/Database/blob/master/Redis/README.md)|[Mybatis](https://github.com/stevenli91748/Database/blob/master/Mybatis/README.md)|
+SQL语言|[MySQL](https://github.com/stevenli91748/Database/blob/master/MySQL/README.md)|ORACLE|[PowerDesigner](https://github.com/stevenli91748/Database/blob/master/PowerDesigner/README.md)|[MongoDB](https://github.com/stevenli91748/Database/blob/master/MongoDB/README.md)|分布式数据库|[Redis缓存](https://github.com/stevenli91748/Database/blob/master/Redis/README.md)|[Mybatis](https://github.com/stevenli91748/Database/blob/master/Mybatis/README.md)|
 ---|---|---|---|---|---|---|---|
 
 [ORM架构](https://github.com/stevenli91748/Database/blob/master/ORM/README.md)|数据库和SQL优化|数据库集群和高并发|[NoSQL](https://github.com/stevenli91748/Database/blob/master/NoSQL/README.md)|[Neo4j图形数据库](https://github.com/stevenli91748/Database/blob/master/Neo4j图形数据库/README.md)|[Hbase](https://github.com/stevenli91748/Database/blob/master/HBase/README.md)|[Mycat](https://github.com/stevenli91748/Database/blob/master/Mycat/README.md)|
