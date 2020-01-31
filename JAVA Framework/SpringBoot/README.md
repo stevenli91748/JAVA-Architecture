@@ -165,3 +165,4 @@ Spring Boot 并不是用来替代 Spring 的解决方案，而是和 Spring 框�
 * [SpringBoot多数据源中的分布式事务](https://blog.csdn.net/weixin_37158722/article/details/103224786)
 * [创建Spring Boot项目的几种方式总结](https://www.cnblogs.com/chansblogs/p/9293360.html)
 * [在Docker环境构建、打包和运行Spring Boot应用](http://dockone.io/article/9530)
+* [SpringBoot+Maven 多模块项目的构建、运行](https://www.jb51.net/article/140772.htm)
