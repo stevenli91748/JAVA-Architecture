@@ -19,3 +19,4 @@
 * [SpringMVC常见面试题总结（超详细回答）](https://blog.csdn.net/a745233700/article/details/80963758)
 * [基于maven的springMVC web项目的一些基本配置：](https://blog.csdn.net/rj1bww/article/details/71799268)
 * [IDEA创建基于maven的springMVC项目](https://blog.csdn.net/huangxin388/article/details/95756856)
+* [详解IDEA用maven创建springMVC项目和配置](https://www.jb51.net/article/124670.htm)
