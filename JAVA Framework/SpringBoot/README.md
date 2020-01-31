@@ -167,3 +167,8 @@ Spring Boot 并不是用来替代 Spring 的解决方案，而是和 Spring 框�
 * [在Docker环境构建、打包和运行Spring Boot应用](http://dockone.io/article/9530)
 * [SpringBoot+Maven 多模块项目的构建、运行](https://www.jb51.net/article/140772.htm)
 * [使用SpringBoot整合ssm项目的实例详解](https://www.jb51.net/article/150315.htm)
+* [spring boot整合mybatis利用Mysql实现主键UUID的方法](https://www.jb51.net/article/136207.htm)
+* [SpringBoot整合Elasticsearch并实现CRUD操作](https://www.jb51.net/article/136153.htm)
+* [SpringBoot整合Shiro实现登录认证的方法](https://www.jb51.net/article/135255.htm)
+
+
