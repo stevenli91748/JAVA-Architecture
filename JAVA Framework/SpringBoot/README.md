@@ -172,3 +172,8 @@ Spring Boot 并不是用来替代 Spring 的解决方案，而是和 Spring 框�
 * [SpringBoot整合Shiro实现登录认证的方法](https://www.jb51.net/article/135255.htm)
 * [Spring Boot整合mybatis并自动生成mapper和实体实例解析](https://www.jb51.net/article/139659.htm)
 * [Spring boot Mybatis 整合（完整版](https://www.jb51.net/article/146932.htm)
+* [springboot与mybatis整合实例详解(完美融合)](https://www.jb51.net/article/91800.htm)
+* [springboot+springmvc+mybatis项目整合](https://www.jb51.net/article/137563.htm)
+* [SpringBoot整合MyBatis逆向工程及 MyBatis通用Mapper实例详解](https://www.jb51.net/article/123822.htm)
+* [详解Spring Boot整合Mybatis实现 Druid多数据源配置](https://www.jb51.net/article/109452.htm)
+* [springboot整合mybatis将sql打印到日志的实例详解](https://www.jb51.net/article/130734.htm)
