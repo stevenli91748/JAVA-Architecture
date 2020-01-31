@@ -171,4 +171,4 @@ Spring Boot 并不是用来替代 Spring 的解决方案，而是和 Spring 框�
 * [SpringBoot整合Elasticsearch并实现CRUD操作](https://www.jb51.net/article/136153.htm)
 * [SpringBoot整合Shiro实现登录认证的方法](https://www.jb51.net/article/135255.htm)
 * [Spring Boot整合mybatis并自动生成mapper和实体实例解析](https://www.jb51.net/article/139659.htm)
-
+* [Spring boot Mybatis 整合（完整版](https://www.jb51.net/article/146932.htm)
