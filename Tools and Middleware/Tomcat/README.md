@@ -401,15 +401,13 @@ c:\apache-tomcat-9.0.16
 
 # Tomcat 视频
 
- [Tomcat从入门到精通](https://www.bilibili.com/video/av58099303?from=search&seid=17837694532059865818)
+ * [Tomcat从入门到精通](https://www.bilibili.com/video/av58099303?from=search&seid=17837694532059865818)
+ * [java进阶教程Tomcat核心原理解析](https://www.bilibili.com/video/av67233983?from=search&seid=12930421917432531946)
+ * [Tomcat知识点全集，你学会几个？](https://www.bilibili.com/video/av69510408/?p=5)
+ * [多个tomcat课程导学(上)](https://www.bilibili.com/video/av68236883/?p=1)
+ * [多个tomcat课程导学(下)](https://www.bilibili.com/video/av68237544/?spm_id_from=333.788.videocard.0)
+ * [程序员们一般怎样实现Tomcat--如何用JAVA捕抓到浏览器的请求 ](https://www.bilibili.com/video/av57114754?p=2)
  
- [java进阶教程Tomcat核心原理解析](https://www.bilibili.com/video/av67233983?from=search&seid=12930421917432531946)
-
- [Tomcat知识点全集，你学会几个？](https://www.bilibili.com/video/av69510408/?p=5)
- 
- [多个tomcat课程导学(上)](https://www.bilibili.com/video/av68236883/?p=1)
- 
- [多个tomcat课程导学(下)](https://www.bilibili.com/video/av68237544/?spm_id_from=333.788.videocard.0)
  
 # 有用的参考
 
