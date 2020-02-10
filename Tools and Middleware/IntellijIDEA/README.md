@@ -3,6 +3,12 @@
 
 [intellij IDEA 2019.3 Linux系统安装](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/IntellijIDEA/intellij%20IDEA%202019.3%20Linux系统安装/README.md)| [Intellij IDEA快捷键大全](https://blog.csdn.net/alik20/article/details/54881003)|
 ---|---|
+
+[IDEA中Debug javaScript功能](https://www.bilibili.com/video/av22537758?p=2)|[在IDEA中个性化配置JVM参数](https://www.bilibili.com/video/av22537758?p=1)|
+---|---|
+
+
+
 # 目录
 
 * [IntelliJ IDEA 的配置](#IntelliJ-IDEA-的配置)
