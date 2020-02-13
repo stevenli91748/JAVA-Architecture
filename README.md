@@ -178,6 +178,7 @@
 * [从零打造企业级电商后台管理系统](https://www.bilibili.com/video/av57082433/?spm_id_from=333.788.videocard.5)
 * [2019Java青橙商城项目实战-博x谷](https://www.bilibili.com/video/av64212234/?spm_id_from=333.788.videocard.4)
 * [Java企业级电商项目架构演进之路 Tomcat集群与Redis分布式](https://www.bilibili.com/video/av77880800?from=search&seid=4258377980332700343)
+* [Introduction to Web Development | Full Stack Web Development Tutorial Course](https://www.youtube.com/watch?v=EceJQ05KTf4&list=PLwoh6bBAszPrES-EOajos_E9gvRbL27wz)
 ### 尚硅谷
 
 * [2019尚硅谷谷粒商城微服务SpringBoot,Dubbo,MySql高级,Redis秒杀,ElasticSearch,ActiveMQ,SSO单点](https://www.bilibili.com/video/av55643074/?spm_id_from=333.788.videocard.13 "谷粒商城是一个高并发、高可用、分布式架构的电商网站. SpringBoot+MyBatisPlus+Dubbo+RabbitMQ+Redis+Elasticsearch+Docker/K8S +Vue.js完全分布式系统架构,高并发与压力测试、MySQL集群/读写分离、Elasticsearch分布式搜索集群、Redis缓存集群、Nginx+Lua分布式限流、Redis+Lua分布式锁、支付宝接口、Docker虚拟化容器部署、高并发秒杀解决方案、RabbitMQ消息中间件、MyCat分库分表、Canal订阅binlog抽取MySQL数据、Servlet3.0异步线程隔离、异步编排") 
