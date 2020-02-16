@@ -54,6 +54,9 @@
 分布式配置中心Spring Cloud Config详解
 
 # SpringCloud视频
+* [SpringCloud高可用微服务架构实战](https://www.bilibili.com/video/av48894754?from=search&seid=5921434574097814719)
+* [史上最新的SpringCloud互联网微服务架构项目实战](https://www.bilibili.com/video/av65636320/?spm_id_from=333.788.videocard.0)
+* [SpringCloud互联网微服务电商架构项目实战](https://www.bilibili.com/video/av48884712/?spm_id_from=333.788.videocard.0)
 * [Java微服务架构（Spring Boot + Spring Cloud）](https://www.bilibili.com/video/av36042649?from=search&seid=15871128637146048672)
 * [70万年薪的大佬带你理解-springcloud Hystrix峰控、容错机制是如何实现的](https://www.bilibili.com/video/av48702767/?spm_id_from=333.788.videocard.1)
 * [Spring Boot2.0 教程](https://www.bilibili.com/video/av37162103?p=1)
