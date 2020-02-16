@@ -177,7 +177,7 @@
 * [易购电商项目  SSM 2019](https://www.bilibili.com/video/av50875163/?spm_id_from=333.788.videocard.3)
 * [传智播客|JavaWeb网上图书商城完整项目](https://www.bilibili.com/video/av46815831/?spm_id_from=333.788.videocard.18)
 * [从零打造企业级电商后台管理系统](https://www.bilibili.com/video/av57082433/?spm_id_from=333.788.videocard.5)
-* [2019Java青橙商城项目实战-博x谷](https://www.bilibili.com/video/av64212234/?spm_id_from=333.788.videocard.4)
+* [2019Java青橙商城项目实战-IDEA版SSM大型分布式电商项目实战](https://www.bilibili.com/video/av80932917?from=search&seid=9392663643465024311)
 * [Java企业级电商项目架构演进之路 Tomcat集群与Redis分布式](https://www.bilibili.com/video/av77880800?from=search&seid=4258377980332700343)
 * [Introduction to Web Development | Full Stack Web Development Tutorial Course](https://www.youtube.com/watch?v=EceJQ05KTf4&list=PLwoh6bBAszPrES-EOajos_E9gvRbL27wz)
 ### 尚硅谷
