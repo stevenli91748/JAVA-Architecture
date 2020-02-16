@@ -36,7 +36,7 @@
 
 
 # Spring 视频
-
+  * [京东架构师由浅入深带你走进微服务架构核心spring项目实战](https://www.bilibili.com/video/av54750289?p=2)
   * [千锋Javaspring框架教程(IDEA) 2019--非常详细介绍了spring的三种装配方式: 1)自动装配 2)javaCongig 3)XML](https://www.bilibili.com/video/av64742878/?spm_id_from=333.788.videocard.1)
   * [spring 2019_IDEA版(上)](https://www.bilibili.com/video/av50155320/?spm_id_from=333.788.videocard.2)
   * [spring 2019_IDEA版(下)](https://www.bilibili.com/video/av50157169/?spm_id_from=333.788.videocard.0)
