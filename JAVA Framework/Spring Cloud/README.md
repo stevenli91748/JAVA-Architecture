@@ -65,7 +65,7 @@
 * [Spring cloud 核心组件实战](https://www.imooc.com/video/19575)
 
 # 有用的参考
-
+* [纯洁的微笑---Spring Cloud](http://www.ityouknow.com/spring-cloud)
 * [Spring Cloud Examples](https://github.com/ityouknow/spring-cloud-examples)
 * [Spring Cloud 资源大全](https://github.com/ityouknow/awesome-spring-cloud)
 * [Spring Cloud 从入门到精通](http://blog.didispace.com/spring-cloud-learning/) 
