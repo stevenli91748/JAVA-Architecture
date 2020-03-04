@@ -126,6 +126,7 @@ Spring Boot 并不是用来替代 Spring 的解决方案，而是和 Spring 框�
  * [SpringBoot项目实战 视频教程全集](https://www.bilibili.com/video/av62800055/?spm_id_from=333.788.videocard.8)
  * [Spring Boot+FastDFS实现分布式图片服务器视频](https://www.bilibili.com/video/av58752724/?spm_id_from=333.788.videocard.7)
  * [黑马乐优商城12月份完整版【锋哥版】](https://www.bilibili.com/video/av74750602/?spm_id_from=333.788.videocard.9)
+ * [4小时学会Spring Boot+Vue前后端分离开发](https://www.bilibili.com/video/av85793766?from=search&seid=25718754058418816)
 # 有用的参考
   * [Spring Boot 学习资料汇总](http://www.ityouknow.com/springboot/2015/12/30/springboot-collect.html)
   * [纯洁的微笑---Spring Boot](http://www.ityouknow.com/spring-boot.html)
