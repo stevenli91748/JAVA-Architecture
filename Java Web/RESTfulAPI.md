@@ -160,6 +160,7 @@ Open API开放平台必然涉及到客户应用的接入、API权限的管理、
   * [极速入门SpringCloud之API网关与服务发现](https://www.imooc.com/learn/1134)
   * [api设计第三版（node.js)](https://www.bilibili.com/video/av74605570?from=search&seid=5739552451698653385)
 # 有用的参考
+  * [正确甄别API & REST API & RESTful API & Web Service之间的差异与联系](https://juejin.im/post/5d07317e6fb9a07eac05d33c)
   * [软件开发中前端和后端如何协同开发和集成](https://www.jianshu.com/p/90754ac7857e)
   * [Spring Boot中使用Swagger2构建强大的RESTful API文档](http://blog.didispace.com/springbootswagger2/)
   * [在 Spring Boot 项目中使用 Swagger 文档](https://www.ibm.com/developerworks/cn/java/j-using-swagger-in-a-spring-boot-project/index.html)
