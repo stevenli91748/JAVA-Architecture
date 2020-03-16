@@ -42,6 +42,7 @@
   * [spring 2019_IDEA版(下)](https://www.bilibili.com/video/av50157169/?spm_id_from=333.788.videocard.0)
   
 # 有用的参考
+* [Spring面试题（2020最新版）](https://blog.csdn.net/ThinkWon/article/details/104397516)
 * [Java新手如何学习SSM三大框架---有很多的知识](https://www.zhihu.com/question/21142149/answer/310738460?hb_wx_block=1&utm_source=wechat_session&utm_medium=social&utm_oi=1119162453489045504)
 * [谈谈对Spring IOC的理解](https://blog.csdn.net/qq_22654611/article/details/52606960/)
 * [Spring面向切面编程](http://objcoding.com/2017/08/25/Spring-AOP/)
