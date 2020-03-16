@@ -76,6 +76,8 @@
   * 数据层设计
   * 前后端分离（RESTful API）
   
+  
+  
 # 第四阶段 高级框架阶段篇
 
   *  SOA软件架构
@@ -128,6 +130,7 @@
   * 线上调试神器-btrace
   * linux常用分析工具
   * IntelijiIDEA
+  * Navicat
   * Nginxb
   * NginxPlus
   * Tomcat
@@ -152,7 +155,10 @@
 
 # [第八阶段 Java 项目工程化和部署篇](https://github.com/stevenli91748/Engineering-special/blob/master/Interview/README.md)
 
+
 <a href="https://ibb.co/whbSPw7"><img src="https://i.ibb.co/xqc1BfY/image.jpg" alt="image" border="0"></a>
+
+## 项目工程化
 
   * Maven知识点
   * Git知识点
@@ -161,16 +167,19 @@
   * Gradle知识点
   * [Sonar知识点](https://github.com/stevenli91748/Engineering-special/blob/master/Sonar/Interview/README.md)
   * java代码规范
-  
-# [第九阶段 性能优化](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Performance/interview/性能优化知识点.md)
-
-<a href="https://ibb.co/qrYG2KT"><img src="https://i.ibb.co/rw2PXYD/2.jpg" alt="2" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>upload pic</a><br />
 
 ## 项目部暑  
   
   * Docker镜像技术
   * Harbor镜像倉库
   * Rancher容器管理
+
+
+
+# [第九阶段 性能优化](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Performance/interview/性能优化知识点.md)
+
+<a href="https://ibb.co/qrYG2KT"><img src="https://i.ibb.co/rw2PXYD/2.jpg" alt="2" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>upload pic</a><br />
+
 
 # 第十阶段 分布式亿级高并发电商项目篇
 
