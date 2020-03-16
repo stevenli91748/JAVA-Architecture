@@ -34,7 +34,7 @@
 
 
 # 有用的参考
-
+* [Netty面试题（2020最新版）](https://blog.csdn.net/ThinkWon/article/details/104391081)
 * [新手入门：目前为止最透彻的的Netty高性能原理和框架架构解析](http://www.52im.net/thread-2043-1-1.html)
 
 
