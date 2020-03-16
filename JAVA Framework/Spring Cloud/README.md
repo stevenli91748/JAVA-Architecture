@@ -65,6 +65,7 @@
 * [Spring cloud 核心组件实战](https://www.imooc.com/video/19575)
 
 # 有用的参考
+* [Spring Cloud面试题（2020最新版）](https://blog.csdn.net/ThinkWon/article/details/104397367)
 * [Spring Cloud 学习资料汇总](http://www.ityouknow.com/springcloud/2016/12/30/springcloud-collect.html)
 * [纯洁的微笑---Spring Cloud](http://www.ityouknow.com/spring-cloud)
 * [Spring Cloud Examples](https://github.com/ityouknow/spring-cloud-examples)
