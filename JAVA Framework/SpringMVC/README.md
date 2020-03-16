@@ -11,6 +11,7 @@
 * [千锋Java：3天学会SpringMVC框架教程](https://www.bilibili.com/video/av45556876?from=search&seid=15013736168332447863)
 
 # 有用的参考
+* [Spring MVC面试题（2020最新版）](https://blog.csdn.net/ThinkWon/article/details/104397427)
 * [Spring MVC 过时了吗？](https://www.zhihu.com/question/294282002)
 * [SpringMVC初始化过程](http://objcoding.com/2017/06/14/SpringMVC-initialization-process/)
 * [SpringMVC处理请求过程](http://objcoding.com/2017/06/15/SpringMVC-processing-request-process/)
