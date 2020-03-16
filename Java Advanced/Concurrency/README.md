@@ -40,6 +40,7 @@
  * [并发编程专题-java内存模型jmm与volatile关键字详解](https://www.bilibili.com/video/av61474893?from=search&seid=808943440095103708)
  * [JAVA开发工程师/并发编程利器aqs源码深度解读](https://www.bilibili.com/video/av61176596?from=search&seid=9591105149997618327)
 # 有用的参考
+* [并发编程面试题（2020最新版）](https://blog.csdn.net/ThinkWon/article/details/104863992)
 * [并发网系列文章集](http://ifeve.com/paper-set/)
 * [看动画学并发编程](https://sourceforge.net/projects/javaconcurrenta/)
 
