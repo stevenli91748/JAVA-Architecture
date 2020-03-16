@@ -216,8 +216,8 @@
 * [Java面试题全集84集系列](https://www.bilibili.com/video/av29503459/?spm_id_from=333.788.videocard.9)
 
 # 有用的参考
-
-  * [JAVA面试700问-english version ](https://www.careerride.com/advanced-java-interview-questions.aspx) 
+ * [Java知识体系最强总结(2020版)](https://blog.csdn.net/ThinkWon/article/details/103592572?utm_source=app)
+ * [JAVA面试700问-english version ](https://www.careerride.com/advanced-java-interview-questions.aspx) 
  * [2019最新整理JAVA面试题附答案](https://www.javazhiyin.com/42272.html)
  * [架构师之路：一个Java架构师需要掌握的知识技能，带思维导图](https://yq.aliyun.com/articles/672883?spm=a2c4e.11153940.0.0.40746773a6YrHE)
  * [Java知识体系及超全题库整理](https://www.jianshu.com/p/e2d53c2109b0)
