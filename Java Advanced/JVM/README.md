@@ -170,7 +170,8 @@
   
   
   
-# 参考书籍
+# 有用的参考书籍
+  * [Java虚拟机(JVM)面试题（2020最新版）](https://blog.csdn.net/ThinkWon/article/details/104390752)
   * [Java虚拟机内存分配机制与启动参数说明](https://blog.csdn.net/chengyun19830206/article/details/53244278)
   *  深入理解Java虚拟机_JVM高级特性与最佳实践.PDF
   *   HotSpot 实战.PDF
