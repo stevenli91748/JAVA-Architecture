@@ -18,7 +18,7 @@
  
 * [继承](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/继承.md)
 * [java 转义符](https://blog.csdn.net/stewen_001/article/details/22871737)  
-  
+* [Java进制](https://blog.csdn.net/ThinkWon/article/details/101643936)  
 * [接口](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/接口.md)
 * [Lambda标达式](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Lambda标达式.md)
 * [内部类](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/内部类.md)
