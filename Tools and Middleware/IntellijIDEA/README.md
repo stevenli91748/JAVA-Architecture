@@ -352,7 +352,7 @@
 
 # plugin
 
- ## Maven Helper插件
+## Maven Helper插件
   
      可在项目中查找到版本冲突的插件，并解决冲突。  
 
@@ -368,8 +368,25 @@
 
 ## CheckStyle
 
-## MyBatisCodeHelp
-    
+## Grep Console 可以设置不同级别log的字体颜色和背景色.
+
+## SonarLint -代码质量检查插件
+
+## Alibaba Java Coding Guidelines   阿里巴巴代码规范检查插件
+
+## Lombok plugin -简化实体类编写插件 代码注解插件
+
+## CodeGlance -代码地图
+
+## .ignore -git忽略文件
+
+## String Manipulation -一款强大的字符串转换工具
+
+## Key Promoter X -一款可以进行快捷键提示的插件
+
+## Iedis  Redis可视化
+
+## JUnitGenerator 单元测试测试生成工具
 
 # 视频
  * [2019Java青橙商城项目实战-IDEA版SSM大型分布式电商项目实战](https://www.bilibili.com/video/av80932917?from=search&seid=9392663643465024311)
