@@ -11,7 +11,7 @@
   * class
   * [enum](#enum)
   * extends
-  * [final](#final#finally#finalize)
+  * [final](#final-finally-finalize)
   * implements
   * interface
   * native
