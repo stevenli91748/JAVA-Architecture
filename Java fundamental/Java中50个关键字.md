@@ -1,8 +1,70 @@
 
 
-# [Java中50个关键字](https://blog.csdn.net/candy_day/article/details/79942153)
+# [Java中50个关键字](https://blog.csdn.net/ThinkWon/article/details/101642385)
 
-### abstract关键字
+* 訪问控制3个
+  * private
+  * portected
+  * public
+* 类 方法和变量修饰符14个  
+  * [abstract](#abstract)
+  * class
+  * enum
+  * extends
+  * final
+  * implements
+  * interface
+  * native
+  * new
+  * static
+  * strictfp
+  * synchronized
+  * transient
+  * volatile
+* 程序控制语句12个
+  * break
+  * case
+  * continue
+  * default
+  * do
+  * else
+  * for
+  * if
+  * instanceof
+  * return
+  * switch
+  * while
+* 错误处理6个
+  * assert
+  * catch
+  * finally
+  * throw
+  * throws
+  * try
+* 包2个
+  * import
+  * package
+* 基本数据类型8个
+  * boolean
+  * byte
+  * char
+  * double
+  * int
+  * float
+  * shout
+  * long
+* 变量引用3个
+  * super
+  * this
+  * void
+* default
+* exports
+* module
+* requires
+* var
+
+
+### abstract
 * [abstract class和interface区别](https://blog.csdn.net/b_boy_hong10/article/details/80273259)
 
 ### Assert关键字
