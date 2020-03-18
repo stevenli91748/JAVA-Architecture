@@ -9,9 +9,9 @@
 * 类 方法和变量修饰符14个  
   * [abstract](#abstract)
   * class
-  * enum
+  * [enum](#enum)
   * extends
-  * final
+  * [final](#final#finally#finalize)
   * implements
   * interface
   * native
@@ -70,12 +70,12 @@
 ### Assert关键字
 * [调试时的Assert用法](https://blog.csdn.net/jiang111_111shan/article/details/70186013)
 
-### enum关键字
+### enum
 * [枚举enum与多例设计](https://blog.csdn.net/qq_36582604/article/details/81408919)
 * [Java 枚举(enum) 详解7种常见的用法](https://blog.csdn.net/qq_27093465/article/details/52180865)
 * [java反射获取枚举值](https://blog.csdn.net/Bronze5/article/details/80214011)
 
-### final,finally,finalize
+### final finally finalize
 <details>
 <summary>使用final关键字修饰一个变量时，是引用不能变，还是引用的对象不能变?</summary>
  是引用不能变（final引用恒定不变），引用的对象内容还是可以变的
