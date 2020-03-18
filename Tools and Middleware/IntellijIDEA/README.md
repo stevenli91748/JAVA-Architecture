@@ -88,6 +88,8 @@
   * [Iedis  Redis可视化]
   * [JUnitGenerator 单元测试测试生成工具]
 
+* [Troubshooting](#Troubshooting)
+
 * IntelliJ IDEA 使用技巧
 
   * [Intellij IDEA神器居然还有这些小技巧](http://blog.didispace.com/intellij-idea-some-features-sam-1/)
