@@ -14,13 +14,13 @@
   * [final](#final-finally-finalize)
   * implements
   * interface
-  * native
-  * new
-  * static
-  * strictfp
-  * synchronized
+  * [native](#native)
+  * [new](#new)
+  * [static](#static)
+  * [strictfp](#strictfp)
+  * [synchronized](#synchronized)
   * transient
-  * volatile
+  * [volatile](#volatile)
 * 程序控制语句12个
   * break
   * case
@@ -30,14 +30,14 @@
   * else
   * for
   * if
-  * instanceof
+  * [instanceof](#instanceof)
   * return
   * switch
   * while
 * 错误处理6个
   * assert
   * catch
-  * finally
+  * [finally](#final-finally-finalize)
   * throw
   * throws
   * try
@@ -158,10 +158,10 @@ finally，当代码抛出一个异常时，就会终止方法中剩余代码的�
 * [final关键词在多线程环境中的使用](https://blog.csdn.net/xiaoxiaoxuanao/article/details/52573859)
 
 
-### instanceof关键字
+### instanceof
 * [Java instanceof用法详解](https://blog.csdn.net/kuangay/article/details/81563992)
 
-### static关键字
+### static
 <details>
 <summary>能否在运行时向 static final 类型的赋值</summary>
 不可以，被static final修饰的变量只能在被定义的时候或者类的静态代码块中初始化，一旦赋值后就不能在改变了。static final相当于类常量，就是在类被加载进内存的时候就要为属性分配内存，static块就是类被加载的时候执行且被执行一次，所以可以在其中进行初始化。
@@ -345,10 +345,10 @@ public class test {        //1.第一步，准备加载类
 * [Java里面 创建对象放在main方法外面为什么要用static修饰](https://www.zhihu.com/question/322912459/answer/674332458?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
 * [static方法能否被重写](https://blog.csdn.net/xiangwanpeng/article/details/52504274?locationNum=12&fps=1)
 
-### strictfp关键字
+### strictfp
 * [Java语言中关键字strictfp的用途](https://blog.csdn.net/redv/article/details/326444)
 
-### synchronized关键字
+### synchronized
 * [synchronized](https://blog.csdn.net/mingyundezuoan/article/details/79264644)
 * [synchronized(.class) synchronized(Object ) synchronized(this) 区别](https://blog.csdn.net/u011996917/article/details/80783471)
 * [Java语言中synchronized 修饰在 static方法和 非static方法的区别](https://blog.csdn.net/virgoboy2004/article/details/7585182)
@@ -387,7 +387,7 @@ transient关键字只能修饰变量，而不能修饰方法和类。注意，�
 * [简述serializable和transient关键字作用](https://blog.csdn.net/java__project/article/details/54960525)
 
 
-### new关键字
+### new
 * [java new 关键字到底做了什么？](https://blog.csdn.net/u010523770/article/details/68969482)
 * [Java中new和不new的区别](https://blog.csdn.net/xujiangdong1992/article/details/73910088)
 * [new和java反射的区别](https://blog.csdn.net/brucehome/article/details/17098971)
@@ -396,10 +396,10 @@ transient关键字只能修饰变量，而不能修饰方法和类。注意，�
 * [java中代理模式以及new和newInatance（）的区别](https://blog.csdn.net/lnjphjh/article/details/48752983)
 
 
-### native关键字
+### native
 * [java中native关键字的详解](https://blog.csdn.net/u013531824/article/details/21012655)
 
-### volatile关键字
+### volatile
 
 volatile是一个特殊的修饰符，只有成员变量才能使用它。在Java并发程序缺少同步类的情况下，多线程对成员变量的操作对其它线程是透明的。volatile变量可以保证下一个读取操作会在前一个写操作之后发生
 
