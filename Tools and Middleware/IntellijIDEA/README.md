@@ -396,6 +396,13 @@
 
 ## JUnitGenerator 单元测试测试生成工具
 
+
+# Troubshooting
+
+[IDEA中Maven依赖下载失败解决方案](https://blog.csdn.net/ThinkWon/article/details/101312918)|
+---|
+
+
 # 视频
  * [2019Java青橙商城项目实战-IDEA版SSM大型分布式电商项目实战](https://www.bilibili.com/video/av80932917?from=search&seid=9392663643465024311)
  * [2019】IntelliJ IDEA 入门到实战教程](https://www.bilibili.com/video/av71609179/?spm_id_from=333.788.videocard.3)
