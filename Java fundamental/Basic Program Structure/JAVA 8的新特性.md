@@ -14,7 +14,6 @@
 * [泛型和类型擦除](https://www.jianshu.com/p/1b5a6ecd1bdf)
 * 格式化输出
 * [ProcessBuilder](https://mkyong.com/java/java-processbuilder-examples/)
-* 内省
 * 线程并发库（JUC）
 * 监控和管理虚拟机
 * 元数据
