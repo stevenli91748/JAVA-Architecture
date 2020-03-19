@@ -12,6 +12,12 @@
 * 内省（introspector）
 * For-Each循环
 * [泛型和类型擦除](https://www.jianshu.com/p/1b5a6ecd1bdf)
+* 格式化输出
+* ProcessBuilder
+* 内省
+* 线程并发库（JUC）
+* 监控和管理虚拟机
+* 元数据
 
 # [JDK6新特性](https://www.cnblogs.com/peter1018/p/9165101.html)
 
@@ -30,7 +36,7 @@
 * Jtable的排序和过滤
 * 更简单更强大的JAX-WS
 
-# JDK7新特性
+# [JDK7新特性](https://www.cnblogs.com/peter1018/p/9177110.html)
 
 * switch中可以使用字符串了
 * 泛型实例化类型自动推断
@@ -45,7 +51,7 @@
 * 在try/catch异常扑捉中，一个catch可以写多个异常类型用|隔开
 * 可以不必要写finally语句来关闭资源，只要你在try()的括号内部定义要使用的资源
 
-# JDK8新特性
+# [JDK8新特性](https://www.cnblogs.com/peter1018/p/9183548.html)
 
 * 接口的默认方法
 * Lambda表达式
@@ -58,7 +64,7 @@
 * parallel streams(并行流)
 * Map数据结构改进
 
-# JDK9新特性
+# [JDK9新特性](https://www.cnblogs.com/peter1018/p/9209951.html)
 
 * Jigsaw模块化项目
 * 简化进程API
@@ -70,7 +76,7 @@
 * http2.0客户端
 * kulla计划
 
-# JDK10新特性
+# [JDK10新特性](https://www.cnblogs.com/peter1018/p/9234490.html)
 
 * 局部变量的类型推断
 * GC改进和内存管理
