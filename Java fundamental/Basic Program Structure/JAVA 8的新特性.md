@@ -13,7 +13,7 @@
 * For-Each循环
 * [泛型和类型擦除](https://www.jianshu.com/p/1b5a6ecd1bdf)
 
-# JDK6新特性
+# [JDK6新特性](https://www.cnblogs.com/peter1018/p/9165101.html)
 
 * Desktop类和SystemTray类
 * 使用JAXB2来实现对象与XML之间的映射
