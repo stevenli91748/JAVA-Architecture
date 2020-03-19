@@ -22,72 +22,73 @@
 # [JDK6新特性](https://www.cnblogs.com/peter1018/p/9165101.html)
 
 * Desktop类和SystemTray类
-* 使用JAXB2来实现对象与XML之间的映射
-* 理解STAX
-* 使用Compiler API
+* JAXB2实现对象与XML之间的映射
+* StAX
+* Compiler API
 * 轻量级 Http Server API
-* 插入式注解处理 API
-* 使用Console开发控制台程序
-* 对脚本语言的支持
+* 插入式注解处理API（Pluggable Annotation Processing API）
+* 用Console开发控制台程序
+* 对脚本语言的支持（如：ruby，groovy，javascript）
 * Common Annotations
-* Java GUI界面的显示
-* 嵌入式数据库Derby
-* Web服务元数据
-* Jtable的排序和过滤
-* 更简单更强大的JAX-WS
 
 # [JDK7新特性](https://www.cnblogs.com/peter1018/p/9177110.html)
 
-* switch中可以使用字符串了
-* 泛型实例化类型自动推断
-* 自定义自动关闭类
-* 新增一些读取环境信息的工具方法
-* Boolean类型反转，空指针安全，参与位运算
-* 两个char之间的equals
-* 安全的加减乘除|sd
-* 对Java集合( Collections）的增强支持
-* 数值可加下划线
-* 支持二进制数字
-* 在try/catch异常扑捉中，一个catch可以写多个异常类型用|隔开
-* 可以不必要写finally语句来关闭资源，只要你在try()的括号内部定义要使用的资源
+* 二进制字面值
+* switch 语句支持 String
+* try-with-resources
+* catch 多个类型异常
+* 字面值中使用下划线
+* 类型推断
+* 改进泛型类型可变参数
+* 其它
 
 # [JDK8新特性](https://www.cnblogs.com/peter1018/p/9183548.html)
 
-* 接口的默认方法
-* Lambda表达式
+* Lambda 表达式
 * 函数式接口
-* 方法与构造函数引用
-* 扩展了集合类
-* 新的Date API
-* Annotation多重注解
-* streams（流）
-* parallel streams(并行流)
-* Map数据结构改进
+* 方法引用、构造器引用和数组引用
+* 接口支持默认方法和静态方法
+* Stream API
+* 增强类型推断
+* 新的日期时间 API
+* Optional 类
+* 重复注解和类型注解
 
 # [JDK9新特性](https://www.cnblogs.com/peter1018/p/9209951.html)
 
-* Jigsaw模块化项目
-* 简化进程API
-* 轻量级JSON API
-* 钱和货币的API
-* 改善锁竞争机制
-* 代码分段缓存
-* 智能java编译
-* http2.0客户端
-* kulla计划
+* 目录结构
+* 模块化系统
+* jshell
+* 多版本兼容JAR
+* 接口的私有方法
+* 改进try-with-resourcs
+* 改进砖石操作符
+* 限制使用单独下划线标识符
+* String存储结构变更
+* 快速创建只读结合
+* 增强Stream API
+* 改进Optional 类
+* 多分辨率图像 API
+* 全新 HTTP客服端API
+* 智能JAVA 编译工具
+* 统一JVM 日志系统
+* javadoc 的 HTML5 支持
+* java 动态编译
 
 # [JDK10新特性](https://www.cnblogs.com/peter1018/p/9234490.html)
 
-* 局部变量的类型推断
-* GC改进和内存管理
-* 线程本地握手
-* 备用内存设备上的堆分配
-* 其他Unicode语言 - 标记扩展
-* 基于Java的实验性JIT编译器
-* 开源根证书
-* 根证书颁发认证（CA）
-* 将JDK生态整合单个存储库
-* 删除工具javah
+* 局部变量类型推断
+* 将JDK多存储库合并为单储存库
+* 垃圾回收接口
+* 并行Full GC 的G1
+* 应用数据共享
+* 线程局部管控
+* 移除Native-Header Generation Tool （javah）
+* Unicode 标签扩展
+* 备用内存设备上分配堆内存
+* 基于实验JAVA 的JIT 编译器
+* Root 证书
+* 基于时间的版本控制
 
 
 # Java特性视频
