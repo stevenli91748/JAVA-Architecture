@@ -9,7 +9,7 @@
 * [枚举](https://mp.weixin.qq.com/s?__biz=MzI3NzE0NjcwMg==&mid=402247345&idx=1&sn=a0e1f8cc739dd8cf96ede6ec5181d244&chksm=7967d3904e105a867b1d737bc64e526756125ced5f33cc9a9b35064228f639e391d024e3abde&scene=21#wechat_redirect)
 * [静态导入](https://zhuanlan.zhihu.com/p/35756938)
 * [可变参数（Varargs）](https://www.cnblogs.com/lanxuezaipiao/p/3190673.html)
-* 内省（introspector）
+* [内省（introspector）](https://blog.csdn.net/jiangyu1013/article/details/75280962)
 * For-Each循环
 * [泛型和类型擦除](https://www.jianshu.com/p/1b5a6ecd1bdf)
 * 格式化输出
