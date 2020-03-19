@@ -406,6 +406,7 @@
 
 
 # 视频
+* [IntelliJ IDEA | Full Course | 2020](https://www.youtube.com/watch?v=yefmcX57Eyg)
  * [2019Java青橙商城项目实战-IDEA版SSM大型分布式电商项目实战](https://www.bilibili.com/video/av80932917?from=search&seid=9392663643465024311)
  * [2019】IntelliJ IDEA 入门到实战教程](https://www.bilibili.com/video/av71609179/?spm_id_from=333.788.videocard.3)
  * [[win环境搭建教程]MySQL+Tomcat+Nginx+Redis+Maven+IDEA配置](https://www.bilibili.com/video/av50482524?from=search&seid=7338193802476677901)
