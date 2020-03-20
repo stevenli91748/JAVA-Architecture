@@ -40,7 +40,7 @@
 
 
 # 视频
-
+ * [Java并发编程原理与实战](https://www.youtube.com/watch?v=10Xrkmqa9d0&list=PLStUqVcO94bhOvk5msq7gxkcxoP4Tc8mv)
  * [阿里巴巴大牛教你快速了解并发编程](https://www.bilibili.com/video/av19131750/?spm_id_from=333.788.videocard.17)
  * [程序员一线互联网面试必杀技Java并发编程之Volatile源码分析](https://www.bilibili.com/video/av68881701)
  * [JUC](https://www.bilibili.com/video/av68272550/?spm_id_from=333.788.videocard.2)
