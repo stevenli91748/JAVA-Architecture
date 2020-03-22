@@ -226,6 +226,7 @@
 
 # 有用的参考
  * [Java知识体系最强总结(2020版)--重磅 优先看](https://blog.csdn.net/ThinkWon/article/details/103592572?utm_source=app)
+ * [2020年大厂Java面试前复习的正确姿势（800+面试题附答案解析）--重磅 优先看](https://juejin.im/post/5e731d5c51882549554887bf)
  * [JAVA面试700问-english version ](https://www.careerride.com/advanced-java-interview-questions.aspx) 
  * [2019最新整理JAVA面试题附答案](https://www.javazhiyin.com/42272.html)
  * [架构师之路：一个Java架构师需要掌握的知识技能，带思维导图](https://yq.aliyun.com/articles/672883?spm=a2c4e.11153940.0.0.40746773a6YrHE)
