@@ -322,8 +322,8 @@ SOA架构|JPA|Hibernate4|[Spring5](https://github.com/stevenli91748/JAVA-Archite
 [Servlet][%Servlet]|[JSP][%JSP]|[MVC][%MVC]|Servlet3.0特性|[前后端RESTful API网关](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/RESTfulAPI.md)|[Web Service](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/webservice.md)|
 ---|---|---|---|---|---|
 
-Request和Response|React|[VUE.JS](https://github.com/stevenli91748/Frontend/blob/master/VueJS/README.md)|
----|---|---|
+Request和Response|React|[VUE.JS](https://github.com/stevenli91748/Frontend/blob/master/VueJS/README.md)|Web storage API| IndexedDB|
+---|---|---|---|---|
 ---
 [Session][%Session]|[Cookie][%Cookie]|[Token][%Token]|Github|Filter |Listener|国际化|文件上传下载|
 ---|---|---|---|---|---|---|---|
