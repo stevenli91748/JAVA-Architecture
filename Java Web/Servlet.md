@@ -14,3 +14,4 @@
 * [Servlet 教程](https://code.ziqiangxuetang.com/servlet/servlet-environment-setup.html)
 
 * [Java Servlet API 的标准](https://docs.kilvn.com/servlet-3.1-specification/docs/Preface/Preface.html)
+* [Servlet3.0下@WebServlet注解配置Servlet](https://blog.csdn.net/mytt_10566/article/details/70173007)
