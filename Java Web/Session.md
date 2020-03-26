@@ -16,7 +16,7 @@
 * [Session和几种状态保持方案理解](https://www.cnblogs.com/cxzdy/p/3760313.html)
 
 * [微服务下的分布式session管理](https://juejin.im/post/5d08b4185188250a8b1fd66f)
-
+* [HttpSession对象的详解与实战操作](https://blog.csdn.net/JavaLixy/article/details/68930285?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task)
 * Session原理
 * Session失效
 * URL重写
