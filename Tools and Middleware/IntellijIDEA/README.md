@@ -71,22 +71,36 @@
   
   
 * plugin
-  * [Maven Helper插件](#Maven-Helper插件) 
+  * [Maven Helper--Maven辅助插件](#Maven-Helper插件) 
   * [GsonFormat 转化Json字符串](#GsonFormat-转化Json字符串)
-  * [Markdown](#Markdown)
-  * [FindBugs](#FindBugs)
+  * [FindBugs---潜在Bug检查](#FindBugs)
   * [ECTranslation](#ECTranslation)
   * [CheckStyle](#CheckStyle)
-  * [ Grep Console 可以设置不同级别log的字体颜色和背景色]
+  * [ Grep Console 自定义控制台输出格式插件,可以设置不同级别log的字体颜色和背景色]
   * [SonarLint -代码质量检查插件]
   * [Alibaba Java Coding Guidelines   阿里巴巴代码规范检查插件]
-  * [Lombok plugin -简化实体类编写插件 代码注解插件]
+  * [Lombok plugin -- 注解自动生成代码]
   * [CodeGlance -代码地图]
   * [.ignore -git忽略文件]
   * [String Manipulation -一款强大的字符串转换工具]
   * [Key Promoter X -一款可以进行快捷键提示的插件]
   * [Iedis  Redis可视化]
   * [JUnitGenerator 单元测试测试生成工具]
+  * [MetricsReloaded 代码复杂度检查]
+  * [Statistic 代码统计插件]
+  * [JRebel Plugin 热部署插件]
+  * [Markdown Navigator---Markdown 编辑器插件]
+  * [Jindent-Source Code Formatter ---自定义模板插件]
+  * [Properties to YAML Converter ---Properties 转 YAML 格式插件]
+  * [Git Flow Integration ---Git Flow 集成插件]
+  * [Custom Postfix Templates---自定义Postfix模板]
+  * [RestfulToolkit---Java WEB开发必备，再也不用全局搜索RequestMapping]
+  * [GenerateSerialVersionUID---Alt+Insert生成serialVersionUID]
+  * [SonarLint---编码风格不好，这款插件很适合你。当你的编码不规范时，提醒你代码写得有毛病，快改]
+  * [ASM Bytecode Outline---查看 Class 类的字节码]
+  * [IDEA Mind Map---思维导图插件]
+
+
 
 * [Troubshooting](#Troubshooting)
 
