@@ -65,7 +65,7 @@
   * 商品分类 
   * 热卖排行   
   * 数据同步
-* 订单 支付项目
+* [订单 支付项目](https://www.jianshu.com/p/dad33add4daa)
   * [订单号统一生成规则](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Ecommerce%20Project/高并发场景的订单号ID生成策略/README.md)
   * 下单流程管理
   * 库存管理
