@@ -89,6 +89,7 @@
 
 * [SpringCloud第五篇结束版](https://mp.weixin.qq.com/s?__biz=MzI4Njc5NjM1NQ==&mid=2247486043&idx=2&sn=8cb27e2def06717f3487f74f9194cf7b&chksm=ebd63577dca1bc61e1134958b2b20a7bbb7f45ce3746af163b2ba5d482778f366bbef060b509&scene=21)
 
+* [全网最全微服务架构—Spring Cloud详解，没有比这更详细的了](https://juejin.im/post/5e7ca41c518825360310d3c5)
 
 -石杉的架构笔记
 * [拜托！面试请不要再问我Spring Cloud底层原理--石杉的架构笔记](https://juejin.im/post/5be13b83f265da6116393fc7)
