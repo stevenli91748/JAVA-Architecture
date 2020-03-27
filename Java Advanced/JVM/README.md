@@ -246,3 +246,4 @@
 * [性能分析之-- JAVA Thread Dump 分析综述](https://blog.csdn.net/rachel_luo/article/details/8920596)
 * [看完这篇垃圾回收，和面试官扯皮没问题了](https://blog.csdn.net/hollis_chuang/article/details/104140327?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task)
 * [可能是把Java内存区域讲的最清楚的一篇文章](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247484884&amp;idx=1&amp;sn=0d9b841ce0fc300c78ade2a87ffbfb46&source=41#wechat_redirect)
+* [搞定 JVM 垃圾回收就是这么简单](https://blog.csdn.net/varyall/article/details/82119947)
