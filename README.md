@@ -27,7 +27,7 @@
 [爬虫技术项目](https://github.com/stevenli91748/JAVA-Architecture/blob/master/project/爬虫技术/README.md)|高速缓存项目|单点登录项目|页面静态化项目|虚拟化部署|[秒杀项目]()|[权限管理项目](https://github.com/stevenli91748/JAVA-Architecture/blob/master/project/权限管理项目/README.md)|
 ---|---|---|---|---|---|---|
 
-大数据行为分析项目|微服务架构项目|分布式事务项目|分布式架构项目|分布式搜索系统项目|
+大数据行为分析项目|微服务架构项目|分布式事务项目|分布式架构项目|[分布式搜索系统项目](https://github.com/stevenli91748/JAVA-Architecture/blob/master/project/%E6%90%9C%E7%B4%A2%E7%B3%BB%E7%BB%9F/README.md)|
 ---|---|---|---|---|
 
 数据库集群项目|数据库分片项目|消息队列项目|商品业务项目|第三方支付项目|购物车业务项目|
