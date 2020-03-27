@@ -14,3 +14,4 @@
 # 有用的参考
 
 * [分布式文件系统 - FastDFS 简单了解一下](https://www.cnblogs.com/mafly/p/fastdfs.html)
+* [一文带你彻底理解文件系统](https://blog.csdn.net/qq_36894974/article/details/105092951#comments)
