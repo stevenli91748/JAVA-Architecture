@@ -24,8 +24,8 @@
 [天狗前端 🐶](https://github.com/stevenli91748/JAVA-Architecture/blob/master/project/TDog%20FrontEnd)| [天狗整站 J2EE框架](https://github.com/stevenli91748/JAVA-Architecture/blob/master/project/TDog%20J2EE%20Project) 🐶 |[天狗整站 SSH框架](https://github.com/stevenli91748/JAVA-Architecture/blob/master/project/TDog%20SSH%20Project) 🐶| [天狗整站 SSM 框架](https://github.com/stevenli91748/JAVA-Architecture/blob/master/project/TDog%20SSM%20Project)🐶 | [天狗整站 SpringBoot框架](https://github.com/stevenli91748/JAVA-Architecture/blob/master/project/TDog%20SpringBoot%20Project) 🐶|
 ------------ | -------------|----------- |---------- | -----------------|
 
-[爬虫技术项目](https://github.com/stevenli91748/JAVA-Architecture/blob/master/project/爬虫技术/README.md)|高速缓存项目|单点登录项目|页面静态化项目|虚拟化部署|[秒杀项目]()|[权限管理项目](https://github.com/stevenli91748/JAVA-Architecture/blob/master/project/权限管理项目/README.md)|
----|---|---|---|---|---|---|
+[爬虫技术项目](https://github.com/stevenli91748/JAVA-Architecture/blob/master/project/爬虫技术/README.md)|高速缓存项目|单点登录项目|页面静态化项目|虚拟化部署|[高并发秒杀项目]()|[权限管理项目](https://github.com/stevenli91748/JAVA-Architecture/blob/master/project/权限管理项目/README.md)|高并发系统的限流|
+---|---|---|---|---|---|---|---|
 
 大数据行为分析项目|微服务架构项目|分布式事务项目|分布式架构项目|[分布式搜索系统项目](https://github.com/stevenli91748/JAVA-Architecture/blob/master/project/%E6%90%9C%E7%B4%A2%E7%B3%BB%E7%BB%9F/README.md)|
 ---|---|---|---|---|
