@@ -257,3 +257,4 @@ Open API开放平台必然涉及到客户应用的接入、API权限的管理、
  * [API接口平台上一键化快速生成接口文档技巧](https://wenku.baidu.com/view/fedcfc226d175f0e7cd184254b35eefdc8d315d5.html?from=search)
  * [前后端分界及项目流程解析](https://wenku.baidu.com/view/e677d1ecfc0a79563c1ec5da50e2524de418d05a.html?from=search)
  * [SpringMVC集成springfox-swagger2构建restful API](https://blog.csdn.net/u014231523/article/details/54411026)
+ * [从 MVC 到前后端分离 ](https://my.oschina.net/huangyong/blog/521891)
