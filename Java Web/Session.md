@@ -9,7 +9,7 @@
 # 有用的参考
 
 * [Session是怎么实现的？存储在哪里？](https://blog.csdn.net/qq_15096707/article/details/74012116)
-
+* [说说Session 分布式方案](https://blog.csdn.net/weixin_43291173/article/details/104282183)
 * [Servlet中不可不知的Session技术](https://blog.csdn.net/qq_15096707/article/details/71081313?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522158511317919725222411157%2522%252C%2522scm%2522%253A%252220140713.130056874..%2522%257D&request_id=158511317919725222411157&biz_id=0&utm_source=distribute.pc_search_result.none-task)
 
 * [当你访问网站时，Session会立刻建立吗？](https://blog.csdn.net/keketrtr/article/details/71642087)
