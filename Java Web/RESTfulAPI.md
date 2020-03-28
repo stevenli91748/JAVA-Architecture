@@ -1,5 +1,38 @@
 # [API网关面试知识点](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/Interview/apigate.md)
 
+# 前后端分离是如何做的
+
+    在前后端分离架构中，后端只需要负责按照约定的数据格式向前端提供可调用的 API 服务即可。前后端之间通过 HTTP 请求进行交互，前端获取到数据后，进行
+    页面的组装和渲染，最终返回给浏览器
+   
+    如何解决跨域：
+    跨域，指的是浏览器不能执行其他网站的脚本。它是由浏览器的同源策略造成的，是浏览器对 JavaScript 施加的安全限制
+
+    什么是同源？
+    所谓同源是指，域名，协议，端口均相同
+
+	http://www.baidu.com --> http://admin.baidu.com    跨域
+	http://www.baidu.com --> http://www.baidu.com      非跨域
+	http://www.baidu.com --> http://www.baidu.com:8080 跨域
+	http://www.baidu.com --> https://www.baidu.com     跨域
+
+    使用 CORS（跨资源共享）解决跨域问题：
+    CORS 是一个 W3C 标准，全称是"跨域资源共享"（Cross-origin resource sharing）。它允许浏览器向跨源服务器，发出 XMLHttpRequest 请求，从而克
+    服了 AJAX 只能同源使用的限制。
+
+    CORS 需要浏览器和服务器同时支持。目前，所有浏览器都支持该功能，IE 浏览器不能低于 IE10
+
+    整个 CORS 通信过程，都是浏览器自动完成，不需要用户参与。对于开发者来说，CORS 通信与同源的 AJAX 通信没有差别，代码完全一样。浏览器一旦发现 
+    AJAX 请求跨源，就会自动添加一些附加的头信息，有时还会多出一次附加的请求，但用户不会有感觉
+
+    因此，实现 CORS 通信的关键是服务器。只要服务器实现了 CORS 接口，就可以跨源通信
+
+    CORS 与 JSONP 的比较
+    CORS 与 JSONP 的使用目的相同，但是比 JSONP 更强大。
+
+    JSONP 只支持 GET 请求，CORS 支持所有类型的 HTTP 请求。JSONP 的优势在于支持老式浏览器，以及可以向不支持 CORS 的网站请求数据
+
+
 # 软件开发中前端和后端如何协同开发和集成
    
      现在的前后端开发一般都是这么一个流程
