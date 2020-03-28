@@ -135,6 +135,7 @@ Spring Boot 并不是用来替代 Spring 的解决方案，而是和 Spring 框�
   * [Spring Boot面试题（2020最新版）](https://blog.csdn.net/ThinkWon/article/details/104397299)
   * [Spring Boot 学习资料汇总](http://www.ityouknow.com/springboot/2015/12/30/springboot-collect.html)
   * [纯洁的微笑---Spring Boot](http://www.ityouknow.com/spring-boot.html)
+  * [Springboot项目搭建（前端到数据库，超详细）](https://blog.csdn.net/sunnyzyq/article/details/86711708?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task)
   * [Spring Boot 学习Sample](https://github.com/ityouknow/spring-boot-examples)
   * [构建微服务：Spring boot 入门篇系列--能够系统性的学习](https://www.cnblogs.com/ityouknow/p/5662753.html)
   * [快速学习SpringBoot技术栈](https://www.jianguoyun.com/p/De_2rM0Q3o_SBhiu1Dw#)
