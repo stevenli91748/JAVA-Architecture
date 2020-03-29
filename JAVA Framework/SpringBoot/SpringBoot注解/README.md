@@ -21,8 +21,8 @@
 @controller|@RequestBody|@RequestMapping|@Configuration|@EnableAutoConfiguration|@ComponentScan|
 ---|---|---|---|---|---|
 
-@RestController|@ResponseBody|@Component|@Service|@Autowired|@Repository|
----|---|---|---|---|---|
+@RestController|@ResponseBody|@Component|@Service|@Autowired|@Repository|@Basic|
+---|---|---|---|---|---|---|
 
 @ImportResource|@Import|@Bean|@Value|@Inject|@Qualifier|@Resource|
 ---|---|---|---|---|----|---|
