@@ -29,8 +29,8 @@
 @RestController|@ResponseBody|@Component|@Service|@Autowired|@Repository|
 ---|---|---|---|---|---|
 
-@ImportResource|@Import|@Bean|@Value|@Inject|@Qualifier|@Resource|
----|---|---|---|---|----|---|
+@ImportResource|@Import|@Bean|@Value|@Inject|@Qualifier|@Resource|@EnableWebMvc|
+---|---|---|---|---|----|---|---|
 
 @PathVariable|@JsonBackReference|@RepositoryRestResourcepublic|@RequestParam|
 ---|---|---|---|
