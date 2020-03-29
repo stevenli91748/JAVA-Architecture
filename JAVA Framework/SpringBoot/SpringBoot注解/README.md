@@ -41,6 +41,10 @@
 @AllArgsConstructor|@EqualsAndHashCode|@toString|@RequiredArgsConstructor|@NonNull|
 ---|---|---|---|---|
 
+@ResponseStatus|
+---|
+
+
 # 当你在执行各种持久化方法的时候，实体的状态会随之改变，状态的改变会引发不同的生命周期事件。这些事件可以使用不同的注释符来指示发生时的回调函数。
 
 @javax.persistence.PostLoad|@javax.persistence.PostPersist|@javax.persistence.PrePersist|@javax.persistence.PreUpdate|
