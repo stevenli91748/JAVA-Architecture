@@ -429,6 +429,7 @@
 * [IDEA部署springboot程序到docker上](https://www.bilibili.com/video/av40407605/?spm_id_from=333.788.videocard.14)
 * [IDEA教程-干货大合集](https://www.bilibili.com/video/av34324988?p=3)
 # 有用的参考
+  * [使用 IDEA + Maven + Git 快速开发 Java Web 应用](https://my.oschina.net/huangyong/blog/175363)
   * [IEDA教程](https://github.com/stevenli91748/IntelliJ-IDEA-Tutorial)
   * [IntelliJ IDEA官方文档](https://www.w3cschool.cn/intellij_idea_doc/)
   * [intellij idea SpringMVC 配置FreeMarker模板引擎](https://blog.csdn.net/w8897282/article/details/71215591#理解springmvc的配置)
