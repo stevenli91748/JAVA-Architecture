@@ -33,7 +33,7 @@
 数据库集群项目|数据库分片项目|消息队列项目|商品业务项目|第三方支付项目|购物车业务项目|
 ---|---|---|---|---|---|
 
-[IT人如何高效的利用时间？进行成长学习充电](https://www.bilibili.com/video/av62057618?from=search&seid=8028110249434758186)|[代码生成器实现过程](https://my.oschina.net/huangyong/blog/162138)|
+[IT人如何高效的利用时间？进行成长学习充电](https://www.bilibili.com/video/av62057618?from=search&seid=8028110249434758186)|[代码生成器实现过程](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E4%BB%A3%E7%A0%81%E7%94%9F%E6%88%90%E5%99%A8/README.md)|
 ---|---|
 
 [在线聊天室系统](https://github.com/stevenli91748/JAVA-Architecture/blob/master/project/在线聊天室系统/README.md)|[数据倉库](https://github.com/stevenli91748/JAVA-Architecture/blob/master/project/数据倉库/README.md)|
@@ -208,7 +208,7 @@
 
 #### 项目测试
 
-[项目测试](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E4%BB%A3%E7%A0%81%E7%94%9F%E6%88%90%E5%99%A8/README.md)|
+[项目测试](https://github.com/stevenli91748/Testing/blob/master/README.md)|
 ---|
 
 
