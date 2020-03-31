@@ -75,7 +75,7 @@
 # 有用的参考
   * [Java Concurrency and Multithreading Tutorial](http://tutorials.jenkov.com/java-concurrency/index.html)
   * [java.util.concurrent - Java Concurrency Utilities](http://tutorials.jenkov.com/java-util-concurrent/index.html)
-  
+  * [多线程通信的三大法器，你真的会用吗？](https://mp.weixin.qq.com/s?__biz=MzI3ODcxMzQzMw==&mid=2247487757&idx=1&sn=3b5cd693431458064612edef399491f7&chksm=eb53943bdc241d2d1520213a0bac31e457b4f888f3fe4f3034c019b758a179202d8a602f2e5c&scene=21#wechat_redirect)
   * [多线程内容聚合---非常强大](https://mp.weixin.qq.com/s?__biz=MzI4Njc5NjM1NQ==&mid=2247488811&idx=6&sn=a769526cf5c4dfc5b0f8e5a40f984cff&chksm=ebd62a07dca1a3116cc6c45ceb7a81d47293b9811c8df97b5ca363c6370ffccfd913bab3599f&scene=21)
   * [详解Java面试官最爱问的volatile关键字](https://www.jb51.net/article/133313.htm)
   * [volatile足以保证数据同步吗](https://mp.weixin.qq.com/s?__biz=MjM5MzA1Mzc3Nw==&mid=2247483960&idx=1&sn=bd1fa1639ac7da0f45667db7cbfb12d8&chksm=a69daf0691ea2610c7c7d85694ed046928de7f7e98ae6d54fa272b235b44c0e953be180cef5a&scene=21#wechat_redirect)
