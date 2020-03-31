@@ -13,6 +13,8 @@
 * 并发理论
 * 并发关键字
 * Lock体系
+  * [Java注解如何基于Redission实现分布式锁](https://www.jb51.net/article/178525.htm)
+  * [Java基于注解实现的锁实例解析](https://www.jb51.net/article/181492.htm)
 * 并发容器
 * 线程池
 * 原子操作类
