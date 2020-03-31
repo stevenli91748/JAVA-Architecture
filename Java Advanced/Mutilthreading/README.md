@@ -128,3 +128,4 @@
   * [java并发编程-Executor框架](https://www.iteye.com/topic/366591)
   * [线程池的内部原理](https://blog.csdn.net/heihaozi/article/details/102882698)
   * [Java中常用的四种线程池](https://blog.csdn.net/heihaozi/article/details/102752638)
+  * [java向多线程中传递参数的三种方法详细介绍](https://www.jb51.net/article/31981.htm)
