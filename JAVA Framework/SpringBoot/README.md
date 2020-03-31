@@ -188,3 +188,7 @@ Spring Boot 并不是用来替代 Spring 的解决方案，而是和 Spring 框�
 * [SpringBoot整合MyBatis逆向工程及 MyBatis通用Mapper实例详解](https://www.jb51.net/article/123822.htm)
 * [详解Spring Boot整合Mybatis实现 Druid多数据源配置](https://www.jb51.net/article/109452.htm)
 * [springboot整合mybatis将sql打印到日志的实例详解](https://www.jb51.net/article/130734.htm)
+* [Springboot整合支付宝沙箱支付（支付和退款）](https://www.jianshu.com/p/b256e62fb3c9)
+
+
+
