@@ -530,7 +530,7 @@ SQL语言|[MySQL](https://github.com/stevenli91748/Database/blob/master/MySQL/RE
 [%脚本 编译与注解]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#脚本-编译与注解
 [%反射]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/%E5%8F%8D%E5%B0%84.md
 [%注解]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#注解
-[%JSON]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#JSON
+[%JSON]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/JSON.md
 [%正则表达式]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/正则表达式.md
 [%文本操作]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md#文本操作
 [%数组]:https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/数组.md
