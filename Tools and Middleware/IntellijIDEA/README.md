@@ -398,7 +398,7 @@
 
 ## Alibaba Java Coding Guidelines   阿里巴巴代码规范检查插件
 
-## Lombok plugin -简化实体类编写插件 代码注解插件
+## [Lombok plugin -简化实体类编写插件 代码注解插件](https://www.jianshu.com/p/b20d1973f819)
 
 ## CodeGlance -代码地图
 
