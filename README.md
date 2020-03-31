@@ -382,6 +382,10 @@ SQL语言|[MySQL](https://github.com/stevenli91748/Database/blob/master/MySQL/RE
 [Java Visual Machine](https://github.com/stevenli91748/JAVA-Architecture/tree/master/Java%20Advanced/JVM)|[Java Multithreading](https://github.com/stevenli91748/JAVA-Architecture/tree/master/Java%20Advanced/Mutilthreading)|[Java Concurrency](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/Concurrency/README.md)|Java 8 函数式编程|
 ----|----|-----|---|
 
+[Java缓存操作技巧汇总](https://www.jb51.net/Special/682.htm)|[Java文件与目录操作技巧汇总](https://www.jb51.net/Special/687.htm)|[Java操作DOM节点技巧总结](https://www.jb51.net/Special/830.htm)|
+---|---|---|
+
+
 [JAVA内存模型](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/Memory/README.md)|JPA|[设计模式](https://github.com/stevenli91748/Design-Patterns)
 ---|---|---|
 
