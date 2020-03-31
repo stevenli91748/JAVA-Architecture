@@ -22,3 +22,4 @@ Swagger|
   * [一篇文章带你搞懂 SpringBoot与Swagger整合](https://blog.csdn.net/itguangit/article/details/78978296)
   * [SpringBoot集成Swagger2实现Restful(类型转换错误解决办法)](https://www.jb51.net/article/117925.htm)
   * [Spring Boot集成springfox-swagger2构建restful API的方法教程](https://www.jb51.net/article/116092.htm)
+  * [Spring boot集成swagger2生成接口文档的全过程](https://www.jb51.net/article/169898.htm)
