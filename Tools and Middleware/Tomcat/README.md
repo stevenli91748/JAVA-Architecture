@@ -48,6 +48,7 @@ c:\apache-tomcat-9.0.16
     * [Host Manager](#Host-Manager)
     * [Manage APP](#Manage-APP)
   * [Tomcat JVM配置](#Tomcat-JVM配置)  
+  * [Web容器(Tomcat)自动对HTTP请求中参数进行URLDecode处理](https://blog.csdn.net/vickyway/article/details/46375971)
   * [Tomcat负载均衡](#Tomcat负载均衡)
   * [Tomcat反向代理机制](#Tomcat反向代理机制)
   * [Tomcat热部署的实现原理](#Tomcat热部署的实现原理)
