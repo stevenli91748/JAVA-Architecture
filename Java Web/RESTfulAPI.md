@@ -193,6 +193,7 @@ Open API开放平台必然涉及到客户应用的接入、API权限的管理、
   * [极速入门SpringCloud之API网关与服务发现](https://www.imooc.com/learn/1134)
   * [api设计第三版（node.js)](https://www.bilibili.com/video/av74605570?from=search&seid=5739552451698653385)
 # 有用的参考
+  * [一文弄懂 CORS 跨域(前端+后端代码实例讲解)](https://www.jianshu.com/p/f18388d6b931)
   * [面试官：你们前后端分离的接口规范是什么？](https://juejin.im/post/5dd7e0cd6fb9a07ad665b19d)
   * [前后端角度看接口（什么是json）](https://blog.csdn.net/u011679785/article/details/102621144?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task)
   * [正确甄别API & REST API & RESTful API & Web Service之间的差异与联系](https://juejin.im/post/5d07317e6fb9a07eac05d33c)
