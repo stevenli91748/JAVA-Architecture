@@ -50,6 +50,14 @@
  * [2019最新最全Java并发编程全套源码解析原理与实战](https://www.bilibili.com/video/av65172968/?spm_id_from=333.788.videocard.8)
  * [并发编程专题-java内存模型jmm与volatile关键字详解](https://www.bilibili.com/video/av61474893?from=search&seid=808943440095103708)
  * [JAVA开发工程师/并发编程利器aqs源码深度解读](https://www.bilibili.com/video/av61176596?from=search&seid=9591105149997618327)
+ 
+ # 高并发
+ * [1. Java高并发秒杀API之业务分析与DAO层](https://www.imooc.com/learn/587)
+ * [2. Java高并发秒杀API之Service层](https://www.imooc.com/learn/631)
+ * [3. Java高并发秒杀API之web层](https://www.imooc.com/learn/630)
+ * [4. Java高并发秒杀API之高并发优化](https://www.imooc.com/learn/632)
+ 
+ 
 # 有用的参考
 * [并发编程面试题（2020最新版）](https://blog.csdn.net/ThinkWon/article/details/104863992)
 * [并发网系列文章集](http://ifeve.com/paper-set/)
