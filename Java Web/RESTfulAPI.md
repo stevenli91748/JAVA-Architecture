@@ -195,6 +195,7 @@ Open API开放平台必然涉及到客户应用的接入、API权限的管理、
  * [SpringBoot2.0+Shiro+Jwt+SpringDataJpa框架的Saas多租户基于前后端分离进行开发](https://www.bilibili.com/video/av75572951?from=search&seid=553876227072387657)
   * [极速入门SpringCloud之API网关与服务发现](https://www.imooc.com/learn/1134)
   * [api设计第三版（node.js)](https://www.bilibili.com/video/av74605570?from=search&seid=5739552451698653385)
+  * [REST API 接口测试](https://www.imooc.com/learn/1048)
 # 有用的参考
   * [SpringBoot集成Swagger2实现Restful(类型转换错误解决办法)](https://www.jb51.net/article/117925.htm)
   * [一文弄懂 CORS 跨域(前端+后端代码实例讲解)](https://www.jianshu.com/p/f18388d6b931)
