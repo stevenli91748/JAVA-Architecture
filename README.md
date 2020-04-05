@@ -18,6 +18,11 @@
 [Linux内核源码研读与实战演练 (35课时)](https://www.bilibili.com/video/av68372387/?spm_id_from=333.788.videocard.1)|[如何做代码审查](http://www.imooc.com/course/introduction/id/1225)|
 ---|---|
 
+# 开源项目实践
+
+* [Java企业级开源项目推荐](https://www.youtube.com/watch?v=gJB0hSsAFR0)
+
+
 
 # 第十阶段   真实项目篇
 
