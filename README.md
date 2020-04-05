@@ -260,6 +260,12 @@ Nginx性能优化|Linux系统性能优化|
 [消息队列](https://github.com/stevenli91748/Message-Server-System)|[分布式消息ActiveMQ](https://github.com/stevenli91748/Message-Server-System/blob/master/ActiveMQ/README.md)|[分布式消息RabbitMQ](https://github.com/stevenli91748/Message-Server-System/blob/master/RabbitMQ/README.md)|[RockeMQ](https://github.com/stevenli91748/Message-Server-System/blob/master/RocketMQ/README.md)|
 ---|---|---|---|
 
+分布式消息Kafka|分布式文件系统FastDFS|高可用Keepalived|高性能可伸缩OpenResty|
+---|---|---|---|
+
+分布式ElasticSearch/ELK|分布式任务调度|数据库分库分表ShardingSphere|
+----|---|---|
+
 [JAVA 分布式](https://github.com/stevenli91748/Distributed-System/blob/master/README.md)|数据存储MongoDB|分布式数据扩容MyCat|分布式Spring Session|[分布式缓存系统](https://github.com/stevenli91748/Database/blob/master/缓存系统/README.md)|
 ---|---|---|---|---|
 
