@@ -177,7 +177,7 @@ Open API开放平台必然涉及到客户应用的接入、API权限的管理、
 
 # API网关视频
   * [什么是RESTful API](https://www.bilibili.com/video/BV1nb411c71r/?spm_id_from=333.788.videocard.5)
-  * [WEB API编程](https://www.bilibili.com/video/BV1NJ411x7sQ/?p=2)
+
   * [Restful API实战](https://www.imooc.com/learn/811)
   * [使用java构建和维护接口自动化测试框架](https://www.imooc.com/learn/847)
   * [快速构建标准RESTful API完成前后端分离开发](https://www.bilibili.com/video/av17305978/?spm_id_from=333.788.videocard.0)
