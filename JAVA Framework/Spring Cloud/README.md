@@ -70,6 +70,7 @@
 # 有用的参考
 * [Spring Cloud面试题（2020最新版）](https://blog.csdn.net/ThinkWon/article/details/104397367)
 * [Spring Cloud 学习资料汇总](http://www.ityouknow.com/springcloud/2016/12/30/springcloud-collect.html)
+* [史上最简单的Spring Cloud教程源码](https://github.com/forezp/SpringCloudLearning)
 * [纯洁的微笑---Spring Cloud](http://www.ityouknow.com/spring-cloud)
 * [Spring Cloud Examples](https://github.com/ityouknow/spring-cloud-examples)
 * [Spring Cloud 资源大全](https://github.com/ityouknow/awesome-spring-cloud)
