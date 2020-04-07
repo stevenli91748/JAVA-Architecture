@@ -227,7 +227,7 @@
 * [尚硅谷面试](https://www.bilibili.com/video/av62285585?from=search&seid=6481752262698197941)
 * [2019最新Java高频重难点笔试面试通关秘籍](https://www.bilibili.com/video/av64213436?from=search&seid=4828143759422875222)
 * [Java面试题全集84集系列](https://www.bilibili.com/video/av29503459/?spm_id_from=333.788.videocard.9)
-
+* [2020年阿里P8级Java面试题集精讲|50集](https://www.bilibili.com/video/BV16J411H7f5/?spm_id_from=333.788.videocard.4)
 # 有用的参考
  * [java面试网](http://www.wityx.com/)
  * [Java知识体系最强总结(2020版)--重磅 优先看](https://blog.csdn.net/ThinkWon/article/details/103592572?utm_source=app)
