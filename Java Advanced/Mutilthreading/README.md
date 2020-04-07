@@ -65,7 +65,7 @@
  * [马士兵老师java多线程高并发编程](https://www.bilibili.com/video/av33688545/?spm_id_from=333.788.videocard.10) 
  * [百万年薪架构师带你了解--Java内存模型JMM与AQS同步器深入剖析](https://www.bilibili.com/video/av69537976/?spm_id_from=333.788.videocard.5)
  * [BATJ面试必问之单机锁到分布式锁设计构思与实战](https://www.bilibili.com/video/av59014838?from=search&seid=8708809625625523554)
-
+ * [《多线程与高并发》，帮助你理解多线程在CPU层级的实现，以及这些实现如何一层一层的映射到那些上亿用户](https://www.bilibili.com/video/BV1R7411C7rf/?spm_id_from=333.788.videocard.3)
 # 参考书
 
 《Java高并发编程详解-多线程与架构设计》_汪文君
