@@ -57,7 +57,7 @@
 
  * [尚硅谷_康师傅2019新版—30天搞定Java核心技术](https://www.bilibili.com/video/av47426548?from=search&seid=17342892563183546999)
  * [高淇老师JAVA300集](https://www.bilibili.com/video/av30023103/?spm_id_from=333.788.videocard.0)
-
+ * [ava入门教程基于JDK11和IntelliJ iDEA](https://www.bilibili.com/video/BV16E411i7fQ?from=search&seid=7578291507384882396)
 # 有用的参考
  * [Java基础知识面试题（2020最新版）](https://blog.csdn.net/ThinkWon/article/details/104390612)
  * [Java基础知识大全](https://blog.csdn.net/xingkonglfs/article/details/54695622)
