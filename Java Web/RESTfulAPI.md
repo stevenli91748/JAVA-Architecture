@@ -56,7 +56,7 @@
 
     Node.js：Express Gateway、MicroGateway。
 
-    按照使用范围、成熟度等来划分，主流的有 4 个：OpenResty、Kong、Zuul/Zuul 2、Spring Cloud Gateway，此外 fagongzi API 网关最近也获得不少关注。
+按照使用范围、成熟度等来划分，主流的有 4 个：OpenResty、Kong、Zuul/Zuul 2、Spring Cloud Gateway，此外 fagongzi API 网关最近也获得不少关注。
 
 
 # 前后端分离是如何做的
