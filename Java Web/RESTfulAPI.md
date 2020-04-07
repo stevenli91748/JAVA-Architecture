@@ -25,7 +25,38 @@
 
 # API网关的分类
 
+    流量网关：
+    一类是全局性的，跟具体的后端业务系统和服务完全无关的部分，比如安全策略、全局性流控策略、流量分发策略等。通常有如下通用性的具体功能：
+    
+    1.全局性流控；
+    2.日志统计；
+    3.防止 SQL 注入；
+    4.防止 Web 攻击；
+    5.屏蔽工具扫描；
+    6.黑白名单控制。
+    
+    Kong 的性能非常不错，非常适合做流量网关
+    
+    业务网关：
+    一类是针对具体的后端业务系统，或者是服务和业务有一定关联性的部分，并且一般被直接部署在业务服务的前面
 
+    简单使用或轻度定制业务网关系统，目前建议使用 Spring CloudGateway 作为基础骨架。
+
+    ---
+ 
+    目前常见的开源网关大致上按照语言分类有如下几类。
+
+    Nginx+Lua：Open Resty、Kong、Orange、Abtesting Gateway 等；
+
+    Java：Zuul/Zuul 2、Spring Cloud Gateway、Kaazing KWG、gravitee、Dromara soul 等；
+
+    Go：Janus、fagongzi、Grpc-Gateway；
+
+    .NET：Ocelot；
+
+    Node.js：Express Gateway、MicroGateway。
+
+    按照使用范围、成熟度等来划分，主流的有 4 个：OpenResty、Kong、Zuul/Zuul 2、Spring Cloud Gateway，此外 fagongzi API 网关最近也获得不少关注。
 
 
 # 前后端分离是如何做的
