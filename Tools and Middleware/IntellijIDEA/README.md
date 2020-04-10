@@ -72,25 +72,39 @@
   
 * plugin
   * [IDEA插件分享!以Spring Boot项目为载体进行视频教程演示](https://www.bilibili.com/video/BV1XE411K7Fz)
-  * [Maven Helper--Maven辅助插件](#Maven-Helper插件) 
+
+##  必备插件
+  * [Translation]
+  * [CodeGlance -代码地图]
+  * [Rainbow Brackets--彩虹式的括号]
+  * [ Grep Console 自定义控制台输出格式插件,可以设置不同级别log的字体颜色和背景色]
+  * [Statistic 代码统计插件]
+  * [Markdown Navigator---Markdown 编辑器插件]
+  * [RestfulToolkit---能快速查找到所有前后端接口的controller代码位置，还能对接口进行测试]
   * [GsonFormat 转化Json字符串](#GsonFormat-转化Json字符串)
-  * [FindBugs---潜在Bug检查](#FindBugs)
+  * [MyBatis Log Plugin---在项目运行后，可跟踪显示每一操作对数据库操作的SQL语句]
+  * [Free Mybatis plugin---能在XML和mapper接口Java文件中跳转]
+---
+  
+  * [Maven Helper--Maven辅助插件](#Maven-Helper插件) 
+
+  * [FindBugs---潜在Bug检查](#FindBugs)ion
   * [ECTranslation](#ECTranslation)
   * [CheckStyle](#CheckStyle)
-  * [ Grep Console 自定义控制台输出格式插件,可以设置不同级别log的字体颜色和背景色]
+  
   * [SonarLint -代码质量检查插件]
   * [Alibaba Java Coding Guidelines   阿里巴巴代码规范检查插件]
   * [Lombok plugin -- 注解自动生成代码]
-  * [CodeGlance -代码地图]
+
   * [.ignore -git忽略文件]
   * [String Manipulation -一款强大的字符串转换工具]
   * [Key Promoter X -一款可以进行快捷键提示的插件]
   * [Iedis  Redis可视化]
   * [JUnitGenerator 单元测试测试生成工具]
   * [MetricsReloaded 代码复杂度检查]
-  * [Statistic 代码统计插件]
+  
   * [JRebel Plugin 热部署插件]
-  * [Markdown Navigator---Markdown 编辑器插件]
+  
   * [Jindent-Source Code Formatter ---自定义模板插件]
   * [Properties to YAML Converter ---Properties 转 YAML 格式插件]
   * [Git Flow Integration ---Git Flow 集成插件]
@@ -383,6 +397,8 @@
      可在项目中查找到版本冲突的插件，并解决冲突。  
 
 ## GsonFormat 转化Json字符串
+  
+   在编程中，经常要测试JSON字符串,使用该插件就可跟据json生成代码
 
 ## Markdown
 
