@@ -1,4 +1,8 @@
+# 配置 Spring  Boot WEB项目的步骤
 
+1. 创建Spring Boot项目
+
+2. 配置Maven 依赖
 
 
 <a href="https://ibb.co/2YkyBM6"><img src="https://i.ibb.co/FqDKtYW/spring-boot-v2-5ef5f719b1c3a169a948430159d940a5-r.jpg" alt="spring-boot-v2-5ef5f719b1c3a169a948430159d940a5-r" border="0"></a>
