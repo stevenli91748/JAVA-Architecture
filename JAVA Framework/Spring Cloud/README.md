@@ -63,7 +63,7 @@
 * [SpringCloud互联网微服务电商架构项目实战](https://www.bilibili.com/video/av48884712/?spm_id_from=333.788.videocard.0)
 * [Java微服务架构（Spring Boot + Spring Cloud）](https://www.bilibili.com/video/av36042649?from=search&seid=15871128637146048672)
 * [70万年薪的大佬带你理解-springcloud Hystrix峰控、容错机制是如何实现的](https://www.bilibili.com/video/av48702767/?spm_id_from=333.788.videocard.1)
-* [Spring Boot2.0 教程](https://www.bilibili.com/video/av37162103?p=1)
+* [Spring Cloud 微服务全套教程---详解系统架构  重要](https://www.bilibili.com/video/av37162103?p=1)
 * [尚硅谷_SpringCloud 第一季](https://www.bilibili.com/video/av22613028?from=search&seid=11334929433863206245)
 * [尚硅谷_SpringCloud 第二季（全）](https://www.bilibili.com/video/BV1rE411x7Hz?from=search&seid=10918068436806250854)
 * [Spring cloud 核心组件实战](https://www.imooc.com/video/19575)
