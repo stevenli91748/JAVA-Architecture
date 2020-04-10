@@ -57,6 +57,17 @@
 分布式配置中心Spring Cloud Config详解
 
 # SpringCloud视频
+
+## Spring Cloud 基础教程视频
+* [尚硅谷_SpringCloud 第一季](https://www.bilibili.com/video/av22613028?from=search&seid=11334929433863206245)
+* [尚硅谷_SpringCloud 第二季（全）](https://www.bilibili.com/video/BV1rE411x7Hz?from=search&seid=10918068436806250854)
+
+## Spring Cloud 项目从易到难路线图视频
+
+* [课程 1  SpringCloud Finchley三版本微服务实战](https://www.bilibili.com/video/BV137411L7bX?from=search&seid=7267066419827355478)
+* []()
+
+
 * [基于SpringCloud构建微服务电商项目](https://www.bilibili.com/video/av64134293/?spm_id_from=333.788.videocard.1)
 * [SpringCloud高可用微服务架构实战](https://www.bilibili.com/video/av48894754?from=search&seid=5921434574097814719)
 * [史上最新的SpringCloud互联网微服务架构项目实战](https://www.bilibili.com/video/av65636320/?spm_id_from=333.788.videocard.0)
@@ -64,8 +75,6 @@
 * [Java微服务架构（Spring Boot + Spring Cloud）](https://www.bilibili.com/video/av36042649?from=search&seid=15871128637146048672)
 * [70万年薪的大佬带你理解-springcloud Hystrix峰控、容错机制是如何实现的](https://www.bilibili.com/video/av48702767/?spm_id_from=333.788.videocard.1)
 * [Spring Cloud 微服务全套教程---详解系统架构  重要](https://www.bilibili.com/video/av37162103?p=1)
-* [尚硅谷_SpringCloud 第一季](https://www.bilibili.com/video/av22613028?from=search&seid=11334929433863206245)
-* [尚硅谷_SpringCloud 第二季（全）](https://www.bilibili.com/video/BV1rE411x7Hz?from=search&seid=10918068436806250854)
 * [Spring cloud 核心组件实战](https://www.imooc.com/video/19575)
 
 # 有用的参考
