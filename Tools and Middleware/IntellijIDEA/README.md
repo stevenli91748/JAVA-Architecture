@@ -375,6 +375,7 @@
 
 
 # plugin
+* [IDEA插件分享!以Spring Boot项目为载体进行视频教程演示](https://www.bilibili.com/video/BV1XE411K7Fz)
 
 ## Maven Helper插件
   
