@@ -26,6 +26,7 @@
 | :--- | :---: | 
 | [1-1 前后端分离是如何做的](#前后端分离是如何做的) | [无代码] |
 | [1-2  软件开发中前端和后端如何协同开发和集成](#软件开发中前端和后端如何协同开发和集成) | [无代码] |
+| [包工头都能听明白的前后端分离](https://www.bilibili.com/video/BV1f7411L7By)||
 | [4小时学会Spring Boot+Vue前后端分离开发](https://www.bilibili.com/video/BV137411B7vB/?spm_id_from=333.788.videocard.9)|[无代码]|
 
 
