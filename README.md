@@ -430,11 +430,11 @@ SQL语言|[MySQL](https://github.com/stevenli91748/Database/blob/master/MySQL/RE
 [静态代码块，匿名代码块，无参构造器与有参构造器的执行顺序](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Object%20oriented/%E9%9D%99%E6%80%81%E4%BB%A3%E7%A0%81%E5%9D%97%EF%BC%8C%E5%8C%BF%E5%90%8D%E4%BB%A3%E7%A0%81%E5%9D%97%EF%BC%8C%E6%97%A0%E5%8F%82%E6%9E%84%E9%80%A0%E5%99%A8%E4%B8%8E%E6%9C%89%E5%8F%82%E6%9E%84%E9%80%A0%E5%99%A8%E7%9A%84%E6%89%A7%E8%A1%8C%E9%A1%BA%E5%BA%8F.md)|
 ---|
 
-[面向对象基础](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Object%20oriented/README.md)|[对象与类][%对象与类]|[继承][%继承]|[接口][%接口]|抽象类|[枚举类](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/枚举类.md)|[Lambda标达式][%Lambda标达式]|[内部类][%内部类]|
+[面向对象基础](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Object%20oriented/README.md)|[对象与类][%对象与类]|[继承][%继承]|[接口][%接口]|[如何面向接口编程](https://www.bilibili.com/read/cv4960817)|抽象类|[枚举类](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/枚举类.md)|[Lambda标达式][%Lambda标达式]|
 ---|---|---|---|---|---|---|---|
 
-[多态](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Object%20oriented/多态.md)|[动态代理](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/动态代理.md)|
----|---|
+[多态](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Object%20oriented/多态.md)|[动态代理](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/动态代理.md)|[内部类][%内部类]|
+---|---|---|
 
 
 ### 阶段 3 JAVA进阶
