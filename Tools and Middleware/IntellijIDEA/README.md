@@ -84,6 +84,7 @@
   * [GsonFormat 转化Json字符串](#GsonFormat-转化Json字符串)
   * [MyBatis Log Plugin---在项目运行后，可跟踪显示每一操作对数据库操作的SQL语句]
   * [Free Mybatis plugin---能在XML和mapper接口Java文件中跳转]
+  * [Lombok](https://mp.weixin.qq.com/s/7ocQSmGtCn3EaVJ1kW7Cqg)
 ---
   
   * [Maven Helper--Maven辅助插件](#Maven-Helper插件) 
