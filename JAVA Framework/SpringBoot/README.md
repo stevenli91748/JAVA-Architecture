@@ -13,7 +13,7 @@
 ---|---|
 
 # SpringBoot 基础知识
-[SpringBoot注解](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot注解/README.md)|[springboot基本原理(知识点)](https://blog.csdn.net/z446981439/article/details/103822257)|[SpringBoot实现原理](https://blog.csdn.net/qq_38417983/article/details/81128299)|[Spring Boot要如何学习](https://www.zhihu.com/question/53729800/answer/311948415)|[参数校验](https://www.bilibili.com/read/cv4308221)|
+[SpringBoot注解](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot注解/README.md)|[springboot基本原理(知识点)](https://blog.csdn.net/z446981439/article/details/103822257)|[SpringBoot实现原理](https://blog.csdn.net/qq_38417983/article/details/81128299)|[Spring Boot要如何学习](https://www.zhihu.com/question/53729800/answer/311948415)|[参数校验](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E5%8F%82%E6%95%B0%E6%A0%A1%E9%AA%8C.md)|
 ---|---|---|---|---|
 
 [Springboot启动原理解析](https://zhuanlan.zhihu.com/p/60475611)|[基于Spring Boot项目构建流水线](https://www.bilibili.com/video/av90883375?from=search&seid=1134316332664179526)|[Idea 平台下实现 spring boot 项目 热部署](https://www.bilibili.com/video/av93414618?from=search&seid=1134316332664179526)|[Spring boot项目导入 环境配置](https://www.bilibili.com/video/av45976433?from=search&seid=1134316332664179526)|[如何创建Spring Boot项目脚手架](https://www.bilibili.com/video/av92630366?from=search&seid=1134316332664179526)|
