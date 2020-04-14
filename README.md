@@ -205,6 +205,9 @@
 [Jenkins](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Jenkins/README.md)|[Gradle](https://github.com/stevenli91748/Engineering-special/tree/master/Gradle)|[Sonar](https://github.com/stevenli91748/Engineering-special/tree/master/Sonar)|[java代码规范](https://github.com/stevenli91748/JAVA-Architecture/blob/master/java%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83.md)|[Nexus](https://github.com/stevenli91748/Engineering-special/blob/master/Nexus/README.md)|[Git](https://github.com/stevenli91748/Engineering-special/tree/master/Git)|[github](https://github.com/stevenli91748/Engineering-special/blob/master/github/github.md)|
 ---|---|---|---|---|---|---|
 
+[CI-持续集成 代码防护网](https://github.com/stevenli91748/Engineering-special/blob/master/CI/README.md)|[CD---持续发布](https://github.com/stevenli91748/Engineering-special/blob/master/CD/README.md)|
+---|---|
+
 ####   项目部署
 
 [Docker镜像技术](https://github.com/stevenli91748/Engineering-special/blob/master/Docker/README.md)|Harbor镜像倉库|Rancher容器管理|[JavaEE进阶1—工程化专题](https://www.bilibili.com/video/av60638359/?spm_id_from=333.788.videocard.14)|
