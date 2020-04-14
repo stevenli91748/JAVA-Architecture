@@ -72,7 +72,7 @@
   
 * plugin
   * [IDEA插件分享!以Spring Boot项目为载体进行视频教程演示](https://www.bilibili.com/video/BV1XE411K7Fz)
-
+  * [没用过这些IDEA插件？怪不得写代码头疼](https://mp.weixin.qq.com/s/xMwGAL_7sGkmnFvWZroVPw)
 ##  必备插件
   * [Translation]
   * [CodeGlance -代码地图]
@@ -449,6 +449,7 @@
 * [IDEA部署springboot程序到docker上](https://www.bilibili.com/video/av40407605/?spm_id_from=333.788.videocard.14)
 * [IDEA教程-干货大合集](https://www.bilibili.com/video/av34324988?p=3)
 # 有用的参考
+  
   * [使用 IDEA + Maven + Git 快速开发 Java Web 应用](https://my.oschina.net/huangyong/blog/175363)
   * [IEDA教程](https://github.com/stevenli91748/IntelliJ-IDEA-Tutorial)
   * [IntelliJ IDEA官方文档](https://www.w3cschool.cn/intellij_idea_doc/)
