@@ -1,8 +1,8 @@
 
 
 
-[intellij IDEA 2019.3 Linux系统安装](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/IntellijIDEA/intellij%20IDEA%202019.3%20Linux系统安装/README.md)| [Intellij IDEA快捷键大全](https://blog.csdn.net/alik20/article/details/54881003)|
----|---|
+[intellij IDEA 2019.3 Linux系统安装](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/IntellijIDEA/intellij%20IDEA%202019.3%20Linux系统安装/README.md)| [Intellij IDEA快捷键大全](https://blog.csdn.net/alik20/article/details/54881003)|[最新 Java 开发工具教程，都在这了](https://mp.weixin.qq.com/s/K2nbzDQmharfYhkBDvwQdw)|
+---|---|---|
 
 [IDEA中Debug javaScript功能](https://www.bilibili.com/video/av22537758?p=2)|[在IDEA中个性化配置JVM参数](https://www.bilibili.com/video/av22537758?p=1)|[如何运行+如何读代码 如何用IDEA进行调试 ](https://www.bilibili.com/video/BV1y4411p74E)|
 ---|---|---|
