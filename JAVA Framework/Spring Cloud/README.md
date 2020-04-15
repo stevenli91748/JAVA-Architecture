@@ -4,6 +4,9 @@
 
 * 服务注册与发现
   * eureka
+    * [Eureka 提供方 demo](https://blog.csdn.net/KinseyGeek/article/details/78597605)
+    * [Eureka 消费端demo](https://blog.csdn.net/KinseyGeek/article/details/78597476)
+    
   * consul
   * zookeeper
 * 网关路由
