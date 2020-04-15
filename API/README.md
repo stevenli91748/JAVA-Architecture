@@ -11,6 +11,8 @@
 
 #   [JAVA SE 10 API](https://docs.oracle.com/javase/10/docs/api/overview-summary.html)
 
+#   [JAVA SE 11 API](https://docs.oracle.com/en/java/javase/11/)
+
 #   [JavaTM Platform Standard Edition 6 API 规范](http://www.cjsdn.net/doc/jdk60/index.html?overview-summary.html)
 
 #   [JAVA EE 6 API](https://docs.oracle.com/javaee/6/api/)
