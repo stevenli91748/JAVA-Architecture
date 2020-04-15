@@ -87,6 +87,6 @@
 
 # 有用的参考
 
-
+* [自己写注解，了解注解的原理](https://www.bilibili.com/read/cv4802402)
 * [SpringBoot注解最全详解(整合超详细版本)](https://blog.csdn.net/weixin_40753536/article/details/81285046)
 * [springboot的注解的作用说明（全）](https://blog.csdn.net/fenlin88l/article/details/89466723?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task)
