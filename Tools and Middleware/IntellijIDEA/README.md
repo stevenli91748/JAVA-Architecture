@@ -1,5 +1,5 @@
 
-[IDEA JDK配置](https://blog.csdn.net/nobb111/article/details/77116259)|[IDEA Maven配置]()|[32个 IDEA 推荐配置，让你的IDEA有飞一般的感觉](https://zhuanlan.zhihu.com/p/77773919)|
+[IDEA JDK配置](https://blog.csdn.net/nobb111/article/details/77116259)|[IDEA Maven配置]()|[32个 IDEA 推荐配置，让你的IDEA有飞一般的感觉](https://zhuanlan.zhihu.com/p/79345173)|
 ---|---|---|
 
 [intellij IDEA 2019.3 Linux系统安装](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/IntellijIDEA/intellij%20IDEA%202019.3%20Linux系统安装/README.md)| [Intellij IDEA快捷键大全](https://blog.csdn.net/alik20/article/details/54881003)|[最新 Java 开发工具教程，都在这了](https://mp.weixin.qq.com/s/K2nbzDQmharfYhkBDvwQdw)|
