@@ -29,6 +29,9 @@
 [Spring boot 项目打成war包部署到远程服务器tomcat](https://www.bilibili.com/video/av78310165?from=search&seid=1134316332664179526)|[六分钟演示SpringBoot部署到腾讯云绑定域名](https://www.bilibili.com/video/av59319568?from=search&seid=1976421999597493025)|[RESTfull API简单项目的快速搭建](https://www.bilibili.com/video/av13224378?from=search&seid=10786600269014143134)|
 ---|---|---|
 
+[SpringBoot布道系列](https://www.jianshu.com/p/964370d9374e)|
+---|
+
 # 启动流程
 
 主要步骤首先要配置environment，然后准备context上下文，包括执行applicationContext的后置处理、初始化initializer、通知listener处理
