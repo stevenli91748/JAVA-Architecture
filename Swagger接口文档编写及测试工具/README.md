@@ -15,7 +15,7 @@ Swagger|
 
 # Swagger接口文档编写及测试工具视频
 
-  
+  * [SpringBoot 使用Swagger2打造在线接口文档（附汉化教程）](https://www.jianshu.com/p/7e543f0f0bd8)  
   * [利用 Swagger 构建 Api 文档，提升你的对接效率](https://juejin.im/post/5d4000b7f265da03e3695bc9)
   * [Spring Boot中使用Swagger2构建强大的RESTful API文档](http://blog.didispace.com/springbootswagger2/)
   * [在 Spring Boot 项目中使用 Swagger 文档](https://www.ibm.com/developerworks/cn/java/j-using-swagger-in-a-spring-boot-project/index.html)
