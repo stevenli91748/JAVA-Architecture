@@ -278,6 +278,7 @@ Open API开放平台必然涉及到客户应用的接入、API权限的管理、
   * [REST API 接口测试](https://www.imooc.com/learn/1048)
 # 有用的参考
   * [【项目实践】SpringBoot三招组合拳，一步一步演示如何构建起一个优秀的后端接口体系](https://www.jianshu.com/p/b5b8613769db)
+  * [如何优雅设计 API 接口，实现统一格式返回？](https://www.jianshu.com/p/90bac4eda34a)
   * [啥？听说你还在手写复杂的参数校验？](https://mp.weixin.qq.com/s/WQ-2fPOxk0GvSHiRR5-kQw)
   * [SpringBoot集成Swagger2实现Restful(类型转换错误解决办法)](https://www.jb51.net/article/117925.htm)
   * [一文弄懂 CORS 跨域(前端+后端代码实例讲解)](https://www.jianshu.com/p/f18388d6b931)
