@@ -479,3 +479,4 @@
   * [用IntelliJ IDEA新建web项目 一步一步从零开始 搭建](https://blog.csdn.net/loveyouluobin/article/details/80062382)
   * [IDEA导入Tomcat源码](https://blog.csdn.net/u013268035/article/details/81349341)
   * [Intellij IDEA 2017 debug断点调试技巧与总结详解篇](https://blog.csdn.net/qq_27093465/article/details/64124330)
+  * [IDEA一定要懂的32条快捷键](https://mp.weixin.qq.com/s?__biz=MzUyNDkzNzczNQ==&mid=2247485672&idx=1&sn=8266c9dd7b0feb9e88f9394b7878ba3f&chksm=fa24f780cd537e96b4636cf22c6e12ddb754754573abf68ce8510989219926644801b3dcb06c&scene=21#wechat_redirect)
