@@ -153,6 +153,7 @@ Spring Boot 并不是用来替代 Spring 的解决方案，而是和 Spring 框�
  
 # 有用的参考
   * [SSM 一步一步演示如何整合这三者，并且会讲解每个配置的含义,如果想自己做一个完整的SSM项目，直接用这套架子进行开发也是完全没问题的](https://www.jianshu.com/p/c73cd21bf84a)
+  * [【项目实践】SpringBoot三招组合拳，手把手教你打出优雅的后端接口](https://www.jianshu.com/p/b5b8613769db)
   * [啥？听说你还在手写复杂的参数校验？](https://www.bilibili.com/read/cv4308221)
   * [Springboot+websocket+vue的聊天程序（项目源代码+部署教程+讲解）](https://www.jianshu.com/p/9b7f2e56276a)
   * [Spring和SpringBoot比较，解惑区别](https://blog.csdn.net/weixin_43770982/article/details/88977526?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task)
