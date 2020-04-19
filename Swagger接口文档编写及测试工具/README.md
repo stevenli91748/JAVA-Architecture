@@ -15,6 +15,7 @@ Swagger|
 
 # Swagger接口文档编写及测试工具视频
   * [【项目实践】SpringBoot三招组合拳，一步一步演示如何构建起一个优秀的后端接口体系](https://www.jianshu.com/p/b5b8613769db)
+  * [三分钟生成接口API文档，让前后端交互不在难](https://www.jianshu.com/p/2b07f334f4bf)
   * [SpringBoot 使用Swagger2打造在线接口文档（附汉化教程）](https://www.jianshu.com/p/7e543f0f0bd8)  
   * [利用 Swagger 构建 Api 文档，提升你的对接效率](https://juejin.im/post/5d4000b7f265da03e3695bc9)
   * [Spring Boot中使用Swagger2构建强大的RESTful API文档](http://blog.didispace.com/springbootswagger2/)
