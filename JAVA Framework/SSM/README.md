@@ -9,6 +9,7 @@
  * [java高并发分布式SSM项目实战视频教](https://space.bilibili.com/7028047/channel/detail?cid=40223)
 
 # 有用的参考
+  * [有了SpringBoot还有必要学SSM整合吗](https://www.jianshu.com/p/c73cd21bf84a)
   * [超详细图解从0搭建SSM框架【intellij idea】](https://blog.csdn.net/fygu18/article/details/79056075)
   * [基于maven的ssm框架整合的示例代码](https://www.jb51.net/article/131250.htm)
   * [电商项目介绍SSH 与 SSM 的区别---说的很好](https://blog.csdn.net/qq_35661171/article/details/78524293)
