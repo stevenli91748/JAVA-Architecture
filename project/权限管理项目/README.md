@@ -10,3 +10,4 @@
 
 * [超级全面的权限系统设计方案面世了](https://www.jianshu.com/p/1674d6aec026)
 * [后台系统设计——角色权限](https://www.jianshu.com/p/29c2d7721924)
+* [React+springboot权限管理系统·前后端分离](https://www.jianshu.com/p/b34674cd328d)
