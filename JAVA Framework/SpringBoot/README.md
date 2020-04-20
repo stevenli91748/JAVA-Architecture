@@ -160,6 +160,7 @@ Spring Boot 并不是用来替代 Spring 的解决方案，而是和 Spring 框�
   * [【项目实践】SpringBoot三招组合拳，手把手教你打出优雅的后端接口](https://www.jianshu.com/p/b5b8613769db)
   * [啥？听说你还在手写复杂的参数校验？](https://www.bilibili.com/read/cv4308221)
   * [Springboot+websocket+vue的聊天程序（项目源代码+部署教程+讲解）](https://www.jianshu.com/p/9b7f2e56276a)
+  * [从头撸到脚，SpringBoot 就一篇全搞定！](https://www.jianshu.com/p/a1399c21ee22)
   * [Spring和SpringBoot比较，解惑区别](https://blog.csdn.net/weixin_43770982/article/details/88977526?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task)
   * [Spring Boot面试题（2020最新版）](https://blog.csdn.net/ThinkWon/article/details/104397299)
   * [Spring Boot 学习资料汇总](http://www.ityouknow.com/springboot/2015/12/30/springboot-collect.html)
