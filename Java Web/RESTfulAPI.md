@@ -278,6 +278,7 @@ Open API开放平台必然涉及到客户应用的接入、API权限的管理、
   * [极速入门SpringCloud之API网关与服务发现](https://www.imooc.com/learn/1134)
   * [api设计第三版（node.js)](https://www.bilibili.com/video/av74605570?from=search&seid=5739552451698653385)
   * [REST API 接口测试](https://www.imooc.com/learn/1048)
+  * [高质量API接口设计最佳实践](https://www.bilibili.com/video/BV1g4411V7R9/?spm_id_from=333.788.videocard.7)
 # 有用的参考
   * [【项目实践】SpringBoot三招组合拳，一步一步演示如何构建起一个优秀的后端接口体系](https://www.jianshu.com/p/b5b8613769db)
   * [如何优雅设计 API 接口，实现统一格式返回？](https://www.jianshu.com/p/90bac4eda34a)
