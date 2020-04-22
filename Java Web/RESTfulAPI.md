@@ -12,6 +12,7 @@
 | :--- | :---: | 
 | 1-1 数据结构和算法的关系 | [无代码] |
 | [1-2 RESTfull API简单项目的快速搭建](https://www.bilibili.com/video/av13224378?from=search&seid=10786600269014143134) | [无代码] |
+| [REST API 接口测试](https://www.imooc.com/learn/1048)||
 | **第二部分 API网关 篇** | [无代码] | 
 | :--- | :---: | 
 | [零、API网关的分类](#API网关的分类)| [无代码]|
