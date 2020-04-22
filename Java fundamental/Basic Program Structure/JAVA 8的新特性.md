@@ -58,7 +58,7 @@
 # [JDK9新特性](https://www.cnblogs.com/peter1018/p/9209951.html)
 
 * 目录结构
-* 模块化系统
+* [模块化系统](https://www.imooc.com/learn/997)
 * jshell
 * 多版本兼容JAR
 * 接口的私有方法
