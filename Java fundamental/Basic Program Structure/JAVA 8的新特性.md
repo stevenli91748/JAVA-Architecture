@@ -97,6 +97,7 @@
 ## [va 11 正式发布，这 8 个逆天新特性教你写出更牛逼的代码](https://mp.weixin.qq.com/s?__biz=MzI3ODcxMzQzMw==&mid=2247487206&idx=1&sn=a8ccb604f8508bf296dbd7b25d8fb80f&chksm=eb538bd0dc2402c6449b529c7de2c8188070f15cc402a2650777bfc938a0e91790e2c3dd0f6d&scene=21#wechat_redirect)
 
 # [JDK12新特性](https://my.oschina.net/mdxlcj/blog/3102739)
+  * [JDK11&12 新特性解读](https://www.imooc.com/learn/553)
 
 # [JDK13新特性](https://my.oschina.net/mdxlcj/blog/3107021)
 
