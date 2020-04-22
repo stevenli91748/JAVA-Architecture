@@ -136,6 +136,7 @@ Spring Boot 并不是用来替代 Spring 的解决方案，而是和 Spring 框�
 
 
 # Spring Boot视频
+ * [SpringBoot开发常用技术整合](https://www.imooc.com/learn/956)
  * [Spring Boot热部署](https://www.imooc.com/learn/915)
  * [尚硅谷--spring-spring注解驱动开发-源码版-雷丰阳](https://www.bilibili.com/video/BV1ME411o7Uu?from=search&seid=2831014032148563470)
  * [Spring Boot 与 Spring Cloud 入门进阶超详细教程](https://www.bilibili.com/video/BV1ut411K7qj/?spm_id_from=333.788.videocard.0)
