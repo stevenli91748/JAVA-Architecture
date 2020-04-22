@@ -3,7 +3,8 @@
 
 
 # 视频
-* [Jenkins+K8s实现持续集成](https://www.imooc.com/learn/1112)
+ * [用Jenkins自动化搭建测试环境](https://www.imooc.com/learn/1008)
+ * [Jenkins+K8s实现持续集成](https://www.imooc.com/learn/1112)
  * [一个完整实操演示揭露Jenkins项目部署发布过程](https://www.bilibili.com/video/av49707383?from=search&seid=51472329364734361)
  * [持续集成 Jenkins 视频教程](https://www.bilibili.com/video/av63839193/?spm_id_from=333.788.videocard.12)
  * [Jenkins与Docker/Kubernetes的自动化CI流水线初探](https://www.bilibili.com/video/av49787649/?spm_id_from=333.788.videocard.8)
