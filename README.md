@@ -64,6 +64,7 @@
   * 解决方案
 * 用户认证项目
   * 用户注册
+  * [验证码制作](https://www.imooc.com/learn/283)
   * [SSO单点登录](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Ecommerce%20Project/SSO单点登录/README.md)
   * [第三方登录](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Ecommerce%20Project/第三方登录/README.md)
   * 权限控制
