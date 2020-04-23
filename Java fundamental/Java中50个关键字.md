@@ -351,6 +351,7 @@ public class test {        //1.第一步，准备加载类
 * [Java语言中关键字strictfp的用途](https://blog.csdn.net/redv/article/details/326444)
 
 ### synchronized
+* [Java高并发之魂：synchronized深度解析](https://www.imooc.com/learn/1086)
 * [synchronized](https://blog.csdn.net/mingyundezuoan/article/details/79264644)
 * [synchronized(.class) synchronized(Object ) synchronized(this) 区别](https://blog.csdn.net/u011996917/article/details/80783471)
 * [Java语言中synchronized 修饰在 static方法和 非static方法的区别](https://blog.csdn.net/virgoboy2004/article/details/7585182)
