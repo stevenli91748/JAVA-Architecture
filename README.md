@@ -198,7 +198,7 @@
 * [Java企业级电商项目架构演进之路 Tomcat集群与Redis分布式](https://www.bilibili.com/video/av77880800?from=search&seid=4258377980332700343)
 * [Introduction to Web Development | Full Stack Web Development Tutorial Course](https://www.youtube.com/watch?v=EceJQ05KTf4&list=PLwoh6bBAszPrES-EOajos_E9gvRbL27wz)
 ### 尚硅谷
-
+* [项目搭建“天眼”Java大规模分布式跟踪监控系统（实战项目）](https://www.bilibili.com/video/BV1gZ4y1x7VM?p=6)
 * [2019尚硅谷谷粒商城微服务SpringBoot,Dubbo,MySql高级,Redis秒杀,ElasticSearch,ActiveMQ,SSO单点](https://github.com/stevenli91748/JAVA-Architecture/blob/master/project/%E8%B0%B7%E7%B2%92%E5%95%86%E5%9F%8E--%E5%BE%AE%E6%9C%8D%E5%8A%A1%E5%88%86%E5%B8%83%E5%BC%8F%E7%94%B5%E5%95%86%E9%A1%B9%E7%9B%AE/README.md "谷粒商城是一个高并发、高可用、分布式架构的电商网站. SpringBoot+MyBatisPlus+Dubbo+RabbitMQ+Redis+Elasticsearch+Docker/K8S +Vue.js完全分布式系统架构,高并发与压力测试、MySQL集群/读写分离、Elasticsearch分布式搜索集群、Redis缓存集群、Nginx+Lua分布式限流、Redis+Lua分布式锁、支付宝接口、Docker虚拟化容器部署、高并发秒杀解决方案、RabbitMQ消息中间件、MyCat分库分表、Canal订阅binlog抽取MySQL数据、Servlet3.0异步线程隔离、异步编排") 
 * [尚硅谷谷粒在线教育项目](https://www.bilibili.com/video/BV1n741127tx/?spm_id_from=333.788.videocard.1 "谷粒在线教育是一个使用了目前最主流微服务技术架构，前后端分离开发的IT在线教育平台.项目前后端分离开发前端使用Node.js + Vue.js技术栈;后端采用SpringCloud微服务架构，同时包含服务发现、服务路由、服务容错、API 网关、自动化部署、服务监控、服务跟踪等基础设施模块，涵盖容器化技术、服务器端渲染的技术，主流的缓存中间件、搜索引擎、消息队列的使用，有独立的配置中心，分库分表，多数据源路由，后端：Docker + Nginx + SpringBoot + SpringCloud + SpringMVC + MyBatis-Plus + MySQL + Maven
 前端：Node.js + Vue.js + vueAdmin-template + Nuxt.js + NPM + WebPack")
