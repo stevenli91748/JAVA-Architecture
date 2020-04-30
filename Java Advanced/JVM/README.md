@@ -157,6 +157,7 @@
  
  
 # JVM视频
+  * [这可能是B站唯一可以讲JVM内存模型的底层源码教程](https://www.bilibili.com/video/BV1BT4y1G73q?p=1)
   * [JVM成神之路-Java系列课](https://www.bilibili.com/video/BV1Cb411t7oP/?spm_id_from=333.788.videocard.9)
   * [尚硅谷_JVM从入门到精通](https://www.bilibili.com/video/BV1BJ41177cp/?spm_id_from=333.788.videocard.7)
   * [深入理解Java虚拟机（JVM性能调优+内存模型+虚拟机原理）](https://www.bilibili.com/video/av29502877/?spm_id_from=333.788.videocard.0)
