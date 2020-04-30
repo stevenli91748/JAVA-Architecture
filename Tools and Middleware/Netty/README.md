@@ -21,6 +21,8 @@
 * [Netty服务端开发_第一部分](https://www.bilibili.com/video/av61740948?from=search&seid=17769244853057910775)
 * [Netty服务端开发_第二部分](https://www.bilibili.com/video/av61773545/?spm_id_from=333.788.videocard.15)
 * [Netty服务端开发_第三部分（完结撒花~）](https://www.bilibili.com/video/av61833922/?spm_id_from=333.788.videocard.6)
+* [重量级Netty视频，Netty的方方面面](https://www.youtube.com/watch?v=DKJ0w30M0vg&list=PLPACrBSgVF-z43jTEpKQZi9h_W8RkSiM3&index=1)
+
 * [JAVA教程 netty 构建百万级并发弹幕系统超详细教学](https://www.bilibili.com/video/av54718542/?spm_id_from=333.788.videocard.8)
 * [全网首部：Netty源码剖析&NIO+Netty5各种RPC架构实战演练](https://www.bilibili.com/video/av45655374/?spm_id_from=333.788.videocard.20)
 * [java全栈工程师视频- 使用netty构建API网关实践之路](https://www.bilibili.com/video/av54737864/?spm_id_from=333.788.videocard.19)
