@@ -1,5 +1,5 @@
 
-[SpringCloud- Alibaba](https://www.bilibili.com/video/BV1cE411W7G4/?spm_id_from=333.788.videocard.16)|
+[SpringCloud- Alibaba](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%20Alibaba/README.md)|
 ----|
 
 * 服务注册与发现
@@ -69,7 +69,7 @@
 
 * [课程 1  SpringCloud Finchley三版本微服务实战](https://www.bilibili.com/video/BV137411L7bX?from=search&seid=7267066419827355478)
 * [SpringCloud微服务架构的分布式事务控制解决方案](https://www.bilibili.com/video/BV14J411P7B2?from=search&seid=5160135776548693165)
-
+* [2小时演示从头搭建Spring Cloud完整环境。配置中心、注册中心、网关、消息中间件、链路跟踪](https://www.bilibili.com/video/BV14W411j7uH/?spm_id_from=333.788.videocard.1)
 
 * [基于SpringCloud构建微服务电商项目](https://www.bilibili.com/video/av64134293/?spm_id_from=333.788.videocard.1)
 * [SpringCloud高可用微服务架构实战](https://www.bilibili.com/video/av48894754?from=search&seid=5921434574097814719)
