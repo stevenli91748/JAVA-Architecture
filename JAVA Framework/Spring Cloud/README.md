@@ -68,7 +68,7 @@
 ## Spring Cloud 项目从易到难路线图视频
 
 * [课程 1  SpringCloud Finchley三版本微服务实战](https://www.bilibili.com/video/BV137411L7bX?from=search&seid=7267066419827355478)
-* []()
+* [SpringCloud微服务架构的分布式事务控制解决方案](https://www.bilibili.com/video/BV14J411P7B2?from=search&seid=5160135776548693165)
 
 
 * [基于SpringCloud构建微服务电商项目](https://www.bilibili.com/video/av64134293/?spm_id_from=333.788.videocard.1)
