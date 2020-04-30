@@ -29,7 +29,8 @@
 
 # 开源项目实践
 
-* [Java企业级开源项目推荐](https://www.youtube.com/watch?v=gJB0hSsAFR0)
+[Java企业级开源项目推荐 1](https://www.youtube.com/watch?v=gJB0hSsAFR0)|[Java企业级开源项目推荐 2](https://www.bilibili.com/video/BV1FJ411z7kk/?spm_id_from=333.788.videocard.1)|
+---|---|
 
 
 
