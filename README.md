@@ -178,6 +178,7 @@
 * [重要 千万级项目从0到100的成长全过程--涵盖Java程序员不同成长阶段的问题及优选解决方案](https://github.com/stevenli91748/JAVA-Architecture/blob/master/project/千万级项目从0到100的成长全过程项目.md)
 * [重要 Docker环境下的前后端分离项目部署与运维 --分布式集群部署  Haproxy Nginx负载均衡  Keepalived避免容灾  阿里云部署](https://github.com/stevenli91748/JAVA-Architecture/blob/master/project/Docker环境下的前后端分离项目部署与运维.md)
 * [[全面]JAVA分布式架构师项目实战Springboot+MyBatis+RocketMQ+Zookeeper](https://www.bilibili.com/video/av46875560/?spm_id_from=333.788.videocard.10)
+* [B站讲的最好SpinrBoot+dubbo分布式优惠券系统实战](https://www.bilibili.com/video/BV1WC4y1s7yx?p=1)
 * [基于SpringCloud构建微服务电商项目](https://www.bilibili.com/video/av64134293/?spm_id_from=333.788.videocard.1)
 * [亿级流量电商详情页系统实战（第二版）：缓存架构+高可用服务架构+微服务](https://www.bilibili.com/video/av71494884/?spm_id_from=333.788.videocard.3)
 * [Dubbo+zookeeper+SpringBoot+Redis+MQ微服务架构实战开发](https://www.bilibili.com/video/BV1VJ411g7Zq/?spm_id_from=333.788.videocard.5)
