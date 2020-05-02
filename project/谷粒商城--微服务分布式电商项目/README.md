@@ -9,6 +9,6 @@
   
  [ 第二部分   分布式高级篇_微服务架构篇](http://www.baidu.com "开发整个商城系统，掌握微服务的全套方案。使用SpringBoot+SpringCloud并配套SpringCloud Alibaba系列，引入全套微服务治理方案：Nacos注册中心/配置中心、Sentinel流量保护系统、Seata分布式事务&RabbitMQ柔性事务方案、SpringCloud-Gateway网关、Feign远程调用、Sleuth+Zipkin链路追踪系统、Spring Cache缓存、SpringSession跨子域Session同步方案、基于ElasticSearch7全文检索、异步编排与线程池、压力测试调优、Redisson分布式锁、分布式信号量等")
   
-  第三部分   高可用集群篇_架构师提升篇
+  [第三部分   高可用集群篇_架构师提升篇](http://www.baidu.com "基于kubernetes集群，整合kubesphere可视化界面，搭建全套系统环境。使用集群化部署，包括Redis Cluster集群，MySQL主从与分库分表(使用ShardingSphere完成)集群，RabbitMQ镜像队列集群，ElasticSearch高可用集群。基于kubesphere整合Jenkins全可视化CICD，全套Pipeline流水线编写，参数化构建+手动确认模式保证")
 
 # [2020 最新版  尚硅谷电商项目谷粒商城【springCloud-alibaba】](https://www.bilibili.com/video/BV1CJ411r7AR/?spm_id_from=333.788.videocard.13)
