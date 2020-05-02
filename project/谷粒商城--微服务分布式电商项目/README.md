@@ -1,6 +1,6 @@
 # [2019 教学版 谷粒商城--微服务分布式电商项目  简单入门 ](https://www.youtube.com/watch?v=Jbq3oRr-oz8&list=PLmOn9nNkQxJH0oGYrclN70K7V9TWIYAp-&index=1)
 
-# [2019 旧版 谷粒商城--微服务分布式电商项目 SSM 工业环境](https://www.bilibili.com/video/av55643074/?spm_id_from=333.788.videocard.13)
+# [2019 旧版 谷粒商城--微服务分布式电商项目 SSM框架 工业环境](https://www.bilibili.com/video/av55643074/?spm_id_from=333.788.videocard.13)
 
 
 # 2020 新版 谷粒商城--微服务分布式电商项目 Spring Boot + Spring Cloud  工业环境
