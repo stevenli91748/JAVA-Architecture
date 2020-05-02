@@ -5,7 +5,7 @@
 
 # 2020 新版 谷粒商城--微服务分布式电商项目 Spring Boot + Spring Cloud  工业环境
   
-  [第一部分    分布式基础_全栈开发篇](https://www.bilibili.com/video/BV1QA41187m2?p=1)
+  [第一部分    分布式基础_全栈开发篇](https://www.bilibili.com/video/BV1QA41187m2?p=1 "使用SpringBoot+Vue+element-ui+逆向工程搭建全套后台管理系统，基于Docker环境，通过前后分离方式，以商品系统为例，手把手教大家进行全栈开发")
   
   第二部分   分布式高级篇_微服务架构篇
   
