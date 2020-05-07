@@ -200,6 +200,7 @@
 * [从零打造企业级电商后台管理系统](https://www.bilibili.com/video/av57082433/?spm_id_from=333.788.videocard.5)
 * [2019Java青橙商城项目实战-IDEA版SSM大型分布式电商项目实战](https://www.bilibili.com/video/av83216711/?spm_id_from=333.788.videocard.5)
 * [Java企业级电商项目架构演进之路 Tomcat集群与Redis分布式](https://www.bilibili.com/video/av77880800?from=search&seid=4258377980332700343)
+* [从0到1开发java高并发分布式SSM项目教程](https://www.youtube.com/watch?v=1URBE2UO_Bo&list=PLjjwfqIOpH-iy7l05VaJw8zOCYAevt7A2)
 * [Introduction to Web Development | Full Stack Web Development Tutorial Course](https://www.youtube.com/watch?v=EceJQ05KTf4&list=PLwoh6bBAszPrES-EOajos_E9gvRbL27wz)
 ### 尚硅谷
 * [项目搭建“天眼”Java大规模分布式跟踪监控系统（实战项目）](https://www.bilibili.com/video/BV1gZ4y1x7VM?p=6)
