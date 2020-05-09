@@ -1,6 +1,6 @@
 
 # @Configuration
-
+表示将该类作用springboot配置文件类
 这个注解类标识这个类可以使用Spring IOC容器作为bean定义的来源。下面是@Configuration里的一个例子
 
 ```java
