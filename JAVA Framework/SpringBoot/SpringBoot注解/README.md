@@ -24,7 +24,7 @@
 @ConditionalOnMissingClass|@ConditionalOnNotWebApplication|
 ---|---|
 
-@Bean|@Configuration|@ComponentScan|@RunWith|@SpringBootTest|@Autowired|@MapperScan|
+[@Bean](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%E6%B3%A8%E8%A7%A3/%40Bean.md)|[@Configuration](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%E6%B3%A8%E8%A7%A3/@Configuration.md)|@ComponentScan|@RunWith|@SpringBootTest|@Autowired|@MapperScan|
 ---|---|---|---|---|---|---|
 
 @Table|@Data|@Id|@GeneratedValue|@Service|@Controller|@RequestMapping|@ResponseBody|
