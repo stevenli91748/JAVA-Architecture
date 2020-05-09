@@ -54,8 +54,8 @@
 
 
 
-@ImportResource|@Import||@Value|@Inject|@Qualifier|@Resource|@EnableWebMvc|
----|---|---|---|---|----|---|
+@ImportResource|@Import|@Value|@Inject|@Qualifier|@Resource|@EnableWebMvc|
+---|---|---|---|---|---|---|
 
 @PathVariable|@JsonBackReference|@RepositoryRestResourcepublic|@RequestParam|
 ---|---|---|---|
