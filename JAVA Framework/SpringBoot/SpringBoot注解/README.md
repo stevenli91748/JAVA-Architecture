@@ -92,6 +92,7 @@
 * [尚硅谷--spring-spring注解驱动开发-源码版-雷丰阳](https://www.bilibili.com/video/BV1ME411o7Uu?from=search&seid=2831014032148563470)
 
 # 有用的参考
+* [Spring Boot 微服务常用注解大全](https://1o24bbs.com/t/topic/13499)
 * [Java开发必须掌握的 20+ 种 Spring 常用注解](https://www.jianshu.com/p/5bbbc2f5552c)
 * [自己写注解，了解注解的原理](https://www.bilibili.com/read/cv4802402)
 * [SpringBoot注解最全详解(整合超详细版本)](https://blog.csdn.net/weixin_40753536/article/details/81285046)
