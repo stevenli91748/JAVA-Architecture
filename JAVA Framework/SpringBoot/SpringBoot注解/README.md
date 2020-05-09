@@ -61,6 +61,12 @@
 [@Entity](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%E6%B3%A8%E8%A7%A3/%40Entity.md)|[@Table](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%E6%B3%A8%E8%A7%A3/%40Table.md)|[@Data](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%E6%B3%A8%E8%A7%A3/%40Data.md)|[@Id](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%E6%B3%A8%E8%A7%A3/%40Id.md)|[@GeneratedValue](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%E6%B3%A8%E8%A7%A3/%40GeneratedValue.md)
 ---|---|---|---|---|
 
+[@MappedSuperClass](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%E6%B3%A8%E8%A7%A3/%40MappedSuperClass.md)|[@NoRepositoryBean](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%E6%B3%A8%E8%A7%A3/%40NoRepositoryBean.md)|[@Column](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%E6%B3%A8%E8%A7%A3/%40Column.md)|[@SequenceGeneretor](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%E6%B3%A8%E8%A7%A3/%40SequenceGeneretor.md)|[@Transient](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%E6%B3%A8%E8%A7%A3/%40Transient.md)|
+---|---|---|---|---|
+
+[@JsonIgnore](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%E6%B3%A8%E8%A7%A3/%40JsonIgnore.md)|[@JoinColumn](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%E6%B3%A8%E8%A7%A3/%40JoinColumn.md)|[@OneToOne、@OneToMany、@ManyToOne](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%E6%B3%A8%E8%A7%A3/%40OneToOne%E3%80%81%40OneToMany%E3%80%81%40ManyToOne.md)|
+---|---|---|
+
 
 # 全局异常处理
 
@@ -113,7 +119,7 @@
 
 # JPA注解
 
-|@Table|@MappedSuperClass|@NoRepositoryBean|@Column|@id|@GeneratedValue|
+|@Table||@id|@GeneratedValue|
 ---|---|---|---|---|---|---|
 
 @SequenceGeneretor|@Transient|@Basic|@Jsonlgnore|@JoinColumn|
