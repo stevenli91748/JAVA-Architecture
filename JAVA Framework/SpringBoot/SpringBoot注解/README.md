@@ -30,7 +30,7 @@
 @Table|@Data|@Id|@GeneratedValue|@Service|@Controller|@RequestMapping|@ResponseBody|
 ---|--|---|---|---|---|---|---|
 
-@repository|@component|@RestController|@GetMapping与 @PostMapping|@EnableEurekaServer|
+@repository|@component|[@RestController](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot注解/%40RestController.md)|@GetMapping与 @PostMapping|@EnableEurekaServer|
 ---|--|---|---|---|
 
 @EnableDiscoveryClient与@EnableEurekaClient|@LoadBalanced|@EnableCircuitBreaker|@EnableHystrix|
@@ -48,17 +48,14 @@
 
 # Spring的注解
 
-[@RestController](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot注解/%40RestController.md)|
 
 
-@controller|@RequestBody|@RequestMapping|@Configuration|@EnableAutoConfiguration|@ComponentScan|
----|---|---|---|---|---|
 
-@RestController|@ResponseBody|@Component|@Service|@Autowired|@Repository|
----|---|---|---|---|---|
 
-@ImportResource|@Import|@Bean|@Value|@Inject|@Qualifier|@Resource|@EnableWebMvc|
----|---|---|---|---|----|---|---|
+
+
+@ImportResource|@Import||@Value|@Inject|@Qualifier|@Resource|@EnableWebMvc|
+---|---|---|---|---|----|---|
 
 @PathVariable|@JsonBackReference|@RepositoryRestResourcepublic|@RequestParam|
 ---|---|---|---|
