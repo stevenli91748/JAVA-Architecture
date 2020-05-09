@@ -34,7 +34,7 @@
 ---|--|---|---|---|
 
 @EnableDiscoveryClient与@EnableEurekaClient|@LoadBalanced|@EnableCircuitBreaker|@EnableHystrix|
----|------|---|
+---|------|---|---|
 
 @SpringCloudApplication|@HystrixCommand|@DefaultProperties|@HystrixProperty|@FeignClient|
 ---|--|---|---|---|
