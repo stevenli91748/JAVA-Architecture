@@ -2,3 +2,4 @@
 # @EnableAutoConfiguration
 
 能够自动配置spring的上下文，试图猜测和配置你想要的bean类，通常会自动根据你的类路径和你的bean定义自动配置
+表示程序启动时，自动加载springboot默认的配置
