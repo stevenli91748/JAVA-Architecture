@@ -3,6 +3,8 @@
 
 # @Value
 
+注入Spring boot application.properties配置的属性的值
+
 @Value : 属性注入
 
 @Value ("我爱你")  --> 普通字符串注入
