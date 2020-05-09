@@ -1,0 +1,6 @@
+
+
+
+# @SpringApplicationConfiguration
+
+@SpringApplicationConfiguration注解从ReadingListApplication配置类里加载 Spring应用程序上下文
