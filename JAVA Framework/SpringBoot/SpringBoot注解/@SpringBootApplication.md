@@ -1,4 +1,5 @@
 @SpringBootApplication注解是Spring Boot的核心注解，它其实是一个组合注解：
+开启了Spring的组件扫描和Spring Boot的自动配置功能
 
 ```java
 
