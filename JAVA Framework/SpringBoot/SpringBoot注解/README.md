@@ -24,6 +24,28 @@
 @ConditionalOnMissingClass|@ConditionalOnNotWebApplication|
 ---|---|
 
+@Bean|@Configuration|@ComponentScan|@RunWith|@SpringBootTest|@Autowired|@MapperScan|
+---|---|---|---|---|---|---|
+
+@Table|@Data|@Id|@GeneratedValue|@Service|@Controller|@RequestMapping|@ResponseBody|
+---|--|---|---|---|---|---|---|
+
+@repository|@component|@RestController|@GetMapping与 @PostMapping|@EnableEurekaServer|
+---|--|---|---|---|
+
+@EnableDiscoveryClient与@EnableEurekaClient|@LoadBalanced|@EnableCircuitBreaker|@EnableHystrix|
+---|------|---|
+
+@SpringCloudApplication|@HystrixCommand|@DefaultProperties|@HystrixProperty|@FeignClient|
+---|--|---|---|---|
+
+@EnableFeignClient|@EnableZuulProxy|
+---|---
+
+
+
+
+
 # Spring的注解
 
 [@RestController](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot注解/%40RestController.md)|
