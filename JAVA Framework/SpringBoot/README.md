@@ -52,6 +52,8 @@ applyinitializers|listeners.contextPrepared|listeners.contextLoaded|refreshConte
 
 # 配置文件
 
+[Spring Boot读取配置的几种方式](https://mp.weixin.qq.com/s?__biz=MzI3ODcxMzQzMw==&mid=2247484575&idx=1&sn=56c88cd7283374345d891e85a800539b&scene=21#wechat_redirect)
+
 然后要知道在Spring Boot中有两种上下文，一种是bootstrap, 另外一种是application。
 
 bootstrap是应用程序的父上下文，也就是说bootstrap会先于applicaton加载。bootstrap主要用于从额外的资源来加载配置信息，还可以在本地外部配置文件中解密属性。bootstrap里面的属性会优先加载，默认也不能被本地相同配置覆盖。
