@@ -23,3 +23,21 @@ public class AppConfig {
 ```
 
 这个配置就等同于之前在xml里的配置
+
+--
+
+这是 Spring 3.0 添加的一个注解，用来代替 applicationContext.xml 配置文件，所有这个配置文件里面能做到的事情都可以通过这个注解所在类来进行注册。
+
+下面几个相关注解也是非常重要的！
+
+@Bean
+
+用来代替 XML 配置文件里面的 <bean ...> 配置。
+
+@ImportResource
+
+如果有些通过类的注册方式配置不了的，可以通过这个注解引入额外的 XML 配置文件，有些老的配置文件无法通过 @Configuration 方式配置的非常管用。
+
+@Import
+
+用来引入额外的一个或者多个 @Configuration 修饰的配置文件类。
