@@ -38,3 +38,17 @@ privateBaseDao baseDao;
 privateBaseDao baseDao;
 
 推荐使用：@Resource注解在字段上，这样就不用写setter方法了，并且这个注解是属于J2EE的，减少了与spring的耦合。这样代码看起就比较优雅
+
+
+个人总结：
+
+@Autowired//默认按type注入
+
+@Qualifier("cusInfoService")//一般作为@Autowired()的修饰用
+
+@Resource(name="cusInfoService")//默认按name注入，可以通过name和type属性进行选择性注入
+ 
+
+一般@Autowired和@Qualifier一起用，@Resource单独用。
+
+当然没有冲突的话@Autowired也可以单独用
