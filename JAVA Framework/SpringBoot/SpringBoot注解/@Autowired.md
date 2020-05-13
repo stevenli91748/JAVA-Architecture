@@ -15,7 +15,9 @@
 个人总结：
 
 @Autowired//默认按type注入
+
 @Qualifier("cusInfoService")//一般作为@Autowired()的修饰用
+
 @Resource(name="cusInfoService")//默认按name注入，可以通过name和type属性进行选择性注入
 
  
