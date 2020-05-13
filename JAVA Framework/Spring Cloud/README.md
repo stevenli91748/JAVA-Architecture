@@ -7,15 +7,24 @@
 ----|
 
 * 服务注册与发现
-  * eureka
+  * eureka--服务注册中心用于服务管理
     * [Eureka 提供方 demo](https://blog.csdn.net/KinseyGeek/article/details/78597605)
     * [Eureka 消费端demo](https://blog.csdn.net/KinseyGeek/article/details/78597476)
     
   * consul
   * zookeeper
+* Ribbon---基于客户端的负载均衡组件
+* Hystrix---容错框架，能够防止服务的雪崩效应
+* Feign---Web服务客户端，能够简化HTTP接口的调用
+* Config---分布式配置管理
+* Sleuth---服务跟踪
+* Stream---构建消息驱动的微服务应用程序的框架
+* Bus---消息代理的集群消息总线。
+* Cli---
+* Task---
 * 网关路由
   * zuul1.x
-  * zuul2.x
+  * zuul2.x---API网关，提供路由转发、请求过滤等功能
   * gateway
 * 服务调用
   * Ribbon
