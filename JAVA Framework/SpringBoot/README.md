@@ -36,8 +36,8 @@
 [Spring boot 项目打成war包部署到远程服务器tomcat](https://www.bilibili.com/video/av78310165?from=search&seid=1134316332664179526)|[六分钟演示SpringBoot部署到腾讯云绑定域名](https://www.bilibili.com/video/av59319568?from=search&seid=1976421999597493025)|[RESTfull API简单项目的快速搭建](https://www.bilibili.com/video/av13224378?from=search&seid=10786600269014143134)|
 ---|---|---|
 
-[SpringBoot布道系列](https://www.jianshu.com/p/964370d9374e)|
----|
+[SpringBoot布道系列](https://www.jianshu.com/p/964370d9374e)|[SpringBoot 使用线程池](https://crossoverjie.top/2018/07/29/java-senior/ThreadPool/)|[Netty(一) SpringBoot 整合长连接心跳机制](https://crossoverjie.top/2018/05/24/netty/Netty(1)TCP-Heartbeat/#SpringBoot-%E7%9B%91%E6%8E%A7)|
+---|---|---|
 
 # 启动流程
 
