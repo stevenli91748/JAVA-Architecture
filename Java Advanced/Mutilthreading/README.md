@@ -45,7 +45,7 @@
   * 被废弃的suspend()和resume()方法
   * 被废弃的stop()方法
   * 以编程的方式控制线程
-* [线程池](https://crossoverjie.top/2018/07/29/java-senior/ThreadPool/)
+* [线程池---如何优雅的使用和理解线程池](https://crossoverjie.top/2018/07/29/java-senior/ThreadPool/)
 * 处理线程未捕获的异常
 * ThreadLocal类
 * Concurrent并发包
