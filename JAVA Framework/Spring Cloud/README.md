@@ -7,7 +7,7 @@
 ----|
 
 * 服务注册与发现
-  * eureka--服务注册中心用于服务管理
+  * eureka--主要负责实现微服务架构中的服务治理功能
     * [Eureka 提供方 demo](https://blog.csdn.net/KinseyGeek/article/details/78597605)
     * [Eureka 消费端demo](https://blog.csdn.net/KinseyGeek/article/details/78597476)
     
