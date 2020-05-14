@@ -25,7 +25,7 @@
   * gateway
 * 服务调用
   * Ribbon---基于客户端的负载均衡组件
-  * feign---Web服务客户端，能够简化HTTP接口的调用
+  * [feign---Web服务客户端，能够简化HTTP接口的调用](https://blog.csdn.net/u012734441/article/details/77662617)
   * Hystrix---容错框架，能够防止服务的雪崩效应
 * 链路监控中心
   * 监控
