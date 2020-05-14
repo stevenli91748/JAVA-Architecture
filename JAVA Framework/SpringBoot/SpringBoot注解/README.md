@@ -20,7 +20,7 @@
 ---|---|---|
 
 
-@ConditionalOnBean|@ConditionalOnClass|@ConditionalOnExpression|@ConditionalOnMissingBean|@ConditionalOnProperty|
+@ConditionalOnBean|@ConditionalOnClass|@ConditionalOnExpression|@ConditionalOnMissingBean|[@ConditionalOnProperty](https://blog.csdn.net/dalangzhonghangxing/article/details/78420057)|
 ---|---|---|---|---|
 
 @ConditionalOnMissingClass|@ConditionalOnNotWebApplication|[@Conditional](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%E6%B3%A8%E8%A7%A3/%40Conditional.md)|
