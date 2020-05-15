@@ -25,7 +25,7 @@ public String getByMacAddress(@PathVariable String macAddress){
 
 例子二：
 
-···java
+```java
 
 @Controller
 @RequestMapping("/owners/{ownerId}")
@@ -47,7 +47,7 @@ public class RelativePathUriTemplateController {
 
 // 动态传值
 
-···java
+```java
 
 @RequestMapping(value="/Test/{id}")
 public void Test(@PathVariable Integer id){
