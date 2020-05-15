@@ -38,6 +38,7 @@ public class RelativePathUriTemplateController {
 }
 
 ```
+
 上面代码把URI template 中变量 ownerId的值和petId的值，绑定到方法的参数上。若方法参数名称和需要绑定的uri template中变量名称不一致，需要
 在@PathVariable("name")指定uri template中的名称。
 
