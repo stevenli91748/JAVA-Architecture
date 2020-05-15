@@ -8,6 +8,8 @@ $ @PathVariable
 
 路径变量。如
 
+例子一：
+
 ```java 
 
 RequestMapping(“user/get/mac/{macAddress}”)
@@ -18,3 +20,47 @@ public String getByMacAddress(@PathVariable String macAddress){
 ```
 
 参数与大括号里的名字一样要相同。
+
+
+
+例子二：
+
+···java
+
+@Controller
+@RequestMapping("/owners/{ownerId}")
+public class RelativePathUriTemplateController {
+ 
+  @RequestMapping("/pets/{petId}")
+  public void findPet(@PathVariable String ownerId, @PathVariable String petId, Model model) {    
+    // implementation omitted
+  }
+}
+
+```
+
+例子三：
+
+···java
+
+// 动态传值
+
+@RequestMapping(value="/Test/{id}")
+public void Test(@PathVariable Integer id){
+            .............
+}
+
+
+//用法
+
+//在页面表单的action中，写controller中对应的方法名
+ 
+TestController.java
+@RequestMapping(value="/{methodName}")
+public String TZ(@PathVariable String methodName){
+              return methodName;
+}
+
+
+```
+
