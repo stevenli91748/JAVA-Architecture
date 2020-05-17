@@ -193,7 +193,7 @@
 * [java高级项目实战,学完就有3年工作经验,直接拿高薪!](https://www.bilibili.com/video/av45560930/?spm_id_from=333.788.videocard.14)
 * [SSM-电商网站开发实战-硅谷商城（附源码笔记）](https://www.bilibili.com/video/av57032859?from=search&seid=12943368697372067470)
 * [宜立方商城(附源码笔记)](https://www.bilibili.com/video/av56811084?from=search&seid=12943368697372067470)
-* [黑马乐优商城IDEA最新2019](https://www.bilibili.com/video/av55444350/?spm_id_from=333.788.videocard.5)
+* [黑马乐优商城IDEA最新2019](https://github.com/stevenli91748/JAVA-Architecture/blob/master/project/%E9%BB%91%E9%A9%AC%E4%B9%90%E4%BC%98%E5%95%86%E5%9F%8E/README.md)
 * [Java Web项目实战 黑马旅游网（IDEA版）](https://www.bilibili.com/video/av51089566/?spm_id_from=333.788.videocard.20)
 * [易购电商项目  SSM 2019](https://www.bilibili.com/video/av50875163/?spm_id_from=333.788.videocard.3)
 * [传智播客|JavaWeb网上图书商城完整项目](https://www.bilibili.com/video/av46815831/?spm_id_from=333.788.videocard.18)
