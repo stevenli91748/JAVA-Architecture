@@ -87,8 +87,8 @@
 
 # Swagger注解
 
-@EnableSwagger2Doc|
----|
+[@EnableSwagger2Doc](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%E6%B3%A8%E8%A7%A3/%40EnableSwagger2Doc.md)|@ApiOperation|@ApiResponses|@PostMapping|@ApiModel|@ApiModelProperty|
+---|---|---|---|---|---|
 
 
 # JPA的注解
