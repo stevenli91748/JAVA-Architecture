@@ -87,7 +87,7 @@
 
 # Swagger注解
 
-[@EnableSwagger2Doc](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%E6%B3%A8%E8%A7%A3/%40EnableSwagger2Doc.md)|@ApiOperation|@ApiResponses|@PostMapping|@ApiModel|@ApiModelProperty|
+[@EnableSwagger2Doc](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%E6%B3%A8%E8%A7%A3/%40EnableSwagger2Doc.md)|[@ApiOperation](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%E6%B3%A8%E8%A7%A3/%40ApiOperation.md)|[@ApiResponses](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%E6%B3%A8%E8%A7%A3/%40ApiResponses.md)|[@PostMapping](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%E6%B3%A8%E8%A7%A3/%40PostMapping.md)|[@ApiModel](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%E6%B3%A8%E8%A7%A3/%40ApiModel.md)|[@ApiModelProperty](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%E6%B3%A8%E8%A7%A3/%40ApiModelProperty.md)|
 ---|---|---|---|---|---|
 
 
