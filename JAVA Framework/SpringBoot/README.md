@@ -61,6 +61,8 @@ bootstrap是应用程序的父上下文，也就是说bootstrap会先于applicat
 bootstrap|application|
 ---|---|
 
+# [HttpMessageConverter的作用及替换---输入/输出数据格式和JAVA对象的转换](https://www.jianshu.com/p/333ed5ee958d)
+
 # 特色模块
 
 starter是springboot提供的无缝集成功能的一种方式，使用某个功能时开发者不需要关注各种依赖库的处理，不需要具体的配置信息，由Spring Boot自动配置进行
