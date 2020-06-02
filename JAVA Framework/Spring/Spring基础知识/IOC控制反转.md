@@ -1,8 +1,8 @@
 
 # IOC
 
-[深入剖析Spring IOC容器的运作原理](https://www.ctolib.com/topics-109935.html)
-[Spring之IOC原理详解](https://blog.csdn.net/sunpeng_sp/article/details/57419999)
+* [深入剖析Spring IOC容器的运作原理](https://www.ctolib.com/topics-109935.html)
+* [Spring之IOC原理详解](https://blog.csdn.net/sunpeng_sp/article/details/57419999)
 
 IOC就是控制反转，是指创建对象的控制权的转移，以前创建对象的主动权和时机是由自己把控的，而现在这种权力转移到Spring容器中，并由容器根据配置文件去创建实例和管理各个实例之间的依赖关系，对象与对象之间松散耦合，也利于功能的复用
 
