@@ -34,6 +34,11 @@ tomcat的优势在于少量的接收并处理复杂的http请求（将用户请�
 
 [手机站点和PC站点的分离](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Nginx/手机站点和PC站点的分离/README.md)|
 ---|
+# 跟我学Nginx+Lua开发
+
+[跟我学Nginx+Lua开发](https://www.iteye.com/blogs/subjects/nginx-lua)|
+---|
+
 
 # 实验：
 
