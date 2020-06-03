@@ -116,7 +116,17 @@
 [@Temporal](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%E6%B3%A8%E8%A7%A3/%40Temporal.md)|
 ---|
 
-# 
+# 数据校验
+
+[@NumberFormatter](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%E6%B3%A8%E8%A7%A3/%40NumberFormatter.md)|@CurrencyFormatter|[@PercentFormatter](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%E6%B3%A8%E8%A7%A3/%40PercentFormatter.md)|@DateTimeFormat|@Valid|@Pattern|
+---|---|---|---|---|---|
+
+
+[@Null](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%E6%B3%A8%E8%A7%A3/%40Null.md)|[@NotNull](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%E6%B3%A8%E8%A7%A3/%40NotNull.md)|@AssertTrue|@AssertFalse|@Min(value)|
+---|---|---|---|---|
+
+@Max(value)|@DecimalMin(value)|@DecimalMax(value)|@Size|@Digits|@Past|@Future|
+---|---|---|---|---|---|---|
 
 # 全局异常处理
 
