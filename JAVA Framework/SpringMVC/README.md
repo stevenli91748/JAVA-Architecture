@@ -2,6 +2,8 @@
 [SpringMvc @InitBinder 表单多对象精准绑定接收](https://blog.csdn.net/qq_25821067/article/details/75281281)|[SpringMVC注解 @initbinder 解决类型转换问题](https://blog.csdn.net/jiangyu1013/article/details/92830954?utm_medium=distribute.pc_relevant.none-task-blog-OPENSEARCH-5.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-OPENSEARCH-5.nonecase)|
 ---|---|
 
+[Spring MVC测试框架详解——服务端测试](https://www.iteye.com/blog/jinnianshilongnian-2004660)|[Spring MVC测试框架详解——客户端测试](https://www.iteye.com/blog/jinnianshilongnian-2007180)|
+---|---|
 
 
 
@@ -24,3 +26,11 @@
 * [基于maven的springMVC web项目的一些基本配置：](https://blog.csdn.net/rj1bww/article/details/71799268)
 * [IDEA创建基于maven的springMVC项目](https://blog.csdn.net/huangxin388/article/details/95756856)
 * [详解IDEA用maven创建springMVC项目和配置](https://www.jb51.net/article/124670.htm)
+
+
+# 亿级流量网站架构核心技术的作者专栏---开涛
+
+* [跟开涛学SpringMVC](https://www.iteye.com/blogs/subjects/kaitao-springmvc)
+* [springmvc杂谈](https://www.iteye.com/blogs/subjects/springmvc-tattle)
+* [Spring MVC测试框架详解——服务端测试](https://www.iteye.com/blog/jinnianshilongnian-2004660)
+* [Spring MVC测试框架详解——客户端测试](https://www.iteye.com/blog/jinnianshilongnian-2007180)
