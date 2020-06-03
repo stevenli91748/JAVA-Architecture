@@ -264,6 +264,11 @@ VisualVM分析工具|[Jenkins](https://github.com/stevenli91748/JAVA-Architectur
 [Log4j日志文件](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/log4j日志文件/README.md)|[FastDFS](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/FastDFS/README.md)|[模板引擎](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/%E6%A8%A1%E6%9D%BF%E5%BC%95%E6%93%8E/README.md)|
 ---|---|---|
 
+[Shiro---安全架构](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Security/shiro.md)|
+---|
+
+
+
 # [第六阶段   互联网架构篇](https://github.com/stevenli91748/JAVA-Architecture/blob/master/internet%20architecture/README.md)
 
 ### 高性能 高并发和分布式技术
