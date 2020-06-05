@@ -72,7 +72,9 @@ public class WelcomeController {
 ```
 
 依赖注入使世界看起来更简单，我们让Spring 框架做了辛勤的工作：
+
 @Component：我们告诉Spring框架-嘿，这是一个你需要管理的bean
+
 @Autowired：我们告诉Spring框架-嘿，找到这个特定类型的正确匹配并自动装入它
 
 
