@@ -161,6 +161,7 @@ Spring Boot 并不是用来替代 Spring 的解决方案，而是和 Spring 框�
  * [4小时学会Spring Boot+Vue前后端分离开发](https://www.bilibili.com/video/av85793766?from=search&seid=25718754058418816)
  
 # 有用的参考
+  * [接近8000字的Spring/SpringBoot常用注解总结](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247486635&idx=1&sn=9028d00727923f51240053666c9eb3a4&chksm=cea24360f9d5ca76e8afc7159c0dc463cf83adb798e68a39b2ba4f92f66971a60b70855384c4&token=248911937&lang=zh_CN#rd)
   * [Spring MVC 到 Spring Boot 的简化之路](https://juejin.im/post/5aa22d1f51882555677e2492)
   * [SSM 一步一步演示如何整合这三者，并且会讲解每个配置的含义,如果想自己做一个完整的SSM项目，直接用这套架子进行开发也是完全没问题的](https://www.jianshu.com/p/c73cd21bf84a)
   * [【项目实践】SpringBoot三招组合拳，手把手教你打出优雅的后端接口](https://www.jianshu.com/p/b5b8613769db)
