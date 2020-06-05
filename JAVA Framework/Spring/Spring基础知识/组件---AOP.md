@@ -1,6 +1,8 @@
 
 # AOP
 
+* [《包你懂系列》让我们来揭开 AOP 和动态代理技术的神秘面纱](https://juejin.im/post/5ed723606fb9a047a07f2ec2)
+
 AOP动态代理|AOP静态代理|
 ---|--|
 
