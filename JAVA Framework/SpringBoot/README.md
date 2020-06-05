@@ -39,6 +39,9 @@
 [SpringBoot布道系列](https://www.jianshu.com/p/964370d9374e)|[SpringBoot 使用线程池](https://crossoverjie.top/2018/07/29/java-senior/ThreadPool/)|[Netty(一) SpringBoot 整合长连接心跳机制](https://crossoverjie.top/2018/05/24/netty/Netty(1)TCP-Heartbeat/#SpringBoot-%E7%9B%91%E6%8E%A7)|
 ---|---|---|
 
+[怎么在 Spring Boot 中使用 JDBC 连接 MySQL](https://juejin.im/post/5ed443eef265da76ed485423)|
+---|
+
 # 启动流程
 
 主要步骤首先要配置environment，然后准备context上下文，包括执行applicationContext的后置处理、初始化initializer、通知listener处理
