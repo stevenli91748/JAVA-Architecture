@@ -119,6 +119,8 @@
 
 
 # 有用的参考
+
+* [试官问我Java8~14的有哪些重要的新特性，我哭了](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247486620&idx=1&sn=669260937363265ba3d35852b114d1a0&chksm=cea24357f9d5ca412990f8e0bce254ce54f73b4c39a69be0f2dd32a7cc06a5fb16b9c0eabdbf&token=248911937&lang=zh_CN#rd)
 * [JAVA8 十大新特性详解](https://www.jb51.net/article/48304.htm)
 
 * https://mp.weixin.qq.com/s/-KbOyp4gXYY4Ok8S-rPa6Q
