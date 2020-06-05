@@ -173,6 +173,7 @@
   
   
 # 有用的参考书籍
+  * [一图解千愁，jvm内存从来没有这么简单过！](https://juejin.im/post/5ed49e7c51882543012f9e6c)
   * [Java虚拟机(JVM)面试题（2020最新版）](https://blog.csdn.net/ThinkWon/article/details/104390752)
   * [Java虚拟机内存分配机制与启动参数说明](https://blog.csdn.net/chengyun19830206/article/details/53244278)
   *  深入理解Java虚拟机_JVM高级特性与最佳实践.PDF
