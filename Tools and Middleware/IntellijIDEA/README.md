@@ -453,7 +453,7 @@
 * [IDEA部署springboot程序到docker上](https://www.bilibili.com/video/av40407605/?spm_id_from=333.788.videocard.14)
 * [IDEA教程-干货大合集](https://www.bilibili.com/video/av34324988?p=3)
 # 有用的参考
-  
+  * [第一弹！安排！安利10个让你爽到爆的IDEA必备插件](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247486586&idx=1&sn=b745f0be1a5fc0160f43625e29df9029&chksm=cea243b1f9d5caa7200950063ae9e1691d3578d46c0b865c8220c8f1e02ed43cb4e586c2524c&token=248911937&lang=zh_CN#rd)
   * [使用 IDEA + Maven + Git 快速开发 Java Web 应用](https://my.oschina.net/huangyong/blog/175363)
   * [IEDA教程](https://github.com/stevenli91748/IntelliJ-IDEA-Tutorial)
   * [IntelliJ IDEA官方文档](https://www.w3cschool.cn/intellij_idea_doc/)
