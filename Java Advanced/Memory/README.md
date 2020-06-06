@@ -14,7 +14,9 @@
   * [一图解千愁，jvm内存从来没有这么简单过！---了解了这张图，会让你对JVM内存的划分有更深入的理解，而不仅限于什么虚拟机栈、程序计数器等比较浅显的认知](https://juejin.im/post/5ed49e7c51882543012f9e6c)
 
   * [JAVA堆外内存排查小结](https://juejin.im/post/5ca095ea6fb9a05e42555a3e)
-  
+  * [面试官：怎么排查堆内存溢出呀？](https://juejin.im/post/5e8c94a7f265da47a74126d4)
+  * [如何排查Java内存泄露(内附各种排查工具介绍)](https://yq.aliyun.com/articles/61148?utm_campaign=wenzhang&utm_medium=article&utm_source=QQ-qun&utm_content=m_6652)
+  * [内存泄露从入门到精通三部曲之排查方法篇](https://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=400891536&idx=1&sn=0b6c629b0abe4a359d6552cd244c0c0c&scene=0&key=d4b25ade3662d643209f4b75e10fa26857f77b6a60d1e1c0b7361529f3dcdf8c1506749b0ae4397f4d74e8871e24f62e&ascene=0&uin=MjAyNzY1NTU%3D&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.11.1+build(15B42)&version=11020201&pass_ticket=T1NGa3s1cwXUixFccOjWKBGBwZ3Vfeilv%2BMoVjLgOok%3D)
   * [堆外内存排查系列](https://juejin.im/search?query=%E5%A0%86%E5%A4%96%E5%86%85%E5%AD%98%E6%8E%92%E6%9F%A5&type=all)
   * [Java引用对象在堆、栈内存中的变化](https://blog.csdn.net/liangshilin/article/details/82390559)
   * [JAVA的内存模型及结构](http://ifeve.com/under-the-hood-runtime-data-areas-javas-memory-model/)
