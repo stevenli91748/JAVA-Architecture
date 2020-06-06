@@ -13,8 +13,11 @@
 * []()
 * []()
 
+# Netty堆外内存泄露排查与总结
 
-
+* [Netty堆外内存泄露排查与总结](https://juejin.im/post/5bc93905e51d4560c5646d00)
+* [netty 堆外内存泄露排查盛宴](http://www.jiangxinlingdu.com/practice/2018/09/04/netty-outofheap.html)
+* [Netty堆外内存泄漏排查，这一篇全讲清楚了](https://juejin.im/post/5e0dbc67f265da5d153f3f35)
 
 # Netty视频
 
