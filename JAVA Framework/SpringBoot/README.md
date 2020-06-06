@@ -68,7 +68,9 @@ bootstrap是应用程序的父上下文，也就是说bootstrap会先于applicat
 bootstrap|application|
 ---|---|
 
+# Spring Boot 内存
 
+* [Spring Boot引起的“堆外内存泄漏”排查及经验总结](https://juejin.im/post/5c2ef77ae51d4551de1d769b)
 
 # 特色模块
 
