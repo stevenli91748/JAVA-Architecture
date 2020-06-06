@@ -11,6 +11,11 @@
 
 
 # 有用的参考
+  * [一图解千愁，jvm内存从来没有这么简单过！---了解了这张图，会让你对JVM内存的划分有更深入的理解，而不仅限于什么虚拟机栈、程序计数器等比较浅显的认知](https://juejin.im/post/5ed49e7c51882543012f9e6c)
+
+  * [JAVA堆外内存排查小结](https://juejin.im/post/5ca095ea6fb9a05e42555a3e)
+  
+  * [堆外内存排查系列](https://juejin.im/search?query=%E5%A0%86%E5%A4%96%E5%86%85%E5%AD%98%E6%8E%92%E6%9F%A5&type=all)
   * [Java引用对象在堆、栈内存中的变化](https://blog.csdn.net/liangshilin/article/details/82390559)
   * [JAVA的内存模型及结构](http://ifeve.com/under-the-hood-runtime-data-areas-javas-memory-model/)
   * [高级面试:JAVA内存模型](https://mp.weixin.qq.com/s?__biz=MzA3MDY0NTMxOQ==&mid=2247485737&idx=1&sn=14212fb6edcdb88446dea6737b864196&chksm=9f38ea01a84f63176f61e11ea99650d26233bc776b5f1f5ff6f7b70ddd763291b6b7d5af9d17&scene=21#wechat_redirect)
