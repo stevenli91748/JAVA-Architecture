@@ -10,7 +10,8 @@
 # [Java开发者职业生涯要看的200+本书](https://juejin.im/post/5cbbb55ef265da039955d9d8)
 
 
-
+# 第十二阶段 项目故障排查
+* [JAVA线上故障排查全套路总结](https://mp.weixin.qq.com/s/Yp5IMZGHU3XB5WeHzd7tKQ)
 
 # 第十一阶段 源码分析
 
