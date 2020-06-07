@@ -13,7 +13,17 @@
 # 第十二阶段 [项目故障排查](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E9%A1%B9%E7%9B%AE%E6%95%85%E9%9A%9C%E6%8E%92%E6%9F%A5/README.md)
 
 **内存故障排查**
-* [OOM]()
+* [堆内内存]()
+  * [OOM---JMV中的内存不足]()
+    * [unable to create new native thread---没有足够的内存空间给线程分配java栈]()
+    * [Java heap space---堆的内存占用已经达到-Xmx设置的最大值]()
+    * [ Meta space---元数据区的内存占用已经达到XX:MaxMetaspaceSize设置的最大值]()
+  * [StackOverflow---栈内存溢出]()
+  * [代码产生内存泄漏的各种情景]()
+    * [每次请求都new对象，导致大量重复创建对象]() 
+    * [进行文件流操作但未正确关闭]()
+    * [手动不当触发gc]()
+    * [ByteBuffer缓存分配不合理]()
 * [GC问题]()
 * [堆外内存]()
 
