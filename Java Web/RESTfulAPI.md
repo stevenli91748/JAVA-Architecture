@@ -30,6 +30,7 @@
 | [包工头都能听明白的前后端分离](https://www.bilibili.com/video/BV1f7411L7By)||
 | [前后端分离架构，Node 中间层](https://www.crs811.com/archives/1542)||
 | [前后端联调](https://www.jianshu.com/p/91486e9c0e34)||
+| [后端工程师快速上手前后端分离开发](https://juejin.im/post/5edb44adf265da76f75be68b)||
 | [快速构建标准RESTful API完成前后端分离开发](https://www.bilibili.com/video/BV12W411b7oT?from=search&seid=2011606573791409942)||
 | [4小时学会Spring Boot+Vue前后端分离开发](https://www.bilibili.com/video/BV137411B7vB/?spm_id_from=333.788.videocard.9)|[无代码]|
 | [React+springboot权限管理系统·前后端分离](https://www.jianshu.com/p/b34674cd328d)|[无代码]|
