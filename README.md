@@ -13,6 +13,9 @@
 # 第十二阶段 [项目故障排查](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E9%A1%B9%E7%9B%AE%E6%95%85%E9%9A%9C%E6%8E%92%E6%9F%A5/README.md)
 
 **内存故障排查**
+* [OOM]()
+* [GC问题]()
+* [堆外内存]()
 
 **网络故障排查**
 
