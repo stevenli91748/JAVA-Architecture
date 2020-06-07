@@ -5,6 +5,7 @@
 # [Java学习路径](https://mp.weixin.qq.com/s?__biz=MzI5MzYzMDAwNw==&mid=2247483728&idx=1&sn=da73111b02f90df1c9f251b6c6c1e23f&chksm=ec6e7808db19f11e18e677096da7e9049c741cf4f5a6d08003c0d396ae41176aa2a2d80f8ec8&scene=21#wechat_redirect)
 
 # [Java工程师成神之路 | 2020正式版](https://juejin.im/post/5e93c34be51d4546cf778291)
+# [必看！java后端，亮剑诛仙（最全知识点）](https://juejin.im/post/5d2d2ba96fb9a07f050a9ad6#heading-14)
 # [Java开发者职业生涯要看的200+本书](https://juejin.im/post/5cbbb55ef265da039955d9d8)
 
 
