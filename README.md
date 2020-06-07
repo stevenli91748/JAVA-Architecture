@@ -6,6 +6,7 @@
 
 # [Java工程师成神之路 | 2020正式版](https://juejin.im/post/5e93c34be51d4546cf778291)
 # [必看！java后端，亮剑诛仙（最全知识点）](https://juejin.im/post/5d2d2ba96fb9a07f050a9ad6#heading-14)
+# [Java面试通关要点汇总集【终极版】](https://juejin.im/post/5ab1a338518825558a067c1f)
 # [Java开发者职业生涯要看的200+本书](https://juejin.im/post/5cbbb55ef265da039955d9d8)
 
 
