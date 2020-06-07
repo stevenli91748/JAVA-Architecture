@@ -27,7 +27,10 @@
 
 # 第0阶段  [面向对象](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Object%20oriented/interview/README.md)
 
-# 第一阶段 Java基础篇
+# 第一阶段 Java核心篇
+
+**围绕数据结构, 多线程并发, 设计模式和虚拟机准备面试题**  
+
   * [计算机系统原理]()
   * [计算机操作系统]()
   * [Java基本知识面试](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/interview/README.md)
