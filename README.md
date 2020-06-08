@@ -424,6 +424,9 @@ SQL语言|[MySQL](https://github.com/stevenli91748/Database/blob/master/MySQL/RE
 
 ## [JAVA 常用的库](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Library/README.md#bean-mapping)
  
+ * [别在重复造轮子了，几个值得应用到项目中的 Java 开源库送给你](https://juejin.im/post/5edd9a33e51d45784635b1a8)
+ 
+ 
  [Bean Mapping][%Bean Mapping]|[Bytecode Manipulation][%Bytecode Manipulation]|[Caching][%Caching]|[Cluster Management][%Cluster Management]|[Database][%Database]|[Date and Time][%Date and Time]|
   ---|---|---|---|---|---|
   
