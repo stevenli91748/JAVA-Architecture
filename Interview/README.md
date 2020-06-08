@@ -238,6 +238,7 @@
 * [说好不哭，Java程序员被阿里面试官当场花式虐哭](https://www.bilibili.com/video/BV1EJ411w7cq/?spm_id_from=333.788.videocard.2)
 
 # 有用的参考
+ * [Java面试题精华集」Java基础知识篇（2020最新版）附PDF版 ！](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247487299&idx=2&sn=627d46a363ee1f5f84f74ca50016e9fa&chksm=cea24088f9d5c99ee0c8f9fce5d8f87271e89e64580b41063948bd3a9a56197d755075493e13&token=1311896334&lang=zh_CN#rd)
  * [java面试网](http://www.wityx.com/)
  * [Java知识体系最强总结(2020版)--重磅 优先看](https://blog.csdn.net/ThinkWon/article/details/103592572?utm_source=app)
  * [必看！java后端，亮剑诛仙（最全知识点）](https://zhuanlan.zhihu.com/p/74112702)
