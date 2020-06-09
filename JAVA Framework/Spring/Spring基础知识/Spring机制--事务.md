@@ -5,7 +5,7 @@
 
 
 * [可能是最漂亮的Spring事务管理详解](https://juejin.im/post/5b00c52ef265da0b95276091)
-
+* [7000+字的Spring事务总结来啦！我饱了！](https://juejin.im/post/5ebe682c5188256d8a22940f)
 
 # 隔离类型事务
 
