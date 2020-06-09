@@ -397,7 +397,7 @@ transient关键字只能修饰变量，而不能修饰方法和类。注意，�
 * [Java new关键字和newInstance()方法的区别](https://blog.csdn.net/shipfei_csdn/article/details/81939616)
 * [Class.forName()用法及与new的区别](https://blog.csdn.net/zhangxichao100/article/details/51105205)
 * [java中代理模式以及new和newInatance（）的区别](https://blog.csdn.net/lnjphjh/article/details/48752983)
-
+* [别再问我 new 字符串创建了几个对象了！我来证明给你看](https://juejin.im/post/5e9903dfe51d454714427e56)
 
 ### native
 * [java中native关键字的详解](https://blog.csdn.net/u013531824/article/details/21012655)
