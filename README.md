@@ -383,8 +383,8 @@ SOA架构|[JPA](https://github.com/stevenli91748/JAVA-Architecture/blob/master/T
 
 ### WEB服务器基础
 
-[HTTP](https://github.com/stevenli91748/Network/blob/master/HTTP/README.md)|HttpWatch|[Tomcat](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Tomcat/README.md)|[JSON][%JSON]|JSONP|[Java动态追踪技术探究](https://juejin.im/post/5c789892f265da2dc45390d4)|
----|---|---|---|---|---|
+[HTTP](https://github.com/stevenli91748/Network/blob/master/HTTP/README.md)|HttpWatch|[Tomcat](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Tomcat/README.md)|[JSON][%JSON]|JSONP|[Java动态追踪技术探究](https://juejin.im/post/5c789892f265da2dc45390d4)|[Jmx](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/jmx/README.md)|
+---|---|---|---|---|---|---|
 
 ### Servlet和JSP
 
