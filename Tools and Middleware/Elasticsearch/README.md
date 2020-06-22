@@ -1,4 +1,5 @@
-
+[深入了解Elasticsearch](https://www.bilibili.com/video/BV1NW411P7XU)|
+---|
 
 # Elasticsearch 视频
 
