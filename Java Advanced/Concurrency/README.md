@@ -9,6 +9,8 @@
 [架构师带你深入研究，亿级高并发削峰利器](https://www.bilibili.com/video/BV1Ut411277z)|[Java必备技能，亿级高并发削峰利器](https://www.bilibili.com/video/BV1S4411X7qp)|
 ---|---|
 
+[深入了解Java高并发通信模型NIO](https://www.bilibili.com/video/BV1x4411Z7ek)|
+---|
 
 # 目录
 * [并发学习路线](#并发学习路线)
