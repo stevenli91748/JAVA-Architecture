@@ -1,5 +1,6 @@
 
-
+[教你你搭建高并发秒杀系统](https://www.bilibili.com/video/BV16W411A7zy)|
+---|
 
 * [Java高并发秒杀API之高并发优化](https://www.imooc.com/learn/632)
 * [Java高并发秒杀API之web层](https://www.imooc.com/learn/630)
