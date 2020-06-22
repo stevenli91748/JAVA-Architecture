@@ -323,7 +323,7 @@ Nginx性能优化|Linux系统性能优化|
 分布式消息Kafka|分布式文件系统FastDFS|高可用Keepalived|高性能可伸缩OpenResty|高性能Netty框架|
 ---|---|---|---|---|
 
-分布式ElasticSearch/ELK|分布式任务调度|数据库分库分表ShardingSphere|分布式事务|
+分布式ElasticSearch/ELK|分布式任务调度|数据库分库分表ShardingSphere|[分布式事务](https://github.com/stevenli91748/Distributed-System/blob/master/type%20of%20system/transection/%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1.md)|
 ----|---|---|---|
 
 [JAVA 分布式](https://github.com/stevenli91748/Distributed-System/blob/master/README.md)|数据存储MongoDB|分布式数据扩容MyCat|[分布式Spring Session](https://github.com/stevenli91748/Distributed-System/blob/master/%E5%88%86%E5%B8%83%E5%BC%8FSpring%20Session/README.md)|[分布式缓存系统](https://github.com/stevenli91748/Database/blob/master/缓存系统/README.md)|
