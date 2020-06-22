@@ -3,8 +3,8 @@
 [java并发成神之路---JUC全方位解读脑图](https://naotu.baidu.com/file/89fb28b05e3395800f9dc2d332d2b198?token=9b45e08e55281667)|[Java多任务并行处理框架 Fork Join](https://www.bilibili.com/video/BV1Gp411R7YG)|
 ---|---|
 
-[高并发系统中三大利器绝学-亿级高并发削峰](https://www.bilibili.com/video/BV1uW411P7HR)|
----|
+[高并发系统中三大利器绝学-亿级高并发削峰](https://www.bilibili.com/video/BV1uW411P7HR)|[天猫高并发场景的订单号、ID生成策略](https://www.bilibili.com/video/BV1xs411571g)|
+---|---|
 
 # 目录
 * [并发学习路线](#并发学习路线)
