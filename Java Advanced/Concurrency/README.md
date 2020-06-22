@@ -6,6 +6,10 @@
 [高并发系统中三大利器绝学-亿级高并发削峰](https://www.bilibili.com/video/BV1uW411P7HR)|[天猫高并发场景的订单号、ID生成策略](https://www.bilibili.com/video/BV1xs411571g)|
 ---|---|
 
+[架构师带你深入研究，亿级高并发削峰利器](https://www.bilibili.com/video/BV1Ut411277z)|[Java必备技能，亿级高并发削峰利器](https://www.bilibili.com/video/BV1S4411X7qp)|
+---|---|
+
+
 # 目录
 * [并发学习路线](#并发学习路线)
 * [七大并发模型](#七大并发模型)
