@@ -2,7 +2,8 @@
 
 # Mybatis 源码视频
 
- * [mybatis源码分析](https://www.bilibili.com/video/av54595228?from=search&seid=3877780204170732521)
+  [mybatis源码分析](https://www.bilibili.com/video/av54595228?from=search&seid=3877780204170732521)|[花2万元学习mybatis源码,有钱的程序员就是这么单纯且枯燥!](https://www.bilibili.com/video/BV1kJ411Y7qa/?spm_id_from=333.788.videocard.3)|
+  ---|---|
 
 
 # 知识点
