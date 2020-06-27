@@ -17,7 +17,7 @@
   * Spring WebFlux
   * Spring Testing
   * Spring Integration
-    * Remoting
+    * Remoting and Java Web Services
     * JMS
     * JCA
     * JMX
