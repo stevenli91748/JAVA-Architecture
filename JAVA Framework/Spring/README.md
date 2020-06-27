@@ -1,17 +1,3 @@
-# 配置Spring Web项目的步骤
-
-1. 配置Maven的依赖
-
-2. 配置web.xml,加载 Spring or Spring MVC
-
-3. 配置数据库连接， 配置Spring事务
-
-4. 配置加载配置文件的读取，开启注解
-
-5. 配置日志文件
-
-...
-
 
 # [Spring知识点面试](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Interview/README.md)
 
@@ -23,20 +9,6 @@
 * Spring 组件
   * Spring Data Access
   * Spring MVC
-
-
-
-# Spring 核心
-
-## Spring IOC
-
-## Spring AOP
-
-# Spring 组件
-
-## Spring Data Access
-
-## Spring MVC
 
 
 ---
