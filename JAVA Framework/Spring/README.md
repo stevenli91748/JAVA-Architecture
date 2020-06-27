@@ -13,18 +13,33 @@
 ...
 
 
- 配置tomcat 服务器
-
-
-
-
-
 # [Spring知识点面试](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Interview/README.md)
 
 <a href="https://ibb.co/T1ZJxpx"><img src="https://i.ibb.co/kJpzsks/spring20190531222435175.png" alt="spring20190531222435175" border="0"></a>
 
+* Spring 核心
+  * [Spring IOC](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring%20IOC/README.md)
+  * [Spring AOP](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring%20AOP/README.md)
+* Spring 组件
+  * Spring Data Access
+  * Spring MVC
 
-https://docs.spring.io/spring/docs/5.0.0.RC2/spring-framework-reference/images/spring-overview.png
+
+
+# Spring 核心
+
+## Spring IOC
+
+## Spring AOP
+
+# Spring 组件
+
+## Spring Data Access
+
+## Spring MVC
+
+
+---
 
 [Spring常用注解](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring常用注解/README.md)|[Spring实例化bean的三种方法](https://www.cnblogs.com/liwendeboke/p/6228129.html)|[超详细Spring知识点汇总](https://blog.csdn.net/pingdouble/article/details/79526068)|[Spring如何学](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring如何学.md)|
 ---|---|---|---|
