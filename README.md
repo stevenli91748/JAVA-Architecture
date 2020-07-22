@@ -572,6 +572,7 @@ SQL语言|[MySQL](https://github.com/stevenli91748/Database/blob/master/MySQL/RE
   * [如何学习JavaEE,项目又该如何做](https://mp.weixin.qq.com/s/XdpQyvQ8PtdFiD5E5yHVVw)
   * [Java学到什么程度才能叫精通？](https://www.zhihu.com/question/28903757/answer/575333243?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
   * [Java 工程师成神之路 | 2019正式版](https://mp.weixin.qq.com/s/g63lc1d_eaBXgIcZWLlBYw)
+  * [java工程师成神之路写文章2020](https://zhuanlan.zhihu.com/c_1165326203509735424)
   * [JavaEE企业级分布式架构核心技术](https://gitee.com/AlanShelby/Course-Chapter)
   * [如何模拟超过 5 万的并发用户](https://blog.csdn.net/j3T9Z7H/article/details/89666686)
   * [设计扛住千万级流量架构](https://blog.csdn.net/qq_35394891/article/details/80992999)
