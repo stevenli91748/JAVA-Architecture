@@ -12,8 +12,8 @@
 [深入了解Java高并发通信模型NIO](https://www.bilibili.com/video/BV1x4411Z7ek)|[Java高可用/高并发/高性能系统的必备技术](https://www.bilibili.com/video/BV154411f74F)|
 ---|---|
 
-[电商中常见的高并发怎么处理](https://www.bilibili.com/read/cv690850)|
----|
+[电商中常见的高并发怎么处理](https://www.bilibili.com/read/cv690850)|[高并发系统开发实战！美团大佬手把手直播教学](https://www.bilibili.com/video/BV1z4411z7FN?from=search&seid=9409290589494288789)|
+---|---|
 
 # 目录
 * [并发学习路线](#并发学习路线)
