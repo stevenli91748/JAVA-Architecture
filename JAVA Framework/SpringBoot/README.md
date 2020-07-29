@@ -91,7 +91,7 @@ starter|actuator|devtools|cli|
 
 
 # 实验
-
+* [Spring Boot 多模块项目实践](https://zhuanlan.zhihu.com/p/133114207?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)
 * [基于SpringBoot开发一套完整的项目](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/实验/基于SpringBoot开发一套完整的项目.md)
 * [一个列子让你弄懂SpringBoot实现后台框架的搭建](https://blog.csdn.net/qq_33883389/article/details/81322481)
 * [基于springboot+bootstrap+mysql+redis搭建一套完整的权限架构](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/实验/基于springboot%2Bbootstrap%2Bmysql%2Bredis搭建一套完整的权限架构.md)
@@ -170,6 +170,13 @@ Spring Boot 并不是用来替代 Spring 的解决方案，而是和 Spring 框�
  * [4小时学会Spring Boot+Vue前后端分离开发](https://www.bilibili.com/video/av85793766?from=search&seid=25718754058418816)
  
 # 有用的参考
+  * [Github点赞接近 100k 的Spring Boot学习教程+实战项目推荐！](https://zhuanlan.zhihu.com/p/150513285?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)
+  * [听说你要接私活？Guide连夜整理了5个开源免费的Java项目快速开发脚手架](https://mp.weixin.qq.com/s/nKLFOUmdiCeW5VdfpO96BA)
+  * [SpringBoot全家桶：23篇博客加23个可运行项目让你对它了如指掌](https://zhuanlan.zhihu.com/p/145063307?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)
+  * [SpringBoot 深度调优，让你的项目飞起来！](https://zhuanlan.zhihu.com/p/99585579?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)
+  
+  
+  
   * [接近8000字的Spring/SpringBoot常用注解总结](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247486635&idx=1&sn=9028d00727923f51240053666c9eb3a4&chksm=cea24360f9d5ca76e8afc7159c0dc463cf83adb798e68a39b2ba4f92f66971a60b70855384c4&token=248911937&lang=zh_CN#rd)
   * [Spring MVC 到 Spring Boot 的简化之路](https://juejin.im/post/5aa22d1f51882555677e2492)
   * [SSM 一步一步演示如何整合这三者，并且会讲解每个配置的含义,如果想自己做一个完整的SSM项目，直接用这套架子进行开发也是完全没问题的](https://www.jianshu.com/p/c73cd21bf84a)
