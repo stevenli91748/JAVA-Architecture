@@ -39,6 +39,7 @@
 
 
 # 有用的参考
+* [Netty学习大纲](https://www.jianshu.com/p/a29bc6a19c6c)
 * [Netty面试题（2020最新版）](https://blog.csdn.net/ThinkWon/article/details/104391081)
 * [新手入门：目前为止最透彻的的Netty高性能原理和框架架构解析](http://www.52im.net/thread-2043-1-1.html)
 * [Netty 5.0为啥被舍弃？原因竟然是](https://mp.weixin.qq.com/s?__biz=MzA5NTUzNTA2Mw==&mid=2454932288&idx=1&sn=149a790e4d3d6b2722ccdb677e54a666&scene=21#wechat_redirect)
