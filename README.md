@@ -8,7 +8,7 @@
 # [必看！java后端，亮剑诛仙（最全知识点）](https://juejin.im/post/5d2d2ba96fb9a07f050a9ad6#heading-14)
 # [Java面试通关要点汇总集【终极版】](https://juejin.im/post/5ab1a338518825558a067c1f)
 # [Java开发者职业生涯要看的200+本书](https://juejin.im/post/5cbbb55ef265da039955d9d8)
-
+# [GitHub上最励志的计算机自学教程：8个月，从中年Web前端到亚马逊百万年薪软件工程师 | 中文版](https://zhuanlan.zhihu.com/p/138443693)
 
 # 第十二阶段 [项目故障排查 优化](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E9%A1%B9%E7%9B%AE%E6%95%85%E9%9A%9C%E6%8E%92%E6%9F%A5/README.md)
 
