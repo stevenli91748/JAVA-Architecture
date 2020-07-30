@@ -106,6 +106,7 @@
 * [Spring cloud 核心组件实战](https://www.imooc.com/video/19575)
 
 # 有用的参考
+* [Spring cloud应该怎么入门？](https://www.zhihu.com/question/283286745/answer/763040709)
 * [Spring Cloud面试题（2020最新版）](https://blog.csdn.net/ThinkWon/article/details/104397367)
 * [Spring Cloud 学习资料汇总](http://www.ityouknow.com/springcloud/2016/12/30/springcloud-collect.html)
 * [史上最简单的Spring Cloud教程源码](https://github.com/forezp/SpringCloudLearning)
