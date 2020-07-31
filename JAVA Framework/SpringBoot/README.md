@@ -179,6 +179,7 @@ Spring Boot 并不是用来替代 Spring 的解决方案，而是和 Spring 框�
   * [SpringBoot全家桶：23篇博客加23个可运行项目让你对它了如指掌](https://zhuanlan.zhihu.com/p/145063307?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)
   * [整理了八个开源的 Spring Boot 学习资源](https://zhuanlan.zhihu.com/p/66125910)
   * [SpringBoot 深度调优，让你的项目飞起来！](https://zhuanlan.zhihu.com/p/99585579?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)
+  * [Spring Boot 各种例子程序---非常多的例子](https://blog.52itstyle.vip/category/springBoot/)
   * [Spring 和 Spring Boot 之间到底有啥区别](https://zhuanlan.zhihu.com/p/144797334)
   
   
