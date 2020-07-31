@@ -95,6 +95,8 @@ starter|actuator|devtools|cli|
 # 实验
 * [DEMO例子： Spring Boot 多模块项目实践](https://zhuanlan.zhihu.com/p/133114207?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)
 * [DEMO例子：Spring Boot + Mybatis 多模块（module）项目的完整搭建教程](https://zhuanlan.zhihu.com/p/157908322?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)
+* [SpringBoot代码生成器，从此不用手撸代码](https://blog.52itstyle.vip/archives/5318/)
+
 
 * [基于SpringBoot开发一套完整的项目](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/实验/基于SpringBoot开发一套完整的项目.md)
 * [一个列子让你弄懂SpringBoot实现后台框架的搭建](https://blog.csdn.net/qq_33883389/article/details/81322481)
