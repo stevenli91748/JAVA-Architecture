@@ -424,6 +424,9 @@ Request和Response|React|[VUE.JS](https://github.com/stevenli91748/Frontend/blob
 
 # 第二阶段   数据库开发篇
 
+[数据库实体设计](http://svip.iocoder.cn/categories/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AE%9E%E4%BD%93%E8%AE%BE%E8%AE%A1/)|
+---|
+
 SQL语言|[MySQL](https://github.com/stevenli91748/Database/blob/master/MySQL/README.md)|ORACLE|[PowerDesigner](https://github.com/stevenli91748/Database/blob/master/PowerDesigner/README.md)|[MongoDB](https://github.com/stevenli91748/Database/blob/master/MongoDB/README.md)|分布式数据库|[Redis缓存](https://github.com/stevenli91748/Database/blob/master/Redis/README.md)|[Mybatis](https://github.com/stevenli91748/Database/blob/master/Mybatis/README.md)|
 ---|---|---|---|---|---|---|---|
 
