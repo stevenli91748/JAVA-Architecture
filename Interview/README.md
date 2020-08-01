@@ -42,7 +42,7 @@
   * [计算机系统原理]()
   * [计算机操作系统]()
   * [Java基本知识面试](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/interview/README.md)
-  * [Java5--8 知识点](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/JAVA%208的新特性.md)
+  * [Java5--12 功能知识点](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JAVA%208%E7%9A%84%E6%96%B0%E7%89%B9%E6%80%A7.md)
   * [java内存模型](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/Memory/Interview/JAVA内存模型.md)
   * [JAVA 虚拟机面试部份](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/Interview/README.md)
   * [多线程面试](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/Mutilthreading/interview.md)
