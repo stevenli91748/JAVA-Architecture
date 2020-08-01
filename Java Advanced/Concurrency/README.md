@@ -105,6 +105,7 @@
 * [从团队自研的百万并发中间件系统的内核设计看Java并发性能优化](https://mp.weixin.qq.com/s/d4qfu2MxESc1YJV4Ud5mnA)
 
 #### 2020汇总Java并发核心篇
+[深度源码剖析AQS的实现原理](https://youzhixueyuan.com/aqs.html)
 
 [Java从网络编程到高并发学习路线](https://coding.imooc.com/learningpath/route?pathId=11)
 
