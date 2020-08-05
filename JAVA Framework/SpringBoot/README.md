@@ -52,6 +52,14 @@
 [怎么在 Spring Boot 中使用 JDBC 连接 MySQL](https://juejin.im/post/5ed443eef265da76ed485423)|[SpringBoot+MyBatis+MySQL读写分离](https://zhuanlan.zhihu.com/p/54812239)|
 ---|---|
 
+[芋道 Spring Boot 数据库连接池入门](http://www.iocoder.cn/Spring-Boot/datasource-pool/?self)|[芋道 Spring Boot MyBatis 入门](http://www.iocoder.cn/Spring-Boot/MyBatis/?self)|[芋道 Spring Boot 多数据源（读写分离）入门](http://www.iocoder.cn/Spring-Boot/dynamic-datasource/?self)|
+---|---|---|
+
+[芋道 Spring Boot 分库分表入门](http://www.iocoder.cn/Spring-Boot/sharding-datasource/?self)|
+---|
+
+
+
 # 启动流程
 
 主要步骤首先要配置environment，然后准备context上下文，包括执行applicationContext的后置处理、初始化initializer、通知listener处理
