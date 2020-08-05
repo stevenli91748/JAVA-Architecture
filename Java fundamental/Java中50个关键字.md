@@ -76,6 +76,8 @@
 * [枚举enum与多例设计](https://blog.csdn.net/qq_36582604/article/details/81408919)
 * [Java 枚举(enum) 详解7种常见的用法](https://blog.csdn.net/qq_27093465/article/details/52180865)
 * [java反射获取枚举值](https://blog.csdn.net/Bronze5/article/details/80214011)
+* [枚举类的高阶用法](https://jverson.com/2018/12/01/enum/)
+* [Java枚举类，字节码层面的深入浅出](https://blog.csdn.net/grandachn/article/details/83183254)
 
 ### final finally finalize
 <details>
