@@ -1,7 +1,5 @@
 # [Java面试知识点 和 项目经验](https://github.com/stevenli91748/JAVA-Architecture/tree/master/Interview)
-
 # [JAVA系统架构进阶之路](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E8%BF%9B%E9%98%B6%E4%B9%8B%E8%B7%AF.md)
-
 # [Java学习路径](https://mp.weixin.qq.com/s?__biz=MzI5MzYzMDAwNw==&mid=2247483728&idx=1&sn=da73111b02f90df1c9f251b6c6c1e23f&chksm=ec6e7808db19f11e18e677096da7e9049c741cf4f5a6d08003c0d396ae41176aa2a2d80f8ec8&scene=21#wechat_redirect)
 # [10分钟白嫖我的常用的在线工具网站清单](https://juejin.im/post/5ed1f00ff265da771b2fe075)
 # [Java工程师成神之路 | 2020正式版](https://juejin.im/post/5e93c34be51d4546cf778291)
@@ -9,7 +7,7 @@
 # [Java面试通关要点汇总集【终极版】](https://juejin.im/post/5ab1a338518825558a067c1f)
 # [Java开发者职业生涯要看的200+本书](https://juejin.im/post/5cbbb55ef265da039955d9d8)
 # [GitHub上最励志的计算机自学教程：8个月，从中年Web前端到亚马逊百万年薪软件工程师 | 中文版](https://zhuanlan.zhihu.com/p/138443693)
-
+# [如何建立自己的认知体系？](https://www.zhihu.com/question/19591121/answer/1364971134?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)
 ---
 
 
