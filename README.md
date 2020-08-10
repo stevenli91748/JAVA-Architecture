@@ -442,6 +442,7 @@ SQL语言|[MySQL](https://github.com/stevenli91748/Database/blob/master/MySQL/RE
 [第一阶段的项目实现](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E7%AC%AC%E4%B8%80%E9%98%B6%E6%AE%B5%E7%9A%84%E9%A1%B9%E7%9B%AE%E5%AE%9E%E7%8E%B0.md)|
 ---|
 
+## [常用的API](https://rapidapi.com/search/streaming)
 
 ## [JAVA 常用的库](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Library/README.md#bean-mapping)
  
