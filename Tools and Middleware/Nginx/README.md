@@ -27,6 +27,10 @@ tomcat的优势在于少量的接收并处理复杂的http请求（将用户请�
 [压缩](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Nginx/Nginx压缩/README.md)|[防盗链](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Nginx/Nginx防盗链/README.md)|[跨域请求](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Nginx/Nginx%20跨域请求/README.md)|[Nginx实现限流](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Nginx/Nginx实现限流/README.md)|[Nginx+Keepalived实现高可用](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Nginx/Nginx%2BKeepalived实现高可用/README.md)|[Nginx高并发配置](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Nginx/Nginx高并发配置/README.md)|
 ---|---|---|---|---|---|
 
+[Nginx 反向代理 + 缓存 + 静态资源服务器 + 负载均衡](https://www.jianshu.com/p/fa2e78021343)|
+---|
+
+
 
 [多机部署之session共享解决方案](https://blog.csdn.net/wjg8209/article/details/103701046)|[多机部署之定时任务完整方案](https://blog.csdn.net/wjg8209/article/details/103550922)|
 ---|---|
