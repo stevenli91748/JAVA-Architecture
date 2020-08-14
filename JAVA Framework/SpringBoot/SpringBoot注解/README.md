@@ -6,8 +6,8 @@
 
 @Conditional注解就是控制自动配置的生效条件的注解，例如bean或class存在、不存在时进行配置，当满足条件时进行配置等等。
 
-[Spring3.X 注解精华](https://blog.csdn.net/chen19901211/article/details/84227368?utm_medium=distribute.pc_relevant.none-task-blog-OPENSEARCH-9.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-OPENSEARCH-9.nonecase)|[Spring中的各种注解深入理解](https://zhuanlan.zhihu.com/p/115107628)|
----|---|
+[Spring3.X 注解精华](https://blog.csdn.net/chen19901211/article/details/84227368?utm_medium=distribute.pc_relevant.none-task-blog-OPENSEARCH-9.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-OPENSEARCH-9.nonecase)|[Spring中的各种注解深入理解](https://zhuanlan.zhihu.com/p/115107628)|[标记接口,注解和注解处理器的前世今生](https://zhuanlan.zhihu.com/p/143143682)|
+---|---|---|
 
 
 # [元注解](https://mp.weixin.qq.com/s?__biz=MzI3ODcxMzQzMw==&mid=2247484195&idx=1&sn=e28f9c3a2f7628061fe15bef668f2ea7&scene=21#wechat_redirect)
