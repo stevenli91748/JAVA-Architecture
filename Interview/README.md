@@ -34,6 +34,8 @@
 
 # 第0阶段  [面向对象](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Object%20oriented/interview/README.md)
 
+# [阿里当了7年技术面试官：掌握这些Java知识点，大厂offer拿到手软](https://www.bilibili.com/read/cv7211982)
+
 # 第一阶段 Java核心篇
 
 **围绕数据结构, 多线程并发, 设计模式和虚拟机准备面试题**  
