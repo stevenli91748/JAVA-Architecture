@@ -65,7 +65,8 @@ tomcat的优势在于少量的接收并处理复杂的http请求（将用户请�
  * [Linux下nginx的安装使用+负载均衡+集群搭建](https://www.bilibili.com/video/av66388283?from=search&seid=3209376219057807635)
 
 # 有用的参考
-
+ * [看完这篇文章，还不懂nginx，算我输](https://zhuanlan.zhihu.com/p/152526491?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)
+ * [3W字长文讲透Nginx高阶用法](https://zhuanlan.zhihu.com/p/100124676?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)
  * [Nginx中文维基](http://tool.oschina.net/apidocs/apidoc?api=nginx-zh)
  * [学好Nginx，走遍天下都不怕](https://zhuanlan.zhihu.com/p/80600540?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)
  * [Nginx 的变量究竟是怎么一回事？](https://zhuanlan.zhihu.com/p/148166996?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)
