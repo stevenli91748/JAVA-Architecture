@@ -308,6 +308,7 @@ Open API开放平台必然涉及到客户应用的接入、API权限的管理、
   * [REST API 接口测试](https://www.imooc.com/learn/1048)
   * [高质量API接口设计最佳实践](https://www.bilibili.com/video/BV1g4411V7R9/?spm_id_from=333.788.videocard.7)
 # 有用的参考
+  * [微服务五种开源API网关实现组件对比](https://zhuanlan.zhihu.com/p/61014955)
   * [【spring 指南系列】如何更好的设计RESTful API](https://zhuanlan.zhihu.com/p/24592119?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)
   * [前后端分离后，RESTful API 最佳实践](https://zhuanlan.zhihu.com/p/66323805?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)
   * [避免自己写的 url 被diss！建议看看这篇RestFul API简明教程！](https://juejin.im/post/5e82b1f55188257391463536)
