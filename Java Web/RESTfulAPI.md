@@ -44,7 +44,13 @@
   
   [这样讲 API 网关，你应该能明白了吧](https://zhuanlan.zhihu.com/p/90433496)
 
-  ## 流量网关：
+  API 网关拆分成为 3 个系统：
+
+     Gateway-Core（核心）
+     Gateway-Admin（管理）
+     Gateway-Monitor（监控）
+
+ ## 流量网关：
     一类是全局性的，跟具体的后端业务系统和服务完全无关的部分，比如安全策略、全局性流控策略、流量分发策略等。通常有如下通用性的具体功能：
     
     1.全局性流控；
@@ -76,6 +82,8 @@
     Node.js：Express Gateway、MicroGateway。
 
 按照使用范围、成熟度等来划分，主流的有 4 个：OpenResty、Kong、Zuul/Zuul 2、Spring Cloud Gateway，此外 fagongzi API 网关最近也获得不少关注。
+
+
 
 
 # 前后端分离是如何做的
