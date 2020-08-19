@@ -3,6 +3,9 @@
 
 # 多线程目录
 
+# [还搞不定Java多线程和并发编程面试题？你可能需要这一份书单！](https://mp.weixin.qq.com/s?__biz=MzUyOTk5NDQwOA==&mid=2247490401&idx=2&sn=8a2a896e11c0eba74e13a5781fd75fa8&chksm=fa59dca6cd2e55b0c4d93e23365150475b9ab17c3e70fd01aae59d86fca00a86896e5df70cc0&scene=21#wechat_redirect)
+
+
 <a href="https://ibb.co/8ss6Hc3"><img src="https://i.ibb.co/pwwJSyD/thread2019050823383080.png" alt="thread2019050823383080" border="0"></a>
 
 
