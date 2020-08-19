@@ -112,6 +112,7 @@
 * [Spring cloud 核心组件实战](https://www.imooc.com/video/19575)
 
 # 有用的参考
+* [Spring Cloud微服务云应用教](https://www.jdon.com/springcloud.html)
 * [使用Spring Cloud的完整微服务项目](https://www.zhihu.com/question/263476834)
 * [芋道源码---Spring Cloud](http://www.iocoder.cn/categories/Spring-Cloud/)
 * [Spring Cloud 微服务教程汇总](http://www.springcloud.wiki/)
