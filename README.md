@@ -399,6 +399,9 @@ SOA架构|[JPA](https://github.com/stevenli91748/JAVA-Architecture/blob/master/T
 
 **重点了接servlet， tomcat， session， cookie， RESTFul API**
 
+[这份Java Web必读书单，值得所有Java工程师一看！](https://mp.weixin.qq.com/s?__biz=MzUyOTk5NDQwOA==&mid=2247490164&idx=2&sn=5187584a440381d81e64434fb7cc1d7e&chksm=fa59ddb3cd2e54a593c3aea509fd4330f34f1a9fa5529f799c582bd90d75bd4a920d96b611f6&scene=21#wechat_redirect)
+
+
 ### WEB服务器基础
 
 [HTTP](https://github.com/stevenli91748/Network/blob/master/HTTP/README.md)|HttpWatch|[Tomcat](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Tomcat/README.md)|[JSON][%JSON]|JSONP|[Java动态追踪技术探究](https://juejin.im/post/5c789892f265da2dc45390d4)|[Jmx](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/jmx/README.md)|
