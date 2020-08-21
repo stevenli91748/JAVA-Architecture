@@ -3,6 +3,7 @@
 
 
 # 视频
+ * [Jenkins Tutorial For Beginners | Jenkins Tutorial ](https://www.youtube.com/watch?v=FX322RVNGj4)
  * [用Jenkins自动化搭建测试环境](https://www.imooc.com/learn/1008)
  * [Jenkins+K8s实现持续集成](https://www.imooc.com/learn/1112)
  * [一个完整实操演示揭露Jenkins项目部署发布过程](https://www.bilibili.com/video/av49707383?from=search&seid=51472329364734361)
