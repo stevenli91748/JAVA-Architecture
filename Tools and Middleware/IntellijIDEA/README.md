@@ -446,6 +446,7 @@
 
 
 # 视频
+* [IntelliJ IDEA | Full Course | 2020](https://www.youtube.com/watch?v=yefmcX57Eyg)
 * [IntelliJ IDEA神器使用技巧](https://www.imooc.com/learn/924)
 * [【2019】IntelliJ IDEA 入门到实战教程](https://www.bilibili.com/video/BV1DE411r7r1/?spm_id_from=333.788.videocard.0)
 * [IntelliJ IDEA | Full Course | 2020](https://www.youtube.com/watch?v=yefmcX57Eyg)
