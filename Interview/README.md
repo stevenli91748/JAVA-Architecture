@@ -41,8 +41,8 @@
 **围绕数据结构, 多线程并发, 设计模式和虚拟机准备面试题**  
 
 
-[芋道源码 ---各种面试题](http://svip.iocoder.cn/tags/%E9%9D%A2%E8%AF%95%E9%A2%98/)|
----|
+[芋道源码 ---各种面试题](http://svip.iocoder.cn/tags/%E9%9D%A2%E8%AF%95%E9%A2%98/)|[Java基础知识面试题（2020最新版）](https://thinkwon.blog.csdn.net/article/details/104390612)|
+---|---|
 
   * [计算机系统原理]()
   * [计算机操作系统]()
