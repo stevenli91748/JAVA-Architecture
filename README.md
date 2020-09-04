@@ -9,6 +9,7 @@
 # [GitHub上最励志的计算机自学教程：8个月，从中年Web前端到亚马逊百万年薪软件工程师 | 中文版](https://zhuanlan.zhihu.com/p/138443693)
 # [如何建立自己的认知体系？](https://www.zhihu.com/question/19591121/answer/1364971134?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)
 # [如何利用好Google Scholar(谷歌学术)](https://www.zhihu.com/question/39852481)
+# [好的it 英文书网战--user： steven  psw: gz19731108](https://learning.oreilly.com/home/)
 ---
 
 
