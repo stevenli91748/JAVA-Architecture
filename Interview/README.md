@@ -130,7 +130,7 @@
   * [Linux](https://github.com/stevenli91748/Linux/blob/master/Interview/README.md)
   * [高性能NIO框架- Netty](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/Netty/Interview/README.md)
   * [分布式架构基石-RPC]()
-  * 分布式缓存Redis
+  * [分布式缓存Redis](https://github.com/stevenli91748/Database/blob/master/Redis/Interview/README.md)
   * 系统和虚拟机调优
   * 多线程性能分析
   * [高并发编程](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/Concurrency/%E5%B9%B6%E5%8F%91%E9%9D%A2%E8%AF%95.md)
@@ -156,7 +156,7 @@
   * Nginxb
   * NginxPlus
   * [Tomcat](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Tomcat/interview/Tomcat%E9%9D%A2%E8%AF%95%E9%A2%98.md)
-  * Redis
+  * [Redis](https://github.com/stevenli91748/Database/blob/master/Redis/Interview/README.md)
   * Node.js
   * Websocket
   * [Dubbo](https://github.com/stevenli91748/MicroService/blob/master/Dubbo/Interview/README.md)
