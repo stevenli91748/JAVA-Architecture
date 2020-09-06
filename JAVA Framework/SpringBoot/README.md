@@ -193,7 +193,7 @@ Spring Boot 并不是用来替代 Spring 的解决方案，而是和 Spring 框�
  
 # 项目实践
 * [项目实践：SpringBoot三招组合拳，手把手教你打出优雅的后端接口](https://zhuanlan.zhihu.com/p/134209666?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
-
+* [【项目实践】后端接口统一规范的同时，如何优雅得扩展规范](https://juejin.im/post/6844904143912435719)
 
 
 # 有用的参考
