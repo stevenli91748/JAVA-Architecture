@@ -190,6 +190,12 @@ Spring Boot 并不是用来替代 Spring 的解决方案，而是和 Spring 框�
  * [黑马乐优商城12月份完整版【锋哥版】](https://www.bilibili.com/video/av74750602/?spm_id_from=333.788.videocard.9)
  * [4小时学会Spring Boot+Vue前后端分离开发](https://www.bilibili.com/video/av85793766?from=search&seid=25718754058418816)
  
+ 
+# 项目实践
+* [项目实践：SpringBoot三招组合拳，手把手教你打出优雅的后端接口](https://zhuanlan.zhihu.com/p/134209666?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
+
+
+
 # 有用的参考
   * [Spring Boot+RabbitMQ 实现延迟消息实现完整版，实用](https://zhuanlan.zhihu.com/p/147320193?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)
   * [完整项目---Github点赞接近 100k 的Spring Boot学习教程+实战项目推荐！](https://zhuanlan.zhihu.com/p/150513285?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)
