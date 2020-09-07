@@ -30,6 +30,9 @@
 [SpringBoot应用部署于外置Tomcat容器](https://mp.weixin.qq.com/s?__biz=MzU4ODI1MjA3NQ==&mid=2247483792&idx=1&sn=fde72633b86c7f951cd2a25f0c270121&chksm=fdded754caa95e420516178ff70b67b42271c4c68bc4644b4671925bf3c0b8383242432318a5#rd)|[SpringBoot 在IDEA中实现热部署(实用版)](https://www.jianshu.com/p/f658fed35786)|[Intellij IDEA 4种配置热部署的方法](https://www.cnblogs.com/jcook/p/6910238.html)|
 ---|---|---|
 
+[IDEA/JRebel实现内部/外部/远程Tomcat热部署Spring Boot](https://juejin.im/post/6844904134643023879)|
+---|
+
 [springboot框架图解](https://blog.csdn.net/ycy0706/article/details/103778977?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522159142623819724811805234%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&request_id=159142623819724811805234&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v1~rank_ctr_v4-2-103778977.ecpm_v1_rank_ctr_v4&utm_term=springboot%E6%A0%B8%E5%BF%83%E6%A1%86%E6%9E%B6%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84)|[关于SpringBoot中的多数据源集成](https://www.bilibili.com/read/cv740636)|
 ---|---|
 
