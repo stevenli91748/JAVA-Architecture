@@ -202,10 +202,10 @@ Spring Boot 并不是用来替代 Spring 的解决方案，而是和 Spring 框�
  * [4小时学会Spring Boot+Vue前后端分离开发](https://www.bilibili.com/video/av85793766?from=search&seid=25718754058418816)
  
  
-# 项目实践
-* [项目实践：SpringBoot三招组合拳，手把手教你打出优雅的后端接口](https://zhuanlan.zhihu.com/p/134209666?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
+# 项目实践经验
+* [【项目实践】SpringBoot三招组合拳，手把手教你打出优雅的后端接口](https://zhuanlan.zhihu.com/p/134209666?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
 * [【项目实践】后端接口统一规范的同时，如何优雅得扩展规范](https://juejin.im/post/6844904143912435719)
-
+* [【项目实践】SpringBoot-如何设计优秀的后端接口](https://juejin.im/post/6860404263143604232)
 
 # 有用的参考
   * [Spring Boot+RabbitMQ 实现延迟消息实现完整版，实用](https://zhuanlan.zhihu.com/p/147320193?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)
