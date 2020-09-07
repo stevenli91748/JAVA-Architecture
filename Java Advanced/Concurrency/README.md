@@ -1,5 +1,11 @@
 # [并发知识点](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/Concurrency/并发面试.md)
 
+[高并发编程从入门到精通（一）](https://juejin.im/post/6844904195091349512)|[高并发编程从入门到精通（二）](https://juejin.im/post/6844904199004635143)|[高并发编程从入门到精通（三）](https://juejin.im/post/6847902217123397639)|
+---|---|---|
+
+[高并发编程从入门到精通（四）](https://juejin.im/post/6847902217127755783)|[高并发编程从入门到精通（五）](https://juejin.im/post/6854573209778569230)|[高并发编程从入门到精通（六](https://juejin.im/post/6856562407142227982)|
+---|---|---|
+
 [java并发成神之路---JUC全方位解读脑图](https://naotu.baidu.com/file/89fb28b05e3395800f9dc2d332d2b198?token=9b45e08e55281667)|[Java多任务并行处理框架 Fork Join](https://www.bilibili.com/video/BV1Gp411R7YG)|
 ---|---|
 
