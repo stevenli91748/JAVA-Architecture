@@ -13,8 +13,9 @@
 
 # 项目实战
 
-[实战前后端分离RBAC权限管理系统](https://www.kancloud.cn/hanxt/vue-spring/1528245)|
----|
+[实战前后端分离RBAC权限管理系统](https://www.kancloud.cn/hanxt/vue-spring/1528245)|[Spring Security-JWT-OAuth2一本通(基于SpringBoot2.0)
+](https://www.kancloud.cn/hanxt/springsecurity/1472507)|
+---|---|
 
 
 # 搭建环境
