@@ -22,8 +22,8 @@
 [Spring Boot demo系列（三）：Spring Web+MyBatis Plus](https://juejin.im/post/6869742648563859469)|
 ---|
 
-[Spring boot+Mysql+Spring data JPA一个Web的Demo](https://juejin.im/post/6844903970792701965)|
----|
+[Spring boot+Mysql+Spring data JPA一个Web的Demo](https://juejin.im/post/6844903970792701965)|[超详细！4小时开发一个SpringBoot+vue前后端分离博客项目！！](https://juejin.im/post/6844903823966732302)|
+---|---|
 
 # 搭建环境
 
