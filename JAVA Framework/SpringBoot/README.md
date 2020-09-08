@@ -69,6 +69,9 @@
 [SpringBoot布道系列](https://www.jianshu.com/p/964370d9374e)|[SpringBoot 使用线程池](https://crossoverjie.top/2018/07/29/java-senior/ThreadPool/)|[Netty(一) SpringBoot 整合长连接心跳机制](https://crossoverjie.top/2018/05/24/netty/Netty(1)TCP-Heartbeat/#SpringBoot-%E7%9B%91%E6%8E%A7)|
 ---|---|---|
 
+[还在手动部署SpringBoot应用？试试这个自动化插件！](https://juejin.im/post/6868060821927723021)|
+---|
+
 [怎么在 Spring Boot 中使用 JDBC 连接 MySQL](https://juejin.im/post/5ed443eef265da76ed485423)|[SpringBoot+MyBatis+MySQL读写分离](https://zhuanlan.zhihu.com/p/54812239)|
 ---|---|
 
