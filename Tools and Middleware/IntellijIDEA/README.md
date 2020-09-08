@@ -8,8 +8,8 @@
 [IDEA中Debug javaScript功能](https://www.bilibili.com/video/av22537758?p=2)|[在IDEA中个性化配置JVM参数](https://www.bilibili.com/video/av22537758?p=1)|[如何运行+如何读代码 如何用IDEA进行调试 ](https://www.bilibili.com/video/BV1y4411p74E)|
 ---|---|---|
 
-[快速测试 API 接口的新技能](https://juejin.im/post/6844903602503286797)|
----|
+[快速测试 API 接口的新技能](https://juejin.im/post/6844903602503286797)|[IntelliJ IDEA远程Debug Linux的Java程序，找问题不要只会看日志了](https://juejin.im/post/6868793304772870158)|
+---|---|
 
 # 目录
 
