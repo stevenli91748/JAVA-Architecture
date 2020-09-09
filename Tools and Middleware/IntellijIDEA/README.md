@@ -11,6 +11,9 @@
 [快速测试 API 接口的新技能](https://juejin.im/post/6844903602503286797)|[IntelliJ IDEA远程Debug Linux的Java程序，找问题不要只会看日志了](https://juejin.im/post/6868793304772870158)|
 ---|---|
 
+[全网最全最新的IDEA教程](https://mp.weixin.qq.com/s/Ds1iU6ipMgWyaqaOPgP44g?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)|
+---|
+
 # 目录
 
 
