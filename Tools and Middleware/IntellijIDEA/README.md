@@ -83,7 +83,8 @@
 ##  必备插件
 
 * [第一弹！安排！安利10个让你爽到爆的IDEA必备插件](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247486586&idx=1&sn=b745f0be1a5fc0160f43625e29df9029&chksm=cea243b1f9d5caa7200950063ae9e1691d3578d46c0b865c8220c8f1e02ed43cb4e586c2524c&token=248911937&lang=zh_CN#rd)
-
+  * [Codota---极其强大的代码自动补全]
+  * []
   * [Translation]
   * [CodeGlance -代码地图]
   * [Rainbow Brackets--彩虹式的括号]
