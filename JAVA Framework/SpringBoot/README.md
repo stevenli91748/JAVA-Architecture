@@ -36,6 +36,8 @@
 [springBoot整合spring security实现权限管理(单体应用版)--筑基初期](https://juejin.im/post/6867530830446034958)|[springBoot整合spring security+JWT实现单点登录与权限管理前后端分离--筑基中期](https://juejin.im/post/6868558729353117710)|
 ---|---|
 
+
+
 # 搭建环境
 
 [IDEA下从零开始搭建SpringBoot工程](https://blog.csdn.net/u013248535/article/details/55100979)|[建立SpringBoot工程的几种方法](#建立SpringBoot工程的几种方法)|[Docker容器可视化监控中心搭建](https://mp.weixin.qq.com/s?__biz=MzU4ODI1MjA3NQ==&mid=2247483763&idx=1&sn=6ceb9e73540b5016dadfb212636b3855&chksm=fdded7b7caa95ea1165b507397c39267d3bf7522c83cc8ed10eae4ee4a13db831eb58a3dc167&scene=21#wechat_redirect)|[SpringBoot 应用程序启动过程探秘](https://www.codesheep.cn/2018/09/04/springboot-startup-process/)|
@@ -90,8 +92,8 @@
 [芋道 Spring Boot 数据库连接池入门](http://www.iocoder.cn/Spring-Boot/datasource-pool/?self)|[芋道 Spring Boot MyBatis 入门](http://www.iocoder.cn/Spring-Boot/MyBatis/?self)|[芋道 Spring Boot 多数据源（读写分离）入门](http://www.iocoder.cn/Spring-Boot/dynamic-datasource/?self)|
 ---|---|---|
 
-[芋道 Spring Boot 分库分表入门](http://www.iocoder.cn/Spring-Boot/sharding-datasource/?self)|
----|
+[芋道 Spring Boot 分库分表入门](http://www.iocoder.cn/Spring-Boot/sharding-datasource/?self)|[Spring Boot + MyBatis 如何优雅的实现数据库读写分离](https://www.zhihu.com/question/381631883/answer/1100642927?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=group3_Answer&utm_campaign=shareopn)|
+---|---|
 
 
 
