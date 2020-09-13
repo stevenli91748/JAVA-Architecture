@@ -67,6 +67,10 @@
 [全局异常处理](https://www.jianshu.com/p/b5b8613769db)|[HttpMessageConverter的作用及替换---输入/输出数据格式和JAVA对象的转换](https://www.jianshu.com/p/333ed5ee958d)|
 ---|---|
 
+[精讲RestTemplate](http://www.zimug.com/tag/resttemplate)|
+---|
+
+
 
 [Springboot启动原理解析](https://zhuanlan.zhihu.com/p/60475611)|[基于Spring Boot项目构建流水线](https://www.bilibili.com/video/av90883375?from=search&seid=1134316332664179526)|[Idea 平台下实现 spring boot 项目 热部署](https://www.bilibili.com/video/av93414618?from=search&seid=1134316332664179526)|[Spring boot项目导入 环境配置](https://www.bilibili.com/video/av45976433?from=search&seid=1134316332664179526)|[如何创建Spring Boot项目脚手架](https://www.bilibili.com/video/av92630366?from=search&seid=1134316332664179526)|
 ---|---|---|---|---|
