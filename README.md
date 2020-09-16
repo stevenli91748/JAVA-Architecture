@@ -436,6 +436,9 @@ Request和Response|React|[VUE.JS](https://github.com/stevenli91748/Frontend/blob
 [Session][%Session]|[Cookie][%Cookie]|[Token][%Token]|Github|Filter |Listener|国际化|文件上传下载|
 ---|---|---|---|---|---|---|---|
 
+[bean](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/bean.md)|
+---|
+
 
 ### 网页开发基础
 
