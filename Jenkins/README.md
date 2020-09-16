@@ -1,5 +1,6 @@
 
-
+[精尽 Jenkins 学习指南](http://svip.iocoder.cn/Jenkins/tutorials/)|
+---|
 
 
 # 视频
