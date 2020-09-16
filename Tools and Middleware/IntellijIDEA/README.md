@@ -1,4 +1,7 @@
 
+[精尽 IntelliJ IDEA 学习指南](http://svip.iocoder.cn/IntelliJ-IDEA/tutorials/)|
+---|
+
 [[32个 IDEA 推荐配置，让你的IDEA有飞一般的感觉](https://zhuanlan.zhihu.com/p/79345173)|
 ---|
 
