@@ -1,5 +1,10 @@
 # [并发知识点](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/Concurrency/并发面试.md)
 
+
+[精尽 Java【并发】学习指南](http://svip.iocoder.cn/Java/Concurrent/tutorials/)|
+----|
+
+
 [高并发编程从入门到精通（一）](https://juejin.im/post/6844904195091349512)|[高并发编程从入门到精通（二）](https://juejin.im/post/6844904199004635143)|[高并发编程从入门到精通（三）](https://juejin.im/post/6847902217123397639)|
 ---|---|---|
 
