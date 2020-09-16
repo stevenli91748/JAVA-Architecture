@@ -8,6 +8,11 @@
 
 <a href="https://ibb.co/HtT9bJ1"><img src="https://i.ibb.co/jykjQpB/jvm20190508233557662.png" alt="jvm20190508233557662" border="0"></a>
 
+
+[精尽 Java【虚拟机】学习指南](http://svip.iocoder.cn/Java/VirtualMachine/tutorials/)|
+---|
+
+
 # [0. 初识JVM](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E5%88%9D%E8%AF%86JVM.md)
 
   *  虚拟机的启动
