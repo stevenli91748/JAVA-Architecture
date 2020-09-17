@@ -49,7 +49,7 @@
 * 函数式接口
 * 方法引用、构造器引用和数组引用
 * 接口支持默认方法和静态方法
-* Stream API
+* [Stream API](http://www.zimug.com/tag/stream)
 * 增强类型推断
 * 新的日期时间 API
 * Optional 类
