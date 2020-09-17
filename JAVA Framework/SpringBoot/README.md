@@ -78,6 +78,15 @@
 # SpringBoot内部机制
 # Web开发
 # 数据訪问
+* [Guava Cache本地缓存在 Spring Boot应用中的实践](https://github.com/hansonwang99/Spring-Boot-In-Action/tree/master/springbt_guava_cache)
+* [EVCache缓存在 Spring Boot中的实战](https://github.com/hansonwang99/Spring-Boot-In-Action/tree/master/springbt_evcache)
+* [Spring Boot应用缓存实践之：Ehcache加持](https://github.com/hansonwang99/Spring-Boot-In-Action/tree/master/springbt_ehcache)
+* [Spring Boot集成 MyBatis和 SQL Server实践](https://github.com/hansonwang99/Spring-Boot-In-Action/tree/master/springbt_mybatis_sqlserver)
+* [Elasticsearch搜索引擎在Spring Boot中的实践](https://github.com/hansonwang99/Spring-Boot-In-Action/tree/master/springboot_es_demo)
+* [自制一个 elasticsearch-spring-boot-starter](https://www.codesheep.cn/2019/02/28/elasticsearch-spring-boot-starter/)
+* [Spring Boot项目利用MyBatis Generator进行数据层代码自动生成](https://www.codesheep.cn/2019/02/14/mybatis-generator/)
+* [Mybatis-Plus 真好用（乡村爱情加持）](https://www.codesheep.cn/2019/04/12/springbt-mybatis-plus/)
+
 # 事务管理
 # 日志管理
 # 安全管理
