@@ -22,8 +22,8 @@
 [SpringCloud- Alibaba](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%20Alibaba/README.md)|
 ----|
 
-[限流](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/%E9%99%90%E6%B5%81/README.md)|
----|
+[限流](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/%E9%99%90%E6%B5%81/README.md)|[springCloud- 搭建项目全部详细过程（创建一个父工程）](https://blog.csdn.net/star1210644725/article/details/104691945?utm_medium=distribute.pc_relevant_download.none-task-blog-baidujs-5.nonecase&depth_1-utm_source=distribute.pc_relevant_download.none-task-blog-baidujs-5.nonecase)|
+---|---|
 
 * 服务注册与发现
   * Eureka--主要负责实现微服务架构中的服务治理功能
