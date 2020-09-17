@@ -18,17 +18,17 @@
 ---|
 
 ---
-* [SpringBoot内部机制](#SpringBoot内部机制)
-* [工程配置](#工程配置)
-* [Web开发](#Web开发)
-* [数据訪问](#数据訪问)
-* 事务管理
-* 日志管理
-* 安全管理
-* 缓存管理
-* 消息服务
-* 应用监控
-* [项目实战](#项目实战)
+* [1. SpringBoot内部机制](#SpringBoot内部机制)
+* [2. 工程配置](#工程配置)
+* [3. Web开发](#Web开发)
+* [4. 数据訪问](#数据訪问)
+* [5. 事务管理](#事务管理)
+* [6. 日志管理](#日志管理)
+* 7. 安全管理
+* 8. 缓存管理
+* 9. 消息服务
+* 10. 应用监控
+* [11. 项目实战](#项目实战)
 
 ---
 
@@ -49,6 +49,16 @@
 * [springBoot整合spring security实现权限管理(单体应用版)--筑基初期](https://juejin.im/post/6867530830446034958)
 * [springBoot整合spring security+JWT实现单点登录与权限管理前后端分离--筑基中期](https://juejin.im/post/6868558729353117710)
 * [超详细！4小时开发一个SpringBoot+vue前后端分离博客项目！！](https://juejin.im/post/6844903823966732302)
+- [Spring Boot工程集成全局唯一ID生成器 UidGenerator](https://github.com/hansonwang99/Spring-Boot-In-Action/tree/master/springbt_uid_generator)
+* [Spring Boot 工程集成全局唯一ID生成器 Vesta](https://github.com/hansonwang99/Spring-Boot-In-Action/tree/master/springbt_vesta)
+* [Spring Boot优雅编码之：Lombok加持](http://www.codesheep.cn/2018/04/09/SpringBoot%E4%BC%98%E9%9B%85%E7%BC%96%E7%A0%81%E4%B9%8B%EF%BC%9ALombok%E5%8A%A0%E6%8C%81/)
+* [Spring Boot应用 Docker化](http://www.codesheep.cn/2018/04/12/SpringBoot%E5%BA%94%E7%94%A8Docker%E5%8C%96/)
+* [Spring Boot热部署加持](http://www.codesheep.cn/2018/06/23/SpringBoot%E7%83%AD%E9%83%A8%E7%BD%B2%E5%8A%A0%E6%8C%81/)
+* [基于Spring Boot实现图片上传/加水印一把梭操作](https://github.com/hansonwang99/Spring-Boot-In-Action/tree/master/springbt_watermark)
+* [从Spring Boot到 SpringMVC](http://www.codesheep.cn/2018/06/10/%E4%BB%8ESpringBoot%E5%88%B0SpringMVC/)
+* [自然语言处理工具包 HanLP在 Spring Boot中的应用](http://www.codesheep.cn/2018/11/01/springbt-hanlp/)
+* [Spring Boot应用部署于外置Tomcat容器](http://www.codesheep.cn/2018/06/05/SpringBoot%E5%BA%94%E7%94%A8%E9%83%A8%E7%BD%B2%E4%BA%8E%E5%A4%96%E7%BD%AETomcat%E5%AE%B9%E5%99%A8/)
+* [初探 Kotlin + Spring Boot联合编程](https://github.com/hansonwang99/Spring-Boot-In-Action/tree/master/kotlin_with_springbt)
 
 
 # 工程配置
@@ -76,6 +86,11 @@
 ---|---|---|
 
 # SpringBoot内部机制
+* [SpringBoot 中 @SpringBootApplication注解背后的三体结构探秘](http://www.codesheep.cn/2018/07/30/at-SpringBootApplication-zhujie/)
+* [SpringBoot 应用程序启动过程探秘](http://www.codesheep.cn/2018/09/04/springboot-startup-process/)
+* [如何自制一个Spring Boot Starter并推送到远端公服](https://www.codesheep.cn/2019/01/24/springbt-starter/)
+
+
 # Web开发
 # 数据訪问
 * [Guava Cache本地缓存在 Spring Boot应用中的实践](https://github.com/hansonwang99/Spring-Boot-In-Action/tree/master/springbt_guava_cache)
@@ -89,10 +104,19 @@
 
 # 事务管理
 # 日志管理
+* [Spring Boot日志框架实践](http://www.codesheep.cn/2018/03/29/Boot%E6%97%A5%E5%BF%97%E6%A1%86%E6%9E%B6%E5%AE%9E%E8%B7%B5/)
 # 安全管理
+* [基于 Spring Security和 JWT的权限系统设计](https://github.com/hansonwang99/Spring-Boot-In-Action/tree/master/springbt_security_jwt)
+* [基于Spring Security Oauth2的SSO单点登录+JWT权限控制实践](https://github.com/hansonwang99/Spring-Boot-In-Action/tree/master/springbt_sso_jwt)
+
 # 缓存管理
 # 消息服务
 # 应用监控
+* [利用神器 BTrace 追踪线上 Spring Boot应用运行时信息](https://www.codesheep.cn/2019/01/17/springbt-btrace/)
+* [Spring Boot应用监控实战](https://github.com/hansonwang99/Spring-Boot-In-Action/tree/master/springbt_admin_server)
+* [Spring Boot Admin 2.0开箱体验](https://github.com/hansonwang99/Spring-Boot-In-Action/tree/master/spring_boot_admin2.0_demo)
+
+
 # 
 [SpringBoot注解](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot注解/README.md)|[springboot基本原理(知识点)](https://blog.csdn.net/z446981439/article/details/103822257)|[SpringBoot实现原理](https://blog.csdn.net/qq_38417983/article/details/81128299)|[Spring Boot要如何学习](https://www.zhihu.com/question/53729800/answer/311948415)|[参数校验](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E5%8F%82%E6%95%B0%E6%A0%A1%E9%AA%8C.md)|
 ---|---|---|---|---|
