@@ -41,6 +41,9 @@
 [Spring boot+Mysql+Spring data JPA一个Web的Demo](https://juejin.im/post/6844903970792701965)|[超详细！4小时开发一个SpringBoot+vue前后端分离博客项目！！](https://juejin.im/post/6844903823966732302)|
 ---|---|
 
+[Springboot整合springcloud实现分布式服务 简单demo 完整示例](https://blog.csdn.net/wjg1314521/article/details/105067300?utm_medium=distribute.pc_relevant_download.none-task-blog-baidujs-2.nonecase&depth_1-utm_source=distribute.pc_relevant_download.none-task-blog-baidujs-2.nonecase)|
+---|
+
 [springBoot整合spring security实现权限管理(单体应用版)--筑基初期](https://juejin.im/post/6867530830446034958)|[springBoot整合spring security+JWT实现单点登录与权限管理前后端分离--筑基中期](https://juejin.im/post/6868558729353117710)|
 ---|---|
 
