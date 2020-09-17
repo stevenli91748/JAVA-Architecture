@@ -1,9 +1,4 @@
 # [Spring Boot面试题](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/Interview/README.md)
-# 配置 Spring  Boot WEB项目的步骤
-
-1. 创建Spring Boot项目
-
-2. 配置Maven 依赖
 
 
 <a href="https://ibb.co/2YkyBM6"><img src="https://i.ibb.co/FqDKtYW/spring-boot-v2-5ef5f719b1c3a169a948430159d940a5-r.jpg" alt="spring-boot-v2-5ef5f719b1c3a169a948430159d940a5-r" border="0"></a>
@@ -11,15 +6,10 @@
 [程序猿DD---非常好](http://blog.didispace.com/)|[ 芋道源码------非常好](http://www.iocoder.cn/)|[猿码架构](https://www.jianshu.com/u/657c611b2e07)|
 ---|---|---|
 
-[精尽 Spring Boot 学习指南](http://svip.iocoder.cn/Spring-Boot/tutorials/)|
----|
+[精尽 Spring Boot 学习指南](http://svip.iocoder.cn/Spring-Boot/tutorials/)|[springboot系列之02-需要了解的宏观知识点](http://www.zimug.com/java/spring/springboot%e7%b3%bb%e5%88%97%e4%b9%8b02-%e9%9c%80%e8%a6%81%e4%ba%86%e8%a7%a3%e7%9a%84%e5%ae%8f%e8%a7%82%e7%9f%a5%e8%af%86%e7%82%b9/.html)|
+---|---|
 
-
-
-[springboot系列之02-需要了解的宏观知识点](http://www.zimug.com/java/spring/springboot%e7%b3%bb%e5%88%97%e4%b9%8b02-%e9%9c%80%e8%a6%81%e4%ba%86%e8%a7%a3%e7%9a%84%e5%ae%8f%e8%a7%82%e7%9f%a5%e8%af%86%e7%82%b9/.html)|
----|
-
-# 项目实战
+---
 
 [手摸手教你学spring boot 2.x](https://www.kancloud.cn/hanxt/springboot2/1492077)|[[手摸手教你学spring boot 2.x 学习笔记](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E6%89%8B%E6%91%B8%E6%89%8B%E6%95%99%E4%BD%A0%E5%AD%A6spring%20boot%202.x%20%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)|
 ---|---|
@@ -27,30 +17,41 @@
 [Spring Security-JWT-OAuth2一本通(基于SpringBoot2.0)](https://www.kancloud.cn/hanxt/springsecurity/1472507)|
 ---|
 
-[实战前后端分离RBAC权限管理系统](https://www.kancloud.cn/hanxt/vue-spring/1528245)|
----|
+---
+* [SpringBoot内部机制](#SpringBoot内部机制)
+* [工程配置](#工程配置)
+* [Web开发](#Web开发)
+* [数据訪问](#数据訪问)
+* 事务管理
+* 日志管理
+* 安全管理
+* 缓存管理
+* 消息服务
+* 应用监控
+* [项目实战](#项目实战)
 
-[分布式Restful SpringBoot骨架搭建（一）](https://blog.csdn.net/wuqianjing/article/details/80350289?utm_medium=distribute.pc_relevant.none-task-blog-title-1&spm=1001.2101.3001.4242)|[Spring Boot架构搭建RESTful API案例](https://blog.csdn.net/zhenghhgz/article/details/79289241?utm_medium=distribute.pc_relevant.none-task-blog-title-5&spm=1001.2101.3001.4242)|
----|---|
+---
 
-[Spring Boot demo系列（一）：Hello World](https://juejin.im/post/6869251382940041224)|[Spring Boot demo系列（二）：简单三层架构Web应用](https://juejin.im/post/6869253275095564302)|
----|---|
+# 项目实战
+  * [Demo](#Demo)
+  * [实战经验](#实战经验)
+## Demo  
+* [分布式Restful SpringBoot骨架搭建（一）](https://blog.csdn.net/wuqianjing/article/details/80350289?utm_medium=distribute.pc_relevant.none-task-blog-title-1&spm=1001.2101.3001.4242)
+* [Spring Boot架构搭建RESTful API案例](https://blog.csdn.net/zhenghhgz/article/details/79289241?utm_medium=distribute.pc_relevant.none-task-blog-title-5&spm=1001.2101.3001.4242)
+* [Spring Boot demo系列（一）：Hello World](https://juejin.im/post/6869251382940041224)
+* [Spring Boot demo系列（二）：简单三层架构Web应用](https://juejin.im/post/6869253275095564302)|
+* [Spring Boot demo系列（三）：Spring Web+MyBatis Plus](https://juejin.im/post/6869742648563859469)
+* [Spring boot+Mysql+Spring data JPA一个Web的Demo](https://juejin.im/post/6844903970792701965)
+* [Springboot整合springcloud实现分布式服务 简单demo 完整示例](https://blog.csdn.net/wjg1314521/article/details/105067300?utm_medium=distribute.pc_relevant_download.none-task-blog-baidujs-2.nonecase&depth_1-utm_source=distribute.pc_relevant_download.none-task-blog-baidujs-2.nonecase)
 
-[Spring Boot demo系列（三）：Spring Web+MyBatis Plus](https://juejin.im/post/6869742648563859469)|
----|
-
-[Spring boot+Mysql+Spring data JPA一个Web的Demo](https://juejin.im/post/6844903970792701965)|[超详细！4小时开发一个SpringBoot+vue前后端分离博客项目！！](https://juejin.im/post/6844903823966732302)|
----|---|
-
-[Springboot整合springcloud实现分布式服务 简单demo 完整示例](https://blog.csdn.net/wjg1314521/article/details/105067300?utm_medium=distribute.pc_relevant_download.none-task-blog-baidujs-2.nonecase&depth_1-utm_source=distribute.pc_relevant_download.none-task-blog-baidujs-2.nonecase)|
----|
-
-[springBoot整合spring security实现权限管理(单体应用版)--筑基初期](https://juejin.im/post/6867530830446034958)|[springBoot整合spring security+JWT实现单点登录与权限管理前后端分离--筑基中期](https://juejin.im/post/6868558729353117710)|
----|---|
+## 实战经验
+* [实战前后端分离RBAC权限管理系统](https://www.kancloud.cn/hanxt/vue-spring/1528245)
+* [springBoot整合spring security实现权限管理(单体应用版)--筑基初期](https://juejin.im/post/6867530830446034958)
+* [springBoot整合spring security+JWT实现单点登录与权限管理前后端分离--筑基中期](https://juejin.im/post/6868558729353117710)
+* [超详细！4小时开发一个SpringBoot+vue前后端分离博客项目！！](https://juejin.im/post/6844903823966732302)
 
 
-
-# 搭建环境
+# 工程配置
 
 [IDEA下从零开始搭建SpringBoot工程](https://blog.csdn.net/u013248535/article/details/55100979)|[建立SpringBoot工程的几种方法](#建立SpringBoot工程的几种方法)|[Docker容器可视化监控中心搭建](https://mp.weixin.qq.com/s?__biz=MzU4ODI1MjA3NQ==&mid=2247483763&idx=1&sn=6ceb9e73540b5016dadfb212636b3855&chksm=fdded7b7caa95ea1165b507397c39267d3bf7522c83cc8ed10eae4ee4a13db831eb58a3dc167&scene=21#wechat_redirect)|[SpringBoot 应用程序启动过程探秘](https://www.codesheep.cn/2018/09/04/springboot-startup-process/)|
 ---|---|---|---|
@@ -74,7 +75,16 @@
 [SpringBoot应用Docker化](https://www.codesheep.cn/2018/04/12/SpringBoot%E5%BA%94%E7%94%A8Docker%E5%8C%96/)|[Spring Boot应用监控实战](https://mp.weixin.qq.com/s?__biz=MzU4ODI1MjA3NQ==&mid=2247483771&idx=1&sn=7c5f103a816c16e453e04141d7433bf9&chksm=fdded7bfcaa95ea9a5dbe81114d32c1908bf8da0b3366bfbfcbe2473445cdba73c5e2060d5f3#rd)|[SpringBoot 中 @SpringBootApplication注解背后的三体结构探秘](https://www.codesheep.cn/2018/07/30/at-SpringBootApplication-zhujie/)|
 ---|---|---|
 
-# SpringBoot 基础知识
+# SpringBoot内部机制
+# Web开发
+# 数据訪问
+# 事务管理
+# 日志管理
+# 安全管理
+# 缓存管理
+# 消息服务
+# 应用监控
+# 
 [SpringBoot注解](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot注解/README.md)|[springboot基本原理(知识点)](https://blog.csdn.net/z446981439/article/details/103822257)|[SpringBoot实现原理](https://blog.csdn.net/qq_38417983/article/details/81128299)|[Spring Boot要如何学习](https://www.zhihu.com/question/53729800/answer/311948415)|[参数校验](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E5%8F%82%E6%95%B0%E6%A0%A1%E9%AA%8C.md)|
 ---|---|---|---|---|
 
@@ -102,10 +112,12 @@
 [芋道 Spring Boot 分库分表入门](http://www.iocoder.cn/Spring-Boot/sharding-datasource/?self)|[Spring Boot + MyBatis 如何优雅的实现数据库读写分离](https://www.zhihu.com/question/381631883/answer/1100642927?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=group3_Answer&utm_campaign=shareopn)|
 ---|---|
 
-# HTTP客户端库
+## HTTP客户端库
 
-[精讲RestTemplate](http://www.zimug.com/tag/resttemplate)|[精讲响应式webclient](http://www.zimug.com/java/spring/%e7%b2%be%e8%ae%b2%e5%93%8d%e5%ba%94%e5%bc%8fwebclient%e7%ac%ac1%e7%af%87-%e5%93%8d%e5%ba%94%e5%bc%8f%e9%9d%9e%e9%98%bb%e5%a1%9eio%e4%b8%8e%e5%9f%ba%e7%a1%80%e7%94%a8%e6%b3%95/.html)|[SpringBoot实现本地存储文件上传及提供HTTP访问服务](http://www.zimug.com/java/spring/springboot%e5%ae%9e%e7%8e%b0%e6%9c%ac%e5%9c%b0%e5%ad%98%e5%82%a8%e6%96%87%e4%bb%b6%e4%b8%8a%e4%bc%a0%e5%8f%8a%e6%8f%90%e4%be%9bhttp%e8%ae%bf%e9%97%ae%e6%9c%8d%e5%8a%a1/.html)|
----|---|---|
+* [精讲RestTemplate](http://www.zimug.com/tag/resttemplate)
+* [精讲响应式webclient](http://www.zimug.com/java/spring/%e7%b2%be%e8%ae%b2%e5%93%8d%e5%ba%94%e5%bc%8fwebclient%e7%ac%ac1%e7%af%87-%e5%93%8d%e5%ba%94%e5%bc%8f%e9%9d%9e%e9%98%bb%e5%a1%9eio%e4%b8%8e%e5%9f%ba%e7%a1%80%e7%94%a8%e6%b3%95/.html)
+* [SpringBoot实现本地存储文件上传及提供HTTP访问服务](http://www.zimug.com/java/spring/springboot%e5%ae%9e%e7%8e%b0%e6%9c%ac%e5%9c%b0%e5%ad%98%e5%82%a8%e6%96%87%e4%bb%b6%e4%b8%8a%e4%bc%a0%e5%8f%8a%e6%8f%90%e4%be%9bhttp%e8%ae%bf%e9%97%ae%e6%9c%8d%e5%8a%a1/.html)
+
 
 
 # 启动流程
@@ -130,7 +142,7 @@ bootstrap是应用程序的父上下文，也就是说bootstrap会先于applicat
 bootstrap|application|
 ---|---|
 
-# Spring Boot 内存
+## SpringBoot内存
 
 * [Spring Boot引起的“堆外内存泄漏”排查及经验总结](https://juejin.im/post/5c2ef77ae51d4551de1d769b)
 
