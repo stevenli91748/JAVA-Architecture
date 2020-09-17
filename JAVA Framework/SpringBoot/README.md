@@ -30,7 +30,8 @@
 [实战前后端分离RBAC权限管理系统](https://www.kancloud.cn/hanxt/vue-spring/1528245)|
 ---|
 
-
+[分布式Restful SpringBoot骨架搭建（一）](https://blog.csdn.net/wuqianjing/article/details/80350289?utm_medium=distribute.pc_relevant.none-task-blog-title-1&spm=1001.2101.3001.4242)|[Spring Boot架构搭建RESTful API案例](https://blog.csdn.net/zhenghhgz/article/details/79289241?utm_medium=distribute.pc_relevant.none-task-blog-title-5&spm=1001.2101.3001.4242)|
+---|---|
 
 [Spring Boot demo系列（一）：Hello World](https://juejin.im/post/6869251382940041224)|[Spring Boot demo系列（二）：简单三层架构Web应用](https://juejin.im/post/6869253275095564302)|
 ---|---|
