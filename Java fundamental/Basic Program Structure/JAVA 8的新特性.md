@@ -45,7 +45,7 @@
 
 # [JDK8新特性](https://www.cnblogs.com/peter1018/p/9183548.html)
 
-* Lambda 表达式
+* [Lambda 表达式](http://www.zimug.com/tag/lambda)
 * 函数式接口
 * 方法引用、构造器引用和数组引用
 * 接口支持默认方法和静态方法
