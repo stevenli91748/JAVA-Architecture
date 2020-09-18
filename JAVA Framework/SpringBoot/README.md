@@ -167,6 +167,8 @@
 * [Swagger静态文档的生成](http://blog.didispace.com/spring-boot-learning-21-2-5/)
 * [为什么启动时候API路径都没了？](http://blog.didispace.com/spring-boot-learning-21-2-6/)
 * [使用SpringFox 3生成Swagger文档](http://blog.didispace.com/spring-boot-learning-21-2-7/)
+* [Spring Boot中使用Swagger2构建强大的RESTful API文档](http://blog.didispace.com/springbootswagger2/)
+* [自制的spring-boot-starter-swagger](https://github.com/SpringForAll/spring-boot-starter-swagger)
 ## Dubbo进行服务治理
 
 * [Spring Boot中使用Dubbo进行服务治理](https://gitee.com/didispace/SpringBoot-Learning/tree/master/Chapter9-2-1)
