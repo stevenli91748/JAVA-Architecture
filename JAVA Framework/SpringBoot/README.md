@@ -108,6 +108,10 @@
 
 
 # Web开发
+  * [Dubbo进行服务治理](#Dubbo进行服务治理)
+
+---
+
 * [构建一个较为复杂的RESTful API以及单元测试](http://blog.didispace.com/springbootrestfulapi/)
 * [使用Thymeleaf模板引擎渲染web视图](http://blog.didispace.com/springbootweb/)
 * [使用Freemarker模板引擎渲染web视图](http://blog.didispace.com/springbootweb/)
@@ -116,6 +120,12 @@
 * [统一异常处理](http://blog.didispace.com/springbootexception/)
 * [使用Java 8中LocalDate等时间日期类的问题解决](http://blog.didispace.com/Spring-Boot-And-Feign-Use-localdate/)
 * [扩展XML请求和响应的支持](http://blog.didispace.com/spring-boot-xml-httpmessageconverter)
+
+## Dubbo进行服务治理
+
+* [Spring Boot中使用Dubbo进行服务治理](https://gitee.com/didispace/SpringBoot-Learning/tree/master/Chapter9-2-1)
+* [Spring Boot与Dubbo中管理服务依赖](https://gitee.com/didispace/SpringBoot-Learning/tree/master/Chapter9-2-2)
+
 
 # 数据訪问
 * [Guava Cache本地缓存在 Spring Boot应用中的实践](https://github.com/hansonwang99/Spring-Boot-In-Action/tree/master/springbt_guava_cache)
