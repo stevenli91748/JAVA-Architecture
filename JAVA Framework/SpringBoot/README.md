@@ -78,7 +78,7 @@
 
 * [基本项目构建（可作为工程脚手架），引入web模块，完成一个简单的RESTful API](http://blog.didispace.com/spring-boot-learning-1/)
 * [使用Intellij中的Spring Initializr来快速构建Spring Boot/Cloud工程](http://blog.didispace.com/spring-initializr-in-intellij/)
-
+* [工程结构推荐](http://blog.didispace.com/spring-boot-learning-21-1-2/)
 
 ---
 
@@ -124,11 +124,10 @@
 * [Spring Boot自定义Banner](http://blog.didispace.com/spring-boot-banner/)
 * [为什么启动时候API路径都没了？](http://blog.didispace.com/spring-boot-learning-21-2-6/)
 ## SpringBoot配置文件
-
 * [Spring Boot读取配置的几种方式](https://mp.weixin.qq.com/s?__biz=MzI3ODcxMzQzMw==&mid=2247484575&idx=1&sn=56c88cd7283374345d891e85a800539b&scene=21#wechat_redirect)
 * [配置文件详解：自定义属性、随机数、多环境配置等](http://blog.didispace.com/springbootproperties/)
 * [Spring Boot 2.0 新特性（一）：配置绑定 2.0 全解析](http://blog.didispace.com/Spring-Boot-2-0-feature-1-relaxed-binding-2/)
-
+* [配置文件详解](http://blog.didispace.com/spring-boot-learning-21-1-3/)
 ## SpringBoot内存
 
 * [Spring Boot引起的“堆外内存泄漏”排查及经验总结](https://juejin.im/post/5c2ef77ae51d4551de1d769b)
@@ -153,7 +152,11 @@
 ## RESTFulAPI构建
 * [构建一个较为复杂的RESTful API以及单元测试](http://blog.didispace.com/springbootrestfulapi/)
 * [使用Swagger2构建RESTful API](http://blog.didispace.com/springbootswagger2/)
-
+* [JSR-303实现请求参数校验](http://blog.didispace.com/spring-boot-learning-21-2-3/)
+* [Swagger接口分类与各元素排序问题详解](http://blog.didispace.com/spring-boot-learning-21-2-4/)
+* [Swagger静态文档的生成](http://blog.didispace.com/spring-boot-learning-21-2-5/)
+* [为什么启动时候API路径都没了？](http://blog.didispace.com/spring-boot-learning-21-2-6/)
+* [使用SpringFox 3生成Swagger文档](http://blog.didispace.com/spring-boot-learning-21-2-7/)
 ## Dubbo进行服务治理
 
 * [Spring Boot中使用Dubbo进行服务治理](https://gitee.com/didispace/SpringBoot-Learning/tree/master/Chapter9-2-1)
