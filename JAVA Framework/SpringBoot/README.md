@@ -18,22 +18,33 @@
 ---|
 
 ---
+
+# 目录
+
 * [1. SpringBoot内部机制](#SpringBoot内部机制)
+  * [SpringBoot配置文件](#SpringBoot配置文件)
+  * [SpringBoot内存](#SpringBoot内存)
 * [2. 工程配置](#工程配置)
 * [3. Web开发](#Web开发)
+  * [HTTP客户端库](#HTTP客户端库)
+  * [Dubbo进行服务治理](#Dubbo进行服务治理)
 * [4. 数据訪问](#数据訪问)
 * [5. 事务管理](#事务管理)
 * [6. 日志管理](#日志管理)
-* 7. 安全管理
-* 8. 缓存管理
-* 9. 消息服务
-* 10. 应用监控
+* [7. 安全管理](#安全管理)
+* [8. 缓存管理](#缓存管理)
+* [9. 消息服务](#消息服务)
+* [10. 应用监控](#应用监控)
 * [11. 项目实战](#项目实战)
+  * [Demo](#Demo)
+  * [实战项目](#实战项目)
+  * [实战经验](#实战经验)
 
 ---
 
 # 项目实战
   * [Demo](#Demo)
+  * [实战项目](#实战项目)
   * [实战经验](#实战经验)
 ## Demo  
 * [分布式Restful SpringBoot骨架搭建（一）](https://blog.csdn.net/wuqianjing/article/details/80350289?utm_medium=distribute.pc_relevant.none-task-blog-title-1&spm=1001.2101.3001.4242)
@@ -44,11 +55,13 @@
 * [Spring boot+Mysql+Spring data JPA一个Web的Demo](https://juejin.im/post/6844903970792701965)
 * [Springboot整合springcloud实现分布式服务 简单demo 完整示例](https://blog.csdn.net/wjg1314521/article/details/105067300?utm_medium=distribute.pc_relevant_download.none-task-blog-baidujs-2.nonecase&depth_1-utm_source=distribute.pc_relevant_download.none-task-blog-baidujs-2.nonecase)
 
-## 实战经验
+## 实战项目
 * [实战前后端分离RBAC权限管理系统](https://www.kancloud.cn/hanxt/vue-spring/1528245)
 * [springBoot整合spring security实现权限管理(单体应用版)--筑基初期](https://juejin.im/post/6867530830446034958)
 * [springBoot整合spring security+JWT实现单点登录与权限管理前后端分离--筑基中期](https://juejin.im/post/6868558729353117710)
 * [超详细！4小时开发一个SpringBoot+vue前后端分离博客项目！！](https://juejin.im/post/6844903823966732302)
+
+## 实战经验
 - [Spring Boot工程集成全局唯一ID生成器 UidGenerator](https://github.com/hansonwang99/Spring-Boot-In-Action/tree/master/springbt_uid_generator)
 * [Spring Boot 工程集成全局唯一ID生成器 Vesta](https://github.com/hansonwang99/Spring-Boot-In-Action/tree/master/springbt_vesta)
 * [Spring Boot优雅编码之：Lombok加持](http://www.codesheep.cn/2018/04/09/SpringBoot%E4%BC%98%E9%9B%85%E7%BC%96%E7%A0%81%E4%B9%8B%EF%BC%9ALombok%E5%8A%A0%E6%8C%81/)
@@ -63,10 +76,11 @@
 
 # 工程配置
 
-
 * [基本项目构建（可作为工程脚手架），引入web模块，完成一个简单的RESTful API](http://blog.didispace.com/spring-boot-learning-1/)
 * [使用Intellij中的Spring Initializr来快速构建Spring Boot/Cloud工程](http://blog.didispace.com/spring-initializr-in-intellij/)
 
+
+---
 
 [IDEA下从零开始搭建SpringBoot工程](https://blog.csdn.net/u013248535/article/details/55100979)|[建立SpringBoot工程的几种方法](#建立SpringBoot工程的几种方法)|[Docker容器可视化监控中心搭建](https://mp.weixin.qq.com/s?__biz=MzU4ODI1MjA3NQ==&mid=2247483763&idx=1&sn=6ceb9e73540b5016dadfb212636b3855&chksm=fdded7b7caa95ea1165b507397c39267d3bf7522c83cc8ed10eae4ee4a13db831eb58a3dc167&scene=21#wechat_redirect)|[SpringBoot 应用程序启动过程探秘](https://www.codesheep.cn/2018/09/04/springboot-startup-process/)|
 ---|---|---|---|
@@ -91,8 +105,11 @@
 ---|---|---|
 
 # SpringBoot内部机制
-* [配置文件详解：自定义属性、随机数、多环境配置等](http://blog.didispace.com/springbootproperties/)
-* [Spring Boot 2.0 新特性（一）：配置绑定 2.0 全解析](http://blog.didispace.com/Spring-Boot-2-0-feature-1-relaxed-binding-2/)
+  * [SpringBoot配置文件](#SpringBoot配置文件)
+  * [SpringBoot内存](#SpringBoot内存)
+
+---
+
 * [Spring Boot 2.0 新特性（二）：新增事件ApplicationStartedEvent](http://blog.didispace.com/Spring-Boot-2-0-feature-2-ApplicationStartedEvent/)
 * [SpringBoot 中 @SpringBootApplication注解背后的三体结构探秘](http://www.codesheep.cn/2018/07/30/at-SpringBootApplication-zhujie/)
 * [SpringBoot 应用程序启动过程探秘](http://www.codesheep.cn/2018/09/04/springboot-startup-process/)
@@ -106,25 +123,47 @@
 * [Spring Boot应用的后台运行配置](http://blog.didispace.com/spring-boot-run-backend/)
 * [Spring Boot自定义Banner](http://blog.didispace.com/spring-boot-banner/)
 
+## SpringBoot配置文件
+
+* [Spring Boot读取配置的几种方式](https://mp.weixin.qq.com/s?__biz=MzI3ODcxMzQzMw==&mid=2247484575&idx=1&sn=56c88cd7283374345d891e85a800539b&scene=21#wechat_redirect)
+* [配置文件详解：自定义属性、随机数、多环境配置等](http://blog.didispace.com/springbootproperties/)
+* [Spring Boot 2.0 新特性（一）：配置绑定 2.0 全解析](http://blog.didispace.com/Spring-Boot-2-0-feature-1-relaxed-binding-2/)
+
+## SpringBoot内存
+
+* [Spring Boot引起的“堆外内存泄漏”排查及经验总结](https://juejin.im/post/5c2ef77ae51d4551de1d769b)
+
+
 
 # Web开发
+  * [RESTFul API构建](#RESTFulAPI构建)
   * [Dubbo进行服务治理](#Dubbo进行服务治理)
+  * [HTTP客户端库](#HTTP客户端库)
 
 ---
 
-* [构建一个较为复杂的RESTful API以及单元测试](http://blog.didispace.com/springbootrestfulapi/)
 * [使用Thymeleaf模板引擎渲染web视图](http://blog.didispace.com/springbootweb/)
 * [使用Freemarker模板引擎渲染web视图](http://blog.didispace.com/springbootweb/)
 * [使用Velocity模板引擎渲染web视图](http://blog.didispace.com/springbootweb/)
-* [使用Swagger2构建RESTful API](http://blog.didispace.com/springbootswagger2/)
 * [统一异常处理](http://blog.didispace.com/springbootexception/)
 * [使用Java 8中LocalDate等时间日期类的问题解决](http://blog.didispace.com/Spring-Boot-And-Feign-Use-localdate/)
 * [扩展XML请求和响应的支持](http://blog.didispace.com/spring-boot-xml-httpmessageconverter)
+
+## RESTFulAPI构建
+* [构建一个较为复杂的RESTful API以及单元测试](http://blog.didispace.com/springbootrestfulapi/)
+* [使用Swagger2构建RESTful API](http://blog.didispace.com/springbootswagger2/)
 
 ## Dubbo进行服务治理
 
 * [Spring Boot中使用Dubbo进行服务治理](https://gitee.com/didispace/SpringBoot-Learning/tree/master/Chapter9-2-1)
 * [Spring Boot与Dubbo中管理服务依赖](https://gitee.com/didispace/SpringBoot-Learning/tree/master/Chapter9-2-2)
+
+## HTTP客户端库
+
+* [精讲RestTemplate](http://www.zimug.com/tag/resttemplate)
+* [精讲响应式webclient](http://www.zimug.com/java/spring/%e7%b2%be%e8%ae%b2%e5%93%8d%e5%ba%94%e5%bc%8fwebclient%e7%ac%ac1%e7%af%87-%e5%93%8d%e5%ba%94%e5%bc%8f%e9%9d%9e%e9%98%bb%e5%a1%9eio%e4%b8%8e%e5%9f%ba%e7%a1%80%e7%94%a8%e6%b3%95/.html)
+* [SpringBoot实现本地存储文件上传及提供HTTP访问服务](http://www.zimug.com/java/spring/springboot%e5%ae%9e%e7%8e%b0%e6%9c%ac%e5%9c%b0%e5%ad%98%e5%82%a8%e6%96%87%e4%bb%b6%e4%b8%8a%e4%bc%a0%e5%8f%8a%e6%8f%90%e4%be%9bhttp%e8%ae%bf%e9%97%ae%e6%9c%8d%e5%8a%a1/.html)
+
 
 
 # 数据訪问
@@ -212,11 +251,6 @@
 [芋道 Spring Boot 分库分表入门](http://www.iocoder.cn/Spring-Boot/sharding-datasource/?self)|[Spring Boot + MyBatis 如何优雅的实现数据库读写分离](https://www.zhihu.com/question/381631883/answer/1100642927?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=group3_Answer&utm_campaign=shareopn)|
 ---|---|
 
-## HTTP客户端库
-
-* [精讲RestTemplate](http://www.zimug.com/tag/resttemplate)
-* [精讲响应式webclient](http://www.zimug.com/java/spring/%e7%b2%be%e8%ae%b2%e5%93%8d%e5%ba%94%e5%bc%8fwebclient%e7%ac%ac1%e7%af%87-%e5%93%8d%e5%ba%94%e5%bc%8f%e9%9d%9e%e9%98%bb%e5%a1%9eio%e4%b8%8e%e5%9f%ba%e7%a1%80%e7%94%a8%e6%b3%95/.html)
-* [SpringBoot实现本地存储文件上传及提供HTTP访问服务](http://www.zimug.com/java/spring/springboot%e5%ae%9e%e7%8e%b0%e6%9c%ac%e5%9c%b0%e5%ad%98%e5%82%a8%e6%96%87%e4%bb%b6%e4%b8%8a%e4%bc%a0%e5%8f%8a%e6%8f%90%e4%be%9bhttp%e8%ae%bf%e9%97%ae%e6%9c%8d%e5%8a%a1/.html)
 
 
 
@@ -231,20 +265,7 @@ PrepareEnvironment|CreateApplicationContext|PostProcessApplicationContext|
 applyinitializers|listeners.contextPrepared|listeners.contextLoaded|refreshContext|
 ---|--|---|---|
 
-# 配置文件
 
-[Spring Boot读取配置的几种方式](https://mp.weixin.qq.com/s?__biz=MzI3ODcxMzQzMw==&mid=2247484575&idx=1&sn=56c88cd7283374345d891e85a800539b&scene=21#wechat_redirect)
-
-然后要知道在Spring Boot中有两种上下文，一种是bootstrap, 另外一种是application。
-
-bootstrap是应用程序的父上下文，也就是说bootstrap会先于applicaton加载。bootstrap主要用于从额外的资源来加载配置信息，还可以在本地外部配置文件中解密属性。bootstrap里面的属性会优先加载，默认也不能被本地相同配置覆盖。
-
-bootstrap|application|
----|---|
-
-## SpringBoot内存
-
-* [Spring Boot引起的“堆外内存泄漏”排查及经验总结](https://juejin.im/post/5c2ef77ae51d4551de1d769b)
 
 # 特色模块
 
