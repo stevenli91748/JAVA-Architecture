@@ -28,7 +28,7 @@
 * [3. Web开发](#Web开发)
   * [HTTP客户端库](#HTTP客户端库)
   * [Dubbo进行服务治理](#Dubbo进行服务治理)
-* [4. 数据訪问](#数据訪问)
+* [4. 数据库訪问](#数据库訪问)
 * [5. 事务管理](#事务管理)
 * [6. 日志管理](#日志管理)
 * [7. 安全管理](#安全管理)
@@ -122,7 +122,7 @@
 * [使用Spring StateMachine框架实现状态机](http://blog.didispace.com/spring-statemachine/)
 * [Spring Boot应用的后台运行配置](http://blog.didispace.com/spring-boot-run-backend/)
 * [Spring Boot自定义Banner](http://blog.didispace.com/spring-boot-banner/)
-
+* [为什么启动时候API路径都没了？](http://blog.didispace.com/spring-boot-learning-21-2-6/)
 ## SpringBoot配置文件
 
 * [Spring Boot读取配置的几种方式](https://mp.weixin.qq.com/s?__biz=MzI3ODcxMzQzMw==&mid=2247484575&idx=1&sn=56c88cd7283374345d891e85a800539b&scene=21#wechat_redirect)
@@ -148,6 +148,7 @@
 * [统一异常处理](http://blog.didispace.com/springbootexception/)
 * [使用Java 8中LocalDate等时间日期类的问题解决](http://blog.didispace.com/Spring-Boot-And-Feign-Use-localdate/)
 * [扩展XML请求和响应的支持](http://blog.didispace.com/spring-boot-xml-httpmessageconverter)
+* [使用 ECharts 绘制各种华丽的数据图表](http://blog.didispace.com/spring-boot-learning-21-4-2/)
 
 ## RESTFulAPI构建
 * [构建一个较为复杂的RESTful API以及单元测试](http://blog.didispace.com/springbootrestfulapi/)
@@ -166,10 +167,13 @@
 
 
 
-# 数据訪问
-* [Guava Cache本地缓存在 Spring Boot应用中的实践](https://github.com/hansonwang99/Spring-Boot-In-Action/tree/master/springbt_guava_cache)
-* [EVCache缓存在 Spring Boot中的实战](https://github.com/hansonwang99/Spring-Boot-In-Action/tree/master/springbt_evcache)
-* [Spring Boot应用缓存实践之：Ehcache加持](https://github.com/hansonwang99/Spring-Boot-In-Action/tree/master/springbt_ehcache)
+# 数据库訪问
+ * [JDBC连接](#JDBC连接)
+ * [数据库连接池](#数据库连接池)
+ * [MyBatis](#MyBatis)
+ * [Spring Data JPA](#Spring-Data-JPA)
+---
+
 * [Spring Boot集成 MyBatis和 SQL Server实践](https://github.com/hansonwang99/Spring-Boot-In-Action/tree/master/springbt_mybatis_sqlserver)
 * [Elasticsearch搜索引擎在Spring Boot中的实践](https://github.com/hansonwang99/Spring-Boot-In-Action/tree/master/springboot_es_demo)
 * [自制一个 elasticsearch-spring-boot-starter](https://www.codesheep.cn/2019/02/28/elasticsearch-spring-boot-starter/)
@@ -187,10 +191,28 @@
 * [使用LDAP来统一管理用户信息](http://blog.didispace.com/spring-boot-ldap-user/)
 * [Spring Boot中增强对MongoDB的配置（连接池等）](http://blog.didispace.com/springbootmongodb-plus/)
 
+## JDBC连接
+* [使用JdbcTemplate访问MySQL数据库](http://blog.didispace.com/spring-boot-learning-21-3-1/)
+* [JdbcTemplate的多数据源配置](http://blog.didispace.com/spring-boot-learning-21-3-7/)
+
+## 数据库连接池
+* [默认数据源Hikari的配置详解](http://blog.didispace.com/spring-boot-learning-21-3-2/)
+* [使用国产数据库连接池Druid](http://blog.didispace.com/spring-boot-learning-21-3-3/)
+
+## MyBatis
+* [使用MyBatis访问MySQL](http://blog.didispace.com/spring-boot-learning-21-3-5/)
+* [使用MyBatis的XML配置方式](http://blog.didispace.com/spring-boot-learning-21-3-6/)
+* [MyBatis的多数据源配置](http://blog.didispace.com/spring-boot-learning-21-3-9/)
+
+## Spring-Data-JPA
+* [Spring Data JPA的多数据源配置](http://blog.didispace.com/spring-boot-learning-21-3-8/)
+* [使用Spring Data JPA访问MySQL](http://blog.didispace.com/spring-boot-learning-21-3-4/)
+
 
 # 事务管理
 * [使用事务管理](http://blog.didispace.com/springboottransactional/)
-* [分布式事务（未完成）]
+* [为什么加了@Transactional注解，事务没有回滚](http://blog.didispace.com/transactional-not-rollback/)
+* [事务管理入门](http://blog.didispace.com/spring-boot-learning-21-3-10/)
 
 # 日志管理
 * [Spring Boot日志框架实践](http://www.codesheep.cn/2018/03/29/Boot%E6%97%A5%E5%BF%97%E6%A1%86%E6%9E%B6%E5%AE%9E%E8%B7%B5/)
@@ -210,6 +232,12 @@
 # 缓存管理
 * [注解配置与EhCache使用](http://blog.didispace.com/springbootcache1/)
 * [使用Redis做集中式缓存](http://blog.didispace.com/springbootcache2/)
+* [Guava Cache本地缓存在 Spring Boot应用中的实践](https://github.com/hansonwang99/Spring-Boot-In-Action/tree/master/springbt_guava_cache)
+* [EVCache缓存在 Spring Boot中的实战](https://github.com/hansonwang99/Spring-Boot-In-Action/tree/master/springbt_evcache)
+* [Spring Boot应用缓存实践之：Ehcache加持](https://github.com/hansonwang99/Spring-Boot-In-Action/tree/master/springbt_ehcache)
+* [使用EhCache缓存集群](http://blog.didispace.com/spring-boot-learning-21-5-3/)
+* [进程内缓存的使用与Cache注解详解](http://blog.didispace.com/spring-boot-learning-21-5-1/)
+
 
 # 消息服务
 * [JMS（未完成）]
