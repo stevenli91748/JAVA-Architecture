@@ -66,19 +66,29 @@
 * [Spring Boot 工程集成全局唯一ID生成器 Vesta](https://github.com/hansonwang99/Spring-Boot-In-Action/tree/master/springbt_vesta)
 * [Spring Boot优雅编码之：Lombok加持](http://www.codesheep.cn/2018/04/09/SpringBoot%E4%BC%98%E9%9B%85%E7%BC%96%E7%A0%81%E4%B9%8B%EF%BC%9ALombok%E5%8A%A0%E6%8C%81/)
 * [Spring Boot应用 Docker化](http://www.codesheep.cn/2018/04/12/SpringBoot%E5%BA%94%E7%94%A8Docker%E5%8C%96/)
-* [Spring Boot热部署加持](http://www.codesheep.cn/2018/06/23/SpringBoot%E7%83%AD%E9%83%A8%E7%BD%B2%E5%8A%A0%E6%8C%81/)
 * [基于Spring Boot实现图片上传/加水印一把梭操作](https://github.com/hansonwang99/Spring-Boot-In-Action/tree/master/springbt_watermark)
 * [从Spring Boot到 SpringMVC](http://www.codesheep.cn/2018/06/10/%E4%BB%8ESpringBoot%E5%88%B0SpringMVC/)
 * [自然语言处理工具包 HanLP在 Spring Boot中的应用](http://www.codesheep.cn/2018/11/01/springbt-hanlp/)
-* [Spring Boot应用部署于外置Tomcat容器](http://www.codesheep.cn/2018/06/05/SpringBoot%E5%BA%94%E7%94%A8%E9%83%A8%E7%BD%B2%E4%BA%8E%E5%A4%96%E7%BD%AETomcat%E5%AE%B9%E5%99%A8/)
 * [初探 Kotlin + Spring Boot联合编程](https://github.com/hansonwang99/Spring-Boot-In-Action/tree/master/kotlin_with_springbt)
-
+* [Spring Boot自动化配置的利弊及解决之道](http://blog.didispace.com/spring-boot-disable-autoconfig/)
+* [Spring Boot应用的后台运行配置](http://blog.didispace.com/spring-boot-run-backend/)
+* [Spring Boot快速开发利器：Spring Boot CLI](http://blog.didispace.com/Spring-Boot%E5%BF%AB%E9%80%9F%E5%BC%80%E5%8F%91%E5%88%A9%E5%99%A8%EF%BC%9ASpring-Boot-CLI/)
+* [Spring Boot自定义Banner](http://blog.didispace.com/spring-boot-banner/)
 
 # 工程配置
+  * [热部署](#热部署)
+  * [Tomcat](#Tomcat)
+---
 
 * [基本项目构建（可作为工程脚手架），引入web模块，完成一个简单的RESTful API](http://blog.didispace.com/spring-boot-learning-1/)
 * [使用Intellij中的Spring Initializr来快速构建Spring Boot/Cloud工程](http://blog.didispace.com/spring-initializr-in-intellij/)
 * [工程结构推荐](http://blog.didispace.com/spring-boot-learning-21-1-2/)
+
+## 热部署
+* [Spring Boot热部署加持](http://www.codesheep.cn/2018/06/23/SpringBoot%E7%83%AD%E9%83%A8%E7%BD%B2%E5%8A%A0%E6%8C%81/)
+
+## Tomcat
+* [Spring Boot应用部署于外置Tomcat容器](http://www.codesheep.cn/2018/06/05/SpringBoot%E5%BA%94%E7%94%A8%E9%83%A8%E7%BD%B2%E4%BA%8E%E5%A4%96%E7%BD%AETomcat%E5%AE%B9%E5%99%A8/)
 
 ---
 
@@ -122,7 +132,7 @@
 * [使用Spring StateMachine框架实现状态机](http://blog.didispace.com/spring-statemachine/)
 * [Spring Boot应用的后台运行配置](http://blog.didispace.com/spring-boot-run-backend/)
 * [Spring Boot自定义Banner](http://blog.didispace.com/spring-boot-banner/)
-* [为什么启动时候API路径都没了？](http://blog.didispace.com/spring-boot-learning-21-2-6/)
+
 ## SpringBoot配置文件
 * [Spring Boot读取配置的几种方式](https://mp.weixin.qq.com/s?__biz=MzI3ODcxMzQzMw==&mid=2247484575&idx=1&sn=56c88cd7283374345d891e85a800539b&scene=21#wechat_redirect)
 * [配置文件详解：自定义属性、随机数、多环境配置等](http://blog.didispace.com/springbootproperties/)
@@ -252,7 +262,7 @@
 * [Spring Boot Admin 2.0开箱体验](https://github.com/hansonwang99/Spring-Boot-In-Action/tree/master/spring_boot_admin2.0_demo)
 * [Spring Boot Actuator监控端点小结](http://blog.didispace.com/spring-boot-actuator-1/)
 * [在传统Spring应用中使用spring-boot-actuator模块提供监控端点](http://blog.didispace.com/spring-boot-actuator-without-boot/)
-
+* [Spring Boot中使用Actuator的/info端点输出Git版本信息](http://blog.didispace.com/spring-boot-actuator-info-git/)
 
 # 
 [SpringBoot注解](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot注解/README.md)|[springboot基本原理(知识点)](https://blog.csdn.net/z446981439/article/details/103822257)|[SpringBoot实现原理](https://blog.csdn.net/qq_38417983/article/details/81128299)|[Spring Boot要如何学习](https://www.zhihu.com/question/53729800/answer/311948415)|[参数校验](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E5%8F%82%E6%95%B0%E6%A0%A1%E9%AA%8C.md)|
