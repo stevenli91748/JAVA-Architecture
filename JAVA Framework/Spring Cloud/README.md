@@ -21,7 +21,7 @@
 
 组件|Spring Cloud原生及其他整合组件|Spring Cloud Netflix套件|Spring Cloud Alibaba套件|其他|
 ---|---|---|---|---|
-服务注册与发现||Eureka||Etcd Zoopkeeper Dubbo|
+服务注册与发现||Eureka||Etcd [Zoopkeeper](https://www.zhihu.com/question/50806354/answer/1099399169) Dubbo|
 ---|---|---|---|---|
 
 * Spring Cloud原生及其他整合组件
