@@ -20,6 +20,7 @@
 * [Spring Cloud构建微服务架构](#Spring Cloud构建微服务架构)
 
 组件|Spring Cloud原生及其他整合组件|Spring Cloud Netflix套件|Spring Cloud Alibaba套件|其他|
+---|---|---|---|---|
 服务注册与发现||Eureka|||
 ---|---|---|---|---|
 
