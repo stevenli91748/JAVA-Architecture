@@ -27,7 +27,7 @@
 ---|---|---|---|---|
 网关路由|Gateway|Zuul||Kong|
 ---|---|---|---|---|
-服务调用||Ribbon [Feign](https://blog.csdn.net/u012734441/article/details/77662617 'Web服务客户端，能够简化HTTP接口的调用') [Hystrix]('容错框架，能够防止服务的雪崩效应')|||
+服务调用||Ribbon [Feign](https://blog.csdn.net/u012734441/article/details/77662617 'Web服务客户端，能够简化HTTP接口的调用') [Hystrix](   '容错框架，能够防止服务的雪崩效应')|||
 ---|---|---|---|---|
 
 
