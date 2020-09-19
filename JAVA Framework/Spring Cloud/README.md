@@ -27,7 +27,9 @@
 ---|---|---|---|---|
 网关路由|Gateway|Zuul||Kong|
 ---|---|---|---|---|
-服务调用||Ribbon [Feign](https://blog.csdn.net/u012734441/article/details/77662617 'Web服务客户端，能够简化HTTP接口的调用') [Hystrix](   '容错框架，能够防止服务的雪崩效应')|||
+服务调用||Ribbon [Feign](https://blog.csdn.net/u012734441/article/details/77662617 'Web服务客户端，能够简化HTTP接口的调用') Hystrix|||
+---|---|---|---|---|
+链路监控中心| Sleuth Zipkin|||actuctor admin ELK |
 ---|---|---|---|---|
 
 
@@ -103,9 +105,6 @@
     * [ELK---我们已经实现了服务调用之间的链路追踪，但是这些日志是分散在各个机器上的，就算出现问题了，我们想快速定位，也得从各个机器把日志整合起
             来，再去查问题。这个时候就需要引人日志分析系统了，比如ELK ，可以将多台服务器上的日志信息统一收集起来，在出问题的时候我们可以轻松根
             据trace Id 来搜索出对应的请求链路信息]()
-      * Elasticsearch
-      * Logstash
-      * Kibana
 * 消息中心
   * Stream---构建消息驱动的微服务应用程序的框架
   * Bus---消息代理的集群消息总线。
