@@ -18,6 +18,11 @@
 # 目录
 * [项目实战](#项目实战)
 * [Spring Cloud构建微服务架构](#Spring Cloud构建微服务架构)
+
+组件|Spring Cloud原生及其他整合组件|Spring Cloud Netflix套件|Spring Cloud Alibaba套件|其他|
+服务注册与发现||Eureka|||
+
+
 * Spring Cloud原生及其他整合组件
   * Consul 
   * [Config---分布式配置管理](#Config)
