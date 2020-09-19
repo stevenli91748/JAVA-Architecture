@@ -31,7 +31,16 @@
 ---|---|---|---|---|
 链路监控中心| Sleuth Zipkin|||actuctor admin ELK |
 ---|---|---|---|---|
-
+消息中心|Stream|||Bus|
+---|---|---|---|---|
+配置中心||||git Zoopkeeper |
+---|---|---|---|---|
+认证授权中心||||security oauth jwt|
+---|---|---|---|---|
+缓存中心|||||
+---|---|---|---|---|
+文档中心||||swagger|
+---|---|---|---|---|
 
 * Spring Cloud原生及其他整合组件
   * Consul 
@@ -59,8 +68,6 @@
 * [SpringCloud- Alibaba](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%20Alibaba/README.md)
 * [限流](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/%E9%99%90%E6%B5%81/README.md)
 
-# Spring Cloud原生及其他整合组件
-## Config
 
 
 
