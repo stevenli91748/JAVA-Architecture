@@ -21,8 +21,15 @@
 
 组件|Spring Cloud原生及其他整合组件|Spring Cloud Netflix套件|Spring Cloud Alibaba套件|其他|
 ---|---|---|---|---|
-服务注册与发现||Eureka||Etcd [Zoopkeeper](https://www.zhihu.com/question/50806354/answer/1099399169) Dubbo|
+服务注册与发现|Consul|Eureka||Etcd Zoopkeeper Dubbo|
 ---|---|---|---|---|
+分布式配置管理|Spring Cloud Config||[Nacos](https://nacos.io/zh-cn/docs/what-is-nacos.html)|[Apollo](https://github.com/ctripcorp/apollo) |
+---|---|---|---|---|
+网关路由|Gateway|Zuul||Kong|
+---|---|---|---|---|
+服务调用||Ribbon [Feign](https://blog.csdn.net/u012734441/article/details/77662617 'Web服务客户端，能够简化HTTP接口的调用') Hystrix|||
+---|---|---|---|---|
+
 
 * Spring Cloud原生及其他整合组件
   * Consul 
@@ -74,9 +81,6 @@
   * Spring Cloud Config
   * [Apollo](https://github.com/ctripcorp/apollo)
   * [Nacos](https://nacos.io/zh-cn/docs/what-is-nacos.html)
-  
-* Stream---构建消息驱动的微服务应用程序的框架
-* Bus---消息代理的集群消息总线。
 * Cli---
 * Task---
 * 网关路由
@@ -103,8 +107,8 @@
       * Logstash
       * Kibana
 * 消息中心
-  * Stream
-  * Bus
+  * Stream---构建消息驱动的微服务应用程序的框架
+  * Bus---消息代理的集群消息总线。
 * 配置中心
   * git
   * svn
