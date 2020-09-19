@@ -17,7 +17,7 @@
 
 # 目录
 * [项目实战](#项目实战)
-* [Spring Cloud构建微服务架构](#Spring Cloud构建微服务架构)
+* [Spring Cloud构建微服务架构](#SpringCloud构建微服务架构)
 
 组件|Spring Cloud原生及其他整合组件|Spring Cloud Netflix套件|Spring Cloud Alibaba套件|其他|
 ---|---|---|---|---|
@@ -62,19 +62,26 @@
 ---
 
 # 项目实战
+* [Demo](#Demo)
+* [实战项目](#实战项目)
 
+## Demo
+### Eureka Demo
+* [Eureka 提供方 demo](https://blog.csdn.net/KinseyGeek/article/details/78597605)
+* [Eureka 消费端demo](https://blog.csdn.net/KinseyGeek/article/details/78597476)
+
+
+## 实战项目
 * [实战SpringCloud微服务从青铜到王者](https://www.kancloud.cn/hanxt/springcloud/1718845)
 * [springCloud- 搭建项目全部详细过程（创建一个父工程）](https://blog.csdn.net/star1210644725/article/details/104691945?utm_medium=distribute.pc_relevant_download.none-task-blog-baidujs-5.nonecase&depth_1-utm_source=distribute.pc_relevant_download.none-task-blog-baidujs-5.nonecase)
 * [SpringCloud- Alibaba](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%20Alibaba/README.md)
 * [限流](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/%E9%99%90%E6%B5%81/README.md)
 
+# SpringCloud构建微服务架构
 
 
 
-# Spring Cloud Netflix套件
-## Eureka
-* [Eureka 提供方 demo](https://blog.csdn.net/KinseyGeek/article/details/78597605)
-* [Eureka 消费端demo](https://blog.csdn.net/KinseyGeek/article/details/78597476)
+
 
 
 
@@ -133,19 +140,6 @@
 
 
 
-### 知识点
-
-服务注册与发现Eureka详解及源码分析
-
-客户端负载均衡Ribbon详解及源码分析
-
-声明式服务调用Fegin详解及源码分析
-
-服务熔断保护Hystrix详解
-
-@服务网关Zuul详解、服务路由、过滤、异常处理
-
-分布式配置中心Spring Cloud Config详解
 
 # SpringCloud视频
 
