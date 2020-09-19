@@ -31,7 +31,7 @@
 ---|---|---|---|---|
 服务调用||Ribbon [Feign](https://blog.csdn.net/u012734441/article/details/77662617 'Web服务客户端，能够简化HTTP接口的调用') Hystrix|||
 ---|---|---|---|---|
-链路监控中心| [Sleuth](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%E5%8E%9F%E7%94%9F%E5%8F%8A%E5%85%B6%E4%BB%96%E6%95%B4%E5%90%88%E7%BB%84%E4%BB%B6/Sleuth.md) Zipkin|||actuctor admin ELK |
+链路监控中心| [Sleuth](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%E5%8E%9F%E7%94%9F%E5%8F%8A%E5%85%B6%E4%BB%96%E6%95%B4%E5%90%88%E7%BB%84%E4%BB%B6/Sleuth.md) [Zipkin](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%E5%8E%9F%E7%94%9F%E5%8F%8A%E5%85%B6%E4%BB%96%E6%95%B4%E5%90%88%E7%BB%84%E4%BB%B6/Zipkin.md)|||actuctor admin ELK |
 ---|---|---|---|---|
 消息中心|[Stream](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%E5%8E%9F%E7%94%9F%E5%8F%8A%E5%85%B6%E4%BB%96%E6%95%B4%E5%90%88%E7%BB%84%E4%BB%B6/Stream.md)|||Bus|
 ---|---|---|---|---|
