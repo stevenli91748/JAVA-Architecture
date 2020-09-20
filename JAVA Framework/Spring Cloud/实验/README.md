@@ -3,6 +3,13 @@
 * [参考文章](#参考文章)
 
 ## 例子程序
+
+### Eureka Demo
+* [Eureka 提供方 demo](https://blog.csdn.net/KinseyGeek/article/details/78597605)
+* [Eureka 消费端demo](https://blog.csdn.net/KinseyGeek/article/details/78597476)
+
+---
+
 - [spring-cloud-eureka](https://github.com/ityouknow/spring-cloud-examples/tree/master/spring-cloud-eureka)：eureka server单机、双机、集群示例
 - [eureka-producer-consumer](https://github.com/ityouknow/spring-cloud-examples/tree/master/eureka-producer-consumer)：利用eureka实现服务提供与调用示例
 - [spring-cloud-hystrix](https://github.com/ityouknow/spring-cloud-examples/tree/master/spring-cloud-hystrix)：Hystrix熔断的使用示例
