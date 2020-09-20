@@ -17,6 +17,8 @@
 [Spring Security-JWT-OAuth2一本通(基于SpringBoot2.0)](https://www.kancloud.cn/hanxt/springsecurity/1472507)|
 ---|
 
+[精通 Spring Boot 42 讲---纯洁的微笑](https://github.com/ityouknow/spring-boot-leaning)|
+---
 ---
 
 # 目录
@@ -46,14 +48,10 @@
   * [Demo](#Demo)
   * [实战项目](#实战项目)
   * [实战经验](#实战经验)
-## Demo  
-* [分布式Restful SpringBoot骨架搭建（一）](https://blog.csdn.net/wuqianjing/article/details/80350289?utm_medium=distribute.pc_relevant.none-task-blog-title-1&spm=1001.2101.3001.4242)
-* [Spring Boot架构搭建RESTful API案例](https://blog.csdn.net/zhenghhgz/article/details/79289241?utm_medium=distribute.pc_relevant.none-task-blog-title-5&spm=1001.2101.3001.4242)
-* [Spring Boot demo系列（一）：Hello World](https://juejin.im/post/6869251382940041224)
-* [Spring Boot demo系列（二）：简单三层架构Web应用](https://juejin.im/post/6869253275095564302)|
-* [Spring Boot demo系列（三）：Spring Web+MyBatis Plus](https://juejin.im/post/6869742648563859469)
-* [Spring boot+Mysql+Spring data JPA一个Web的Demo](https://juejin.im/post/6844903970792701965)
-* [Springboot整合springcloud实现分布式服务 简单demo 完整示例](https://blog.csdn.net/wjg1314521/article/details/105067300?utm_medium=distribute.pc_relevant_download.none-task-blog-baidujs-2.nonecase&depth_1-utm_source=distribute.pc_relevant_download.none-task-blog-baidujs-2.nonecase)
+
+---
+
+## [Demo ](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%AE%9E%E9%AA%8C/Demo/README.md)
 
 ## 实战项目
 * [实战前后端分离RBAC权限管理系统](https://www.kancloud.cn/hanxt/vue-spring/1528245)
