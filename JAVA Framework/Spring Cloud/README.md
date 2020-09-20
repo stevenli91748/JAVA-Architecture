@@ -54,10 +54,7 @@
 * [Demo](#Demo)
 * [实战项目](#实战项目)
 
-## Demo
-### Eureka Demo
-* [Eureka 提供方 demo](https://blog.csdn.net/KinseyGeek/article/details/78597605)
-* [Eureka 消费端demo](https://blog.csdn.net/KinseyGeek/article/details/78597476)
+## [Demo](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/%E5%AE%9E%E9%AA%8C/README.md)
 
 
 ## 实战项目
