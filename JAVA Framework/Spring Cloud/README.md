@@ -174,7 +174,7 @@
 - [使用Spring Boot Actuator、Jolokia和Grafana实现准实时监控](http://blog.didispace.com/spring-boot-jolokia-grafana-monitor/)
 - [Netflix Zuul与Nginx的性能对比](http://blog.didispace.com/zuul-vs-nginx-performance/)
 * [Spring Cloud与Dubbo的完美融合](http://blog.didispace.com/spring-cloud-alibaba-dubbo-1/)
-
+* [Spring Cloud Alibaba与Spring Boot、Spring Cloud之间不得不说的版本关系](http://blog.didispace.com/spring-cloud-alibaba-version/)
 
 
 -石杉的架构笔记
