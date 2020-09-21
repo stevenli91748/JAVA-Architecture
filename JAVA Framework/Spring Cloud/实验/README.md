@@ -25,4 +25,10 @@
 - [spring-cloud-consul](https://github.com/ityouknow/spring-cloud-examples/tree/master/spring-cloud-consul)： Spring Cloud 使用 Consul 作为服务中心示例  
 - [spring-cloud-gateway](https://github.com/ityouknow/spring-cloud-examples/tree/master/spring-cloud-gateway)： Spring Cloud 使用 gateway 的相关示例
 * [Spring Boot + AngularJS + Spring Data + JPA CRUD App Example](http://websystique.com/spring-boot/spring-boot-angularjs-spring-data-jpa-crud-app-example/)
+* [Spring Boot Rest API Example](http://websystique.com/spring-boot/spring-boot-rest-api-example/)
+* [Spring Boot WAR deployment example](http://websystique.com/spring-boot/spring-boot-war-deployment-example/)
+* [Spring Boot Introduction + hello world example](http://websystique.com/spring-boot/spring-boot-introduction-hello-world-example/)
+
+
+
 ## 参考文章
