@@ -2,3 +2,10 @@
 
 # 有用的参考
 * [nacos](https://nacos.io/zh-cn/docs/what-is-nacos.html)
+- [Spring Cloud Alibaba基础教程：使用Nacos实现服务注册与发现](http://blog.didispace.com/spring-cloud-alibaba-1/)
+- [Spring Cloud Alibaba基础教程：Nacos 生产级版本 0.8.0](http://blog.didispace.com/spring-cloud-alibaba-nacos-1/)
+- [Spring Cloud Alibaba基础教程：支持的几种服务消费方式（RestTemplate、WebClient、Feign）](http://blog.didispace.com/spring-cloud-alibaba-2/)
+- [Spring Cloud Alibaba基础教程：使用Nacos作为配置中心](http://blog.didispace.com/spring-cloud-alibaba-3/)
+- [Spring Cloud Alibaba基础教程：Nacos配置的加载规则详解](http://blog.didispace.com/spring-cloud-alibaba-nacos-config-1/)
+- [Spring Cloud Alibaba基础教程：Nacos配置的多环境管理](http://blog.didispace.com/spring-cloud-alibaba-nacos-config-2/)
+- [Spring Cloud Alibaba基础教程：Nacos配置的多文件加载与共享配置](http://blog.didispace.com/spring-cloud-alibaba-nacos-config-3/)
