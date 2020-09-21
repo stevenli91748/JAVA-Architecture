@@ -10,12 +10,13 @@
 
 # Spring 例子程序
 ## Spring 4 Basics sample
-   * []()
-   * []()
-   * []()
-   * []()
-   * []()
-   * []()
+   * [Spring 4 Hello World Example](http://websystique.com/spring/spring-4-hello-world-example-annotation-tutorial-full-example/):Simple HelloWorld java application explaining basic setup of a typical Spring based application, using Spring Annotation based configuration. XML configuration is also discussed side-by-side for comparison.
+   * [Spring Dependency Injection Example with Constructor and Property Setter (XML)](http://websystique.com/spring/spring-dependency-injection-example-with-constructor-and-property-setter-xml-example/):http://websystique.com/spring/spring-dependency-injection-example-with-constructor-and-property-setter-xml-example/
+   * [Spring Beans Auto-wiring Example using XML Configuration](http://websystique.com/spring/spring-beans-auto-wiring-example-using-xml-configuration/):Tutorial explaining different types of auto-wiring available in Spring, using XML based configuration.
+   * [Spring Dependency Injection Annotation Example, Beans Auto-wiring using @Autowired, @Qualifier & @Resource Annotations Configuration](http://websystique.com/spring/spring-dependency-injection-annotation-beans-auto-wiring-using-autowired-qualifier-resource-annotations-configuration/):Tutorial explaining Spring Dependency injection and Autowiring using different available annotations (@Autowired, @Qualifier and @Reosource) on field, method or constructor level, using Annotation based configuration.
+   * [Spring Auto-detection autowire & Component-scanning Example With Annotations](http://websystique.com/spring/spring-auto-detection-autowire-component-scanning-example-with-annotations/):Tutorial explaining how Spring can auto-detect the beans configured in your application through component-scanning, wire them where required without even declaring as @Bean methods in @Configuration class. XML configuration is also discussed side-by-side for comparison.
+   * [Spring @PropertySource & @Value annotations example](http://websystique.com/spring/spring-propertysource-value-annotations-example/):Tutorial explaining how to read properties from properties files in a java application using Spring @PropertySource & @Value annotations along with Spring Environment interface. XML configuration is also discussed side-by-side for comparison.
+   * [Spring @Profile Guide](http://websystique.com/spring/spring-profile-example/):In this tutorial we will explore Spring @Profile annotation to make different set of beans or configuration available conditionally on different environments. XML configuration is also discussed side-by-side for comparison.
 ## Spring 4 + Hibernate
    * [Spring 4 + Hibernate 4 + MySQL+ Maven Integration example (Annotations+XML)](http://websystique.com/spring/spring4-hibernate4-mysql-maven-integration-example-using-annotations/):Annotation based Hibernate and Spring Configuration example, creating a simple java application showing usage of AOP based transaction management, CRUD operations on database, all with annotations. We will also see corresponding XML configuration side-by-side for comparison.
 ## Spring 4 + Job Schedulers
