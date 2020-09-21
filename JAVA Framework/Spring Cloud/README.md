@@ -66,7 +66,7 @@
 * [史上最新的SpringCloud互联网微服务架构项目实战](https://www.bilibili.com/video/av65636320/?spm_id_from=333.788.videocard.0)
 * [SpringCloud互联网微服务电商架构项目实战](https://www.bilibili.com/video/av48884712/?spm_id_from=333.788.videocard.0)
 
-# SpringCloud构建微服务架构---构建起初步的Spring Cloud微服务架构体系
+# SpringCloud构建微服务架构
 - [服务注册与发现（Eureka、Consul）](http://blog.didispace.com/spring-cloud-starter-dalston-1/)
 - [服务消费者（基础）](http://blog.didispace.com/spring-cloud-starter-dalston-2-1/)
 - [服务消费者（Ribbon）](http://blog.didispace.com/spring-cloud-starter-dalston-2-2/)
