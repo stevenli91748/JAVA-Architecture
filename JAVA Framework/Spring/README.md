@@ -10,9 +10,21 @@
 
 # Spring 例子程序
 ## Spring 4 Basics sample
+   * []()
+   * []()
+   * []()
+   * []()
+   * []()
+   * []()
 ## Spring 4 + Hibernate
+   * [Spring 4 + Hibernate 4 + MySQL+ Maven Integration example (Annotations+XML)](http://websystique.com/spring/spring4-hibernate4-mysql-maven-integration-example-using-annotations/):Annotation based Hibernate and Spring Configuration example, creating a simple java application showing usage of AOP based transaction management, CRUD operations on database, all with annotations. We will also see corresponding XML configuration side-by-side for comparison.
 ## Spring 4 + Job Schedulers
+   * [Spring Job Scheduling using TaskScheduler (XML Config)](http://websystique.com/spring/spring-job-scheduling-using-xml-configuration/):Schedule job using Spring scheduler with XML based configuration.
+   * [Spring Job Scheduling with @Scheduled & @EnableScheduling Annotations](http://websystique.com/spring/spring-job-scheduling-with-scheduled-enablescheduling-annotations/):Schedule job using Spring scheduler with Annotation based configuration.
+   * [Spring 4 + Quartz Scheduler Integration Example](http://websystique.com/spring/spring-4-quartz-scheduler-integration-example/):Schedule job using more flexible Quartz Scheduler and Spring.
 ## Spring 4 + JMS
+   * [Spring 4+JMS+ActiveMQ Example with Annotations](http://websystique.com/spring/spring-4-jms-activemq-example-with-annotations/):Integrate Spring based applications using JMS with ActiveMQ as JMS provider. Annotaiton based example.
+   * [Spring 4+JMS+ActiveMQ example with @JmsListener & @EnableJms](http://websystique.com/spring/spring-4-jms-activemq-example-with-jmslistener-enablejms/):Integrate Spring based applications using JMS with ActiveMQ as JMS provider. Alternatve to javax.jms.MessageListener, @JmsListener enables a POJO to act as a listener.
 ## Spring 4 + Email
    * [Spring 4 Email Integration Tutorial](http://websystique.com/spring/spring-4-email-integration-tutorial/):Send Emails right from within your Spring based application. Detailed annotation based example showing the necessary configuration and step, sending mail using Spring 4 JavaMailSender and MimeMessagePreparator.
    * [Spring 4 Email With Attachment Tutorial](http://websystique.com/spring/spring-4-email-with-attachment-tutorial/):Send Email with attachments using Spring 4 JavaMailSender , MimeMessagePreparator & MimeMessageHelper. Annotations based Spring 4 Email tutorial.
