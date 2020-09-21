@@ -4,6 +4,28 @@
 [精尽 Spring MVC 学习指南](http://svip.iocoder.cn/Spring-MVC/tutorials/)|
 ---|
 
+# Spring MVC例子程序
+## Spring MVC 4 Basics
+## Spring MVC 4 + Rest Support
+## Spring MVC 4 + AngularJS
+## Spring MVC 4 + Hibernate + JPA2
+   * [Spring 4 MVC+Hibernate 4+MySQL+Maven integration example using annotations](http://websystique.com/springmvc/spring-4-mvc-and-hibernate4-integration-example-using-annotations/):nnotation based Hibernate and Spring Configuration example, creating a simple application showing usage of transaction management, JSR303 validation, CRUD operations on database, all with annotations.
+   * [Spring 4 MVC+Hibernate 4+MySQL+Maven integration + Testing example using annotations](http://websystique.com/springmvc/spring-4-mvc-and-hibernate4-integration-testing-example-using-annotations/):Testing above SpringMVC+Hibernate+MySQL+Maven example using TestNG, DBUnit, Mockito & Maven. Creating and Executing Unit+Integration tests and discussing each of them in detail.
+   * [Spring 4 MVC+Hibernate Many-to-many JSP Example with annotation](http://websystique.com/springmvc/springmvc-hibernate-many-to-many-example-annotation-using-join-table/):Annotation based Spring 4 MVC and Hibernate 4 Many to Many example, showing CRUD operations, managing Many-To-Many mapping all using View/JSP, Spring Converter example, showing usage of transaction management & JSR303 validation.
+   * [Spring MVC 4 + Spring Security 4 + Hibernate Example](http://websystique.com/springmvc/spring-mvc-4-and-spring-security-4-integration-example/):Integrate Spring MVC 4 with Spring Security 4, Hibernate 4 Many to Many example, showing CRUD operations, managing Many-To-Many mapping on View/JSP, storing passwords in encrypted format using BCrypt, and providing RememberMe functionality using custom PersistentTokenRepository implementation with Hibernate HibernateTokenRepositoryImpl, Spring Converter example, showing usage of transaction management & JSR303 validation.
+   * [Spring 4 MVC+JPA2+Hibernate Many-to-many-Example](http://websystique.com/springmvc/spring-4-mvc-jpa2-hibernate-many-to-many-example/):Implement persistence layer of your Spring 4 MVC application using JPA2 with Hibernate as persistence provider. Annotation based Spring 4 MVC and JPA2 + Hibernate 4 Many to Many example, showing CRUD operations, managing Many-To-Many mapping all using View/JSP, Spring Converter example, showing usage of transaction management & JSR303 validation
+## Spring MVC 4 File Upload/Download support
+   * [Spring MVC 4 FileUpload-Download Hibernate+MySQL Example](http://websystique.com/springmvc/spring-mvc-4-fileupload-download-hibernate-example/):Upload and Download Files from database using Spring MVC 4, Hibernate & MySQL.
+   * [Spring MVC 4 File Upload Example using Commons fileupload](http://websystique.com/springmvc/spring-mvc-4-file-upload-example-using-commons-fileupload/):Implement File Upload using Spring MVC 4 CommonsMultipartResolver and Apache commons fileupload.
+   * [Spring MVC 4 File Upload Example using Servlet 3 MultiPartConfigElement](http://websystique.com/springmvc/spring-mvc-4-file-upload-example-using-multipartconfigelement/):Spring MVC 4 File Upload Example using Spring StandardServletMultipartResolver and Servlet 3 API MultipartConfigElement.
+   * [Spring MVC 4 File Download Example](http://websystique.com/springmvc/spring-mvc-4-file-download-example/):Spring MVC 4 File Download Example, downloads file internal to application as well external file from file system..
+## Spring MVC 4 applications integration using JMS
+   * [Spring 4 MVC + JMS + ActiveMQ annotation based Example](http://websystique.com/springmvc/spring-4-mvc-jms-activemq-annotation-based-example/):Integrate Spring MVC based applications using spring support for JMS with ActiveMQ as message broker.
+
+
+
+
+---
 
 [面试经典问题SpringMVC执行流程](https://blog.csdn.net/weixin_44170221/article/details/107497117?utm_medium=distribute.pc_feed.none-task-blog-personrec_tag-17.nonecase&depth_1-utm_source=distribute.pc_feed.none-task-blog-personrec_tag-17.nonecase&request_id=5f1ff3089cc79f6252ce4189)|
 ---|
@@ -19,11 +41,6 @@
 
 [Spring MVC测试框架详解——服务端测试](https://www.iteye.com/blog/jinnianshilongnian-2004660)|[Spring MVC测试框架详解——客户端测试](https://www.iteye.com/blog/jinnianshilongnian-2007180)|
 ---|---|
-
-
-
-
-
 
 # Spring MVC视频
  * [SpringMVC 2019_IDEA版](https://www.bilibili.com/video/av50213945/?spm_id_from=333.788.videocard.6)
