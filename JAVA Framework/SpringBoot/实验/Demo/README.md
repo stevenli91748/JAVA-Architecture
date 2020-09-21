@@ -3,6 +3,10 @@
   * [参考文章](#参考文章)
 
 ## 例子程序
+* [Spring Boot Introduction + hello world example](http://websystique.com/spring-boot/spring-boot-introduction-hello-world-example/):An introduction to Spring boot, basic-concepts with example, explaining what spring boot brings to the party, with help of examples.
+* [Spring Boot WAR deployment example](http://websystique.com/spring-boot/spring-boot-war-deployment-example/):Stand alone app is good, but what if you have to deploy the app on an external application server. This post explains exactly this, with help of examples.
+* [Spring Boot Rest API Example](http://websystique.com/spring-boot/spring-boot-rest-api-example/):Let’s write a RESTful API based on Spring boot. It’s no different than traditional spring-mvc one.
+* [Spring Boot + AngularJS + Spring Data + JPA CRUD App Example](http://websystique.com/spring-boot/spring-boot-angularjs-spring-data-jpa-crud-app-example/):Nothing meets the eye than traditional CRUD app. This post will build a CRUD app from scratch using Spring Boot, using Spring-data for database abstraction via JPA[Hibernate] and AngularJS on front-end. It could serve as a skeleton for your own app.
 
 * [分布式Restful SpringBoot骨架搭建（一）](https://blog.csdn.net/wuqianjing/article/details/80350289?utm_medium=distribute.pc_relevant.none-task-blog-title-1&spm=1001.2101.3001.4242)
 * [Spring Boot架构搭建RESTful API案例](https://blog.csdn.net/zhenghhgz/article/details/79289241?utm_medium=distribute.pc_relevant.none-task-blog-title-5&spm=1001.2101.3001.4242)
