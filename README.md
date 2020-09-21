@@ -18,6 +18,10 @@
 [芋道源码---前端 后端 网络 数据库 消息队列等的学习指南](http://svip.iocoder.cn/tags/%E5%AD%A6%E4%B9%A0%E6%8C%87%E5%8D%97/)|[精尽 Java【基础】学习指南](http://svip.iocoder.cn/Java/Core/tutorials/)|
 ---|---|
 
+[程序猿DD---非常好](http://blog.didispace.com/)|[ 芋道源码------非常好](http://www.iocoder.cn/)|[猿码架构](https://www.jianshu.com/u/657c611b2e07)|[周立的博客](http://itmuch.com/)|
+---|---|---|---|
+
+
 # 第十二阶段 [项目故障排查 优化](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E9%A1%B9%E7%9B%AE%E6%95%85%E9%9A%9C%E6%8E%92%E6%9F%A5/README.md)
 
 * [1. CPU故障排查](#CPU故障排查)
