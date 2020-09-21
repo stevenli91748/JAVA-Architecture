@@ -120,6 +120,19 @@
 * [SpringCloud微服务架构第四篇](https://mp.weixin.qq.com/s?__biz=MzI4Njc5NjM1NQ==&mid=2247486002&idx=2&sn=8f1c76a3275e4d41bc1769d349efdfa6&chksm=ebd6351edca1bc08b190c4fc319def41111cba756333bad65dca3856c42842511b77c2506744&scene=21)
 * [SpringCloud第五篇结束版](https://mp.weixin.qq.com/s?__biz=MzI4Njc5NjM1NQ==&mid=2247486043&idx=2&sn=8cb27e2def06717f3487f74f9194cf7b&chksm=ebd63577dca1bc61e1134958b2b20a7bbb7f45ce3746af163b2ba5d482778f366bbef060b509&scene=21)
 * [全网最全微服务架构—Spring Cloud详解，没有比这更详细的了](https://juejin.im/post/5e7ca41c518825360310d3c5)
+- **[Spring Cloud在国内中小型公司能用起来吗？](http://www.ityouknow.com/springcloud/2017/09/11/can-use-springcloud.html)**   
+- **[中小型互联网公司微服务实践-经验和教训](http://www.ityouknow.com/springcloud/2017/10/19/micro-service-practice.html)**    
+- **[从架构演进的角度聊聊Spring Cloud都做了些什么？](http://www.ityouknow.com/springcloud/2017/11/02/framework-and-springcloud.html)**   
+- **[阿里Dubbo疯狂更新，关Spring Cloud什么事？](http://www.ityouknow.com/springcloud/2017/11/20/dubbo-update-again.html)**   
+- [使用Intellij中的Spring Initializr来快速构建Spring Boot/Cloud工程](http://blog.didispace.com/spring-initializr-in-intellij/)
+- [为Spring Cloud Ribbon配置请求重试（Camden.SR2+）](http://blog.didispace.com/spring-cloud-ribbon-failed-retry/)
+- [Consul注销实例时候的问题](http://blog.didispace.com/consul-deregister/)
+- [使用Spring Boot Actuator、Jolokia和Grafana实现准实时监控](http://blog.didispace.com/spring-boot-jolokia-grafana-monitor/)
+- [Netflix Zuul与Nginx的性能对比](http://blog.didispace.com/zuul-vs-nginx-performance/)
+- [基于Consul的分布式锁实现](http://blog.didispace.com/spring-cloud-consul-lock-and-semphore/)
+- [基于Consul的分布式信号量实现](http://blog.didispace.com/spring-cloud-consul-lock-and-semphore-2/)
+
+
 
 -石杉的架构笔记
 * [拜托！面试请不要再问我Spring Cloud底层原理--石杉的架构笔记](https://juejin.im/post/5be13b83f265da6116393fc7)
