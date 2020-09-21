@@ -160,10 +160,19 @@
 - **[从架构演进的角度聊聊Spring Cloud都做了些什么？](http://www.ityouknow.com/springcloud/2017/11/02/framework-and-springcloud.html)**   
 - **[阿里Dubbo疯狂更新，关Spring Cloud什么事？](http://www.ityouknow.com/springcloud/2017/11/20/dubbo-update-again.html)**   
 - [使用Intellij中的Spring Initializr来快速构建Spring Boot/Cloud工程](http://blog.didispace.com/spring-initializr-in-intellij/)
-- [为Spring Cloud Ribbon配置请求重试（Camden.SR2+）](http://blog.didispace.com/spring-cloud-ribbon-failed-retry/)
 - [使用Spring Boot Actuator、Jolokia和Grafana实现准实时监控](http://blog.didispace.com/spring-boot-jolokia-grafana-monitor/)
 - [Netflix Zuul与Nginx的性能对比](http://blog.didispace.com/zuul-vs-nginx-performance/)
-
+- [Spring Cloud实战小贴士：版本依赖关系](http://blog.didispace.com/spring-cloud-tips-1/)
+- [Spring Cloud实战小贴士：随机端口](http://blog.didispace.com/spring-cloud-tips-2/)
+- [Spring Cloud实战小贴士：健康检查](http://blog.didispace.com/spring-cloud-tips-3/)
+- [Spring Cloud实战小贴士：Zuul处理Cookie和重定向](http://blog.didispace.com/spring-cloud-zuul-cookie-redirect/)
+- [Spring Cloud实战小贴士：Zuul统一异常处理（一）](http://blog.didispace.com/spring-cloud-zuul-exception/)
+- [Spring Cloud实战小贴士：Zuul统一异常处理（二）](http://blog.didispace.com/spring-cloud-zuul-exception-2/)
+- [Spring Cloud实战小贴士：Zuul统一异常处理（三）【Dalston版】](http://blog.didispace.com/spring-cloud-zuul-exception-3/)
+- [Spring Cloud实战小贴士：Turbine如何聚合设置了context-path的Hystrix数据](http://blog.didispace.com/spring-cloud-tips-4/)
+- [Spring Cloud实战小贴士：Feign的继承特性(伪RPC模式)](http://blog.didispace.com/spring-cloud-tips-feign-rpc/)
+- [Spring Cloud实战小贴士：Ribbon的饥饿加载(eager-load)模式](http://blog.didispace.com/spring-cloud-tips-ribbon-eager/)
+- [Spring Cloud实战小贴士：Zuul的饥饿加载(eager-load)使用](http://blog.didispace.com/spring-cloud-tips-zuul-eager/)
 
 
 -石杉的架构笔记
