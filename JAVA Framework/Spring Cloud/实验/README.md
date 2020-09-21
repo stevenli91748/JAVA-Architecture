@@ -24,5 +24,5 @@
 - [spring-boot-admin-eureka](https://github.com/ityouknow/spring-cloud-examples/tree/master/spring-boot-admin-eureka)： 使用Spring Boot Admin 对Spring Cloud集群进行监控示例  
 - [spring-cloud-consul](https://github.com/ityouknow/spring-cloud-examples/tree/master/spring-cloud-consul)： Spring Cloud 使用 Consul 作为服务中心示例  
 - [spring-cloud-gateway](https://github.com/ityouknow/spring-cloud-examples/tree/master/spring-cloud-gateway)： Spring Cloud 使用 gateway 的相关示例
-
+* [Spring Boot + AngularJS + Spring Data + JPA CRUD App Example](http://websystique.com/spring-boot/spring-boot-angularjs-spring-data-jpa-crud-app-example/)
 ## 参考文章
