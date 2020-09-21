@@ -1,5 +1,5 @@
 # jSON例子程序
-  *  1. Jackson JSON libraries
+  * 1. Jackson JSON libraries
     * 1.1 Data binding : Converts JSON to/from POJOs using getters or annotations
           * [Converting JSON to/from Java Objects using JACKSON API](http://websystique.com/java/json/jackson-convert-java-object-to-from-json/)
           * [Converting JSON to/from Java Maps using JACKSON API](http://websystique.com/java/json/jackson-convert-java-map-to-from-json/)
