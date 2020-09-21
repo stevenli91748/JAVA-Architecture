@@ -9,11 +9,21 @@
 
 
 # Spring 例子程序
-
+## Spring 4 Basics sample
+## Spring 4 + Hibernate
+## Spring 4 + Job Schedulers
+## Spring 4 + JMS
+## Spring 4 + Email
+   * []()
+   * []()
+   * []()
+## Spring 4 + Caching
+   * [Spring 4 Cache Tutorial with EhCache](http://websystique.com/spring/spring-4-cache-tutorial-with-ehcache/)
+   * [Spring 4 Caching Annotations Tutorial](http://websystique.com/spring/spring-4-cacheable-cacheput-cacheevict-caching-cacheconfig-enablecaching-tutorial/)
 
 
 * Spring 核心
-  * [Spring IOC](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring%20IOC/README.md)
+  * [Spring IOC](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring%20IOC/README.md):Spring 4 Caching Tutorial using EhCache. Learn basics and advanced details of Caching, with EhCache as caching provider, annotations based example.
   * [Spring AOP](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring%20AOP/README.md)
 * Spring 组件
   * Spring Data Access
