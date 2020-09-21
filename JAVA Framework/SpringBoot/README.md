@@ -37,20 +37,20 @@
 * [9. 消息服务](#消息服务)
 * [10. 应用监控](#应用监控)
 * [11. 项目实战](#项目实战)
-  * [Demo](#Demo)
+  * [例子程序Demo](#例子程序Demo)
   * [实战项目](#实战项目)
   * [实战经验](#实战经验)
 
 ---
 
 # 项目实战
-  * [Demo](#Demo)
+  * [例子程序Demo](#例子程序Demo)
   * [实战项目](#实战项目)
   * [实战经验](#实战经验)
 
 ---
 
-## [Demo ](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%AE%9E%E9%AA%8C/Demo/README.md)
+## [例子程序Demo](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%AE%9E%E9%AA%8C/Demo/README.md)
 
 ## 实战项目
 * [实战前后端分离RBAC权限管理系统](https://www.kancloud.cn/hanxt/vue-spring/1528245)
