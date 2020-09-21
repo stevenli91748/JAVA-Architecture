@@ -6,6 +6,11 @@
 
 # Spring MVC例子程序
 ## Spring MVC 4 Basics
+   * [Spring 4 MVC HelloWorld Tutorial – Full XML Example](http://websystique.com/springmvc/spring-4-mvc-helloworld-tutorial-full-example/):Simple HelloWorld web application using Spring MVC XML configuration.
+   * [Spring 4 MVC HelloWorld Tutorial – Annotation/JavaConfig Example](http://websystique.com/springmvc/spring-4-mvc-helloworld-tutorial-annotation-javaconfig-full-example/):Simple HelloWorld Web application using Spring MVC Annotation-based configuration (Java Config).
+   * [Spring 4 MVC Form Validation and Resource Handling (Annotations)](http://websystique.com/springmvc/spring-4-mvc-form-validation-with-hibernate-jsr-validator-resource-handling-using-annotations/):Example web application showing usage of Spring Form tags, Form validation using JSR303 validation, accessing static resources(CSS,js,images..).
+   * [Spring 4 MVC ContentNegotiatingViewResolver example](http://websystique.com/springmvc/spring-4-mvc-contentnegotiatingviewresolver-example/):Annotation based example web application, supporting multiple output formats (XML, JSON, XLS, PDF, HTML) for same data using different ViewResolvers.
+   * [Spring 4 MVC+Apache Tiles 3 Example](http://websystique.com/springmvc/spring-4-mvc-apache-tiles-3-annotation-based-example/):Provide a consistent look-n-feel to your Spring MVC App using Apache Tiles 3. Annotation based example showing an HTML5 based layout using Apache Tiles 3.
 ## Spring MVC 4 + Rest Support
    * [Spring 4 MVC REST Service Example using @RestController](http://websystique.com/springmvc/spring-4-mvc-rest-service-example-using-restcontroller/):Creating a simple JSON + XML service using Spring REST APIs
    * [Spring MVC 4 RESTFul Web Services CRUD Example+RestTemplate](http://websystique.com/springmvc/spring-mvc-4-restful-web-services-crud-example-resttemplate/):In this post we will write a CRUD Restful WebService using Spring MVC 4, and write a REST client with RestTemplate to consume those services. We will also test those services using external clients.
