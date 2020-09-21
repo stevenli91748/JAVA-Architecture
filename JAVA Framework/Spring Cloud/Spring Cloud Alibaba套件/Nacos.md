@@ -9,3 +9,5 @@
 - [Spring Cloud Alibaba基础教程：Nacos配置的加载规则详解](http://blog.didispace.com/spring-cloud-alibaba-nacos-config-1/)
 - [Spring Cloud Alibaba基础教程：Nacos配置的多环境管理](http://blog.didispace.com/spring-cloud-alibaba-nacos-config-2/)
 - [Spring Cloud Alibaba基础教程：Nacos配置的多文件加载与共享配置](http://blog.didispace.com/spring-cloud-alibaba-nacos-config-3/)
+* [Nacos的数据持久化](http://blog.didispace.com/spring-cloud-alibaba-4/)
+* [Nacos的集群部署](http://blog.didispace.com/spring-cloud-alibaba-5/)
