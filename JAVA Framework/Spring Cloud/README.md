@@ -173,7 +173,7 @@
 - [使用Intellij中的Spring Initializr来快速构建Spring Boot/Cloud工程](http://blog.didispace.com/spring-initializr-in-intellij/)
 - [使用Spring Boot Actuator、Jolokia和Grafana实现准实时监控](http://blog.didispace.com/spring-boot-jolokia-grafana-monitor/)
 - [Netflix Zuul与Nginx的性能对比](http://blog.didispace.com/zuul-vs-nginx-performance/)
-
+* [Spring Cloud与Dubbo的完美融合](http://blog.didispace.com/spring-cloud-alibaba-dubbo-1/)
 
 
 
