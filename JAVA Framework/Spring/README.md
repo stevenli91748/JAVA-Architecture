@@ -14,9 +14,9 @@
 ## Spring 4 + Job Schedulers
 ## Spring 4 + JMS
 ## Spring 4 + Email
-   * []()
-   * []()
-   * []()
+   * [Spring 4 Email Integration Tutorial](http://websystique.com/spring/spring-4-email-integration-tutorial/):Send Emails right from within your Spring based application. Detailed annotation based example showing the necessary configuration and step, sending mail using Spring 4 JavaMailSender and MimeMessagePreparator.
+   * [Spring 4 Email With Attachment Tutorial](http://websystique.com/spring/spring-4-email-with-attachment-tutorial/):Send Email with attachments using Spring 4 JavaMailSender , MimeMessagePreparator & MimeMessageHelper. Annotations based Spring 4 Email tutorial.
+   * [Spring 4 Email using Velocity,Freemarker Template library](http://websystique.com/spring/spring-4-email-using-velocity-freemaker-template-library/):Prepare Email using Velocity/Freemarker templates, send Emails using Spring 4 JavaMailSender , MimeMessagePreparator & MimeMessageHelper.
 ## Spring 4 + Caching
    * [Spring 4 Cache Tutorial with EhCache](http://websystique.com/spring/spring-4-cache-tutorial-with-ehcache/):Spring 4 Caching Tutorial using EhCache. Learn basics and advanced details of Caching, with EhCache as caching provider, annotations based example.
    * [Spring 4 Caching Annotations Tutorial](http://websystique.com/spring/spring-4-cacheable-cacheput-cacheevict-caching-cacheconfig-enablecaching-tutorial/):Spring 4 Caching Annotations tutorial, with detailed examples for @Cacheable, @CachePut, @CacheEvict, @Caching, @CacheConfig & @EnableCaching.
