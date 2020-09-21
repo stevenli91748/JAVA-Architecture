@@ -7,6 +7,11 @@
 # Spring MVC例子程序
 ## Spring MVC 4 Basics
 ## Spring MVC 4 + Rest Support
+   * [Spring 4 MVC REST Service Example using @RestController](http://websystique.com/springmvc/spring-4-mvc-rest-service-example-using-restcontroller/):Creating a simple JSON + XML service using Spring REST APIs
+   * [Spring MVC 4 RESTFul Web Services CRUD Example+RestTemplate](http://websystique.com/springmvc/spring-mvc-4-restful-web-services-crud-example-resttemplate/):In this post we will write a CRUD Restful WebService using Spring MVC 4, and write a REST client with RestTemplate to consume those services. We will also test those services using external clients.
+   * [Secure Spring REST API using Basic Authentication](http://websystique.com/spring-security/secure-spring-rest-api-using-basic-authentication/):In this post we will access the secured RESTful webservices using Spring RestTemplate with Basic Authentication.
+   * [Secure Spring REST API using OAuth2](http://websystique.com/spring-security/secure-spring-rest-api-using-oauth2/):In this post we will access the secured RESTful webservices using Spring RestTemplate with OAuth2 protocol.
+   * [Spring MVC @RequestBody @ResponseBody Example](http://websystique.com/springmvc/spring-mvc-requestbody-responsebody-example/):Simple post explaining Spring MVC @RequestBody & @ResponseBody. Spring Inbuild HttpMessageConverters, and writing a Custom converter
 ## Spring MVC 4 + AngularJS
    * [Spring 4 MVC+AngularJS CRUD Example using $http service](http://websystique.com/springmvc/spring-mvc-4-angularjs-example/):Integrate AngularJS with Spring MVC. Example post showing AngularJS based front-end, communicating asynchronously with Spring REST API based back-end using $http service.
    * [Spring 4 MVC+AngularJS CRUD Application using ngResource](http://websystique.com/springmvc/spring-4-mvc-angularjs-crud-application-using-ngresource/):Simplify your server communication using ngResource $resource service. Complete CRUD application, Integrating AngularJS with Spring MVC, focusing on asynchronous server communication using $resource service. Example post showing AngularJS based front-end, communicating with Spring REST API based back-end.
