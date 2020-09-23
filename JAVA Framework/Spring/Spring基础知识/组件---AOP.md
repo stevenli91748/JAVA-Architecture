@@ -1,15 +1,34 @@
 
 # AOP
 
-* [《包你懂系列》让我们来揭开 AOP 和动态代理技术的神秘面纱](https://juejin.im/post/5ed723606fb9a047a07f2ec2)
-* [面试被问了几百遍的 IoC 和 AOP ，还在傻傻搞不清楚](https://juejin.im/post/5ecf62ee51882542ef4f851f)
+
+
+# AOP例子程序
+* [Spring AOP 详解 1(注解方式)  例子说明](https://juejin.im/post/5d390f705188252c784a4f74)
+* [Spring AOP 详解 2(xml方式)  例子说明 先看](https://www.cnblogs.com/hongwz/p/5764917.html)
+
+
+
+
+
 
 AOP动态代理|AOP静态代理|
 ---|--|
 
-
 [spring-aop]("面向切面编程")|[spring-aspects]("集成AspectJ")|[spring-instrument]("提供一些类级的工具支持和ClassLoader级的实现，用于服务器")|[spring-instrument-tomcat]("针对tomcat的instrument实现包含了spring的tomcat设备代理它们的完整依赖关系")|
 ---|---|---|---|
+
+[《包你懂系列》让我们来揭开 AOP 和动态代理技术的神秘面纱](https://juejin.im/post/5ed723606fb9a047a07f2ec2)|[面试被问了几百遍的 IoC 和 AOP ，还在傻傻搞不清楚](https://juejin.im/post/5ecf62ee51882542ef4f851f)|
+---|--|
+
+* [Spring AOP 源码分析系列文章导读](https://www.tianxiaobo.com/2018/06/17/Spring-AOP-%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90%E7%B3%BB%E5%88%97%E6%96%87%E7%AB%A0%E5%AF%BC%E8%AF%BB/)
+* [Spring AOP 源码分析 - 筛选合适的通知器](https://www.tianxiaobo.com/2018/06/20/Spring-AOP-%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90-%E7%AD%9B%E9%80%89%E5%90%88%E9%80%82%E7%9A%84%E9%80%9A%E7%9F%A5%E5%99%A8/)
+* [Spring AOP 源码分析 - 创建代理对象](https://www.tianxiaobo.com/2018/06/20/Spring-AOP-%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90-%E5%88%9B%E5%BB%BA%E4%BB%A3%E7%90%86%E5%AF%B9%E8%B1%A1/)
+* [Spring AOP 源码分析 - 拦截器链的执行过程](https://www.tianxiaobo.com/2018/06/22/Spring-AOP-%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90-%E6%8B%A6%E6%88%AA%E5%99%A8%E9%93%BE%E7%9A%84%E6%89%A7%E8%A1%8C%E8%BF%87%E7%A8%8B/)
+
+
+
+
 
 
 AOP就是面向切面编程。如右面的图，一般程序执行流程是从controller层调用service层、然后service层调用DAO层访问数据，最后在逐层返回结果。
