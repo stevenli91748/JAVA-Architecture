@@ -114,6 +114,13 @@
 * [10倍请求压力来袭，你的系统会被击垮吗？](https://juejin.im/post/5c1baab7e51d455e4b55ff72)
 * [大白话聊聊Java并发面试问题之微服务注册中心的读写锁优化](https://juejin.im/post/5c0c8540e51d451dbe4fdd83)
 * [从团队自研的百万并发中间件系统的内核设计看Java并发性能优化](https://mp.weixin.qq.com/s/d4qfu2MxESc1YJV4Ud5mnA)
+* [Java 线程池原理分析](https://www.tianxiaobo.com/2018/04/17/Java-%E7%BA%BF%E7%A8%8B%E6%B1%A0%E5%8E%9F%E7%90%86%E5%88%86%E6%9E%90/)
+* [AbstractQueuedSynchronizer 原理分析 - 独占/共享模式](https://www.tianxiaobo.com/2018/05/01/AbstractQueuedSynchronizer-%E5%8E%9F%E7%90%86%E5%88%86%E6%9E%90-%E7%8B%AC%E5%8D%A0-%E5%85%B1%E4%BA%AB%E6%A8%A1%E5%BC%8F/)
+* [AbstractQueuedSynchronizer 原理分析 - Condition 实现原理](https://www.tianxiaobo.com/2018/05/04/AbstractQueuedSynchronizer-%E5%8E%9F%E7%90%86%E5%88%86%E6%9E%90-Condition-%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86/)
+* [Java 重入锁 ReentrantLock 原理分析](https://www.tianxiaobo.com/2018/05/07/Java-%E9%87%8D%E5%85%A5%E9%94%81-ReentrantLock-%E5%8E%9F%E7%90%86%E5%88%86%E6%9E%90/)
+* [Java 线程同步组件 CountDownLatch 与 CyclicBarrier 原理分析](https://www.tianxiaobo.com/2018/05/10/Java-%E7%BA%BF%E7%A8%8B%E5%90%8C%E6%AD%A5%E7%BB%84%E4%BB%B6-CountDownLatch-%E4%B8%8E-CyclicBarrier-%E5%8E%9F%E7%90%86%E5%88%86%E6%9E%90/)
+* [Java CAS 原理分析](https://www.tianxiaobo.com/2018/05/15/Java-%E4%B8%AD%E7%9A%84-CAS-%E5%8E%9F%E7%90%86%E5%88%86%E6%9E%90/)
+
 
 #### 2020汇总Java并发核心篇
 
