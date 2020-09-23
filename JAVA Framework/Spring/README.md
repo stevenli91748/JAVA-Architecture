@@ -37,7 +37,7 @@
 ---
 
 * Spring 核心
-  * [Spring IOC](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring%20IOC/README.md)
+  * [Spring IOC](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/IOC%E6%8E%A7%E5%88%B6%E5%8F%8D%E8%BD%AC.md)
   * [Spring AOP](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring%20AOP/README.md)
 * Spring 组件
   * Spring Data Access
