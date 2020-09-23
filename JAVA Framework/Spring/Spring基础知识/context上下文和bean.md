@@ -66,6 +66,9 @@ spring进行IOC实现时使用的有两个概念：context上下文和bean。
 
 <a href="https://ibb.co/bbsgfpF"><img src="https://i.ibb.co/xF1S4VY/bean39c8b381b7a-r.jpg" alt="bean39c8b381b7a-r" border="0"></a>
 
+[Spring bean的生命流程](https://www.tianxiaobo.com/2018/01/19/Spring-bean%E7%9A%84%E7%94%9F%E5%91%BD%E6%B5%81%E7%A8%8B/)|
+---|
+
         面试中经常问到的bean的生命周期，先看绿色的部分，bean的创建过程：
 
         第1步：调用bean的构造方法创建bean；
