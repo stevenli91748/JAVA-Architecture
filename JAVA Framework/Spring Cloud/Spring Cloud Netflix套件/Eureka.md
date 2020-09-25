@@ -1,1 +1,7 @@
-
+* [开放一台Eureka注册中心给各位Spring Cloud爱好者](http://blog.didispace.com/spring-cloud-free-eureka/)
+* [Eureka Client注册到Eureka Server的秘密](http://blog.didispace.com/spring-cloud-eureka-register-detail/)
+* [Spring Cloud构建微服务架构：服务注册与发现（Eureka、Consul）](http://blog.didispace.com/spring-cloud-starter-dalston-1/)
+* [Spring Cloud源码分析（一）Eureka](http://blog.didispace.com/springcloud-sourcecode-eureka/)
+* [Spring Cloud构建微服务架构（六）高可用服务注册中心](http://blog.didispace.com/springcloud6/)
+* [Spring Cloud构建微服务架构（二）服务消费者](http://blog.didispace.com/springcloud2/)
+* [Spring Cloud构建微服务架构（一）服务注册与发现](http://blog.didispace.com/springcloud1/)
