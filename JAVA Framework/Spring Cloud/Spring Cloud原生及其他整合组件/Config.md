@@ -1,2 +1,10 @@
 
 * [Spring Cloud Config采用数据库存储配置内容](http://blog.didispace.com/spring-cloud-starter-edgware-3-1/)
+* [Spring Cloud Config采用Git存储时两种常用的配置策略](http://blog.didispace.com/Spring-Cloud-Config-Git-Config-Two-Mode/)
+* [Spring Cloud Config采用数据库存储配置内容【Edgware+】](http://blog.didispace.com/spring-cloud-starter-edgware-3-1/)
+* [Spring Cloud Config Server迁移节点或容器化带来的问题](http://blog.didispace.com/Spring-Cloud-Config-Server-ip-change-problem/)
+* [Spring Cloud Config对特殊字符加密的处理](http://blog.didispace.com/spring-cloud-config-sp-char-encrypt/)
+* [Spring Cloud构建微服务架构：分布式配置中心（加密解密）](http://blog.didispace.com/spring-cloud-starter-dalston-3-2/)
+* [Spring Cloud Config的配置中心获取不到最新配置信息的问题](http://blog.didispace.com/spring-cloud-tips-config-tmp-clear/)
+* [Spring Cloud构建微服务架构（四）分布式配置中心（续）](http://blog.didispace.com/springcloud4-2/)
+* [Spring Cloud构建微服务架构（四）分布式配置中心](http://blog.didispace.com/springcloud4/)
