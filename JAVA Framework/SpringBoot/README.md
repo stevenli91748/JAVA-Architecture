@@ -9,6 +9,8 @@
 [精尽 Spring Boot 学习指南](http://svip.iocoder.cn/Spring-Boot/tutorials/)|[springboot系列之02-需要了解的宏观知识点](http://www.zimug.com/java/spring/springboot%e7%b3%bb%e5%88%97%e4%b9%8b02-%e9%9c%80%e8%a6%81%e4%ba%86%e8%a7%a3%e7%9a%84%e5%ae%8f%e8%a7%82%e7%9f%a5%e8%af%86%e7%82%b9/.html)|
 ---|---|
 
+[SpringBoot实战开发---SpringBoot如何和各项技术整合 好评如潮 58集](https://www.youtube.com/watch?v=DU6ApMNDtWo&list=PLwDQt7s1o9J4AgZVM0hdtNpWiyrKIMHOx&index=1)|
+---|
 ---
 
 [手摸手教你学spring boot 2.x](https://www.kancloud.cn/hanxt/springboot2/1492077)|[[手摸手教你学spring boot 2.x 学习笔记](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E6%89%8B%E6%91%B8%E6%89%8B%E6%95%99%E4%BD%A0%E5%AD%A6spring%20boot%202.x%20%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)|
