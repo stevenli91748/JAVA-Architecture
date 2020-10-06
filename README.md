@@ -21,6 +21,11 @@
 [程序猿DD---非常好](http://blog.didispace.com/)|[ 芋道源码------非常好](http://www.iocoder.cn/)|[猿码架构](https://www.jianshu.com/u/657c611b2e07)|[周立的博客](http://itmuch.com/)|
 ---|---|---|---|
 
+[手摸手教你学spring boot 2.x](https://www.kancloud.cn/hanxt/springboot2/1719695)|[Spring Security-JWT-OAuth2一本通(基于SpringBoot2.0)](https://www.kancloud.cn/hanxt/springsecurity/1472507)|
+---|---|
+
+[【实战开发】DongBB-前后端分离RBAC权限管理系统](https://www.kancloud.cn/hanxt/vue-spring/1528245)|[实战SpringCloud微服务从青铜到王者](https://www.kancloud.cn/hanxt/springcloud/1718845)|
+---|---|
 
 # 第十二阶段 [项目故障排查 优化](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E9%A1%B9%E7%9B%AE%E6%95%85%E9%9A%9C%E6%8E%92%E6%9F%A5/README.md)
 
