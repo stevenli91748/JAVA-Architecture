@@ -32,6 +32,30 @@
 [Spring Cloud 微服务权限系统搭建教程---手把手教你从零搭建到Docker部署（新增K8S集群部署教程）](https://www.kancloud.cn/mrbird/spring-cloud/1263681)|
 ---|
 
+# 打怪升级第一步—开发1到3年
+* Java并发编程底层篇：并发基础+JMM+线程池+阻塞队列+并发集合+并发工具类+锁+atomic
+* JVM与性能调优篇：内存区域+垃圾回收器和内存分配策略+类加载机制+调优
+* 网络编程篇：TCP/HTTP+Netty+多路复用
+* SQL调优篇：SQL优化原则+锁+索引+调优+事务+执行计划
+* Tomcat底层篇：架构+基础+调优+集群+安全
+* 设计模式篇：六大原则+23种设计模式
+* Spring源码篇：IOC+AOP+声明事务源码解读
+* MyBatis源码篇：MyBaits源码架构分析+MyBaits核心模块分析+二级缓存
+
+# 打怪升级第二步：4-5年资深高开
+* 分布式思维基础：大型互联网架构演进过程+架构师应具备的分布式知识+主流分布式架构设计详解
+* 分布式监控：Zookeeper+Nginx
+* 分布式消息队列：RabbitMQ+RocketMQ+Kafka
+* 分布式存储：Redis+MongDB+Mycat
+
+# 打怪升级第三步：5到7年架构进阶
+* 微服务架构进阶：Docker+SpringCloud+Spring Cloud Alibaba+K8S
+* 亿级流量性能调优实战：调优基础+基础代码性能优化+设计模式与性能+并发编程性能优化+JVM深度调优+数据库性能调优
+* 一线大厂分布式场景实战：分布式事务解决方案+一线大厂单点登陆方案+分布式任务调度方案+高并发场景下分布锁方案+缓存解决方案
+
+
+
+
 
 # 第十二阶段 [项目故障排查 优化](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E9%A1%B9%E7%9B%AE%E6%95%85%E9%9A%9C%E6%8E%92%E6%9F%A5/README.md)
 
