@@ -32,6 +32,33 @@
 [Spring Cloud 微服务权限系统搭建教程---手把手教你从零搭建到Docker部署（新增K8S集群部署教程）](https://www.kancloud.cn/mrbird/spring-cloud/1263681)|
 ---|
 
+
+|- 0. 设计模式
+|- 1.并发编程 
+|- 2.spring源码解读
+|- 3.Mybatis专题
+|- 4.JVM性能调优
+|- 5.Tomcat
+|- 6.MySQL
+|- 7.Nginx
+|- 8.高性能Netty框架
+|- 9.分布式思维
+|- 10.Zookeeper
+|- 11 架构核心服务层技术基础篇
+|- 12 dubbo
+|- 13 消息中间件
+|- 14.redis
+|- 15.缓存实战方案、分布式常见问题解决方案
+|- 16 memcached
+|- 17.MongoDB
+|- 18 Mysql高性能存储
+|- 19 docker
+|- 20 SpringBoot
+|- 21 SpringCloud
+|- 22 maven
+|- 23 git+Jenkins
+
+
 # 打怪升级第一步—开发1到3年
 * Java并发编程底层篇：并发基础+JMM+线程池+阻塞队列+并发集合+并发工具类+锁+atomic
 * JVM与性能调优篇：内存区域+垃圾回收器和内存分配策略+类加载机制+调优
