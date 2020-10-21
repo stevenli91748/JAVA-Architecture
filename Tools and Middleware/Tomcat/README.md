@@ -415,6 +415,7 @@ c:\apache-tomcat-9.0.16
  
  
 # 有用的参考
+* [tomcat内存配置及配置参数详解](https://blog.csdn.net/m0_37327416/article/details/76185051)
 * [Tomcat系统架构与请求处理流程](https://blog.csdn.net/ThinkWon/article/details/102676442?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task)
 * [Tomcat面试题（2020最新版）](https://blog.csdn.net/ThinkWon/article/details/104397665)
 * [Tomcat结构及处理请求过程](http://objcoding.com/2017/06/12/Tomcat-structure-and-processing-request-process/)
