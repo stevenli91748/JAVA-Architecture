@@ -11,7 +11,7 @@
 # [如何利用好Google Scholar(谷歌学术)](https://www.zhihu.com/question/39852481)
 # [好的it 英文书网战--user： steven  psw: gz19731108](https://learning.oreilly.com/home/)
 # [从学渣到博士：一个学习方法改变我的命运，自创2.0版费曼学习法](https://www.youtube.com/watch?v=hh9kFKVKpSM)
-
+# [An Entire Software Development Life Cycle - Full Guide (Tutorial)](https://www.youtube.com/watch?v=9PgZCJNzY9M&list=RDCMUC2WHjPDvbE6O328n17ZGcfg&start_radio=1&t=80)
 ---
 
 
