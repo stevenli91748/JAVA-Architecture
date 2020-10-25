@@ -46,6 +46,9 @@
 ---
 
 # 项目实战
+  * [Spring Boot 集成 FreeMarker 详解案例](https://zhuanlan.zhihu.com/p/25882017)
+  * [Springboot集成 Druid](https://zhuanlan.zhihu.com/p/139354663)
+  * [踩坑sharding jdbc，集成多数据源](https://zhuanlan.zhihu.com/p/166105923)
   * [SpringBoot + Mybatis + Druid +PageHelper 实现多数据源并分页](https://zhuanlan.zhihu.com/p/63018846)
   * [SpringBoot+Mybatis+Swagger2环境搭建](https://zhuanlan.zhihu.com/p/87278712)
   * [SpringBoot+MyBatis+MySQL读写分离（实例）](https://zhuanlan.zhihu.com/p/61690415)
@@ -423,6 +426,7 @@ Spring Boot 并不是用来替代 Spring 的解决方案，而是和 Spring 框�
 * [【项目实践】SpringBoot-如何设计优秀的后端接口](https://juejin.im/post/6860404263143604232)
 
 # 有用的参考
+  * [学习 Spring Boot 知识看这一篇就够了](https://zhuanlan.zhihu.com/p/37372007)
   * [教你理清 SpringBoot 与 SpringMVC 的关系](http://www.iocoder.cn/Fight/Teach-you-to-clarify-the-relationship-between-SpringBoot-and-SpringMVC/)
   * [Spring Boot+RabbitMQ 实现延迟消息实现完整版，实用](https://zhuanlan.zhihu.com/p/147320193?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)
   * [完整项目---Github点赞接近 100k 的Spring Boot学习教程+实战项目推荐！](https://zhuanlan.zhihu.com/p/150513285?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)
