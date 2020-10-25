@@ -9,8 +9,8 @@
 [黑客攻击你的接口服务，如何给你的开放API穿上“金甲神盾”](https://www.bilibili.com/video/BV1qs411J788)|[90分钟教你实现，接口优雅限流降级](https://www.bilibili.com/video/BV1YW41197mr)|
 ---|---|
 
-[APIs for Beginners - How to use an API ](https://www.youtube.com/watch?v=GZvSYJDk-us)|
----|
+[APIs for Beginners - How to use an API ](https://www.youtube.com/watch?v=GZvSYJDk-us)|[别在简历写秒杀系统了！我告诉你消息管理平台实现原理吧---怎样设计接口](https://zhuanlan.zhihu.com/p/258732579)|
+---|---|
 
 | **第一部分 RestFulAPI 篇** | [无代码] | 
 | :--- | :---: | 
