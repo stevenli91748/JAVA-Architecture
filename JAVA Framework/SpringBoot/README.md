@@ -46,6 +46,7 @@
 ---
 
 # 项目实战
+  * [Springboot 整合 Mybatis 的完整 Web 案例](https://zhuanlan.zhihu.com/p/25959187)
   * [超详细，新手都能看懂 ！使用SpringBoot+Dubbo 搭建一个简单的分布式服务](https://zhuanlan.zhihu.com/p/51081224)
   * [例子程序Demo](#例子程序Demo)
   * [实战项目](#实战项目)
