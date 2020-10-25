@@ -25,6 +25,7 @@
 
 * [IntelliJ IDEA 的配置](#IntelliJ-IDEA-的配置)
   * [IDEA的配置](#IDEA的配置)
+    * [IntelliJ IDEA 相关核心文件和目录介绍](https://github.com/stevenli91748/IntelliJ-IDEA-Tutorial/blob/master/installation-directory-introduce.md)
     * [IDEA 设置代码行宽度](#IDEA-设置代码行宽度)
     * [IDEA 提示不区分大小写](#IDEA-提示不区分大小写)
     * [自动编译](#自动编译)
