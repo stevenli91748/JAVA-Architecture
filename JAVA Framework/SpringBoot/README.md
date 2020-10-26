@@ -44,6 +44,8 @@
 * [9. 消息服务](#9-消息服务)
 * [10. 应用监控](#10-应用监控)
 * [11. 应用部署](#11-应用部署)
+  * [11a SpringBoot项目部署在AWS](#11a-SpringBoot项目部署在AWS)
+  * [11b SpringBoot项目部署在本地分布式环境中](#11b-SpringBoot项目部署在本地分布式环境中)
 * [12. 项目实战](#12-项目实战)
   * [12a 例子程序Demo](#12a-例子程序Demo)
   * [12b 实战项目](#12b-实战项目)
@@ -284,8 +286,12 @@
 
 
 # 11 应用部署
+## 11a SpringBoot项目部署在AWS
   * [部署SpringBoot项目到亚马逊aws云服务上](https://www.twblogs.net/a/5cb0c671bd9eee480f075dcf/?lang=zh-cn)
   * [在AWS EC2上部署springboot项目](https://www.cnblogs.com/yelao/p/12589098.html)
+
+## 11b SpringBoot项目部署在本地分布式环境中
+  
 ---
 
 
