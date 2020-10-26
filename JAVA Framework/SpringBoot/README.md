@@ -39,22 +39,13 @@
 * [9. 消息服务](#消息服务)
 * [10. 应用监控](#应用监控)
 * [11. 项目实战](#11-项目实战)
-  * [例子程序Demo](#11a-例子程序Demo)
-  * [实战项目](#11b-实战项目)
-  * [实战经验](#11c-实战经验)
+  * [11a 例子程序Demo](#11a-例子程序Demo)
+  * [11b 实战项目](#11b-实战项目)
+  * [11c 实战经验](#11c-实战经验)
 
 ---
 
 # 11 项目实战
-  * [Spring Boot 集成 FreeMarker 详解案例](https://zhuanlan.zhihu.com/p/25882017)
-  * [Springboot集成 Druid](https://zhuanlan.zhihu.com/p/139354663)
-  * [踩坑sharding jdbc，集成多数据源](https://zhuanlan.zhihu.com/p/166105923)
-  * [SpringBoot + Mybatis + Druid +PageHelper 实现多数据源并分页](https://zhuanlan.zhihu.com/p/63018846)
-  * [SpringBoot+Mybatis+Swagger2环境搭建](https://zhuanlan.zhihu.com/p/87278712)
-  * [SpringBoot+MyBatis+MySQL读写分离（实例）](https://zhuanlan.zhihu.com/p/61690415)
-  * [SpringBoot + Mybatis配合AOP和注解实现动态数据源切换配置](https://zhuanlan.zhihu.com/p/83923714)
-  * [Springboot 整合 Mybatis 的完整 Web 案例](https://zhuanlan.zhihu.com/p/25959187)
-  * [超详细，新手都能看懂 ！使用SpringBoot+Dubbo 搭建一个简单的分布式服务](https://zhuanlan.zhihu.com/p/51081224)
   * [例子程序Demo](#例子程序Demo)
   * [实战项目](#实战项目)
   * [实战经验](#实战经验)
