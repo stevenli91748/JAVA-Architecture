@@ -22,6 +22,19 @@
 [精通 Spring Boot 42 讲---纯洁的微笑](https://github.com/ityouknow/spring-boot-leaning)|
 ---|
 
+
+  * [Spring Boot 集成 FreeMarker 详解案例](https://zhuanlan.zhihu.com/p/25882017)
+  * [Springboot集成 Druid](https://zhuanlan.zhihu.com/p/139354663)
+  * [踩坑sharding jdbc，集成多数据源](https://zhuanlan.zhihu.com/p/166105923)
+  * [SpringBoot + Mybatis + Druid +PageHelper 实现多数据源并分页](https://zhuanlan.zhihu.com/p/63018846)
+  * [SpringBoot+Mybatis+Swagger2环境搭建](https://zhuanlan.zhihu.com/p/87278712)
+  * [SpringBoot+MyBatis+MySQL读写分离（实例）](https://zhuanlan.zhihu.com/p/61690415)
+  * [SpringBoot + Mybatis配合AOP和注解实现动态数据源切换配置](https://zhuanlan.zhihu.com/p/83923714)
+  * [Springboot 整合 Mybatis 的完整 Web 案例](https://zhuanlan.zhihu.com/p/25959187)
+  * [超详细，新手都能看懂 ！使用SpringBoot+Dubbo 搭建一个简单的分布式服务](https://zhuanlan.zhihu.com/p/51081224)
+
+
+
 # 目录
 
 * [1. SpringBoot内部机制](#SpringBoot内部机制)
