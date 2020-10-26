@@ -34,35 +34,36 @@
   * [3a HTTP客户端库](#3a-HTTP客户端库)
   * [3b Dubbo进行服务治理](#3b-Dubbo进行服务治理)
 * [4. 数据库訪问](#4-数据库訪问)
-* [5. 事务管理](#事务管理)
-* [6. 日志管理](#日志管理)
-* [7. 安全管理](#安全管理)
-* [8. 缓存管理](#缓存管理)
-* [9. 消息服务](#消息服务)
-* [10. 应用监控](#应用监控)
-* [11. 项目实战](#11-项目实战)
-  * [11a 例子程序Demo](#11a-例子程序Demo)
-  * [11b 实战项目](#11b-实战项目)
-  * [11c 实战经验](#11c-实战经验)
+* [5. 事务管理](#5-事务管理)
+* [6. 日志管理](#6-日志管理)
+* [7. 安全管理](#7-安全管理)
+* [8. 缓存管理](#8-缓存管理)
+* [9. 消息服务](#9-消息服务)
+* [10. 应用监控](#10-应用监控)
+* [11. 应用部署](#11-应用部署)
+* [12. 项目实战](#12-项目实战)
+  * [12a 例子程序Demo](#12a-例子程序Demo)
+  * [12b 实战项目](#12b-实战项目)
+  * [12c 实战经验](#12c-实战经验)
 
 ---
 
-# 11 项目实战
-  * [例子程序Demo](#例子程序Demo)
-  * [实战项目](#实战项目)
-  * [实战经验](#实战经验)
+# 12 项目实战
+  * [12a 例子程序Demo](#12a-例子程序Demo)
+  * [12b 实战项目](#12b-实战项目)
+  * [12c 实战经验](#12c-实战经验)
 
 ---
 
-## [11a 例子程序Demo](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%AE%9E%E9%AA%8C/Demo/README.md)
+## [12a 例子程序Demo](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%AE%9E%E9%AA%8C/Demo/README.md)
 
-## 11b 实战项目
+## 12b 实战项目
 * [实战前后端分离RBAC权限管理系统](https://www.kancloud.cn/hanxt/vue-spring/1528245)
 * [springBoot整合spring security实现权限管理(单体应用版)--筑基初期](https://juejin.im/post/6867530830446034958)
 * [springBoot整合spring security+JWT实现单点登录与权限管理前后端分离--筑基中期](https://juejin.im/post/6868558729353117710)
 * [超详细！4小时开发一个SpringBoot+vue前后端分离博客项目！！](https://juejin.im/post/6844903823966732302)
 
-## 11c 实战经验
+## 12c 实战经验
 - [Spring Boot工程集成全局唯一ID生成器 UidGenerator](https://github.com/hansonwang99/Spring-Boot-In-Action/tree/master/springbt_uid_generator)
 * [Spring Boot 工程集成全局唯一ID生成器 Vesta](https://github.com/hansonwang99/Spring-Boot-In-Action/tree/master/springbt_vesta)
 * [Spring Boot优雅编码之：Lombok加持](http://www.codesheep.cn/2018/04/09/SpringBoot%E4%BC%98%E9%9B%85%E7%BC%96%E7%A0%81%E4%B9%8B%EF%BC%9ALombok%E5%8A%A0%E6%8C%81/)
@@ -75,6 +76,9 @@
 * [Spring Boot应用的后台运行配置](http://blog.didispace.com/spring-boot-run-backend/)
 * [Spring Boot快速开发利器：Spring Boot CLI](http://blog.didispace.com/Spring-Boot%E5%BF%AB%E9%80%9F%E5%BC%80%E5%8F%91%E5%88%A9%E5%99%A8%EF%BC%9ASpring-Boot-CLI/)
 * [Spring Boot自定义Banner](http://blog.didispace.com/spring-boot-banner/)
+* [【项目实践】SpringBoot三招组合拳，手把手教你打出优雅的后端接口](https://zhuanlan.zhihu.com/p/134209666?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
+* [【项目实践】后端接口统一规范的同时，如何优雅得扩展规范](https://juejin.im/post/6844904143912435719)
+* [【项目实践】SpringBoot-如何设计优秀的后端接口](https://juejin.im/post/6860404263143604232)
 
 ---
 
@@ -233,12 +237,12 @@
 * [使用Spring Data JPA访问MySQL](http://blog.didispace.com/spring-boot-learning-21-3-4/)
 
 
-# 事务管理
+# 5 事务管理
 * [使用事务管理](http://blog.didispace.com/springboottransactional/)
 * [为什么加了@Transactional注解，事务没有回滚](http://blog.didispace.com/transactional-not-rollback/)
 * [事务管理入门](http://blog.didispace.com/spring-boot-learning-21-3-10/)
 
-# 日志管理
+# 6 日志管理
 * [Spring Boot日志框架实践](http://www.codesheep.cn/2018/03/29/Boot%E6%97%A5%E5%BF%97%E6%A1%86%E6%9E%B6%E5%AE%9E%E8%B7%B5/)
 * [默认日志的配置](http://blog.didispace.com/springbootlog/)
 * [使用log4j记录日志](http://blog.didispace.com/springbootlog4j/)
@@ -247,13 +251,13 @@
 * [使用log4j记录日志到MongoDB](http://blog.didispace.com/springbootlog4jmongodb/)
 * [Spring Boot 1.5.x新特性：动态修改日志级别](http://blog.didispace.com/spring-boot-1-5-x-feature-1/)]
 
-# 安全管理
+# 7 安全管理
 * [基于 Spring Security和 JWT的权限系统设计](https://github.com/hansonwang99/Spring-Boot-In-Action/tree/master/springbt_security_jwt)
 * [基于Spring Security Oauth2的SSO单点登录+JWT权限控制实践](https://github.com/hansonwang99/Spring-Boot-In-Action/tree/master/springbt_sso_jwt)
 * [使用Spring Security](http://blog.didispace.com/springbootsecurity/)
 * [使用Spring Session（未完成）]
 
-# 缓存管理
+# 8 缓存管理
 * [注解配置与EhCache使用](http://blog.didispace.com/springbootcache1/)
 * [使用Redis做集中式缓存](http://blog.didispace.com/springbootcache2/)
 * [Guava Cache本地缓存在 Spring Boot应用中的实践](https://github.com/hansonwang99/Spring-Boot-In-Action/tree/master/springbt_guava_cache)
@@ -263,17 +267,24 @@
 * [进程内缓存的使用与Cache注解详解](http://blog.didispace.com/spring-boot-learning-21-5-1/)
 
 
-# 消息服务
+# 9 消息服务
 * [JMS（未完成）]
 * [Spring Boot中使用RabbitMQ](http://blog.didispace.com/spring-boot-rabbitmq/)
 
-# 应用监控
+# 10 应用监控
 * [利用神器 BTrace 追踪线上 Spring Boot应用运行时信息](https://www.codesheep.cn/2019/01/17/springbt-btrace/)
 * [Spring Boot应用监控实战](https://github.com/hansonwang99/Spring-Boot-In-Action/tree/master/springbt_admin_server)
 * [Spring Boot Admin 2.0开箱体验](https://github.com/hansonwang99/Spring-Boot-In-Action/tree/master/spring_boot_admin2.0_demo)
 * [Spring Boot Actuator监控端点小结](http://blog.didispace.com/spring-boot-actuator-1/)
 * [在传统Spring应用中使用spring-boot-actuator模块提供监控端点](http://blog.didispace.com/spring-boot-actuator-without-boot/)
 * [Spring Boot中使用Actuator的/info端点输出Git版本信息](http://blog.didispace.com/spring-boot-actuator-info-git/)
+
+
+# 11 应用部署
+
+---
+
+
 
 # 
 [SpringBoot注解](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot注解/README.md)|[springboot基本原理(知识点)](https://blog.csdn.net/z446981439/article/details/103822257)|[SpringBoot实现原理](https://blog.csdn.net/qq_38417983/article/details/81128299)|[Spring Boot要如何学习](https://www.zhihu.com/question/53729800/answer/311948415)|[参数校验](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E5%8F%82%E6%95%B0%E6%A0%A1%E9%AA%8C.md)|
@@ -360,21 +371,6 @@ starter|actuator|devtools|cli|
  * [Spring Boot概述](#Spring-Boot概述)
  * [建立Spring Boot工程的几种方法](#建立SpringBoot工程的几种方法)
 
-### 知识点
-
-SpringBoot快速上手应用
-
-SpringBoot核心配置详解
-
-SpringBoot集成MyBatis  Redis  ActiveMQ、
-
-RabbitMQ  Dubbo等
-
-SpringBoot计策模板引擎Thymeleaf Freemarker
-
-SpringBoot核心注解详解
-
-Spring启动器starter原理深入分析
 
 ### Spring Boot概述
 
@@ -421,10 +417,7 @@ Spring Boot 并不是用来替代 Spring 的解决方案，而是和 Spring 框�
  * [4小时学会Spring Boot+Vue前后端分离开发](https://www.bilibili.com/video/av85793766?from=search&seid=25718754058418816)
  
  
-# 项目实践经验
-* [【项目实践】SpringBoot三招组合拳，手把手教你打出优雅的后端接口](https://zhuanlan.zhihu.com/p/134209666?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
-* [【项目实践】后端接口统一规范的同时，如何优雅得扩展规范](https://juejin.im/post/6844904143912435719)
-* [【项目实践】SpringBoot-如何设计优秀的后端接口](https://juejin.im/post/6860404263143604232)
+
 
 # 有用的参考
   * [学习 Spring Boot 知识看这一篇就够了](https://zhuanlan.zhihu.com/p/37372007)
