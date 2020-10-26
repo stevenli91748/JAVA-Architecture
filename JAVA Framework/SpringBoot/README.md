@@ -30,10 +30,10 @@
 * [2. 工程配置](#2-工程配置)
   * [2a 热部署](#2a-热部署)
   * [2b Tomcat](#2b-Tomcat)
-* [3. Web开发](#Web开发)
-  * [HTTP客户端库](#HTTP客户端库)
-  * [Dubbo进行服务治理](#Dubbo进行服务治理)
-* [4. 数据库訪问](#数据库訪问)
+* [3. Web开发](#3-Web开发)
+  * [3a HTTP客户端库](#3a-HTTP客户端库)
+  * [3b Dubbo进行服务治理](#3b-Dubbo进行服务治理)
+* [4. 数据库訪问](#4-数据库訪问)
 * [5. 事务管理](#事务管理)
 * [6. 日志管理](#日志管理)
 * [7. 安全管理](#安全管理)
@@ -78,9 +78,9 @@
 
 ---
 
-# SpringBoot内部机制
-  * [SpringBoot配置文件](#SpringBoot配置文件)
-  * [SpringBoot内存](#SpringBoot内存)
+# 1 SpringBoot内部机制
+  * [1a SpringBoot配置文件](#1a-SpringBoot配置文件)
+  * [1b SpringBoot内存](#1b-SpringBoot内存)
 
 ---
 
@@ -97,15 +97,15 @@
 * [Spring Boot应用的后台运行配置](http://blog.didispace.com/spring-boot-run-backend/)
 * [Spring Boot自定义Banner](http://blog.didispace.com/spring-boot-banner/)
 
-## SpringBoot配置文件
+## 1a SpringBoot配置文件
 * [Spring Boot读取配置的几种方式](https://mp.weixin.qq.com/s?__biz=MzI3ODcxMzQzMw==&mid=2247484575&idx=1&sn=56c88cd7283374345d891e85a800539b&scene=21#wechat_redirect)
 * [配置文件详解：自定义属性、随机数、多环境配置等](http://blog.didispace.com/springbootproperties/)
 * [Spring Boot 2.0 新特性（一）：配置绑定 2.0 全解析](http://blog.didispace.com/Spring-Boot-2-0-feature-1-relaxed-binding-2/)
 * [配置文件详解](http://blog.didispace.com/spring-boot-learning-21-1-3/)
-## SpringBoot内存
+
+## 1b SpringBoot内存
 
 * [Spring Boot引起的“堆外内存泄漏”排查及经验总结](https://juejin.im/post/5c2ef77ae51d4551de1d769b)
-
 
 ---
 
@@ -152,10 +152,10 @@
 
 
 
-# Web开发
-  * [RESTFul API构建](#RESTFulAPI构建)
-  * [Dubbo进行服务治理](#Dubbo进行服务治理)
-  * [HTTP客户端库](#HTTP客户端库)
+# 3 Web开发
+  * [3a RESTFul API构建](#3a-RESTFulAPI构建)
+  * [3b Dubbo进行服务治理](#3b-Dubbo进行服务治理)
+  * [3c HTTP客户端库](#3c-HTTP客户端库)
 
 ---
 
@@ -167,7 +167,7 @@
 * [扩展XML请求和响应的支持](http://blog.didispace.com/spring-boot-xml-httpmessageconverter)
 * [使用 ECharts 绘制各种华丽的数据图表](http://blog.didispace.com/spring-boot-learning-21-4-2/)
 
-## RESTFulAPI构建
+## 3a RESTFulAPI构建
 * [构建一个较为复杂的RESTful API以及单元测试](http://blog.didispace.com/springbootrestfulapi/)
 * [使用Swagger2构建RESTful API](http://blog.didispace.com/springbootswagger2/)
 * [JSR-303实现请求参数校验](http://blog.didispace.com/spring-boot-learning-21-2-3/)
@@ -177,12 +177,13 @@
 * [使用SpringFox 3生成Swagger文档](http://blog.didispace.com/spring-boot-learning-21-2-7/)
 * [Spring Boot中使用Swagger2构建强大的RESTful API文档](http://blog.didispace.com/springbootswagger2/)
 * [自制的spring-boot-starter-swagger](https://github.com/SpringForAll/spring-boot-starter-swagger)
-## Dubbo进行服务治理
+
+## 3b Dubbo进行服务治理
 
 * [Spring Boot中使用Dubbo进行服务治理](https://gitee.com/didispace/SpringBoot-Learning/tree/master/Chapter9-2-1)
 * [Spring Boot与Dubbo中管理服务依赖](https://gitee.com/didispace/SpringBoot-Learning/tree/master/Chapter9-2-2)
 
-## HTTP客户端库
+## 3c HTTP客户端库
 
 * [精讲RestTemplate](http://www.zimug.com/tag/resttemplate)
 * [精讲响应式webclient](http://www.zimug.com/java/spring/%e7%b2%be%e8%ae%b2%e5%93%8d%e5%ba%94%e5%bc%8fwebclient%e7%ac%ac1%e7%af%87-%e5%93%8d%e5%ba%94%e5%bc%8f%e9%9d%9e%e9%98%bb%e5%a1%9eio%e4%b8%8e%e5%9f%ba%e7%a1%80%e7%94%a8%e6%b3%95/.html)
@@ -190,11 +191,11 @@
 
 
 
-# 数据库訪问
- * [JDBC连接](#JDBC连接)
- * [数据库连接池](#数据库连接池)
- * [MyBatis](#MyBatis)
- * [Spring Data JPA](#Spring-Data-JPA)
+# 4 数据库訪问
+ * [4a JDBC连接](#4a-JDBC连接)
+ * [4b 数据库连接池](#4b-数据库连接池)
+ * [4c MyBatis](#4c-MyBatis)
+ * [4d Spring Data JPA](#4d-Spring-Data-JPA)
 ---
 
 * [Spring Boot集成 MyBatis和 SQL Server实践](https://github.com/hansonwang99/Spring-Boot-In-Action/tree/master/springbt_mybatis_sqlserver)
@@ -214,20 +215,20 @@
 * [使用LDAP来统一管理用户信息](http://blog.didispace.com/spring-boot-ldap-user/)
 * [Spring Boot中增强对MongoDB的配置（连接池等）](http://blog.didispace.com/springbootmongodb-plus/)
 
-## JDBC连接
+## 4a JDBC连接
 * [使用JdbcTemplate访问MySQL数据库](http://blog.didispace.com/spring-boot-learning-21-3-1/)
 * [JdbcTemplate的多数据源配置](http://blog.didispace.com/spring-boot-learning-21-3-7/)
 
-## 数据库连接池
+## 4b 数据库连接池
 * [默认数据源Hikari的配置详解](http://blog.didispace.com/spring-boot-learning-21-3-2/)
 * [使用国产数据库连接池Druid](http://blog.didispace.com/spring-boot-learning-21-3-3/)
 
-## MyBatis
+## 4c MyBatis
 * [使用MyBatis访问MySQL](http://blog.didispace.com/spring-boot-learning-21-3-5/)
 * [使用MyBatis的XML配置方式](http://blog.didispace.com/spring-boot-learning-21-3-6/)
 * [MyBatis的多数据源配置](http://blog.didispace.com/spring-boot-learning-21-3-9/)
 
-## Spring-Data-JPA
+## 4d Spring Data JPA
 * [Spring Data JPA的多数据源配置](http://blog.didispace.com/spring-boot-learning-21-3-8/)
 * [使用Spring Data JPA访问MySQL](http://blog.didispace.com/spring-boot-learning-21-3-4/)
 
