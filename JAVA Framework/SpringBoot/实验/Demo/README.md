@@ -48,6 +48,18 @@
 - [spring-boot-actuator](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-actuator)：Spring Boot Actuator 使用示例
 - [spring-boot-admin-simple](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-admin-simple)：Spring Boot Admin 的使用示例  
 
+* [Spring Boot 集成 FreeMarker 详解案例](https://zhuanlan.zhihu.com/p/25882017)
+* [Springboot集成 Druid](https://zhuanlan.zhihu.com/p/139354663)
+* [踩坑sharding jdbc，集成多数据源](https://zhuanlan.zhihu.com/p/166105923)
+* [SpringBoot + Mybatis + Druid +PageHelper 实现多数据源并分页](https://zhuanlan.zhihu.com/p/63018846)
+* [SpringBoot+Mybatis+Swagger2环境搭建](https://zhuanlan.zhihu.com/p/87278712)
+* [SpringBoot+MyBatis+MySQL读写分离（实例）](https://zhuanlan.zhihu.com/p/61690415)
+* [SpringBoot + Mybatis配合AOP和注解实现动态数据源切换配置](https://zhuanlan.zhihu.com/p/83923714)
+* [Springboot 整合 Mybatis 的完整 Web 案例](https://zhuanlan.zhihu.com/p/25959187)
+* [超详细，新手都能看懂 ！使用SpringBoot+Dubbo 搭建一个简单的分布式服务](https://zhuanlan.zhihu.com/p/51081224)
+
+
+
 ## 参考文章
 
 - [Spring Boot 2(一)：【重磅】Spring Boot 2.0权威发布](http://www.ityouknow.com/springboot/2018/03/01/spring-boot-2.0.html)  
