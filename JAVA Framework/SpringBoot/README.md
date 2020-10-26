@@ -39,9 +39,9 @@
 * [9. 消息服务](#消息服务)
 * [10. 应用监控](#应用监控)
 * [11. 项目实战](#11-项目实战)
-  * [例子程序Demo](#11.1-例子程序Demo)
-  * [实战项目](#11.2-实战项目)
-  * [实战经验](#11.3-实战经验)
+  * [例子程序Demo](#11a-例子程序Demo)
+  * [实战项目](#11b-实战项目)
+  * [实战经验](#11c-实战经验)
 
 ---
 
@@ -61,15 +61,15 @@
 
 ---
 
-## [11.1 例子程序Demo](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%AE%9E%E9%AA%8C/Demo/README.md)
+## [11a 例子程序Demo](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%AE%9E%E9%AA%8C/Demo/README.md)
 
-## 11.2 实战项目
+## 11b 实战项目
 * [实战前后端分离RBAC权限管理系统](https://www.kancloud.cn/hanxt/vue-spring/1528245)
 * [springBoot整合spring security实现权限管理(单体应用版)--筑基初期](https://juejin.im/post/6867530830446034958)
 * [springBoot整合spring security+JWT实现单点登录与权限管理前后端分离--筑基中期](https://juejin.im/post/6868558729353117710)
 * [超详细！4小时开发一个SpringBoot+vue前后端分离博客项目！！](https://juejin.im/post/6844903823966732302)
 
-## 11.3 实战经验
+## 11c 实战经验
 - [Spring Boot工程集成全局唯一ID生成器 UidGenerator](https://github.com/hansonwang99/Spring-Boot-In-Action/tree/master/springbt_uid_generator)
 * [Spring Boot 工程集成全局唯一ID生成器 Vesta](https://github.com/hansonwang99/Spring-Boot-In-Action/tree/master/springbt_vesta)
 * [Spring Boot优雅编码之：Lombok加持](http://www.codesheep.cn/2018/04/09/SpringBoot%E4%BC%98%E9%9B%85%E7%BC%96%E7%A0%81%E4%B9%8B%EF%BC%9ALombok%E5%8A%A0%E6%8C%81/)
