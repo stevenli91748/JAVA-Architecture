@@ -290,6 +290,7 @@
   * [部署SpringBoot项目到亚马逊aws云服务上](https://www.twblogs.net/a/5cb0c671bd9eee480f075dcf/?lang=zh-cn)
   * [在AWS EC2上部署springboot项目](https://www.cnblogs.com/yelao/p/12589098.html)
   * [springboot 部署amazon例子集](https://www.youtube.com/results?search_query=springboot+%E9%83%A8%E7%BD%B2amazon)
+  * [AWS 上的项目：将整体式应用程序拆分为微服务（使用 Amazon Elastic Container Service、Docker 和 Amazon EC2）](https://aws.amazon.com/cn/getting-started/hands-on/break-monolith-app-microservices-ecs-docker-ec2/)
 ## 11b SpringBoot项目部署在本地分布式环境中
   
 ---
