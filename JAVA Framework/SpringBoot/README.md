@@ -289,7 +289,7 @@
 ## 11a SpringBoot项目部署在AWS
   * [部署SpringBoot项目到亚马逊aws云服务上](https://www.twblogs.net/a/5cb0c671bd9eee480f075dcf/?lang=zh-cn)
   * [在AWS EC2上部署springboot项目](https://www.cnblogs.com/yelao/p/12589098.html)
-
+  * [springboot 部署amazon例子集](https://www.youtube.com/results?search_query=springboot+%E9%83%A8%E7%BD%B2amazon)
 ## 11b SpringBoot项目部署在本地分布式环境中
   
 ---
