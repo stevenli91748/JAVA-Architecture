@@ -28,7 +28,7 @@
 * [Spring Cloud 微服务(五) 部署到AWS ECS](https://www.jianshu.com/p/1617d6948ee8)
 * [Spring Cloud 微服务(六) 服务消费Feign](https://www.jianshu.com/p/07303bc4b015)
 * [Spring Cloud 微服务 (遇到的问题汇总）](https://www.jianshu.com/p/2e2820269dd2)
-
+* [AWS 上的项目：将整体式应用程序拆分为微服务（使用 Amazon Elastic Container Service、Docker 和 Amazon EC2）](https://aws.amazon.com/cn/getting-started/hands-on/break-monolith-app-microservices-ecs-docker-ec2/)
 ---
 
 # 目录
