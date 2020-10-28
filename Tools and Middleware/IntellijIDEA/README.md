@@ -26,6 +26,10 @@
 * [IntelliJ IDEA 的配置](#IntelliJ-IDEA-的配置)
   * [IDEA的配置](#IDEA的配置)
     * [IntelliJ IDEA 相关核心文件和目录介绍](https://github.com/stevenli91748/IntelliJ-IDEA-Tutorial/blob/master/installation-directory-introduce.md)
+    * [IntelliJ IDEA 内存配置](#IntelliJ-IDEA-内存配置)
+      * [IntelliJ IDEA 修改内存大小，运行大项目再也不卡了](https://blog.csdn.net/ouyangguangfly/article/details/88951835?utm_source=app)
+      * [IDEA优化内存配置，可提高启动和运行速度](https://blog.csdn.net/Genius_in_the_left/article/details/95397777?utm_source=app)
+    * [IntelliJ IDEA的类注释和方法注释](https://blog.csdn.net/zeal9s/article/details/83514565?utm_source=app)
     * [IDEA 设置代码行宽度](#IDEA-设置代码行宽度)
     * [IDEA 提示不区分大小写](#IDEA-提示不区分大小写)
     * [自动编译](#自动编译)
@@ -143,7 +147,7 @@
   * [Intellij IDEA神器居然还有这些小技巧](http://blog.didispace.com/intellij-idea-some-features-sam-1/)
 
 # IntelliJ IDEA 的配置
-
+  * [IntelliJ IDEA 超全优化设置，效率杠杠的](https://zhuanlan.zhihu.com/p/267229254?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
 ## IDEA的配置
 
 ### IDEA 设置代码行宽度
