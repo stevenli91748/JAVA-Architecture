@@ -61,7 +61,7 @@
 # AWS
 
  * [在AWS上使用Jar格式的Spring-boot部署示例应用程序](https://riptutorial.com/zh-CN/spring-boot/example/21296/%E5%9C%A8aws%E4%B8%8A%E4%BD%BF%E7%94%A8jar%E6%A0%BC%E5%BC%8F%E7%9A%84spring-boot%E9%83%A8%E7%BD%B2%E7%A4%BA%E4%BE%8B%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F)
-
+ * [如何在AWS中部署Java Web应用程序？](https://www.cnblogs.com/it-deepinmind/p/13208164.html)
 
 ## 参考文章
 
