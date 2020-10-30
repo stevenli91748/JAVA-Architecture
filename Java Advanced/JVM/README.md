@@ -70,7 +70,21 @@
           *  老年代
           *  永久区（也就是方法区）
           *  堆中的类与对象
-      *  方法区
+          *  分析Java堆
+             * 内存溢出的原因
+               * 堆溢出
+               * 直接内存溢出
+               * 过多线程导致OOM
+               * 永久区溢出
+               * GC效率低下引起的OOM
+             * String在JVM中的实现
+               * String的内存泄漏
+               * String常量池的位置
+             * JVM的内窥镜：使用MAT分析JAVA堆
+               * 选堆对象：MAT对OQL的支持
+               * Visual VM 对OQL的支持
+ 
+       *  方法区
           *  类型的常量池
           *  代码
           *  方法数据
@@ -78,7 +92,7 @@
           *  方法和构造函数的字节码
           *  类 实例 接口初始化时用到的特殊方法
           *  code cache
-      *  性能监控数据区      
+       *  性能监控数据区      
       
           *  查看perdata
           
@@ -139,9 +153,17 @@
  *  Java与线程
  *  线程安全
  *  锁
-    *  内部锁
-    *  无锁的并行控制方法
- *  线程优化
+    * 偏向锁
+    * 轻量级锁
+    * 锁膨胀
+    * 自旋锁
+    * 锁消除
+ *  线程优化---锁在应用层的优化思路
+    * 减少锁持有时间
+    * 减少锁粒度
+    * 锁分离
+    * 锁粗化
+    * 无锁的并行控制方法
  *  同步
     * 同步指令
 
@@ -190,7 +212,11 @@
        * jcmd---多功能命令行
        * hprof---性能统计工具
      *  图形化JVM监控工具JConsole
+     *  JVM的内窥镜：使用MAT分析JAVA堆
+        * JVM的内窥镜：使用MAT分析JAVA堆
+        * 选堆对象：MAT对OQL的支持
      *  可视化性能监控工具Visual VM
+        * Visual VM 对OQL的支持
      *  虚拟机诊断工具Mission Control
      *  [HSDB(Hotspot Debugger)](https://liuzhengyang.github.io/2017/05/27/serviceabilityagent/ "HSDB可以查看Java对象的oops、查看类信息、线程栈信息、堆信息、方法字节码和JIT编译后的汇编代码等")
  
