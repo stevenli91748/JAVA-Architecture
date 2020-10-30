@@ -105,15 +105,15 @@
         *  CMS回收器
         *  G1回收器
   * 3.5  转存
-        *  核心转储
-        *  堆转储
-        *  线程转储
-        *  用VisualVM 进行转储分析
-        *  JVM Crash 日志的分析
-           *  头部信息
-           *  线程信息
-           *  进程信息
-           *  系统信息
+        * 核心转储
+        * 堆转储
+        * 线程转储
+        * 用VisualVM 进行转储分析
+        * JVM Crash 日志的分析
+          * 头部信息
+          * 线程信息
+          * 进程信息
+          * 系统信息
         
 # [4. 虚拟机字节码执行引擎](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E8%99%9A%E6%8B%9F%E6%9C%BA%E5%AD%97%E8%8A%82%E7%A0%81%E6%89%A7%E8%A1%8C%E5%BC%95%E6%93%8E.md)
    *  虚拟机指令集
@@ -137,7 +137,7 @@
     * 同步指令
 
 # 7. [JVM参数分析和调优](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/JVM%E5%8F%82%E6%95%B0%E5%88%86%E6%9E%90%E5%92%8C%E8%B0%83%E4%BC%98.md)
- 
+  
   *  常用Java虚拟机参数
      * 系统参数查看
      * 垃圾回收跟踪参数
