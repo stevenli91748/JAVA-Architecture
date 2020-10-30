@@ -137,7 +137,8 @@
     * 同步指令
 
 # 7. [JVM参数分析和调优](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/JVM%E5%8F%82%E6%95%B0%E5%88%86%E6%9E%90%E5%92%8C%E8%B0%83%E4%BC%98.md)
-  
+  *  [JVM各类参数官方文档](https://docs.oracle.com/javase/8/docs/technotes/tools/windows/java.html#BABCBGHF)
+  *  [JVM实用参数教程系列---重要](http://ifeve.com/useful-jvm-flags/)
   *  常用Java虚拟机参数
      * 系统参数查看
      * 垃圾回收跟踪参数
@@ -152,7 +153,7 @@
        * 栈的设置参数
        * 直接内存的设置参数
        
-     [JVM实用参数系列](http://ifeve.com/useful-jvm-flags/)
+     
 
 # 8. [虚拟机监控工具](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E8%99%9A%E6%8B%9F%E6%9C%BA%E7%9B%91%E6%8E%A7%E5%B7%A5%E5%85%B7.md)
  *   系统级性能监控工具
