@@ -15,132 +15,128 @@
 
 # [0. 初识JVM](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E5%88%9D%E8%AF%86JVM.md)
 
-  *  java虚拟机的规范
-  *  虚拟机的启动
+  * java虚拟机的规范
+  * 虚拟机的启动
   
 # [1. 程序编译与代码优化](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E7%A8%8B%E5%BA%8F%E7%BC%96%E8%AF%91%E4%B8%8E%E4%BB%A3%E7%A0%81%E4%BC%98%E5%8C%96.md)
 
- *  早期优化（编译期）
-    * 虚拟机编译器
+ * 早期优化（编译期）
+   * 虚拟机编译器
     
- *  晚期优化（运行期）
+ * 晚期优化（运行期）
 
 # [2. 虚拟机执行子系统](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E8%99%9A%E6%8B%9F%E6%9C%BA%E6%89%A7%E8%A1%8C%E5%AD%90%E7%B3%BB%E7%BB%9F.md)
 
 ##  [虚拟机字节码执行引擎](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E8%99%9A%E6%8B%9F%E6%9C%BA%E5%AD%97%E8%8A%82%E7%A0%81%E6%89%A7%E8%A1%8C%E5%BC%95%E6%93%8E.md)
 
- *  [类文件结构(ClassFile)](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E8%99%9A%E6%8B%9F%E6%9C%BA%E6%89%A7%E8%A1%8C%E5%AD%90%E7%B3%BB%E7%BB%9F.md#类文件结构(ClassFile))
-    *  [数据类型](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E8%99%9A%E6%8B%9F%E6%9C%BA%E6%89%A7%E8%A1%8C%E5%AD%90%E7%B3%BB%E7%BB%9F.md#数据类型)
-    *  [类文件格式](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E8%99%9A%E6%8B%9F%E6%9C%BA%E6%89%A7%E8%A1%8C%E5%AD%90%E7%B3%BB%E7%BB%9F.md#类文件格式)
+ * [类文件结构(ClassFile)](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E8%99%9A%E6%8B%9F%E6%9C%BA%E6%89%A7%E8%A1%8C%E5%AD%90%E7%B3%BB%E7%BB%9F.md#类文件结构(ClassFile))
+   * [数据类型](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E8%99%9A%E6%8B%9F%E6%9C%BA%E6%89%A7%E8%A1%8C%E5%AD%90%E7%B3%BB%E7%BB%9F.md#数据类型)
+   * [类文件格式](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E8%99%9A%E6%8B%9F%E6%9C%BA%E6%89%A7%E8%A1%8C%E5%AD%90%E7%B3%BB%E7%BB%9F.md#类文件格式)
     
- *  [虚拟机类的加载机制(ClassLoader)](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E8%99%9A%E6%8B%9F%E6%9C%BA%E6%89%A7%E8%A1%8C%E5%AD%90%E7%B3%BB%E7%BB%9F.md#虚拟机类的加载机制(ClassLoader))
-    * [类的加载时机](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E8%99%9A%E6%8B%9F%E6%9C%BA%E6%89%A7%E8%A1%8C%E5%AD%90%E7%B3%BB%E7%BB%9F.md#类的加载时机)
-    * [加载，链接与初始化](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E8%99%9A%E6%8B%9F%E6%9C%BA%E6%89%A7%E8%A1%8C%E5%AD%90%E7%B3%BB%E7%BB%9F.md#虚拟机类的加载机制(ClassLoader))
-      * [加载](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E8%99%9A%E6%8B%9F%E6%9C%BA%E6%89%A7%E8%A1%8C%E5%AD%90%E7%B3%BB%E7%BB%9F.md#加载)
-      * [链接](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E8%99%9A%E6%8B%9F%E6%9C%BA%E6%89%A7%E8%A1%8C%E5%AD%90%E7%B3%BB%E7%BB%9F.md#链接)
-      * [初始化](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E8%99%9A%E6%8B%9F%E6%9C%BA%E6%89%A7%E8%A1%8C%E5%AD%90%E7%B3%BB%E7%BB%9F.md#初始化)
-    * [类加载器](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E8%99%9A%E6%8B%9F%E6%9C%BA%E6%89%A7%E8%A1%8C%E5%AD%90%E7%B3%BB%E7%BB%9F.md#类加载器)
-    * 类在内存中存放的地方---方法区
-    * [对象探秘](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E8%99%9A%E6%8B%9F%E6%9C%BA%E6%89%A7%E8%A1%8C%E5%AD%90%E7%B3%BB%E7%BB%9F.md#对象探秘)
-      * [对象的创建](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E8%99%9A%E6%8B%9F%E6%9C%BA%E6%89%A7%E8%A1%8C%E5%AD%90%E7%B3%BB%E7%BB%9F.md#对象的创建)
-      * [对象的内存布局](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E8%99%9A%E6%8B%9F%E6%9C%BA%E6%89%A7%E8%A1%8C%E5%AD%90%E7%B3%BB%E7%BB%9F.md#对象的内存布局)
-      * [对象的访问定位](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E8%99%9A%E6%8B%9F%E6%9C%BA%E6%89%A7%E8%A1%8C%E5%AD%90%E7%B3%BB%E7%BB%9F.md#对象的访问定位)
-    * 函数如何调用
-      * 局部变量表
-      * 操作数栈
-      * 帧数据区
-      * 栈上分配
+ * [虚拟机类的加载机制(ClassLoader)](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E8%99%9A%E6%8B%9F%E6%9C%BA%E6%89%A7%E8%A1%8C%E5%AD%90%E7%B3%BB%E7%BB%9F.md#虚拟机类的加载机制(ClassLoader))
+   * [类的加载时机](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E8%99%9A%E6%8B%9F%E6%9C%BA%E6%89%A7%E8%A1%8C%E5%AD%90%E7%B3%BB%E7%BB%9F.md#类的加载时机)
+   * [加载，链接与初始化](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E8%99%9A%E6%8B%9F%E6%9C%BA%E6%89%A7%E8%A1%8C%E5%AD%90%E7%B3%BB%E7%BB%9F.md#虚拟机类的加载机制(ClassLoader))
+     * [加载](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E8%99%9A%E6%8B%9F%E6%9C%BA%E6%89%A7%E8%A1%8C%E5%AD%90%E7%B3%BB%E7%BB%9F.md#加载)
+     * [链接](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E8%99%9A%E6%8B%9F%E6%9C%BA%E6%89%A7%E8%A1%8C%E5%AD%90%E7%B3%BB%E7%BB%9F.md#链接)
+     * [初始化](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E8%99%9A%E6%8B%9F%E6%9C%BA%E6%89%A7%E8%A1%8C%E5%AD%90%E7%B3%BB%E7%BB%9F.md#初始化)
+   * [类加载器](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E8%99%9A%E6%8B%9F%E6%9C%BA%E6%89%A7%E8%A1%8C%E5%AD%90%E7%B3%BB%E7%BB%9F.md#类加载器)
+   * 类在内存中存放的地方---方法区
+   * [对象探秘](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E8%99%9A%E6%8B%9F%E6%9C%BA%E6%89%A7%E8%A1%8C%E5%AD%90%E7%B3%BB%E7%BB%9F.md#对象探秘)
+     * [对象的创建](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E8%99%9A%E6%8B%9F%E6%9C%BA%E6%89%A7%E8%A1%8C%E5%AD%90%E7%B3%BB%E7%BB%9F.md#对象的创建)
+     * [对象的内存布局](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E8%99%9A%E6%8B%9F%E6%9C%BA%E6%89%A7%E8%A1%8C%E5%AD%90%E7%B3%BB%E7%BB%9F.md#对象的内存布局)
+     * [对象的访问定位](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E8%99%9A%E6%8B%9F%E6%9C%BA%E6%89%A7%E8%A1%8C%E5%AD%90%E7%B3%BB%E7%BB%9F.md#对象的访问定位)
+   * 函数如何调用
+     * 局部变量表
+     * 操作数栈
+     * 帧数据区
+     * 栈上分配
  * 字节码执行   
-   *  字节码如何执行
-   *  虚拟机指令集
-      * 常量入栈
-      * 局部变量压栈指令
-      * 出栈装入局部变量表
-      * 通用型操作
-      * 类型转换
-      * 运算
-      * 对象/数组操作
-      * 比较控制
-      * 函数调用与返回
-      * 同步控制
-      * Class的方法结构
-   *  操作码助记符
-   *  Java执行引擎工作原理 ---方法调用
-   *  java Agent运行时修改类
-   *  动态函数调用
-   *  静态编译优化
-   *  
-
-
+   * 字节码如何执行
+   * 虚拟机指令集
+     * 常量入栈
+     * 局部变量压栈指令
+     * 出栈装入局部变量表
+     * 通用型操作
+     * 类型转换
+     * 运算
+     * 对象/数组操作
+     * 比较控制
+     * 函数调用与返回
+     * 同步控制
+     * Class的方法结构
+   * 操作码助记符
+   * Java执行引擎工作原理 ---方法调用
+   * java Agent运行时修改类
+   * 动态函数调用
+   * 静态编译优化
 
 # [3. 自动内存管理机制](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E8%87%AA%E5%8A%A8%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%E6%9C%BA%E5%88%B6.md)
 
 * [JAVA堆外内存排查小结](https://juejin.im/post/5ca095ea6fb9a05e42555a3e)
 
- *  3.1  虚拟机运行时内存数据区
-  * 3.1.1  内存公有区域
-       *  Java堆 (heap)
-          *  新生代
-          *  老年代
-          *  永久区（也就是方法区）
-          *  堆中的类与对象
-          *  分析Java堆
-             * 内存溢出的原因
-               * 堆溢出
-               * 直接内存溢出
-               * 过多线程导致OOM
-               * 永久区溢出
-               * GC效率低下引起的OOM
-             * String在JVM中的实现
-               * String的内存泄漏
-               * String常量池的位置
-             * JVM的内窥镜：使用MAT分析JAVA堆
-               * 选堆对象：MAT对OQL的支持
-               * Visual VM 对OQL的支持
-        *  方法区
-          *  类型的常量池
-          *  代码
-          *  方法数据
-          *  字段
-          *  方法和构造函数的字节码
-          *  类 实例 接口初始化时用到的特殊方法
-          *  code cache
-       *  性能监控数据区      
-           *  查看perdata
-   * 3.1.2  线程私有区域
-      *  程序计数器 (PC)
-      *  Java虚拟机栈 (Stack)
-          *  Java 栈帧
-             *  局部变量表
-                *  方法参数
-             *  操作数栈
-             *  常量池指针
-             *  方法索引(Method Index)
-             *  Class File(类)
-             *  父帧(Return Frame)
-             *  子帧(next Frame)
-             *  动态连接
-             *  方法调用正常完成
-             *  方法调用异常完成             
-             *  栈顶缓存
- *  3.1.3  直接内存     
- *  3.2 Hotspot虚拟机对象探秘 
- *  3.3 垃圾收集器与内存分配策略
-     *  垃圾回收的算法
-        *  引用计数(Reference Counting)
-        *  标记清除(Mark-Sweep)
-        *  标记压缩(Mark-Compact)
-        *  复制算法(Copying)
-        *  分代算法(Generational Collecting)
-        *  分区算法(Region)
-     *  垃圾收集器
-        *  串行回收器
-        *  并行回收器
-        *  CMS回收器
-        *  G1回收器
-     *  内存分配与回收策略   
-  * 3.5  转存
-  
+ * 3.1 虚拟机运行时内存数据区
+   * 3.1.1 内存公有区域
+       * Java堆 (heap)
+         *  新生代
+         *  老年代
+         *  永久区（也就是方法区）
+         *  堆中的类与对象
+         *  分析Java堆
+            * 内存溢出的原因
+              * 堆溢出
+              * 直接内存溢出
+              * 过多线程导致OOM
+              * 永久区溢出
+              * GC效率低下引起的OOM
+            * String在JVM中的实现
+              * String的内存泄漏
+              * String常量池的位置
+            * JVM的内窥镜：使用MAT分析JAVA堆
+              * 选堆对象：MAT对OQL的支持
+              * Visual VM 对OQL的支持
+       * 方法区
+          * 类型的常量池
+          * 代码
+          * 方法数据
+          * 字段
+          * 方法和构造函数的字节码
+          * 类 实例 接口初始化时用到的特殊方法
+          * code cache
+       * 性能监控数据区      
+          * 查看perdata
+   * 3.1.2 线程私有区域
+     * 程序计数器 (PC)
+     * Java虚拟机栈 (Stack)
+       *  Java 栈帧
+          * 局部变量表
+             * 方法参数
+          * 操作数栈
+          * 常量池指针
+          * 方法索引(Method Index)
+          * Class File(类)
+          * 父帧(Return Frame)
+          * 子帧(next Frame)
+          * 动态连接
+          * 方法调用正常完成
+          * 方法调用异常完成             
+          * 栈顶缓存
+   * 3.1.3 直接内存     
+ * 3.2 Hotspot虚拟机对象探秘 
+ * 3.3 垃圾收集器与内存分配策略
+       * 垃圾回收的算法
+         * 引用计数(Reference Counting)
+         * 标记清除(Mark-Sweep)
+         * 标记压缩(Mark-Compact)
+         * 复制算法(Copying)
+         * 分代算法(Generational Collecting)
+         * 分区算法(Region)
+       * 垃圾收集器
+         *  串行回收器
+         *  并行回收器
+         *  CMS回收器
+         *  G1回收器
+       *  内存分配与回收策略   
+ * 3.4 转存
        * 核心转储
        * 堆转储
        * 线程转储
@@ -150,32 +146,27 @@
          * 线程信息
          * 进程信息
          * 系统信息
-  * 3.6 JVM内存管理实验 
-       * 垃圾回收时的停顿现象
-       * 垃圾收集器对Tomcat性能的影响
-
 # 6. [高效并发](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E9%AB%98%E6%95%88%E5%B9%B6%E5%8F%91.md)
-
- *  Java 内存模型
- *  现代Java/JDK 并发模型
-    *  基于角色的并发模型
- *  软件事务内存
- *  Java与线程
- *  线程安全
- *  锁
-    * 偏向锁
-    * 轻量级锁
-    * 锁膨胀
-    * 自旋锁
-    * 锁消除
- *  线程优化---锁在应用层的优化思路
-    * 减少锁持有时间
-    * 减少锁粒度
-    * 锁分离
-    * 锁粗化
-    * 无锁的并行控制方法
- *  同步
-    * 同步指令
+ * Java 内存模型
+ * 现代Java/JDK 并发模型
+   *  基于角色的并发模型
+ * 软件事务内存
+ * Java与线程
+ * 线程安全
+ * 锁
+   * 偏向锁
+   * 轻量级锁
+   * 锁膨胀
+   * 自旋锁
+   * 锁消除
+ * 线程优化---锁在应用层的优化思路
+   * 减少锁持有时间
+   * 减少锁粒度
+   * 锁分离
+   * 锁粗化
+   * 无锁的并行控制方法
+ * 同步
+   * 同步指令
 
 # 7. [JVM参数分析和调优](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/JVM%E5%8F%82%E6%95%B0%E5%88%86%E6%9E%90%E5%92%8C%E8%B0%83%E4%BC%98.md)
   *  [JVM各类参数官方文档](https://docs.oracle.com/javase/8/docs/technotes/tools/windows/java.html#BABCBGHF)
