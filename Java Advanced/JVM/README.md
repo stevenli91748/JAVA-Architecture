@@ -137,15 +137,15 @@
          *  G1回收器
       *  内存分配与回收策略   
  * 3.4 转存
-       * 核心转储
-       * 堆转储
-       * 线程转储
-       * 用VisualVM 进行转储分析
-       * JVM Crash 日志的分析
-         * 头部信息
-         * 线程信息
-         * 进程信息
-         * 系统信息
+      * 核心转储
+      * 堆转储
+      * 线程转储
+      * 用VisualVM 进行转储分析
+      * JVM Crash 日志的分析
+        * 头部信息
+        * 线程信息
+        * 进程信息
+        * 系统信息
 # 6. [高效并发](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E9%AB%98%E6%95%88%E5%B9%B6%E5%8F%91.md)
  * Java 内存模型
  * 现代Java/JDK 并发模型
