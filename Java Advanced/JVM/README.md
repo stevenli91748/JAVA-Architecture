@@ -75,8 +75,6 @@
 
 # [3. 自动内存管理机制](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E8%87%AA%E5%8A%A8%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%E6%9C%BA%E5%88%B6.md)
 
-* [一图解千愁，jvm内存从来没有这么简单过！---了解了这张图，会让你对JVM内存的划分有更深入的理解，而不仅限于什么虚拟机栈、程序计数器等比较浅显的认知](https://juejin.im/post/5ed49e7c51882543012f9e6c)
-
 * [JAVA堆外内存排查小结](https://juejin.im/post/5ca095ea6fb9a05e42555a3e)
 
  *  3.1  虚拟机运行时内存数据区
