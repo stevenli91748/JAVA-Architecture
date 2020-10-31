@@ -18,8 +18,6 @@
   *  java虚拟机的规范
   *  虚拟机的启动
   
-
-
 # [1. 程序编译与代码优化](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E7%A8%8B%E5%BA%8F%E7%BC%96%E8%AF%91%E4%B8%8E%E4%BB%A3%E7%A0%81%E4%BC%98%E5%8C%96.md)
 
  *  早期优化（编译期）
@@ -129,8 +127,6 @@
         *  并行回收器
         *  CMS回收器
         *  G1回收器
-     *  垃圾回收时的停顿现象
-     *  垃圾收集器对Tomcat性能的影响
   * 3.5  转存
         * 核心转储
         * 堆转储
@@ -141,7 +137,10 @@
           * 线程信息
           * 进程信息
           * 系统信息
-        
+  * 3.6 JVM内存管理实验 
+        * 垃圾回收时的停顿现象
+        * 垃圾收集器对Tomcat性能的影响
+
  
 
 # 6. [高效并发](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E9%AB%98%E6%95%88%E5%B9%B6%E5%8F%91.md)
@@ -184,8 +183,7 @@
        * 方法区的设置参数
        * 栈的设置参数
        * 直接内存的设置参数
-       
-     
+  *  JVM参数实验  
 
 # 8. [虚拟机监控工具](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E8%99%9A%E6%8B%9F%E6%9C%BA%E7%9B%91%E6%8E%A7%E5%B7%A5%E5%85%B7.md)
  *   系统级性能监控工具
