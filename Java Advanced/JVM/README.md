@@ -114,7 +114,7 @@
               * 选堆对象：MAT对OQL的支持
               * Visual VM 对OQL的支持
        * 方法区
-          * 类型的常量池
+          * 运行时的常量池
           * 代码
           * 方法数据
           * 字段
@@ -151,11 +151,17 @@
         * 分代算法(Generational Collecting)
         * 分区算法(Region)
       * 垃圾收集器
-         * 串行回收器
-         * 并行回收器
-         * CMS回收器
-         * G1回收器
-      *  内存分配与回收策略   
+        * 串行回收器
+          * Serial收集器
+          * Serial Old收集器
+        * 并行回收器
+          * ParNew收集器
+          * Parallel Scavenge收集器
+          * Parallel Old收集器
+        * CMS回收器
+        * G1回收器
+        * 理接GC日志
+      * 内存分配与回收策略 
  * 3.4 转存
       * 核心转储
       * 堆转储
