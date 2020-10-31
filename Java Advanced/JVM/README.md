@@ -9,8 +9,8 @@
 <a href="https://ibb.co/HtT9bJ1"><img src="https://i.ibb.co/jykjQpB/jvm20190508233557662.png" alt="jvm20190508233557662" border="0"></a>
 
 
-[精尽 Java【虚拟机】学习指南](http://svip.iocoder.cn/Java/VirtualMachine/tutorials/)|
----|
+[精尽 Java【虚拟机】学习指南](http://svip.iocoder.cn/Java/VirtualMachine/tutorials/)|[JVM实验例子]()|
+---|---|
 
 
 # [0. 初识JVM](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E5%88%9D%E8%AF%86JVM.md)
@@ -71,6 +71,8 @@
    *  静态编译优化
    *  
 
+
+
 # [3. 自动内存管理机制](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E8%87%AA%E5%8A%A8%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%E6%9C%BA%E5%88%B6.md)
 
 * [一图解千愁，jvm内存从来没有这么简单过！---了解了这张图，会让你对JVM内存的划分有更深入的理解，而不仅限于什么虚拟机栈、程序计数器等比较浅显的认知](https://juejin.im/post/5ed49e7c51882543012f9e6c)
@@ -99,7 +101,6 @@
                * Visual VM 对OQL的支持
         *  方法区
           *  类型的常量池
-          * 
           *  代码
           *  方法数据
           *  字段
@@ -108,9 +109,6 @@
           *  code cache
        *  性能监控数据区      
            *  查看perdata
-              * 描述这段空间 PerfMemory
-              * 查看
-              * 生产
    * 3.1.2  线程私有区域
       *  程序计数器 (PC)
       *  Java虚拟机栈 (Stack)
