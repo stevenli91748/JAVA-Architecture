@@ -226,7 +226,7 @@
   * [这可能是B站唯一可以讲JVM内存模型的底层源码教程](https://www.bilibili.com/video/BV1BT4y1G73q?p=1)
   * [JVM成神之路-Java系列课](https://www.bilibili.com/video/BV1Cb411t7oP/?spm_id_from=333.788.videocard.9)
   * [尚硅谷_JVM从入门到精通](https://www.bilibili.com/video/BV1BJ41177cp/?spm_id_from=333.788.videocard.7)
-  * [深入理解Java虚拟机（JVM性能调优+内存模型+虚拟机原理）](https://www.bilibili.com/video/av29502877/?spm_id_from=333.788.videocard.0)
+  * [深入理解Java虚拟机（JVM性能调优+内存模型+虚拟机原理）](https://www.bilibili.com/video/av29502877/?spm_id_from=333.788.videocard.0)按照 《深入理解Java虚拟机：JVM高级特性与最佳实践(第2版) 》 来讲的
   * [Java高并发编程精髓Java内存模型JMM详解全集](https://www.bilibili.com/video/av59871562/?spm_id_from=333.788.videocard.3)
   * [百万年薪架构师带你了解--Java内存模型JMM与AQS同步器深入剖析](https://www.bilibili.com/video/av69537976/?spm_id_from=333.788.videocard.5)
   * [吊打面试官系列-史上最详细JVM虚拟机精讲](https://www.bilibili.com/video/av58325052)
