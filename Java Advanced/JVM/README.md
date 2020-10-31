@@ -88,11 +88,9 @@
    * java Agent运行时修改类
    * 动态函数调用
    * 静态编译优化
-
 # [3. 自动内存管理机制](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E8%87%AA%E5%8A%A8%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%E6%9C%BA%E5%88%B6.md)
 
-* [JAVA堆外内存排查小结](https://juejin.im/post/5ca095ea6fb9a05e42555a3e)
-
+ * [JAVA堆外内存排查小结](https://juejin.im/post/5ca095ea6fb9a05e42555a3e)
  * 3.1 虚拟机运行时内存数据区
    * 3.1.1 内存公有区域
        * Java堆 (heap)
@@ -139,7 +137,6 @@
          * 方法调用正常完成
          * 方法调用异常完成             
          * 栈顶缓存
-       *   
    * 3.1.3 直接内存     
    * 3.1.4 Hotspot虚拟机对象探秘 
  * 3.2 垃圾收集器与内存分配策略
@@ -193,7 +190,6 @@
    * 无锁的并行控制方法
  * 同步
    * 同步指令
-
 # 7. [JVM参数分析和调优](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/JVM%E5%8F%82%E6%95%B0%E5%88%86%E6%9E%90%E5%92%8C%E8%B0%83%E4%BC%98.md)
   *  [JVM各类参数官方文档](https://docs.oracle.com/javase/8/docs/technotes/tools/windows/java.html#BABCBGHF)
   *  [JVM实用参数教程系列---重要](http://ifeve.com/useful-jvm-flags/)
@@ -218,8 +214,6 @@
        * 方法区的设置参数
        * 栈的设置参数
        * 直接内存的设置参数
-  *  JVM参数实验  
-
 # 8. [虚拟机监控工具](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E8%99%9A%E6%8B%9F%E6%9C%BA%E7%9B%91%E6%8E%A7%E5%B7%A5%E5%85%B7.md)
  *   系统级性能监控工具
      *  Linux下的性能监控工具
