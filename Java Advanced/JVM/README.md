@@ -9,7 +9,7 @@
 <a href="https://ibb.co/HtT9bJ1"><img src="https://i.ibb.co/jykjQpB/jvm20190508233557662.png" alt="jvm20190508233557662" border="0"></a>
 
 
-[精尽 Java【虚拟机】学习指南](http://svip.iocoder.cn/Java/VirtualMachine/tutorials/)|[JVM实验例子](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/JVM%E5%AE%9E%E9%AA%8C%E4%BE%8B%E5%AD%90/README.md)|
+[精尽 Java【虚拟机】学习指南](http://svip.iocoder.cn/Java/VirtualMachine/tutorials/)|[JVM实验例子]()|
 ---|---|
 
 
@@ -19,11 +19,12 @@
   * 虚拟机的启动
   
 # [1. 程序编译与代码优化](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E7%A8%8B%E5%BA%8F%E7%BC%96%E8%AF%91%E4%B8%8E%E4%BB%A3%E7%A0%81%E4%BC%98%E5%8C%96.md)
-
- * 早期优化（编译期）
-   * 虚拟机编译器
-    
- * 晚期优化（运行期）
+ * 解析器
+ * 即时编译器
+   * 编译器原理
+   * 编译器的基本结构
+   * 早期优化（编译期）
+   * 晚期优化（运行期）
 
 # [2. 虚拟机执行子系统](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E8%99%9A%E6%8B%9F%E6%9C%BA%E6%89%A7%E8%A1%8C%E5%AD%90%E7%B3%BB%E7%BB%9F.md)
 
@@ -53,15 +54,33 @@
  * 字节码执行   
    * 字节码如何执行
    * 虚拟机指令集
-     * 常量入栈
-     * 局部变量压栈指令
-     * 出栈装入局部变量表
+     * 数据传送
+       * 局部变量 常量池和操作数栈之间的数据传送
+       * 数据传送指令
+       * 常量入栈
+       * 局部变量压栈指令
+       * 出栈装入局部变量表
      * 通用型操作
      * 类型转换
+     * 对象的创建和操作
+     * 程序流程控制
+       * 控制转移指令
+       * 条件转移指令
+       * 无条件转移指令
+       * 复合条件转移指令
      * 运算
-     * 对象/数组操作
-     * 比较控制
+       * 加法
+       * 取负
      * 函数调用与返回
+       * 函数分发机制
+       * invoke
+       * 动态分发：覆盖
+       * 静态分发：重载
+     * 异常
+       * 异常表
+       * 创建异常
+       * try-catch
+       * finally
      * 同步控制
      * Class的方法结构
    * 操作码助记符
@@ -105,24 +124,25 @@
        * 性能监控数据区      
           * 查看perdata
    * 3.1.2 线程私有区域
-     * 程序计数器 (PC)
-     * Java虚拟机栈 (Stack)
-       *  Java 栈帧
-          * 局部变量表
+       * 程序计数器 (PC)
+       * Java虚拟机栈 (Stack)
+         * Java 栈帧
+         * 局部变量表
              * 方法参数
-          * 操作数栈
-          * 常量池指针
-          * 方法索引(Method Index)
-          * Class File(类)
-          * 父帧(Return Frame)
-          * 子帧(next Frame)
-          * 动态连接
-          * 方法调用正常完成
-          * 方法调用异常完成             
-          * 栈顶缓存
+         * 操作数栈
+         * 常量池指针
+         * 方法索引(Method Index)
+         * Class File(类)
+         * 父帧(Return Frame)
+         * 子帧(next Frame)
+         * 动态连接
+         * 方法调用正常完成
+         * 方法调用异常完成             
+         * 栈顶缓存
+       *   
    * 3.1.3 直接内存     
- * 3.2 Hotspot虚拟机对象探秘 
- * 3.3 垃圾收集器与内存分配策略
+   * 3.1.4 Hotspot虚拟机对象探秘 
+ * 3.2 垃圾收集器与内存分配策略
       * 垃圾回收的算法
         * 引用计数(Reference Counting)
         * 标记清除(Mark-Sweep)
@@ -131,10 +151,10 @@
         * 分代算法(Generational Collecting)
         * 分区算法(Region)
       * 垃圾收集器
-         *  串行回收器
-         *  并行回收器
-         *  CMS回收器
-         *  G1回收器
+         * 串行回收器
+         * 并行回收器
+         * CMS回收器
+         * G1回收器
       *  内存分配与回收策略   
  * 3.4 转存
       * 核心转储
