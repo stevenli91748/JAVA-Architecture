@@ -19,12 +19,15 @@
   * 虚拟机的启动
   
 # [1. 程序编译与代码优化](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E7%A8%8B%E5%BA%8F%E7%BC%96%E8%AF%91%E4%B8%8E%E4%BB%A3%E7%A0%81%E4%BC%98%E5%8C%96.md)
- * 解析器
- * 即时编译器
+  
+  * 编译器
    * 编译器原理
    * 编译器的基本结构
-   * 早期优化（编译期）
-   * 晚期优化（运行期）
+   * 编译器的分类---Java 中即时编译器(JIT)在运行期的优化过程对于程序运行来说更重要， 而前端编译器(ECJ)在编译期的优化过程对于程序编码来说关系更加密切.
+     * 前端编译器(ECJ)---早期优化（编译期），把.java 文件转变成.class 文件的过程
+     * 后端运行期编译器(JIT)---晚期优化（运行期），把字节码转变成机器码的过程
+     * 静态提前编译器(AOT)---直接把.java文件编译成本地机器代码的过程
+  * 解析器 
 
 # [2. 虚拟机执行子系统](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E8%99%9A%E6%8B%9F%E6%9C%BA%E6%89%A7%E8%A1%8C%E5%AD%90%E7%B3%BB%E7%BB%9F.md)
 
