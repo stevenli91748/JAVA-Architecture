@@ -173,7 +173,7 @@
         * 进程信息
         * 系统信息
 # 6. [高效并发](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E9%AB%98%E6%95%88%E5%B9%B6%E5%8F%91.md)
- * Java 内存模型
+ * [Java 内存模型](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/Java%20%E5%86%85%E5%AD%98%E6%A8%A1%E5%9E%8B.md)
  * 现代Java/JDK 并发模型
    *  基于角色的并发模型
  * 软件事务内存
