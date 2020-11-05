@@ -1,5 +1,8 @@
 # @Autowired
 
+[@Autowired 与@Resource的区别（详细）](https://blog.csdn.net/weixin_40423597/article/details/80643990)
+
+
 这个注解就是spring可以自动帮你把bean里面引用的对象的setter/getter方法省略，它会自动帮你set/get。
 
 <property name="userDao">
