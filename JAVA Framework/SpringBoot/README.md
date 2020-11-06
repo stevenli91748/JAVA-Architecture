@@ -6,6 +6,9 @@
 [程序猿DD---非常好](http://blog.didispace.com/)|[ 芋道源码------非常好](http://www.iocoder.cn/)|[猿码架构](https://www.jianshu.com/u/657c611b2e07)|[周立的博客](http://itmuch.com/)|[My bird](https://mrbird.cc/archives/)|
 ---|---|---|---|---|
 
+[纯洁的微笑---Spring Boot](http://www.ityouknow.com/spring-boot.html)|
+---|
+
 [精尽 Spring Boot 学习指南](http://svip.iocoder.cn/Spring-Boot/tutorials/)|[springboot系列之02-需要了解的宏观知识点](http://www.zimug.com/java/spring/springboot%e7%b3%bb%e5%88%97%e4%b9%8b02-%e9%9c%80%e8%a6%81%e4%ba%86%e8%a7%a3%e7%9a%84%e5%ae%8f%e8%a7%82%e7%9f%a5%e8%af%86%e7%82%b9/.html)|
 ---|---|
 
@@ -456,7 +459,6 @@ Spring Boot 并不是用来替代 Spring 的解决方案，而是和 Spring 框�
   * [Spring和SpringBoot比较，解惑区别](https://blog.csdn.net/weixin_43770982/article/details/88977526?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task)
   * [Spring Boot面试题（2020最新版）](https://blog.csdn.net/ThinkWon/article/details/104397299)
   * [Spring Boot 学习资料汇总](http://www.ityouknow.com/springboot/2015/12/30/springboot-collect.html)
-  * [纯洁的微笑---Spring Boot](http://www.ityouknow.com/spring-boot.html)
   * [Springboot项目搭建（前端到数据库，超详细）](https://blog.csdn.net/sunnyzyq/article/details/86711708?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task)
   * [Spring Boot 学习Sample](https://github.com/ityouknow/spring-boot-examples)
   * [构建微服务：Spring boot 入门篇系列--能够系统性的学习](https://www.cnblogs.com/ityouknow/p/5662753.html)
