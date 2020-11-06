@@ -380,14 +380,15 @@ VisualVM分析工具|[Jenkins](https://github.com/stevenli91748/JAVA-Architectur
 [Kafka](https://github.com/stevenli91748/Message-Server-System/tree/master/Kafka)|[Hive](https://github.com/stevenli91748/Big-Data/blob/master/Hive/README.md)|[Spark](https://github.com/stevenli91748/Big-Data/blob/master/Spark/README.md)|[Hadoop](https://github.com/stevenli91748/Big-Data/blob/master/Hadoop/README.md)|[Kubernetes](https://github.com/stevenli91748/Big-Data/blob/master/Kubernetes/README.md)|[Netty](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Netty/README.md)|[Solr](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/solr/README.md)|[Haproxy](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Haproxy/README.md)|
 ---|---|---|---|---|---|---|---|
 
-[Log4j日志文件](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/log4j日志文件/README.md)|[FastDFS](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/FastDFS/README.md)|[模板引擎](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/%E6%A8%A1%E6%9D%BF%E5%BC%95%E6%93%8E/README.md)|
----|---|---|
-
-[Shiro---安全架构](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Security/shiro.md)|[Activiti工作流引擎](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Activiti%E5%B7%A5%E4%BD%9C%E6%B5%81%E5%BC%95%E6%93%8E/README.md)|
----|---|
+[Log4j日志文件](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/log4j日志文件/README.md)|[FastDFS](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/FastDFS/README.md)|[模板引擎](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/%E6%A8%A1%E6%9D%BF%E5%BC%95%E6%93%8E/README.md)|[Shiro---安全架构](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Security/shiro.md)|[Activiti工作流引擎](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Activiti%E5%B7%A5%E4%BD%9C%E6%B5%81%E5%BC%95%E6%93%8E/README.md)|
+---|---|---|---|---|
 
 [任务调度](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E4%BB%BB%E5%8A%A1%E8%B0%83%E5%BA%A6/README.md)|
 ---|
+
+[Java 链式编程 和 lombok 实现链式编程](https://blog.csdn.net/xiaojin21cen/article/details/83478929)|
+---|
+
 
 # [第六阶段   互联网架构篇](https://github.com/stevenli91748/JAVA-Architecture/blob/master/internet%20architecture/README.md)
 
