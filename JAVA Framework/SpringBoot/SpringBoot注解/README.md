@@ -20,6 +20,10 @@
 [Spring Core Annotations](https://www.baeldung.com/spring-core-annotations)|[Spring Web Annotations](https://www.baeldung.com/spring-mvc-annotations)|[Spring Boot Annotations](https://www.baeldung.com/spring-boot-annotations)|[Spring Scheduling Annotations](https://www.baeldung.com/spring-scheduling-annotations)|
 ---|---|---|---|
 
+[Spring Data Annotations](https://www.baeldung.com/spring-data-annotations)|[Spring Bean Annotations](https://www.baeldung.com/spring-bean-annotations)|
+---|---|
+
+
 # Spring Boot的注解
 [@SpringBootApplication](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%E6%B3%A8%E8%A7%A3/%40SpringBootApplication.md)|[@SpringBootConfiguration](https://github.com/stevenli91748/JAVA-Architecture/tree/master/JAVA%20Framework/SpringBoot/SpringBoot注解)|[@EnableAutoConfiguration](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%E6%B3%A8%E8%A7%A3/%40EnableAutoConfiguratio.md)|
 ---|---|---|
