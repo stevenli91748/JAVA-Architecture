@@ -19,6 +19,11 @@
 [【项目实战】Spring Cloud 微服务权限系统搭建教程---手把手教你从零搭建到Docker部署（新增K8S集群部署教程）](https://www.kancloud.cn/mrbird/spring-cloud/1263681)|
 ---|
 
+[微服务多租户系统后台管理系统---基于SpringBoot2.x、SpringCloud和SpringCloudAlibaba并采用前后端分离的企业级微服务多租户系统架构](https://gitee.com/zlt2000/microservices-platform)|
+---|
+
+
+
 # Spring Cloud项目部署到AWS的例子
 
 * [Spring Cloud 微服务(一) 什么是微服务](https://www.jianshu.com/p/2ba8c687d835)
