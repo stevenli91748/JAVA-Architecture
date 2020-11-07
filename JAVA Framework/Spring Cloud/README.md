@@ -137,7 +137,7 @@
 ## Spring Cloud 基础教程视频
 * [尚硅谷_SpringCloud 第一季](https://www.bilibili.com/video/av22613028?from=search&seid=11334929433863206245)
 * [尚硅谷_SpringCloud 第二季（全）](https://www.bilibili.com/video/BV1rE411x7Hz?from=search&seid=10918068436806250854)
-
+* [2020最新Java项目实战APM性能监控系统](https://www.bilibili.com/video/BV15t4y117xN/?spm_id_from=333.788.videocard.5)
 ## Spring Cloud 项目从易到难路线图视频
 
 * [课程 1  SpringCloud Finchley三版本微服务实战](https://www.bilibili.com/video/BV137411L7bX?from=search&seid=7267066419827355478)
