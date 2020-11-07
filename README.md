@@ -26,10 +26,10 @@
 [手摸手教你学spring boot 2.x](https://www.kancloud.cn/hanxt/springboot2/1719695)|[Spring Security-JWT-OAuth2一本通(基于SpringBoot2.0)](https://www.kancloud.cn/hanxt/springsecurity/1472507)|
 ---|---|
 
-[【实战开发】DongBB-前后端分离RBAC权限管理系统](https://www.kancloud.cn/hanxt/vue-spring/1528245)|[实战SpringCloud微服务从青铜到王者](https://www.kancloud.cn/hanxt/springcloud/1718845)|
+[【项目实战】DongBB-前后端分离RBAC权限管理系统](https://www.kancloud.cn/hanxt/vue-spring/1528245)|[【项目实战】实战SpringCloud微服务从青铜到王者](https://www.kancloud.cn/hanxt/springcloud/1718845)|
 ---|---|
 
-[Spring Cloud 微服务权限系统搭建教程---手把手教你从零搭建到Docker部署（新增K8S集群部署教程）](https://www.kancloud.cn/mrbird/spring-cloud/1263681)|
+[【项目实战】Spring Cloud 微服务权限系统搭建教程---手把手教你从零搭建到Docker部署（新增K8S集群部署教程）](https://www.kancloud.cn/mrbird/spring-cloud/1263681)|
 ---|
 
 
