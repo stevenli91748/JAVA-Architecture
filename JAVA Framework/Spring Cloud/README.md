@@ -24,7 +24,7 @@
 
 ----
 
- [2020最新Java项目实战APM性能监控系统](https://www.bilibili.com/video/BV15t4y117xN/?spm_id_from=333.788.videocard.5)|[SpringBoot 2.x ShardingSphere分库分表实战](https://juejin.im/post/6844903857336614920)|
+ [【项目实战】2020最新Java项目实战APM性能监控系统](https://www.bilibili.com/video/BV15t4y117xN/?spm_id_from=333.788.videocard.5)|[SpringBoot 2.x ShardingSphere分库分表实战](https://juejin.im/post/6844903857336614920)|
  ---|---|
 
 
