@@ -113,6 +113,7 @@
 * [Spring Boot自定义Banner](http://blog.didispace.com/spring-boot-banner/)
 
 ## 1a SpringBoot配置文件
+* [Spring Boot Profiles example](https://mkyong.com/spring-boot/spring-boot-profiles-example/)
 * [Spring Boot YAML example](https://mkyong.com/spring-boot/spring-boot-yaml-example/)
 * [Spring Boot + Multiple Profiles YAML example](https://mkyong.com/spring-boot/spring-boot-profile-based-properties-and-yaml-example/)
 * [Spring Boot读取配置的几种方式](https://mp.weixin.qq.com/s?__biz=MzI3ODcxMzQzMw==&mid=2247484575&idx=1&sn=56c88cd7283374345d891e85a800539b&scene=21#wechat_redirect)
