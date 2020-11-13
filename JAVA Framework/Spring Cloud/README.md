@@ -49,7 +49,7 @@
 
 组件|Spring Cloud原生及其他整合组件|Spring Cloud Netflix套件|Spring Cloud Alibaba套件|其他|
 ---|---|---|---|---|
-服务注册与发现|[Consul](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%E5%8E%9F%E7%94%9F%E5%8F%8A%E5%85%B6%E4%BB%96%E6%95%B4%E5%90%88%E7%BB%84%E4%BB%B6/Consul.md)|[Eureka](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%20Netflix%E5%A5%97%E4%BB%B6/Eureka.md '主要负责实现微服务架构中的服务治理功能')||Etcd Zoopkeeper Dubbo|
+服务注册与发现|[Consul (Spring Cloud第二代新组件)](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%E5%8E%9F%E7%94%9F%E5%8F%8A%E5%85%B6%E4%BB%96%E6%95%B4%E5%90%88%E7%BB%84%E4%BB%B6/Consul.md)|[Eureka (Spring Cloud 第一代组件)](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%20Netflix%E5%A5%97%E4%BB%B6/Eureka.md '主要负责实现微服务架构中的服务治理功能')||Etcd Zoopkeeper Dubbo|
 ---|---|---|---|---|
 分布式配置管理|[Spring Cloud Config (Spring Cloud 第一代组件)](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%E5%8E%9F%E7%94%9F%E5%8F%8A%E5%85%B6%E4%BB%96%E6%95%B4%E5%90%88%E7%BB%84%E4%BB%B6/Config.md)||[Nacos (Spring Cloud第二代新组件)](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%20Alibaba%E5%A5%97%E4%BB%B6/Nacos.md)|[Apollo (Spring Cloud第二代新组件)](https://github.com/ctripcorp/apollo) |
 ---|---|---|---|---|
@@ -63,7 +63,7 @@
 ---|---|---|---|---|
 配置中心||||git Zoopkeeper |
 ---|---|---|---|---|
-认证授权中心||||[Spring Security Oauth (SpringCloud 第二代新组件)] [JWT (SpringCloud 第二代新组件)]|
+认证授权中心||||[Spring Security Oauth (SpringCloud 第二代新组件)]() [JWT (SpringCloud 第二代新组件)]()|
 ---|---|---|---|---|
 缓存中心|||||
 ---|---|---|---|---|
