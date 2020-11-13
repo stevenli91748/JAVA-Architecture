@@ -153,7 +153,7 @@
 ---|---|
 
 
-[SpringBoot 配置文件详解（告别XML）](https://www.jianshu.com/p/60b34464ca58)|[YAML 语言教程](http://www.ruanyifeng.com/blog/2016/07/yaml.html)|[Spring Boot 发送邮件](https://www.imooc.com/learn/1036)|
+[SpringBoot 配置文件详解（告别XML）](https://www.jianshu.com/p/60b34464ca58)|[YAML 语言教程](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/yaml/README.md|[Spring Boot 发送邮件](https://www.imooc.com/learn/1036)|
 ---|---|---|
 
 [一文教你细数 SpringBoot 中的连接池](https://zhuanlan.zhihu.com/p/105118740)|
