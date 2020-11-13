@@ -34,6 +34,7 @@
 * [1. SpringBoot内部机制](#1-SpringBoot内部机制)
   * [1a SpringBoot配置文件](#1a-SpringBoot配置文件)
   * [1b SpringBoot内存](#1b-SpringBoot内存)
+  * [1c SpringBoot Bean](#1c-SpringBoot-Bean)
 * [2. 工程配置](#2-工程配置)
   * [2a 热部署](#2a-热部署)
   * [2b Tomcat](#2b-Tomcat)
