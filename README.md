@@ -634,6 +634,7 @@ SQL语言|[MySQL](https://github.com/stevenli91748/Database/blob/master/MySQL/RE
 
 # 有用的参考
   * [geeksforgeeks---英文教程，非常全面和详细](https://www.geeksforgeeks.org/)
+  * [Java Tutorials---英文教程,有很多例子教程，很好 很详细](https://mkyong.com/spring-boot/spring-boot-yaml-example/)
   * [做工业级后端大项目，你需要掌握哪些必备技能？](https://www.youtube.com/watch?v=eHojAoDFYKA)
   * [Java后端学习路线](https://juejin.im/post/5e5bc9a66fb9a07c817619fb)
   * [如何成为玩转海量数据，微服务的后端工程师](https://www.youtube.com/watch?v=jqWS3K0ddbE)
