@@ -61,7 +61,7 @@
 ## 注解
 
  * [@Profiles---Spring Boot Profiles example](https://mkyong.com/spring-boot/spring-boot-profiles-example/)
-
+ * [@ConfigurationProperties ---Spring Boot @ConfigurationProperties example](https://mkyong.com/spring-boot/spring-boot-configurationproperties-example/)
 
 # AWS
 
