@@ -57,7 +57,7 @@
 ---|---|---|---|---|
 远程服务调用||[Ribbon (第二代新组件)](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%20Netflix%E5%A5%97%E4%BB%B6/Ribbon.md '基于客户端的负载均衡组件') [Feign (第一代新组件)](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%20Netflix%E5%A5%97%E4%BB%B6/Feign.md 'Web服务客户端，能够简化HTTP接口的调用') || [OpenFeign] [Load Balance]|
 ---|---|---|---|---|
-容错限流|[Hystrix (第一代组件)] (https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%20Netflix%E5%A5%97%E4%BB%B6/hystrix.md '容错框架，能够防止服务的雪崩效应')|||[Sentinel (第二代新组件)](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%20Alibaba%E5%A5%97%E4%BB%B6/Sentinel.md) Resilience4j|
+容错限流|[Hystrix (第一代组件)](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%20Netflix%E5%A5%97%E4%BB%B6/hystrix.md '容错框架，能够防止服务的雪崩效应')|||[Sentinel (第二代新组件)](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%20Alibaba%E5%A5%97%E4%BB%B6/Sentinel.md) Resilience4j|
 ---|---|---|---|---|
 链路监控中心| [Sleuth](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%E5%8E%9F%E7%94%9F%E5%8F%8A%E5%85%B6%E4%BB%96%E6%95%B4%E5%90%88%E7%BB%84%E4%BB%B6/Sleuth.md '构建分布式链路跟踪功能') [Zipkin](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%E5%8E%9F%E7%94%9F%E5%8F%8A%E5%85%B6%E4%BB%96%E6%95%B4%E5%90%88%E7%BB%84%E4%BB%B6/Zipkin.md '收集所有服务的监控数据的分布式跟踪系统')|||actuctor admin ELK |
 ---|---|---|---|---|
