@@ -143,8 +143,8 @@
 * [Spring Boot热部署加持](http://www.codesheep.cn/2018/06/23/SpringBoot%E7%83%AD%E9%83%A8%E7%BD%B2%E5%8A%A0%E6%8C%81/)
 
 ## 2b Tomcat
-* [Spring Boot应用部署于外置Tomcat容器](http://www.codesheep.cn/2018/06/05/SpringBoot%E5%BA%94%E7%94%A8%E9%83%A8%E7%BD%B2%E4%BA%8E%E5%A4%96%E7%BD%AETomcat%E5%AE%B9%E5%99%A8/)
-
+* [Spring Boot – How to change Tomcat port](https://mkyong.com/spring-boot/spring-boot-how-to-change-tomcat-port/)
+* [How to get the Tomcat home directory in Java](https://mkyong.com/java/how-to-get-the-tomcat-home-directory-in-java/)
 ---
 
 [IDEA下从零开始搭建SpringBoot工程](https://blog.csdn.net/u013248535/article/details/55100979)|[建立SpringBoot工程的几种方法](#建立SpringBoot工程的几种方法)|[Docker容器可视化监控中心搭建](https://mp.weixin.qq.com/s?__biz=MzU4ODI1MjA3NQ==&mid=2247483763&idx=1&sn=6ceb9e73540b5016dadfb212636b3855&chksm=fdded7b7caa95ea1165b507397c39267d3bf7522c83cc8ed10eae4ee4a13db831eb58a3dc167&scene=21#wechat_redirect)|[SpringBoot 应用程序启动过程探秘](https://www.codesheep.cn/2018/09/04/springboot-startup-process/)|
@@ -305,7 +305,8 @@
   * [AWS 上的项目：将整体式应用程序拆分为微服务（使用 Amazon Elastic Container Service、Docker 和 Amazon EC2）](https://aws.amazon.com/cn/getting-started/hands-on/break-monolith-app-microservices-ecs-docker-ec2/)
 ## 11b SpringBoot项目部署在本地分布式环境中
   * [Spring Boot – Deploy WAR file to Tomcat](https://mkyong.com/spring-boot/spring-boot-deploy-war-file-to-tomcat/)
-  
+  * [Spring Boot应用部署于外置Tomcat容器](http://www.codesheep.cn/2018/06/05/SpringBoot%E5%BA%94%E7%94%A8%E9%83%A8%E7%BD%B2%E4%BA%8E%E5%A4%96%E7%BD%AETomcat%E5%AE%B9%E5%99%A8/)
+  * [How to deploy Maven based war file to Tomcat](https://mkyong.com/maven/how-to-deploy-maven-based-war-file-to-tomcat/)
 ---
 
 
