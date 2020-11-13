@@ -63,7 +63,7 @@
 ---|---|---|---|---|
 配置中心||||git Zoopkeeper |
 ---|---|---|---|---|
-认证授权中心||||[Spring Security Oauth(Spring Cloud第二代新组件)] [jwt (Spring Cloud第二代新组件)]|
+认证授权中心||||[Spring Security Oauth (SpringCloud 第二代新组件)] [JWT (SpringCloud 第二代新组件)]|
 ---|---|---|---|---|
 缓存中心|||||
 ---|---|---|---|---|
