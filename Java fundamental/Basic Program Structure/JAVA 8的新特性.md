@@ -22,15 +22,15 @@
 
 # [JDK6新特性](https://www.cnblogs.com/peter1018/p/9165101.html)
 
-* Desktop类和SystemTray类
-* JAXB2实现对象与XML之间的映射
-* StAX
-* Compiler API
-* 轻量级 Http Server API
-* 插入式注解处理API（Pluggable Annotation Processing API）
-* 用Console开发控制台程序
-* 对脚本语言的支持（如：ruby，groovy，javascript）
-* Common Annotations
+* [Desktop类和SystemTray类](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK6%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#1-Desktop类和SystemTray类)
+* [JAXB2实现对象与XML之间的映射](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK6%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#2-JAXB2实现对象与XML之间的映射)
+* [StAX](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK6%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#3-StAX)
+* [Compiler API](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK6%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#4-Compiler-API)
+* [轻量级 Http Server API](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK6%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#5-轻量级-Http-Server-API)
+* [插入式注解处理API（Pluggable Annotation Processing API）](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK6%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#6-插入式注解处理API)
+* [用Console开发控制台程序](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK6%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#7-用Console开发控制台程序)
+* [对脚本语言的支持（如：ruby，groovy，javascript）](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK6%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#8-对脚本语言的支持)
+* [Common Annotations](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK6%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#9-Common-Annotations)
 
 # [JDK7新特性](https://www.cnblogs.com/peter1018/p/9177110.html)
 
