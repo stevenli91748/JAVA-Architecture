@@ -45,7 +45,7 @@
 
 # [JDK8新特性](https://www.cnblogs.com/peter1018/p/9183548.html)
 
-* [Lambda 表达式](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK8%E6%96%B0%E7%89%B9%E6%80%A7/README.md#1 Lambda 表达式)
+* [Lambda 表达式](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK8%E6%96%B0%E7%89%B9%E6%80%A7/README.md#1- Lambda-表达式)
 * 函数式接口
 * 方法引用、构造器引用和数组引用
 * 接口支持默认方法和静态方法
