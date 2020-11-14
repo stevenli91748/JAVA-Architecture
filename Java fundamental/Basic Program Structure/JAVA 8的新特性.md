@@ -34,14 +34,14 @@
 
 # [JDK7新特性](https://www.cnblogs.com/peter1018/p/9177110.html)
 
-* 二进制字面值
-* switch 语句支持 String
-* try-with-resources
-* catch 多个类型异常
-* 字面值中使用下划线
-* 类型推断
-* 改进泛型类型可变参数
-* 其它
+* [二进制字面值](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK7%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#1-二进制字面值)
+* [switch 语句支持 String](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK7%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#2-switch-语句支持-String)
+* [try-with-resources](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK7%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#3-try-with-resources)
+* [catch 多个类型异常](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK7%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#4-catch-多个类型异常)
+* [字面值中使用下划线](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK7%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#5-字面值中使用下划线)
+* [类型推断](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK7%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#6-类型推断)
+* [改进泛型类型可变参数](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK7%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#7-改进泛型类型可变参数)
+* [其它](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK7%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#8-其它)
 
 # [JDK8新特性](https://www.cnblogs.com/peter1018/p/9183548.html)
 
