@@ -46,14 +46,14 @@
 # [JDK8新特性](https://www.cnblogs.com/peter1018/p/9183548.html)
 
 * [Lambda 表达式](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK8%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#1-Lambda-表达式)
-* 函数式接口
-* 方法引用、构造器引用和数组引用
-* 接口支持默认方法和静态方法
-* [Stream API](http://www.zimug.com/tag/stream)
-* 增强类型推断
-* 新的日期时间 API
-* Optional 类
-* 重复注解和类型注解
+* [函数式接口](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK8%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#2-函数式接口)
+* [方法引用、构造器引用和数组引用](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK8%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#3-方法引用-构造器引用和数组引用)
+* [接口支持默认方法和静态方法](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK8%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#4-接口支持默认方法和静态方法)
+* [Stream API](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK8%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#5-Stream-API)
+* [增强类型推断](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK8%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#6-增强类型推断)
+* [新的日期时间 API](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK8%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#7-新的日期时间API)
+* [Optional 类](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK8%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#8-Optional-类)
+* [重复注解和类型注解](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK8%E6%96%B0%E7%89%B9%E6%80%A7/README.md/(#9-重复注解和类型注解)
 
 # [JDK9新特性](https://www.cnblogs.com/peter1018/p/9209951.html)
 
