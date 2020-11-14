@@ -2,7 +2,7 @@
 * [1. 局部变量类型推断](#1-局部变量类型推断)
 * [2. 将JDK多存储库合并为单储存库](#2-将JDK多存储库合并为单储存库)
 * [3. 垃圾回收接口](#3-垃圾回收接口)
-* [4. 并行Full GC 的G1](#4-并行Full GC 的G1)
+* [4. 并行Full GC 的G1](#4-并行Full-GC-的G1)
 * [5. 应用数据共享](#5-应用数据共享)
 * [6. 线程局部管控](#6-线程局部管控)
 * [7. 移除Native-Header Generation Tool （javah）](#7-移除Native-Header-Generation-Tool)
