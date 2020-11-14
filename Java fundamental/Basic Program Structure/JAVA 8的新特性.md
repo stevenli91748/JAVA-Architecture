@@ -57,24 +57,24 @@
 
 # [JDK9新特性](https://www.cnblogs.com/peter1018/p/9209951.html)
 
-* 目录结构
-* [模块化系统](https://www.imooc.com/learn/997)
-* jshell
-* 多版本兼容JAR
-* 接口的私有方法
-* 改进try-with-resourcs
-* 改进砖石操作符
-* 限制使用单独下划线标识符
-* String存储结构变更
-* 快速创建只读结合
-* 增强Stream API
-* 改进Optional 类
-* 多分辨率图像 API
-* 全新 HTTP客服端API
-* 智能JAVA 编译工具
-* 统一JVM 日志系统
-* javadoc 的 HTML5 支持
-* java 动态编译
+* [目录结构](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK9%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#1-目录结构)
+* [模块化系统](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK9%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#2-模块化系统)
+* [jshell](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK9%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#3-jshell)
+* [多版本兼容JAR](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK9%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#4-多版本兼容JAR)
+* [接口的私有方法](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK9%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#5-接口的私有方法)
+* [改进try-with-resourcs](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK9%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#6-改进try-with-resourcs)
+* [改进砖石操作符](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK9%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#7-改进砖石操作符)
+* [限制使用单独下划线标识符](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK9%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#8-限制使用单独下划线标识符)
+* [String存储结构变更](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK9%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#9-String存储结构变更)
+* [快速创建只读结合](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK9%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#10-快速创建只读结合)
+* [增强Stream API](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK9%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#11-增强Stream-API)
+* [改进Optional 类](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK9%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#12-改进Optional类)
+* [多分辨率图像 API](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK9%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#13-多分辨率图像-API)
+* [全新 HTTP客服端API](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK9%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#14-全新HTTP客服端API)
+* [智能JAVA 编译工具](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK9%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#15-智能JAVA编译工具)
+* [统一JVM 日志系统](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK9%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#16-统一JVM日志系统)
+* [javadoc 的 HTML5 支持](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK9%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#17-javadoc的HTML5支持)
+* [java 动态编译](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK9%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#18-java动态编译)
 
 # [JDK10新特性](https://www.cnblogs.com/peter1018/p/9234490.html)
 
