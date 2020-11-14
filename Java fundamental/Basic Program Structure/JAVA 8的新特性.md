@@ -78,18 +78,18 @@
 
 # [JDK10新特性](https://www.cnblogs.com/peter1018/p/9234490.html)
 
-* 局部变量类型推断
-* 将JDK多存储库合并为单储存库
-* 垃圾回收接口
-* 并行Full GC 的G1
-* 应用数据共享
-* 线程局部管控
-* 移除Native-Header Generation Tool （javah）
-* Unicode 标签扩展
-* 备用内存设备上分配堆内存
-* 基于实验JAVA 的JIT 编译器
-* Root 证书
-* 基于时间的版本控制
+* [局部变量类型推断](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK10%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#1-局部变量类型推断)
+* [将JDK多存储库合并为单储存库](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK10%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#2-将JDK多存储库合并为单储存库)
+* [垃圾回收接口](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK10%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#3-垃圾回收接口)
+* [并行Full GC 的G1](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK10%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#4-并行Full-GC-的G1)
+* [应用数据共享](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK10%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#5-应用数据共享)
+* [线程局部管控](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK10%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#6-线程局部管控)
+* [移除Native-Header Generation Tool （javah）](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK10%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#7-移除Native-Header-Generation-Tool)
+* [Unicode 标签扩展](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK10%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#8-Unicode-标签扩展)
+* [备用内存设备上分配堆内存](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK10%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#9-备用内存设备上分配堆内存)
+* [基于实验JAVA 的JIT 编译器](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK10%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#10-基于实验JAVA的JIT编译器)
+* [Root 证书](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK10%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#11-Root-证书)
+* [基于时间的版本控制](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK10%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#12-基于时间的版本控制)
 
 
 # [JDK11新特性](https://my.oschina.net/mdxlcj/blog/3010342)
