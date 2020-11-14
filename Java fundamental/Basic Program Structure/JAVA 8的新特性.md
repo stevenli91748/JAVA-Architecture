@@ -53,7 +53,7 @@
 * [增强类型推断](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK8%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#6-增强类型推断)
 * [新的日期时间 API](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK8%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#7-新的日期时间API)
 * [Optional 类](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK8%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#8-Optional-类)
-* [重复注解和类型注解](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK8%E6%96%B0%E7%89%B9%E6%80%A7/README.md/(#9-重复注解和类型注解)
+* [重复注解和类型注解](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK8%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#9-重复注解和类型注解)
 
 # [JDK9新特性](https://www.cnblogs.com/peter1018/p/9209951.html)
 
