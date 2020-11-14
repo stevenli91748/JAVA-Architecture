@@ -7,18 +7,18 @@
 
 # [JDK5新特性](https://www.cnblogs.com/peter1018/p/9156393.html)
 
-* 自动装箱与拆箱
-* [枚举]()
-* [静态导入]()
-* [可变参数（Varargs）]()
-* [内省（introspector）]()
-* For-Each循环
-* [泛型和类型擦除]()
-* 格式化输出
-* [ProcessBuilder]()
-* 线程并发库（JUC）
-* 监控和管理虚拟机
-* 元数据
+* [自动装箱与拆箱](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK5%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#1-自动拆装箱)
+* [枚举](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK5%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#5-枚举)
+* [静态导入](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK5%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#3-静态导入)
+* [可变参数（Varargs）](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK5%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#4-可变参数-Var-args)
+* [内省（introspector）](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK5%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#9-内省)
+* [For-Each循环](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK5%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#2-Foreach)
+* [泛型和类型擦除](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK5%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#7-泛型)
+* [格式化输出](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK5%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#6-格式化输出)
+* [ProcessBuilder](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK5%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#8-ProcessBuilder)
+* [线程并发库（JUC）](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK5%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#10-线程并发库)
+* [监控和管理虚拟机](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK5%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#11-监控和管理虚拟机)
+* [元数据](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK5%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#12-元数据)
 
 # [JDK6新特性](https://www.cnblogs.com/peter1018/p/9165101.html)
 
