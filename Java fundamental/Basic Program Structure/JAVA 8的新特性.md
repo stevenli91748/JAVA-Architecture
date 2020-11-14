@@ -93,6 +93,22 @@
 
 
 # [JDK11新特性](https://my.oschina.net/mdxlcj/blog/3010342)
+
+[增强局部变量类型推断var](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK11%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#1-增强局部变量类型推断var)
+[增加一些实用的API](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK11%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#2-增加一些实用的API)
+[移除和废弃的内容](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK11%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#3-移除和废弃的内容)
+[HttpClient加强方法](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK11%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#4-HttpClient加强方法)
+[Unicode 10](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK11%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#5-Unicode-10)
+[Remove the JavaEE and CORBA Moudles](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK11%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#6-Remove-the-JavaEE-and-CORBA-Moudles)
+[JEP : 335 : Deprecate the Nashorn JavaScript Engine](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK11%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#7-Deprecate-the-Nashorn-JavaScript-Engine)
+[JEP : 336 : Deprecate the Pack200 Tools and API](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK11%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#8-Deprecate-the-Pack200-Tools-and-API)
+[新的Epsilon垃圾收集器](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK11%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#9-新的Epsilon垃圾收集器)
+[ZGC](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK11%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#10-ZGC)
+[完全支持Linux容器（包括Docker）](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK11%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#11-完全支持Linux容器)
+[支持G1上的并行完全垃圾收集](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK11%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#12-支持G1上的并行完全垃圾收集)
+
+
+
 ##  [对不起我拖后腿了！我才刚用上Java 11](https://www.bilibili.com/read/cv5037646)
 ## [va 11 正式发布，这 8 个逆天新特性教你写出更牛逼的代码](https://mp.weixin.qq.com/s?__biz=MzI3ODcxMzQzMw==&mid=2247487206&idx=1&sn=a8ccb604f8508bf296dbd7b25d8fb80f&chksm=eb538bd0dc2402c6449b529c7de2c8188070f15cc402a2650777bfc938a0e91790e2c3dd0f6d&scene=21#wechat_redirect)
 
