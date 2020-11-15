@@ -4,8 +4,8 @@
 [精尽 Netty 学习指南](http://svip.iocoder.cn/Netty/tutorials/)|
 ---|
 
-[疯狂创客圈 IM---从0开始100w分布式 Java 高并发、分布式应用实战](https://gitee.com/crazymaker/crazy_tourist_circle__im)|
----|
+[疯狂创客圈 IM---从0开始100w分布式 Java 高并发、分布式应用实战](https://gitee.com/crazymaker/crazy_tourist_circle__im)|[实战Netty集群 - CrazyIM 分布式聊天实战](https://www.cnblogs.com/crazymakercircle/p/11470287.html)|
+---|---|
 
   Netty权威指南
 
