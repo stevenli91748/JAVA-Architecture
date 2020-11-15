@@ -44,8 +44,20 @@
 # 目录
 * Spring Cloud内部机制
   * [Spring CLoud配置](https://www.cnblogs.com/crazymakercircle/p/11674597.html)
-* [项目实战](#项目实战)
+  * [Spring Cloud各组件专题](#Spring-Cloud各组件专题)
+* Sprng Cloud开发环境配置
+  * 服务注册与发现配置中心
+    * [ Eureka服务注册中心环境配置](https://www.cnblogs.com/crazymakercircle/p/12043538.html)
+  * Microservice 微服务配置中心
+    * [springcloud Config微服务分布式配置中心环境配置](https://www.cnblogs.com/crazymakercircle/p/12043604.html)
+  * 网关
+    * ZUUL网关环境配置
+      * [Zuul网关配置](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%20Netflix%E5%A5%97%E4%BB%B6/Zuul.md)
+    * Spring Cloud Gateway环境配置
+      * [Spring Cloud Gateway网关配置](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%E5%8E%9F%E7%94%9F%E5%8F%8A%E5%85%B6%E4%BB%96%E6%95%B4%E5%90%88%E7%BB%84%E4%BB%B6/Gateway.md)
+  * [SpringCloud 脚手架环境配置](https://www.cnblogs.com/crazymakercircle/p/12041568.html)
 * [Spring Cloud构建微服务架构](#SpringCloud构建微服务架构)
+* [项目实战](#项目实战)
 
 # Spring Cloud各组件专题
 
@@ -88,7 +100,6 @@
 
 
 ## 实战项目
-* [实战SpringCloud微服务从青铜到王者](https://www.kancloud.cn/hanxt/springcloud/1718845)
 * [springCloud- 搭建项目全部详细过程（创建一个父工程）](https://blog.csdn.net/star1210644725/article/details/104691945?utm_medium=distribute.pc_relevant_download.none-task-blog-baidujs-5.nonecase&depth_1-utm_source=distribute.pc_relevant_download.none-task-blog-baidujs-5.nonecase)
 * [SpringCloud- Alibaba](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%20Alibaba/README.md)
 * [限流](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/%E9%99%90%E6%B5%81/README.md)
