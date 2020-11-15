@@ -30,7 +30,7 @@
 ---|
 
 # 目录
-
+* [0. SpringBoot 基础知识 核心知识](https://www.cnblogs.com/crazymakercircle/p/13895735.html)
 * [1. SpringBoot内部机制](#1-SpringBoot内部机制)
   * [1a SpringBoot 基础配置](https://www.cnblogs.com/crazymakercircle/p/11706764.html)
   * [1b SpringBoot配置文件](#1b-SpringBoot配置文件)
