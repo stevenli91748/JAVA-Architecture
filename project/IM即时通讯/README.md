@@ -1,4 +1,7 @@
 
+[疯狂创客圈 IM---从0开始100w分布式 Java 高并发、分布式应用实战](https://gitee.com/crazymaker/crazy_tourist_circle__im)|
+---|
+
 * [即时通讯项目里面的语音处理-基础实现篇](https://www.imooc.com/learn/739)
 * [即时通讯项目里面的语音处理-提高优化篇](https://www.imooc.com/learn/778)
 * [IM即时通讯](http://www.52im.net/forum.php?gid=102)
