@@ -41,7 +41,8 @@ c:\apache-tomcat-9.0.16
     * [HTTP工作流程](#HTTP工作流程)
   * [Jasper引擎](#Jasper引擎)
   * [Tomcat结构以及其类加载器流程](https://www.bilibili.com/video/av56917568?from=search&seid=9890313462804608132)
-* Tomcat配置和使用  
+* Tomcat配置和使用 
+  * [秒懂：tomcat的maxConnections、maxThreads、acceptCount 图解](https://www.cnblogs.com/crazymakercircle/p/11748214.html)
   * [Tomcat配置和使用](#Tomcat配置和使用)
     * [Tomcat服务器配置---Executor](#Executor)
     * [Tomcat服务器配置---Connector](#Connector)
