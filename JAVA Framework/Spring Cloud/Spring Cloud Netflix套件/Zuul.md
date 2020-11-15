@@ -6,7 +6,9 @@
 
 
 
-* [Zuul 网关入门，带视频  ](https://www.cnblogs.com/crazymakercircle/p/12046484.html)
+* [1. Zuul 网关入门，带视频  ](https://www.cnblogs.com/crazymakercircle/p/12046484.html)
+* [2. Zuul 修改 请求头、响应头 （死磕）](https://www.cnblogs.com/crazymakercircle/p/12037587.html)
+* [3. Zuul 整合 Swagger 方便开发和调试](https://www.cnblogs.com/crazymakercircle/p/12046131.html)
 *  [Netflix Zuul与Nginx的性能对比](http://blog.didispace.com/zuul-vs-nginx-performance/)
 * [API网关 Zuul1.0 和 2.0 我们该如何选择？](http://blog.didispace.com/api-gateway-Zuul-1-zuul-2-how-to-choose/)
 * [开源：API文档汇总管理工具Swagger Butler](http://blog.didispace.com/opensource-api-mgt-Swagger-Butler/)
