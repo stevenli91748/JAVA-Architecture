@@ -42,6 +42,8 @@
 ---
 
 # 目录
+* Spring Cloud内部机制
+  * [Spring CLoud配置](https://www.cnblogs.com/crazymakercircle/p/11674597.html)
 * [项目实战](#项目实战)
 * [Spring Cloud构建微服务架构](#SpringCloud构建微服务架构)
 
