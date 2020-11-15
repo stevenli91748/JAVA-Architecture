@@ -13,3 +13,4 @@
 * [Java高并发秒杀API之web层](https://www.imooc.com/learn/630)
 * [Java高并发秒杀API之Service层](https://www.imooc.com/learn/631)
 * [Java高并发秒杀API之业务分析与DAO层](https://www.imooc.com/learn/587)
+* [疯狂创客圈 ---- Springcloud 高并发系列文章，将为大家介绍三个版本的 高并发秒杀](https://www.cnblogs.com/crazymakercircle/p/11669113.html)
