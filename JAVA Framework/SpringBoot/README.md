@@ -32,9 +32,11 @@
 # 目录
 
 * [1. SpringBoot内部机制](#1-SpringBoot内部机制)
-  * [1a SpringBoot配置文件](#1a-SpringBoot配置文件)
-  * [1b SpringBoot内存](#1b-SpringBoot内存)
-  * [1c SpringBoot Bean](#1c-SpringBoot-Bean)
+  * [1a SpringBoot 基础配置](https://www.cnblogs.com/crazymakercircle/p/11706764.html)
+  * [1b SpringBoot配置文件](#1b-SpringBoot配置文件)
+  * [1c SpringBoot内存](#1c-SpringBoot内存)
+  * [1d SpringBoot Bean](#1d-SpringBoot-Bean)
+  
 * [2. 工程配置](#2-工程配置)
   * [2a 热部署](#2a-热部署)
   * [2b Tomcat](#2b-Tomcat)
@@ -93,9 +95,10 @@
 ---
 
 # 1 SpringBoot内部机制
-  * [1a SpringBoot配置文件](#1a-SpringBoot配置文件)
-  * [1b SpringBoot内存](#1b-SpringBoot内存)
-  * [1c SpringBoot Bean](#1c-SpringBoot-Bean)
+  * [1a SpringBoot 基础配置](https://www.cnblogs.com/crazymakercircle/p/11706764.html)
+  * [1b SpringBoot配置文件](#1b-SpringBoot配置文件)
+  * [1c SpringBoot内存](#1c-SpringBoot内存)
+  * [1d SpringBoot Bean](#1d-SpringBoot-Bean)
 
 ---
 
@@ -112,7 +115,7 @@
 * [Spring Boot应用的后台运行配置](http://blog.didispace.com/spring-boot-run-backend/)
 * [Spring Boot自定义Banner](http://blog.didispace.com/spring-boot-banner/)
 
-## 1a SpringBoot配置文件
+## 1b SpringBoot配置文件
 * [Spring Boot Profiles example](https://mkyong.com/spring-boot/spring-boot-profiles-example/)
 * [Spring Boot YAML example](https://mkyong.com/spring-boot/spring-boot-yaml-example/)
 * [Spring Boot + Multiple Profiles YAML example](https://mkyong.com/spring-boot/spring-boot-profile-based-properties-and-yaml-example/)
@@ -121,11 +124,11 @@
 * [Spring Boot 2.0 新特性（一）：配置绑定 2.0 全解析](http://blog.didispace.com/Spring-Boot-2-0-feature-1-relaxed-binding-2/)
 * [配置文件详解](http://blog.didispace.com/spring-boot-learning-21-1-3/)
 
-## 1b SpringBoot内存
+## 1c SpringBoot内存
 
 * [Spring Boot引起的“堆外内存泄漏”排查及经验总结](https://juejin.im/post/5c2ef77ae51d4551de1d769b)
 
-## 1c SpringBoot Bean
+## 1d SpringBoot Bean
 
 * [How to display all beans loaded by Spring Boot](https://mkyong.com/spring-boot/how-to-display-all-beans-loaded-by-spring-boot/)
 
