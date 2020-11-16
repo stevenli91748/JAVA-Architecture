@@ -42,28 +42,39 @@
 ---
 
 # 目录
-* Spring Cloud内部机制
-  * [Spring CLoud配置](https://www.cnblogs.com/crazymakercircle/p/11674597.html)
-  * [Spring Cloud各组件专题](#Spring-Cloud各组件专题)
-* Sprng Cloud开发环境配置
-  * 服务注册与发现配置中心
-    * [ Eureka服务注册中心环境配置](https://www.cnblogs.com/crazymakercircle/p/12043538.html)
-    * [ Nacos 服务注册中心环境配置](https://www.cnblogs.com/crazymakercircle/p/11992539.html)  
-  * Microservice 微服务配置中心
-    * [springcloud Config微服务分布式配置中心环境配置](https://www.cnblogs.com/crazymakercircle/p/12043604.html)
-  * 网关
-    * ZUUL网关环境配置
-      * [Zuul网关配置](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%20Netflix%E5%A5%97%E4%BB%B6/Zuul.md)
-    * Spring Cloud Gateway环境配置
-      * [Spring Cloud Gateway网关配置](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%E5%8E%9F%E7%94%9F%E5%8F%8A%E5%85%B6%E4%BB%96%E6%95%B4%E5%90%88%E7%BB%84%E4%BB%B6/Gateway.md)
-  * [SpringCloud 脚手架环境配置](https://www.cnblogs.com/crazymakercircle/p/12041568.html)
-* 高并发环境搭建
-  * [ Windows Redis 安装](https://www.cnblogs.com/crazymakercircle/p/11973314.html)
-  * [Linux Redis 安装](https://www.cnblogs.com/crazymakercircle/p/11985983.html)
-  * [Linux Zookeeper 安装](https://www.cnblogs.com/crazymakercircle/p/12006500.html)
-  * [RabbitMQ 离线安装](https://www.cnblogs.com/crazymakercircle/p/11992763.html)
-* [Spring Cloud构建微服务架构](#SpringCloud构建微服务架构)
-* [项目实战](#项目实战)
+* 1. Spring Cloud内部机制
+     * [Spring CLoud配置](https://www.cnblogs.com/crazymakercircle/p/11674597.html)
+     * [Spring Cloud各组件专题](#Spring-Cloud各组件专题)
+* 2. Sprng Cloud开发环境配置
+     * 服务注册与发现配置中心
+       * [ Eureka服务注册中心环境配置](https://www.cnblogs.com/crazymakercircle/p/12043538.html)
+       * [ Nacos 服务注册中心环境配置](https://www.cnblogs.com/crazymakercircle/p/11992539.html)  
+     * Microservice 微服务配置中心
+       * [springcloud Config微服务分布式配置中心环境配置](https://www.cnblogs.com/crazymakercircle/p/12043604.html)
+       * [Nacos微服务分布式配置中心环境配置](https://www.kancloud.cn/mrbird/spring-cloud/1289434)
+     * 网关
+       * ZUUL网关环境配置
+         * [Zuul网关配置](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%20Netflix%E5%A5%97%E4%BB%B6/Zuul.md)
+       * Spring Cloud Gateway环境配置
+         * [Spring Cloud Gateway网关配置](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%E5%8E%9F%E7%94%9F%E5%8F%8A%E5%85%B6%E4%BB%96%E6%95%B4%E5%90%88%E7%BB%84%E4%BB%B6/Gateway.md)
+     * [多维度监控微服务的可视化平台环境配置](https://www.kancloud.cn/mrbird/spring-cloud/1333138)
+       * Prometheus---获取、存储监控数据，供第三方查询
+       * Grafana---提供Web页面，从Prometheus获取监控数据可视化展示
+       * cadvisor---收集Docker容器监控数据
+       * mysql_exporter---收集MySQL数据库监控数据
+       * edis_exporter---收集Redis监控数据
+       * node_exporter---收集微服务端点监控数据
+       * alertmanager---定义预警规则，发送预警信息
+       * 微服务JVM监控
+     * [整合skywalking分布式追踪平台的环境配置](https://www.kancloud.cn/mrbird/spring-cloud/1337996)
+     * [SpringCloud 脚手架环境配置](https://www.cnblogs.com/crazymakercircle/p/12041568.html)
+     *  高并发环境搭建
+        * [ Windows Redis 安装](https://www.cnblogs.com/crazymakercircle/p/11973314.html)
+        * [Linux Redis 安装](https://www.cnblogs.com/crazymakercircle/p/11985983.html)
+        * [Linux Zookeeper 安装](https://www.cnblogs.com/crazymakercircle/p/12006500.html)
+        * [RabbitMQ 离线安装](https://www.cnblogs.com/crazymakercircle/p/11992763.html)
+* 3. [Spring Cloud构建微服务架构](#SpringCloud构建微服务架构)
+* 4. [项目实战](#项目实战)
 
 
 # Spring Cloud各组件专题
