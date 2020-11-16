@@ -7,6 +7,9 @@
 [疯狂创客圈 IM---从0开始100w分布式 Java 高并发、分布式应用实战](https://gitee.com/crazymaker/crazy_tourist_circle__im)|[实战Netty集群 - CrazyIM 分布式聊天实战](https://www.cnblogs.com/crazymakercircle/p/11470287.html)|
 ---|---|
 
+ [实战 从0开始，打造亿级 仿 微信 IM后台](https://www.cnblogs.com/crazymakercircle/p/9912267.html)|
+ ---|
+
   Netty权威指南
 
 * [突破netty单机最大连接数](https://blog.csdn.net/Erica_1230/article/details/83614951)
