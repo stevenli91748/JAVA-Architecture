@@ -1,4 +1,4 @@
-# [pring Security4 例子程序](http://websystique.com/spring-security-tutorial/)
+# [Spring Security4 例子程序](http://websystique.com/spring-security-tutorial/)
 
 [spring security 原理+实战](https://www.cnblogs.com/crazymakercircle/p/12040402.html)|[SpingSecurity + SpringSession 整合](https://www.cnblogs.com/crazymakercircle/p/12037584.html)|
 ---|---|
