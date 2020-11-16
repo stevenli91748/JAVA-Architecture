@@ -48,6 +48,7 @@
 * Sprng Cloud开发环境配置
   * 服务注册与发现配置中心
     * [ Eureka服务注册中心环境配置](https://www.cnblogs.com/crazymakercircle/p/12043538.html)
+    * [ Nacos 服务注册中心环境配置](https://www.cnblogs.com/crazymakercircle/p/11992539.html)  
   * Microservice 微服务配置中心
     * [springcloud Config微服务分布式配置中心环境配置](https://www.cnblogs.com/crazymakercircle/p/12043604.html)
   * 网关
@@ -56,6 +57,11 @@
     * Spring Cloud Gateway环境配置
       * [Spring Cloud Gateway网关配置](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%E5%8E%9F%E7%94%9F%E5%8F%8A%E5%85%B6%E4%BB%96%E6%95%B4%E5%90%88%E7%BB%84%E4%BB%B6/Gateway.md)
   * [SpringCloud 脚手架环境配置](https://www.cnblogs.com/crazymakercircle/p/12041568.html)
+* 高并发环境搭建
+  * [ Windows Redis 安装](https://www.cnblogs.com/crazymakercircle/p/11973314.html)
+  * [Linux Redis 安装](https://www.cnblogs.com/crazymakercircle/p/11985983.html)
+  * [Linux Zookeeper 安装](https://www.cnblogs.com/crazymakercircle/p/12006500.html)
+  * [RabbitMQ 离线安装](https://www.cnblogs.com/crazymakercircle/p/11992763.html)
 * [Spring Cloud构建微服务架构](#SpringCloud构建微服务架构)
 * [项目实战](#项目实战)
 
