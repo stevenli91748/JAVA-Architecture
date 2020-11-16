@@ -1,5 +1,8 @@
 # [pring Security4 例子程序](http://websystique.com/spring-security-tutorial/)
 
+[spring security 原理+实战](https://www.cnblogs.com/crazymakercircle/p/12040402.html)|[SpingSecurity + SpringSession 整合](https://www.cnblogs.com/crazymakercircle/p/12037584.html)|
+---|---|
+
 
 [Spring Security初识-练气初期](https://juejin.im/post/6863236247880466439)|[Spring Security拦截器加载流程分析--练气中期](https://juejin.im/post/6863238199674667022)|
 ---|---|
@@ -12,3 +15,7 @@
 
 [springBoot整合spring security实现权限管理(单体应用版)--筑基初期](https://juejin.im/post/6867530830446034958)|[springBoot整合spring security+JWT实现单点登录与权限管理前后端分离--筑基中期](https://juejin.im/post/6868558729353117710)|
 ---|---|
+
+
+
+
