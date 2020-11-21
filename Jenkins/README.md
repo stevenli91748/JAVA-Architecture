@@ -4,6 +4,7 @@
 
 
 # 视频
+ * [Jenkins详细教程](https://www.jianshu.com/p/1071235b4a2f)
  * [Jenkins Tutorial For Beginners | Jenkins Tutorial ](https://www.youtube.com/watch?v=FX322RVNGj4)
  * [用Jenkins自动化搭建测试环境](https://www.imooc.com/learn/1008)
  * [Jenkins+K8s实现持续集成](https://www.imooc.com/learn/1112)
