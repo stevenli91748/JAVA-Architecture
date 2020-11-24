@@ -116,6 +116,7 @@
 * [Spring Boot自定义Banner](http://blog.didispace.com/spring-boot-banner/)
 
 ## 1b SpringBoot配置文件
+* [YAML属性配置文件使用详解](https://blog.csdn.net/qq_21806621/article/details/79598233?utm_medium=distribute.pc_relevant.none-task-blog-baidulandingword-2&spm=1001.2101.3001.4242)
 * [Spring Boot Profiles example](https://mkyong.com/spring-boot/spring-boot-profiles-example/)
 * [Spring Boot YAML example](https://mkyong.com/spring-boot/spring-boot-yaml-example/)
 * [Spring Boot + Multiple Profiles YAML example](https://mkyong.com/spring-boot/spring-boot-profile-based-properties-and-yaml-example/)
@@ -223,7 +224,7 @@
  * [4c MyBatis](#4c-MyBatis)
  * [4d Spring Data JPA](#4d-Spring-Data-JPA)
 ---
-
+* [如何通过Spring Boot配置动态数据源访问多个数据库](https://blog.csdn.net/ylforever/article/details/79600631?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-4.not_use_machine_learn_pai&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-4.not_use_machine_learn_pai)
 * [Spring Boot集成 MyBatis和 SQL Server实践](https://github.com/hansonwang99/Spring-Boot-In-Action/tree/master/springbt_mybatis_sqlserver)
 * [Elasticsearch搜索引擎在Spring Boot中的实践](https://github.com/hansonwang99/Spring-Boot-In-Action/tree/master/springboot_es_demo)
 * [自制一个 elasticsearch-spring-boot-starter](https://www.codesheep.cn/2019/02/28/elasticsearch-spring-boot-starter/)
