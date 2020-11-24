@@ -2,6 +2,14 @@
 [Spring Boot面试题（2020最新版）](https://thinkwon.blog.csdn.net/article/details/104397299)|
 ---|
 
+<details>
+<summary>classpath根路径是什麽？</summary>
+  
+  classpath根路径就是指resources目录下
+
+  
+</details>
+
 
 <details>
 <summary>可以不学spring其他，直接学spring boot吗？</summary>
