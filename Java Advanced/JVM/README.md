@@ -50,6 +50,10 @@
      * [对象的内存布局](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E8%99%9A%E6%8B%9F%E6%9C%BA%E6%89%A7%E8%A1%8C%E5%AD%90%E7%B3%BB%E7%BB%9F.md#对象的内存布局)
      * [对象的访问定位](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E8%99%9A%E6%8B%9F%E6%9C%BA%E6%89%A7%E8%A1%8C%E5%AD%90%E7%B3%BB%E7%BB%9F.md#对象的访问定位)
      * [JAVA对象头](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/JAVA%E5%AF%B9%E8%B1%A1%E5%A4%B4.md)
+     * [Java对象初始化](https://www.shuzhiduo.com/A/RnJW7akyJq/)
+     * [Java对象序列化](https://www.shuzhiduo.com/A/GBJrbrBRJ0/)
+     * [Java对象克隆](https://www.shuzhiduo.com/A/q4zVD7j75K/)
+     * [Java 对象排序](https://www.shuzhiduo.com/A/WpdK0vNMzV/)
    * 函数如何调用
      * 局部变量表
      * 操作数栈
