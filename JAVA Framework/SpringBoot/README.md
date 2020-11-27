@@ -320,6 +320,8 @@
   * [springboot 部署amazon例子集](https://www.youtube.com/results?search_query=springboot+%E9%83%A8%E7%BD%B2amazon)
   * [AWS 上的项目：将整体式应用程序拆分为微服务（使用 Amazon Elastic Container Service、Docker 和 Amazon EC2）](https://aws.amazon.com/cn/getting-started/hands-on/break-monolith-app-microservices-ecs-docker-ec2/)
 ## 11b SpringBoot项目部署在本地分布式环境中
+  * [运行 Spring Boot 应用的 3 种方式](https://zhuanlan.zhihu.com/p/311245147?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
+  * [Spring Boot 发布 jar 包转为 war 包秘籍](https://mp.weixin.qq.com/s/RQAPIwQJ2jMmlcM76LJhSQ)
   * [Spring Boot – Deploy WAR file to Tomcat](https://mkyong.com/spring-boot/spring-boot-deploy-war-file-to-tomcat/)
   * [Spring Boot应用部署于外置Tomcat容器](http://www.codesheep.cn/2018/06/05/SpringBoot%E5%BA%94%E7%94%A8%E9%83%A8%E7%BD%B2%E4%BA%8E%E5%A4%96%E7%BD%AETomcat%E5%AE%B9%E5%99%A8/)
   * [How to deploy Maven based war file to Tomcat](https://mkyong.com/maven/how-to-deploy-maven-based-war-file-to-tomcat/)
