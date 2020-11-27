@@ -116,6 +116,7 @@
 * [Spring Boot自定义Banner](http://blog.didispace.com/spring-boot-banner/)
 
 ## 1b SpringBoot配置文件
+* [Spring Boot 配置加载顺序详解](https://mp.weixin.qq.com/s/tFrRMM25LVE_2AG23lK5qQ)
 * [springboot启动时是如何加载配置文件application.yml文件](https://blog.csdn.net/chengkui1990/article/details/79866499?utm_medium=distribute.pc_relevant.none-task-blog-searchFromBaidu-1.not_use_machine_learn_pai&depth_1-utm_source=distribute.pc_relevant.none-task-blog-searchFromBaidu-1.not_use_machine_learn_pai)
 * [YAML属性配置文件使用详解](https://blog.csdn.net/qq_21806621/article/details/79598233?utm_medium=distribute.pc_relevant.none-task-blog-baidulandingword-2&spm=1001.2101.3001.4242)
 * [Spring Boot Profiles example](https://mkyong.com/spring-boot/spring-boot-profiles-example/)
