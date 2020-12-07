@@ -27,6 +27,11 @@
  [【项目实战】2020最新Java项目实战APM性能监控系统](https://www.bilibili.com/video/BV15t4y117xN/?spm_id_from=333.788.videocard.5)|[SpringBoot 2.x ShardingSphere分库分表实战](https://juejin.im/post/6844903857336614920)|
  ---|---|
 
+# SpringCloud 应用在 Kubernetes 上的最佳实践
+
+* [SpringCloud 应用在 Kubernetes 上的最佳实践 — 部署篇（开发部署）](https://mp.weixin.qq.com/s?__biz=MzUzNzYxNjAzMg==&mid=2247491668&idx=1&sn=c9839f78ff31d6f5da285a259d804f53&chksm=fae6eb9bcd91628d28b0db9b53a091132df7535d320aee9c85fea241dc4e964e746b83a69dc8&scene=21#wechat_redirect)
+* [SpringCloud 应用在 Kubernetes 上的最佳实践 —— 开发篇](https://mp.weixin.qq.com/s?__biz=MzUzNzYxNjAzMg==&mid=2247491668&idx=1&sn=c9839f78ff31d6f5da285a259d804f53&chksm=fae6eb9bcd91628d28b0db9b53a091132df7535d320aee9c85fea241dc4e964e746b83a69dc8&scene=21#wechat_redirect)
+* [SpringCloud 应用在 Kubernetes 上的最佳实践 — 部署篇(工具部署)](https://www.kubernetes.org.cn/8078.html)
 
 
 # Spring Cloud项目部署到AWS的例子
