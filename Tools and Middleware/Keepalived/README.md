@@ -15,7 +15,8 @@
  
  
  # 有用的参考
- * [Keepalived安装与配置(代码详解)](https://developer.aliyun.com/article/528944)
+ * [LVS负载均衡器集群的配置](https://www.keepalived.org/pdf/sery-lvs-cluster.pdf?spm=a2c6h.12873639.0.0.4aef7d44UlfFfQ&file=sery-lvs-cluster.pdf)
+ * [Keepalived安装与https://www.keepalived.org/pdf/sery-lvs-cluster.pdf?spm=a2c6h.12873639.0.0.4aef7d44UlfFfQ&file=sery-lvs-cluster.pdf(代码详解)](https://developer.aliyun.com/article/528944)
  * [Keepalived安装与配置](https://www.linuxidc.com/Linux/2017-02/140421.htm)
 * [keepalived的配置详解（非常详细）](https://blog.csdn.net/u014022631/article/details/79970238)
 * [keepalived详解 及 keepalived配置LVS高可用集群](https://blog.csdn.net/tjiyu/article/details/52891835)
