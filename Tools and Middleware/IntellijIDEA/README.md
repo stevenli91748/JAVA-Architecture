@@ -95,7 +95,7 @@
 
 * [第一弹！安排！安利10个让你爽到爆的IDEA必备插件](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247486586&idx=1&sn=b745f0be1a5fc0160f43625e29df9029&chksm=cea243b1f9d5caa7200950063ae9e1691d3578d46c0b865c8220c8f1e02ed43cb4e586c2524c&token=248911937&lang=zh_CN#rd)
   * [Codota---极其强大的代码自动补全]
-  * [IDEA的Docker插件]()  
+  * [IDEA的Docker插件]
     * [IDEA的Docker插件实战(Dockerfile篇)](https://blog.csdn.net/boling_cavalry/article/details/100051325)
     * [IDEA的Docker插件实战(Docker Image篇)](https://xinchen.blog.csdn.net/article/details/100062008)
     * [IDEA的Docker插件实战(Docker-compose篇)](https://xinchen.blog.csdn.net/article/details/100064934)
