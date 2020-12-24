@@ -29,9 +29,18 @@
 
 # SpringCloud 应用在 Kubernetes 上的最佳实践
 
-* [SpringCloud 应用在 Kubernetes 上的最佳实践 — 部署篇（开发部署）](https://mp.weixin.qq.com/s?__biz=MzUzNzYxNjAzMg==&mid=2247491668&idx=1&sn=c9839f78ff31d6f5da285a259d804f53&chksm=fae6eb9bcd91628d28b0db9b53a091132df7535d320aee9c85fea241dc4e964e746b83a69dc8&scene=21#wechat_redirect)
 * [SpringCloud 应用在 Kubernetes 上的最佳实践 —— 开发篇](https://mp.weixin.qq.com/s?__biz=MzUzNzYxNjAzMg==&mid=2247491668&idx=1&sn=c9839f78ff31d6f5da285a259d804f53&chksm=fae6eb9bcd91628d28b0db9b53a091132df7535d320aee9c85fea241dc4e964e746b83a69dc8&scene=21#wechat_redirect)
+* [SpringCloud 应用在 Kubernetes 上的最佳实践 — 部署篇（开发部署）](https://mp.weixin.qq.com/s?__biz=MzUzNzYxNjAzMg==&mid=2247491668&idx=1&sn=c9839f78ff31d6f5da285a259d804f53&chksm=fae6eb9bcd91628d28b0db9b53a091132df7535d320aee9c85fea241dc4e964e746b83a69dc8&scene=21#wechat_redirect)
 * [SpringCloud 应用在 Kubernetes 上的最佳实践 — 部署篇(工具部署)](https://www.kubernetes.org.cn/8078.html)
+* [SpringCloud 应用在 Kubernetes 上的最佳实践 —— 高可用（弹性伸缩）](https://www.kubernetes.org.cn/8503.html)
+* [SpringCloud 应用在 Kubernetes 上的最佳实践 — 线上发布（可灰度）](https://mp.weixin.qq.com/s?__biz=MzUzNzYxNjAzMg==&mid=2247492479&idx=1&sn=ac1463d4cd7b4323590766643d92dcb0&chksm=fae6e8b0cd9161a6d02057ca28971101aec9bc8ee823f0f4d12fc9b691bc8e122e542725f7ac&scene=21#wechat_redirect)
+* [SpringCloud 应用在 Kubernetes 上的最佳实践 — 线上发布（可监控）](https://mp.weixin.qq.com/s?__biz=MzUzNzYxNjAzMg==&mid=2247494008&idx=1&sn=652adea2451811af1eacd1455c7fe939&chksm=fae6e2b7cd916ba1cbbee83a31f04cd79f0471b62979c26374d291ee89c6f9a24feeaa3f4481&scene=21#wechat_redirect)
+* [SpringCloud 应用在 Kubernetes 上的最佳实践 — 线上发布（可回滚）](https://mp.weixin.qq.com/s?__biz=MzUzNzYxNjAzMg==&mid=2247494202&idx=1&sn=1c22caff3014652c595f5169bff20a10&chksm=fae6e1f5cd9168e37c5dd9ec7d19573c443d8c926309bcde4bd0e57ffa2aee12be697e15cdc2&scene=21#wechat_redirect)
+* [SpringCloud 应用在 Kubernetes 上的最佳实践 — 线上发布（优雅上下线）](https://mp.weixin.qq.com/s?__biz=MzUzNzYxNjAzMg==&mid=2247494244&idx=1&sn=d6b6ff87866a7b29ee7c4e5eb37b3d82&chksm=fae6e1abcd9168bddf4b03d2908d0423b17f3383ce89f6a8349bea06b36ab5fcbd79028d4781&scene=21#wechat_redirect)
+* [SpringCloud 应用在 Kubernetes 上的最佳实践 — 诊断（线上联调）](https://mp.weixin.qq.com/s?__biz=MzUzNzYxNjAzMg==&mid=2247492850&idx=1&sn=03793cf561ceca40d75b50c0c23c708e&chksm=fae6ef3dcd91662b7cd92d07beba3bab05c1ef641bce204b3f9dd80cad55ea7dd1ccee1c2109&scene=21#wechat_redirect)
+* [SpringCloud 应用在 Kubernetes 上的最佳实践 — 高可用（熔断）](https://mp.weixin.qq.com/s?__biz=MzUzNzYxNjAzMg==&mid=2247494380&idx=2&sn=04dbcc6f5bf25dd2bd1d20d95034f41a&chksm=fae6e123cd916835aa46f18d3098c143fab1fd8931985adc55f3f2226d31fa685fbcf9739543&scene=21#wechat_redirect)
+* [Spring Cloud 应用在 Kubernetes 上的最佳实践 — 高可用（混沌工程）](https://mp.weixin.qq.com/s?__biz=MzUzNzYxNjAzMg==&mid=2247494460&idx=2&sn=2d50c4257bf7ee4f780255923c3f4c51&chksm=fae6e0f3cd9169e56378a5c85ca54a1eda4e607bd339192be19d99774889fc1818f554f925db&scene=21#wechat_redirect)
+* [SpringCloud 应用在 Kubernetes 上的最佳实践 —— 高可用（容量评估）](https://mp.weixin.qq.com/s?__biz=MzUzNzYxNjAzMg==&mid=2247494790&idx=2&sn=5eed1563d00b91df4d502e1482914615&chksm=fae6e749cd916e5f435f89d4c8008f6b830af9a9b017d095f99b21f85655038014f559607cc2&scene=21#wechat_redirect)
 
 
 # Spring Cloud项目部署到AWS的例子
