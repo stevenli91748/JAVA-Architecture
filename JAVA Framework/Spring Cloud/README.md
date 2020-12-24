@@ -80,7 +80,9 @@
        * node_exporter---收集微服务端点监控数据
        * alertmanager---定义预警规则，发送预警信息
        * 微服务JVM监控
-     * [整合skywalking分布式追踪平台的环境配置](https://www.kancloud.cn/mrbird/spring-cloud/1337996)
+     * [skywalking分布式追踪平台]()
+       * [整合skywalking分布式追踪平台的环境配置](https://www.kancloud.cn/mrbird/spring-cloud/1337996)
+       * [ChaosBlade x SkyWalking 微服务高可用实践](https://mp.weixin.qq.com/s/f1JdQ5ux-8yHfnVf4q3p2g)
      * [SpringCloud 脚手架环境配置](https://www.cnblogs.com/crazymakercircle/p/12041568.html)
      *  高并发环境搭建
         * [ Windows Redis 安装](https://www.cnblogs.com/crazymakercircle/p/11973314.html)
