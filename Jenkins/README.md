@@ -16,3 +16,7 @@
  * [2019年Linux高级运维课程【Jenkins完整版](https://www.bilibili.com/video/av69267470/?spm_id_from=333.788.videocard.3)
  * [Jenkins+Ansible+Gitlab自动化部署三剑客](https://www.bilibili.com/video/av73906623/?spm_id_from=333.788.videocard.14)
  * [汪文君Jenkins入门视频](https://www.bilibili.com/video/av52163638/?spm_id_from=333.788.videocard.1)
+
+# 有用的参考
+
+* [Jenkins工程构建](https://blog.csdn.net/qq_39680564/article/details/111573807)
