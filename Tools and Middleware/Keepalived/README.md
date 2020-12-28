@@ -21,3 +21,4 @@
 * [keepalived的配置详解（非常详细）](https://blog.csdn.net/u014022631/article/details/79970238)
 * [keepalived详解 及 keepalived配置LVS高可用集群](https://blog.csdn.net/tjiyu/article/details/52891835)
 * [使用Keepalived实现MySQL双主高可用](https://www.linuxidc.com/Linux/2019-08/160164.htm)
+* [KeepAlived 安装部署-主节点](http://www.dev-share.top/2019/12/03/keepalived-%E5%AE%89%E8%A3%85%E9%83%A8%E7%BD%B2-%E4%B8%BB%E8%8A%82%E7%82%B9/)
