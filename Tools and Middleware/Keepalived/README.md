@@ -22,3 +22,5 @@
 * [keepalived详解 及 keepalived配置LVS高可用集群](https://blog.csdn.net/tjiyu/article/details/52891835)
 * [使用Keepalived实现MySQL双主高可用](https://www.linuxidc.com/Linux/2019-08/160164.htm)
 * [KeepAlived 安装部署-主节点](http://www.dev-share.top/2019/12/03/keepalived-%E5%AE%89%E8%A3%85%E9%83%A8%E7%BD%B2-%E4%B8%BB%E8%8A%82%E7%82%B9/)
+* [KeepAlived 安装部署-备节点](http://www.dev-share.top/2019/12/04/keepalived-%e5%ae%89%e8%a3%85%e9%83%a8%e7%bd%b2-%e5%a4%87%e8%8a%82%e7%82%b9/)
+* [KeepAlived + HAProxy 高可用](http://www.dev-share.top/2019/12/10/keepalived-haproxy-%e9%ab%98%e5%8f%af%e7%94%a8/)
