@@ -209,6 +209,7 @@
 * [Spring Cloud微服务云应用教](https://www.jdon.com/springcloud.html)
 * [使用Spring Cloud的完整微服务项目](https://www.zhihu.com/question/263476834)
 * [芋道源码---Spring Cloud](http://www.iocoder.cn/categories/Spring-Cloud/)
+* [SpringCloud Gateway 全链路实现分析](https://www.kubernetes.org.cn/7618.html)
 * [Spring Cloud 微服务教程汇总](http://www.springcloud.wiki/)
 * [Spring cloud应该怎么入门？](https://www.zhihu.com/question/283286745/answer/763040709)
 * [Spring Cloud面试题（2020最新版）](https://blog.csdn.net/ThinkWon/article/details/104397367)
