@@ -3,7 +3,7 @@
 
 **Nginx 框架模型流程如下图：**
 
-<a href="https://ibb.co/GpwX6yQ"><img src="https://i.ibb.co/DWXNJhf/nginx2.webp" alt="nginx2" border="0"></a>
+
 
 
 **Master初始化**
