@@ -320,6 +320,7 @@
 * [Java企业级电商项目架构演进之路 Tomcat集群与Redis分布式](https://www.bilibili.com/video/av77880800?from=search&seid=4258377980332700343)
 * [从0到1开发java高并发分布式SSM项目教程](https://www.youtube.com/watch?v=1URBE2UO_Bo&list=PLjjwfqIOpH-iy7l05VaJw8zOCYAevt7A2)
 * [Introduction to Web Development | Full Stack Web Development Tutorial Course](https://www.youtube.com/watch?v=EceJQ05KTf4&list=PLwoh6bBAszPrES-EOajos_E9gvRbL27wz)
+* [Mall电商系统,包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署](https://github.com/stevenli91748/mall)
 ### 尚硅谷
 * [19年尚硅谷新项目-尚筹网-单一架构阶段一](https://www.bilibili.com/video/av82534518/?spm_id_from=333.788.b_636f6d6d656e74.6)
 * [19年尚硅谷新项目-尚筹网-分布式架构阶段二](https://www.bilibili.com/video/av82805897/?spm_id_from=333.788.b_636f6d6d656e74.7)
@@ -387,8 +388,8 @@ VisualVM分析工具|[Jenkins](https://github.com/stevenli91748/JAVA-Architectur
 [任务调度](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E4%BB%BB%E5%8A%A1%E8%B0%83%E5%BA%A6/README.md)|[压力测试工具](https://github.com/stevenli91748/JAVA-Architecture/tree/master/Tools%20and%20Middleware/%E5%8E%8B%E5%8A%9B%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7)|[Ansible](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Ansible/Ansible%20.md)|
 ---|---|---|
 
-[Java 链式编程 和 lombok 实现链式编程](https://blog.csdn.net/xiaojin21cen/article/details/83478929)|[vagrant](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/vagrant/README.md)|
----|---|
+[Java 链式编程 和 lombok 实现链式编程](https://blog.csdn.net/xiaojin21cen/article/details/83478929)|[vagrant](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/vagrant/README.md)|[日志系统]()|
+---|---|---|
 
 
 # [第六阶段   互联网架构篇](https://github.com/stevenli91748/JAVA-Architecture/blob/master/internet%20architecture/README.md)
