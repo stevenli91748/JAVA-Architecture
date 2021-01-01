@@ -321,6 +321,7 @@
 * [从0到1开发java高并发分布式SSM项目教程](https://www.youtube.com/watch?v=1URBE2UO_Bo&list=PLjjwfqIOpH-iy7l05VaJw8zOCYAevt7A2)
 * [Introduction to Web Development | Full Stack Web Development Tutorial Course](https://www.youtube.com/watch?v=EceJQ05KTf4&list=PLwoh6bBAszPrES-EOajos_E9gvRbL27wz)
 * [Mall电商系统,包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署](https://github.com/stevenli91748/mall)
+* [mall电商系统学习教程目录](https://www.jianshu.com/p/3d91982ce458)
 ### 尚硅谷
 * [19年尚硅谷新项目-尚筹网-单一架构阶段一](https://www.bilibili.com/video/av82534518/?spm_id_from=333.788.b_636f6d6d656e74.6)
 * [19年尚硅谷新项目-尚筹网-分布式架构阶段二](https://www.bilibili.com/video/av82805897/?spm_id_from=333.788.b_636f6d6d656e74.7)
