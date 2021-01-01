@@ -16,8 +16,8 @@ tomcat的优势在于少量的接收并处理复杂的http请求（将用户请�
 
 # 目录
 
-[精尽 Nginx 学习指南](http://svip.iocoder.cn/Nginx/tutorials/)|
----|
+[精尽 Nginx 学习指南](http://svip.iocoder.cn/Nginx/tutorials/)|[当初我要是这么学习Nginx就好了](https://www.jianshu.com/p/e90050dc89b6)|
+---|---|
 
 [Nginx linux系统安装](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Nginx/Nginx%20linux系统安装/README.md)|[在Docker上安装Nginx](https://github.com/stevenli91748/Engineering-special/blob/master/Docker/在Docker安装Nginx/README.md)|
 ---|---|
