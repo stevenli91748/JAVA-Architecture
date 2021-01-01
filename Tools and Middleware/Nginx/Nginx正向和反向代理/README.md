@@ -1,3 +1,6 @@
+
+<a href="https://ibb.co/HzwZcs7"><img src="https://i.ibb.co/DCcdBy4/nginx13.webp" alt="nginx13" border="0"></a>
+
 # 反向代理
 
      默认配置是查找nginx目录下的html
