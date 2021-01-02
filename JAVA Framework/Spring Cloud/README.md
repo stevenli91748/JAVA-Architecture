@@ -61,6 +61,7 @@
      * [Spring Cloud各组件专题](#Spring-Cloud各组件专题)
 * 2. Sprng Cloud开发环境配置
      * 服务注册与发现配置中心
+       * [主流微服务注册中心浅析和对比](https://my.oschina.net/yunqi/blog/3040280)
        * [ Eureka服务注册中心环境配置](https://www.cnblogs.com/crazymakercircle/p/12043538.html)
        * [ Nacos 服务注册中心环境配置](https://www.cnblogs.com/crazymakercircle/p/11992539.html)  
      * Microservice 微服务配置中心
