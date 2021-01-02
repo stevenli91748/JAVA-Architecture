@@ -374,6 +374,8 @@
 
 # Version Control的配置
 
+* [在IDEA中实战Git](https://blog.csdn.net/autfish/article/details/52513465)
+
 ## Git的配置
 
      1. Setting->version control->git->path    (git.exe 安装路径)
