@@ -1,6 +1,6 @@
 
-[精尽 Jenkins 学习指南](http://svip.iocoder.cn/Jenkins/tutorials/)|
----|
+[精尽 Jenkins 学习指南](http://svip.iocoder.cn/Jenkins/tutorials/)|[Jenkins中文社区](https://my.oschina.net/jenkinszh)|
+---|---|
 
 
 # 视频
