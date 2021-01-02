@@ -25,11 +25,20 @@
 [【项目实战】微服务多租户系统后台管理系统---基于SpringBoot2.x、SpringCloud和SpringCloudAlibaba并采用前后端分离的企业级微服务多租户系统架构](https://gitee.com/zlt2000/microservices-platform)|
 ---|
 
-[【项目实战】Mall电商系统,包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署](https://github.com/stevenli91748/mall)|[mall电商系统学习教程目录](https://www.jianshu.com/p/3d91982ce458)|
----|---|
-
 [精通 Spring Boot 42 讲---纯洁的微笑](https://github.com/ityouknow/spring-boot-leaning)|
 ---|
+
+* [Github Java Topic排行榜第九排名的项目]()
+  * [【项目实战】MMall电商系统,包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署](https://github.com/stevenli91748/mall)
+  * [mall电商系统学习教程目录](https://www.jianshu.com/p/3d91982ce458)
+  * [Mall电商实战项目开源回忆录！](https://www.jianshu.com/p/307aae750a29)
+  * [mall电商实战项目](https://github.com/macrozheng/mall)
+  * [mall-swarm微服务电商项目](https://github.com/macrozheng/mall-swarm)
+  * [mall-admin-web前端项目](https://github.com/macrozheng/mall-admin-web)
+  * [mall-learning学习教程项目](https://github.com/macrozheng/mall-learning)
+  * [springcloud-learning学习项目](https://github.com/macrozheng/springcloud-learning)
+  * [mall-tiny快速开发脚手架](https://github.com/macrozheng/mall-tiny)
+
 
 # 目录
 * [0. SpringBoot 基础知识 核心知识](https://www.cnblogs.com/crazymakercircle/p/13895735.html)
