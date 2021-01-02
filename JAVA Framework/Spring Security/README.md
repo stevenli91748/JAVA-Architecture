@@ -19,3 +19,6 @@
 
 
 
+# 有用的参考
+
+* [手把手教你搞定权限管理，结合Spring Security实现接口的动态权限控制](https://www.jianshu.com/p/a8e66020fad1)
