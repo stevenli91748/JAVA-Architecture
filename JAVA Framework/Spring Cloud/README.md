@@ -281,3 +281,14 @@
 - [springcloud(十五)：服务网关 Spring Cloud GateWay 初级篇](http://www.ityouknow.com/springcloud/2018/12/12/spring-cloud-gateway-start.html)  
 - [springcloud(十六)：服务网关 Spring Cloud GateWay 服务化和过滤器](http://www.ityouknow.com/springcloud/2019/01/19/spring-cloud-gateway-service.html)  
 - [springcloud(十七)：服务网关 Spring Cloud GateWay 熔断、限流、重试](http://www.ityouknow.com/springcloud/2019/01/26/spring-cloud-gateway-limit.html)  
+
+## Spring Cloud Alibaba实战
+
+* [Spring Cloud Alibaba实战(一) - Nacos动态配置](https://blog.csdn.net/autfish/article/details/90173658)
+* [Spring Cloud Alibaba实战(二) - Nacos注册中心](https://blog.csdn.net/autfish/article/details/90204765)
+* [Spring Cloud Alibaba实战(三) - Sentinel之限流](https://blog.csdn.net/autfish/article/details/90405679)
+* [Spring Cloud Alibaba实战(四) - Sentinel之熔断](https://blog.csdn.net/autfish/article/details/90411698)
+* [Spring Cloud Alibaba实战(五) - Gateway之路由、限流](https://blog.csdn.net/autfish/article/details/90602930)
+* [Spring Cloud Alibaba实战(六) - Gateway之鉴权、日志](https://blog.csdn.net/autfish/article/details/90637957)
+* [Spring Cloud Alibaba实战(七) - Gateway搭配Nacos实现动态路由](https://blog.csdn.net/autfish/article/details/90752293)
+* [Spring Cloud Alibaba实战(八) - Dubbo + Nacos](https://blog.csdn.net/autfish/article/details/91513097)
