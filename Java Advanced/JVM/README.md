@@ -253,6 +253,7 @@
         * 选堆对象：MAT对OQL的支持
      *  可视化性能监控工具Visual VM
         * Visual VM 对OQL的支持
+        * [使用VisualVM监控远程服务器JVM](https://blog.csdn.net/autfish/article/details/51326340)
      *  虚拟机诊断工具Mission Control
      *  [HSDB(Hotspot Debugger)](https://liuzhengyang.github.io/2017/05/27/serviceabilityagent/ "HSDB可以查看Java对象的oops、查看类信息、线程栈信息、堆信息、方法字节码和JIT编译后的汇编代码等")
  
