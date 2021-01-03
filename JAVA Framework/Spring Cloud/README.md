@@ -252,7 +252,7 @@
 - [Netflix Zuul与Nginx的性能对比](http://blog.didispace.com/zuul-vs-nginx-performance/)
 * [Spring Cloud与Dubbo的完美融合](http://blog.didispace.com/spring-cloud-alibaba-dubbo-1/)
 * [Spring Cloud Alibaba与Spring Boot、Spring Cloud之间不得不说的版本关系](http://blog.didispace.com/spring-cloud-alibaba-version/)
-
+* [狂神SpringCloud学习笔记---适配自己的POM](https://blog.csdn.net/weixin_47896156/article/details/110631656?utm_medium=distribute.pc_relevant.none-task-blog-OPENSEARCH-5.not_use_machine_learn_pai&depth_1-utm_source=distribute.pc_relevant.none-task-blog-OPENSEARCH-5.not_use_machine_learn_pai)
 
 -石杉的架构笔记
 * [拜托！面试请不要再问我Spring Cloud底层原理--石杉的架构笔记](https://juejin.im/post/5be13b83f265da6116393fc7)
