@@ -89,8 +89,9 @@
   * [Project的打包处理]()
     * [Maven Project的打包处理]()
     * [非Maven Project的打包处理]()
+  * [IDEA troubleshoting]()
+    * [IDEA中maven项目dependencies报错飘红问题解决](https://blog.csdn.net/qq_34748010/article/details/107878145?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-3.not_use_machine_learn_pai&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-3.not_use_machine_learn_pai)
 
-  
   
   
 * plugin
