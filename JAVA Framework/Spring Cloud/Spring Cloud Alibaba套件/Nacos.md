@@ -1,6 +1,7 @@
 
 # 
-[Nacos Config Example]()
+[Nacos Config Example]()|[ Nacos 服务注册中心环境配置](https://www.cnblogs.com/crazymakercircle/p/11992539.html)  |
+---|---|
 
 
 
