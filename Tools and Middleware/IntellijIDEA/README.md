@@ -37,6 +37,8 @@
     * [IntelliJ IDEA的类注释和方法注释](https://blog.csdn.net/zeal9s/article/details/83514565?utm_source=app)
     * [IDEA 设置代码行宽度](#IDEA-设置代码行宽度)
     * [IDEA 提示不区分大小写](#IDEA-提示不区分大小写)
+    * [代码检测警告提示等级设置](https://blog.csdn.net/qq_27093465/article/details/52918873)
+    * [单词拼写提示](https://blog.csdn.net/qq_27093465/article/details/52918873)
     * [自动编译](#自动编译)
     * [自动导包和智能移除（默认配置）](#自动导包和智能移除)
     * [主题的配置](#主题的配置)
@@ -203,7 +205,9 @@
 
 ### 多行显示Tab的操作
 
-      file->settings->Editor->General->Editor Tabs->show tabs in single row
+   * [tab页面多行显示的设置](https://blog.csdn.net/qq_27093465/article/details/52918873)
+   
+
 
 ### 设置默认的字体 字体大小 字体行间距
 
@@ -391,7 +395,9 @@
 ---
 
 ## 自动导包和智能移除
-
+   
+   * [自动导入包和导入包优化的设置](https://blog.csdn.net/qq_27093465/article/details/52918873)
+   
       具体步骤：顶部工具栏  File ->Settings -> Editor->General -> Auto Import-> set all for insert imports on paste
                                                                               Add unambiguous imports on the fly 自动导入不明确的结构
                                                                               Optimize imports on the fly (for current project) 自动帮我们优化导入的包
