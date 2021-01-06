@@ -1,4 +1,4 @@
-
+* [Eureka crazy](https://www.cnblogs.com/crazymakercircle/p/12043538.html)
 * [Eureka 入门，带视频](https://www.cnblogs.com/crazymakercircle/p/12043538.html)
 * [开放一台Eureka注册中心给各位Spring Cloud爱好者](http://blog.didispace.com/spring-cloud-free-eureka/)
 * [Eureka Client注册到Eureka Server的秘密](http://blog.didispace.com/spring-cloud-eureka-register-detail/)
