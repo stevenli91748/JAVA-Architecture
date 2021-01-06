@@ -76,27 +76,30 @@
       * [SSM集成的配置]()
       * [Spring Boot的配置]()
       * [Spring Cloud的配置]()
-    * [IntelliJ强制更新Maven Dependencies](#IntelliJ强制更新Maven-Dependencies)
-  * [Version Control的配置](#Version-Control的配置)
-    * [Git的配置](#Git的配置)
-  * [Tomcat的配置]()
-    * [tomcat实现热部署的配置](#tomcat实现热部署的配置)
-  * [Nginx的配置]()
-  * [Database的配置]()
-    * [MySQL的配置]()
-    * [Oracle的配置]()
+    * [Version Control的配置](#Version-Control的配置)
+      * [Git的配置](#Git的配置)
+    * [Tomcat的配置]()
+      * [tomcat实现热部署的配置](#tomcat实现热部署的配置)
+    * [Nginx的配置]()
+    * [Database的配置]()
+      * [MySQL的配置]()
+      * [Oracle的配置]()
+* IDEA的操作
+  * [IDEA 一键同时启动多个微服务模块项目](https://blog.csdn.net/kongtong2004/article/details/108886230)
+  * [IntelliJ强制更新Maven Dependencies](#IntelliJ强制更新Maven-Dependencies)
   * [IDEA Debug处理]()
   * [Project的打包处理]()
     * [Maven Project的打包处理]()
     * [非Maven Project的打包处理]()
-  * [IDEA troubleshoting]()
-    * [IDEA中maven项目dependencies报错飘红问题解决](https://blog.csdn.net/qq_34748010/article/details/107878145?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-3.not_use_machine_learn_pai&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-3.not_use_machine_learn_pai)
-
+* [IDEA troubleshoting]()
+  * [IDEA中maven项目dependencies报错飘红问题解决](https://blog.csdn.net/qq_34748010/article/details/107878145?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-3.not_use_machine_learn_pai&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-3.not_use_machine_learn_pai)
+  * [IDEA中Maven依赖下载失败解决方案](https://blog.csdn.net/ThinkWon/article/details/101312918)|
   
   
 * plugin
   * [IDEA插件分享!以Spring Boot项目为载体进行视频教程演示](https://www.bilibili.com/video/BV1XE411K7Fz)
   * [没用过这些IDEA插件？怪不得写代码头疼](https://mp.weixin.qq.com/s/xMwGAL_7sGkmnFvWZroVPw)
+
 ##  必备插件
 
 * [第一弹！安排！安利10个让你爽到爆的IDEA必备插件](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247486586&idx=1&sn=b745f0be1a5fc0160f43625e29df9029&chksm=cea243b1f9d5caa7200950063ae9e1691d3578d46c0b865c8220c8f1e02ed43cb4e586c2524c&token=248911937&lang=zh_CN#rd)
@@ -468,10 +471,6 @@
 ## JUnitGenerator 单元测试测试生成工具
 
 
-# Troubshooting
-
-[IDEA中Maven依赖下载失败解决方案](https://blog.csdn.net/ThinkWon/article/details/101312918)|
----|
 
 
 # 视频
