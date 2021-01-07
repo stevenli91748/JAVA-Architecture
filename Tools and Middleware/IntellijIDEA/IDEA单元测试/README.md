@@ -24,6 +24,7 @@
 
 
 # 有用的参考
+* [单元测试框架的选择](https://zhuanlan.zhihu.com/p/141622441)
 * [从零开始写单元测试](https://yasinshaw.com/articles/102)
 * [测试金字塔实战](https://insights.thoughtworks.cn/practical-test-pyramid/)
 * [intellij idea 自动生成test单元测试](https://www.cnblogs.com/exmyth/p/12420651.html)
