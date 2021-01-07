@@ -12,11 +12,25 @@
         JsonPath：一个JSON操作类库。
 
 # 目录
-  * Junit
-  * TestNG
-    * [TestNG例子程序](http://websystique.com/java/testng-tutorial/)
 
-
+  * 1 基本单元测试框架
+    * Junit
+    * TestNG
+      * [TestNG例子程序](http://websystique.com/java/testng-tutorial/)
+  * 2 模拟框架- Mockito和EasyMock    
+    * Mockito---
+    * EasyMock---它是Mockito的替代品
+    * PowerMock---模拟复杂场景,当您想要模拟静态方法、构造函数和私有方法时，Powermock非常有用
+  * 3 使用Spring Unit ---典型应用程序有多个层，您希望为不同的层（Web，业务和数据）编写单元测试
+    * 3.1 Web层---使用Spring MockMVC和 Spring Unit框架
+      * Spring MockMVC---Spring MockMVC框架可以轻松执行REST API请求
+      * Spring Unit
+    * 3.2 业务层---基于Mockito框架的测试，最好不要启动Spring Context
+    * 3.3 数据层---使用DataJpaTest框架
+      * DataJpaTest---在基于Spring的企业应用程序中对数据层进行单元测试时使用。DataJpaTest在默认情况下，使用内存数据库进行单元测试
+    * 3.4 断言---
+      * JSONAssert
+      * JSONPath
 # 视频
 
 * [JUnit—Java单元测试必备工具](http://www.imooc.com/learn/356)
