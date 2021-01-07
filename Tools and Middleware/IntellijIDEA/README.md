@@ -13,17 +13,12 @@
 [intellij IDEA 2019.3 Linux系统安装](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/IntellijIDEA/intellij%20IDEA%202019.3%20Linux系统安装/README.md)| [Intellij IDEA快捷键大全](https://blog.csdn.net/alik20/article/details/54881003)|[最新 Java 开发工具教程，都在这了](https://mp.weixin.qq.com/s/K2nbzDQmharfYhkBDvwQdw)|
 ---|---|---|
 
-[IDEA中Debug javaScript功能](https://www.bilibili.com/video/av22537758?p=2)|[在IDEA中个性化配置JVM参数](https://www.bilibili.com/video/av22537758?p=1)|[如何运行+如何读代码 如何用IDEA进行调试 ](https://www.bilibili.com/video/BV1y4411p74E)|
----|---|---|
-
-[快速测试 API 接口的新技能](https://juejin.im/post/6844903602503286797)|[IntelliJ IDEA远程Debug Linux的Java程序，找问题不要只会看日志了](https://juejin.im/post/6868793304772870158)|
+[在IDEA中个性化配置JVM参数](https://www.bilibili.com/video/av22537758?p=1)|[快速测试 API 接口的新技能](https://juejin.im/post/6844903602503286797)|
 ---|---|
 
 [全网最全最新的IDEA教程](https://mp.weixin.qq.com/s/Ds1iU6ipMgWyaqaOPgP44g?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)|[IDEA中使用Docker插件](https://mrbird.cc/IDEA-Docker-Plugin.html)|[当Docker遇到Intellij IDEA，再次解放了生产力](https://www.jianshu.com/p/b748e90290d4)|
 ---|---|---|
 
-[在IntelliJ IDEA中多线程并发代码的调试方法](http://www.zimug.com/java/%e5%9c%a8intellij-idea%e4%b8%ad%e5%a4%9a%e7%ba%bf%e7%a8%8b%e5%b9%b6%e5%8f%91%e4%bb%a3%e7%a0%81%e7%9a%84%e8%b0%83%e8%af%95%e6%96%b9%e6%b3%95/.html)|
----|
 
 # 目录
 
