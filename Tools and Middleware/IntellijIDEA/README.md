@@ -90,7 +90,7 @@
 * IDEA的操作
   * [IDEA 一键同时启动多个微服务模块项目](https://blog.csdn.net/kongtong2004/article/details/108886230)
   * [IntelliJ强制更新Maven Dependencies](#IntelliJ强制更新Maven-Dependencies)
-  * [IDEA Debug处理]()
+  * [IDEA Debug处理](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/IntellijIDEA/IDEA%20Debug%E5%A4%84%E7%90%86/README.md)
   * [Project的打包处理]()
     * [Maven Project的打包处理]()
     * [非Maven Project的打包处理]()
