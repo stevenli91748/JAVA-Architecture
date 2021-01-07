@@ -31,6 +31,9 @@
     * 3.4 断言---
       * JSONAssert
       * JSONPath
+  * [4 Testing in Spring Boot    ](https://www.baeldung.com/spring-boot-testing)
+    
+  
 # 视频
 
 * [JUnit—Java单元测试必备工具](http://www.imooc.com/learn/356)
