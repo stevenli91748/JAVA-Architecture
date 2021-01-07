@@ -27,7 +27,7 @@
 [程序猿DD---非常好](http://blog.didispace.com/)|[ 芋道源码------非常好](http://www.iocoder.cn/)|[猿码架构](https://www.jianshu.com/u/657c611b2e07)|[周立的博客](http://itmuch.com/)|[My bird](https://mrbird.cc/archives/)|[疯狂创客圈](https://www.cnblogs.com/crazymakercircle/p/9904544.html)|
 ---|---|---|---|---|---|
 
-[HowToDoInJava(非常多的例子程序，很容易入门)](https://howtodoinjava.com/)|[木九天](https://my.oschina.net/mdxlcj?tab=newest&catalogId=5781789)|
+[HowToDoInJava(非常多的例子程序，包括Java的方方面面)](https://howtodoinjava.com/)|[木九天](https://my.oschina.net/mdxlcj?tab=newest&catalogId=5781789)|
 ---|---|
 
 [手摸手教你学spring boot 2.x](https://www.kancloud.cn/hanxt/springboot2/1719695)|[Spring Security-JWT-OAuth2一本通(基于SpringBoot2.0)](https://www.kancloud.cn/hanxt/springsecurity/1472507)|
