@@ -202,6 +202,7 @@
   *  [JVM各类参数官方文档](https://docs.oracle.com/javase/8/docs/technotes/tools/windows/java.html#BABCBGHF)
   *  [JVM实用参数教程系列---重要](http://ifeve.com/useful-jvm-flags/)
   *  [JVM性能调优](https://www.kancloud.cn/zlt2000/microservices-platform/989551)
+  *  [46张PPT弄懂JVM、GC算法和性能调优](https://blog.csdn.net/youanyyou/article/details/89913387)
   *  常用Java虚拟机参数
      * 系统参数查看
      * 垃圾回收跟踪参数
