@@ -17,4 +17,8 @@
 * [测试金字塔实战](https://insights.thoughtworks.cn/practical-test-pyramid/)
 * [intellij idea 自动生成test单元测试](https://www.cnblogs.com/exmyth/p/12420651.html)
 * [单元测试(Junit+Jmockit)介绍及使用方法](https://www.jianshu.com/p/37de454c5f34)
+* [JUnit单元测试入门必看篇](https://www.jb51.net/article/128856.htm)
+* [java编程之单元测试(Junit)实例分析(附实例源码)](https://www.jb51.net/article/74976.htm)
+* [详解Java单元测试Junit框架实例](https://www.jb51.net/article/111356.htm)
+* [【Spring】Junit加载Spring容器作单元测试](https://www.cnblogs.com/swugogo/p/5908435.html)
 * [Spring boot, mockito and junit – unit test service layer](https://howtodoinjava.com/spring-boot2/testing/spring-boot-mockito-junit-example/)
