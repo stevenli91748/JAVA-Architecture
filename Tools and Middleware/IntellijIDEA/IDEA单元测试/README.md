@@ -24,6 +24,7 @@
 
 
 # 有用的参考
+* [最佳Java单元测试框架](https://juejin.cn/post/6844903941038161928)
 * [单元测试框架的选择](https://zhuanlan.zhihu.com/p/141622441)
 * [从零开始写单元测试](https://yasinshaw.com/articles/102)
 * [测试金字塔实战](https://insights.thoughtworks.cn/practical-test-pyramid/)
