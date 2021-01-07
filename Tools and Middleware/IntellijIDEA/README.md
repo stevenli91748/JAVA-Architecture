@@ -34,6 +34,7 @@
     * [IntelliJ IDEA 内存配置](#IntelliJ-IDEA-内存配置)
       * [IntelliJ IDEA 修改内存大小，运行大项目再也不卡了](https://blog.csdn.net/ouyangguangfly/article/details/88951835?utm_source=app)
       * [IDEA优化内存配置，可提高启动和运行速度](https://blog.csdn.net/Genius_in_the_left/article/details/95397777?utm_source=app)
+      * [IntelliJ IDEA 内存优化最佳实践---对 IntelliJ IDEA 内存采用不同的设置方案，会对 IDEA 的速度和响应能力产生不同的影响](https://javastack.blog.csdn.net/article/details/105911407?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromBaidu-1.not_use_machine_learn_pai&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromBaidu-1.not_use_machine_learn_pai)
     * [IntelliJ IDEA的类注释和方法注释](https://blog.csdn.net/zeal9s/article/details/83514565?utm_source=app)
     * [IDEA 设置代码行宽度](#IDEA-设置代码行宽度)
     * [IDEA 提示不区分大小写](#IDEA-提示不区分大小写)
