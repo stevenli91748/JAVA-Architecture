@@ -11,6 +11,17 @@
         JSONassert：一个用于JSON的断言库。
         JsonPath：一个JSON操作类库。
 
+# 目录
+  * Junit
+  * TestNG
+    * [TestNG例子程序](http://websystique.com/java/testng-tutorial/)
+
+
+# 视频
+
+* [JUnit—Java单元测试必备工具](http://www.imooc.com/learn/356)
+* [Junit 视频]((https://www.bilibili.com/video/av46370535?from=search&seid=5196717484594619472))
+
 
 # 有用的参考
 * [从零开始写单元测试](https://yasinshaw.com/articles/102)
@@ -22,3 +33,10 @@
 * [详解Java单元测试Junit框架实例](https://www.jb51.net/article/111356.htm)
 * [【Spring】Junit加载Spring容器作单元测试](https://www.cnblogs.com/swugogo/p/5908435.html)
 * [Spring boot, mockito and junit – unit test service layer](https://howtodoinjava.com/spring-boot2/testing/spring-boot-mockito-junit-example/)
+* [像这样做单元测试](https://my.oschina.net/huangyong/blog/162325)
+* [最佳Java单元测试框架](https://juejin.im/post/6844903941038161928)
+
+
+
+
+
