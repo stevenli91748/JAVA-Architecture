@@ -24,8 +24,11 @@
 [芋道源码---前端 后端 网络 数据库 消息队列等的学习指南](http://svip.iocoder.cn/tags/%E5%AD%A6%E4%B9%A0%E6%8C%87%E5%8D%97/)|[精尽 Java【基础】学习指南](http://svip.iocoder.cn/Java/Core/tutorials/)|
 ---|---|
 
-[程序猿DD---非常好](http://blog.didispace.com/)|[ 芋道源码------非常好](http://www.iocoder.cn/)|[猿码架构](https://www.jianshu.com/u/657c611b2e07)|[周立的博客](http://itmuch.com/)|[My bird](https://mrbird.cc/archives/)|[木九天](https://my.oschina.net/mdxlcj?tab=newest&catalogId=5781789)|[疯狂创客圈](https://www.cnblogs.com/crazymakercircle/p/9904544.html)|
----|---|---|---|---|---|---|
+[程序猿DD---非常好](http://blog.didispace.com/)|[ 芋道源码------非常好](http://www.iocoder.cn/)|[猿码架构](https://www.jianshu.com/u/657c611b2e07)|[周立的博客](http://itmuch.com/)|[My bird](https://mrbird.cc/archives/)|[疯狂创客圈](https://www.cnblogs.com/crazymakercircle/p/9904544.html)|
+---|---|---|---|---|---|
+
+[HowToDoInJava(非常多的例子程序，很容易入门)](https://howtodoinjava.com/)|[木九天](https://my.oschina.net/mdxlcj?tab=newest&catalogId=5781789)|
+---|---|
 
 [手摸手教你学spring boot 2.x](https://www.kancloud.cn/hanxt/springboot2/1719695)|[Spring Security-JWT-OAuth2一本通(基于SpringBoot2.0)](https://www.kancloud.cn/hanxt/springsecurity/1472507)|
 ---|---|
