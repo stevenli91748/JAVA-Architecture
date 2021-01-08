@@ -31,7 +31,7 @@
     * 3.4 断言---
       * JSONAssert
       * JSONPath
-  * [4 Testing in Spring Boot ---- test framework for spring boot   ](https://www.baeldung.com/spring-boot-testing)
+  * [4 Testing in Spring Boot ---- test framework for spring boot  重要 ](https://www.baeldung.com/spring-boot-testing)
     
   
 # 视频
@@ -55,6 +55,7 @@
 * [像这样做单元测试](https://my.oschina.net/huangyong/blog/162325)
 * [最佳Java单元测试框架](https://juejin.im/post/6844903941038161928)
 
+* [Java testing Tutorials](https://howtodoinjava.com/)
 * [sample: creating a Spring application and then testing it with JUnit  ---spring office](https://spring.io/guides/gs/testing-web/)
 
 
