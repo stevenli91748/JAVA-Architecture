@@ -36,4 +36,4 @@
 
 # 有用的参考
 
-* [测试金字塔实战](https://insights.thoughtworks.cn/practical-test-pyramid/)
+* [测试金字塔实战----一个微服务应用测试例子](https://insights.thoughtworks.cn/practical-test-pyramid/)
