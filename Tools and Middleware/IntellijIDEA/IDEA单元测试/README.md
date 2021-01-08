@@ -24,10 +24,10 @@
   * 3 使用Spring Unit ---典型应用程序有多个层，您希望为不同的层（Web，业务和数据）编写单元测试
     * 3.1 Web层---使用Spring MockMVC和 Spring Unit框架
       * [Spring MockMVC---Spring MockMVC框架可以轻松执行REST API请求](http://zetcode.com/spring/mockmvc/)
-      * Spring Unit
+      * [Spring Unit](https://docs.spring.io/spring-batch/docs/current/reference/html/testing.html)
     * 3.2 业务层---基于Mockito框架的测试，最好不要启动Spring Context
     * 3.3 数据层---使用DataJpaTest框架
-      * DataJpaTest---在基于Spring的企业应用程序中对数据层进行单元测试时使用。DataJpaTest在默认情况下，使用内存数据库进行单元测试
+      * [DataJpaTest---在基于Spring的企业应用程序中对数据层进行单元测试时使用。DataJpaTest在默认情况下，使用内存数据库进行单元测试](https://bezkoder.com/spring-boot-unit-test-jpa-repo-datajpatest/)
     * 3.4 断言---
       * JSONAssert
       * JSONPath
