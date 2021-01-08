@@ -55,6 +55,7 @@
     * [IDEA单元测试的配置](https://www.cnblogs.com/exmyth/p/12420651.html)  
     * [IDEA集成测试的配置]()
     * [IDEA springboot项目启动怎么跳过test测试类](https://bbs.csdn.net/topics/392436884)
+    * [spring boot 打包时如何跳过单元测试](https://blog.csdn.net/weixin_43244841/article/details/105330875?utm_medium=distribute.pc_relevant_bbs_down.none-task-blog-baidujs-1.nonecase&depth_1-utm_source=distribute.pc_relevant_bbs_down.none-task-blog-baidujs-1.nonecase)
   * [快捷键的设置](#快捷键的设置)  
     * [快捷键的搜索](#快捷键的搜索)
     * [执行 alt+r]
