@@ -554,6 +554,6 @@ Spring Boot 并不是用来替代 Spring 的解决方案，而是和 Spring 框�
 * [Springboot整合支付宝沙箱支付（支付和退款）](https://www.jianshu.com/p/b256e62fb3c9)
 * [SpringBoot 创建定时任务（配合数据库动态执行）](https://www.jianshu.com/p/fd863dc561b3)
 * [Springboot项目配置https](https://www.jianshu.com/p/3e1b4695bf77)
-
+* [java - Spring Boot不运行单元测试](https://www.coder.work/article/1803608)
 # spring boot 项目中的pom.xml文件的配置
 * [spring-boot-dependencies、spring-boot-starter-parent、io.spring.platform详解](https://www.cnblogs.com/ld-mars/p/11720444.html)
