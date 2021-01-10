@@ -226,10 +226,12 @@
 
 ### 设置项目文件编码
 
-     file->settings->Editor->File Encodings-> Global Encoding
-                                              Project Encoding
-                                              Default encoding for properties files
-                                              Transparent native to ascii conversion
+     file->settings->Editor->File Encodings-> 
+     
+        设置 Global Encoding： UTF-8
+        设置 Project Encoding： UTF-8
+        设置 Default encoding for properties files: UTF-8
+        [X]  Transparent native to ascii conversion
                                               
 ### 设置代码水平或垂直显示
 
