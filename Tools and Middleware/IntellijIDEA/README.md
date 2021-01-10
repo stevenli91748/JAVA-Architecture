@@ -35,7 +35,7 @@
     * [IDEA 提示不区分大小写---重要](#IDEA-提示不区分大小写)
     * [代码检测警告提示等级设置](https://blog.csdn.net/qq_27093465/article/details/52918873)
     * [单词拼写提示](https://blog.csdn.net/qq_27093465/article/details/52918873)
-    * [自动编译](#自动编译)
+    * [自动编译---重要](#自动编译)
     * [自动导包和智能移除（默认配置）---重要](#自动导包和智能移除)
     * [主题的配置](#主题的配置)
     * [设置窗体及菜单的字体及字体大小](#设置窗体及菜单的字体及字体大小)
@@ -426,8 +426,10 @@
 
     1. 开启IDEA的自动编译（静态）
 
-       具体步骤：打开顶部工具栏 File -> Settings ->Build Execution Deployment->Complier-> Build project automatically
-                                                                                        Compile independent modules in parallel
+       具体步骤：打开顶部工具栏 File -> Settings ->Build Execution Deployment->Complier-> 
+       
+                    [X] Build project automatically
+                    [X] Compile independent modules in parallel
 
     2. 开启IDEA的自动编译（动态）
 
