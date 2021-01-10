@@ -399,9 +399,12 @@
    
    * [自动导入包和导入包优化的设置](https://blog.csdn.net/qq_27093465/article/details/52918873)
    
-      具体步骤：顶部工具栏  File ->Settings -> Editor->General -> Auto Import-> set all for insert imports on paste
-                                                                              Add unambiguous imports on the fly 自动导入不明确的结构
-                                                                              Optimize imports on the fly (for current project) 自动帮我们优化导入的包
+      具体步骤：顶部工具栏  File ->Settings -> Editor->General -> Auto Import-> 设置 insert imports on paste 为 ALL,它默认为 ask
+                            然后 在 show import popup for:  check the box              
+                            [x] classes
+                            [x] static methods and fields
+                            [x]  Add unambiguous imports on the fly 自动导入不明确的结构
+                            [x] Optimize imports on the fly (for current project) 自动帮我们优化导入的包
                                                                 
 
 ## Tomcat Server（当前项目配置）
