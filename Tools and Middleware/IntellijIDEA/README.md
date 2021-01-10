@@ -222,7 +222,7 @@
 
 ### 设置类头的文档注释信息
 
-     file->settings->Editor->File and Code Templates-> tab includes-> file header
+     file->settings->Editor->File and Code Templates-> includes-> file header
 
 ### 设置项目文件编码
 
