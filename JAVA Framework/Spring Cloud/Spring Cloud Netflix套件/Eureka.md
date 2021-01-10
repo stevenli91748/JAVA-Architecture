@@ -1,5 +1,5 @@
-[使用Eureka搭建微服务注册中心](https://www.kancloud.cn/mrbird/spring-cloud/1263688)
----|
+[使用Eureka搭建微服务注册中心](https://www.kancloud.cn/mrbird/spring-cloud/1263688)|[在windows环境下构建Eureka Server集群](https://blog.csdn.net/weixin_33953249/article/details/92334749?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-3.not_use_machine_learn_pai&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-3.not_use_machine_learn_pai)|[在linux环境下构建Eureka Server集群]()|
+---|---|---|
 
 # 目录
 
