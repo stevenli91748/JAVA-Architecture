@@ -19,6 +19,7 @@ Eureka由两个组件组成：Eureka服务器和Eureka客户端。Eureka服务�
 
 
 # 有用的参考
+* [springboot2.0+spring cloud+eureka（分布式项目）项目搭建详细教程（附加源码）](https://blog.csdn.net/hp_yangpeng/article/details/88803911?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-1.not_use_machine_learn_pai&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-1.not_use_machine_learn_pai)
 * [eureka集群高可用配置](https://tianyalei.blog.csdn.net/article/details/78184793?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-6.not_use_machine_learn_pai&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-6.not_use_machine_learn_pai)
 * [Spring Cloud Eureka集群部署到Linux环境](https://www.cnblogs.com/wuxun1997/p/11230848.html)
 * [Linux下eureka服务器的部署](https://blog.csdn.net/qq_45012223/article/details/100896025)
@@ -34,3 +35,9 @@ Eureka由两个组件组成：Eureka服务器和Eureka客户端。Eureka服务�
 * [Spring Cloud构建微服务架构（六）高可用服务注册中心](http://blog.didispace.com/springcloud6/)
 * [Spring Cloud构建微服务架构（二）服务消费者](http://blog.didispace.com/springcloud2/)
 * [Spring Cloud构建微服务架构（一）服务注册与发现](http://blog.didispace.com/springcloud1/)
+
+
+# troubleshooting
+
+* [SpringCloud 运行Eureka Server启动成功但是一直不能加载Eureka Server的Home首页](https://blog.csdn.net/qq_31150503/article/details/86079433?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-3.not_use_machine_learn_pai&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-3.not_use_machine_learn_pai)
+* [SpringBoot集成Eureka踩坑集合](https://blog.csdn.net/Dan1374219106/article/details/109730883?utm_medium=distribute.pc_relevant.none-task-blog-OPENSEARCH-7.not_use_machine_learn_pai&depth_1-utm_source=distribute.pc_relevant.none-task-blog-OPENSEARCH-7.not_use_machine_learn_pai)
