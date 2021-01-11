@@ -16,6 +16,7 @@ Eureka由两个组件组成：Eureka服务器和Eureka客户端。Eureka服务�
 
 
 # 有用的参考
+* [eureka集群高可用配置](https://tianyalei.blog.csdn.net/article/details/78184793?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-6.not_use_machine_learn_pai&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-6.not_use_machine_learn_pai)
 * [Spring Cloud Eureka集群部署到Linux环境](https://www.cnblogs.com/wuxun1997/p/11230848.html)
 * [Linux下eureka服务器的部署](https://blog.csdn.net/qq_45012223/article/details/100896025)
 * [在windows环境下构建Eureka Server集群](https://blog.csdn.net/weixin_33953249/article/details/92334749?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-3.not_use_machine_learn_pai&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-3.not_use_machine_learn_pai)
