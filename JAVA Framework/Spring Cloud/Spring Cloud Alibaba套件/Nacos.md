@@ -48,3 +48,11 @@
 * [Spring Cloud Alibaba基础教程：Sentinel使用Nacos存储规则](http://blog.didispace.com/spring-cloud-alibaba-sentinel-2-1/)
 * [Nacos配置中心原理](http://blog.didispace.com/nacos-yuanli-1/)
 * [Nacos注册、发现、消费入门](https://www.jianshu.com/p/0f5b5f2bb1a8)
+
+
+* [阿里巴巴NACOS（1）- 概述及简单使用](https://www.jianshu.com/p/c19ba3b971a5)
+* [阿里巴巴NACOS（2）- 为Spring Cloud提供服务注册发现及配置](https://www.jianshu.com/p/fcf71fa840a4)
+* [阿里巴巴NACOS（3）- 部署Nacos的生产集群环境](https://www.jianshu.com/p/abc1d405953c)
+* [阿里巴巴NACOS（4）- 主流微服务配置中心产品比较 Spring Cloud Config、阿里云ACM、Nacos](https://www.jianshu.com/p/be168b0633a6)
+* [阿里巴巴NACOS（5）- 主流微服务注册中心产品比较 Eureka、Consul、Nacos](https://www.jianshu.com/p/54f525334658)
+* [阿里巴巴NACOS（6）- 在k8s上部署Nacos](https://www.jianshu.com/p/ce76e30f9247)
