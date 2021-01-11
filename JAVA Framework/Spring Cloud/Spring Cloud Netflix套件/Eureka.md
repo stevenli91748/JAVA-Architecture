@@ -1,5 +1,8 @@
-[Eureka停更后的替换](https://blog.csdn.net/XJ0927/article/details/109405285?utm_medium=distribute.pc_relevant.none-task-blog-OPENSEARCH-6.not_use_machine_learn_pai&depth_1-utm_source=distribute.pc_relevant.none-task-blog-OPENSEARCH-6.not_use_machine_learn_pai)|[使用Eureka搭建微服务注册中心](https://www.kancloud.cn/mrbird/spring-cloud/1263688)|[在windows环境下构建Eureka Server集群](https://gjiazhi.blog.csdn.net/article/details/103348886?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-1.not_use_machine_learn_pai&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-1.not_use_machine_learn_pai)|[在linux环境下构建Eureka Server集群]()|
----|---|---|---|
+[Eureka停更后的替换](https://blog.csdn.net/XJ0927/article/details/109405285?utm_medium=distribute.pc_relevant.none-task-blog-OPENSEARCH-6.not_use_machine_learn_pai&depth_1-utm_source=distribute.pc_relevant.none-task-blog-OPENSEARCH-6.not_use_machine_learn_pai)|
+---|
+
+[使用Eureka搭建微服务注册中心](https://www.kancloud.cn/mrbird/spring-cloud/1263688)|[在windows环境下构建Eureka Server集群](https://gjiazhi.blog.csdn.net/article/details/103348886?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-1.not_use_machine_learn_pai&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-1.not_use_machine_learn_pai)|[在linux环境下构建Eureka Server集群]()|
+---|---|---|
 
 # 目录
 
