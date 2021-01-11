@@ -47,3 +47,4 @@
 * [Nacos部署中的一些常见问题汇总](http://blog.didispace.com/nacos-faqs/)
 * [Spring Cloud Alibaba基础教程：Sentinel使用Nacos存储规则](http://blog.didispace.com/spring-cloud-alibaba-sentinel-2-1/)
 * [Nacos配置中心原理](http://blog.didispace.com/nacos-yuanli-1/)
+* [Nacos注册、发现、消费入门](https://www.jianshu.com/p/0f5b5f2bb1a8)
