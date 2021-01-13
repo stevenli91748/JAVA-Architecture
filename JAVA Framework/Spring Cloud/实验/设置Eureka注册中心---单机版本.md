@@ -10,7 +10,7 @@
         </dependency>
 
 
-第三步： 设置主程序代码
+第三步： 设置主程序代码, 在主类上添加 @EnableEurekaServer
 
 ```java
 
@@ -34,3 +34,26 @@ public class DemoEurekaApplication {
 
 
 ```
+
+第四步： 设置application.yml文件
+
+                server:
+                  port: 8123     //可以任意端口号
+
+                eureka:
+                  client:
+                    register-with-eureka: false
+                    fetch-registry: false
+                    service-url:
+                      defaultZone: http://localhost:8123/eureka/
+
+
+第五步： 运行程序 run
+
+第六步： 在浏览器上输入
+
+        http://localhost:8123/eureka  如果不能看到eureka的页面， 就输入http://localhost:8123 如果还是不能看到Eureka的页面
+        
+        就在application.yml里添加spring.freemarker.prefer-file-system-access: false, 因为 eureka的页面是用freemarker编写的
+        
+        
