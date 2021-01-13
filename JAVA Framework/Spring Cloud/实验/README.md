@@ -2,11 +2,17 @@
 * [例子程序](#例子程序)
 * [参考文章](#参考文章)
 
-## 例子程序
+# 例子程序
 
-### Eureka Demo
+## Eureka Demo
+
 * [Eureka 提供方 demo](https://blog.csdn.net/KinseyGeek/article/details/78597605)
 * [Eureka 消费端demo](https://blog.csdn.net/KinseyGeek/article/details/78597476)
+
+### 设置Eureka注册中心
+
+* [设置Eureka注册中心---单机版本]()
+
 
 ---
 
