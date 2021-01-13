@@ -8,7 +8,7 @@
 # 例子程序
 
 
-* [在IDEA环境中建立单机的Eureka注册中心]()
+* [在IDEA环境中建立单机的Eureka注册中心](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/%E5%AE%9E%E9%AA%8C/README.md#设置Eureka注册中心)
 
 
 # 目录
