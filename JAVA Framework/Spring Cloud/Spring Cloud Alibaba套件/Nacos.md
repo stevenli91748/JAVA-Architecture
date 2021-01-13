@@ -43,7 +43,7 @@
 * [阿里巴巴 Nacos 企业级落地上篇](https://mp.weixin.qq.com/s?__biz=MzUzNzYxNjAzMg==&mid=2247492337&idx=1&sn=71df8eee2b4ab038a502bebcb2d3ced2&chksm=fae6e93ecd91602888cfee80041c6b37566a5e5cd1066df16439d320438c07a9375d3345554d&scene=21#wechat_redirect)
 * [阿里巴巴 Nacos 企业级落地中篇](https://mp.weixin.qq.com/s?__biz=MzUzNzYxNjAzMg==&mid=2247492504&idx=2&sn=292b1fd8019d5679cbe0857c51cb62ff&chksm=fae6e857cd916141c70fa1d046bf6ef80b9c94b5ebe917cda2c04ad9d88dbff3063d63c48f99&scene=21#wechat_redirect)
 * [阿里巴巴  Nacos企业级落地下篇](https://www.kubernetes.org.cn/8186.html)
-
+* [Nacos生产环境集群部署方案](https://blog.csdn.net/u010046908/article/details/101050759?ops_request_misc=%25257B%252522request%25255Fid%252522%25253A%252522161052021616780266261355%252522%25252C%252522scm%252522%25253A%25252220140713.130102334.pc%25255Fall.%252522%25257D&request_id=161052021616780266261355&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_v2~rank_v29-1-101050759.pc_search_result_cache&utm_term=nacos%E9%9B%86%E7%BE%A4%E9%83%A8%E7%BD%B2)
 
 - [开放一台Nacos服务端给各位Spring Cloud爱好者](http://blog.didispace.com/open-nacos-server-1-0-0/)
 - [Spring Cloud Alibaba基础教程：使用Nacos实现服务注册与发现](http://blog.didispace.com/spring-cloud-alibaba-1/)
