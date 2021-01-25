@@ -7,8 +7,8 @@
      upstream（负载均衡服务器设置）：指令主要用于负载均衡，设置一系列的后端服务器
      location（URL匹配特定位置的设置）：用于匹配网页位置。
 
-[nginx基本配置与参数说明](https://www.nginx.cn/76.html)|
----|
+[nginx基本配置与参数说明](https://www.nginx.cn/76.html)|[nginx location匹配规则](https://www.nginx.cn/115.html)|
+---|---|
  
 # 目录 
  
