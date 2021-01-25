@@ -12,6 +12,9 @@
    
 # 将nginx配置为负载均衡器
 
+如果您希望提高Web应用程序的性能和可用性，那么设置负载均衡器绝对值得考虑。使用nginx进行负载均衡功能强大且设置相对简单，并且与简单的加密解决方案（例如Let's Encrypt客户端）一起使用，它为您的Web场提供了一个很好的前端
+
+
    [root@master]# vi /etc/nginx/conf.d/load-balancer.conf or vi /etc/nginx/nginx.conf
 
          #定义要包含在负载均衡方案中的服务器。  
@@ -163,9 +166,7 @@
      
          http {
               upstream cc.mybird.com {
-                 
-                 
-                 
+
                  server 10.1.0.101:8080 weight=4;
                  server 10.1.0.102:8080 weight=2;   //10.1.0.101:8080 端口的选择频率是 10.1.0.102:8080 的两倍
                  server 10.1.0.103:8080 weight=8;
@@ -227,6 +228,14 @@
 
 在服务器标记失败并且fail_timeout设置的时间已过后，nginx将开始使用客户端请求正常探测服务器。如果探测返回成功，则服务器再次标记为可用并且正常包含在负载平衡中
      
+     
+        upstream cc.mybird.com {
+            server 10.1.0.101 weight=5;
+            server 10.1.0.102 max_fails=3 fail_timeout=30s;
+            server 10.1.0.103;
+         }
+     
+使用运行状况检查可以根据需要通过启动或关闭主机来使服务器后端适应当前需求。在高流量期间启动其他服务器可以在新资源自动供负载均衡器使用时轻松提高应用程序性能     
      
 # 视频
 
