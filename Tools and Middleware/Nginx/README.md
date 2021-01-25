@@ -148,3 +148,4 @@ tomcat的优势在于少量的接收并处理复杂的http请求（将用户请�
 * [Nginx 证书部署](http://www.dev-share.top/2017/12/11/nginx-%e8%af%81%e4%b9%a6%e9%83%a8%e7%bd%b2/)
 * [docker-compose 安装 Nginx](http://www.dev-share.top/2020/06/07/docker-compose-%e5%ae%89%e8%a3%85-nginx/)
 * [nginx服务器安装及配置文件详解](https://www.jianshu.com/p/57eacdaf7392)
+* [程序员要搞明白Nginx，这篇应该够了！](https://www.jianshu.com/p/42d90e7acf6f)
