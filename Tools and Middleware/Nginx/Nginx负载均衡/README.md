@@ -192,7 +192,7 @@
       
 # 启用HTTPS的负载均衡      
 
-    为您的网站启用HTTPS是保护访问者及其数据的好方法。建议大家开启https，可以提高搜索排名。了解如何在[nginx上安装Let's Encrypt](https://upcloud.com/community/tutorials/install-lets-encrypt-nginx/)
+ 为您的网站启用HTTPS是保护访问者及其数据的好方法。建议大家开启https，可以提高搜索排名。了解如何在[nginx上安装Let's Encrypt](https://upcloud.com/community/tutorials/install-lets-encrypt-nginx/)
     
     
     
