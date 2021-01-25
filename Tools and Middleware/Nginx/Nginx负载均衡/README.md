@@ -1,25 +1,44 @@
 
-# 负载均衡
+# 将nginx配置为负载均衡器
 
-     添加多台server 
-     
-     upstream demo{
-        server 192.168.2.138:8080;
-        server 192.168.2.138:8081;
-     }   
+   [root@master]# vi /etc/nginx/conf.d/load-balancer.conf or vi /etc/nginx/nginx.conf
 
-     修改location为 
+         #定义要包含在负载均衡方案中的服务器。  
+         #最好使用服务器的私有IP以获得更好的性能和安全性。 
      
-     location / {
-            proxy_pass  https://demo;
-            root   html;
-            index  index.html index.htm;
-     }
+         http {
+              upstream cc.mybird.com {
+                 server 10.1.0.101:8080;
+                 server 10.1.0.102:8080;
+                 server 10.1.0.103:8080;
 
-     /  斜杠指的是，所有的流量都要经过这里
+                 server 10.1.0.101:8081;
+                 server 10.1.0.102:8081;
+                 server 10.1.0.103:8081;
+                 
+              }
+
+              #该服务器接受到端口80的所有流量并将其传递给上游upstream 。
+              #请注意，upstream名称和proxy_pass需要匹配。
+              
+              server {
+                 listen 80;
+                  location / {
+                     proxy_pass http://cc.mybird.com;
+                     root html;
+                     index index.html index.htm;
+                 }
+              }
+           }
+
+       /  斜杠指的是，所有的流量都要经过这里
      
-     http://localhost/index.html
-     有时是8080响应，有时是8081响应
+       http://cc.mybird.com/index.html
+       有时是8080响应，有时是8081响应
+
+
+
+
      
      
 
