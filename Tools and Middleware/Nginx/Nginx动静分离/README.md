@@ -36,4 +36,4 @@
 * [nginx tomcat 动静分离配置](https://blog.csdn.net/a1161638319/article/details/78389247)
 * [基于前后端分离的Nginx+Tomcat动静分离](https://blog.csdn.net/weixin_34191845/article/details/93628653)
 * [nginx+tomcat实现动静分离](https://www.cnblogs.com/xiaoblog/p/4241086.html)
-* [/usr/local/nginx/conf/nginx.conf Nginx配置文件详解](https://blog.csdn.net/IsResultXaL/article/details/52032842)
+* [Nginx+Tomcat配置动静分离(附完整配置+注释)](https://blog.csdn.net/IsResultXaL/article/details/52032842)
