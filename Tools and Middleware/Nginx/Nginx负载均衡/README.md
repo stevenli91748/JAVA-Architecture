@@ -194,8 +194,27 @@
 
  为您的网站启用HTTPS是保护访问者及其数据的好方法。建议大家开启https，可以提高搜索排名。了解如何在[nginx上安装Let's Encrypt](https://upcloud.com/community/tutorials/install-lets-encrypt-nginx/)
     
+ 在负载均衡器中使用https加密比想象的要容易。需要做的就是在负载均衡器配置文件中添加另一个服务器server，该server使用SSL监听端口443上的HTTPS流量，并为 upstream 段
+ 设置 proxy_pass ，就像上一个示例中的HTTP一样。再次打开配置文件进行编辑
     
+    [root@master]# vi /etc/nginx/conf.d/load-balancer.conf  or  vi /etc/nginx/nginx.conf
     
+    然后将以下服务器段添加到文件末尾。
+    
+    server {
+      listen 443 ssl;
+      server_name domain_name;
+      ssl_certificate /etc/letsencrypt/live/domain_name/cert.pem;
+      ssl_certificate_key /etc/letsencrypt/live/domain_name/privkey.pem;
+      ssl_protocols TLSv1 TLSv1.1 TLSv1.2;
+      location / {
+         proxy_pass http://cc.mybird.com;
+      }
+    }
+    
+    重新启动nginx:
+    
+    [root@master]# systemctl restart nginx
     
 
      
