@@ -37,3 +37,5 @@
 * [Nginx正向代理与反向代理](https://www.jianshu.com/p/ae76c223c6ef)
 * [Nginx代理多台tomcat服务](https://www.jianshu.com/p/675317d33eac)
 * [分享一个Nginx反向代理的另类应用案例](https://zhang.ge/5148.html)
+* [nginx正向代理配置](https://www.nginx.cn/482.html)
+* [nginx反向代理配置](https://www.nginx.cn/927.html)
