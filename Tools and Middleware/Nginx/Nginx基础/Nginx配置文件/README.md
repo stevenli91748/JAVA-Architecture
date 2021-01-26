@@ -83,9 +83,9 @@ events事件指令是设定Nginx的工作模式及连接数上限
 
 1. 定义MIMI-Type
    
-  1.1  include  mime.types;     //该指令主要用于将其他的Nginx配置或第三方模块的配置引用到当前的主配文件中，减少主配置文件的复杂度
+   1.1  include  mime.types;     //该指令主要用于将其他的Nginx配置或第三方模块的配置引用到当前的主配文件中，减少主配置文件的复杂度
   
-  1.2  default_type  application/octet-stream; //HTTP核心模块指令，这里设定默认类型为二进制流。也就是当文件类型未定义时使用这种方式
+   1.2  default_type  application/octet-stream; //HTTP核心模块指令，这里设定默认类型为二进制流。也就是当文件类型未定义时使用这种方式
 
 2. 自定义服务日志
 
