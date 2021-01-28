@@ -51,6 +51,7 @@
   * [1b SpringBoot配置文件](#1b-SpringBoot配置文件)
   * [1c SpringBoot内存](#1c-SpringBoot内存)
   * [1d SpringBoot Bean](#1d-SpringBoot-Bean)
+  * [Spring Boot的并发编程](https://cloud.tencent.com/developer/article/1347245?from=information.detail.spring%E9%AB%98%E5%B9%B6%E5%8F%91)
   
 * [2. 工程配置](#2-工程配置)
   * [2a 热部署](#2a-热部署)
