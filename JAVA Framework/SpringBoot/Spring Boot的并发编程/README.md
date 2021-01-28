@@ -5,3 +5,4 @@
 
 * [Spring Boot的并发编程](https://cloud.tencent.com/developer/article/1347245?from=information.detail.spring%E9%AB%98%E5%B9%B6%E5%8F%91)
 * [Spring 异步调用，一行代码实现！舒服，不接受任何反驳](https://cloud.tencent.com/developer/article/1632359?from=article.detail.1347245)
+* [Spring Boot启用异步线程](https://cloud.tencent.com/developer/article/1609499?from=article.detail.1632359)
