@@ -121,7 +121,7 @@ tomcat的优势在于少量的接收并处理复杂的http请求（将用户请�
  * [理论：lvs，Nginx，Haproxy三种负载均衡机制的基本架构和对比](https://www.cnblogs.com/deny/p/12904468.html)
  * [LVS+Keepalived+Nginx实现HA](https://www.jianshu.com/p/88589646aae8)
  * [LVS负载均衡器集群的配置](https://www.keepalived.org/pdf/sery-lvs-cluster.pdf?spm=a2c6h.12873639.0.0.4aef7d44UlfFfQ&file=sery-lvs-cluster.pdf)
-
+ * [我个人的分布式集群问题集锦，nginx/lvs/dns/cdn](https://blog.csdn.net/libaineu2004/article/details/79119145)
  * [如何让网站和API都支持HTTPS？在Nginx上做文章是个好选择](https://www.jianshu.com/p/e2f3de2485a8)
  * [就是要让你搞懂Nginx，这篇就够了！](https://www.jianshu.com/p/e31bd628b634)
  * [看完这篇文章，还不懂nginx，算我输](https://zhuanlan.zhihu.com/p/152526491?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)
