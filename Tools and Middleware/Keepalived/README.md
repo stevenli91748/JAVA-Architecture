@@ -27,3 +27,4 @@
 * [KeepAlived 安装部署-备节点](http://www.dev-share.top/2019/12/04/keepalived-%e5%ae%89%e8%a3%85%e9%83%a8%e7%bd%b2-%e5%a4%87%e8%8a%82%e7%82%b9/)
 * [KeepAlived + HAProxy 高可用](http://www.dev-share.top/2019/12/10/keepalived-haproxy-%e9%ab%98%e5%8f%af%e7%94%a8/)
 * [使用HAProxy 为TiDB-Server 做负载均衡](http://www.dev-share.top/2019/09/25/%E4%BD%BF%E7%94%A8-docker-compose-%E5%81%9A-tidb-server-%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1-haproxy/)
+* [我个人的分布式集群问题集锦，nginx/lvs/dns/cdn](https://blog.csdn.net/libaineu2004/article/details/79119145)
