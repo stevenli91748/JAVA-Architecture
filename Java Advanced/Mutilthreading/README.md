@@ -64,7 +64,8 @@
   * 用于线程通信的Condition条件接口
   * 支持异步计算的Callable接口和Future接口
   * 通过线程池来高效管理多个线程
-
+* 多线程设计模式
+  * [future模式](https://www.jianshu.com/p/949d44f3d9e3)
 
 # 视频
  * [Java工程师 高并发与多线程网络编程 （完）](https://www.bilibili.com/video/BV1L4411i7eW/?spm_id_from=333.788.videocard.19)
