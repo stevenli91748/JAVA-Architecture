@@ -134,6 +134,8 @@
 
 ## Synchronized
 
+    什么时候加synchronized，当某个资源被共享时，就可考虑给该资源加Synchronized以确保线程安全
+
     java用synchronized关键字做为多线程并发环境的执行有序性的保证手段之一。当一段代码会修改共享变量，这一段代码成为互斥区或临界区，为了保证共享变量的正确性，synchronized标示了临界区。
     典型的用法如下
 
