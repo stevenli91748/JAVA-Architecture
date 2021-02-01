@@ -7,6 +7,9 @@
   * Lambda表达式中的方法引用
   * 函数式接口
 
+
+# 有用的参考
+* []()
 * [Java内部类与lambda表达式](https://blog.csdn.net/m0_38090156/article/details/79493515)
 * [java8 lambda详解](https://blog.csdn.net/wxycm/article/details/80429299)
 * [Java8新特性之Lambda表达式浅析](https://www.jb51.net/article/50816.htm)
