@@ -91,6 +91,8 @@
 
 
 <a href="https://ibb.co/qjM4xvY"><img src="https://i.ibb.co/Gpv1FqQ/JMM-1.png" alt="JMM-1" border="0"></a>
+
+使用Volatile后：
 <a href="https://ibb.co/QPqXDHh"><img src="https://i.ibb.co/R3M7j6t/JMM-2.png" alt="JMM-2" border="0"></a>
 
 
