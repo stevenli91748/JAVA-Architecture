@@ -8,3 +8,4 @@
 * [Spring Boot启用异步线程](https://cloud.tencent.com/developer/article/1609499?from=article.detail.1632359)
 * [Spring Boot中的并发处理](https://blog.happyhack.io/2019/08/30/springboot-concurrency/)
 * [springboot配置线程池-高并发场景](https://zhuanlan.zhihu.com/p/149274738)
+* [springboot利用@Async提升API接口并发能力](http://www.danyuanblog.com/blog/app/blog/blogDetail.html?id=5e6d13094c636312f4b7091a)
