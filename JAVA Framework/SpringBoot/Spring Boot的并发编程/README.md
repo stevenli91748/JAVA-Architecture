@@ -7,3 +7,4 @@
 * [Spring 异步调用，一行代码实现！舒服，不接受任何反驳](https://cloud.tencent.com/developer/article/1632359?from=article.detail.1347245)
 * [Spring Boot启用异步线程](https://cloud.tencent.com/developer/article/1609499?from=article.detail.1632359)
 * [Spring Boot中的并发处理](https://blog.happyhack.io/2019/08/30/springboot-concurrency/)
+* [springboot配置线程池-高并发场景](https://zhuanlan.zhihu.com/p/149274738)
