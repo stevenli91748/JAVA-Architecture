@@ -344,6 +344,9 @@
   * [Spring Boot – Deploy WAR file to Tomcat](https://mkyong.com/spring-boot/spring-boot-deploy-war-file-to-tomcat/)
   * [Spring Boot应用部署于外置Tomcat容器](http://www.codesheep.cn/2018/06/05/SpringBoot%E5%BA%94%E7%94%A8%E9%83%A8%E7%BD%B2%E4%BA%8E%E5%A4%96%E7%BD%AETomcat%E5%AE%B9%E5%99%A8/)
   * [How to deploy Maven based war file to Tomcat](https://mkyong.com/maven/how-to-deploy-maven-based-war-file-to-tomcat/)
+  * [在Docker中怎样部署SpringBoot项目集群](https://www.kancloud.cn/pm1028/kubenetes/1767445)
+
+
 ---
 
 
