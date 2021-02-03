@@ -10,3 +10,4 @@
 * [springboot配置线程池-高并发场景](https://zhuanlan.zhihu.com/p/149274738)
 * [springboot利用@Async提升API接口并发能力](http://www.danyuanblog.com/blog/app/blog/blogDetail.html?id=5e6d13094c636312f4b7091a)
 * [Spring Boot 多线程](https://www.jianshu.com/p/769573bd362c)
+* [spring-boot | 多线程并发定时任务](https://www.jianshu.com/p/0db083bf4d39)
