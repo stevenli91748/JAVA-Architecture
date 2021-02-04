@@ -39,7 +39,7 @@
   * Spring Kafka
   * Spring 
 * Spring Source Code
-* [Spring 异步调用](https://cloud.tencent.com/developer/article/1632359?from=article.detail.1347245)
+* [Spring 异步调用](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring%E6%A1%86%E6%9E%B6%E7%9A%84%E5%BC%82%E6%AD%A5%E6%89%A7%E8%A1%8C/README.md)
 
 ---
 
