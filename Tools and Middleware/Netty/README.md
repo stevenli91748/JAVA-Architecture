@@ -69,6 +69,12 @@
 * [Netty 5.0为啥被舍弃？原因竟然是](https://mp.weixin.qq.com/s?__biz=MzA5NTUzNTA2Mw==&mid=2454932288&idx=1&sn=149a790e4d3d6b2722ccdb677e54a666&scene=21#wechat_redirect)
 
 
+### I/O网络通信框架发展
+* [手动搭建I/O网络通信框架1：Socket和ServerSocket入门实战，实现单聊](https://www.cnblogs.com/lbhym/p/12673470.html)
+* [手动搭建I/O网络通信框架2：BIO编程模型实现群聊](https://www.cnblogs.com/lbhym/p/12681787.html)
+* [手动搭建I/O网络通信框架3：NIO编程模型，升级改造聊天室](https://www.cnblogs.com/lbhym/p/12698309.html)
+* [手动搭建I/O网络通信框架4：AIO编程模型，聊天室终极改造](https://www.cnblogs.com/lbhym/p/12720944.html)
+
 
 
 
