@@ -7,11 +7,23 @@
 [疯狂创客圈 IM---从0开始100w分布式 Java 高并发、分布式应用实战](https://gitee.com/crazymaker/crazy_tourist_circle__im)|[实战Netty集群 - CrazyIM 分布式聊天实战](https://www.cnblogs.com/crazymakercircle/p/11470287.html)|
 ---|---|
 
-  [SpringBoot+Netty+WEBSOCKET  聊天/推送 源码](https://gitee.com/crazymaker/websocket_chat_room)|
-  ---|
+[SpringBoot+Netty+WEBSOCKET  聊天/推送 源码](https://gitee.com/crazymaker/websocket_chat_room)|
+---|
 
  [实战 从0开始，打造亿级 仿 微信 IM后台](https://www.cnblogs.com/crazymakercircle/p/9912267.html)|
  ---|
+
+### I/O网络通信框架的发展历程：
+* [手动搭建I/O网络通信框架1：Socket和ServerSocket入门实战，实现单聊](https://www.cnblogs.com/lbhym/p/12673470.html)
+* [手动搭建I/O网络通信框架2：BIO编程模型实现群聊](https://www.cnblogs.com/lbhym/p/12681787.html)
+* [手动搭建I/O网络通信框架3：NIO编程模型，升级改造聊天室](https://www.cnblogs.com/lbhym/p/12698309.html)
+* [手动搭建I/O网络通信框架4：AIO编程模型，聊天室终极改造](https://www.cnblogs.com/lbhym/p/12720944.html)
+
+[ServerSocket与Socket入门详解](https://blog.csdn.net/J080624/article/details/78468396)|[Socket编程实践模拟通信](https://blog.csdn.net/J080624/article/details/78468502)|
+---|---|
+
+
+
 
 # 目录
 * 高并发IO的底层原理
