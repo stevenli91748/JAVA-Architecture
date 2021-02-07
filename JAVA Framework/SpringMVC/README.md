@@ -48,8 +48,8 @@
 [SpringMvc @InitBinder 表单多对象精准绑定接收](https://blog.csdn.net/qq_25821067/article/details/75281281)|[SpringMVC注解 @initbinder 解决类型转换问题](https://blog.csdn.net/jiangyu1013/article/details/92830954?utm_medium=distribute.pc_relevant.none-task-blog-OPENSEARCH-5.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-OPENSEARCH-5.nonecase)|
 ---|---|
 
-[扒光SpringMVC华丽的外衣](https://www.bilibili.com/video/BV1Hp411d7CJ)|
----|
+[扒光SpringMVC华丽的外衣](https://www.bilibili.com/video/BV1Hp411d7CJ)|[使用IDEA创建SpringMVC项目](https://www.cnblogs.com/lbhym/p/11970634.html)|
+---|---|
 
 
 
