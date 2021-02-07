@@ -18,6 +18,7 @@
 * [手动搭建I/O网络通信框架2：BIO编程模型实现群聊](https://www.cnblogs.com/lbhym/p/12681787.html)
 * [手动搭建I/O网络通信框架3：NIO编程模型，升级改造聊天室](https://www.cnblogs.com/lbhym/p/12698309.html)
 * [手动搭建I/O网络通信框架4：AIO编程模型，聊天室终极改造](https://www.cnblogs.com/lbhym/p/12720944.html)
+* [SpringBoot+Netty+WebSocket实现实时通信](https://www.cnblogs.com/lbhym/p/12497212.html)
 
 [ServerSocket与Socket入门详解](https://blog.csdn.net/J080624/article/details/78468396)|[Socket编程实践模拟通信](https://blog.csdn.net/J080624/article/details/78468502)|
 ---|---|
