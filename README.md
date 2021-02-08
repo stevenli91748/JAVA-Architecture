@@ -13,6 +13,7 @@
 # [13 个技术电子书资源站，从此看书不求人](https://my.oschina.net/u/4455409/blog/4785105)
 # [从学渣到博士：一个学习方法改变我的命运，自创2.0版费曼学习法](https://www.youtube.com/watch?v=hh9kFKVKpSM)
 # [An Entire Software Development Life Cycle - Full Guide (Tutorial)](https://www.youtube.com/watch?v=9PgZCJNzY9M&list=RDCMUC2WHjPDvbE6O328n17ZGcfg&start_radio=1&t=80)
+# [阿里云开发者社区——藏经阁系列电子书](https://developer.aliyun.com/ebook?spm=a2c6h.12873639.0.0.6cc46517ypEaxy)
 ---
 
 
