@@ -486,6 +486,7 @@ Spring Boot 并不是用来替代 Spring 的解决方案，而是和 Spring 框�
 
 
 # 有用的参考
+  * [请问看懂java高级框架spring boot需要那些知识？](https://www.zhihu.com/question/436636345/answer/1708342093?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=group3_Answer&utm_campaign=shareopn)
   * [SpringBoot应用整合ELK实现日志收集](https://www.jianshu.com/p/6f1a0487acf8)
   * [学习 Spring Boot 知识看这一篇就够了](https://zhuanlan.zhihu.com/p/37372007)
   * [教你理清 SpringBoot 与 SpringMVC 的关系](http://www.iocoder.cn/Fight/Teach-you-to-clarify-the-relationship-between-SpringBoot-and-SpringMVC/)
