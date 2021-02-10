@@ -181,3 +181,4 @@
 # 有用的参考
 
 * [【Java多线程】主内存与工作内存分析](https://blog.csdn.net/qq877728715/article/details/101547608)
+* [20 张图揭开内存管理的迷雾](https://mp.weixin.qq.com/s/4FF5uH0YVTAM9-llKTAWKA)
