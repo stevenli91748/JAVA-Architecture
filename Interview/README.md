@@ -43,8 +43,8 @@
 [阿里云---Java面试红宝书](https://developer.aliyun.com/graph/java/point/103?spm=a2c6h.21254954.0.0.342e5907quXIz6)|
 ---|
 
-[芋道源码 ---各种面试题](http://svip.iocoder.cn/tags/%E9%9D%A2%E8%AF%95%E9%A2%98/)|[Java基础知识面试题（2020最新版）](https://thinkwon.blog.csdn.net/article/details/104390612)|
----|---|
+[芋道源码 ---各种面试题](http://svip.iocoder.cn/tags/%E9%9D%A2%E8%AF%95%E9%A2%98/)|[Java基础知识面试题（2020最新版）](https://thinkwon.blog.csdn.net/article/details/104390612)|[2020年Java基础高频面试题汇总（1.4W字详细解析）](https://mp.weixin.qq.com/s?__biz=MzIwNjg4MzY4NA==&mid=2247484486&idx=1&sn=650ca3ab865d0a5cc1eb53cf2d8392c2&chksm=971b9a4da06c135b068d4dd0d1f201e7571170d851fc540fce2032d2c14b79a83e037555c62a&scene=21#wechat_redirect)|
+---|---|---|
 
 [Java集合容器面试题（2020最新版）](https://thinkwon.blog.csdn.net/article/details/104588551)|[Java异常面试题（2020最新版）](https://thinkwon.blog.csdn.net/article/details/104390689)|[Java集合容器面试题（2020最新版）](https://thinkwon.blog.csdn.net/article/details/104588551)|
 ----|---|---|
