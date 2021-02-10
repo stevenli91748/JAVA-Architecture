@@ -655,6 +655,7 @@ SQL语言|[MySQL](https://github.com/stevenli91748/Database/blob/master/MySQL/RE
 
 
 # 有用的参考
+  * [一套公共性的 Java 后端开发实践 - 项目模板](https://insights.thoughtworks.cn/backend-development-iteration0/)
   * [阿里云官网内容平台](https://my.oschina.net/yunqi?tab=activity)
   * [geeksforgeeks---英文教程，非常全面和详细](https://www.geeksforgeeks.org/)
   * [Java Tutorials---英文教程,有很多例子教程，很好 很详细](https://mkyong.com/spring-boot/spring-boot-yaml-example/)
