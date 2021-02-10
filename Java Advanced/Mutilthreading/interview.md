@@ -1,3 +1,6 @@
+[2020年Java多线程与并发系列22道高频面试题解析](https://mp.weixin.qq.com/s?__biz=MzIwNjg4MzY4NA==&mid=2247484552&idx=1&sn=6b0acf6d7501997d5a145db92f78a486&chksm=971b9a83a06c1395addfbfda02ed0ef9790f2a730a39d228119ef5abc2bb0fb4bf1fc42a1190&scene=21#wechat_redirect)|
+---|
+
 这也是必问的一块了。因为三年工作经验，所以基本上不会再问你怎么实现多线程了，会问得深入一些比如说Thread和Runnable的区别和联系、多次start一个线程会怎么样、线程有哪些状态。当然这只是最基本的，出乎意料地，几次面试几乎都被同时问到了一个问题，问法不尽相同，总结起来是这么一个意思：
 
 假如有Thread1、Thread2、ThreaD3、Thread4四条线程分别统计C、D、E、F四个盘的大小，所有线程都统计完毕交给Thread5线程去做汇总，应当如何实现？
