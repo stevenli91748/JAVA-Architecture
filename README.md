@@ -298,6 +298,7 @@
 <a href="https://ibb.co/YLk15F3"><img src="https://i.ibb.co/1mqPCtL/image.jpg" alt="image" border="0"></a>
 
 * [AlibabaP8级互联网Java架构师视频教程135集全套完整版](https://www.bilibili.com/video/BV1Yk4y1y76r/?spm_id_from=333.788.videocard.4)
+* [B站唯一讲的最好的阿里P7级Java架构师课程全套视频精讲100集](https://www.bilibili.com/video/BV1oh411o77X/?spm_id_from=333.788.videocard.5)
 * [重要 千万级项目从0到100的成长全过程--涵盖Java程序员不同成长阶段的问题及优选解决方案](https://github.com/stevenli91748/JAVA-Architecture/blob/master/project/千万级项目从0到100的成长全过程项目.md)
 * [重要 Docker环境下的前后端分离项目部署与运维 --分布式集群部署  Haproxy Nginx负载均衡  Keepalived避免容灾  阿里云部署](https://github.com/stevenli91748/JAVA-Architecture/blob/master/project/Docker环境下的前后端分离项目部署与运维.md)
 * [【（千锋教育）Java 单体应用合集】走向单体地狱](https://www.bilibili.com/video/av29299488/?spm_id_from=333.788.videocard.18)
