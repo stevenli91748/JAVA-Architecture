@@ -682,7 +682,7 @@ SQL语言|[MySQL](https://github.com/stevenli91748/Database/blob/master/MySQL/RE
   * [石杉的架构笔记](https://juejin.im/user/5be0588ae51d452b0255727d)
   * [如何设计一个web容器](https://mp.weixin.qq.com/s?__biz=MjM5MzA1Mzc3Nw==&mid=2247483699&idx=1&sn=66d916f204121243c39d8e3c3f0b88f0&chksm=a69dac0d91ea251bdaf7a16f1acf7ad790de164fe6a45be8a18fcb7ebf5a3b079a93cbc6b67f&scene=21#wechat_redirect)
   * [java开发涉及到的各种框架比较，技术选型](https://blog.csdn.net/qq_26925039/article/details/53884529)
-  
+  * [24张图，九大数据结构安排得明明白白！](https://mp.weixin.qq.com/s/ZVwIUN-xf9FuxOFXW8H3Nw)
   * [后台服务程序框架技术选型方案](https://blog.csdn.net/coloriy/article/details/66969756)
   * [深入解析java应用程序的一般架构（好文）](https://blog.csdn.net/hliq5399/article/details/51584622)
   * [JavaWeb项目部署到服务器详细步骤](https://blog.csdn.net/parade0393/article/details/78768414)
