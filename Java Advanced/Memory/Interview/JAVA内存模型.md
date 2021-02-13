@@ -1,4 +1,10 @@
+<details>
+<summary> 深拷贝/浅拷贝 </summary>
 
+[一个工作三年的同事，居然还搞不清深拷贝/浅拷贝，被老大批了](https://www.bilibili.com/read/cv7349900)
+
+
+</details>
 
 <details>
 <summary>java 进程内存组成</summary>
