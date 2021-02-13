@@ -116,8 +116,8 @@
 [Linux内核源码研读与实战演练 (35课时)](https://www.bilibili.com/video/av68372387/?spm_id_from=333.788.videocard.1)|[如何做代码审查](http://www.imooc.com/course/introduction/id/1225)|[看完这篇，别人的开源项目结构应该能看懂了](https://www.bilibili.com/read/cv5236887?from=articleDetail)|
 ---|---|---|
 
-[阿里巴巴开发手册]()|[看完这篇，别人的开源项目结构应该能看懂了](https://www.bilibili.com/read/cv5236887?from=articleDetail)|
----|---|
+[阿里巴巴开发手册]()|
+---|
 
 
 # 开源项目实践
