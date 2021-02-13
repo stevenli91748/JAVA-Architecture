@@ -1,8 +1,8 @@
 # [并发知识点](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/Concurrency/并发面试.md)
 
 
-[精尽 Java【并发】学习指南](http://svip.iocoder.cn/Java/Concurrent/tutorials/)|[高并发都要学哪些技术](https://zhuanlan.zhihu.com/p/139509856?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)|
----|----|
+[精尽 Java【并发】学习指南](http://svip.iocoder.cn/Java/Concurrent/tutorials/)|[高并发都要学哪些技术](https://zhuanlan.zhihu.com/p/139509856?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)|[Disruptor高并发开发框架](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/%E5%88%86%E5%B8%83%E5%BC%8FDisruptor%E9%AB%98%E6%80%A7%E8%83%BD%E5%B9%B6%E5%8F%91%E6%A1%86%E6%9E%B6/README.md)|
+---|----|---|
 
 
 [高并发编程从入门到精通（一）](https://juejin.im/post/6844904195091349512)|[高并发编程从入门到精通（二）](https://juejin.im/post/6844904199004635143)|[高并发编程从入门到精通（三）](https://juejin.im/post/6847902217123397639)|
