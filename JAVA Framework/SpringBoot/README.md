@@ -45,6 +45,12 @@
   * [mall-learning学习教程项目](https://github.com/macrozheng/mall-learning)
   * [springcloud-learning学习项目](https://github.com/macrozheng/springcloud-learning)
   * [mall-tiny快速开发脚手架](https://github.com/macrozheng/mall-tiny)
+* [5个值得学习和练手的java企业级开源项目!]()
+  * [1. JeeSite---JeeSite 是一个 Java EE 企业级快速开发平台，基于经典技术组合（Spring Boot、Spring MVC、Apache Shiro、MyBatis、Beetl、Bootstrap、AdminLTE）采用经典开发模式，让初学者能够更快的入门并投入到团队开发中去 ](https://github.com/thinkgem/jeesite "在线代码生成功能，包括核心模块如：组织机构、角色用户、菜单及按钮授权、数据权限、系统参数、内容管理、工作流等。采用松耦合设计；界面无刷新，一键换肤；众多账号安全设置，密码策略；在线定时任务配置；支持集群，支持SAAS；支持多数据源；支持微服务")
+  * [2. XMall商城---一个基于SOA架构的分布式电商购物商城，并且前后端分离 是初学者练手的不错的项目](https://github.com/Exrick/xmall "项目所用技术栈：SSM、Elasticsearch、Redis、MySQL、ActiveMQ、Shiro、Dubbo、Zookeeper、Vue.js ")
+  * [3. Cloud-Platform---项目所用技术栈：Spring Boot、Spring Cloud全家桶、Vue.js](https://gitee.com/geek_qi/cloud-platform "Cloud-Platform是国内首个基于Spring Cloud的微服务开发平台，具有统一授权、认证后台管理系统，其中包含具备用户管理、资源权限管理、网关API 管理等多个模块，支持多业务系统并行开发，可以作为后端服务的开发脚手架。代码简洁，架构清晰，适合学习和直接项目中使用 ")
+  * [4. Piggy Metrics---项目所用技术栈：Spring Boot、Spring Cloud、Docker等](https://github.com/sqshq/piggymetrics "Piggy Metrics是一个基于Spring Boot, Spring Cloud和Docker等技术实现的微服务脚手架，项目包含了：API网关、服务发现、负载均衡、熔断机制、配置中心、监控服务、认证服务等几大微服务项目基本模块，对学习和练手微服务项目是不错的选择")
+  * [5. mall---项目所用技术栈：Spring Boot、Spring Security、MyBatis、Elasticsearch、RabbitMq、Redis、MongoDb、Docker 、Vue.js等](https://github.com/macrozheng/mall "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块")
 
 
 # 目录
