@@ -313,6 +313,10 @@
   * [mall-learning学习教程项目](https://github.com/macrozheng/mall-learning)
   * [springcloud-learning学习项目](https://github.com/macrozheng/springcloud-learning)
   * [mall-tiny快速开发脚手架](https://github.com/macrozheng/mall-tiny)
+* [5个值得学习和练手的java企业级开源项目!]()
+  * [JeeSite---JeeSite 是一个 Java EE 企业级快速开发平台，基于经典技术组合（Spring Boot、Spring MVC、Apache Shiro、MyBatis、Beetl、Bootstrap、AdminLTE）采用经典开发模式，让初学者能够更快的入门并投入到团队开发中去 ](https://github.com/thinkgem/jeesite)
+  * [XMall商城---一个基于SOA架构的分布式电商购物商城，并且前后端分离 是初学者练手的不错的项目](https://github.com/Exrick/xmall "项目所用技术栈：SSM、Elasticsearch、Redis、MySQL、ActiveMQ、Shiro、Dubbo、Zookeeper、Vue.js ")
+
 
 ### 尚硅谷
 * [19年尚硅谷新项目-尚筹网-单一架构阶段一](https://www.bilibili.com/video/av82534518/?spm_id_from=333.788.b_636f6d6d656e74.6)
