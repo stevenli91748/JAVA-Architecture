@@ -319,6 +319,9 @@
   * [3. Cloud-Platform---项目所用技术栈：Spring Boot、Spring Cloud全家桶、Vue.js](https://gitee.com/geek_qi/cloud-platform "Cloud-Platform是国内首个基于Spring Cloud的微服务开发平台，具有统一授权、认证后台管理系统，其中包含具备用户管理、资源权限管理、网关API 管理等多个模块，支持多业务系统并行开发，可以作为后端服务的开发脚手架。代码简洁，架构清晰，适合学习和直接项目中使用 ")
   * [4. Piggy Metrics---项目所用技术栈：Spring Boot、Spring Cloud、Docker等](https://github.com/sqshq/piggymetrics "Piggy Metrics是一个基于Spring Boot, Spring Cloud和Docker等技术实现的微服务脚手架，项目包含了：API网关、服务发现、负载均衡、熔断机制、配置中心、监控服务、认证服务等几大微服务项目基本模块，对学习和练手微服务项目是不错的选择")
   * [5. mall---项目所用技术栈：Spring Boot、Spring Security、MyBatis、Elasticsearch、RabbitMq、Redis、MongoDb、Docker 、Vue.js等](https://github.com/macrozheng/mall "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块")
+  * [6. SnowJena---帮助我们学习和实践限流这一常见的技术方案和实现原理，二是帮助我们学习和理解常见的设计模式](https://github.com/ystcode/SnowJena "SnowJena是一个基于令牌桶算法实现的分布式无锁限流框架，支持熔断降级，支持动态配置规则，支持可视化监控，开箱即用。可用于Java后端项目常见的本地限流和分布式限流的场景")
+  * [7. seata---分布式事务问题几乎是当下后端开发和架构领域最棘手和最有含金量的问题之一，多学点总是好的](https://github.com/seata/seata "Seata 是一款阿里巴巴开源的分布式事务解决方案，致力于在微服务架构下提供高性能和简单易用的分布式事务服务")
+  * [8. Java---基于Java语言的数据结构和算法题练手必备](https://github.com/TheAlgorithms/Java "这是一个基于Java的数据结构与算法的实现项目。里面包含了几乎常用所有数据结构的实现，以及诸多算法题和LeetCode习题的Java实现")
 ### 尚硅谷
 * [19年尚硅谷新项目-尚筹网-单一架构阶段一](https://www.bilibili.com/video/av82534518/?spm_id_from=333.788.b_636f6d6d656e74.6)
 * [19年尚硅谷新项目-尚筹网-分布式架构阶段二](https://www.bilibili.com/video/av82805897/?spm_id_from=333.788.b_636f6d6d656e74.7)
