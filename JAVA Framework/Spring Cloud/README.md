@@ -41,17 +41,22 @@
  [【项目实战】2020最新Java项目实战APM性能监控系统](https://www.bilibili.com/video/BV15t4y117xN/?spm_id_from=333.788.videocard.5)|[SpringBoot 2.x ShardingSphere分库分表实战](https://juejin.im/post/6844903857336614920)|
  ---|---|
 
-# 8个值得学习和练手的java企业级开源项目
+# 13个值得学习和练手的java企业级开源项目
 
-* [8个值得学习和练手的java企业级开源项目!]()
   * [1. JeeSite---JeeSite 是一个 Java EE 企业级快速开发平台，基于经典技术组合（Spring Boot、Spring MVC、Apache Shiro、MyBatis、Beetl、Bootstrap、AdminLTE）采用经典开发模式，让初学者能够更快的入门并投入到团队开发中去 ](https://github.com/thinkgem/jeesite "在线代码生成功能，包括核心模块如：组织机构、角色用户、菜单及按钮授权、数据权限、系统参数、内容管理、工作流等。采用松耦合设计；界面无刷新，一键换肤；众多账号安全设置，密码策略；在线定时任务配置；支持集群，支持SAAS；支持多数据源；支持微服务")
   * [2. XMall商城---一个基于SOA架构的分布式电商购物商城，并且前后端分离 是初学者练手的不错的项目](https://github.com/Exrick/xmall "项目所用技术栈：SSM、Elasticsearch、Redis、MySQL、ActiveMQ、Shiro、Dubbo、Zookeeper、Vue.js ")
-  * [3. Cloud-Platform---项目所用技术栈：Spring Boot、Spring Cloud全家桶、Vue.js](https://gitee.com/geek_qi/cloud-platform "Cloud-Platform是国内首个基于Spring Cloud的微服务开发平台，具有统一授权、认证后台管理系统，其中包含具备用户管理、资源权限管理、网关API 管理等多个模块，支持多业务系统并行开发，可以作为后端服务的开发脚手架。代码简洁，架构清晰，适合学习和直接项目中使用 ")
-  * [4. Piggy Metrics---项目所用技术栈：Spring Boot、Spring Cloud、Docker等](https://github.com/sqshq/piggymetrics "Piggy Metrics是一个基于Spring Boot, Spring Cloud和Docker等技术实现的微服务脚手架，项目包含了：API网关、服务发现、负载均衡、熔断机制、配置中心、监控服务、认证服务等几大微服务项目基本模块，对学习和练手微服务项目是不错的选择")
-  * [5. mall---项目所用技术栈：Spring Boot、Spring Security、MyBatis、Elasticsearch、RabbitMq、Redis、MongoDb、Docker 、Vue.js等](https://github.com/macrozheng/mall "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块")
-  * [6. SnowJena---帮助我们学习和实践限流这一常见的技术方案和实现原理，二是帮助我们学习和理解常见的设计模式](https://github.com/ystcode/SnowJena "SnowJena是一个基于令牌桶算法实现的分布式无锁限流框架，支持熔断降级，支持动态配置规则，支持可视化监控，开箱即用。可用于Java后端项目常见的本地限流和分布式限流的场景")
-  * [7. seata---分布式事务问题几乎是当下后端开发和架构领域最棘手和最有含金量的问题之一，多学点总是好的](https://github.com/seata/seata "Seata 是一款阿里巴巴开源的分布式事务解决方案，致力于在微服务架构下提供高性能和简单易用的分布式事务服务")
-  * [8. Java---基于Java语言的数据结构和算法题练手必备](https://github.com/TheAlgorithms/Java "这是一个基于Java的数据结构与算法的实现项目。里面包含了几乎常用所有数据结构的实现，以及诸多算法题和LeetCode习题的Java实现")
+  * [3. Cloud-Platform---综合平台类项目,项目所用技术栈：Spring Boot、Spring Cloud全家桶、Vue.js](https://gitee.com/geek_qi/cloud-platform "Cloud-Platform是国内首个基于Spring Cloud的微服务开发平台，具有统一授权、认证后台管理系统，其中包含具备用户管理、资源权限管理、网关API 管理等多个模块，支持多业务系统并行开发，可以作为后端服务的开发脚手架。代码简洁，架构清晰，适合学习和直接项目中使用 ")
+  * [4. open-capacity-platform---综合平台类项目,一个学习Spring Cloud微服务技术栈的不错范例，其同样也包含了微服务架构里面的各种应用组件](https://gitee.com/owenwangwen/open-capacity-platform "open-capacity-platform也是一个学习Spring Cloud微服务技术栈的不错范例，其同样也包含了微服务架构里面的各种应用组件")
+  * [5. Piggy Metrics---项目所用技术栈：Spring Boot、Spring Cloud、Docker等](https://github.com/sqshq/piggymetrics "Piggy Metrics是一个基于Spring Boot, Spring Cloud和Docker等技术实现的微服务脚手架，项目包含了：API网关、服务发现、负载均衡、熔断机制、配置中心、监控服务、认证服务等几大微服务项目基本模块，对学习和练手微服务项目是不错的选择")
+  * [6. mall---项目所用技术栈：Spring Boot、Spring Security、MyBatis、Elasticsearch、RabbitMq、Redis、MongoDb、Docker 、Vue.js等](https://github.com/macrozheng/mall "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块")
+  * [7. SnowJena---帮助我们学习和实践限流这一常见的技术方案和实现原理，二是帮助我们学习和理解常见的设计模式](https://github.com/ystcode/SnowJena "SnowJena是一个基于令牌桶算法实现的分布式无锁限流框架，支持熔断降级，支持动态配置规则，支持可视化监控，开箱即用。可用于Java后端项目常见的本地限流和分布式限流的场景")
+  * [8. seata---分布式事务问题几乎是当下后端开发和架构领域最棘手和最有含金量的问题之一，多学点总是好的](https://github.com/seata/seata "Seata 是一款阿里巴巴开源的分布式事务解决方案，致力于在微服务架构下提供高性能和简单易用的分布式事务服务")
+  * [9. Java---基于Java语言的数据结构和算法题练手必备](https://github.com/TheAlgorithms/Java "这是一个基于Java的数据结构与算法的实现项目。里面包含了几乎常用所有数据结构的实现，以及诸多算法题和LeetCode习题的Java实现")
+  * [10. JeeSite---典型的SSM后台管理项目](https://gitee.com/thinkgem/jeesite "这是个典型的SSM后台管理项目（不是有很多小伙伴让推荐SSM项目练手嘛），基于经典技术组合（Spring MVC、Shiro、MyBatis、Bootstrap UI等）开发，适合学习练手。而且它作为一个典型的后台管理系统，要素基本都有，包括：组织机构、角色用户、权限授权、数据权限、内容管理、工作流等。尤其要提的就是最后的工作流模块，它可以实现提工单、审核/审批等流程，这个在后台管理类项目里是必备的模块。")
+  * [11. platform-wechat-mall---商城类项目](https://gitee.com/fuyang_lipengjun/platform "该项目是一个开源的微信小程序商城，虽说其项目技术栈不算特别新，后端用的也是SSM框架，但是它作为一个商城项目，要素模块基本都包含了，比如：系统后台管理、商品后台管理、移动端商城的API接口、手机移动端商城、微信小程序商城等等。而且主要功能也非常丰富，包括：会员管理、商城配置、商品管理、推广管理、订单和系统管理等等")
+  * [12. spring-boot-seckill---秒杀类项目](https://gitee.com/52itstyle/spring-boot-seckill "秒杀类开源项目其实很难得，毕竟涉及高并发的一些问题嘛，这些在面试时都是能让面试官眼前一亮的东西。
+这个项目与其说是一个开源项目，倒不如说是一些具体秒杀问题里面的案例集合,秒杀系统基本设计思想无非也就是：限流、缓存、异步、分摊、主备，其实某一程度上来说就是开源+节流的思想,所以通过它应该能学到一些比CRUD高级一些的技术，诸如：线程池、锁、分布式锁、消息队列（kafka）、缓存（redis） 等等")
+  * [13. roncoo-pay---支付类项目](https://gitee.com/roncoocom/roncoo-pay "支付系统嘛，集成了主流支付方式、支付平台等，除此之外它还有些额外的管理功能，比如对账、结算、交易订单的管理等等，所以也有后台管理的,该项目的技术栈也是后端的主流技术，包括：Spring Boot、Shiro、MyBatis、Redis等。开源的支付类项目平时见得可能也不多，它也是一个偏业务类型的开源项目。毕竟开源项目很少有业务强相关的，开源出来的东西，业务一般都剥离出去了。该项目涉及了一些和支付相关的业务流程，包括：支付流程、对账流程、结算流程等等。")
 
 
 
