@@ -118,6 +118,7 @@ tomcat的优势在于少量的接收并处理复杂的http请求（将用户请�
  * [Linux下nginx的安装使用+负载均衡+集群搭建](https://www.bilibili.com/video/av66388283?from=search&seid=3209376219057807635)
 
 # 有用的参考
+ * [从一份配置清单详解Nginx服务器配置](https://mp.weixin.qq.com/s?__biz=MzU4ODI1MjA3NQ==&mid=2247483807&idx=1&sn=e3a164701c2f6e0f3cf91bd25d595479&chksm=fdded75bcaa95e4d857e5f4e040f37b7c3d8f3b301856493419498b6e54d8a43addfc25e7505&scene=21#wechat_redirect)
  * [理论：lvs，Nginx，Haproxy三种负载均衡机制的基本架构和对比](https://www.cnblogs.com/deny/p/12904468.html)
  * [LVS+Keepalived+Nginx实现HA](https://www.jianshu.com/p/88589646aae8)
  * [LVS负载均衡器集群的配置](https://www.keepalived.org/pdf/sery-lvs-cluster.pdf?spm=a2c6h.12873639.0.0.4aef7d44UlfFfQ&file=sery-lvs-cluster.pdf)
