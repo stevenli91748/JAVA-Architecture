@@ -1,6 +1,6 @@
 
-[Spring Boot面试题（2020最新版）](https://thinkwon.blog.csdn.net/article/details/104397299)|
----|
+[Spring Boot面试题（2020最新版）](https://thinkwon.blog.csdn.net/article/details/104397299)|[Spring Boot基础面试题大集合](https://mp.weixin.qq.com/s/cLh9xCDkVG0KV-uaX8PkNw)|
+---|---|
 
 <details>
 <summary>classpath根路径是什麽？</summary>
