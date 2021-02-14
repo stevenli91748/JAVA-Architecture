@@ -1,6 +1,6 @@
 
-[JVM面试题（2020最新版）](https://thinkwon.blog.csdn.net/article/details/104390752)|[77道JVM系列面试题总结（2万字解析）](https://mp.weixin.qq.com/s?__biz=MzIwNjg4MzY4NA==&mid=2247485319&idx=1&sn=63cb1fdf3b56e4a84d7768e80f71e027&chksm=971b998ca06c109aa7de32d4f254e51a516647430e3934192dbf799fda12a82024396adbf40d&scene=21#wechat_redirect)|
----|---|
+[JVM面试题（2020最新版）](https://thinkwon.blog.csdn.net/article/details/104390752)|[77道JVM系列面试题总结（2万字解析）](https://mp.weixin.qq.com/s?__biz=MzIwNjg4MzY4NA==&mid=2247485319&idx=1&sn=63cb1fdf3b56e4a84d7768e80f71e027&chksm=971b998ca06c109aa7de32d4f254e51a516647430e3934192dbf799fda12a82024396adbf40d&scene=21#wechat_redirect)|[Java虚拟机（JVM）面试题大集合](https://mp.weixin.qq.com/s/T2DqgJ9-0QiRZQYUeR3c8w)|
+---|---|---|
 
 # 虚拟机知识点目录
 ---
