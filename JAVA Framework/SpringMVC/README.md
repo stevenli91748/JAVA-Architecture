@@ -23,6 +23,12 @@
 
 
 # Spring MVC例子程序
+
+## SpringMVC的配置方法
+
+* [SpringMVC非注解的配置方法](https://www.codesheep.cn/2018/06/10/%E4%BB%8ESpringBoot%E5%88%B0SpringMVC/)
+* [SpringMVC注解的配置方法](https://blog.csdn.net/weixin_42220532/article/details/99689492)
+
 ## Spring MVC 4 Basics
    * [Spring 4 MVC HelloWorld Tutorial – Full XML Example](http://websystique.com/springmvc/spring-4-mvc-helloworld-tutorial-full-example/):Simple HelloWorld web application using Spring MVC XML configuration.
    * [Spring 4 MVC HelloWorld Tutorial – Annotation/JavaConfig Example](http://websystique.com/springmvc/spring-4-mvc-helloworld-tutorial-annotation-javaconfig-full-example/):Simple HelloWorld Web application using Spring MVC Annotation-based configuration (Java Config).
