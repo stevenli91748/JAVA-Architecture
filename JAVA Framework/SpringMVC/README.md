@@ -4,6 +4,24 @@
 [精尽 Spring MVC 学习指南](http://svip.iocoder.cn/Spring-MVC/tutorials/)|[SpringMVC请求处理过程](https://zhuanlan.zhihu.com/p/242608259?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)|
 ---|---|
 
+# 一个典型的SpringMVC请求流程如图所示，详细分为12个步骤：
+
+     1.  用户发起请求，由前端控制器DispatcherServlet处理
+     2.  前端控制器通过处理器映射器查找hander，可以根据XML或者注解去找
+     3.  处理器映射器返回执行链
+     4.  前端控制器请求处理器适配器来执行hander
+     5.  处理器适配器来执行handler
+     6.  处理业务完成后，会给处理器适配器返回ModeAndView对象，其中有视图名称，模型数据
+     7.  处理器适配器将视图名称和模型数据返回到前端控制器
+     8.  前端控制器通过视图解析器来对视图进行解析
+     9.  视图解析器返回真正的视图给前端控制器
+     10. 前端控制器通过返回的视图和数据进行渲染
+     11. 返回渲染完成的视图
+     12. 将最终的视图返回给用户，产生响应
+
+
+
+
 # Spring MVC例子程序
 ## Spring MVC 4 Basics
    * [Spring 4 MVC HelloWorld Tutorial – Full XML Example](http://websystique.com/springmvc/spring-4-mvc-helloworld-tutorial-full-example/):Simple HelloWorld web application using Spring MVC XML configuration.
