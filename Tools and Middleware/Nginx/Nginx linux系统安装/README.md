@@ -4,7 +4,9 @@
   * [如何在 CentOS 8 上安装 Nginx](https://www.jianshu.com/p/9b2dd37a5af9)
     
     
-    
+# 如何彻底删除CentOS上的Nginx
+
+  * [如何彻底删除CentOS上的Nginx](http://www.vue5.com/centos/23093.html)
     
     
     
