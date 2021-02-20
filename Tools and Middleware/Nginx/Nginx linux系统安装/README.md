@@ -1,5 +1,33 @@
 # 安装步骤
 
+    
+  * [如何在 CentOS 8 上安装 Nginx](https://www.jianshu.com/p/9b2dd37a5af9)
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     第一步  安装依赖包
             yum -y install gcc zlib zlib-devel pcre-devel openssl openssl-devel
             
