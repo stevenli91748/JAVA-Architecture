@@ -67,7 +67,7 @@ tomcat的优势在于少量的接收并处理复杂的http请求（将用户请�
 * [10. Nginx query_conf 模块介绍](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Nginx/Nginx%20query_conf%20%E6%A8%A1%E5%9D%97%E4%BB%8B%E7%BB%8D/README.md)
 * [11. Nginx 共享内存支持 Redis 协议模块介绍](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Nginx/Nginx%20%E5%85%B1%E4%BA%AB%E5%86%85%E5%AD%98%E6%94%AF%E6%8C%81%20Redis%20%E5%8D%8F%E8%AE%AE%E6%A8%A1%E5%9D%97%E4%BB%8B%E7%BB%8D/README.md)
 * [12. Nginx 日志回放压测工具介绍](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Nginx/Nginx%20%E6%97%A5%E5%BF%97%E5%9B%9E%E6%94%BE%E5%8E%8B%E6%B5%8B%E5%B7%A5%E5%85%B7%E4%BB%8B%E7%BB%8D/README.md)
-  * [Nginx日志切割](https://www.chensongxia.cn/55.html)
+  
 ## 
 [Nginx linux系统安装](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Nginx/Nginx%20linux系统安装/README.md)|[在Docker上安装Nginx](https://github.com/stevenli91748/Engineering-special/blob/master/Docker/在Docker安装Nginx/README.md)|
 ---|---|
