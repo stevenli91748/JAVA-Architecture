@@ -19,7 +19,8 @@ tomcat的优势在于少量的接收并处理复杂的http请求（将用户请�
 [精尽 Nginx 学习指南](http://svip.iocoder.cn/Nginx/tutorials/)|[当初我要是这么学习Nginx就好了](https://www.jianshu.com/p/e90050dc89b6)|[Nginx和HAProxy对比，各有什么优点与不足？](https://www.zhihu.com/question/34489042)|
 ---|---|---|
 
-
+[Nginx官网](http://nginx.org/en/download.html)|
+---|
 
 * [1. Nginx 简介及特点]()
   * [1.1 Nginx 简介]()
