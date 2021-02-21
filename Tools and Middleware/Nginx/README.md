@@ -23,7 +23,7 @@ tomcat的优势在于少量的接收并处理复杂的http请求（将用户请�
 
 * [1. Nginx 简介及特点]()
   * [1.1 Nginx 简介]()
-  * [1.2 Nginx配置例子](https://www.cnblogs.com/54chensongxia/p/12938929.html)
+  * [1.2 Nginx服务器配置例子](https://www.cnblogs.com/54chensongxia/p/12938929.html)
   * [1.3 Nginx 特点]()
     * [反向代理](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Nginx/Nginx正向和反向代理/README.md)
     * [负载均衡器](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Nginx/Nginx负载均衡/README.md)
