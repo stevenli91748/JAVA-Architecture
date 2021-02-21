@@ -6,7 +6,7 @@
     
 # 2. 如何彻底删除CentOS上的Nginx
 
-  * [如何彻底删除CentOS上的Nginx](http://www.vue5.com/centos/23093.html)
+  * [如何彻底删除CentOS上的Nginx](https://www.chensongxia.cn/52.html)
     
     
 # 3. 如何在 Linux 系统中使用 systemctl 命令管理 Nginx 服务
