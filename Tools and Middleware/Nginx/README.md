@@ -153,3 +153,9 @@ tomcat的优势在于少量的接收并处理复杂的http请求（将用户请�
 * [docker-compose 安装 Nginx](http://www.dev-share.top/2020/06/07/docker-compose-%e5%ae%89%e8%a3%85-nginx/)
 * [nginx服务器安装及配置文件详解](https://www.jianshu.com/p/57eacdaf7392)
 * [程序员要搞明白Nginx，这篇应该够了！](https://www.jianshu.com/p/42d90e7acf6f)
+
+ * [架构设计：负载均衡层设计方案（1）——负载场景和解决方式](https://blog.csdn.net/yinwenjie/article/details/46605451)
+ * [架构设计：负载均衡层设计方案（2）——Nginx安装](https://blog.csdn.net/yinwenjie/article/details/46620711)
+ * [架构设计：负载均衡层设计方案（3）——Nginx进阶](https://blog.csdn.net/yinwenjie/article/details/46742661)
+ * [架构设计：负载均衡层设计方案（4）——LVS原理](https://blog.csdn.net/yinwenjie/article/details/46845997)
+ * [架构设计：负载均衡层设计方案（5）——LVS单节点安装](https://blog.csdn.net/yinwenjie/article/details/47010569)
