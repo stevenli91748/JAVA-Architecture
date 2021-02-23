@@ -1,5 +1,8 @@
 # Keepalived
 
+[负载均衡层设计方案](#负载均衡层设计方案)|
+---|
+
   * [Keepalived配置文件实例](https://github.com/stevenli91748/DEMO/blob/master/Spring%20Cloud%20%E5%BE%AE%E6%9C%8D%E5%8A%A1%E6%9D%83%E9%99%90%E7%B3%BB%E7%BB%9F%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%93%8D---2020/%E7%AC%AC%E4%B9%9D%E7%AB%A0%20K8S%E9%9B%86%E7%BE%A4%E9%83%A8%E7%BD%B2/%E8%AE%BE%E7%BD%AE%E9%9B%86%E7%BE%A4%E4%B8%AD%E7%9A%84controll%20panel%20%E8%8A%82%E7%82%B9keepalived%E9%AB%98%E5%8F%AF%E7%94%A8.md)
 
 
@@ -29,5 +32,18 @@
 * [KeepAlived + HAProxy 高可用](http://www.dev-share.top/2019/12/10/keepalived-haproxy-%e9%ab%98%e5%8f%af%e7%94%a8/)
 * [使用HAProxy 为TiDB-Server 做负载均衡](http://www.dev-share.top/2019/09/25/%E4%BD%BF%E7%94%A8-docker-compose-%E5%81%9A-tidb-server-%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1-haproxy/)
 * [我个人的分布式集群问题集锦，nginx/lvs/dns/cdn](https://blog.csdn.net/libaineu2004/article/details/79119145)
+
+
+
+# 负载均衡层设计方案
+ * [架构设计：负载均衡层设计方案（1）——负载场景和解决方式](https://blog.csdn.net/yinwenjie/article/details/46605451)
+ * [架构设计：负载均衡层设计方案（2）——Nginx安装](https://blog.csdn.net/yinwenjie/article/details/46620711)
+ * [架构设计：负载均衡层设计方案（3）——Nginx进阶](https://blog.csdn.net/yinwenjie/article/details/46742661)
+ * [架构设计：负载均衡层设计方案（4）——LVS原理](https://blog.csdn.net/yinwenjie/article/details/46845997)
+ * [架构设计：负载均衡层设计方案（5）——LVS单节点安装](https://blog.csdn.net/yinwenjie/article/details/47010569)
+ * [架构设计：负载均衡层设计方案（6）——Nginx + Keepalived构建高可用的负载层](https://yinwj.blog.csdn.net/article/details/47130609)
+ * [架构设计：负载均衡层设计方案（7）——LVS + Keepalived + Nginx安装及配置](https://yinwj.blog.csdn.net/article/details/47211551)
+ * [架构设计：负载均衡层设计方案（8）——负载均衡层总结上篇](https://yinwj.blog.csdn.net/article/details/47211641)
+ * [架构设计：负载均衡层设计方案（9）——负载均衡层总结下篇](https://yinwj.blog.csdn.net/article/details/48101869)
 
 
