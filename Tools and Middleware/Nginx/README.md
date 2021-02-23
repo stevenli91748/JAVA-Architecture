@@ -22,6 +22,9 @@ tomcat的优势在于少量的接收并处理复杂的http请求（将用户请�
 [Nginx官网](http://nginx.org/en/download.html)|[Nginx系列博客---好](https://www.cnblogs.com/itzgr/tag/Nginx/)|[Nginx 入门指南](https://www.w3cschool.cn/nginx/)|
 ---|---|---|
 
+[负载均衡层设计方案](#负载均衡层设计方案)|
+---|
+
 * [1. Nginx 简介及特点]()
   * [1.1 Nginx 简介]()
   * [1.2 Nginx服务器配置例子](https://www.cnblogs.com/54chensongxia/p/12938929.html)
@@ -154,8 +157,13 @@ tomcat的优势在于少量的接收并处理复杂的http请求（将用户请�
 * [nginx服务器安装及配置文件详解](https://www.jianshu.com/p/57eacdaf7392)
 * [程序员要搞明白Nginx，这篇应该够了！](https://www.jianshu.com/p/42d90e7acf6f)
 
+# 负载均衡层设计方案
  * [架构设计：负载均衡层设计方案（1）——负载场景和解决方式](https://blog.csdn.net/yinwenjie/article/details/46605451)
  * [架构设计：负载均衡层设计方案（2）——Nginx安装](https://blog.csdn.net/yinwenjie/article/details/46620711)
  * [架构设计：负载均衡层设计方案（3）——Nginx进阶](https://blog.csdn.net/yinwenjie/article/details/46742661)
  * [架构设计：负载均衡层设计方案（4）——LVS原理](https://blog.csdn.net/yinwenjie/article/details/46845997)
  * [架构设计：负载均衡层设计方案（5）——LVS单节点安装](https://blog.csdn.net/yinwenjie/article/details/47010569)
+ * [架构设计：负载均衡层设计方案（6）——Nginx + Keepalived构建高可用的负载层](https://yinwj.blog.csdn.net/article/details/47130609)
+ * [架构设计：负载均衡层设计方案（7）——LVS + Keepalived + Nginx安装及配置](https://yinwj.blog.csdn.net/article/details/47211551)
+ * [架构设计：负载均衡层设计方案（8）——负载均衡层总结上篇](https://yinwj.blog.csdn.net/article/details/47211641)
+ * [架构设计：负载均衡层设计方案（9）——负载均衡层总结下篇](https://yinwj.blog.csdn.net/article/details/48101869)
