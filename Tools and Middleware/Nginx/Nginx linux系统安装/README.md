@@ -1,5 +1,4 @@
-# 1. 安装步骤
-
+# 1. Nginx安装
     
   * [如何在 CentOS 8 上安装 Nginx](https://www.jianshu.com/p/9b2dd37a5af9)
   * [Install nginx-1.12.2 under centos7](https://programmersought.com/article/61126919131/)  
