@@ -1,5 +1,5 @@
 # 参考
-# 1. Nginx安装
+# 1. Nginx安装参考
   * [如何在 CentOS 8 上安装 Nginx](https://www.jianshu.com/p/9b2dd37a5af9)
   * [Install nginx-1.12.2 under centos7](https://programmersought.com/article/61126919131/)  
   * [架构设计：负载均衡层设计方案（2）——Nginx安装](https://yinwj.blog.csdn.net/article/details/46620711)    
@@ -12,14 +12,14 @@
 
 * [1. Nginx安装](#1-Nginx安装)
   * [1.1 Nginx源代码安装](#Nginx源代码安装)
-    * [1.1.3 健康检查模块安装](#1.1.3健康检查模块安装)
+    * [1.1.3 健康检查模块安装](#健康检查模块安装)
   * [Nginx打包安装]()
     
 
 
 # 1 Nginx安装
 ## Nginx源代码安装
-### 1.1.3健康检查模块安装健康检查模块安装    
+### 健康检查模块安装健康检查模块安装    
     
     
     
