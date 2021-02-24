@@ -17,7 +17,6 @@
   * [1.2 Nginx打包安装](#12-Nginx打包安装)
     
 
-
 # 1 Nginx安装
 ## 11 Nginx源代码安装
     
@@ -50,7 +49,7 @@
        [root@vip]# cd /nginx-1.12.2
        
        //这里我们的Nginx的版本是1.12.2，那么就应该打入check_1.12.1+.patch这个补丁
-       [root@vip]# patch -p1<../nginx_upstream_check_module-master.zip/check_1.12.1+.patch
+       [root@vip nginx-1.12.2]# patch -p1<../nginx_upstream_check_module-master.zip/check_1.12.1+.patch
        
        
        
@@ -73,7 +72,12 @@
         If you use nginx-1.7.2+, You should use the patch named
         'check_1.7.2+.patch'.
        
-       
+       注意重新编译Nginx，要使用add-module参数将这个第三方模块安装进去：
+
+       [root@vip nginx-1.12.2]# ./configure --prefix=/usr/nginx-1.12.2/ --add-module=../nginx_upstream_check_module-master/
+
+       [root@vip nginx-1.12.2]# make && make install
+
 
 
 
