@@ -11,16 +11,74 @@
 # 目录
 
 * [1. Nginx安装](#1-Nginx安装)
-  * [1.1 Nginx源代码安装](#Nginx源代码安装)
-    * [1.1.3 健康检查模块安装](#健康检查模块安装)
-  * [Nginx打包安装]()
+  * [1.1 Nginx源代码安装](#11-Nginx源代码安装)
+    * []()
+    * [1.1.3 健康检查模块安装](#113-健康检查模块安装)
+  * [1.2 Nginx打包安装](#12-Nginx打包安装)
     
 
 
 # 1 Nginx安装
-## Nginx源代码安装
-### 健康检查模块安装健康检查模块安装    
+## 11 Nginx源代码安装
     
+    1. Install dependent packages
+    
+       [root@vip]# yum -y install make zlib zlib-devel gcc gcc-c++ libtool
+    
+    2. download the nginx source package
+
+       [root@vip]# yum -y install wget
+       [root@vip]# wget http://nginx.org/download/nginx-1.12.2.tar.gz
+       [root@vip]# tar xvf nginx-1.12.2.tar.gz
+       [root@vip]# cd /nginx-1.12.2
+       [root@vip nginx-1.12.2]# ./configure
+    
+    
+### 113 健康检查模块安装健康检查模块安装    
+       
+       健康检查模块是一个用于Nginx对后端UpStream集群节点健康状态检查的第三方模块，要使用这个第三方模块首先您需要进行下载，然后通过patch命令将补丁打入您原有的Nginx源码中
+       并且重新进行编译安装。
+       
+       下载nginx_upstream_check_module模块：
+       [root@vip]# wget https://codeload.github.com/yaoweibin/nginx_upstream_check_module/zip/master
+       [root@vip]# yum install -y unzip
+       [root@vip]# unzip ./nginx_upstream_check_module-master.zip
+       
+       注意是将补丁打入Nginx源码，不是Nginx的安装路径：  ?
+
+       [root@vip]# yum -y install patch
+       [root@vip]# cd /nginx-1.12.2
+       
+       //这里我们的Nginx的版本是1.12.2，那么就应该打入check_1.12.1+.patch这个补丁
+       [root@vip]# patch -p1<../nginx_upstream_check_module-master.zip/check_1.12.1+.patch
+       
+       
+       
+       如果补丁安装成功，您将看到以下的提示信息：
+        patching file src/http/modules/ngx_http_upstream_ip_hash_module.c
+        patching file src/http/modules/ngx_http_upstream_least_conn_module.c
+        patching file src/http/ngx_http_upstream_round_robin.c
+        patching file src/http/ngx_http_upstream_round_robin.h
+
+        这里请注意：在nginx_upstream_check_module官网的安装说明中，有一个打补丁的注意事项：
+        If you use nginx-1.2.1 or nginx-1.3.0, the nginx upstream round robin
+        module changed greatly. You should use the patch named
+        'check_1.2.1.patch'.
+        If you use nginx-1.2.2+ or nginx-1.3.1+, It added the upstream
+        least_conn module. You should use the patch named 'check_1.2.2+.patch'.
+        If you use nginx-1.2.6+ or nginx-1.3.9+, It adjusted the round robin
+        module. You should use the patch named 'check_1.2.6+.patch'.
+        If you use nginx-1.5.12+, You should use the patch named
+        'check_1.5.12+.patch'.
+        If you use nginx-1.7.2+, You should use the patch named
+        'check_1.7.2+.patch'.
+       
+       
+
+
+
+
+## 12 Nginx打包安装
     
     
     
