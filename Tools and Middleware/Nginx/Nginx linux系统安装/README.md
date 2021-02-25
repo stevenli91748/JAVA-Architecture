@@ -24,7 +24,17 @@
     
        [root@vip]# yum -y install make zlib zlib-devel gcc gcc-c++ libtool openssl openssl-devel
     
-    2. download the nginx source package
+    2.  install PCRE
+    
+       [root@vip]# yum -y install wget
+       [root@vip]# wget http://downloads.sourceforge.net/project/pcre/pcre/8.37/pcre-8.37.tar.gz
+       [root@vip]# tar -zxvf pcre-8.37.tar.gz
+       [root@vip]# cd pcre-8.37
+       [root@vip]# ./configure
+       [root@vip]# make && make install
+       [root@vip]# pcre-config --version
+       
+    3. download the nginx source package
 
        [root@vip]# yum -y install wget
        [root@vip]# wget http://nginx.org/download/nginx-1.12.2.tar.gz
