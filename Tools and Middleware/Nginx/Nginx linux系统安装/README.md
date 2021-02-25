@@ -63,7 +63,30 @@
            Reason for error: Don’t know
            Solution: Edit this file
            
-           [root@vip ]# 
+           [root@vip nginx-1.12.2]# vi /nginx-1.2.2/src/os/unix/ngx_user.c
+           
+           Comment out this line (around line 35)
+           
+           注消 35行的这句程序
+           
+            /* cd.current_salt[0]=~salt[0];*/
+           
+           然后重新编译
+           
+           [root@vip nginx-1.12.2]# make
+           [root@vip nginx-1.12.2]# make install 
+           
+           启动nginx server
+           
+           [root@vip nginx-1.12.2]# cd /usr/local/nginx/sbin
+           [root@vip sbin]# ./nginx
+           
+           Access service ip, its default port is port 80
+           
+           http://nginx server ip 
+           
+<a href="https://ibb.co/9bC3kPg"><img src="https://i.ibb.co/zX0HTdx/19111819528462.png" alt="19111819528462" border="0"></a>           
+           
 
     
 ### 113 健康检查模块安装健康检查模块安装    
