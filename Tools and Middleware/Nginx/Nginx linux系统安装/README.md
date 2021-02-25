@@ -177,8 +177,51 @@
            
 <a href="https://ibb.co/9bC3kPg"><img src="https://i.ibb.co/zX0HTdx/19111819528462.png" alt="19111819528462" border="0"></a>           
 
-通过以上的步骤，第三方的nginx_upstream_check_module模块就在Nginx中准备好了
 
+          通过以上的步骤，第三方的nginx_upstream_check_module模块就在Nginx中准备好了。接下来我们讲解一下如何使用这个模块。首先看一下upstream的配置信息：
+
+          upstream cluster {
+              # simple round-robin
+              server 192.168.0.1:80;
+              server 192.168.0.2:80;
+
+              check interval=5000 rise=1 fall=3 timeout=4000;
+
+              #check interval=3000 rise=2 fall=5 timeout=1000 type=ssl_hello;
+              #check interval=3000 rise=2 fall=5 timeout=1000 type=http;
+              #check_http_send "HEAD / HTTP/1.0\r\n\r\n";
+              #check_http_expect_alive http_2xx http_3xx;
+          }
+
+          上面的代码中，check部分就是调用nginx_upstream_check_module模块的语法：
+
+          check interval=milliseconds [fall=count] [rise=count]
+          [timeout=milliseconds] [default_down=true|false]
+          [type=tcp|http|ssl_hello|mysql|ajp|fastcgi]
+
+          interval：必要参数，检查请求的间隔时间。
+
+          fall：当检查失败次数超过了fall，这个服务节点就变成down状态。
+
+          rise：当检查成功的次数超过了rise，这个服务节点又会变成up状态。
+
+          timeout：请求超时时间，超过等待时间后，这次检查就算失败。
+
+          default_down：后端服务器的初始状态。默认情况下，检查功能在Nginx启动的时候将会把所有后端节点的状态置为down，检查成功后，在置为up。
+
+          type：这是检查通信的协议类型，默认为http。以上类型是检查功能所支持的所有协议类型。
+
+          check_http_send http_packet
+
+          http_packet的默认格式为："GET / HTTP/1.0\r\n\r\n"
+
+         check_http_send设置，这个设置描述了检查模块在每次检查时，向后端节点发送什么样的信息
+
+         check_http_expect_alive [ http_2xx | http_3xx | http_4xx | http_5xx ]
+         
+         这些状态代码表示服务器的HTTP响应上是OK的，后端节点是可用的。默认情况的设置是：http_2xx | http_3xx
+
+         当您根据您的配置要求完成检查模块的配置后，请首先使用nginx -t 命令监测配置文件是否可用，然后在用nginx -s reload重启nginx
 
 ## 12 Nginx打包安装
     
