@@ -22,7 +22,7 @@
     
     1. Install dependent packages
     
-       [root@vip]# yum -y install make zlib zlib-devel gcc gcc-c++ libtool
+       [root@vip]# yum -y install make zlib zlib-devel gcc gcc-c++ libtool openssl openssl-devel
     
     2. download the nginx source package
 
