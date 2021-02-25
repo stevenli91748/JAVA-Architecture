@@ -44,8 +44,27 @@
        [root@vip]# cd /nginx-1.12.2
        [root@vip nginx-1.12.2]# ./configure
        [root@vip nginx-1.12.2]# make && make install
-       .........
-    
+
+<a href="https://ibb.co/3SBxTxL"><img src="https://i.ibb.co/1R8C0Cw/19111819528462.png" alt="19111819528462" border="0"></a>
+
+       错误1：
+           cause of the problem: Don’t know
+           Solution: Go to the nginx-1.6.3 directory (the unzipped directory) 
+           
+           [root@vip nginx-1.12.2]# cd /objs
+           [root@vip nginx-1.12.2]# vi Makefile
+           
+              CFLAGS =  -pipe  -O -W -Wall -Wpointer-arith -Wno-unused-parameter -Werror -g　
+           
+           删除 -Werror 就OK
+       
+       错误2：
+           
+           Reason for error: Don’t know
+           Solution: Edit this file
+           
+           [root@vip ]# 
+
     
 ### 113 健康检查模块安装健康检查模块安装    
        
