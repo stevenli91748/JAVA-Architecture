@@ -72,7 +72,7 @@ tomcat的优势在于少量的接收并处理复杂的http请求（将用户请�
 * [12. Nginx 日志回放压测工具介绍](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Nginx/Nginx%20%E6%97%A5%E5%BF%97%E5%9B%9E%E6%94%BE%E5%8E%8B%E6%B5%8B%E5%B7%A5%E5%85%B7%E4%BB%8B%E7%BB%8D/README.md)
   
 ## 
-[Nginx linux系统安装](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Nginx/Nginx%20linux系统安装/README.md)|[在Docker上安装Nginx](https://github.com/stevenli91748/Engineering-special/blob/master/Docker/在Docker安装Nginx/README.md)|
+[Nginx + 健康检查模块安装 linux系统安装](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Nginx/Nginx%20linux系统安装/README.md)|[在Docker上安装Nginx](https://github.com/stevenli91748/Engineering-special/blob/master/Docker/在Docker安装Nginx/README.md)|
 ---|---|
 
 ## Nginx的功能
