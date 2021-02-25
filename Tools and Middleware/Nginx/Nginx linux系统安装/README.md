@@ -34,13 +34,17 @@
        [root@vip]# make && make install
        [root@vip]# pcre-config --version
        
+       If the version number can be displayed correctly, it means success!
+       
     3. download the nginx source package
 
        [root@vip]# yum -y install wget
        [root@vip]# wget http://nginx.org/download/nginx-1.12.2.tar.gz
-       [root@vip]# tar xvf nginx-1.12.2.tar.gz
+       [root@vip]# tar -zxvf nginx-1.12.2.tar.gz
        [root@vip]# cd /nginx-1.12.2
        [root@vip nginx-1.12.2]# ./configure
+       [root@vip nginx-1.12.2]# make && make install
+       .........
     
     
 ### 113 健康检查模块安装健康检查模块安装    
