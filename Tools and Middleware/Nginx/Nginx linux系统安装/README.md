@@ -106,7 +106,10 @@
        [root@vip]# cd /nginx-1.12.2
        
        //这里我们的Nginx的版本是1.12.2，那么就应该打入check_1.12.1+.patch这个补丁
-       [root@vip nginx-1.12.2]# patch -p1<../nginx_upstream_check_module-master.zip/check_1.12.1+.patch
+       [root@vip nginx-1.12.2]# patch -p1 < /path to /nginx_upstream_check_module-master/check_1.12.1+.patch
+       [root@vip nginx-1.12.2]# ./configure --add-module=/path to /nginx_upstream_check_module-master
+       
+       [root@vip nginx-1.12.2]# make && make install
        
        
        
