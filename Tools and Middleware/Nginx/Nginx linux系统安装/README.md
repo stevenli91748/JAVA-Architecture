@@ -177,7 +177,7 @@
            
 <a href="https://ibb.co/9bC3kPg"><img src="https://i.ibb.co/zX0HTdx/19111819528462.png" alt="19111819528462" border="0"></a>           
 
-
+通过以上的步骤，第三方的nginx_upstream_check_module模块就在Nginx中准备好了
 
 
 ## 12 Nginx打包安装
