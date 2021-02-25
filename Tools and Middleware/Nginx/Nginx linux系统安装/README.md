@@ -107,17 +107,12 @@
        
        //这里我们的Nginx的版本是1.12.2，那么就应该打入check_1.12.1+.patch这个补丁
        [root@vip nginx-1.12.2]# patch -p1 < /path to /nginx_upstream_check_module-master/check_1.12.1+.patch
-       [root@vip nginx-1.12.2]# ./configure --add-module=/path to /nginx_upstream_check_module-master
-       
-       [root@vip nginx-1.12.2]# make && make install
-       
-       
        
        如果补丁安装成功，您将看到以下的提示信息：
-        patching file src/http/modules/ngx_http_upstream_ip_hash_module.c
-        patching file src/http/modules/ngx_http_upstream_least_conn_module.c
-        patching file src/http/ngx_http_upstream_round_robin.c
-        patching file src/http/ngx_http_upstream_round_robin.h
+       patching file src/http/modules/ngx_http_upstream_ip_hash_module.c
+       patching file src/http/modules/ngx_http_upstream_least_conn_module.c
+       patching file src/http/ngx_http_upstream_round_robin.c
+       patching file src/http/ngx_http_upstream_round_robin.h
 
         这里请注意：在nginx_upstream_check_module官网的安装说明中，有一个打补丁的注意事项：
         If you use nginx-1.2.1 or nginx-1.3.0, the nginx upstream round robin
@@ -132,12 +127,55 @@
         If you use nginx-1.7.2+, You should use the patch named
         'check_1.7.2+.patch'.
        
+   
+       
        注意重新编译Nginx，要使用add-module参数将这个第三方模块安装进去：
 
        [root@vip nginx-1.12.2]# ./configure --prefix=/usr/nginx-1.12.2/ --add-module=../nginx_upstream_check_module-master/
 
        [root@vip nginx-1.12.2]# make && make install
 
+<a href="https://ibb.co/3SBxTxL"><img src="https://i.ibb.co/1R8C0Cw/19111819528462.png" alt="19111819528462" border="0"></a>
+
+       错误1：
+           cause of the problem: Don’t know
+           Solution: Go to the nginx-1.6.3 directory (the unzipped directory) 
+           
+           [root@vip nginx-1.12.2]# cd /objs
+           [root@vip nginx-1.12.2]# vi Makefile
+           
+              CFLAGS =  -pipe  -O -W -Wall -Wpointer-arith -Wno-unused-parameter -Werror -g　
+           
+           删除 -Werror 就OK
+       
+       错误2：
+           
+           Reason for error: Don’t know
+           Solution: Edit this file
+           
+           [root@vip nginx-1.12.2]# vi /nginx-1.2.2/src/os/unix/ngx_user.c
+           
+           Comment out this line (around line 35)
+           
+           注消 35行的这句程序
+           
+            /* cd.current_salt[0]=~salt[0];*/
+           
+           然后重新编译
+           
+           [root@vip nginx-1.12.2]# make
+           [root@vip nginx-1.12.2]# make install 
+
+           启动nginx server
+           
+           [root@vip nginx-1.12.2]# cd /usr/local/nginx/sbin
+           [root@vip sbin]# ./nginx
+           
+           Access service ip, its default port is port 80
+           
+           http://nginx server ip 
+           
+<a href="https://ibb.co/9bC3kPg"><img src="https://i.ibb.co/zX0HTdx/19111819528462.png" alt="19111819528462" border="0"></a>           
 
 
 
