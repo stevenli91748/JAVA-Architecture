@@ -6,6 +6,21 @@
 ---|---|
 
 
+# 例子
+
+* [LVS-NAT工作方式例子](#LVS-NAT工作方式例子)
+* [LVS-DR工作方式例子](#LVS-DR工作方式例子)
+* [LVS-TUN工作方式例子](#LVS-TUN工作方式例子)
+
+## LVS NAT工作方式例子
+
+
+## LVS DR工作方式例子
+
+
+## LVS TUN工作方式例子
+
+
 # 有用的参考
 
  * [理论：lvs，Nginx，Haproxy三种负载均衡机制的基本架构和对比](https://www.cnblogs.com/deny/p/12904468.html)
