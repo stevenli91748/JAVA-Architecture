@@ -1,18 +1,10 @@
 
 tomcat的优势在于少量的接收并处理复杂的http请求（将用户请求读写数据库等），nginx的优势在于能够大量的接收并处理简单的http请求（将http请求转发或者加个header、body等）,将Html、img、js、css等这种静态资源交给nginx，将用户需要读写数据库等请求交给tomcat是对各自优势的最大利用。
 
-#  Nginx配置文件的路径
 
-   /usr/local/nginx/conf/nginx.conf
-   
-# 在/etc/hosts文件中添加域名解析
-  
-  192.168.28.130 www.mywebapp-name.com
-  
-  本机访问
+<a href="https://ibb.co/7VhTp2H"><img src="https://i.ibb.co/K7nQsFY/lvs-keepalived-nginx.png" alt="lvs-keepalived-nginx" border="0"></a>
 
-  [root@www html]# curl www.mywebapp-name.com
-  就可用域名訪问了
+
 
 # 目录
 
