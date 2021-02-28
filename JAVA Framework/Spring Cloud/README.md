@@ -241,6 +241,7 @@
 * [Spring cloud 核心组件实战](https://www.imooc.com/video/19575)
 
 # 有用的参考
+* [外行人都能看懂的SpringCloud，错过了血亏！](https://juejin.cn/post/6844903665292017678)
 * [疯狂创客圈 ---- Springcloud 高并发系列文章，将为大家介绍三个版本的 高并发秒杀](https://www.cnblogs.com/crazymakercircle/p/11669113.html)
 * [Spring Cloud Stream 知识整理](https://blog.csdn.net/weixin_38399962/article/details/82192340?utm_medium=distribute.pc_relevant_download.none-task-blog-baidujs-7.nonecase&depth_1-utm_source=distribute.pc_relevant_download.none-task-blog-baidujs-7.nonecase)
 * [Spring Cloud微服务云应用教](https://www.jdon.com/springcloud.html)
