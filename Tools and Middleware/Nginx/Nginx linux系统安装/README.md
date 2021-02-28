@@ -13,6 +13,7 @@
 * [1. Nginx安装](#1-Nginx安装)
   * [1.1 Nginx源代码安装](#11-Nginx源代码安装)
     * [1.1.1 健康检查模块安装](#111-健康检查模块安装)
+    * [1.1.2 Nginx的图片处理模块](#112-Nginx的图片处理模块)
   * [1.2 Nginx打包安装](#12-Nginx打包安装)
 
 
@@ -153,7 +154,7 @@
            Reason for error: Don’t know
            Solution: Edit this file
            
-           [root@vip nginx-1.12.2]# vi /nginx-1.2.2/src/os/unix/ngx_user.c
+           [root@vip nginx-1.12.2]# vi /nginx-1.12.2/src/os/unix/ngx_user.c
            
            Comment out this line (around line 35)
            
@@ -222,6 +223,49 @@
          这些状态代码表示服务器的HTTP响应上是OK的，后端节点是可用的。默认情况的设置是：http_2xx | http_3xx
 
          当您根据您的配置要求完成检查模块的配置后，请首先使用nginx -t 命令监测配置文件是否可用，然后在用nginx -s reload重启nginx
+
+
+### 112 Nginx的图片处理模块
+
+    http_image_filter_module 是nginx的图片处理模块，是使用nginx进行静态资源和动态资源分开管理的关键引用技术。通过这个模块可以对静态资源进行缩放、旋转、验证。需要注意的是，
+    http_image_filter_module模块所处理的缩率图片是不进行保存的，完全使用节点的CPU性能进行计算，使用节点的内存进行临时存储。所以如果要使用http_image_filter_module进行图片处理，一定要根
+    据客户端的请求规模进行nginx节点的调整。并且当站点的PV达到一定的规模时，一定要使用CDN技术进行访问加速、对图片的访问处理手段进行规划。
+
+    由于我们在之前涉及Nginx的文章中，并没有详细讲解Nginx的图片处理模块，只是说了要进行介绍，所以这里我给出一个较为详细的安装和配置示例：
+
+    nginx的http_image_filter_module模块由GD library进行支持，所以要使用这个图片处理模块，就必须进行第三方依赖包的安装：
+    
+    [root@vip nginx-1.12.2]# yum install gd-devel
+    
+    然后，Nginx要进行重新编译：
+
+    [root@vip nginx-1.12.2]# configure --with-http_image_filter_module
+    [root@vip nginx-1.12.2]# make && make install
+    
+    
+    使用图片处理模块的配置示例：
+
+     location ~* /(.+)_(\d+)_(\d+)\.(jpg|gif|png|ioc|jpeg)$ {
+         set $h $3;
+         set $w $2;
+         rewrite /(.+)_(\d+)_(\d+)\.(jpg|gif|png|ioc|jpeg)$ /$1.$4 break;
+
+         image_filter resize $w $h;
+         image_filter_buffer 2M;
+     }
+    
+     http_image_filter_module相关的属性设置:
+     
+     image_filter test：测试图片文件合法性
+     image_filter rotate：进行图片旋转，只能按照90 | 180 | 270进行旋转
+     image_filter size：返回图片的JSON数据
+     image_filter resize width height：按比例进行图片的等比例缩小，注意，是只能缩小，第二缩小是等比例的。
+     image_filter_buffer：限制图片最大读取大小，没有设置就是1M；根据不同的系统最好设置为2M—3M
+     image_filter_jpeg_quality：设置jpeg图片的压缩比例（1-99，越高越好）
+     image_filter_transparency：禁用gif和png图片的透明度。
+     
+
+
 
 ## 12 Nginx打包安装
     
