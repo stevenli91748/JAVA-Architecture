@@ -22,8 +22,8 @@
 [项目部署点一下按钮就可以，全流程自动化，超简单三分钟学会](https://www.bilibili.com/video/BV1cD4y1U7Bx)|[一键生成数据库文档-生产力飙升](https://www.bilibili.com/video/BV1Qi4y1u7uR)|[本机用IDEA调试远程部署的程序代码](https://www.bilibili.com/video/BV1Da4y1e7kG)|
 ---|---|---|
 
-[10年程序员第一次发现的代码调试神器](https://www.bilibili.com/video/BV1TQ4y1T7H3)|
----|
+[10年程序员第一次发现的代码调试神器](https://www.bilibili.com/video/BV1TQ4y1T7H3)|[一个让程序员接近失业的通用代码生成器-视频作者原创开源项目-跨项目、跨编程语言、跨操作系统](https://www.bilibili.com/video/BV1gV411m7DM)|
+---|---|
 
 
 # 目录
