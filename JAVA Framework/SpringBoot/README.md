@@ -23,8 +23,8 @@
 [手摸手教你学spring boot 2.x](https://www.kancloud.cn/hanxt/springboot2/1492077)|[[手摸手教你学spring boot 2.x 学习笔记](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E6%89%8B%E6%91%B8%E6%89%8B%E6%95%99%E4%BD%A0%E5%AD%A6spring%20boot%202.x%20%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)|[Spring boot参考指南---从总体上对Spring Boot或Spring入门](https://www.jianshu.com/p/67a0e41dfe05)|
 ---|---|---|
 
-[Spring Security-JWT-OAuth2一本通(基于SpringBoot2.0)](https://www.kancloud.cn/hanxt/springsecurity/1472507)|
----|
+[Spring Security-JWT-OAuth2一本通(基于SpringBoot2.0)](https://www.kancloud.cn/hanxt/springsecurity/1472507)|[Spring Security-JWT-OAuth2一本通(基于SpringBoot2.0)视频](https://www.bilibili.com/video/BV16J41127jq)|
+---|---|
 
 [【项目实战】DongBB-前后端分离RBAC权限管理系统](https://www.kancloud.cn/hanxt/vue-spring/1528245)|[【项目实战】实战SpringCloud微服务从青铜到王者](https://www.kancloud.cn/hanxt/vue-spring/1719694)|[【项目实战】Spring Cloud 微服务权限系统搭建教程](https://www.kancloud.cn/mrbird/spring-cloud/1263679 "博客地址 https://mrbird.cc/archives/")|
 ---|---|---|
