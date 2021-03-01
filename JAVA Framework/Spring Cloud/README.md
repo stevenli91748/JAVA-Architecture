@@ -30,6 +30,9 @@
 [【项目实战】实战SpringCloud微服务从青铜到王者](https://www.kancloud.cn/hanxt/springcloud/1718845)|[一个GitHub标星1w+超牛的SpringCloud微服务项目，开发脚手架](https://www.jianshu.com/p/e92083287896)|
 ---|---|
 
+[【项目实战】实战SpringCloud微服务从青铜到王者视频](https://www.bilibili.com/video/BV1c54y1C7tV)|
+---|
+
 [【项目实战】Spring Cloud 微服务权限系统搭建教程---手把手教你从零搭建到Docker部署（新增K8S集群部署教程）](https://www.kancloud.cn/mrbird/spring-cloud/1263681)|
 ---|
 
