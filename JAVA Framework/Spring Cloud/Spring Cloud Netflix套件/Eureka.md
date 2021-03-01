@@ -26,6 +26,9 @@ Eureka由两个组件组成：Eureka服务器和Eureka客户端。Eureka服务�
 
 
 # 有用的参考
+* [Spring Cloud Eureka详解](https://blog.csdn.net/sunhuiliang85/article/details/76222517)
+* [《Spring Cloud Netflix》 -- 服务注册和服务发现-Eureka 的使用](https://zhuanlan.zhihu.com/p/26472547)
+* [微服务架构：Eureka参数配置项详解](https://www.cnblogs.com/fangfuhai/p/7070325.html)
 * [springboot2.0+spring cloud+eureka（分布式项目）项目搭建详细教程（附加源码）](https://blog.csdn.net/hp_yangpeng/article/details/88803911?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-1.not_use_machine_learn_pai&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-1.not_use_machine_learn_pai)
 * [eureka集群高可用配置](https://tianyalei.blog.csdn.net/article/details/78184793?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-6.not_use_machine_learn_pai&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-6.not_use_machine_learn_pai)
 * [Spring Cloud Eureka集群部署到Linux环境](https://www.cnblogs.com/wuxun1997/p/11230848.html)
