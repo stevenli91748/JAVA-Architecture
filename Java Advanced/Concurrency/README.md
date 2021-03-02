@@ -29,6 +29,10 @@
 [操作系统能否支持百万连接?](https://cloud.tencent.com/developer/article/1114773)|
 ---|
 
+[Swoole 从入门到实战教程---高并发实战演示](https://laravelacademy.org/books/swoole-tutorial)|
+---|
+
+
 
 # 目录
 * [并发学习路线](#并发学习路线)
