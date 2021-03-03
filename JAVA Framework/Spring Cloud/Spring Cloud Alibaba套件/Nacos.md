@@ -7,8 +7,8 @@
 
 #  环境配置
 
-[N0acos Config Example]()|[ Nacos 服务注册中心环境配置](https://www.cnblogs.com/crazymakercircle/p/11992539.html)  |
----|---|
+[N0acos Config Example]()|[ Nacos 服务注册中心环境配置](https://www.cnblogs.com/crazymakercircle/p/11992539.html)|[nacos_微服务注册中心nacos集群搭建指南](https://www.kancloud.cn/cehgnxuyuan_123/springcloud)|
+---|---|---|
 
 # 目录
 * [Nacos 三大功能---致力于帮助您发现、配置和管理微服务](#Nacos-三大功能)
