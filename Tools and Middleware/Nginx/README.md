@@ -4,6 +4,42 @@ tomcat的优势在于少量的接收并处理复杂的http请求（将用户请�
 
 <a href="https://ibb.co/7VhTp2H"><img src="https://i.ibb.co/K7nQsFY/lvs-keepalived-nginx.png" alt="lvs-keepalived-nginx" border="0"></a>
 
+电脑-->负载均衡,如LVS
+手机-->负载均衡,如LVS
+平板-->负载均衡,如LVS
+负载均衡,如LVS-->nginx入口
+nginx入口-->静态资源
+nginx入口-->API服务
+nginx入口-->反向代理
+nginx入口-->缓存加速
+nginx入口-->负载均衡
+静态资源-->nginx出口
+API服务-->nginx出口
+反向代理-->nginx出口
+缓存加速-->nginx出口
+负载均衡-->nginx出口
+nginx出口-->http服务
+                                                电脑                  手机               平板
+                                                 |                     |                  | 
+                                                 ——————————————————————|————————————————————
+                                                                       |
+                                                                   负载均衡,如LVS+Keepalived
+                                                                       |
+                                                _______________________|______________________————————————————————————————————————
+                                                |               |             |              |                |
+                                              nginx入口      nginx入口       nginx入口      nginx入口         nginx入口
+                                                |               |              |              |               |
+                                              静态资源        API服务          反向代理       缓存加速         负载均衡
+                                                |               |              |              |               |
+                                              nginx出口      nginx出口         nginx出口      nginx出口       nginx出口
+                                                |               |              |              |               |
+                                               http服务       http服务        http服务        http服务        http服务
+
+                                                                     
+
+    
+      
+         
 
 
 # 目录
