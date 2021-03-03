@@ -8,6 +8,8 @@
 [负载均衡层设计方案](#负载均衡层设计方案)|[lvs 性能，转发数据的理论极限](https://www.zhihu.com/question/21237968)|
 ---|---|
 
+[亿级PV请求的三种负载均衡技术](https://www.cnblogs.com/chanshuyi/p/how-loadbalance-works.html)|
+---|
 
 # 例子
 
