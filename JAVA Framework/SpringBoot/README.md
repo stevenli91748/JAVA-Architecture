@@ -596,3 +596,5 @@ Spring Boot 并不是用来替代 Spring 的解决方案，而是和 Spring 框�
 # Trouble shooting
 
 * [idea中maven依赖爆红的排查步骤](https://blog.csdn.net/weixin_41989775/article/details/89457798?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.control&dist_request_id=1328603.6240.16148916110635743&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.control)
+
+* [idea 导入maven项目后，部分（可能也是所有）的依赖爆红，maven配置阿里的中央仓库](https://blog.csdn.net/m0_37626203/article/details/103916256?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.control&dist_request_id=1328602.6336.16148916424503297&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.control)
