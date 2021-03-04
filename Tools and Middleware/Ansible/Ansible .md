@@ -1,4 +1,5 @@
-
+[ansibleplaybook 安装zabbix](https://www.kancloud.cn/suixiaofeng/linux/832890)|[ansible playbook 搭建haproxy+lamp](https://www.kancloud.cn/suixiaofeng/linux/819819)|
+----|---|
 
 
 # 有用的参考
