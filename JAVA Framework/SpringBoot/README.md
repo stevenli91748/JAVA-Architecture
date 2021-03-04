@@ -590,3 +590,9 @@ Spring Boot 并不是用来替代 Spring 的解决方案，而是和 Spring 框�
 * [java - Spring Boot不运行单元测试](https://www.coder.work/article/1803608)
 # spring boot 项目中的pom.xml文件的配置
 * [spring-boot-dependencies、spring-boot-starter-parent、io.spring.platform详解](https://www.cnblogs.com/ld-mars/p/11720444.html)
+
+
+
+# Trouble shooting
+
+* [idea中maven依赖爆红的排查步骤](https://blog.csdn.net/weixin_41989775/article/details/89457798?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.control&dist_request_id=1328603.6240.16148916110635743&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.control)
