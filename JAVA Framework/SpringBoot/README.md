@@ -605,3 +605,4 @@ Spring Boot 并不是用来替代 Spring 的解决方案，而是和 Spring 框�
 
 * [IDEA中Maven依赖包导入失败报红问题总结最有效8种解决方案](https://blog.csdn.net/qq_43705131/article/details/106165960?utm_medium=distribute.pc_relevant_download.none-task-blog-BlogCommendFromBaidu-2.nonecase&dist_request_id=1328270.10271.16149025464805521&depth_1-utm_source=distribute.pc_relevant_download.none-task-blog-BlogCommendFromBaidu-2.nonecas)
 
+* [IDEA中Maven依赖包下载不了的问题解决方案汇总](https://blog.csdn.net/jwcxs_m/article/details/80076909?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.control&dist_request_id=1328603.37654.16150678744944757&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.control)
