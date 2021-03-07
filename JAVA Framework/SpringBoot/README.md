@@ -189,7 +189,7 @@
 * [Spring Boot热部署加持](http://www.codesheep.cn/2018/06/23/SpringBoot%E7%83%AD%E9%83%A8%E7%BD%B2%E5%8A%A0%E6%8C%81/)
 * [Springboot在idea中使用devtools热部署配置不生效的解决办法](https://blog.csdn.net/u010843945/article/details/84923465?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.control&dist_request_id=1328603.37546.16150668428043477&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.control)
 * [Spring Boot】使用Devtools实现热部署，避开IDEA的坑](https://blog.csdn.net/m0_37374307/article/details/106083948?utm_medium=distribute.pc_relevant.none-task-blog-baidujs_title-5&spm=1001.2101.3001.4242)
-* []()
+* [SpringBoot热部署四种方式](https://blog.csdn.net/qq_32447301/article/details/84570534?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.control&dist_request_id=1328602.40031.16150801157086523&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.control)
 
 
 
