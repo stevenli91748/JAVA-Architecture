@@ -189,6 +189,10 @@
 * [Spring Boot热部署加持](http://www.codesheep.cn/2018/06/23/SpringBoot%E7%83%AD%E9%83%A8%E7%BD%B2%E5%8A%A0%E6%8C%81/)
 * [Springboot在idea中使用devtools热部署配置不生效的解决办法](https://blog.csdn.net/u010843945/article/details/84923465?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.control&dist_request_id=1328603.37546.16150668428043477&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.control)
 * [Spring Boot】使用Devtools实现热部署，避开IDEA的坑](https://blog.csdn.net/m0_37374307/article/details/106083948?utm_medium=distribute.pc_relevant.none-task-blog-baidujs_title-5&spm=1001.2101.3001.4242)
+* []()
+
+
+
 ## 2b Tomcat
 * [Spring Boot – How to change Tomcat port](https://mkyong.com/spring-boot/spring-boot-how-to-change-tomcat-port/)
 * [How to get the Tomcat home directory in Java](https://mkyong.com/java/how-to-get-the-tomcat-home-directory-in-java/)
@@ -608,3 +612,5 @@ Spring Boot 并不是用来替代 Spring 的解决方案，而是和 Spring 框�
 * [IDEA中Maven依赖包下载不了的问题解决方案汇总](https://blog.csdn.net/jwcxs_m/article/details/80076909?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.control&dist_request_id=1328603.37654.16150678744944757&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.control)
 
 * [idea中maven项目遇到pom文件jar包不能下载解决方式](https://blog.csdn.net/duyuanhai/article/details/80511190?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.control&dist_request_id=1328603.37624.16150676963914223&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.control)
+
+* [idea 无法下载依赖包的问题](https://blog.csdn.net/weixin_39209728/article/details/90637258?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.control&dist_request_id=&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.control)
