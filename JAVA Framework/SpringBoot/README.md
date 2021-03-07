@@ -191,7 +191,7 @@
 * [Spring Boot】使用Devtools实现热部署，避开IDEA的坑](https://blog.csdn.net/m0_37374307/article/details/106083948?utm_medium=distribute.pc_relevant.none-task-blog-baidujs_title-5&spm=1001.2101.3001.4242)
 * [SpringBoot热部署四种方式](https://blog.csdn.net/qq_32447301/article/details/84570534?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.control&dist_request_id=1328602.40031.16150801157086523&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.control)
 
-
+* [SpringBoot开启热部署，亲测有效，实用教程](https://blog.csdn.net/uziuzi669/article/details/108420762?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.control&dist_request_id=1328602.40031.16150801157086523&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.control)
 
 ## 2b Tomcat
 * [Spring Boot – How to change Tomcat port](https://mkyong.com/spring-boot/spring-boot-how-to-change-tomcat-port/)
