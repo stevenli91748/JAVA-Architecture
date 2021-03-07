@@ -112,7 +112,7 @@
 ##  必备插件
 
 * [第一弹！安排！安利10个让你爽到爆的IDEA必备插件](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247486586&idx=1&sn=b745f0be1a5fc0160f43625e29df9029&chksm=cea243b1f9d5caa7200950063ae9e1691d3578d46c0b865c8220c8f1e02ed43cb4e586c2524c&token=248911937&lang=zh_CN#rd)
-  * [Codota---极其强大的代码自动补全]
+  
   * [IDEA的Docker插件]
     * [IDEA中使用Docker插件](https://mrbird.cc/IDEA-Docker-Plugin.html)
     * [IDEA的Docker插件实战(Dockerfile篇)](https://blog.csdn.net/boling_cavalry/article/details/100051325)
@@ -121,7 +121,7 @@
   * [Translation]
   * [CodeGlance -代码地图]
   * [Rainbow Brackets--彩虹式的括号]
-  * [ Grep Console 自定义控制台输出格式插件,可以设置不同级别log的字体颜色和背景色]
+  * [Grep Console 自定义控制台输出格式插件,可以设置不同级别log的字体颜色和背景色]
   * [Statistic 代码统计插件]
   * [Markdown Navigator---Markdown 编辑器插件]
   * [RestfulToolkit---能快速查找到所有前后端接口的controller代码位置，还能对接口进行测试]
@@ -129,9 +129,16 @@
   * [MyBatis Log Plugin---在项目运行后，可跟踪显示每一操作对数据库操作的SQL语句]
   * [Free Mybatis plugin---能在XML和mapper接口Java文件中跳转]
   * [Lombok](https://mp.weixin.qq.com/s/7ocQSmGtCn3EaVJ1kW7Cqg)
+  * [Codota---极其强大的代码自动补全,当我们第一次使用某个类，对该类的某个函数不够熟悉时，可以通过该插件搜索相关用法，快速模仿学习](https://www.kancloud.cn/hanxt/springboot2/1339999)
+  * [Auto filling Java call arguments---自动使用该函数定义的参数名填充](https://www.kancloud.cn/hanxt/springboot2/1339999)
+  * [Lombok plugin -- 注解自动生成代码](https://www.kancloud.cn/hanxt/springboot2/1315474)
+  * [Maven Helper--Maven辅助插件,查看依赖数， 还能自动分析是否存在jar包冲突](#Maven-Helper插件) 
+  * [Key Promoter X -一款可以进行快捷键提示的插件]
+  * []()
+
 ---
   
-  * [Maven Helper--Maven辅助插件](#Maven-Helper插件) 
+  * [Maven Helper--Maven辅助插件,查看依赖数， 还能自动分析是否存在jar包冲突](#Maven-Helper插件) 
 
   * [FindBugs---潜在Bug检查](#FindBugs)ion
   * [ECTranslation](#ECTranslation)
@@ -139,11 +146,11 @@
   
   * [SonarLint -代码质量检查插件]
   * [Alibaba Java Coding Guidelines   阿里巴巴代码规范检查插件]
-  * [Lombok plugin -- 注解自动生成代码]
+  
 
   * [.ignore -git忽略文件]
   * [String Manipulation -一款强大的字符串转换工具]
-  * [Key Promoter X -一款可以进行快捷键提示的插件]
+  
   * [Iedis  Redis可视化]
   * [JUnitGenerator 单元测试测试生成工具]
   * [MetricsReloaded 代码复杂度检查]
@@ -457,10 +464,14 @@
 
 ## Maven Helper插件
   
+   * [Maven Helper--Maven辅助插件,查看依赖数， 还能自动分析是否存在jar包冲突](https://www.kancloud.cn/hanxt/springboot2/1339999)
+  
      可在项目中查找到版本冲突的插件，并解决冲突。  
 
 ## GsonFormat 转化Json字符串
   
+  * [GsonFormat](https://www.kancloud.cn/hanxt/springboot2/1339999)
+   
    在编程中，经常要测试JSON字符串,使用该插件就可跟据json生成代码
 
 ## Markdown
