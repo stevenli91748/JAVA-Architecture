@@ -3,6 +3,23 @@
 ---|---|
 
 <details>
+<summary>spring响应字符串类型？</summary>
+ 
+ 没使用@ResponseBody修饰函数的返回值
+ 
+     spring响应字符串类型，是跳转到模板页面或jsp页面的开发模式。说白了：加上这个注解你开发的是一个数据接口，不加这个注解你开发的是一个页面跳转控制器。
+    
+ 使用@ResponseBody修饰函数的返回值   
+
+       1. json格式
+          @ResponseBody修饰返回值，注解用于在HTTP的body中携带响应数据，默认是使用JSON的格式。如果不加该注解，spring响应字符串类型，是跳转到模板页面或jsp页面的开发模式。说白了：加上这个注解你
+          开发的是一个数据接口，不加这个注解你开发的是一个页面跳转控制器。
+       2. XML格式
+       3. Excel格式
+
+</details>
+
+<details>
 <summary>classpath根路径是什麽？</summary>
   
   classpath根路径就是指resources目录下
