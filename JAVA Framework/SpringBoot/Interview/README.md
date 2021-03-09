@@ -14,8 +14,23 @@
        1. json格式
           @ResponseBody修饰返回值，注解用于在HTTP的body中携带响应数据，默认是使用JSON的格式。如果不加该注解，spring响应字符串类型，是跳转到模板页面或jsp页面的开发模式。说白了：加上这个注解你
           开发的是一个数据接口，不加这个注解你开发的是一个页面跳转控制器。
+          
+          例子:
+          
+            public @ResponseBody  AjaxResponse saveArticle(@RequestBody ArticleVO article)
+          
        2. XML格式
-       3. Excel格式
+       
+           不仅JSON可以表达对象数据类型，XML也可以。如果我们希望使用XML格式该怎么告知Spring呢，那就要使用到produces属性了
+           
+          例子:
+          
+            @GetMapping(value ="/demo",produces = MediaType.APPLICATION_XML_VALUE)
+            
+          这里我们明确的告知了返回的数据类型是xml，就会使用Jaxb2RootElementHttpMessageConverter作为默认的数据转换器。当然实现XML数据响应比JSON还会更复杂一些，还需要结合
+          @XmlRootElement、@XmlElement等注解实体类来使用。同理consumes属性你是不是也会用了呢。   
+
+       4. Excel格式
 
 </details>
 
