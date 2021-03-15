@@ -59,6 +59,7 @@
 * [像这样做单元测试](https://my.oschina.net/huangyong/blog/162325)
 * [最佳Java单元测试框架](https://juejin.im/post/6844903941038161928)
 
+* [Java JUnit 单元测试小结](https://segmentfault.com/a/1190000006731125)
 * [Java testing Tutorials](https://howtodoinjava.com/)
 * [sample: creating a Spring application and then testing it with JUnit  ---spring office](https://spring.io/guides/gs/testing-web/)
 
