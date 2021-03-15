@@ -19,6 +19,7 @@
 
   * 1 基本单元测试框架
     * [Junit5](https://junit.org/junit5/)
+      * [Java JUnit 单元测试小结](https://segmentfault.com/a/1190000006731125)
     * [TestNG](https://testng.org/doc/)
       * [TestNG例子程序](http://websystique.com/java/testng-tutorial/)
   * 2 模拟框架- Mockito和EasyMock    
