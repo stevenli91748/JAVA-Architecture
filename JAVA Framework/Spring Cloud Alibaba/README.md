@@ -1,5 +1,9 @@
 
 
+# 视频
+
+* [Spring Cloud Alibaba](https://edu.51cto.com/center/course/lesson/index?id=696542)
+
 
 # Spring Cloud Alibaba 版本关系说明
 
