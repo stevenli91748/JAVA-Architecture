@@ -179,7 +179,7 @@
 
 ## 实战项目
 * [springCloud- 搭建项目全部详细过程（创建一个父工程）](https://blog.csdn.net/star1210644725/article/details/104691945?utm_medium=distribute.pc_relevant_download.none-task-blog-baidujs-5.nonecase&depth_1-utm_source=distribute.pc_relevant_download.none-task-blog-baidujs-5.nonecase)
-* [SpringCloud- Alibaba](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%20Alibaba/README.md)
+* [SpringCloud- Alibaba](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud%20Alibaba/README.md)
 * [限流](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/%E9%99%90%E6%B5%81/README.md)
 * [2小时演示从头搭建Spring Cloud完整环境。配置中心、注册中心、网关、消息中间件、链路跟踪](https://www.bilibili.com/video/BV14W411j7uH/?spm_id_from=333.788.videocard.1)
 * [史上最新的SpringCloud互联网微服务架构项目实战](https://www.bilibili.com/video/av65636320/?spm_id_from=333.788.videocard.0)
