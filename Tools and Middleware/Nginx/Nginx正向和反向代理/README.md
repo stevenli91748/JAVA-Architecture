@@ -28,11 +28,10 @@
 * [Nginx正向和反向代理](https://www.bilibili.com/video/av68136734?p=3)
 
 
-# 有用的参考
-# 有用的参考
 
+# 有用的参考
+* [Nginx配置实列-反向代理](https://www.kancloud.cn/ll90/liuyaofu/2144225)
 * [Nginx反向代理、负载均衡、动静分离、缓存、压缩、防盗链、跨域访问](https://www.cnblogs.com/ph7seven/p/9932712.html)
-
 * [nginx反向代理实例](https://www.cnblogs.com/hanmk/p/9289069.html)
 * [Nginx正向代理与反向代理](https://www.jianshu.com/p/ae76c223c6ef)
 * [Nginx代理多台tomcat服务](https://www.jianshu.com/p/675317d33eac)
