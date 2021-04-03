@@ -27,7 +27,7 @@
 
 # 有用的参考
 # 有用的参考
-
+* [Nginx配置实例-动静分离](https://www.kancloud.cn/ll90/liuyaofu/2144227)
 * [Nginx反向代理、负载均衡、动静分离、缓存、压缩、防盗链、跨域访问](https://www.cnblogs.com/ph7seven/p/9932712.html)
 
 * [Nginx实现动静分离](https://www.jianshu.com/p/037a088eca4f)
