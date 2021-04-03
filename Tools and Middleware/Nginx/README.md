@@ -78,6 +78,7 @@ nginx出口-->http服务
   * [动静分离](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Nginx/Nginx%E5%8A%A8%E9%9D%99%E5%88%86%E7%A6%BB/README.md)
   * [反向代理](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Nginx/Nginx正向和反向代理/README.md)
   * [负载均衡](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Nginx/Nginx负载均衡/README.md)
+  * [跨域请求 ](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Nginx/Nginx%20%E8%B7%A8%E5%9F%9F%E8%AF%B7%E6%B1%82/README.md)
   * [安全防御]()
   * [智能路由（企业级灰度测试、地图 POI 一键切流）]()
   * [灰度发布]()
