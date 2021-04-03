@@ -59,6 +59,7 @@ nginx出口-->http服务
   * [1.3 Nginx 特点]()
     * [反向代理](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Nginx/Nginx正向和反向代理/README.md)
     * [负载均衡器](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Nginx/Nginx负载均衡/README.md)
+    * [动静分离](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Nginx/Nginx%E5%8A%A8%E9%9D%99%E5%88%86%E7%A6%BB/README.md)
     * [高可靠性、单 Master 多 Worker 模式]()
     * [高可扩展性、高度模块化]()
     * [非阻塞]()
