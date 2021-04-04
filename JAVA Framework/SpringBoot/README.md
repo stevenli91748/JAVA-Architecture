@@ -192,7 +192,7 @@
 * [SpringBoot热部署四种方式](https://blog.csdn.net/qq_32447301/article/details/84570534?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.control&dist_request_id=1328602.40031.16150801157086523&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.control)
 
 * [SpringBoot开启热部署，亲测有效，实用教程](https://blog.csdn.net/uziuzi669/article/details/108420762?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.control&dist_request_id=1328602.40031.16150801157086523&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.control)
-* [聊一聊SpringBoot项目热部署](https://developer.51cto.com/art/202102/646224.htm)
+* [聊一聊SpringBoot项目热部署--可获得jrebel激活序列码](https://developer.51cto.com/art/202102/646224.htm)
 ## 2b Tomcat
 * [Spring Boot – How to change Tomcat port](https://mkyong.com/spring-boot/spring-boot-how-to-change-tomcat-port/)
 * [How to get the Tomcat home directory in Java](https://mkyong.com/java/how-to-get-the-tomcat-home-directory-in-java/)
