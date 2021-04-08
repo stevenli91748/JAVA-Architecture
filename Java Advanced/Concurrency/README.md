@@ -81,7 +81,8 @@
 
 
 # 视频
-* [Java高并发之魂：synchronized深度解析](https://www.imooc.com/learn/1086)
+ * [2小时教你处理网站高并发问题](https://www.youtube.com/watch?v=hXlYe3yPo5g)
+ * [Java高并发之魂：synchronized深度解析](https://www.imooc.com/learn/1086)
  * [玩转Java并发工具，精通JUC，成为并发多面手](https://drive.google.com/drive/folders/1OSoTu7hUjJ3my2cxLGy2VGeqyBsqEs8n)
  * [Java并发编程原理与实战](https://www.youtube.com/watch?v=10Xrkmqa9d0&list=PLStUqVcO94bhOvk5msq7gxkcxoP4Tc8mv)
  * [阿里巴巴大牛教你快速了解并发编程](https://www.bilibili.com/video/av19131750/?spm_id_from=333.788.videocard.17)
