@@ -76,6 +76,7 @@
 
 
 # 有用的参考
+* [老板叫我设计一个亿级API网关](https://network.51cto.com/art/202104/656469.htm)
 * [Netty学习大纲](https://www.jianshu.com/p/a29bc6a19c6c)
 * [Netty面试题（2020最新版）](https://blog.csdn.net/ThinkWon/article/details/104391081)
 * [新手入门：目前为止最透彻的的Netty高性能原理和框架架构解析](http://www.52im.net/thread-2043-1-1.html)
