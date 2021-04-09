@@ -416,6 +416,7 @@ c:\apache-tomcat-9.0.16
  
  
 # 有用的参考
+* [老板叫我设计一个亿级API网关](https://network.51cto.com/art/202104/656469.htm)
 * [tomcat内存配置及配置参数详解](https://blog.csdn.net/m0_37327416/article/details/76185051)
 * [Tomcat系统架构与请求处理流程](https://blog.csdn.net/ThinkWon/article/details/102676442?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task)
 * [Tomcat面试题（2020最新版）](https://blog.csdn.net/ThinkWon/article/details/104397665)
