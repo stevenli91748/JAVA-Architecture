@@ -25,6 +25,6 @@
 * [1.8 Elasticsearch Java API](http://www.youmeek.com/elasticsearch-java-api/)
 
 * [Windows搭建ElasticSearch](https://blog.csdn.net/Julycaka/article/details/82665522) 
-
+* [终于有人把Elasticsearch原理讲透了](https://developer.51cto.com/art/201904/594615.htm)
 
 
