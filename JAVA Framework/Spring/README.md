@@ -87,6 +87,7 @@
   * [spring 2019_IDEA版(下)](https://www.bilibili.com/video/av50157169/?spm_id_from=333.788.videocard.0)
   
 # 有用的参考
+* [Spring声明式事务在哪些情况下会失效](https://developer.51cto.com/art/202104/657440.htm)
 * [关于 Spring 中 GetBean 的全流程源码解析](https://developer.51cto.com/art/202104/658026.htm)
 * [2020年最全Spring面试题总结](https://juejin.im/post/5e3bbd336fb9a07ca24f402f)
 * [Spring面试题（2020最新版）](https://blog.csdn.net/ThinkWon/article/details/104397516)
