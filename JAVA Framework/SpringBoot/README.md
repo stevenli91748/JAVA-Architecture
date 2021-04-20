@@ -512,7 +512,7 @@ Spring Boot 并不是用来替代 Spring 的解决方案，而是和 Spring 框�
 
 
 # 有用的参考
-
+  * [这篇文章让你搞懂 SpringMVC 国际化](https://developer.51cto.com/art/202104/657813.htm)
   * [Spring boot项目搭建（前端到数据库，超详细）](https://developer.51cto.com/art/202103/648426.htm)
   * [Springboot整合Websocket实现后端向前端主动推送消息案例](https://developer.51cto.com/art/202103/652897.htm)
   * [SpringBoot 项目接入 Redis 集群](https://developer.51cto.com/art/202009/626914.htm)
