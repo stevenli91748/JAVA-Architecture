@@ -28,3 +28,4 @@
 * [Spring Cloud实战小贴士：Zuul处理Cookie和重定向](http://blog.didispace.com/spring-cloud-zuul-cookie-redirect/)
 * [Netflix Zuul与Nginx的性能对比](http://blog.didispace.com/zuul-vs-nginx-performance/)
 * [Spring Cloud构建微服务架构（五）服务网关](http://blog.didispace.com/springcloud5/)
+* [Spring Cloud中Zuul网关原理及其配置，看它就够了](https://developer.51cto.com/art/202104/658258.htm)
