@@ -88,6 +88,7 @@
 * [千锋Java：3天学会SpringMVC框架教程](https://www.bilibili.com/video/av45556876?from=search&seid=15013736168332447863)
 
 # 有用的参考
+* [SpringMVC 异常处理体系深入分析](https://developer.51cto.com/art/202104/657057.htm)
 * [Spring MVC面试题（2020最新版）](https://blog.csdn.net/ThinkWon/article/details/104397427)
 * [Spring MVC 过时了吗？](https://www.zhihu.com/question/294282002)
 * [SpringMVC初始化过程](http://objcoding.com/2017/06/14/SpringMVC-initialization-process/)
