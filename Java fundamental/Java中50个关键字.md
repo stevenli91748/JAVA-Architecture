@@ -160,7 +160,7 @@ finally，当代码抛出一个异常时，就会终止方法中剩余代码的�
 * [final、static和final static之间的差别](https://blog.csdn.net/tracyjack123/article/details/81630997)
 * [从Java内存模型理解synchronized、volatile和final关键字](https://blog.csdn.net/fuzhongmin05/article/details/60464835)
 * [final关键词在多线程环境中的使用](https://blog.csdn.net/xiaoxiaoxuanao/article/details/52573859)
-
+* [详解Java中的final关键字](https://www.cnblogs.com/cciejh/p/final-in-java.html)
 
 ### instanceof
 * [Java instanceof用法详解](https://blog.csdn.net/kuangay/article/details/81563992)
