@@ -202,7 +202,7 @@
 * [通过Tomcat配置改善SpringBoot项目并发线程数上不去的问题](https://blog.csdn.net/weixin_41657493/article/details/90819987?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-3.control&dist_request_id=1619637687737_21438&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-3.control)
 * [设置springboot自带tomcat的最大连接数和最大并发数](https://blog.csdn.net/kouwoo/article/details/83898788?utm_medium=distribute.pc_relevant.none-task-blog-baidujs_baidulandingword-5&spm=1001.2101.3001.4242)
 * [tomcat优化——并发和Tomcat线程数](https://blog.csdn.net/hunhun1122/article/details/78818337)
-
+* [Spring boot中最大连接数、最大线程数与最大等待数在生产中的异常场景](https://blog.csdn.net/qq_36956015/article/details/100929993?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.control&dist_request_id=1619638919485_32258&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.control)
 
 ---
 
