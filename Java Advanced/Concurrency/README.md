@@ -45,15 +45,16 @@
   * [数据并行](#数据并行)
   * [Lambda架构](#Lambda架构)
 * 架构中的各个组件的并发量规格
+  * 并发量规格---并发量规格指的是连接数，不是线程数。
   * Web服务器并发量
-    * Nginx(OpenResty)---mysql的并发量在4000-8000
-    * Netty---Netty的并发量在3000-6000
-    * Tomcat---tomcat官方宣称的并发量是1000，厉害点的做点参数调优，也不过3000并发
-    * Apache---apache的并发比tomcat更不堪，200-300
-    * Weblogic---weblogic的并发稍好，平均能达到3000左右
+    * Nginx(OpenResty)---mysql的并发量在4000-8000连接数
+    * Netty---Netty的并发量在3000-6000连接数
+    * Tomcat---tomcat官方宣称的并发量是1000连接数，厉害点的做点参数调优，也不过3000并发连接数
+    * Apache---apache的并发比tomcat更不堪，200-300连接数
+    * Weblogic---weblogic的并发稍好，平均能达到3000左右连接数
     * Webphere---
   * 程序中的并发量
-    * Spring Boot的并发量---
+    * Spring Boot的并发量---Spring Boot 能支持的最大并发量主要看其对默认Tomcat的设置，默认设置中，Tomcat的最大线程数是200，最大连接数是10000。
 * 高并发问题
   * 解决侧重于“高并发读”的系统问题
     * 策略1： 加缓存
