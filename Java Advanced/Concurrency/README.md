@@ -148,7 +148,7 @@
  
  * [OpenResty(Nginx)支持的并发量](https://www.cnblogs.com/Tanwheey/p/12689629.html)
  * [【杂谈】Spring Boot 默认支持的并发量](https://blog.csdn.net/f45056231p/article/details/97390548)
-
+ * [springboot能抗住多少并发_并发测试神器，看看你的能不能抗住超过 5 万的并发用户](https://blog.csdn.net/weixin_39989688/article/details/111394127?utm_medium=distribute.pc_relevant.none-task-blog-baidujs_baidulandingword-0&spm=1001.2101.3001.4242)
 
 * [聊聊高并发](https://blog.csdn.net/ITer_ZC/column/info/loveconcurrency)
 * [我们来谈下高并发和分布式中的幂等处理](https://juejin.im/post/5c05f233e51d4524860fc51a)
