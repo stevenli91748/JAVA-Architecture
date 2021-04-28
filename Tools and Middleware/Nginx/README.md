@@ -53,6 +53,10 @@ nginx出口-->http服务
 [负载均衡层设计方案](#负载均衡层设计方案)|[亿级PV请求的三种负载均衡技术](https://www.cnblogs.com/chanshuyi/p/how-loadbalance-works.html)|
 ---|---|
 
+[OpenResty 究竟解决了什么痛点？](https://www.cnblogs.com/Tanwheey/p/12689629.html)|
+---|
+
+
 * [1. Nginx 简介及特点]()
   * [1.1 Nginx 简介]()
   * [1.2 Nginx服务器配置例子](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Nginx/Nginx%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%85%8D%E7%BD%AE%E4%BE%8B%E5%AD%90.md)
