@@ -393,10 +393,9 @@ c:\apache-tomcat-9.0.16
 
 # TOMCAT性能调优  
 
-  [Tomcat内存调优](https://www.bilibili.com/video/av58099303/?p=24)
-
-  [TOMCAT性能调优](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Performance/tomcat.md)
-
+  * [Tomcat内存调优](https://www.bilibili.com/video/av58099303/?p=24)
+  * [TOMCAT性能调优](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Performance/tomcat.md)
+  * [tomcat优化——并发和Tomcat线程数](https://blog.csdn.net/hunhun1122/article/details/78818337)
 # Tomcat监控
 
   [Tomcat监控](https://www.bilibili.com/video/av58099303/?p=25)
@@ -416,6 +415,7 @@ c:\apache-tomcat-9.0.16
  
  
 # 有用的参考
+* [tomcat优化——并发和Tomcat线程数](https://blog.csdn.net/hunhun1122/article/details/78818337)
 * [老板叫我设计一个亿级API网关](https://network.51cto.com/art/202104/656469.htm)
 * [tomcat内存配置及配置参数详解](https://blog.csdn.net/m0_37327416/article/details/76185051)
 * [Tomcat系统架构与请求处理流程](https://blog.csdn.net/ThinkWon/article/details/102676442?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task)
