@@ -26,8 +26,8 @@
 [电商中常见的高并发怎么处理](https://www.bilibili.com/read/cv690850)|[高并发系统开发实战！美团大佬手把手直播教学](https://www.bilibili.com/video/BV1z4411z7FN?from=search&seid=9409290589494288789)|
 ---|---|
 
-[操作系统能否支持百万连接?](https://cloud.tencent.com/developer/article/1114773)|
----|
+[操作系统能否支持百万连接?](https://cloud.tencent.com/developer/article/1114773)|[单台服务器并发百万级配置(转)](https://blog.csdn.net/luo200618/article/details/54133505/?utm_medium=distribute.pc_relevant.none-task-blog-baidujs_baidulandingword-0&spm=1001.2101.3001.4242)|
+---|---|
 
 [Swoole 从入门到实战教程---高并发实战演示](https://laravelacademy.org/books/swoole-tutorial)|
 ---|
