@@ -62,6 +62,7 @@
 * 高并发问题
   * 解决侧重于“高并发读”的系统问题
     * 策略1： 加缓存
+      * [高并发场景下缓存处理的一些思路](https://mp.weixin.qq.com/s?__biz=MzI4Njc5NjM1NQ==&mid=2247488645&idx=1&sn=2d937355744f7b92f75417c022ba49a5&chksm=ebd62ba9dca1a2bf240151d8f57881cfd05965a2104c33a0e5891c7683ced6a38275561ba0d9&scene=21#wechat_redirect)
     * 策略2： 并发读
     * 策略3： 重写轻读
     * 读写分离（CQRS架构）
