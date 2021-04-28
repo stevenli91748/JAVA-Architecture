@@ -4,6 +4,10 @@
 [精尽 Netty 学习指南](http://svip.iocoder.cn/Netty/tutorials/)|
 ---|
 
+[Netty 100万级高并发服务器配置](https://blog.csdn.net/crazymakercircle/article/details/83758107?utm_medium=distribute.pc_relevant.none-task-blog-baidujs_title-0&spm=1001.2101.3001.4242)|
+---|
+
+
 [疯狂创客圈 IM---从0开始100w分布式 Java 高并发、分布式应用实战](https://gitee.com/crazymaker/crazy_tourist_circle__im)|[实战Netty集群 - CrazyIM 分布式聊天实战](https://www.cnblogs.com/crazymakercircle/p/11470287.html)|
 ---|---|
 
