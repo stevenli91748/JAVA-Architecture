@@ -204,6 +204,7 @@
   *  [JVM性能调优](https://www.kancloud.cn/zlt2000/microservices-platform/989551)
   *  [46张PPT弄懂JVM、GC算法和性能调优](https://blog.csdn.net/youanyyou/article/details/89913387)
   *  常用Java虚拟机参数
+     * [JVM的最大线程并发量](https://zhuanlan.zhihu.com/p/70371794)
      * 系统参数查看
      * 垃圾回收跟踪参数
      * 内存配置参数
