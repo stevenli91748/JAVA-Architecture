@@ -415,7 +415,10 @@ c:\apache-tomcat-9.0.16
  
  
 # 有用的参考
+## 高并发问题
 * [tomcat优化——并发和Tomcat线程数](https://blog.csdn.net/hunhun1122/article/details/78818337)
+* [Spring boot中最大连接数、最大线程数与最大等待数在生产中的异常场景](https://blog.csdn.net/qq_36956015/article/details/100929993?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.control&dist_request_id=1619638919485_32258&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.control)
+
 * [老板叫我设计一个亿级API网关](https://network.51cto.com/art/202104/656469.htm)
 * [tomcat内存配置及配置参数详解](https://blog.csdn.net/m0_37327416/article/details/76185051)
 * [Tomcat系统架构与请求处理流程](https://blog.csdn.net/ThinkWon/article/details/102676442?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task)
