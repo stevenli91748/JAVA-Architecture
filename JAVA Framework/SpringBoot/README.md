@@ -193,10 +193,17 @@
 
 * [SpringBoot开启热部署，亲测有效，实用教程](https://blog.csdn.net/uziuzi669/article/details/108420762?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.control&dist_request_id=1328602.40031.16150801157086523&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.control)
 * [聊一聊SpringBoot项目热部署--可获得jrebel激活序列码](https://developer.51cto.com/art/202102/646224.htm)
+
 ## 2b Tomcat
 * [Spring Boot – How to change Tomcat port](https://mkyong.com/spring-boot/spring-boot-how-to-change-tomcat-port/)
 * [How to get the Tomcat home directory in Java](https://mkyong.com/java/how-to-get-the-tomcat-home-directory-in-java/)
 * [Spring Boot打包war jar并部署tomcat实例步骤](https://www.xz577.com/j/48479.html)
+* [我是如何把SpringBoot项目的并发提升十倍量级的](https://blog.csdn.net/emprere/article/details/104404256?utm_medium=distribute.pc_relevant.none-task-blog-baidujs_baidulandingword-0&spm=1001.2101.3001.4242)
+* [通过Tomcat配置改善SpringBoot项目并发线程数上不去的问题](https://blog.csdn.net/weixin_41657493/article/details/90819987?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-3.control&dist_request_id=1619637687737_21438&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-3.control)
+* [设置springboot自带tomcat的最大连接数和最大并发数](https://blog.csdn.net/kouwoo/article/details/83898788?utm_medium=distribute.pc_relevant.none-task-blog-baidujs_baidulandingword-5&spm=1001.2101.3001.4242)
+* [tomcat优化——并发和Tomcat线程数](https://blog.csdn.net/hunhun1122/article/details/78818337)
+
+
 ---
 
 [IDEA下从零开始搭建SpringBoot工程](https://blog.csdn.net/u013248535/article/details/55100979)|[建立SpringBoot工程的几种方法](#建立SpringBoot工程的几种方法)|[Docker容器可视化监控中心搭建](https://mp.weixin.qq.com/s?__biz=MzU4ODI1MjA3NQ==&mid=2247483763&idx=1&sn=6ceb9e73540b5016dadfb212636b3855&chksm=fdded7b7caa95ea1165b507397c39267d3bf7522c83cc8ed10eae4ee4a13db831eb58a3dc167&scene=21#wechat_redirect)|[SpringBoot 应用程序启动过程探秘](https://www.codesheep.cn/2018/09/04/springboot-startup-process/)|
