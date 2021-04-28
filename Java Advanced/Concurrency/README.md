@@ -44,6 +44,16 @@
   * [通信顺序进程](#通信顺序进程)
   * [数据并行](#数据并行)
   * [Lambda架构](#Lambda架构)
+* 架构中的各个组件的并发量规格
+  * Web服务器并发量
+    * Nginx(OpenResty)---mysql的并发量在4000-8000
+    * Netty---Netty的并发量在3000-6000
+    * Tomcat---tomcat官方宣称的并发量是1000，厉害点的做点参数调优，也不过3000并发
+    * Apache---apache的并发比tomcat更不堪，200-300
+    * Weblogic---weblogic的并发稍好，平均能达到3000左右
+    * Webphere---
+  * 程序中的并发量
+    * Spring Boot的并发量---
 * 高并发问题
   * 解决侧重于“高并发读”的系统问题
     * 策略1： 加缓存
@@ -124,6 +134,12 @@
 * [并发编程面试题（2020最新版）](https://blog.csdn.net/ThinkWon/article/details/104863992)
 * [并发网系列文章集](http://ifeve.com/paper-set/)
 * [看动画学并发编程](https://sourceforge.net/projects/javaconcurrenta/)
+
+
+## 高并发量的规格
+ 
+ * [OpenResty(Nginx)支持的并发量](https://www.cnblogs.com/Tanwheey/p/12689629.html)
+ * [【杂谈】Spring Boot 默认支持的并发量](https://blog.csdn.net/f45056231p/article/details/97390548)
 
 
 * [聊聊高并发](https://blog.csdn.net/ITer_ZC/column/info/loveconcurrency)
