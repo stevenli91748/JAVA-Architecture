@@ -729,6 +729,7 @@ SQL语言|[MySQL](https://github.com/stevenli91748/Database/blob/master/MySQL/RE
   * [Java动态编程初探](https://blog.csdn.net/lpd_tech/article/details/92812635)
   * [Java 程序员常用资源工具集合（建议收藏）](https://www.javazhiyin.com/42840.html)
   * [编程导航](https://www.code-nav.cn/recommend)
+  * [Java Web开发教程——基本思路](https://zhuanlan.zhihu.com/p/20756940)|
 ## Java在程序中如何获取系统信息
   * [Java在程序中如何获取系统信息（包括操作系统、jvm、cpu、内存、硬盘、网络、io等](https://blog.csdn.net/caomiao2006/article/details/51533429)
   * [java在程序中利用ManagementFactory获取jvm,os的一些信息](https://blog.csdn.net/dream_broken/article/details/49759043)
