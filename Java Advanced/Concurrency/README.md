@@ -11,6 +11,9 @@
 [高并发编程从入门到精通（四）](https://juejin.im/post/6847902217127755783)|[高并发编程从入门到精通（五）](https://juejin.im/post/6854573209778569230)|[高并发编程从入门到精通（六](https://juejin.im/post/6856562407142227982)|
 ---|---|---|
 
+[面试官问我高并发服务模型哪家强](https://mp.weixin.qq.com/s/_XPzjzM6Tp1KoeYJBOOTCg)|
+---|
+
 [java并发成神之路---JUC全方位解读脑图](https://naotu.baidu.com/file/89fb28b05e3395800f9dc2d332d2b198?token=9b45e08e55281667)|[Java多任务并行处理框架 Fork Join](https://www.bilibili.com/video/BV1Gp411R7YG)|
 ---|---|
 
