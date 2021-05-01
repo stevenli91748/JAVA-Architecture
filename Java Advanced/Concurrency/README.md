@@ -30,8 +30,8 @@
 ---|---|---|
 
 
-[公司项目并发量都特小，自己如何实际接触高并发项目](https://www.zhihu.com/question/267113602/answer/1861665973)|
----|
+[公司项目并发量都特小，自己如何实际接触高并发项目](https://www.zhihu.com/question/267113602/answer/1861665973)|[]()|
+---|---|
 
 [Swoole 从入门到实战教程---高并发实战演示](https://laravelacademy.org/books/swoole-tutorial)|
 ---|
