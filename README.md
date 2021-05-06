@@ -15,7 +15,7 @@
 # [An Entire Software Development Life Cycle - Full Guide (Tutorial)](https://www.youtube.com/watch?v=9PgZCJNzY9M&list=RDCMUC2WHjPDvbE6O328n17ZGcfg&start_radio=1&t=80)
 # [阿里云开发者社区——藏经阁系列电子书](https://developer.aliyun.com/ebook?spm=a2c6h.12873639.0.0.6cc46517ypEaxy)
 # [博文总目录](https://blog.csdn.net/derrantcm/article/details/73456550)
-
+# [阿里大佬倾情力荐: Java全线成长宝典，从P5到P8一应俱全](https://www.jianshu.com/p/f69b9f5def41)
 ---
 
 
