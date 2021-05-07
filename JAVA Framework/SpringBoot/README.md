@@ -390,7 +390,9 @@
   * [Spring Boot应用部署于外置Tomcat容器](http://www.codesheep.cn/2018/06/05/SpringBoot%E5%BA%94%E7%94%A8%E9%83%A8%E7%BD%B2%E4%BA%8E%E5%A4%96%E7%BD%AETomcat%E5%AE%B9%E5%99%A8/)
   * [How to deploy Maven based war file to Tomcat](https://mkyong.com/maven/how-to-deploy-maven-based-war-file-to-tomcat/)
   * [在Docker中怎样部署 Nginx + SpringBoot项目集群](https://www.kancloud.cn/pm1028/kubenetes/1767445)
-
+  * [Rancher+k8s+Jenkines流水线+SpringCloud 微服务部署实践](https://www.jianshu.com/p/76eee9521d8a)
+  * [手动部署springboot工程到Docker](https://www.jianshu.com/p/e635eb540c97)
+  * [idea部署springboot工程到服务器Docker](https://www.jianshu.com/p/f95f1fa4c7cc)
 
 ---
 
@@ -531,6 +533,8 @@ Spring Boot 并不是用来替代 Spring 的解决方案，而是和 Spring 框�
 
 
 # 有用的参考
+  * [springboot使用nacos做注册中心](https://www.jianshu.com/p/189376ef0b10)
+  * [spring boot使用nacos作为配置中心实践](https://www.jianshu.com/p/0ccd1dcaa717)
   * [这篇文章让你搞懂 SpringMVC 国际化](https://developer.51cto.com/art/202104/657813.htm)
   * [Spring boot项目搭建（前端到数据库，超详细）](https://developer.51cto.com/art/202103/648426.htm)
   * [Springboot整合Websocket实现后端向前端主动推送消息案例](https://developer.51cto.com/art/202103/652897.htm)
