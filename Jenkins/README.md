@@ -24,3 +24,4 @@
 * [使用Jenkins一键打包部署SpringBoot应用，就是这么6！](https://mp.weixin.qq.com/s/tQqvgSc9cHBtnqRQSbI4aw)
 * [再见 Jenkins！几行脚本搞定自动化部署，这款神器有点厉害](https://www.jianshu.com/p/304d67c59110)
 * [Devops自动化部署方案CICD-Jenkins&gitlab实践](https://www.jianshu.com/p/323284cb3ac2)
+* [jenkins部署源代码到远程服务器](https://www.jianshu.com/p/8eee1a0cfdba)
