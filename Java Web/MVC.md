@@ -1,6 +1,8 @@
 
-[Java Web开发教程——基本思路](https://zhuanlan.zhihu.com/p/20756940)|
----|
+[Java Web开发教程——基本思路](https://zhuanlan.zhihu.com/p/20756940)|[浅析MVC模式与三层架构的区别](https://www.cnblogs.com/rainbow70626/p/4967478.html)|
+---|---|
+
+
 
 ### 路由：
     解决什么样的请求交给哪个后端处理单元处理的问题。
