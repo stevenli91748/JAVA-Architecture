@@ -72,6 +72,21 @@
   * [13. roncoo-pay---支付类项目](https://gitee.com/roncoocom/roncoo-pay "支付系统嘛，集成了主流支付方式、支付平台等，除此之外它还有些额外的管理功能，比如对账、结算、交易订单的管理等等，所以也有后台管理的,该项目的技术栈也是后端的主流技术，包括：Spring Boot、Shiro、MyBatis、Redis等。开源的支付类项目平时见得可能也不多，它也是一个偏业务类型的开源项目。毕竟开源项目很少有业务强相关的，开源出来的东西，业务一般都剥离出去了。该项目涉及了一些和支付相关的业务流程，包括：支付流程、对账流程、结算流程等等。")
 
 
+# SpringCloud微服务电商项目教程
+
+* [一、SpringCloud微服务电商项目 之 电商框架搭建](https://www.laopaojava.com/posts/20442.html)
+* [二、SpringCloud微服务电商项目 之 分布式文件存储FastDFS](https://www.laopaojava.com/posts/25409.html)
+* [三、SpringCloud微服务电商项目 之商品发布](https://www.laopaojava.com/posts/48341.html)
+* [四、SpringCloud微服务电商项目 之lua、Canal实现广告缓存](https://www.laopaojava.com/posts/17952.html)
+* [五、 SpringCloud微服务电商项目 之商品搜索(1)](https://www.laopaojava.com/posts/60097.html)
+* [六、 SpringCloud微服务电商项目 之商品搜索(2)](https://www.laopaojava.com/posts/32480.html)
+* [七、SpringCloud微服务电商项目 之Thymeleaf、Rabbitmq实现静态页](https://www.laopaojava.com/posts/40488.html)
+* [八、SpringCloud微服务电商项目 之微服务网关和Jwt令牌](https://www.laopaojava.com/posts/58723.html)
+* [九、SpringCloud微服务电商项目 之Spring Security Oauth2 JWT](https://www.laopaojava.com/posts/35453.html)
+* [十、SpringCloud微服务电商项目 之购物车](https://www.laopaojava.com/posts/46673.html)
+* [十一、SpringCloud微服务电商项目 之订单](https://www.laopaojava.com/posts/42779.html)
+* [十二、 SpringCloud微服务电商项目 之微服务之微信支付](https://www.laopaojava.com/posts/15693.html)
+
 
 
 # SpringCloud 应用在 Kubernetes 上的最佳实践
