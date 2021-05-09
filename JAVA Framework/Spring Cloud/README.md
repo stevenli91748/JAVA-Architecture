@@ -86,7 +86,10 @@
 * [十、SpringCloud微服务电商项目 之购物车](https://www.laopaojava.com/posts/46673.html)
 * [十一、SpringCloud微服务电商项目 之订单](https://www.laopaojava.com/posts/42779.html)
 * [十二、 SpringCloud微服务电商项目 之微服务之微信支付](https://www.laopaojava.com/posts/15693.html)
-
+* [十三、SpringCloud微服务电商项目 之秒杀基础工作](https://www.laopaojava.com/posts/31927.html)
+* [十四、SpringCloud微服务电商项目 之秒杀核心](https://www.laopaojava.com/posts/22130.html)
+* [十五、SpringCloud微服务电商项目 之分布式事务](https://www.laopaojava.com/posts/20182.html)
+* [十六、SpringCloud微服务电商项目 之集群高可用](https://www.laopaojava.com/posts/9677.html)
 
 
 # SpringCloud 应用在 Kubernetes 上的最佳实践
