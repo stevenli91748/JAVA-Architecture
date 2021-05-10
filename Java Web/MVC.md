@@ -28,6 +28,8 @@
 
 ## MVC 模式的变体 Model2模式
 
+  Model2是MVC应用到Web这种新邻域的变体，前面说过的经典的MVC也可应用到Web上， 但Model2是更好的选择。
+
 
 
 
