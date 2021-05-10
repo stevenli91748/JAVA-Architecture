@@ -19,3 +19,16 @@
   分即可。
   
   这里有一个JavaScript MVVM的[例子](https://github.com/livoras/MVW-demos/blob/master/src/scripts/mvvm.js)，因为MVVM需要Binder引擎。所以例子中使用了一个MVVM的库：Vue.js。
+
+**MVVM的优缺点**
+
+**优点：**
+
+提高可维护性。解决了MVP大量的手动View和Model同步的问题，提供双向绑定机制。提高了代码的可维护性。
+
+简化测试。因为同步逻辑是交由Binder做的，View跟着Model同时变更，所以只需要保证Model的正确性，View就正确。大大减少了对View同步更新的测试。
+
+**缺点：**
+
+过于简单的图形界面不适用，或说牛刀杀鸡。对于大型的图形应用程序，视图状态较多，ViewModel的构建和维护的成本都会比较高。数据绑定的声明是指令式地写在View的模版当中的，这些内容是没办法去打断点
+debug的。
