@@ -2,6 +2,10 @@
 [Java Web开发教程——基本思路](https://zhuanlan.zhihu.com/p/20756940)|[浅析MVC模式与三层架构的区别](https://www.cnblogs.com/rainbow70626/p/4967478.html)|[从 MVC 到前后端分离 ](https://my.oschina.net/huangyong/blog/521891)|
 ---|---|---|
 
+[MVC，MVP 和 MVVM 的图示](https://www.ruanyifeng.com/blog/2015/02/mvcmvp_mvvm.html)|
+---|
+
+
 # MVC
 
   **模型**
