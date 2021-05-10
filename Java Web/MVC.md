@@ -2,11 +2,12 @@
 [Java Web开发教程——基本思路](https://zhuanlan.zhihu.com/p/20756940)|[浅析MVC模式与三层架构的区别](https://www.cnblogs.com/rainbow70626/p/4967478.html)|[从 MVC 到前后端分离 ](https://my.oschina.net/huangyong/blog/521891)|
 ---|---|---|
 
-[MVC，MVP 和 MVVM 的图示](https://www.ruanyifeng.com/blog/2015/02/mvcmvp_mvvm.html)|
----|
+[MVC，MVP 和 MVVM 的图示](https://www.ruanyifeng.com/blog/2015/02/mvcmvp_mvvm.html)|[一篇文章了解前端框架演变](https://segmentfault.com/a/1190000015051472)|
+---|---|
 
 * [MVC模式](#MVC模式)
-  * [经典的 MVC 模式](#经典的-MVC-模式)  
+  * [经典的 MVC 模式](#经典的-MVC-模式)
+    * [经典的 MVC 模式的缺点](#经典的-MVC-模式的缺点)
   * [MVC 模式的变体 Model1模式](#MVC-模式的变体-Model1模式)
   * [MVC 模式的变体 Model2模式](#MVC-模式的变体-Model2模式)
   
@@ -30,6 +31,10 @@
   
   将把用户操作映射程程序操作，并负责选择下一个视图，MVC大多数的工作都在视图和控制  器中，仅仅在视图中需要使用模型中的数据来显示。对于简单的应用程序来说，应
   用MVC模式意味着要创建一个视图，一个控 制器和一个业务层， 但在复杂的应用程序来说，使用MVC模式则用来在表现层中实现分离关注点，成为表现层中的一个模式
+
+### 经典的 MVC 模式的缺点
+
+  
 
 ## MVC 模式的变体 Model1模式
 ## MVC 模式的变体 Model2模式
