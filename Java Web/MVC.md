@@ -46,6 +46,9 @@
 
 ## 后端 WEB MVC 模式的变体 Model2模式
 
+<a href="https://ibb.co/djvRbfx"><img src="https://i.ibb.co/0mLxBnv/model2.png" alt="model2" border="0"></a>
+
+
   在WEB程序上的MVC都是经典MVC的变体
   Model2是MVC应用到Web这种新邻域的变体，前面说过的经典的MVC也可应用到Web上， 但Model2是更好的选择。
 
