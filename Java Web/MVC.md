@@ -18,7 +18,10 @@
 
 ## 经典的后端 MVC 模式
 
-  最初是应用在GUI程序（图形界面程序）上，只是解决客户端图形界面应用程序的问题，而对WEB服务端无效，我们称之为经典MVC，
+<a href="https://ibb.co/ZYgpXMY"><img src="https://i.ibb.co/b2vMmK2/mvc.png" alt="mvc" border="0"></a>
+
+最初是应用在GUI程序（图形界面程序）上，只是解决客户端图形界面应用程序的问题，而对WEB服务端无效，我们称之为经典MVC，
+
 
   **模型**
   
