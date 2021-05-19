@@ -16,6 +16,7 @@
 # [阿里云开发者社区——藏经阁系列电子书](https://developer.aliyun.com/ebook?spm=a2c6h.12873639.0.0.6cc46517ypEaxy)
 # [博文总目录](https://blog.csdn.net/derrantcm/article/details/73456550)
 # [阿里大佬倾情力荐: Java全线成长宝典，从P5到P8一应俱全](https://www.jianshu.com/p/f69b9f5def41)
+# 查权威资料。 这里我推荐两个，一个是[MDN](https://developer.mozilla.org/zh-CN/)的文章，真的是又全面又专业，绝对是前端开发必备神器，哪里不会点哪里。 另外推荐一个[Google 开发者](https://developers.google.com/) ， 里面干货很多，绝对权威
 ---
 
 
