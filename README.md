@@ -670,6 +670,7 @@ SQL语言|[MySQL](https://github.com/stevenli91748/Database/blob/master/MySQL/RE
 
 
 # 有用的参考
+  * [看过就忘？学完就丢？因为你没有理清编程思路](https://blog.csdn.net/tanqingbo/article/details/102867050)
   * [一套公共性的 Java 后端开发实践 - 项目模板](https://insights.thoughtworks.cn/backend-development-iteration0/)
   * [阿里云官网内容平台](https://my.oschina.net/yunqi?tab=activity)
   * [geeksforgeeks---英文教程，非常全面和详细](https://www.geeksforgeeks.org/)
