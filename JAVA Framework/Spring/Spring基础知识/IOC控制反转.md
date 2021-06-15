@@ -1,5 +1,6 @@
 
 # IOC
+* [IoC基础知识](https://blog.csdn.net/singwhatiwanna/article/details/106184348)
 
 * Spring容器类型
   * [BeanFactory](#BeanFactory)
@@ -55,4 +56,4 @@ Spring的IOC有三种注入方式 ：构造器注入、setter方法注入、根�
 
 # 有用的参考
 
-* [面试被问了几百遍的 IoC 和 AOP ，还在傻傻搞不清楚？](https://blog.csdn.net/singwhatiwanna/article/details/106184348)
+
