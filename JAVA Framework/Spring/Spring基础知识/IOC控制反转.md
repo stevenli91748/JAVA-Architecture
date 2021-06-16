@@ -1,7 +1,10 @@
 
 # IOC
 * [IoC基础知识](https://blog.csdn.net/singwhatiwanna/article/details/106184348)
-
+* [IoC使用的注册对象管理信息的方式]()
+  *  [直接编码方式---通过程序编码的方式将被注入对象和依赖对象注册到容器中，并明确它们相互之间的依赖注入关系]()
+  *  [配置文件方式---是通过XML文件来管理对象注册和对象间依赖关系]()
+  *  [元数据方式]()
 * Spring容器类型
   * [BeanFactory](#BeanFactory)
   * [ApplicationContext](#ApplicationContext)
