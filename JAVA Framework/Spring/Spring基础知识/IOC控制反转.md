@@ -5,8 +5,11 @@
   *  [直接编码方式---通过程序编码的方式将被注入对象和依赖对象注册到容器中，并明确它们相互之间的依赖注入关系](#构造器注入)
   *  [配置文件方式---是通过XML文件来管理对象注册和对象间依赖关系](#setter方法注入)
   *  [元数据方式](#根据注解注入)
-* [2. Spring两种容器类型]()
-  * [BeanFactory](#BeanFactory)
+* [2. Spring两种IoC容器类型]()
+  * [BeanFactory---Spring提供的基础IoC容器](#BeanFactory)
+    * 用BeanFactory 支持各种对象注册以及依赖关系绑定
+    * BeanFactory用XML保存对象注册以及依赖关系绑定信息
+    * BeanFactory内部实现的奥密
   * [ApplicationContext](#ApplicationContext)
 
 
