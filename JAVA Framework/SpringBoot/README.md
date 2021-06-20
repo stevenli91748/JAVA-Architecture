@@ -80,6 +80,10 @@
   * [Spring Boot的并发编程](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/Spring%20Boot%E7%9A%84%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B/README.md)
   
 * [2. 工程配置](#2-工程配置)
+  * [Spring Boot 框架配置分类]()
+    * [第一阶段：XML配置，在Spring1.x时代，使用Spring开发满眼都是xml配置的Bean，随着项目的扩大，我们需要把xml配置文件分放到不同的配置文件里，那时候需要频繁的在开发的类和配置文件之间切换](https://www.cnblogs.com/chiangchou/p/sunny-1.html)
+    * [第二阶段：注解配置，在Spring2.x时代，Spring提供声明Bean的注解，大大减少了配置量。应用的基本配置用xml，业务配置用注解](https://www.cnblogs.com/chiangchou/p/sunny-1.html)
+    * [第三阶段：Java配置，从Spring3.x到现在，Spring提供了Java配置，使用Java配置可以让你更理解你所配置的Bean](http://springboot.javaboy.org/2019/0528/javassm) 
   * [2a 热部署](#2a-热部署)
   * [2b Tomcat](#2b-Tomcat)
 * [3. Web开发](#3-Web开发)
