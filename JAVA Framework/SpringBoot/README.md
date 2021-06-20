@@ -469,8 +469,8 @@ starter|actuator|devtools|cli|
 
 
 # 实验
-* [基于SpringBoot搭建应用开发框架(一) —— 基础架构](https://www.cnblogs.com/chiangchou/p/sunny-1.html)
-* [基于SpringBoot搭建应用开发框架(二) —— 登录认证](https://www.cnblogs.com/chiangchou/p/springboot-2.html)
+* [基于SpringBoot搭建应用开发框架(一) —— 基础架构---一步步搭建一个前后端分离的应用开发框架](https://www.cnblogs.com/chiangchou/p/sunny-1.html)
+* [基于SpringBoot搭建应用开发框架(二) —— 登录认证---一步步搭建一个前后端分离的应用开发框架](https://www.cnblogs.com/chiangchou/p/springboot-2.html)
 * [DEMO例子： Spring Boot 多模块项目实践](https://zhuanlan.zhihu.com/p/133114207?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)
 * [DEMO例子：Spring Boot + Mybatis 多模块（module）项目的完整搭建教程](https://zhuanlan.zhihu.com/p/157908322?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)
 * [SpringBoot代码生成器，从此不用手撸代码](https://blog.52itstyle.vip/archives/5318/)
