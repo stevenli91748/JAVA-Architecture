@@ -50,3 +50,4 @@ AOP的实现是通过代理模式，在调用对象的某个方法时，执行�
 # 有用的参考
 
 * [Spring AOP无法拦截内部方法调用](https://www.jianshu.com/p/6534945eb3b5)
+* [Spring---AOP](https://www.jianshu.com/p/a0101e7cc649)
