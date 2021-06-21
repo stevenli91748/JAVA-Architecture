@@ -85,7 +85,8 @@
     * [第二阶段：注解配置，在Spring2.x时代，Spring提供声明Bean的注解，大大减少了配置量。应用的基本配置用xml，业务配置用注解](https://www.cnblogs.com/chiangchou/p/sunny-1.html)
     * [第三阶段：Java配置，从Spring3.x到现在，Spring提供了Java配置，使用Java配置可以让你更理解你所配置的Bean](http://springboot.javaboy.org/2019/0528/javassm) 
   * [2a 热部署](#2a-热部署)
-  * [2b Tomcat](#2b-Tomcat)
+  * 2b 嵌入式容器的配置与应用
+    * [Tomcat](#2b-Tomcat)
 * [3. Web开发](#3-Web开发)
   * [3a HTTP客户端库](#3a-HTTP客户端库)
   * [3b Dubbo进行服务治理](#3b-Dubbo进行服务治理)
@@ -95,6 +96,19 @@
 * [7. 安全管理](#7-安全管理)
 * [8. 缓存管理](#8-缓存管理)
 * [9. 消息服务](#9-消息服务)
+*  RPC 开发
+*  RESTFul接口实现与测试
+*  静态资源与模板引擎的整合
+*  异步任务与定时任务
+*  统一全局异常处理
+*  整合分布式文件系统
+*  服务器推送技术
+*  邮件发送的整合与使用
+*  配置中心
+*  注册中心
+*  持续交付
+*  服务容错
+*  响应式框架webflux
 * [10. 应用监控](#10-应用监控)
 * [11. 应用部署](#11-应用部署)
   * [11a SpringBoot项目部署在AWS](#11a-SpringBoot项目部署在AWS)
