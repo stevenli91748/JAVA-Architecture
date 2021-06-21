@@ -339,6 +339,7 @@
 * [事务管理入门](http://blog.didispace.com/spring-boot-learning-21-3-10/)
 
 # 6 日志管理
+* [Java常用的日志框架对比](https://www.jianshu.com/p/bbbdcb30bba8)
 * [Spring Boot日志框架实践](http://www.codesheep.cn/2018/03/29/Boot%E6%97%A5%E5%BF%97%E6%A1%86%E6%9E%B6%E5%AE%9E%E8%B7%B5/)
 * [默认日志的配置](http://blog.didispace.com/springbootlog/)
 * [使用log4j记录日志](http://blog.didispace.com/springbootlog4j/)
