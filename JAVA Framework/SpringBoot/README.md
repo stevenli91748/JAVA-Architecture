@@ -320,7 +320,7 @@
 * [JdbcTemplate的多数据源配置](http://blog.didispace.com/spring-boot-learning-21-3-7/)
 
 ## 4b 数据库连接池
-* [默认数据源Hikari的配置详解](http://blog.didispace.com/spring-boot-learning-21-3-2/)
+* [默认数据源HikariCP的配置详解](http://blog.didispace.com/spring-boot-learning-21-3-2/)
 * [使用国产数据库连接池Druid](http://blog.didispace.com/spring-boot-learning-21-3-3/)
 
 ## 4c MyBatis
