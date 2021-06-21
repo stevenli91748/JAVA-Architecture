@@ -48,3 +48,7 @@ ELK这种架构因为需要在各个服务器上部署Logstash来从不同的数
 * [Java常用日志框架介绍](https://www.cnblogs.com/chenhongliang/p/5312517.html)
 * [日志组件slf4j介绍及配置详解](https://blog.csdn.net/foreverling/article/details/51385128)
 * [logback 配置详解](https://segmentfault.com/a/1190000008315137)
+* [log4j在maven项目中的使用](https://blog.csdn.net/qq_40182873/article/details/86706355)
+* [log4j.properties配置文件详解](https://www.cnblogs.com/xiaobaizhiqian/p/7956690.html)
+* [java中程序动态配置log4j日志](https://blog.csdn.net/zgjllf1011/article/details/79280914)
+
