@@ -45,3 +45,6 @@ ELK这种架构因为需要在各个服务器上部署Logstash来从不同的数
 * [Spring Boot （日志篇）：Log4j整合ELK，搭建实时日志平台](https://blog.csdn.net/Soinice/article/details/84029776?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param)
 * [springcloud微服务日志ELK集中处理](https://blog.csdn.net/d597180714/article/details/82382703?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-7.channel_param&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-7.channel_param)
 * [日志系统架构介绍（非原创）](https://www.cnblogs.com/WUXIAOCHANG/p/11024092.html)
+* [Java常用日志框架介绍](https://www.cnblogs.com/chenhongliang/p/5312517.html)
+* [日志组件slf4j介绍及配置详解](https://blog.csdn.net/foreverling/article/details/51385128)
+* [logback 配置详解](https://segmentfault.com/a/1190000008315137)
