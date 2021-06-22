@@ -90,7 +90,7 @@
 * [3. Web开发](#3-Web开发)
   * [3a HTTP客户端库](#3a-HTTP客户端库)
   * [3b Dubbo进行服务治理](#3b-Dubbo进行服务治理)
-* [4. 数据库訪问](#4-数据库訪问)
+* [4. 数据库訪问](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%A8%AA%E9%97%AE/README.md)
 * [5. 事务管理](#5-事务管理)
 * [6. 日志管理](#6-日志管理)
 * [7. 安全管理](#7-安全管理)
@@ -262,7 +262,7 @@
 
 
 
-# 4 数据库訪问
+# 4 [数据库訪问](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%A8%AA%E9%97%AE/README.md)
  * [4a JDBC连接](#4a-JDBC连接)
  * [4b 数据库连接池](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%BF%9E%E6%8E%A5%E6%B1%A0/README.md)
  * [4c MyBatis](#4c-MyBatis)
