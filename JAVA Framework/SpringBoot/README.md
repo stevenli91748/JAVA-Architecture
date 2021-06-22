@@ -50,7 +50,7 @@
   * [springcloud-learning学习项目](https://github.com/macrozheng/springcloud-learning)
   * [mall-tiny快速开发脚手架](https://github.com/macrozheng/mall-tiny)
 
-* [基于SpringBoot+代码生成器的快速开发平台](https://www.kancloud.cn/lcheng33775823/basis/1459027)
+
 
 
 * [13个值得学习和练手的java企业级开源项目!]()
@@ -77,7 +77,7 @@
   * [1b SpringBoot配置文件](#1b-SpringBoot配置文件)
   * [1c SpringBoot内存](#1c-SpringBoot内存)
   * [1d SpringBoot Bean](#1d-SpringBoot-Bean)
-  * [Spring Boot的并发编程](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/Spring%20Boot%E7%9A%84%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B/README.md)
+  * [Spring Boot的高并发编程](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/Spring%20Boot%E7%9A%84%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B/README.md)
   
 * [2. 工程配置](#2-工程配置)
   * [Spring Boot 框架配置分类]()
@@ -260,7 +260,6 @@
 
 
 
-# 12 项目实战
 
 
 
@@ -308,6 +307,7 @@
 * [SpringBoot代码生成器，从此不用手撸代码](https://blog.52itstyle.vip/archives/5318/)
   * [代码生成器](https://www.jianshu.com/p/77b23d769bdb)
   * [Java之利用Freemarker模板引擎实现代码生成器，提高效率](https://www.jianshu.com/p/31e532392a74)
+  * [基于SpringBoot+代码生成器的快速开发平台](https://www.kancloud.cn/lcheng33775823/basis/1459027)
 * [基于SpringBoot开发一套完整的项目](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/实验/基于SpringBoot开发一套完整的项目.md)
 * [一个列子让你弄懂SpringBoot实现后台框架的搭建](https://blog.csdn.net/qq_33883389/article/details/81322481)
 * [基于springboot+bootstrap+mysql+redis搭建一套完整的权限架构](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/实验/基于springboot%2Bbootstrap%2Bmysql%2Bredis搭建一套完整的权限架构.md)
