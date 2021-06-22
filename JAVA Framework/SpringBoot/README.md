@@ -264,7 +264,7 @@
 
 # 4 数据库訪问
  * [4a JDBC连接](#4a-JDBC连接)
- * [4b 数据库连接池](#4b-数据库连接池)
+ * [4b 数据库连接池](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%BF%9E%E6%8E%A5%E6%B1%A0/README.md)
  * [4c MyBatis](#4c-MyBatis)
  * [4d Spring Data JPA](#4d-Spring-Data-JPA)
 ---
@@ -290,9 +290,6 @@
 * [使用JdbcTemplate访问MySQL数据库](http://blog.didispace.com/spring-boot-learning-21-3-1/)
 * [JdbcTemplate的多数据源配置](http://blog.didispace.com/spring-boot-learning-21-3-7/)
 
-## 4b 数据库连接池
-* [默认数据源HikariCP的配置详解](http://blog.didispace.com/spring-boot-learning-21-3-2/)
-* [使用国产数据库连接池Druid](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%BF%9E%E6%8E%A5%E6%B1%A0/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%BF%9E%E6%8E%A5%E6%B1%A0Druid.md)
 
 ## 4c MyBatis
 * [使用MyBatis访问MySQL](http://blog.didispace.com/spring-boot-learning-21-3-5/)
