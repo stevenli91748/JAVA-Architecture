@@ -94,8 +94,8 @@
 * [5. 事务管理](https://github.com/stevenli91748/JAVA-Architecture/tree/master/JAVA%20Framework/SpringBoot/%E4%BA%8B%E5%8A%A1%E7%AE%A1%E7%90%86)
 * [6. 日志管理](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E6%97%A5%E5%BF%97%E7%AE%A1%E7%90%86/README.md)
 * [7. 安全管理](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%AE%89%E5%85%A8%E7%AE%A1%E7%90%86/README.md)
-* [8. 缓存管理](#8-缓存管理)
-* [9. 消息服务](#9-消息服务)
+* [8. 缓存管理](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E7%BC%93%E5%AD%98%E7%AE%A1%E7%90%86/README.md)
+* [9. 消息服务](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E6%B6%88%E6%81%AF%E6%9C%8D%E5%8A%A1/README.md)
 *  RPC 开发
 *  [RESTFul接口实现与测试](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E5%8F%82%E6%95%B0%E6%A0%A1%E9%AA%8C.md)
 *  静态资源与模板引擎的整合
@@ -110,15 +110,10 @@
 *  服务容错
 *  链路追踪
 *  响应式框架webflux
-* [10. 应用监控](#10-应用监控)
-* [11. 应用部署](#11-应用部署)
-  * [11a SpringBoot项目部署在AWS](#11a-SpringBoot项目部署在AWS)
-  * [11b SpringBoot项目部署在本地分布式环境中](#11b-SpringBoot项目部署在本地分布式环境中)
-* [12. 项目实战](#12-项目实战)
-  * [12a 例子程序Demo](#12a-例子程序Demo)
-  * [12b 实战项目](#12b-实战项目)
-  * [12c 实战经验](#12c-实战经验)
-* [13. SpringBoot高并发](#13-SpringBoot高并发)
+* [10. 应用监控](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%BA%94%E7%94%A8%E7%9B%91%E6%8E%A7/README.md)
+* [11. 应用部署](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%BA%94%E7%94%A8%E9%83%A8%E7%BD%B2/README.md)
+* [12. 项目实战](https://github.com/stevenli91748/JAVA-Architecture/tree/master/JAVA%20Framework/SpringBoot/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98#readme)
+* [13. SpringBoot高并发](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%E9%AB%98%E5%B9%B6%E5%8F%91/README.md)
   
 ---
 
@@ -263,101 +258,12 @@
 
 
 
-# 7 安全管理
-* [基于 Spring Security和 JWT的权限系统设计](https://github.com/hansonwang99/Spring-Boot-In-Action/tree/master/springbt_security_jwt)
-* [基于Spring Security Oauth2的SSO单点登录+JWT权限控制实践](https://github.com/hansonwang99/Spring-Boot-In-Action/tree/master/springbt_sso_jwt)
-* [使用Spring Security](http://blog.didispace.com/springbootsecurity/)
-* [使用Spring Session（未完成）]
 
-# 8 缓存管理
-* [SpringBoot2.0整合Redis](https://blog.csdn.net/qq_21046665/article/details/79692390?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522160619392819195264725683%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=160619392819195264725683&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_click~default-2-79692390.pc_first_rank_v2_rank_v28&utm_term=springboot%E6%95%B4%E5%90%88redis&spm=1018.2118.3001.4449)
-* [SpringBoot整合Redis（单机/集群）](https://blog.csdn.net/aa1215018028/article/details/83213846?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522160619426119724839251609%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=160619426119724839251609&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-3-83213846.pc_first_rank_v2_rank_v28&utm_term=springboot%E6%95%B4%E5%90%88redis%E9%9B%86%E7%BE%A4%E6%A8%A1%E5%BC%8F&spm=1018.2118.3001.4449)
-* [Spring Boot整合Redis实现分页查询](https://blog.csdn.net/qq_33934427/article/details/104842979?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522160619444019724839231615%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=160619444019724839231615&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_click~default-1-104842979.pc_first_rank_v2_rank_v28&utm_term=springboot%E6%95%B4%E5%90%88redis%E5%88%86%E9%A1%B5%E6%9F%A5%E8%AF%A2&spm=1018.2118.3001.4449)
-* [springboot整合Redis哨兵模式](https://blog.csdn.net/hykwhjc/article/details/100078113?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522160619465219724835812568%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=160619465219724835812568&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-4-100078113.pc_first_rank_v2_rank_v28&utm_term=springboot%E6%95%B4%E5%90%88redis%E5%93%A8%E5%85%B5%E6%A8%A1%E5%BC%8F&spm=1018.2118.3001.4449)
-* [springboot整合redis（集群） yml配置及demo](https://blog.csdn.net/x631617479/article/details/82380530)
-* [Spring Boot 2.x（十四）：整合Redis，看这一篇就够了](https://zhuanlan.zhihu.com/p/77304573)
-* [注解配置与EhCache使用](http://blog.didispace.com/springbootcache1/)
-* [使用Redis做集中式缓存](http://blog.didispace.com/springbootcache2/)
-* [Guava Cache本地缓存在 Spring Boot应用中的实践](https://github.com/hansonwang99/Spring-Boot-In-Action/tree/master/springbt_guava_cache)
-* [EVCache缓存在 Spring Boot中的实战](https://github.com/hansonwang99/Spring-Boot-In-Action/tree/master/springbt_evcache)
-* [Spring Boot应用缓存实践之：Ehcache加持](https://github.com/hansonwang99/Spring-Boot-In-Action/tree/master/springbt_ehcache)
-* [使用EhCache缓存集群](http://blog.didispace.com/spring-boot-learning-21-5-3/)
-* [进程内缓存的使用与Cache注解详解](http://blog.didispace.com/spring-boot-learning-21-5-1/)
-
-
-# 9 消息服务
-* [Spring Boot整合RabbitMQ详细教程](https://blog.csdn.net/qq_38455201/article/details/80308771?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522160619265519724839226091%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=160619265519724839226091&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-80308771.pc_first_rank_v2_rank_v28&utm_term=springboot%E6%95%B4%E5%90%88rabbitmq&spm=1018.2118.3001.4449)
-* [JMS（未完成）]
-* [Spring Boot中使用RabbitMQ](http://blog.didispace.com/spring-boot-rabbitmq/)
-
-# 10 应用监控
-* [利用神器 BTrace 追踪线上 Spring Boot应用运行时信息](https://www.codesheep.cn/2019/01/17/springbt-btrace/)
-* [Spring Boot应用监控实战](https://github.com/hansonwang99/Spring-Boot-In-Action/tree/master/springbt_admin_server)
-* [Spring Boot Admin 2.0开箱体验](https://github.com/hansonwang99/Spring-Boot-In-Action/tree/master/spring_boot_admin2.0_demo)
-* [Spring Boot Actuator监控端点小结](http://blog.didispace.com/spring-boot-actuator-1/)
-* [在传统Spring应用中使用spring-boot-actuator模块提供监控端点](http://blog.didispace.com/spring-boot-actuator-without-boot/)
-* [Spring Boot中使用Actuator的/info端点输出Git版本信息](http://blog.didispace.com/spring-boot-actuator-info-git/)
-
-
-# 11 应用部署
-  * [Docker部署SpringBoot的两种方法，一键部署超好用！](https://mp.weixin.qq.com/s/65sPIy3kdL0ZbFnb-6JlNQ)
-  * [Deploying Spring Boot Applications](https://spring.io/blog/2014/03/07/deploying-spring-boot-applications)
-## 11a SpringBoot项目部署在AWS
-  * [部署SpringBoot项目到亚马逊aws云服务上](https://www.twblogs.net/a/5cb0c671bd9eee480f075dcf/?lang=zh-cn)
-  * [在AWS EC2上部署springboot项目](https://www.cnblogs.com/yelao/p/12589098.html)
-  * [springboot 部署amazon例子集](https://www.youtube.com/results?search_query=springboot+%E9%83%A8%E7%BD%B2amazon)
-  * [AWS 上的项目：将整体式应用程序拆分为微服务（使用 Amazon Elastic Container Service、Docker 和 Amazon EC2）](https://aws.amazon.com/cn/getting-started/hands-on/break-monolith-app-microservices-ecs-docker-ec2/)
-## 11b SpringBoot项目部署在本地分布式环境中
-  * [运行 Spring Boot 应用的 3 种方式](https://zhuanlan.zhihu.com/p/311245147?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
-  * [Spring Boot 发布 jar 包转为 war 包秘籍](https://mp.weixin.qq.com/s/RQAPIwQJ2jMmlcM76LJhSQ)
-  * [Spring Boot – Deploy WAR file to Tomcat](https://mkyong.com/spring-boot/spring-boot-deploy-war-file-to-tomcat/)
-  * [Spring Boot应用部署于外置Tomcat容器](http://www.codesheep.cn/2018/06/05/SpringBoot%E5%BA%94%E7%94%A8%E9%83%A8%E7%BD%B2%E4%BA%8E%E5%A4%96%E7%BD%AETomcat%E5%AE%B9%E5%99%A8/)
-  * [How to deploy Maven based war file to Tomcat](https://mkyong.com/maven/how-to-deploy-maven-based-war-file-to-tomcat/)
-  * [在Docker中怎样部署 Nginx + SpringBoot项目集群](https://www.kancloud.cn/pm1028/kubenetes/1767445)
-  * [Rancher+k8s+Jenkines流水线+SpringCloud 微服务部署实践](https://www.jianshu.com/p/76eee9521d8a)
-  * [手动部署springboot工程到Docker](https://www.jianshu.com/p/e635eb540c97)
-  * [idea部署springboot工程到服务器Docker](https://www.jianshu.com/p/f95f1fa4c7cc)
 
 # 12 项目实战
-  * [12a 例子程序Demo](#12a-例子程序Demo)
-  * [12b 实战项目](#12b-实战项目)
-  * [12c 实战经验](#12c-实战经验)
 
----
 
-## [12a 例子程序Demo](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%AE%9E%E9%AA%8C/Demo/README.md)
 
-## 12b 实战项目
-* [实战前后端分离RBAC权限管理系统](https://www.kancloud.cn/hanxt/vue-spring/1528245)
-* [springBoot整合spring security实现权限管理(单体应用版)--筑基初期](https://juejin.im/post/6867530830446034958)
-* [springBoot整合spring security+JWT实现单点登录与权限管理前后端分离--筑基中期](https://juejin.im/post/6868558729353117710)
-* [超详细！4小时开发一个SpringBoot+vue前后端分离博客项目！！](https://juejin.im/post/6844903823966732302)
-
-## 12c 实战经验
-- [Spring Boot工程集成全局唯一ID生成器 UidGenerator](https://github.com/hansonwang99/Spring-Boot-In-Action/tree/master/springbt_uid_generator)
-* [Spring Boot 工程集成全局唯一ID生成器 Vesta](https://github.com/hansonwang99/Spring-Boot-In-Action/tree/master/springbt_vesta)
-* [Spring Boot优雅编码之：Lombok加持](http://www.codesheep.cn/2018/04/09/SpringBoot%E4%BC%98%E9%9B%85%E7%BC%96%E7%A0%81%E4%B9%8B%EF%BC%9ALombok%E5%8A%A0%E6%8C%81/)
-* [Spring Boot应用 Docker化](http://www.codesheep.cn/2018/04/12/SpringBoot%E5%BA%94%E7%94%A8Docker%E5%8C%96/)
-* [基于Spring Boot实现图片上传/加水印一把梭操作](https://github.com/hansonwang99/Spring-Boot-In-Action/tree/master/springbt_watermark)
-* [从Spring Boot到 SpringMVC](http://www.codesheep.cn/2018/06/10/%E4%BB%8ESpringBoot%E5%88%B0SpringMVC/)
-* [自然语言处理工具包 HanLP在 Spring Boot中的应用](http://www.codesheep.cn/2018/11/01/springbt-hanlp/)
-* [初探 Kotlin + Spring Boot联合编程](https://github.com/hansonwang99/Spring-Boot-In-Action/tree/master/kotlin_with_springbt)
-* [Spring Boot自动化配置的利弊及解决之道](http://blog.didispace.com/spring-boot-disable-autoconfig/)
-* [Spring Boot应用的后台运行配置](http://blog.didispace.com/spring-boot-run-backend/)
-* [Spring Boot快速开发利器：Spring Boot CLI](http://blog.didispace.com/Spring-Boot%E5%BF%AB%E9%80%9F%E5%BC%80%E5%8F%91%E5%88%A9%E5%99%A8%EF%BC%9ASpring-Boot-CLI/)
-* [Spring Boot自定义Banner](http://blog.didispace.com/spring-boot-banner/)
-* [【项目实践】SpringBoot三招组合拳，手把手教你打出优雅的后端接口](https://zhuanlan.zhihu.com/p/134209666?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
-* [【项目实践】后端接口统一规范的同时，如何优雅得扩展规范](https://juejin.im/post/6844904143912435719)
-* [【项目实践】SpringBoot-如何设计优秀的后端接口](https://juejin.im/post/6860404263143604232)
-
-### 13 SpringBoot高并发
-
-* [我是如何把SpringBoot项目的并发提升十倍量级的](https://blog.csdn.net/emprere/article/details/104404256?utm_medium=distribute.pc_relevant.none-task-blog-baidujs_baidulandingword-0&spm=1001.2101.3001.4242)
-* [通过Tomcat配置改善SpringBoot项目并发线程数上不去的问题](https://blog.csdn.net/weixin_41657493/article/details/90819987?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-3.control&dist_request_id=1619637687737_21438&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-3.control)
-* [设置springboot自带tomcat的最大连接数和最大并发数](https://blog.csdn.net/kouwoo/article/details/83898788?utm_medium=distribute.pc_relevant.none-task-blog-baidujs_baidulandingword-5&spm=1001.2101.3001.4242)
-* [tomcat优化——并发和Tomcat线程数](https://blog.csdn.net/hunhun1122/article/details/78818337)
-* [Spring boot中最大连接数、最大线程数与最大等待数在生产中的异常场景](https://blog.csdn.net/qq_36956015/article/details/100929993?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.control&dist_request_id=1619638919485_32258&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.control)
-* [springboot能抗住多少并发_并发测试神器，看看你的能不能抗住超过 5 万的并发用户](https://blog.csdn.net/weixin_39989688/article/details/111394127?utm_medium=distribute.pc_relevant.none-task-blog-baidujs_baidulandingword-0&spm=1001.2101.3001.4242)
 
 ---
 
@@ -392,35 +298,6 @@
 
 
 
-# 启动流程
-
-主要步骤首先要配置environment，然后准备context上下文，包括执行applicationContext的后置处理、初始化initializer、通知listener处理
-contextPrepared和contextLoaded事件。最后执行refreshContext，也就是前面介绍过的AbstractApplicationContext类的refresh方法。
-
-PrepareEnvironment|CreateApplicationContext|PostProcessApplicationContext|
----|---|---|
-
-applyinitializers|listeners.contextPrepared|listeners.contextLoaded|refreshContext|
----|--|---|---|
-
-
-
-# 特色模块
-
-starter是springboot提供的无缝集成功能的一种方式，使用某个功能时开发者不需要关注各种依赖库的处理，不需要具体的配置信息，由Spring Boot自动配置进行
-
-bean的创建。例如需要使用web功能时，只需要在依赖中引入spring-boot-starter-web即可。
-
-actuator是用来对应用程序进行监视和管理，通过restful api请求来监管、审计、收集应用的运行情况。
-
-devtools提供了一系列开发工具的支持，来提高开发效率。例如热部署能力等。
-
-CLI就是命令行接口，是一个命令行工具，支持使用Groovy脚本，可以快速搭建spring原型项目。
-
-
-starter|actuator|devtools|cli|
----|---|---|---|
-
 
 
 # 实验
@@ -431,9 +308,6 @@ starter|actuator|devtools|cli|
 * [SpringBoot代码生成器，从此不用手撸代码](https://blog.52itstyle.vip/archives/5318/)
   * [代码生成器](https://www.jianshu.com/p/77b23d769bdb)
   * [Java之利用Freemarker模板引擎实现代码生成器，提高效率](https://www.jianshu.com/p/31e532392a74)
-
-
-
 * [基于SpringBoot开发一套完整的项目](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/实验/基于SpringBoot开发一套完整的项目.md)
 * [一个列子让你弄懂SpringBoot实现后台框架的搭建](https://blog.csdn.net/qq_33883389/article/details/81322481)
 * [基于springboot+bootstrap+mysql+redis搭建一套完整的权限架构](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/实验/基于springboot%2Bbootstrap%2Bmysql%2Bredis搭建一套完整的权限架构.md)
