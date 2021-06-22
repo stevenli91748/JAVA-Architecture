@@ -71,7 +71,7 @@
 
 
 # 目录
-* [0. SpringBoot 基础知识 核心知识](https://www.cnblogs.com/crazymakercircle/p/13895735.html)
+* [0. SpringBoot 基础知识 核心知识](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/README.md)
 * [1. SpringBoot内部机制](#1-SpringBoot内部机制)
   * [1a SpringBoot 基础配置](https://www.cnblogs.com/crazymakercircle/p/11706764.html)
   * [1b SpringBoot配置文件](#1b-SpringBoot配置文件)
