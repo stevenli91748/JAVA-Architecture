@@ -1,0 +1,15 @@
+
+
+* [SpringBoot2.0整合Redis](https://blog.csdn.net/qq_21046665/article/details/79692390?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522160619392819195264725683%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=160619392819195264725683&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_click~default-2-79692390.pc_first_rank_v2_rank_v28&utm_term=springboot%E6%95%B4%E5%90%88redis&spm=1018.2118.3001.4449)
+* [SpringBoot整合Redis（单机/集群）](https://blog.csdn.net/aa1215018028/article/details/83213846?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522160619426119724839251609%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=160619426119724839251609&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-3-83213846.pc_first_rank_v2_rank_v28&utm_term=springboot%E6%95%B4%E5%90%88redis%E9%9B%86%E7%BE%A4%E6%A8%A1%E5%BC%8F&spm=1018.2118.3001.4449)
+* [Spring Boot整合Redis实现分页查询](https://blog.csdn.net/qq_33934427/article/details/104842979?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522160619444019724839231615%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=160619444019724839231615&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_click~default-1-104842979.pc_first_rank_v2_rank_v28&utm_term=springboot%E6%95%B4%E5%90%88redis%E5%88%86%E9%A1%B5%E6%9F%A5%E8%AF%A2&spm=1018.2118.3001.4449)
+* [springboot整合Redis哨兵模式](https://blog.csdn.net/hykwhjc/article/details/100078113?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522160619465219724835812568%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=160619465219724835812568&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-4-100078113.pc_first_rank_v2_rank_v28&utm_term=springboot%E6%95%B4%E5%90%88redis%E5%93%A8%E5%85%B5%E6%A8%A1%E5%BC%8F&spm=1018.2118.3001.4449)
+* [springboot整合redis（集群） yml配置及demo](https://blog.csdn.net/x631617479/article/details/82380530)
+* [Spring Boot 2.x（十四）：整合Redis，看这一篇就够了](https://zhuanlan.zhihu.com/p/77304573)
+* [注解配置与EhCache使用](http://blog.didispace.com/springbootcache1/)
+* [使用Redis做集中式缓存](http://blog.didispace.com/springbootcache2/)
+* [Guava Cache本地缓存在 Spring Boot应用中的实践](https://github.com/hansonwang99/Spring-Boot-In-Action/tree/master/springbt_guava_cache)
+* [EVCache缓存在 Spring Boot中的实战](https://github.com/hansonwang99/Spring-Boot-In-Action/tree/master/springbt_evcache)
+* [Spring Boot应用缓存实践之：Ehcache加持](https://github.com/hansonwang99/Spring-Boot-In-Action/tree/master/springbt_ehcache)
+* [使用EhCache缓存集群](http://blog.didispace.com/spring-boot-learning-21-5-3/)
+* [进程内缓存的使用与Cache注解详解](http://blog.didispace.com/spring-boot-learning-21-5-1/)
