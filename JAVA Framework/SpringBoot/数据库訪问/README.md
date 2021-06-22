@@ -14,7 +14,7 @@
  * MongoDB
 
 ## [Spring Boot 数据库版本管理入门](https://www.iocoder.cn/Spring-Boot/database-version-control/?vip)
-
+   * [使用Flyway来管理数据库版本](http://blog.didispace.com/spring-boot-flyway-db-version/)
 
 # 有用的参考
 
@@ -23,6 +23,6 @@
 * [自制一个 elasticsearch-spring-boot-starter](https://www.codesheep.cn/2019/02/28/elasticsearch-spring-boot-starter/)
 * [使用NoSQL数据库（一）：Redis](http://blog.didispace.com/springbootredis/)
 * [使用NoSQL数据库（二）：MongoDB](http://blog.didispace.com/springbootmongodb/)
-* [使用Flyway来管理数据库版本](http://blog.didispace.com/spring-boot-flyway-db-version/)
+
 * [使用LDAP来统一管理用户信息](http://blog.didispace.com/spring-boot-ldap-user/)
 * [Spring Boot中增强对MongoDB的配置（连接池等）](http://blog.didispace.com/springbootmongodb-plus/)
