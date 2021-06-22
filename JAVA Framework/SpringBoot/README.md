@@ -261,46 +261,6 @@
 * [SpringBoot实现本地存储文件上传及提供HTTP访问服务](http://www.zimug.com/java/spring/springboot%e5%ae%9e%e7%8e%b0%e6%9c%ac%e5%9c%b0%e5%ad%98%e5%82%a8%e6%96%87%e4%bb%b6%e4%b8%8a%e4%bc%a0%e5%8f%8a%e6%8f%90%e4%be%9bhttp%e8%ae%bf%e9%97%ae%e6%9c%8d%e5%8a%a1/.html)
 
 
-
-# 4 [数据库訪问](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%A8%AA%E9%97%AE/README.md)
- * [4a JDBC连接](#4a-JDBC连接)
- * [4b 数据库连接池](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%BF%9E%E6%8E%A5%E6%B1%A0/README.md)
- * [4c MyBatis](#4c-MyBatis)
- * [4d Spring Data JPA](#4d-Spring-Data-JPA)
----
-* [如何通过Spring Boot配置动态数据源访问多个数据库](https://blog.csdn.net/ylforever/article/details/79600631?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-4.not_use_machine_learn_pai&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-4.not_use_machine_learn_pai)
-* [Spring Boot集成 MyBatis和 SQL Server实践](https://github.com/hansonwang99/Spring-Boot-In-Action/tree/master/springbt_mybatis_sqlserver)
-* [Elasticsearch搜索引擎在Spring Boot中的实践](https://github.com/hansonwang99/Spring-Boot-In-Action/tree/master/springboot_es_demo)
-* [自制一个 elasticsearch-spring-boot-starter](https://www.codesheep.cn/2019/02/28/elasticsearch-spring-boot-starter/)
-* [Spring Boot项目利用MyBatis Generator进行数据层代码自动生成](https://www.codesheep.cn/2019/02/14/mybatis-generator/)
-* [Mybatis-Plus 真好用（乡村爱情加持）](https://www.codesheep.cn/2019/04/12/springbt-mybatis-plus/)
-* [使用JdbcTemplate](http://blog.didispace.com/springbootdata1/)
-* [使用Spring-data-jpa简化数据访问层（推荐）](http://blog.didispace.com/springbootdata2/)
-* [多数据源配置（一）：JdbcTemplate](http://blog.didispace.com/springbootmultidatasource/)
-* [多数据源配置（二）：Spring-data-jpa](http://blog.didispace.com/springbootmultidatasource/)
-* [使用NoSQL数据库（一）：Redis](http://blog.didispace.com/springbootredis/)
-* [使用NoSQL数据库（二）：MongoDB](http://blog.didispace.com/springbootmongodb/)
-* [整合MyBatis](http://blog.didispace.com/springbootmybatis/)
-* [MyBatis注解配置详解](http://blog.didispace.com/mybatisinfo/)
-* [使用Flyway来管理数据库版本](http://blog.didispace.com/spring-boot-flyway-db-version/)
-* [使用LDAP来统一管理用户信息](http://blog.didispace.com/spring-boot-ldap-user/)
-* [Spring Boot中增强对MongoDB的配置（连接池等）](http://blog.didispace.com/springbootmongodb-plus/)
-
-## 4a JDBC连接
-* [使用JdbcTemplate访问MySQL数据库](http://blog.didispace.com/spring-boot-learning-21-3-1/)
-* [JdbcTemplate的多数据源配置](http://blog.didispace.com/spring-boot-learning-21-3-7/)
-
-
-## 4c MyBatis
-* [使用MyBatis访问MySQL](http://blog.didispace.com/spring-boot-learning-21-3-5/)
-* [使用MyBatis的XML配置方式](http://blog.didispace.com/spring-boot-learning-21-3-6/)
-* [MyBatis的多数据源配置](http://blog.didispace.com/spring-boot-learning-21-3-9/)
-
-## 4d Spring Data JPA
-* [Spring Data JPA的多数据源配置](http://blog.didispace.com/spring-boot-learning-21-3-8/)
-* [使用Spring Data JPA访问MySQL](http://blog.didispace.com/spring-boot-learning-21-3-4/)
-
-
 # 5 事务管理
 * [使用事务管理](http://blog.didispace.com/springboottransactional/)
 * [为什么加了@Transactional注解，事务没有回滚](http://blog.didispace.com/transactional-not-rollback/)
