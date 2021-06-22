@@ -1,0 +1,17 @@
+## SpringBoot项目部署在AWS
+   * [部署SpringBoot项目到亚马逊aws云服务上](https://www.twblogs.net/a/5cb0c671bd9eee480f075dcf/?lang=zh-cn)
+   * [在AWS EC2上部署springboot项目](https://www.cnblogs.com/yelao/p/12589098.html)
+   * [springboot 部署amazon例子集](https://www.youtube.com/results?search_query=springboot+%E9%83%A8%E7%BD%B2amazon)
+   * [AWS 上的项目：将整体式应用程序拆分为微服务（使用 Amazon Elastic Container Service、Docker 和 Amazon EC2）](https://aws.amazon.com/cn/getting-started/hands-on/break-monolith-app-microservices-ecs-docker-ec2/)
+## SpringBoot项目部署在本地分布式环境中
+   * [运行 Spring Boot 应用的 3 种方式](https://zhuanlan.zhihu.com/p/311245147?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
+   * [Spring Boot 发布 jar 包转为 war 包秘籍](https://mp.weixin.qq.com/s/RQAPIwQJ2jMmlcM76LJhSQ)
+   * [Spring Boot – Deploy WAR file to Tomcat](https://mkyong.com/spring-boot/spring-boot-deploy-war-file-to-tomcat/)
+   * [Spring Boot应用部署于外置Tomcat容器](http://www.codesheep.cn/2018/06/05/SpringBoot%E5%BA%94%E7%94%A8%E9%83%A8%E7%BD%B2%E4%BA%8E%E5%A4%96%E7%BD%AETomcat%E5%AE%B9%E5%99%A8/)
+   * [How to deploy Maven based war file to Tomcat](https://mkyong.com/maven/how-to-deploy-maven-based-war-file-to-tomcat/)
+   * [在Docker中怎样部署 Nginx + SpringBoot项目集群](https://www.kancloud.cn/pm1028/kubenetes/1767445)
+   * [Rancher+k8s+Jenkines流水线+SpringCloud 微服务部署实践](https://www.jianshu.com/p/76eee9521d8a)
+   * [手动部署springboot工程到Docker](https://www.jianshu.com/p/e635eb540c97)
+   * [idea部署springboot工程到服务器Docker](https://www.jianshu.com/p/f95f1fa4c7cc)
+   * [Docker部署SpringBoot的两种方法，一键部署超好用！](https://mp.weixin.qq.com/s/65sPIy3kdL0ZbFnb-6JlNQ)
+   * [Deploying Spring Boot Applications](https://spring.io/blog/2014/03/07/deploying-spring-boot-applications)
