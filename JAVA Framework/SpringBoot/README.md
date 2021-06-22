@@ -91,7 +91,7 @@
   * [3a HTTP客户端库](#3a-HTTP客户端库)
   * [3b Dubbo进行服务治理](#3b-Dubbo进行服务治理)
 * [4. 数据库訪问](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%A8%AA%E9%97%AE/README.md)
-* [5. 事务管理](#5-事务管理)
+* [5. 事务管理](https://github.com/stevenli91748/JAVA-Architecture/tree/master/JAVA%20Framework/SpringBoot/%E4%BA%8B%E5%8A%A1%E7%AE%A1%E7%90%86)
 * [6. 日志管理](#6-日志管理)
 * [7. 安全管理](#7-安全管理)
 * [8. 缓存管理](#8-缓存管理)
@@ -261,10 +261,6 @@
 * [SpringBoot实现本地存储文件上传及提供HTTP访问服务](http://www.zimug.com/java/spring/springboot%e5%ae%9e%e7%8e%b0%e6%9c%ac%e5%9c%b0%e5%ad%98%e5%82%a8%e6%96%87%e4%bb%b6%e4%b8%8a%e4%bc%a0%e5%8f%8a%e6%8f%90%e4%be%9bhttp%e8%ae%bf%e9%97%ae%e6%9c%8d%e5%8a%a1/.html)
 
 
-# 5 事务管理
-* [使用事务管理](http://blog.didispace.com/springboottransactional/)
-* [为什么加了@Transactional注解，事务没有回滚](http://blog.didispace.com/transactional-not-rollback/)
-* [事务管理入门](http://blog.didispace.com/spring-boot-learning-21-3-10/)
 
 # 6 日志管理
 * [Java常用的日志框架对比](https://www.jianshu.com/p/bbbdcb30bba8)
