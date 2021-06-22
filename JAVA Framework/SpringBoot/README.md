@@ -93,7 +93,7 @@
 * [4. 数据库訪问](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%A8%AA%E9%97%AE/README.md)
 * [5. 事务管理](https://github.com/stevenli91748/JAVA-Architecture/tree/master/JAVA%20Framework/SpringBoot/%E4%BA%8B%E5%8A%A1%E7%AE%A1%E7%90%86)
 * [6. 日志管理](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E6%97%A5%E5%BF%97%E7%AE%A1%E7%90%86/README.md)
-* [7. 安全管理](#7-安全管理)
+* [7. 安全管理](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%AE%89%E5%85%A8%E7%AE%A1%E7%90%86/README.md)
 * [8. 缓存管理](#8-缓存管理)
 * [9. 消息服务](#9-消息服务)
 *  RPC 开发
