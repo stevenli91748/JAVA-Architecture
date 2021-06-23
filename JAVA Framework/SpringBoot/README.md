@@ -370,6 +370,7 @@ Spring Boot 并不是用来替代 Spring 的解决方案，而是和 Spring 框�
 
 
 # 有用的参考
+  * 深入实践Spring Boot.pdf
   * [替换默认的banner---可以到http://patorjk.com/software/taag/这个网站生成一个自己项目的banner。创建banner.txt并放到resources根目录下](http://patorjk.com/software/taag/)
   * [springboot使用nacos做注册中心](https://www.jianshu.com/p/189376ef0b10)
   * [spring boot使用nacos作为配置中心实践](https://www.jianshu.com/p/0ccd1dcaa717)
