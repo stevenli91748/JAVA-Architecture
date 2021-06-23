@@ -1,22 +1,6 @@
 # [Java面试知识点 和 项目经验](https://github.com/stevenli91748/JAVA-Architecture/tree/master/Interview)
-# [JAVA系统架构进阶之路](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E8%BF%9B%E9%98%B6%E4%B9%8B%E8%B7%AF.md)
-# [Java学习路径](https://mp.weixin.qq.com/s?__biz=MzI5MzYzMDAwNw==&mid=2247483728&idx=1&sn=da73111b02f90df1c9f251b6c6c1e23f&chksm=ec6e7808db19f11e18e677096da7e9049c741cf4f5a6d08003c0d396ae41176aa2a2d80f8ec8&scene=21#wechat_redirect)
-# [10分钟白嫖我的常用的在线工具网站清单](https://juejin.im/post/5ed1f00ff265da771b2fe075)
-# [Java工程师成神之路 | 2020正式版](http://hollischuang.gitee.io/tobetopjavaer/#/menu)
-# [必看！java后端，亮剑诛仙（最全知识点）](https://juejin.im/post/5d2d2ba96fb9a07f050a9ad6#heading-14)
-# [Java面试通关要点汇总集【终极版】](https://juejin.im/post/5ab1a338518825558a067c1f)
-# [Java开发者职业生涯要看的200+本书](https://juejin.im/post/5cbbb55ef265da039955d9d8)
-# [GitHub上最励志的计算机自学教程：8个月，从中年Web前端到亚马逊百万年薪软件工程师 | 中文版](https://zhuanlan.zhihu.com/p/138443693)
-# [如何建立自己的认知体系？](https://www.zhihu.com/question/19591121/answer/1364971134?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)
-# [如何利用好Google Scholar(谷歌学术)](https://www.zhihu.com/question/39852481)
-# [好的it 英文书网战--user： steven  psw: gz19731108](https://learning.oreilly.com/home/)
-# [13 个技术电子书资源站，从此看书不求人](https://my.oschina.net/u/4455409/blog/4785105)
-# [从学渣到博士：一个学习方法改变我的命运，自创2.0版费曼学习法](https://www.youtube.com/watch?v=hh9kFKVKpSM)
-# [An Entire Software Development Life Cycle - Full Guide (Tutorial)](https://www.youtube.com/watch?v=9PgZCJNzY9M&list=RDCMUC2WHjPDvbE6O328n17ZGcfg&start_radio=1&t=80)
-# [阿里云开发者社区——藏经阁系列电子书](https://developer.aliyun.com/ebook?spm=a2c6h.12873639.0.0.6cc46517ypEaxy)
-# [博文总目录](https://blog.csdn.net/derrantcm/article/details/73456550)
+
 # [阿里大佬倾情力荐: Java全线成长宝典，从P5到P8一应俱全](https://www.jianshu.com/p/f69b9f5def41)
-# 查权威资料。 这里我推荐两个，一个是[MDN](https://developer.mozilla.org/zh-CN/)的文章，真的是又全面又专业，绝对是前端开发必备神器，哪里不会点哪里。 另外推荐一个[Google 开发者](https://developers.google.com/) ， 里面干货很多，绝对权威
 # [全网最火的学习路线网站---前后端，android, DevOps, React, DBA](https://roadmap.sh/)
 
 
@@ -669,10 +653,27 @@ SQL语言|[MySQL](https://github.com/stevenli91748/Database/blob/master/MySQL/RE
 [图形程序设计][%图形程序设计]|[Swing界面组件][%Swing界面组件]|[事件处理][%事件处理]|[高级Swing 界面组件][%高级Swing 界面组件]|[高级AWT][%高级AWT]|
 ---|---|---|---|---|
 
-
+# [JAVA系统架构进阶之路](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E8%BF%9B%E9%98%B6%E4%B9%8B%E8%B7%AF.md)
+# [Java学习路径](https://mp.weixin.qq.com/s?__biz=MzI5MzYzMDAwNw==&mid=2247483728&idx=1&sn=da73111b02f90df1c9f251b6c6c1e23f&chksm=ec6e7808db19f11e18e677096da7e9049c741cf4f5a6d08003c0d396ae41176aa2a2d80f8ec8&scene=21#wechat_redirect)
+# [10分钟白嫖我的常用的在线工具网站清单](https://juejin.im/post/5ed1f00ff265da771b2fe075)
+# [Java工程师成神之路 | 2020正式版](http://hollischuang.gitee.io/tobetopjavaer/#/menu)
+# [必看！java后端，亮剑诛仙（最全知识点）](https://juejin.im/post/5d2d2ba96fb9a07f050a9ad6#heading-14)
+# [Java面试通关要点汇总集【终极版】](https://juejin.im/post/5ab1a338518825558a067c1f)
+# [Java开发者职业生涯要看的200+本书](https://juejin.im/post/5cbbb55ef265da039955d9d8)
+# [GitHub上最励志的计算机自学教程：8个月，从中年Web前端到亚马逊百万年薪软件工程师 | 中文版](https://zhuanlan.zhihu.com/p/138443693)
+# [如何建立自己的认知体系？](https://www.zhihu.com/question/19591121/answer/1364971134?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)
+# [如何利用好Google Scholar(谷歌学术)](https://www.zhihu.com/question/39852481)
+# [好的it 英文书网战--user： steven  psw: gz19731108](https://learning.oreilly.com/home/)
+# [13 个技术电子书资源站，从此看书不求人](https://my.oschina.net/u/4455409/blog/4785105)
+# [从学渣到博士：一个学习方法改变我的命运，自创2.0版费曼学习法](https://www.youtube.com/watch?v=hh9kFKVKpSM)
+# [An Entire Software Development Life Cycle - Full Guide (Tutorial)](https://www.youtube.com/watch?v=9PgZCJNzY9M&list=RDCMUC2WHjPDvbE6O328n17ZGcfg&start_radio=1&t=80)
+# [阿里云开发者社区——藏经阁系列电子书](https://developer.aliyun.com/ebook?spm=a2c6h.12873639.0.0.6cc46517ypEaxy)
+# [博文总目录](https://blog.csdn.net/derrantcm/article/details/73456550)
+# 查权威资料。 这里我推荐两个，一个是[MDN](https://developer.mozilla.org/zh-CN/)的文章，真的是又全面又专业，绝对是前端开发必备神器，哪里不会点哪里。 另外推荐一个[Google 开发者](https://developers.google.com/) ， 里面干货很多，绝对权威
 
 
 # 有用的参考
+
   * [看过就忘？学完就丢？因为你没有理清编程思路](https://blog.csdn.net/tanqingbo/article/details/102867050)
   * [一套公共性的 Java 后端开发实践 - 项目模板](https://insights.thoughtworks.cn/backend-development-iteration0/)
   * [阿里云官网内容平台](https://my.oschina.net/yunqi?tab=activity)
