@@ -1,19 +1,38 @@
 
 # 目录
 
-## 1 关系数据库訪问
+
 
 *  [JDBC连接](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%A8%AA%E9%97%AE/JDBC%E8%BF%9E%E6%8E%A5/README.md)
 *  [数据库连接池](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%A8%AA%E9%97%AE/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%BF%9E%E6%8E%A5%E6%B1%A0/README.md)
 *  [MyBatis](https://github.com/stevenli91748/Database/blob/master/Mybatis/%E5%9C%A8Spring%20Boot%E4%B8%AD%E7%BB%93%E5%90%88Mybatis/README.md)
 *  [Spring Data JPA](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%A8%AA%E9%97%AE/Spring%20Data%20JPA/README.md)
 
-## 2 非关系数据库訪问
- 
- * Redis
- * MongoDB
+## 1 在Spring Boot中使用关系数据库訪问
+   * MySQL
+     * MySQL依赖配置
+     * 实体建模
+     * 实体持久化
+     * MySQL测试 
+   * Oracle
 
-## [Spring Boot 数据库版本管理入门](https://www.iocoder.cn/Spring-Boot/database-version-control/?vip)
+## 2 在Spring Boot中使用非关系数据库訪问
+   * Redis
+     * Redis依赖配置
+     * 创建Redis服务类
+     * Redis测试
+   * MongoDB
+     * MongoDB依赖配置
+     * 文档建模
+     * 文档持久化
+     * MongoDB测试
+   * Neo4j
+     * Neo4j依赖配置
+     * 节点和关系实体建模
+     * 节点实体持久化
+     * Neo4j测试
+     
+## [3 Spring Boot 数据库版本管理入门](https://www.iocoder.cn/Spring-Boot/database-version-control/?vip)
    * [使用Flyway来管理数据库版本](http://blog.didispace.com/spring-boot-flyway-db-version/)
 
 # 有用的参考
