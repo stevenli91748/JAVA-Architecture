@@ -103,11 +103,12 @@
 *  整合分布式文件系统
 *  服务器推送技术
 *  邮件发送的整合与使用
-*  配置中心
-*  注册中心
-*  持续交付
-*  服务容错
-*  链路追踪
+*  分布式应用开发
+   *  配置中心
+   *  注册中心
+   *  持续交付
+   *  服务容错
+   *  链路追踪
 *  响应式框架webflux
 * [10. 应用监控](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%BA%94%E7%94%A8%E7%9B%91%E6%8E%A7/README.md)
 * [11. 应用部署](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%BA%94%E7%94%A8%E9%83%A8%E7%BD%B2/README.md)
