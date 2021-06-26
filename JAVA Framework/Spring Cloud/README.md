@@ -123,6 +123,7 @@
 # 目录
 * 1. Spring Cloud内部机制
      * [Spring CLoud配置](https://www.cnblogs.com/crazymakercircle/p/11674597.html)
+       * [spring cloud 核心参数调优](https://www.coollf.com/archives/article-51) 
      * [Spring Cloud各组件专题](#Spring-Cloud各组件专题)
 * 2. Sprng Cloud开发环境配置
      * 服务注册与发现配置中心
