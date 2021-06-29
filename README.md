@@ -371,8 +371,8 @@
 
 #### 项目测试
 
-[项目测试](https://github.com/stevenli91748/Testing/blob/master/README.md)|
----|
+[项目测试](https://github.com/stevenli91748/Testing/blob/master/README.md)|[代码检测工具](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E4%BB%A3%E7%A0%81%E6%A3%80%E6%B5%8B%E5%B7%A5%E5%85%B7/README.md)|
+---|---|
 
 
 
