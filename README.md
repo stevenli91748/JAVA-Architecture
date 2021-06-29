@@ -606,10 +606,14 @@ SQL语言|[MySQL](https://github.com/stevenli91748/Database/blob/master/MySQL/RE
 
 * [Java Visual Machine](https://github.com/stevenli91748/JAVA-Architecture/tree/master/Java%20Advanced/JVM)
 * [JAVA内存管理机制](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/Memory/README.md)
+* 通用处理机制
+  * 串行与并行机制
+  * 同步与异步机制 
 * [泛型机制](https://www.pdai.tech/md/java/basic/java-basic-x-generic.html)
 * [注解机制](https://www.pdai.tech/md/java/basic/java-basic-x-annotation.html)
 * [异常机制](https://www.pdai.tech/md/java/basic/java-basic-x-exception.html)
 * [反射机制](https://www.pdai.tech/md/java/basic/java-basic-x-reflection.html)
+* 内省机制
 * [SPI机制](https://www.pdai.tech/md/java/advanced/java-advanced-spi.html)
 
 
