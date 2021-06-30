@@ -602,19 +602,26 @@ SQL语言|[MySQL](https://github.com/stevenli91748/Database/blob/master/MySQL/RE
 
 ## Java 高级
 
-### Java的核心机制
+### Java的机制
 
-* [Java Visual Machine](https://github.com/stevenli91748/JAVA-Architecture/tree/master/Java%20Advanced/JVM)
-* [JAVA内存管理机制](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/Memory/README.md)
+* 核心机制
+  * [Java Visual Machine](https://github.com/stevenli91748/JAVA-Architecture/tree/master/Java%20Advanced/JVM)
+  * [JAVA内存管理机制](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/Memory/README.md)
 * 通用处理机制
   * 串行与并行机制
   * 同步与异步机制 
+  * 在线处理与批处理机制
+  * 系统间通信机制
 * [泛型机制](https://www.pdai.tech/md/java/basic/java-basic-x-generic.html)
 * [注解机制](https://www.pdai.tech/md/java/basic/java-basic-x-annotation.html)
 * [异常机制](https://www.pdai.tech/md/java/basic/java-basic-x-exception.html)
 * [反射机制](https://www.pdai.tech/md/java/basic/java-basic-x-reflection.html)
 * 内省机制
 * [SPI机制](https://www.pdai.tech/md/java/advanced/java-advanced-spi.html)
+* Servlet机制
+* 监听器 过滤器与拦截器机制
+* Cookie与Session机制
+* Socket机制
 
 
 [Java Visual Machine](https://github.com/stevenli91748/JAVA-Architecture/tree/master/Java%20Advanced/JVM)|[Java Multithreading](https://github.com/stevenli91748/JAVA-Architecture/tree/master/Java%20Advanced/Mutilthreading)|[Java Concurrency](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/Concurrency/README.md)|Java 8 函数式编程|[java异步编程](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/java%E5%BC%82%E6%AD%A5%E7%BC%96%E7%A8%8B/README.md)|
