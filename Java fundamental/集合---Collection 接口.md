@@ -1,5 +1,5 @@
 
-
+<a href="https://ibb.co/dB9MkSp"><img src="https://i.ibb.co/zscxP12/java-collections-overview-1.png" alt="java-collections-overview-1" border="0"></a>
 
 
 * [Collection接口---单列数据， 定义了存取一组对象的方法的集合](https://blog.csdn.net/qq924862077/article/details/48022135)
