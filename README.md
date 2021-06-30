@@ -17,8 +17,8 @@
 [阿里巴巴 知行动手实验室](https://start.aliyun.com/)|
 ---|
 
-[芋道源码---前端 后端 网络 数据库 消息队列等的学习指南](http://svip.iocoder.cn/tags/%E5%AD%A6%E4%B9%A0%E6%8C%87%E5%8D%97/)|[精尽 Java【基础】学习指南](http://svip.iocoder.cn/Java/Core/tutorials/)|
----|---|
+[芋道源码---前端 后端 网络 数据库 消息队列等的学习指南](http://svip.iocoder.cn/tags/%E5%AD%A6%E4%B9%A0%E6%8C%87%E5%8D%97/)|[精尽 Java【基础】学习指南](http://svip.iocoder.cn/Java/Core/tutorials/)|[Java 全栈知识体系](https://www.pdai.tech/md/java/basic/java-basic-x-generic.html)|
+---|---|---|
 
 [程序猿DD---非常好](http://blog.didispace.com/)|[ 芋道源码------非常好](http://www.iocoder.cn/)|[猿码架构](https://www.jianshu.com/u/657c611b2e07)|[周立的博客](http://itmuch.com/)|[My bird](https://mrbird.cc/archives/)|[疯狂创客圈](https://www.cnblogs.com/crazymakercircle/p/9904544.html)|
 ---|---|---|---|---|---|
