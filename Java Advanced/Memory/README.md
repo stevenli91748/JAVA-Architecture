@@ -1,10 +1,17 @@
 # [java 内存面试知识点](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/Memory/Interview/JAVA内存模型.md)
-# 目录
 
 <a href="https://ibb.co/8d49JmT"><img src="https://i.ibb.co/k96XpGk/2018090421174179-2.png" alt="2018090421174179-2" border="0"></a>
 
 [线程与内存交互操作](https://www.cnblogs.com/hongwz/p/5948308.html)|
 ---|
+
+# 目录
+
+# 1 内存分配
+# 2 垃圾回收机制
+# 3 内存回收算法
+
+
 
 * 栈内存：用于存储局部变量，当数据使用完，所占空间会自动释放。 
 * 堆内存：数组和对象，通过new建立的实例都存放在堆内存中。 
