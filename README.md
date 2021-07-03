@@ -354,7 +354,7 @@
 [项目经理小姐姐非要给我讲一讲，项目开发规范和流程！---项目开发的工具](https://developer.51cto.com/art/202009/626353.htm)|
 ---|
 
-[DevOps模式](https://github.com/stevenli91748/JAVA-Architecture/blob/master/DevOps/README.md)|
+[DevOps模式](https://github.com/stevenli91748/DevOps-Develope/blob/main/README.md)|
 ---|
 
 
