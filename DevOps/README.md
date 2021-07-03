@@ -4,8 +4,11 @@
 
 
 
-[搭建DevOps模式的项目](https://juejin.cn/post/6844904062081564679)|
- ---|
+* [搭建DevOps模式的项目](https://juejin.cn/post/6844904062081564679)
+* [前端构建 DevOps - 搭建 DevOps 基础平台（上）](https://www.jianshu.com/p/2ed8c808b654)
+* [前端构建 DevOps - 搭建 DevOps 基础平台（中）](https://www.jianshu.com/p/f7bb0262794b)
+* [前端构建 DevOps - 搭建 DevOps 基础平台（下）](https://www.jianshu.com/p/2c7e09fd52de)
+ 
  
  # 目录
  
