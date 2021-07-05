@@ -4,7 +4,8 @@
 [深入了解Elasticsearch](https://www.bilibili.com/video/BV1NW411P7XU)|[elastic search集群故障切换测试](https://www.kancloud.cn/ty1114/elasticsearch/1079430)|
 ---|---|
 
-
+[部署 Elastic Stack](https://icyfenix.cn/appendix/operation-env-setup/elk-setup.html)|
+---|
 
 
 # Elasticsearch 视频
