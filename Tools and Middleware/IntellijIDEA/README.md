@@ -16,8 +16,8 @@
 [在IDEA中个性化配置JVM参数](https://www.bilibili.com/video/av22537758?p=1)|[快速测试 API 接口的新技能](https://juejin.im/post/6844903602503286797)|
 ---|---|
 
-[全网最全最新的IDEA教程](https://mp.weixin.qq.com/s/Ds1iU6ipMgWyaqaOPgP44g?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)|[IDEA中使用Docker插件](https://mrbird.cc/IDEA-Docker-Plugin.html)|[当Docker遇到Intellij IDEA，再次解放了生产力](https://www.jianshu.com/p/b748e90290d4)|
----|---|---|
+[全网最全最新的IDEA教程](https://mp.weixin.qq.com/s/Ds1iU6ipMgWyaqaOPgP44g?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)|[IDEA中使用Docker插件](https://mrbird.cc/IDEA-Docker-Plugin.html)|[当Docker遇到Intellij IDEA，再次解放了生产力](https://www.jianshu.com/p/b748e90290d4)|[Docker in IntelliJ IDEA (2021)](https://www.youtube.com/watch?v=ck6xQqSOlpw)|
+---|---|---|---|
 
 [项目部署点一下按钮就可以，全流程自动化，超简单三分钟学会](https://www.bilibili.com/video/BV1cD4y1U7Bx)|[一键生成数据库文档-生产力飙升](https://www.bilibili.com/video/BV1Qi4y1u7uR)|[本机用IDEA调试远程部署的程序代码](https://www.bilibili.com/video/BV1Da4y1e7kG)|
 ---|---|---|
