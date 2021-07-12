@@ -306,7 +306,7 @@
 * [Java企业级电商项目架构演进之路 Tomcat集群与Redis分布式](https://www.bilibili.com/video/av77880800?from=search&seid=4258377980332700343)
 * [从0到1开发java高并发分布式SSM项目教程](https://www.youtube.com/watch?v=1URBE2UO_Bo&list=PLjjwfqIOpH-iy7l05VaJw8zOCYAevt7A2)
 * [Introduction to Web Development | Full Stack Web Development Tutorial Course](https://www.youtube.com/watch?v=EceJQ05KTf4&list=PLwoh6bBAszPrES-EOajos_E9gvRbL27wz)
-* [2021 Github Java Topic排行榜第九排名的项目]()
+* 2021 Github Java Topic排行榜第九排名的项目
   * [2021 仿真电商平台Mall平台情况](https://www.kancloud.cn/devops-centos/centos-linux-devops/2190427)
   * [2021 Mall电商系统,包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署](https://github.com/stevenli91748/mall)
   * [2021 mall-tiny快速开发脚手架---发展初期的后端](https://github.com/macrozheng/mall-tiny)
