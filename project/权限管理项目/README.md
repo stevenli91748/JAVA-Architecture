@@ -1,4 +1,7 @@
+# 目录
 
+* [FEBS-Cloud微服务权限系统：Spring Cloud OAuth2 + Spring Cloud Security版本](https://www.kancloud.cn/mrbird/spring-cloud/1263686)
+* [FEBS-Cloud微服务权限系统：Shiro版本](https://github.com/febsteam/FEBS-Shiro)
 
 
 # 视频
