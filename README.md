@@ -27,8 +27,8 @@
 [老炮说java--非常好](https://www.laopaojava.com/)|[程序员小灰专栏](https://www.yuque.com/yulongsun/java/wzm20x)|[石杉的架构笔记](https://juejin.cn/user/2084329777035246/posts)|
 ---|---|---|
 
-[Java基础教程---非常好](http://c.biancheng.net/java/)|
----|
+[Java基础教程---非常好](http://c.biancheng.net/java/)|[汇总java生态圈常用技术框架、开源中间件，系统架构、数据库、大公司架构案例、常用三方类库、项目管理、线上问题排查](https://github.com/aalansehaiyang/technology-talk)|
+---|---|
 
 [HowToDoInJava(非常多的例子程序，包括Java的方方面面)](https://howtodoinjava.com/)|[木九天](https://my.oschina.net/mdxlcj?tab=newest&catalogId=5781789)|
 ---|---|
