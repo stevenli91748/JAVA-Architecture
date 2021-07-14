@@ -8,6 +8,9 @@
 [Spring Boot 学习示例---spring-boot-examples](https://github.com/ityouknow/spring-boot-examples)|[spring-boot-demo---一个用来深度学习并实战 spring boot 的项目](https://github.com/xkcoding/spring-boot-demo)|
 ---|----|
 
+[Spring Boot API Project Seed 是一个基于Spring Boot & MyBatis的种子项目，用于快速构建中小型API、RESTful API项目](https://github.com/lihengming/spring-boot-api-project-seed)|
+---|
+
 
 ---
 
