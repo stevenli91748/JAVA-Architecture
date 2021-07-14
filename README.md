@@ -3,7 +3,7 @@
 # [阿里大佬倾情力荐: Java全线成长宝典，从P5到P8一应俱全](https://www.jianshu.com/p/f69b9f5def41)
 # [全网最火的学习路线网站---前后端，android, DevOps, React, DBA](https://roadmap.sh/)
 # [Github上面有个Java Topic 项目排行榜](https://github.com/topics/java)
-
+# [中华石杉---互联网 Java 工程师进阶知识完全扫盲,内容涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识做了系统的整理](https://github.com/doocs/advanced-java)
 # 后端学习路线
 
 <a href="https://ibb.co/ZWcBXcY"><img src="https://i.ibb.co/sysKRs6/backend-roadmap.png" alt="backend-roadmap" border="0"></a>
