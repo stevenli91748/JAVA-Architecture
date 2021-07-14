@@ -12,8 +12,8 @@
 [精尽 Java【虚拟机】学习指南](http://svip.iocoder.cn/Java/VirtualMachine/tutorials/)|[JVM相关知识体系详解](https://www.pdai.tech/md/java/jvm/java-jvm-x-overview.html)|
 ---|---|
 
-[JVM实验例子]()|[常见JVM内存错误及解决方案](https://www.kancloud.cn/haijun0314/fengxue/2056242)|
----|---|
+JVM实验例子|[常见JVM内存错误及解决方案](https://www.kancloud.cn/haijun0314/fengxue/2056242)|[Java 虚拟机底层原理知识总结](https://github.com/doocs/jvm)|
+---|---|---|
 
 
 # [0. 初识JVM](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E5%88%9D%E8%AF%86JVM.md)
