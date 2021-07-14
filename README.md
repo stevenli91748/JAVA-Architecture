@@ -402,6 +402,10 @@
 [测试](https://github.com/stevenli91748/Testing/blob/master/README.md)|FastDFS文件存储|[Quartz定时任务](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Quartz)|jFinal|[Postman 接口调试工具](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/postman接口自动化测试/README.md)|[AKKA](https://doc.yonyoucloud.com/doc/akka-doc-cn/2.3.6/scala/book/chapter1/05_usecase_and_deployment_scenarios.html)|[Jetty](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/jetty/README.md)|[RxJava](https://github.com/ReactiveX/RxJava)
 ---|---|---|---|---|---|---|---|
 
+[ 二维码扫描项目--- barcode scanning library for Java, Android](https://github.com/zxing/zxing)|
+---|
+
+
 [ElasticSearch搜索][%Elasticsearch]|[ELK日志展示及分析](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/ELK日志分析服务/README.md)|[Swagger接口文档编写及测试工具](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Swagger接口文档编写及测试工具/README.md)|[JMeter测试工具](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/JMeter测试工具/README.md)|[Keepalived](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Keepalived/README.md)|[Serverless](https://github.com/stevenli91748/Big-Data/blob/master/Serverless/README.md)|
 ---|---|---|---|---|---|
 
