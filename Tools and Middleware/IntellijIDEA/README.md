@@ -25,6 +25,8 @@
 [10年程序员第一次发现的代码调试神器](https://www.bilibili.com/video/BV1TQ4y1T7H3)|[一个让程序员接近失业的通用代码生成器-视频作者原创开源项目-跨项目、跨编程语言、跨操作系统](https://www.bilibili.com/video/BV1gV411m7DM)|
 ---|---|
 
+[基于IDEA插件开发和字节码插桩技术，实现研发交付质量自动分析](https://bugstack.cn/framework/2021/02/04/%E5%9F%BA%E4%BA%8EIDEA%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91%E5%92%8C%E5%AD%97%E8%8A%82%E7%A0%81%E6%8F%92%E6%A1%A9%E6%8A%80%E6%9C%AF-%E5%AE%9E%E7%8E%B0%E7%A0%94%E5%8F%91%E4%BA%A4%E4%BB%98%E8%B4%A8%E9%87%8F%E8%87%AA%E5%8A%A8%E5%88%86%E6%9E%90.html)|
+---|
 
 # 目录
 
