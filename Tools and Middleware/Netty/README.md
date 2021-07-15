@@ -1,8 +1,8 @@
 
 # [Netty面试](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Netty/interview/README.md)
 
-[精尽 Netty 学习指南](http://svip.iocoder.cn/Netty/tutorials/)|
----|
+[精尽 Netty 学习指南](http://svip.iocoder.cn/Netty/tutorials/)|[跟着案例学Netty](https://github.com/fuzhengwei/itstack-demo-netty)|
+---|---|
 
 [Netty 100万级高并发服务器配置](https://blog.csdn.net/crazymakercircle/article/details/83758107?utm_medium=distribute.pc_relevant.none-task-blog-baidujs_title-0&spm=1001.2101.3001.4242)|
 ---|
