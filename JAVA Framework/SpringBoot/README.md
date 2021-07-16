@@ -56,9 +56,9 @@
 
 ---
 
-* [SpringBoot 中间件设计和开发项目实战](https://juejin.cn/book/6940996508632219689)
 
-* [Github Java Topic排行榜第九排名的项目]()
+
+#### [Github Java Topic排行榜第九排名的项目]()
   * [【项目实战】MMall电商系统,包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署](https://github.com/stevenli91748/mall)
   * [mall电商系统学习教程目录](https://www.jianshu.com/p/3d91982ce458)
   * [Mall电商实战项目开源回忆录！](https://www.jianshu.com/p/307aae750a29)
@@ -70,9 +70,9 @@
   * [mall-tiny快速开发脚手架](https://github.com/macrozheng/mall-tiny)
   * [Spring Boot官方的Demo程序 ： petclinit](https://github.com/spring-projects/spring-petclinic)
 
+#### [SpringBoot 中间件设计和开发项目实战](https://juejin.cn/book/6940996508632219689)
 
-
-* 13个值得学习和练手的java企业级开源项目!
+#### 13个值得学习和练手的java企业级开源项目!
   * [1. JeeSite---JeeSite 是一个 Java EE 企业级快速开发平台，基于经典技术组合（Spring Boot、Spring MVC、Apache Shiro、MyBatis、Beetl、Bootstrap、AdminLTE）采用经典开发模式，让初学者能够更快的入门并投入到团队开发中去 ](https://github.com/thinkgem/jeesite "在线代码生成功能，包括核心模块如：组织机构、角色用户、菜单及按钮授权、数据权限、系统参数、内容管理、工作流等。采用松耦合设计；界面无刷新，一键换肤；众多账号安全设置，密码策略；在线定时任务配置；支持集群，支持SAAS；支持多数据源；支持微服务")
   * [2. XMall商城---一个基于SOA架构的分布式电商购物商城，并且前后端分离 是初学者练手的不错的项目](https://github.com/Exrick/xmall "项目所用技术栈：SSM、Elasticsearch、Redis、MySQL、ActiveMQ、Shiro、Dubbo、Zookeeper、Vue.js ")
   * [3. Cloud-Platform---综合平台类项目,项目所用技术栈：Spring Boot、Spring Cloud全家桶、Vue.js](https://gitee.com/geek_qi/cloud-platform "Cloud-Platform是国内首个基于Spring Cloud的微服务开发平台，具有统一授权、认证后台管理系统，其中包含具备用户管理、资源权限管理、网关API 管理等多个模块，支持多业务系统并行开发，可以作为后端服务的开发脚手架。代码简洁，架构清晰，适合学习和直接项目中使用 ")
