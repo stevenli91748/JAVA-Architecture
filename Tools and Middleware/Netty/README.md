@@ -11,7 +11,7 @@
 [疯狂创客圈 IM---从0开始100w分布式 Java 高并发、分布式应用实战](https://gitee.com/crazymaker/crazy_tourist_circle__im)|[实战Netty集群 - CrazyIM 分布式聊天实战](https://www.cnblogs.com/crazymakercircle/p/11470287.html)|
 ---|---|
 
-[SpringBoot+Netty+WEBSOCKET  聊天/推送 源码](https://gitee.com/crazymaker/websocket_chat_room)|[]()|
+[SpringBoot+Netty+WEBSOCKET  聊天/推送 源码](https://gitee.com/crazymaker/websocket_chat_room)|[Netty+JavaFx实战：仿桌面版微信聊天](https://bugstack.cn/itstack-demo-netty-3/2020/03/04/Netty+JavaFx%E5%AE%9E%E6%88%98-%E4%BB%BF%E6%A1%8C%E9%9D%A2%E7%89%88%E5%BE%AE%E4%BF%A1%E8%81%8A%E5%A4%A9.html)|
 ---|---|
 
  [实战 从0开始，打造亿级 仿 微信 IM后台](https://www.cnblogs.com/crazymakercircle/p/9912267.html)|
