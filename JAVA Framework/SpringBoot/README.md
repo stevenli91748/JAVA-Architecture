@@ -54,6 +54,9 @@
 [精通 Spring Boot 42 讲---纯洁的微笑](https://github.com/ityouknow/spring-boot-leaning)|
 ---|
 
+---
+
+* [SpringBoot 中间件设计和开发项目实战](https://juejin.cn/book/6940996508632219689)
 
 * [Github Java Topic排行榜第九排名的项目]()
   * [【项目实战】MMall电商系统,包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署](https://github.com/stevenli91748/mall)
