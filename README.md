@@ -343,7 +343,7 @@
   
 ### 51cto  视频
 * [手摸手教你学spring boot 2.x(持续更新)](https://www.kancloud.cn/hanxt/springboot2/1492077)
-* [高并发分布式技术企业级大型项目实战400讲(附源码)](https://edu.51cto.com/course/23163.html)
+* [高并发分布式技术企业级大型项目实战400讲(附源码)](https://edu.51cto.com/center/course/lesson/index?id=564135)
 
 
 ### 尚硅谷
