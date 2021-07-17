@@ -311,6 +311,7 @@
 * [Java企业级电商项目架构演进之路 Tomcat集群与Redis分布式](https://www.bilibili.com/video/av77880800?from=search&seid=4258377980332700343)
 * [从0到1开发java高并发分布式SSM项目教程](https://www.youtube.com/watch?v=1URBE2UO_Bo&list=PLjjwfqIOpH-iy7l05VaJw8zOCYAevt7A2)
 * [Introduction to Web Development | Full Stack Web Development Tutorial Course](https://www.youtube.com/watch?v=EceJQ05KTf4&list=PLwoh6bBAszPrES-EOajos_E9gvRbL27wz)
+* [锋迷商城---对标阿里P7/P8,采用当下最主流的微服务分布式架构，前后端分离技术,掌握本套课程，你将拥有千万级电商项目实战经验](https://www.bilibili.com/video/BV12p4y187Dj?p=1)
 * 2021 Github Java Topic排行榜第九排名的项目
   * [2021 Mall电商系统实战项目专属学习路线---主流技术一网打尽](https://mp.weixin.qq.com/s/izwkCoq-oeb_-XiTldLhOg)
   * [2021 mall学习教程](http://www.macrozheng.com/#/README)
