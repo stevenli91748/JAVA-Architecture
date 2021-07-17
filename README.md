@@ -344,7 +344,7 @@
 ### 51cto  视频
 * [手摸手教你学spring boot 2.x(持续更新)](https://www.kancloud.cn/hanxt/springboot2/1492077)
 * [高并发分布式技术企业级大型项目实战400讲(附源码)](https://edu.51cto.com/center/course/lesson/index?id=564135)
-
+* [ SpringCloud技术栈微服务架构天猫商城企业级开发实战(源码+讲义+答疑) ](https://edu.51cto.com/center/course/lesson/index?id=673151)
 
 ### 尚硅谷
 * [19年尚硅谷新项目-尚筹网-单一架构阶段一](https://www.bilibili.com/video/av82534518/?spm_id_from=333.788.b_636f6d6d656e74.6)
