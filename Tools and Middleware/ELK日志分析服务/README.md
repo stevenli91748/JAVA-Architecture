@@ -16,6 +16,8 @@ ELK这种架构因为需要在各个服务器上部署Logstash来从不同的数
 [ELK+Filebeat+Kafka+ZooKeeper 构建海量日志分析平台](https://www.cnblogs.com/saneri/p/8822116.html)|[ELK Filebeat Kafka ZooKeeper 构建海量日志分析平台(转)](http://www.360doc.com/content/18/0328/18/33260087_741038117.shtml)|
 ---|---|
 
+[ELK日志分析系统入门](https://gitlib.com/page/elk.html)|
+---|
 
 ---
 
