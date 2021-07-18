@@ -11,8 +11,8 @@
 [Spring Boot API Project Seed 是一个基于Spring Boot & MyBatis的种子项目，用于快速构建中小型API、RESTful API项目](https://github.com/lihengming/spring-boot-api-project-seed)|
 ---|
 
-[bugstack虫洞栈---非常好](https://bugstack.cn/itstack/itstack-demo-design.html)|
----|
+[bugstack虫洞栈---非常好](https://bugstack.cn/itstack/itstack-demo-design.html)|[学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2](https://github.com/wuyouzhuguli/SpringAll)|
+---|---|
 
 ---
 
@@ -38,6 +38,7 @@
 ---|
 
 ---
+
 
 [手摸手教你学spring boot 2.x](https://www.kancloud.cn/hanxt/springboot2/1492077)|[Spring boot参考指南---从总体上对Spring Boot或Spring入门](https://www.jianshu.com/p/67a0e41dfe05)|
 ---|---|
