@@ -4,6 +4,7 @@
 # [全网最火的学习路线网站---前后端，android, DevOps, React, DBA](https://roadmap.sh/)
 # [Github上面有个Java Topic 项目排行榜](https://github.com/topics/java)
 # [中华石杉---互联网 Java 工程师进阶知识完全扫盲,内容涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识做了系统的整理](https://github.com/doocs/advanced-java)
+# [中华石杉---C2C 电商系统微服务架构 120 天实战训练营](https://apppukyptrl1086.pc.xiaoe-tech.com/detail/p_5f1e9ddbe4b0a1003cafad34/6)
 # 后端学习路线
 
 <a href="https://ibb.co/ZWcBXcY"><img src="https://i.ibb.co/sysKRs6/backend-roadmap.png" alt="backend-roadmap" border="0"></a>
