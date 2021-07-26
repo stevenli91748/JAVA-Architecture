@@ -397,6 +397,7 @@ Spring Boot 并不是用来替代 Spring 的解决方案，而是和 Spring 框�
 
 # 有用的参考
   * 深入实践Spring Boot.pdf
+  * [阿里程序员常用的 15 款开发者工具（建议收藏）](https://www.javaweb.shop/article/330.html)
   * [Spring中的统一异常处理](https://www.javaweb.shop/article/38.html)
   * [Spring中如何使用设计模式](https://www.javaweb.shop/article/295.html)
   * [Spring Boot项目的接口防刷](https://www.javaweb.shop/article/204.html)
