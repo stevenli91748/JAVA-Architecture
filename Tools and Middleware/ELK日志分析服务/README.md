@@ -67,3 +67,12 @@ ELK这种架构因为需要在各个服务器上部署Logstash来从不同的数
 * [log4j.properties配置文件详解](https://www.cnblogs.com/xiaobaizhiqian/p/7956690.html)
 * [java中程序动态配置log4j日志](https://blog.csdn.net/zgjllf1011/article/details/79280914)
 
+###
+
+* [ELK 日志采集框架（一）：架构设计](https://www.jianshu.com/p/210bb6b4abb2)
+* [ELK 日志采集框架（二）：日志模块开发](https://www.jianshu.com/p/b35d00480805)
+* [ELK 日志采集框架（三）：Filebeat安装与配置](https://www.jianshu.com/p/ad709e1fdff9)
+* [ELK 日志采集框架（四）：Kafka安装与配置](https://www.jianshu.com/p/e880c79be3d4)
+* [ELK 日志采集框架（五）：Logstash安装与配置](https://www.jianshu.com/p/b33def08c753)
+* [ELK 日志采集框架（六）：ElasticSearch安装与配置](https://www.jianshu.com/p/afad7328bd11)
+* [ELK 日志采集框架（七）：Kibana安装与配置](https://www.jianshu.com/p/68904d96259d)
