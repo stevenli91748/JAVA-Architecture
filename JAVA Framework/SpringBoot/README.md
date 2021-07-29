@@ -399,6 +399,7 @@ Spring Boot 并不是用来替代 Spring 的解决方案，而是和 Spring 框�
 
 # 有用的参考
   * 深入实践Spring Boot.pdf
+  * [Spring Cloud Alibaba 链路追踪](https://www.jianshu.com/p/87b2a5802319)
   * [springboot集成webSocket实现网络实时通讯](https://www.jianshu.com/p/969da26d5bea)
   * [阿里程序员常用的 15 款开发者工具（建议收藏）](https://www.javaweb.shop/article/330.html)
   * [Spring中的统一异常处理](https://www.javaweb.shop/article/38.html)
