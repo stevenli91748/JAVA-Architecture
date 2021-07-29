@@ -9,8 +9,8 @@
 [Spring Cloud Alibaba---此项目包含开发分布式应用微服务的必需组件，方便开发者通过 Spring Cloud 编程模型轻松使用这些组件来开发分布式应用服务](https://github.com/alibaba/spring-cloud-alibaba/blob/master/README-zh.md)|
 ---|
 
-[Nacos](https://nacos.io/zh-cn/docs/what-is-nacos.html)|[Alibaba Java诊断利器Arthas](https://github.com/alibaba/arthas)|
----|---|
+[Nacos](https://nacos.io/zh-cn/docs/what-is-nacos.html)|[Alibaba Java诊断利器Arthas](https://github.com/alibaba/arthas)|[Spring Cloud Alibaba 链路追踪](https://www.jianshu.com/p/87b2a5802319)|
+---|---|---|
 
 
 # 视频
