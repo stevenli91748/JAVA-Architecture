@@ -19,6 +19,10 @@ ELK这种架构因为需要在各个服务器上部署Logstash来从不同的数
 [ELK日志分析系统入门](https://gitlib.com/page/elk.html)|[字母哥 / ELK中文手册](https://www.kancloud.cn/hanxt/elk/153883)|
 ---|---|
 
+[基于tp6 ELK实时日志分析系统](https://www.kancloud.cn/zhangqi/tp6_elk)|
+---|
+
+
 ---
 
 # 目录
