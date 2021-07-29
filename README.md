@@ -732,6 +732,7 @@ SQL语言|[MySQL](https://github.com/stevenli91748/Database/blob/master/MySQL/RE
 # 查权威资料。 这里我推荐两个，一个是[MDN](https://developer.mozilla.org/zh-CN/)的文章，真的是又全面又专业，绝对是前端开发必备神器，哪里不会点哪里。 另外推荐一个[Google 开发者](https://developers.google.com/) ， 里面干货很多，绝对权威
 # [阿里巴巴的 26 款超神 Java 开源项目](https://www.javaweb.shop/article/207.html)
 # [输入程序代码问题得到回答的网站](https://www.codegrepper.com/code-examples/)
+# [精益技术简历之道——改善技术简历的47条原则](https://www.kancloud.cn/digest/lean-technical-resume/62711)
 
 # 有用的参考
 
