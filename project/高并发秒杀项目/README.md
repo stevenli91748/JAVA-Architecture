@@ -9,6 +9,9 @@
 [解密双十二，Java千万级秒杀系统架构实战](https://www.bilibili.com/video/BV164411Z7GG)|[揭秘淘宝双十一，千万级秒杀系统架构](https://www.bilibili.com/video/BV1qJ411P7BQ)|
 ---|---|
 
+[如何设计一个秒杀系统(各方面都写的很到位)](https://www.jianshu.com/p/018e7b28c608)|
+---|
+
 * [Java高并发秒杀API之高并发优化](https://www.imooc.com/learn/632)
 * [Java高并发秒杀API之web层](https://www.imooc.com/learn/630)
 * [Java高并发秒杀API之Service层](https://www.imooc.com/learn/631)
