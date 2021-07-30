@@ -13,7 +13,7 @@
 [一文带你深入了解IOC启动原理](https://www.jianshu.com/p/fce17d0ef045)|[一文读懂 AOP --- 你想要的最全面 AOP 方法探讨](https://www.jianshu.com/p/0799aa19ada1)|
 ---|---|
 
-[一文应用 AOP | 最全选型考量 + 边剖析经典开源库边实践](https://www.jianshu.com/p/42ce95450adb)|[springboot + aop的最佳实践](https://juejin.cn/post/6844904105819783175)|
+[一文应用 AOP  最全选型考量 + 边剖析经典开源库边实践](https://www.jianshu.com/p/42ce95450adb)|[springboot + aop的最佳实践](https://juejin.cn/post/6844904105819783175)|
 ---|---|
 
 [Spring 手撸专栏---模拟SPring的实现，用最简的架构，剥丝抽茧，体现核心，把Spring最直接相干的内容体现出来进行学习](https://bugstack.cn/spring/2021/05/16/%E7%AC%AC1%E7%AB%A0-%E5%BC%80%E7%AF%87%E4%BB%8B%E7%BB%8D-%E6%89%8B%E5%86%99Spring%E8%83%BD%E7%BB%99%E4%BD%A0%E5%B8%A6%E6%9D%A5%E4%BB%80%E4%B9%88.html)|
