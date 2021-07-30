@@ -60,8 +60,8 @@
 [【项目实战】微服务多租户系统后台管理系统---基于SpringBoot2.x、SpringCloud和SpringCloudAlibaba并采用前后端分离的企业级微服务多租户系统架构](https://gitee.com/zlt2000/microservices-platform)|
 ---|
 
-[精通 Spring Boot 42 讲---纯洁的微笑](https://github.com/ityouknow/spring-boot-leaning)|
----|
+[精通 Spring Boot 42 讲---纯洁的微笑](https://github.com/ityouknow/spring-boot-leaning)|[五分钟实现外网访问你的本地web项目（Ngrok内外网穿透）](https://www.jianshu.com/p/8cb64d2607a0)|
+---|---|
 
 ---
 
