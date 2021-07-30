@@ -16,6 +16,10 @@
 [一文应用 AOP  最全选型考量 + 边剖析经典开源库边实践](https://www.jianshu.com/p/42ce95450adb)|[springboot + aop的最佳实践](https://juejin.cn/post/6844904105819783175)|
 ---|---|
 
+
+[spring专题系列之AOP的理解和分析](https://www.jianshu.com/p/41e9d1c494e4)|
+---|
+
 [Java字节码增强技术](https://www.jianshu.com/p/8b7e515a9fcc)|
 ---|
 
