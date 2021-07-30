@@ -45,7 +45,7 @@
 | [4小时学会Spring Boot+Vue前后端分离开发](https://www.bilibili.com/video/BV137411B7vB/?spm_id_from=333.788.videocard.9)|[无代码]|
 | [React+springboot权限管理系统·前后端分离](https://www.jianshu.com/p/b34674cd328d)|[无代码]|
 | [公司项目里如何进行前后端接口联调系列](https://www.jianshu.com/search?q=%E5%90%8E%E7%AB%AF%E6%8E%A5%E5%8F%A3&page=1&type=note)|[无代码]|
-
+| [Mockjs,再也不用追着后端小伙伴要接口了](https://www.jianshu.com/p/dd23a6547114)||
 
 # API网关的分类
   
