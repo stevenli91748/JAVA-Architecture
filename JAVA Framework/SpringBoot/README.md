@@ -39,8 +39,8 @@
 [Spring框架模块依赖关系](https://juejin.cn/post/6844903670945939469)|[一文读懂Spring Boot各模块组件依赖关系](https://cloud.tencent.com/developer/article/1683323)|[spring5的各模块组依赖关系](https://www.jianshu.com/p/d3233d6322ef)|
 ---|---|---|
 
-[SpringBoot: 后台接口文档 - 基于Swagger3](https://www.jianshu.com/p/c839e72ad1b2)|
----|
+[SpringBoot: 后台接口文档 - 基于Swagger3](https://www.jianshu.com/p/c839e72ad1b2)|[springboot + aop的最佳实践](https://juejin.cn/post/6844904105819783175)|
+---|---|
 
 [SpringBoot实战开发---SpringBoot如何和各项技术整合 好评如潮 58集](https://www.youtube.com/watch?v=DU6ApMNDtWo&list=PLwDQt7s1o9J4AgZVM0hdtNpWiyrKIMHOx&index=1)|
 ---|
