@@ -22,6 +22,7 @@
 | [REST API Design Documenttion tools](https://www.kancloud.cn/thinkphp/api-design-and-documentation/43384) ||
 | [REST API 接口测试](https://www.imooc.com/learn/1048)||
 | [看看人家那后端API接口写得，那叫一个优雅！---着重介绍一下后端服务器如何实现把数据返回给前端](https://www.jianshu.com/p/3c1d3ba5f56d)||
+| [如何保证API接口安全](https://www.jianshu.com/p/5da8149ec02b)||
 | [初探APP架构之后端接口设计方案](https://www.jianshu.com/p/f3b747abdf2a)||
 
 | **第二部分 API网关 篇** | [无代码] | 
