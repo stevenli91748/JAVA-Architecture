@@ -505,6 +505,7 @@ Spring Boot 并不是用来替代 Spring 的解决方案，而是和 Spring 框�
 * [springboot2.2.X手册：redis的7种类型100个方法全解析](https://www.toutiao.com/i6833638765508952588/?group_id=6833638765508952588)
 * [springboot2.2.X手册：是时候用Lettuce替换Jedis操作Redis缓存了](https://www.toutiao.com/i6830375730736529934/?group_id=6830375730736529934)
 * [springboot2.2.X手册：构建多元化的API接口，我们这样子设计](https://www.toutiao.com/i6824397028622074379/?group_id=6824397028622074379)
+* [springboot2.2.X手册：防抓包？快速实现API接口数据加密](https://www.toutiao.com/a6834422198174745100/?log_from=786bf5be9e623_1627707392207)
 * [springboot2.2.X手册：基于Jasypt的JavaConfig方式敏感信息加密](https://www.toutiao.com/i6826174219655578115/?group_id=6826174219655578115)
 * [springboot2.2.X手册：整合最新版MybatisPlus 3.3.1版本](https://www.toutiao.com/i6825131400312652302/?group_id=6825131400312652302)
 * [springboot2.2.X手册：对象复制哪种最快？7种复制方式性能对比](https://www.toutiao.com/i6826649167629124109/?group_id=6826649167629124109)
