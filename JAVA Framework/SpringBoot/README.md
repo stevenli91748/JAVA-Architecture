@@ -510,7 +510,8 @@ Spring Boot 并不是用来替代 Spring 的解决方案，而是和 Spring 框�
 * [springboot2.2.X手册：对象复制哪种最快？7种复制方式性能对比](https://www.toutiao.com/i6826649167629124109/?group_id=6826649167629124109)
 * [springboot2.2.X手册：基于OSS解决文件存储](https://www.toutiao.com/i6827253921170326027/?group_id=6827253921170326027)
 * [springboot2.2.X手册：36个注解详细解析，一目了然](https://www.toutiao.com/i6823649625178636803/?group_id=6823649625178636803)
-
+* [springboot2.2.X手册：5分钟用Netty搭建高性能异步WebSocket服务](https://www.toutiao.com/a6856955045942919684/?log_from=1a78655ea3f6d_1627707229680)
+* [springboot2.2.X手册：女盆友太烦，给她做个简易人工智能聊天器](https://www.toutiao.com/a6860471476152336907/?log_from=3eacbe366fe15_1627707249674)
 # springboot2.3手册
 
 * [springboot2.3手册：多租户及自动创建数据，这样做](https://www.toutiao.com/a6871807445329510924/)
