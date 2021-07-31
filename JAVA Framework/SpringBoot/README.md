@@ -493,6 +493,32 @@ Spring Boot 并不是用来替代 Spring 的解决方案，而是和 Spring 框�
 * [SpringBoot 创建定时任务（配合数据库动态执行）](https://www.jianshu.com/p/fd863dc561b3)
 * [Springboot项目配置https](https://www.jianshu.com/p/3e1b4695bf77)
 * [java - Spring Boot不运行单元测试](https://www.coder.work/article/1803608)
+
+# springboot2.2.X手册
+* [springboot2.2.X手册：Eureka不更，Consul被禁，启用Nacos](https://www.toutiao.com/a6837774825470034443/)
+* [springboot2.2.X手册：抛弃ELK，百亿日志+调用链的Easylog很放心](https://www.toutiao.com/a6838166862795112971/)
+* [springboot2.2.X手册：构建全局唯一的短链接数据中心](https://www.toutiao.com/i6836996512120046084/?group_id=6836996512120046084)
+* [springboot2.2.X手册：放弃fastdfs，整合Minio做文件服务器真香](https://www.toutiao.com/i6835489974024929800/?group_id=6835489974024929800)
+* [springboot2.2.X手册：分布式系统下，重复提交的解决方案](https://www.toutiao.com/i6830430731164975620/?group_id=6830430731164975620)
+* [springboot2.2.X手册：Easypoi导出excel，最新版的手感香不香？](https://www.toutiao.com/i6831821032026800651/?group_id=6831821032026800651)
+* [springboot2.2.X手册：项目从100M瘦身到100K，部署省事多了！](https://www.toutiao.com/i6831831409645060619/?group_id=6831831409645060619)
+* [springboot2.2.X手册：redis的7种类型100个方法全解析](https://www.toutiao.com/i6833638765508952588/?group_id=6833638765508952588)
+* [springboot2.2.X手册：是时候用Lettuce替换Jedis操作Redis缓存了](https://www.toutiao.com/i6830375730736529934/?group_id=6830375730736529934)
+* [springboot2.2.X手册：构建多元化的API接口，我们这样子设计](https://www.toutiao.com/i6824397028622074379/?group_id=6824397028622074379)
+* [springboot2.2.X手册：基于Jasypt的JavaConfig方式敏感信息加密](https://www.toutiao.com/i6826174219655578115/?group_id=6826174219655578115)
+* [springboot2.2.X手册：整合最新版MybatisPlus 3.3.1版本](https://www.toutiao.com/i6825131400312652302/?group_id=6825131400312652302)
+* [springboot2.2.X手册：对象复制哪种最快？7种复制方式性能对比](https://www.toutiao.com/i6826649167629124109/?group_id=6826649167629124109)
+* [springboot2.2.X手册：基于OSS解决文件存储](https://www.toutiao.com/i6827253921170326027/?group_id=6827253921170326027)
+* [springboot2.2.X手册：36个注解详细解析，一目了然](https://www.toutiao.com/i6823649625178636803/?group_id=6823649625178636803)
+
+
+
+
+
+
+
+
+
 # spring boot 项目中的pom.xml文件的配置
 * [spring-boot-dependencies、spring-boot-starter-parent、io.spring.platform详解](https://www.cnblogs.com/ld-mars/p/11720444.html)
 
