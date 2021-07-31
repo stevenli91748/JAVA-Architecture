@@ -511,7 +511,9 @@ Spring Boot 并不是用来替代 Spring 的解决方案，而是和 Spring 框�
 * [springboot2.2.X手册：基于OSS解决文件存储](https://www.toutiao.com/i6827253921170326027/?group_id=6827253921170326027)
 * [springboot2.2.X手册：36个注解详细解析，一目了然](https://www.toutiao.com/i6823649625178636803/?group_id=6823649625178636803)
 
+# springboot2.3手册
 
+* [springboot2.3手册：多租户及自动创建数据，这样做](https://www.toutiao.com/a6871807445329510924/)
 
 
 
