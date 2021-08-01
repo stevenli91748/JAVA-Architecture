@@ -7,7 +7,8 @@
  [postman接口自动化测试](https://www.bilibili.com/video/av50904292/?spm_id_from=333.788.videocard.8)|[Postman Beginner's Course - API Testing](https://www.youtube.com/watch?v=VywxIQ2ZXw4)|
  ---|---|
 
-
+[Postman +Newman+Jenkins+钉钉 实现持续集成的接口自动化](https://www.jianshu.com/p/5a6572b1954c)|
+---|
 
 # 有用的参考
 
