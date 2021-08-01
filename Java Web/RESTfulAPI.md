@@ -3,8 +3,8 @@
 [Vert.x](https://www.bilibili.com/video/BV174411E7Vr?from=search&seid=3412424618058651269)|
 ---|
 
-[kong](https://www.bilibili.com/video/BV16E411n7Bu?from=search&seid=13204508987684806757)|[Spring Cloud Gateway](https://www.bilibili.com/video/BV11b411V7MA?from=search&seid=10918068436806250854)|
----|---|
+[kong](https://www.bilibili.com/video/BV16E411n7Bu?from=search&seid=13204508987684806757)|[Spring Cloud Gateway](https://www.bilibili.com/video/BV11b411V7MA?from=search&seid=10918068436806250854)|[Postman Beginner's Course - API Testing](https://www.youtube.com/watch?v=VywxIQ2ZXw4)|
+---|---|---|
 
 [黑客攻击你的接口服务，如何给你的开放API穿上“金甲神盾”](https://www.bilibili.com/video/BV1qs411J788)|[90分钟教你实现，接口优雅限流降级](https://www.bilibili.com/video/BV1YW41197mr)|
 ---|---|
