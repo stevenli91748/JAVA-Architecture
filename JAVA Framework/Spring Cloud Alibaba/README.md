@@ -13,7 +13,7 @@
 ---|---|---|
 
 
-[详解“微服务”架构体系——SpringCloud Alibaba！](https://www.jianshu.com/p/b710ecfa2ce5)|
+[详解“微服务”架构体系——SpringCloud Alibaba！非常好](https://www.jianshu.com/p/b710ecfa2ce5)|
 ---|
 
 # 视频
