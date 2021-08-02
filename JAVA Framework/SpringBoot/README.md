@@ -257,6 +257,7 @@
 
 ## 3a RESTFulAPI构建
 * [SpringBoot如何优雅的校验参数](https://zhuanlan.zhihu.com/p/97555913?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
+* [SpringBoot：如何优雅地进行参数传递、响应数据封装、异常处理？](https://www.jianshu.com/p/b7f881bd940c)
 * [构建一个较为复杂的RESTful API以及单元测试](http://blog.didispace.com/springbootrestfulapi/)
 * [使用Swagger2构建RESTful API](http://blog.didispace.com/springbootswagger2/)
 * [JSR-303实现请求参数校验](http://blog.didispace.com/spring-boot-learning-21-2-3/)
