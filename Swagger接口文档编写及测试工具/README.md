@@ -15,7 +15,7 @@ Swagger|
 # Swagger视频
 
  * [Swagger-前后端分离开发的API接口框架](https://www.bilibili.com/video/av37961314/?spm_id_from=333.788.videocard.1)
-
+ * [SpringBoot整合Swagger2及使用](https://iter01.com/594684.html)
 # Swagger接口文档编写及测试工具视频
   * [【项目实践】SpringBoot三招组合拳，一步一步演示如何构建起一个优秀的后端接口体系](https://www.jianshu.com/p/b5b8613769db)
   * [如何优雅设计 API 接口，实现统一格式返回？](https://www.jianshu.com/p/90bac4eda34a)
