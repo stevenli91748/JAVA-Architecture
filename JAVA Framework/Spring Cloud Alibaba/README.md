@@ -13,6 +13,9 @@
 ---|---|---|
 
 
+[详解“微服务”架构体系——SpringCloud Alibaba！](https://www.jianshu.com/p/b710ecfa2ce5)|
+---|
+
 # 视频
 
 * [Spring Cloud Alibaba](https://edu.51cto.com/center/course/lesson/index?id=696542)
