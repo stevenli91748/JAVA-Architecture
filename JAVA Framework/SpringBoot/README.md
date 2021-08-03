@@ -124,7 +124,7 @@
     * [Spring Boot与Redis的集成](https://www.pianshen.com/article/87111813402/)
     * [spring boot 集成多个kafka集群](https://www.pianshen.com/article/95811542353/)  
     * [spring boot集成swagger](https://www.pianshen.com/article/6672172411/)
-    * []()
+    * [spring boot 集成quartz集群](https://www.pianshen.com/article/96821505859/)
 * [3. Web开发](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/Web%E5%BC%80%E5%8F%91/README.md)
   * [3a HTTP客户端库](#3a-HTTP客户端库)
   * [3b Dubbo进行服务治理](#3b-Dubbo进行服务治理)
