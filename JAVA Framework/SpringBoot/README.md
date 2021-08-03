@@ -117,6 +117,12 @@
   * [2a 热部署](#2a-热部署)
   * 2b 嵌入式容器的配置与应用
     * [Tomcat](#2b-Tomcat)
+  * Spring Boot的各种配置
+    * [spring boot2 + dubbo + zookeeper 搭建微服务框架](https://www.pianshen.com/article/8697367836/)
+    * [Spring Boot2（完整的SSM）与Dubbo的集成](https://www.pianshen.com/article/960369232/)
+    * [Spring Boot2集成JPA](https://www.pianshen.com/article/1114121725/)
+    * [Spring Boot与Redis的集成](https://www.pianshen.com/article/87111813402/)
+    * []()  
 * [3. Web开发](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/Web%E5%BC%80%E5%8F%91/README.md)
   * [3a HTTP客户端库](#3a-HTTP客户端库)
   * [3b Dubbo进行服务治理](#3b-Dubbo进行服务治理)
