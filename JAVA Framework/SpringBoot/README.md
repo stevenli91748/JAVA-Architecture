@@ -5,6 +5,9 @@
 
 # 学习示例
 
+[Spring Boot常用注解](https://www.pianshen.com/article/8357683291/)|
+---|
+
 [Spring Boot 学习示例---spring-boot-examples](https://github.com/ityouknow/spring-boot-examples)|[spring-boot-demo---一个用来深度学习并实战 spring boot 的项目](https://github.com/xkcoding/spring-boot-demo)|
 ---|----|
 
