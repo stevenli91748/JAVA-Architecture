@@ -9,7 +9,8 @@
 <a href="https://ibb.co/JyXjrtm"><img src="https://i.ibb.co/X3mxFLj/spring-cloud.png" alt="spring-cloud" border="0"></a>
 
 
-
+[SpringCloud常用注解总结](https://blog.csdn.net/u014666697/article/details/90756644)|
+---|
 
 [程序猿DD---非常好](http://blog.didispace.com/)|[ 芋道源码------非常好](http://www.iocoder.cn/)|[周立的博客](http://itmuch.com/)|[My bird](https://mrbird.cc/archives/)|[纯洁的微笑---Spring Cloud](http://www.ityouknow.com/spring-cloud)|[疯狂创客圈](https://www.cnblogs.com/crazymakercircle/p/9904544.html)|
 ---|---|---|---|---|---|
