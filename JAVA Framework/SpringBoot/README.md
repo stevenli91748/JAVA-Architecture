@@ -5,8 +5,8 @@
 
 # 学习示例
 
-[Spring Boot常用注解](https://www.pianshen.com/article/8357683291/)|
----|
+[Spring Boot常用注解](https://www.pianshen.com/article/8357683291/)|[Spring MVC工作流程和常用注解](https://www.pianshen.com/article/88761901189/)|
+---|---|
 
 [Spring Boot 学习示例---spring-boot-examples](https://github.com/ityouknow/spring-boot-examples)|[spring-boot-demo---一个用来深度学习并实战 spring boot 的项目](https://github.com/xkcoding/spring-boot-demo)|
 ---|----|
@@ -413,6 +413,7 @@ Spring Boot 并不是用来替代 Spring 的解决方案，而是和 Spring 框�
 
 # 有用的参考
   * 深入实践Spring Boot.pdf
+  * []()
   * [Spring Cloud Alibaba 链路追踪](https://www.jianshu.com/p/87b2a5802319)
   * [springboot集成webSocket实现网络实时通讯](https://www.jianshu.com/p/969da26d5bea)
   * [阿里程序员常用的 15 款开发者工具（建议收藏）](https://www.javaweb.shop/article/330.html)
