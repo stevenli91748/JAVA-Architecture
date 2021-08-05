@@ -27,7 +27,7 @@
 | [如何保证API接口安全](https://www.jianshu.com/p/5da8149ec02b)||
 | [初探APP架构之后端接口设计方案](https://www.jianshu.com/p/f3b747abdf2a)||
 | [设计模式---接口设计原则之分离原则详解](https://www.jianshu.com/p/fe1e778b4f52)|||
-
+| [实现集成中 API 先行的七步指南](https://www.infoq.cn/article/9aWfgWP7cWqGW44vMmeZ?utm_source=related_read_bottom&utm_medium=article)||
 | **第二部分 API网关 篇** | [无代码] | 
 | :--- | :---: | 
 |[这样讲 API 网关，你应该能明白了吧](https://zhuanlan.zhihu.com/p/90433496)||
