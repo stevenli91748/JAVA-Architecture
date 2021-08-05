@@ -1,9 +1,20 @@
+* 日志系统
+  * [1. 常规日志系统 ](#1-常规日志系统)
+  * [2. 实时计算的日志系统](#2-实时计算的日志系统)
 
 
 
+# 常规日志系统
 <a href="https://ibb.co/X8Wctg7"><img src="https://i.ibb.co/6ByjFxH/ELK.png" alt="ELK" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>image uploader</a><br />
 
 <a href="https://ibb.co/tKLRdXr"><img src="https://i.ibb.co/W5VCTtJ/image.jpg" alt="image" border="0"></a>
+
+# 实时计算的日志系统
+
+<a href="https://ibb.co/Hp4ZfsP"><img src="https://i.ibb.co/gF9YLpW/1.webp" alt="1" border="0"></a>
+
+
+# 1 常规日志系统
 
 ELK这种架构因为需要在各个服务器上部署Logstash来从不同的数据源收集数据，所以⽐较消耗CPU和内存资源，容易造成服务
 器性能下降，因此后来⼜在Elasticsearch、Logstash、Kibana之外引⼊了Beats作为数据收集器。相⽐于Logstash，Beats所
@@ -25,6 +36,9 @@ ELK这种架构因为需要在各个服务器上部署Logstash来从不同的数
 
 [Filebeat---已经完全替代了 Logstash-Forwarder 成为新一代的日志采集器，同时鉴于它轻量、安全等特点，越来越多人开始使用它 ]()|
 ---|
+
+# 2 实时计算的日志系统
+
 
 ---
 
