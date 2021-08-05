@@ -66,6 +66,10 @@
 [精通 Spring Boot 42 讲---纯洁的微笑](https://github.com/ityouknow/spring-boot-leaning)|[五分钟实现外网访问你的本地web项目（Ngrok内外网穿透）](https://www.jianshu.com/p/8cb64d2607a0)|
 ---|---|
 
+
+[Spring Boot DTO示例：实体到DTO的转换](https://www.jdon.com/55804)|
+---|
+
 ---
 
 
