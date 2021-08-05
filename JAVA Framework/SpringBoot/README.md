@@ -67,8 +67,8 @@
 ---|---|
 
 
-[Spring Boot DTO示例：实体到DTO的转换](https://www.jdon.com/55804)|[SpringBoot+CQRS微服务设计模式教程 ](https://www.jdon.com/55380)|
----|---|
+[Spring Boot DTO示例：实体到DTO的转换](https://www.jdon.com/55804)|[SpringBoot+CQRS微服务设计模式教程 ](https://www.jdon.com/55380)|[使用Spring实现访问主从数据库的读写和只读事务/事物的分离路由](https://www.jdon.com/54429)|
+---|---|---|
 
 ---
 
