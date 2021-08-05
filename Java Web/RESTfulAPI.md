@@ -14,7 +14,7 @@
 
 | **第一部分 RestFulAPI 篇** | [无代码] | 
 | :--- | :---: | 
-| 1-1 数据结构和算法的关系 | [无代码] |
+| 1-1 [企业中的 API 可分为三类](https://www.infoq.cn/article/9aWfgWP7cWqGW44vMmeZ?utm_source=related_read_bottom&utm_medium=article) | [无代码] |
 | [1-2 RESTfull API简单项目的快速搭建](https://www.bilibili.com/video/av13224378?from=search&seid=10786600269014143134) | [无代码] |
 | [【项目实践】SpringBoot三招组合拳，手把手教你打出优雅的后端接口](https://zhuanlan.zhihu.com/p/134209666?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)||
 | [【项目实践】后端接口统一规范的同时，如何优雅得扩展规范](https://juejin.im/post/6844904143912435719?)||
@@ -27,7 +27,7 @@
 | [如何保证API接口安全](https://www.jianshu.com/p/5da8149ec02b)||
 | [初探APP架构之后端接口设计方案](https://www.jianshu.com/p/f3b747abdf2a)||
 | [设计模式---接口设计原则之分离原则详解](https://www.jianshu.com/p/fe1e778b4f52)|||
-| [实现集成中 API 先行的七步指南](https://www.infoq.cn/article/9aWfgWP7cWqGW44vMmeZ?utm_source=related_read_bottom&utm_medium=article)||
+| ||
 | **第二部分 API网关 篇** | [无代码] | 
 | :--- | :---: | 
 |[这样讲 API 网关，你应该能明白了吧](https://zhuanlan.zhihu.com/p/90433496)||
@@ -53,15 +53,17 @@
 | [公司项目里如何进行前后端接口联调系列](https://www.jianshu.com/search?q=%E5%90%8E%E7%AB%AF%E6%8E%A5%E5%8F%A3&page=1&type=note)|[无代码]|
 | [Mockjs,再也不用追着后端小伙伴要接口了](https://www.jianshu.com/p/dd23a6547114)||
 
+
+
+
 # API网关的分类
   
-  
-
   API 网关拆分成为 3 个系统：
 
      Gateway-Core（核心）
      Gateway-Admin（管理）
      Gateway-Monitor（监控）
+    
 
  ## 流量网关：
     一类是全局性的，跟具体的后端业务系统和服务完全无关的部分，比如安全策略、全局性流控策略、流量分发策略等。通常有如下通用性的具体功能：
