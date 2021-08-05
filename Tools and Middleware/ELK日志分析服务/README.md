@@ -23,6 +23,8 @@ ELK这种架构因为需要在各个服务器上部署Logstash来从不同的数
 [基于tp6 ELK实时日志分析系统](https://www.kancloud.cn/zhangqi/tp6_elk)|[springboot2.2.X手册：抛弃ELK，百亿日志+调用链的Easylog很放心](https://www.toutiao.com/a6838166862795112971/)|
 ---|---|
 
+[Filebeat---已经完全替代了 Logstash-Forwarder 成为新一代的日志采集器，同时鉴于它轻量、安全等特点，越来越多人开始使用它 ]()|
+---|
 
 ---
 
