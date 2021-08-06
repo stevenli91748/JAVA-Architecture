@@ -339,6 +339,7 @@ Open API开放平台必然涉及到客户应用的接入、API权限的管理、
   * [REST API 接口测试](https://www.imooc.com/learn/1048)
   * [高质量API接口设计最佳实践](https://www.bilibili.com/video/BV1g4411V7R9/?spm_id_from=333.788.videocard.7)
 # 有用的参考
+  * [正确甄别API & REST API & RESTful API & Web Service之间的差异与联系](https://juejin.cn/post/6844903869625942029)
   * [看看人家那后端API接口写得，那叫一个优雅！](https://www.jianshu.com/p/fa75acba5b07)
   * [微服务五种开源API网关实现组件对比](https://zhuanlan.zhihu.com/p/61014955)
   * [微服务的API网关演化之路](https://zhuanlan.zhihu.com/p/86053141)
