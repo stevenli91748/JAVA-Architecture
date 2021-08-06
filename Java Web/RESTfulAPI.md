@@ -104,6 +104,17 @@
 
 按照使用范围、成熟度等来划分，主流的有 4 个：OpenResty、Kong、Zuul/Zuul 2、Spring Cloud Gateway，此外 fagongzi API 网关最近也获得不少关注。
 
+* [微服务网关实战01-网关介绍](https://www.toutiao.com/a6808446597215552003/?log_from=f53faf1695dc8_1627707593158)
+* [微服务网关实战02-网关搭建](https://www.toutiao.com/a6808731146826809870/?log_from=e9c137766c14b_1627708717793)
+* [微服务网关实战03-网关请求日志及全局异常](https://www.toutiao.com/a6808833585475224076/?log_from=513da4df59178_1627708740697)
+* [微服务网关实战04-网关限流及断路](https://www.toutiao.com/a6808834000853926404/?log_from=221a8ad575ac9_1627708761297)
+* [微服务网关实战05-网关鉴权](https://www.toutiao.com/a6808842467312402955/?log_from=9d02be2f80d96_1627708784230)
+* [微服务网关实战06-网关请求客户端](https://www.toutiao.com/a6808846956186567172/?log_from=d30316fb90f93_1627708805341)
+* [微服务网关实战07-聚合服务](https://www.toutiao.com/a6808854890283008523/?log_from=ba807c27a6dc7_1627708844379)
+* [微服务网关实战08-聚合服务请求日志及断路](https://www.toutiao.com/a6808861304242045453/?log_from=5df6fd223b401_1627708870534)
+* [微服务网关实战09-聚合服务鉴权及限流](https://www.toutiao.com/a6808865734366593547/?log_from=268261052b5c7_1627708895489)
+
+
 
 
 
