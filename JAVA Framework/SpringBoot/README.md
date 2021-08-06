@@ -427,6 +427,7 @@ Spring Boot 并不是用来替代 Spring 的解决方案，而是和 Spring 框�
 
 # 有用的参考
   * 深入实践Spring Boot.pdf
+  * [使用SpringBoot实现微服务超时重试模式 ](https://www.jdon.com/55324)
   * [spring boot +themyleaf+vue前后端分离](https://www.zybuluo.com/EggGump/note/1207305)
   * [Spring Cloud Alibaba 链路追踪](https://www.jianshu.com/p/87b2a5802319)
   * [springboot集成webSocket实现网络实时通讯](https://www.jianshu.com/p/969da26d5bea)
