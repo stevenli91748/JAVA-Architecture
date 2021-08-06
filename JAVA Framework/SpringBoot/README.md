@@ -85,7 +85,14 @@
   * [springcloud-learning学习项目](https://github.com/macrozheng/springcloud-learning)
   * [mall-tiny快速开发脚手架](https://github.com/macrozheng/mall-tiny)
   * [Spring Boot官方的Demo程序 ： petclinit](https://github.com/spring-projects/spring-petclinic)
-
+   
+#### 最全面微服务教程：SpringBoot + DDD + Apache Kafka实现最终一致性
+   [最全面微服务教程：SpringBoot + DDD + Apache Kafka实现最终一致性(1) ](https://www.jdon.com/56424)
+   [最全面微服务教程：SpringBoot + DDD + Apache Kafka实现最终一致性(1) 英文版](https://itnext.io/eventual-consistency-with-spring-for-apache-kafka-cfbbed450b5e)
+   [最全面微服务教程: SpringBoot + DDD + Apache Kafka实现最终一致性(2)：在Kubernetes与Istio运维微服务](https://www.jdon.com/56429)
+   [[最全面微服务教程: SpringBoot + DDD + Apache Kafka实现最终一致性(2)：在Kubernetes与Istio运维微服务 英文版](https://itnext.io/eventual-consistency-with-spring-for-apache-kafka-part-2-of-2-23bedd512ccf)
+   
+     
 #### [SpringBoot 中间件设计和开发项目实战 重要 ](https://juejin.cn/book/6940996508632219689)
 #### [SpringBoot技术栈搭建个人博客【后台开发】](https://www.jianshu.com/p/91c6c9fc67c4)
 #### 13个值得学习和练手的java企业级开源项目!
