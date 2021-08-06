@@ -1,3 +1,6 @@
+**对于外部AP I 调用或者客户端对后端API 的访问，可以使用HTTP 协议或者RSTful（当然也可以直接通过最原始的Socket 来调用） 。但对于内部服务间的调用， 一般都是通过RPC 机制来进行的**
+
+
 # [API网关面试知识点](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/Interview/apigate.md)
 
 [Vert.x](https://www.bilibili.com/video/BV174411E7Vr?from=search&seid=3412424618058651269)|
@@ -5,6 +8,9 @@
 
 [kong](https://www.bilibili.com/video/BV16E411n7Bu?from=search&seid=13204508987684806757)|[Spring Cloud Gateway](https://www.bilibili.com/video/BV11b411V7MA?from=search&seid=10918068436806250854)|[Postman Beginner's Course - API Testing](https://www.youtube.com/watch?v=VywxIQ2ZXw4)|
 ---|---|---|
+
+[API网关介绍及选型(kong)](https://blog.csdn.net/pushiqiang/article/details/95726137?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.channel_param&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.channel_param)|
+---|
 
 [黑客攻击你的接口服务，如何给你的开放API穿上“金甲神盾”](https://www.bilibili.com/video/BV1qs411J788)|[90分钟教你实现，接口优雅限流降级](https://www.bilibili.com/video/BV1YW41197mr)|
 ---|---|
@@ -398,3 +404,46 @@ Open API开放平台必然涉及到客户应用的接入、API权限的管理、
  * [前后端分界及项目流程解析](https://wenku.baidu.com/view/e677d1ecfc0a79563c1ec5da50e2524de418d05a.html?from=search)
  * [SpringMVC集成springfox-swagger2构建restful API](https://blog.csdn.net/u014231523/article/details/54411026)
  * [从 MVC 到前后端分离 ](https://my.oschina.net/huangyong/blog/521891)
+ * [百亿流量 API 网关设计与实践](https://gitbook.cn/books/5bbb3d2a61d11c2d996be26b/index.html)
+ * [API网关的作用、方案以及如何选择](http://blog.didispace.com/API网关的作用、方案以及如何选择/)
+ * [自建API网关-架构设计篇](http://blog.didispace.com/自建API网关-架构设计篇/)
+ * [浅谈微服务中的 API 网关（API Gateway）](https://zhuanlan.zhihu.com/p/31786017)
+ * [一个简单可参考的 API 网关架构设计](https://www.infoq.cn/article/api-gateway-architecture-design)
+ * [有赞API网关实践](https://tech.youzan.com/api-gateway-in-practice/)
+ * [使用API网关构建微服务--实际例子](https://cloud.tencent.com/developer/article/1032069?fromSource=waitui)
+ * [八步部署NGINX Plus API网关](https://zhuanlan.zhihu.com/p/38359208?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
+ * [Building Microservices: Using an API Gateway](https://www.nginx.com/blog/building-microservices-using-an-api-gateway/)
+ * [一个非常适合IT团队的在线API文档、技术文档工具](https://yun.gw.com.cn/doc/#/)
+ * [异步 API 的设计](http://www.ruanyifeng.com/blog/2018/12/async-api-design.html)
+ * [springboot综合项目练习三定义微服务接口返回规范](https://blog.csdn.net/chenhaotao/article/details/86500548)
+ * [微服务RESTful 接口设计规范](https://blog.csdn.net/zl1zl2zl3/article/details/73867113)
+ * [前后端分离购物网站—技术选型](https://blog.csdn.net/qq_39206806/article/details/81320826)
+ * [JavaWeb项目前后端分离](https://blog.csdn.net/xiaoyangsavvy/article/details/80476703) 
+ * [使用RAP2和Mock.JS实现Web API接口的数据模拟和测试](https://www.cnblogs.com/wuhuacong/p/10213540.html)
+ * [Web API应用架构设计分析](http://www.uml.org.cn/net/201507222.asp?artid=16667)
+ * [从接入层入手，设计高并发的微服务架构？](http://developer.51cto.com/art/201803/567754.htm)
+ * [在基于MVC的Web项目中使用Web API和直接连接两种方式混合式接入](https://www.cnblogs.com/wuhuacong/p/5850482.html)
+ * [架构设计（4）--API网关](https://blog.csdn.net/hguisu/article/details/79143584)
+ * [统一接入层方案](https://blog.csdn.net/JeamKing/article/details/73695200)
+ * [一个简单可参考的 API 网关架构设计](https://www.infoq.cn/article/api-gateway-architecture-design)
+ * [一切皆API的大环境下，如何打造API Everything](https://dbaplus.cn/news-141-1815-1.html)
+ * [基于 Spring Boot 的 Web API 项目的安全设计](https://www.ctolib.com/topics-132196.html)
+ * [一个完善的 API 流程标准（草图）](https://segmentfault.com/a/1190000008243832)
+ * [设计微服务应用层和 Web API](https://docs.microsoft.com/zh-cn/dotnet/standard/microservices-architecture/microservice-ddd-cqrs-patterns/microservice-application-layer-web-api-design)
+ * [使用 Web API 实现微服务应用层](https://docs.microsoft.com/zh-cn/dotnet/standard/microservices-architecture/microservice-ddd-cqrs-patterns/microservice-application-layer-implementation-web-api)
+ * [企业级API网关的设计](https://www.jianshu.com/p/84dcce30f7c9)
+ * [微服务架构为何需要搭配API网关](https://blog.csdn.net/belalds/article/details/80913504)
+ * [微服务与API网关（上）: 为什么需要API网关](http://blog.didispace.com/hzf-ms-apigateway-1)
+ * [微服务与API 网关（下）- Kong能为我们做什么？](http://blog.didispace.com/hzf-ms-apigateway-2)
+ * [百亿流量 API 网关设计与实践](https://gitbook.cn/books/5bbb3d2a61d11c2d996be26b/index.html)
+ * [为什么需要API网关，如何设计API网关](https://www.eefocus.com/communication/423672)
+ * [浅谈三种API设计风格RPC、REST、GraphQL](https://zhuanlan.zhihu.com/p/56955812)
+ * [spring 指南系列 如何更好的设计RESTful API](https://zhuanlan.zhihu.com/p/24592119)
+ * [Google Cloud 的 API 设计](https://zhuanlan.zhihu.com/p/27458970)
+ * [web项目前后端开发过程和体会](https://blog.csdn.net/gu_ude_god/article/details/81570544)
+ * [构建SpringMVCRestful前后端分离项目实例](https://blog.csdn.net/songxinjianqwe/article/details/54976251)
+ * [Docker 对前后端分离项目的部署和运维（详述）](https://blog.csdn.net/qq_35394891/article/details/83027804)
+ * [API网关 Zuul1.0 和 2.0 我们该如何选择？](https://mp.weixin.qq.com/s/WlDCpdh3_ygCCd63Gsth6Q)
+ * [微网关与服务啮合](http://blog.didispace.com/microgateway-and-service-mesh/)
+ * [聊聊 API Gateway 和 Netflix Zuul](http://www.scienjus.com/api-gateway-and-netflix-zuul/)
+ 
