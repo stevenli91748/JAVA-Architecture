@@ -26,8 +26,8 @@
 [spring专题系列之AOP的理解和分析](https://www.jianshu.com/p/41e9d1c494e4)|[spring专题系列之IOC的理解和分析](https://www.jianshu.com/p/7216d38d40d8)|
 ---|---|
 
-[Spring AOP 编写流程整理](https://www.huaweicloud.com/articles/13636519.html)|
----|
+[Spring AOP 编写流程整理](https://www.huaweicloud.com/articles/13636519.html)|[使用spring AOP管理权限时拦截位置的困扰](https://www.jdon.com/27858)|
+---|---|
 
 [Java字节码增强技术](https://www.jianshu.com/p/8b7e515a9fcc)|[这么多的bean，Spring是如何区分的？](https://www.jianshu.com/p/5167c0e2c450)|
 ---|---|
