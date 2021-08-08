@@ -1,5 +1,8 @@
 **对于外部AP I 调用或者客户端对后端API 的访问，可以使用HTTP 协议或者RSTful（当然也可以直接通过最原始的Socket 来调用） 。但对于内部服务间的调用， 一般都是通过RPC 机制来进行的**
+**接口其实是一种契约精神，一种约定俗成的规则，一种应用与外部世界的连接者，一种应用与其他应用的交互者，是让整个业务能成功流转起来的源头，但是接口并不关心里面的具体实现，这些是服务层的事，但是接口有个通用性的原则，那就是一定遵循请求与输出Request/Response
 
+
+<a href="https://ibb.co/5jFx6Fg"><img src="https://i.ibb.co/gWVF3VL/23600667-7082dd4cefd14184.webp" alt="23600667-7082dd4cefd14184" border="0"></a>
 
 # [API网关面试知识点](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/Interview/apigate.md)
 
@@ -33,7 +36,7 @@
 | [如何保证API接口安全](https://www.jianshu.com/p/5da8149ec02b)||
 | [初探APP架构之后端接口设计方案](https://www.jianshu.com/p/f3b747abdf2a)||
 | [设计模式---接口设计原则之分离原则详解](https://www.jianshu.com/p/fe1e778b4f52)|||
-| ||
+| [接口文档举例]()||
 | **第二部分 API网关 篇** | [无代码] | 
 | :--- | :---: | 
 |[这样讲 API 网关，你应该能明白了吧](https://zhuanlan.zhihu.com/p/90433496)||
