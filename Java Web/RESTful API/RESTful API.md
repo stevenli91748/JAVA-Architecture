@@ -28,7 +28,7 @@
   * 边缘（edge）API---边缘 API 担当企业系统的网关
   * 工具类（utility）API---工具类 API 中包含集成逻辑，实现边际 API 和内部系统的相互黏合
   * 领域（domain）API--- 领域 API 向集成层开放企业内部系统
-* [以 API 驱动的方式开展项目开发的步骤](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/RESTful%20API/%E4%BB%A5%20API%20%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%96%B9%E5%BC%8F%E5%BC%80%E5%B1%95%E9%A1%B9%E7%9B%AE%E5%BC%80%E5%8F%91%E7%9A%84%E6%AD%A5%E9%AA%A4.md)
+* [以API 先行方法 驱动的方式开展项目开发的步骤](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/RESTful%20API/%E4%BB%A5%20API%20%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%96%B9%E5%BC%8F%E5%BC%80%E5%B1%95%E9%A1%B9%E7%9B%AE%E5%BC%80%E5%8F%91%E7%9A%84%E6%AD%A5%E9%AA%A4.md)
     
 	
         
