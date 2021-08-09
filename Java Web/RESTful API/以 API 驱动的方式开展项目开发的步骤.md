@@ -12,5 +12,8 @@
   
   API 先行方法可大大降低项目的延迟和成本超支问题。这些问题主要源自于前端和后端团队之间的沟通不畅，从而导致 API 和后端系统变更。设计 API 之后，为便于前端团队进行 API 调用和测试，需要
   留一定的时间去启动和运行后端系统。为了解决此问题，前端团队可以设置为调用 Mock 后端的 Dummy 服务，去模仿所设计的 API，并返回 Dummy 数据。详细做法可参考: [API mock指南](https://stoplight.io/mock-api-guide/basics/)
-        
-  
+
+<a href="https://ibb.co/c3CyFy9"><img src="https://i.ibb.co/DW81C1F/d4c8ae8376805b04dccf227ee7fc8758.jpg" alt="d4c8ae8376805b04dccf227ee7fc8758" border="0"></a>
+
+
+  前文所说的 API 先行方法，需设计的正是置于 API façade 之前的边缘 API
