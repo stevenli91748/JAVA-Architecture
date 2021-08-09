@@ -25,7 +25,7 @@
 # 目录
 * API的意义---我们必须拥抱 API，并使用 API 先行（API-first）的集成思维来开发我们的集成用例，以 API 驱动的方式开展项目开发和集成
 * API 可分三类
-  * 1 边缘（edge）API---边缘 API 担当企业系统的网关
+  * 1 边缘（edge）API---边缘 API 担当企业系统的网关，边缘 API 是前端团队需要与之交互的。首先设计边缘 API，其中大多数用于访问特定的系统功能。避免将后端的复杂性泄漏给前端应用，一旦设计好边缘 API，后端团队就可以匹配边缘 API 的需求，着手设计工具 API 和领域 AP。如果碰上一些未考虑到的问题，可以按需回滚，更新边缘 API
     * [以API 先行方法 驱动的方式开展边缘（edge）API项目的开发步骤](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/RESTful%20API/%E4%BB%A5%20API%20%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%96%B9%E5%BC%8F%E5%BC%80%E5%B1%95%E9%A1%B9%E7%9B%AE%E5%BC%80%E5%8F%91%E7%9A%84%E6%AD%A5%E9%AA%A4.md)
   * 2 工具类（utility）API---工具类 API 中包含集成逻辑，实现边际 API 和内部系统的相互黏合
   * 3 领域（domain）API--- 领域 API 向集成层开放企业内部系统
