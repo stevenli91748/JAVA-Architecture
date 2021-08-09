@@ -23,11 +23,11 @@
 
 从图中看，我们针对组织和用户（包括移动端、Web 以及 API 的直接用户）具有不同的后端系统。需要组合**使用边缘 API 和 API façade 连接双方实体。**
 
-1. API façade 中包括简化的 RESTful API，用于开放后端系统的功能；
+**1. API façade 中包括简化的 RESTful API，用于开放后端系统的功能；**
 
-2. 边缘 API 组成 API 网关，提供 API 的全生命周期管理功能，包括限速、认证、授权等。
+**2. 边缘 API 组成 API 网关，提供 API 的全生命周期管理功能，包括限速、认证、授权等。**
 
-对 API façade 做进一步分析，可以看到它是由工具 API 和领域 API 组成的
+**对 API façade 做进一步分析，可以看到它是由工具 API 和领域 API 组成的**
 
 <a href="https://ibb.co/BN03GYw"><img src="https://i.ibb.co/tXVKz13/d85b97f1e5b61d673ff871113c83cd73.jpg" alt="d85b97f1e5b61d673ff871113c83cd73" border="0"></a>
 
