@@ -55,6 +55,7 @@
 | [初探APP架构之后端接口设计方案](https://www.jianshu.com/p/f3b747abdf2a)||
 | [设计模式---接口设计原则之分离原则详解](https://www.jianshu.com/p/fe1e778b4f52)|||
 | [SpringBoot后端接口的实现(看这一篇就够了)](https://www.jb51.net/article/196404.htm)||
+|[【从零入门系列-4】Spring Boot 之 WEB接口设计实现](https://segmentfault.com/a/1190000019191020)||
 | **第二部分 API网关 篇** | [无代码] | 
 | :--- | :---: | 
 |[这样讲 API 网关，你应该能明白了吧](https://zhuanlan.zhihu.com/p/90433496)||
