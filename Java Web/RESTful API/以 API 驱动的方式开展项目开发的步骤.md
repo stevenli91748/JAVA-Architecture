@@ -18,6 +18,7 @@
 
 下图展示了 API façade 是如何将企业系统中的各个部分黏合在一起
 
+企业部署概览图：
 <a href="https://ibb.co/c3CyFy9"><img src="https://i.ibb.co/DW81C1F/d4c8ae8376805b04dccf227ee7fc8758.jpg" alt="d4c8ae8376805b04dccf227ee7fc8758" border="0"></a>
 
 
