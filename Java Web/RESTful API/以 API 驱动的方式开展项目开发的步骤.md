@@ -1,6 +1,6 @@
 # 以API 先行方法 驱动的方式开展项目开发的步骤
 
-#  设计 边缘 API---->匹配边缘 API 的需求，着手设计工具 API 和领域 API------>
+#  设计 边缘 API---->匹配边缘 API 的需求，着手设计工具 API 和领域 API------>一旦完成边缘、领域和工具 API 的设计，这时前端和后端团队可以开始实现系统
 
 **API 先行方法图**
 <a href="https://ibb.co/Cs8C3vj"><img src="https://i.ibb.co/6Jw97bK/0d6dc0d4de2602d64e0d0f1712042f92.jpg" alt="0d6dc0d4de2602d64e0d0f1712042f92" border="0"></a>
