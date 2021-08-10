@@ -60,7 +60,8 @@
 [分布式事务】Spring Cloud 亿级账户系统 TCC 分布式事务实战](https://www.bilibili.com/video/BV1k84y1F7dZ/?spm_id_from=333.788.recommend_more_video.3)|
 ---|
 
-
+[SpringCloud 应用在 Kubernetes 上的最佳实践 — 部署篇(工具部署)](https://www.kubernetes.org.cn/8078.html)|[SpringCloud 应用在 Kubernetes 上的最佳实践 —— 开发篇](https://mp.weixin.qq.com/s?__biz=MzUzNzYxNjAzMg==&mid=2247491668&idx=1&sn=c9839f78ff31d6f5da285a259d804f53&chksm=fae6eb9bcd91628d28b0db9b53a091132df7535d320aee9c85fea241dc4e964e746b83a69dc8&scene=21#wechat_redirect)|[SpringCloud 应用在 Kubernetes 上的最佳实践 — 部署篇（开发部署）](https://mp.weixin.qq.com/s?__biz=MzUzNzYxNjAzMg==&mid=2247492052&idx=1&sn=8ff93e6f7b398e6a509239910b61b975&scene=21#wechat_redirect)|
+---|---|---|
 
 # 13个值得学习和练手的java企业级开源项目
   * [Spring Cloud微服务学习Demo](https://github.com/stevenli91748/msc-Demo)
