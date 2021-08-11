@@ -64,8 +64,8 @@
 [DI 依赖注入](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/DI%20%E4%BE%9D%E8%B5%96%E6%B3%A8%E5%85%A5.md)|[spring核心框架体系结构（jar包依赖）](https://blog.csdn.net/sinat_35512245/article/details/53893910)|[spring5的各模块组依赖关系](https://www.jianshu.com/p/d3233d6322ef)|[Spring事务管理](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/Spring%E6%9C%BA%E5%88%B6--%E4%BA%8B%E5%8A%A1.md)|
 ---|---|---|---|
 
-[Bean的加载过程](https://www.jianshu.com/p/77c9daef5572)|[spring中bean的创建流程，三级缓存、循环依赖问题](https://www.jianshu.com/p/cf98875fbc46)|[Spring IOC详解及Bean生命周期详细过程，看完直接吊打面试官！](https://www.jianshu.com/p/6f7a82d869e7)|
----|---|---|
+[Bean的加载过程](https://www.jianshu.com/p/77c9daef5572)|[spring中bean的创建流程，三级缓存、循环依赖问题](https://www.jianshu.com/p/cf98875fbc46)|
+---|---|
 
 [Spring框架和组件](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/Spring%E6%A1%86%E6%9E%B6%E5%92%8C%E7%BB%84%E4%BB%B6.md)|[Spring中机制和实现](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/spring%E6%9C%BA%E5%88%B6%E4%B8%8E%E5%AE%9E%E7%8E%B0.md)|[spring应用相关](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring基础知识/spring应用相关.md)|[Spring中bean的生命周期](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring基础知识/context上下文和bean.md)|[Spring扩展接口](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring基础知识/Spring扩展接口.md)|
 ---|---|---|---|---|
