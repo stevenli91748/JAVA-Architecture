@@ -13,8 +13,11 @@
 [ Spring 例子程序](https://github.com/stevenli91748/JAVA-Architecture/tree/master/JAVA%20Framework/Spring/Spring%20%E4%BE%8B%E5%AD%90%E7%A8%8B%E5%BA%8F)|[Spring SpringBoot SpringCloud技术一览](https://zhuanlan.zhihu.com/p/267654014?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)|[bugstack虫洞栈---非常好](https://bugstack.cn/itstack/itstack-demo-design.html)|
 ---|---|---|
 
-[深入学习Spring组件注册](https://mrbird.cc/Spring-Bean-Regist.html)|[深入学习Spring Bean生命周期](https://mrbird.cc/Spring-Bean-Lifecycle.html)|[深入理解Spring BeanPostProcessor & InstantiationAwareBeanPostProcessor](https://mrbird.cc/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Spring-BeanPostProcessor-InstantiationAwareBeanPostProcessor.html)|
----|---|---|
+[深入学习Spring组件注册](https://mrbird.cc/Spring-Bean-Regist.html)|[深入学习Spring Bean生命周期](https://mrbird.cc/Spring-Bean-Lifecycle.html)|
+---|---|
+
+[深入理解Spring BeanPostProcessor & InstantiationAwareBeanPostProcessor](https://mrbird.cc/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Spring-BeanPostProcessor-InstantiationAwareBeanPostProcessor.html)|
+---|
 
 [深入理解BeanFactoryPostProcessor & BeanDefinitionRegistryPostProcessor](https://mrbird.cc/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3BeanFactoryPostProcessor-BeanDefinitionRegistryPostProcessor.html)|[深入理解Spring循环依赖](https://mrbird.cc/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Spring%E5%BE%AA%E7%8E%AF%E4%BE%9D%E8%B5%96.html)|
 ---|---|
