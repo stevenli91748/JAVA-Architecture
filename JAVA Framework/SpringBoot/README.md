@@ -158,7 +158,7 @@
 * [8. 缓存管理](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E7%BC%93%E5%AD%98%E7%AE%A1%E7%90%86/README.md)
 * [9. 消息服务](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E6%B6%88%E6%81%AF%E6%9C%8D%E5%8A%A1/README.md)
 *  RPC 开发
-*  [RESTFul接口实现与测试](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E5%8F%82%E6%95%B0%E6%A0%A1%E9%AA%8C.md)
+*  [RESTFul接口实现与测试](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/RESTful%20API/RESTful%20API.md)
 *  静态资源与模板引擎的整合
 *  [异步任务与定时任务](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%BC%82%E6%AD%A5%E4%BB%BB%E5%8A%A1%E4%B8%8E%E5%AE%9A%E6%97%B6%E4%BB%BB%E5%8A%A1/README.md)
 *  统一全局异常处理
@@ -558,21 +558,10 @@ Spring Boot 并不是用来替代 Spring 的解决方案，而是和 Spring 框�
 
 * [springboot2.3手册：多租户及自动创建数据，这样做](https://www.toutiao.com/a6871807445329510924/)
 
-
-
-
-
-
-
 # spring boot 项目中的pom.xml文件的配置
 * [spring-boot-dependencies、spring-boot-starter-parent、io.spring.platform详解](https://www.cnblogs.com/ld-mars/p/11720444.html)
 
-
-
 # Trouble shooting
-
-
-
 
 * [idea中maven依赖爆红的排查步骤](https://blog.csdn.net/weixin_41989775/article/details/89457798?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.control&dist_request_id=1328603.6240.16148916110635743&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.control)
 
