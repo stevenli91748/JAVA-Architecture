@@ -18,6 +18,16 @@ AOP动态代理|AOP静态代理|
 [spring-aop]("面向切面编程")|[spring-aspects]("集成AspectJ")|[spring-instrument]("提供一些类级的工具支持和ClassLoader级的实现，用于服务器")|[spring-instrument-tomcat]("针对tomcat的instrument实现包含了spring的tomcat设备代理它们的完整依赖关系")|
 ---|---|---|---|
 
+
+[一文读懂 AOP --- 你想要的最全面 AOP 方法探讨](https://www.jianshu.com/p/0799aa19ada1)|[spring专题系列之AOP的理解和分析](https://www.jianshu.com/p/41e9d1c494e4)|
+---|---|
+
+[一文应用 AOP  最全选型考量 + 边剖析经典开源库边实践](https://www.jianshu.com/p/42ce95450adb)|[springboot + aop的最佳实践](https://juejin.cn/post/6844904105819783175)|
+---|---|
+
+[Spring AOP 编写流程整理](https://www.huaweicloud.com/articles/13636519.html)|[使用spring AOP管理权限时拦截位置的困扰](https://www.jdon.com/27858)|
+---|---|
+
 [《包你懂系列》让我们来揭开 AOP 和动态代理技术的神秘面纱](https://juejin.im/post/5ed723606fb9a047a07f2ec2)|[面试被问了几百遍的 IoC 和 AOP ，还在傻傻搞不清楚](https://juejin.im/post/5ecf62ee51882542ef4f851f)|
 ---|--|
 
