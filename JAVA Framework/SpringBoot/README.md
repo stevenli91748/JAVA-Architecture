@@ -51,8 +51,11 @@
 
 # 项目实战教学
 
-[项目实战例子](https://github.com/stevenli91748/JAVA-Architecture/tree/master/JAVA%20Framework/SpringBoot/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98#readme)|[SpringBoot实战开发---SpringBoot如何和各项技术整合 好评如潮 58集](https://www.youtube.com/watch?v=DU6ApMNDtWo&list=PLwDQt7s1o9J4AgZVM0hdtNpWiyrKIMHOx&index=1)|
----|---|
+[项目实战例子](https://github.com/stevenli91748/JAVA-Architecture/tree/master/JAVA%20Framework/SpringBoot/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98#readme)|
+---|
+
+[SpringBoot实战开发---SpringBoot如何和各项技术整合 好评如潮 58集](https://www.youtube.com/watch?v=DU6ApMNDtWo&list=PLwDQt7s1o9J4AgZVM0hdtNpWiyrKIMHOx&index=1)|
+---|
 
 [【项目实战】Spring Security-JWT-OAuth2一本通(基于SpringBoot2.0)](https://www.kancloud.cn/hanxt/springsecurity/1472507)|[【项目实战】Spring Security-JWT-OAuth2一本通(基于SpringBoot2.0)视频](https://www.bilibili.com/video/BV16J41127jq)|
 ---|---|
