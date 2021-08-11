@@ -109,20 +109,20 @@
 # 目录
 * [0 SpringBoot 基础知识 核心知识](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/README.md)
 * [1 SpringBoot内部机制](#1-SpringBoot内部机制)
-  * [1a SpringBoot 基础配置](https://www.cnblogs.com/crazymakercircle/p/11706764.html)
+  * [1a SpringBoot 配置开发环境](https://www.cnblogs.com/crazymakercircle/p/11706764.html)
   * [1b SpringBoot配置文件](#1b-SpringBoot配置文件)
   * [1c SpringBoot内存](#1c-SpringBoot内存)
   * [1d SpringBoot Bean](#1d-SpringBoot-Bean)
     
 * [2 工程配置](#2-工程配置)
-  * [Spring Boot 框架配置分类]()
+  * Spring Boot 框架配置分类
     * [第一阶段：XML配置，在Spring1.x时代，使用Spring开发满眼都是xml配置的Bean，随着项目的扩大，我们需要把xml配置文件分放到不同的配置文件里，那时候需要频繁的在开发的类和配置文件之间切换](https://www.cnblogs.com/chiangchou/p/sunny-1.html)
     * [第二阶段：注解配置，在Spring2.x时代，Spring提供声明Bean的注解，大大减少了配置量。应用的基本配置用xml，业务配置用注解](https://www.cnblogs.com/chiangchou/p/sunny-1.html)
     * [第三阶段：Java配置，从Spring3.x到现在，Spring提供了Java配置，使用Java配置可以让你更理解你所配置的Bean](http://springboot.javaboy.org/2019/0528/javassm) 
   * [热部署](#2a-热部署)
   * 嵌入式容器的配置与应用
     * [Tomcat](#2b-Tomcat)
-  * Spring Boot的各种配置
+  * Spring Boot的各种整合配置
     * [spring boot2 + dubbo + zookeeper 搭建微服务框架](https://www.pianshen.com/article/8697367836/)
     * [Spring Boot2（完整的SSM）与Dubbo的集成](https://www.pianshen.com/article/960369232/)
     * [Spring Boot2集成JPA](https://www.pianshen.com/article/1114121725/)
@@ -169,13 +169,6 @@
 
 ---
 
-* [Spring Boot 2.0 新特性（二）：新增事件ApplicationStartedEvent](http://blog.didispace.com/Spring-Boot-2-0-feature-2-ApplicationStartedEvent/)
-* [SpringBoot 中 @SpringBootApplication注解背后的三体结构探秘](http://www.codesheep.cn/2018/07/30/at-SpringBootApplication-zhujie/)
-* [SpringBoot 应用程序启动过程探秘](http://www.codesheep.cn/2018/09/04/springboot-startup-process/)
-* [如何自制一个Spring Boot Starter并推送到远端公服](https://www.codesheep.cn/2019/01/24/springbt-starter/)
-* [使用Spring StateMachine框架实现状态机](http://blog.didispace.com/spring-statemachine/)
-* [Spring Boot应用的后台运行配置](http://blog.didispace.com/spring-boot-run-backend/)
-* [Spring Boot自定义Banner](http://blog.didispace.com/spring-boot-banner/)
 
 ## 1b SpringBoot配置文件
 * [Spring Boot 配置加载顺序详解](https://mp.weixin.qq.com/s/tFrRMM25LVE_2AG23lK5qQ)
@@ -516,6 +509,17 @@ Spring Boot 并不是用来替代 Spring 的解决方案，而是和 Spring 框�
 * [SpringBoot 创建定时任务（配合数据库动态执行）](https://www.jianshu.com/p/fd863dc561b3)
 * [Springboot项目配置https](https://www.jianshu.com/p/3e1b4695bf77)
 * [java - Spring Boot不运行单元测试](https://www.coder.work/article/1803608)
+* [Spring Boot 2.0 新特性（二）：新增事件ApplicationStartedEvent](http://blog.didispace.com/Spring-Boot-2-0-feature-2-ApplicationStartedEvent/)
+* [SpringBoot 中 @SpringBootApplication注解背后的三体结构探秘](http://www.codesheep.cn/2018/07/30/at-SpringBootApplication-zhujie/)
+* [SpringBoot 应用程序启动过程探秘](http://www.codesheep.cn/2018/09/04/springboot-startup-process/)
+* [如何自制一个Spring Boot Starter并推送到远端公服](https://www.codesheep.cn/2019/01/24/springbt-starter/)
+* [使用Spring StateMachine框架实现状态机](http://blog.didispace.com/spring-statemachine/)
+* [Spring Boot应用的后台运行配置](http://blog.didispace.com/spring-boot-run-backend/)
+* [Spring Boot自定义Banner](http://blog.didispace.com/spring-boot-banner/)
+
+
+
+
 
 # springboot2.2.X手册
 * [springboot2.2.X手册：Eureka不更，Consul被禁，启用Nacos](https://www.toutiao.com/a6837774825470034443/)
@@ -556,6 +560,9 @@ Spring Boot 并不是用来替代 Spring 的解决方案，而是和 Spring 框�
 * [idea中maven项目遇到pom文件jar包不能下载解决方式](https://blog.csdn.net/duyuanhai/article/details/80511190?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.control&dist_request_id=1328603.37624.16150676963914223&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.control)
 
 * [idea 无法下载依赖包的问题](https://blog.csdn.net/weixin_39209728/article/details/90637258?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.control&dist_request_id=&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.control)
+
+
+
 
 
 # 
