@@ -16,7 +16,7 @@
 [Spring Boot API Project Seed 是一个基于Spring Boot & MyBatis的种子项目，用于快速构建中小型API、RESTful API项目](https://github.com/lihengming/spring-boot-api-project-seed)|
 ---|
 
-[SpringBoot-Labs---一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库](https://github.com/YunaiV/SpringBoot-Labs)|
+[《芋道 SpringBoot-Labs---一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库](https://github.com/YunaiV/SpringBoot-Labs)|
 ---|
 
 [学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2](https://github.com/wuyouzhuguli/SpringAll)|
@@ -47,6 +47,7 @@
 ---
 
 # 项目实战教学
+
 [手摸手教你学spring boot 2.x](https://www.kancloud.cn/hanxt/springboot2/1492077)|
 ---|
 
@@ -61,9 +62,6 @@
 
 [SpringBoot实战开发---SpringBoot如何和各项技术整合 好评如潮 58集](https://www.youtube.com/watch?v=DU6ApMNDtWo&list=PLwDQt7s1o9J4AgZVM0hdtNpWiyrKIMHOx&index=1)|
 ---|
-
----
-
 
 #### [Github Java Topic排行榜第九排名的项目]()
   * [【项目实战】MMall电商系统,包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署](https://github.com/stevenli91748/mall)
