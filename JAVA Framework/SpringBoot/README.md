@@ -3,10 +3,12 @@
 
 <a href="https://ibb.co/2YkyBM6"><img src="https://i.ibb.co/FqDKtYW/spring-boot-v2-5ef5f719b1c3a169a948430159d940a5-r.jpg" alt="spring-boot-v2-5ef5f719b1c3a169a948430159d940a5-r" border="0"></a>
 
-# 学习示例
+
 
 [Spring Boot常用注解](https://www.pianshen.com/article/8357683291/)|
 ---|
+
+# 学习示例
 
 [Spring Boot 学习示例---spring-boot-examples](https://github.com/ityouknow/spring-boot-examples)|[spring-boot-demo---一个用来深度学习并实战 spring boot 的项目](https://github.com/xkcoding/spring-boot-demo)|
 ---|----|
@@ -22,7 +24,7 @@
 
 ---
 
-# 学习博客
+# 优秀学习博客
 
 [程序猿DD---非常好](http://blog.didispace.com/)|[ 芋道源码------非常好](http://www.iocoder.cn/)|[猿码架构](https://www.jianshu.com/u/657c611b2e07)|[周立的博客](http://itmuch.com/)|[My bird](https://mrbird.cc/archives/)|[纯洁的微笑---Spring Boot](http://www.ityouknow.com/spring-boot.html)|[木九天](https://my.oschina.net/mdxlcj?tab=newest&catalogId=5781789)|
 ---|---|---|---|---|---|---|
@@ -30,8 +32,8 @@
 [ITNEXT---software developers, engineers, IT architects and system engineers to share knowledge, connect 付费](https://itnext.io/)|[vinsguru](https://www.vinsguru.com/topics/)|
 ---|---|
 
-[bugstack虫洞栈---非常好](https://bugstack.cn/itstack/itstack-demo-design.html)|
----|
+[bugstack虫洞栈---非常好](https://bugstack.cn/itstack/itstack-demo-design.html)|[SpringBoot精选](https://www.jianshu.com/c/edd22b195bd9)|[精通 Spring Boot 42 讲---纯洁的微笑](https://github.com/ityouknow/spring-boot-leaning)|
+---|---|---|
 
 [精尽 Spring Boot 学习指南](http://svip.iocoder.cn/Spring-Boot/tutorials/)|[字母哥系列---springboot系列之02-需要了解的宏观知识点](http://www.zimug.com/java/spring/springboot%e7%b3%bb%e5%88%97%e4%b9%8b02-%e9%9c%80%e8%a6%81%e4%ba%86%e8%a7%a3%e7%9a%84%e5%ae%8f%e8%a7%82%e7%9f%a5%e8%af%86%e7%82%b9/.html)|[Spring SpringBoot SpringCloud技术一览](https://zhuanlan.zhihu.com/p/267654014?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)|
 ---|---|---|
@@ -39,9 +41,36 @@
 [Spring SpringMVC Spring Boot Spring cloud Spring cloud alibaba全家桶教程](https://www.kancloud.cn/king_om/ss_m/1941921)|
 ---|
 
-[Spring Boot 要怎么学？要学哪些东西？要不要先学 SSM?  很好的资源 ](https://blog.csdn.net/u012702547/article/details/104474467)|[Spring Boot 入门---很好的资源](http://springboot.javaboy.org/)|
+[泥瓦匠 - Springboot-learning-example](https://github.com/JeffLi1993/springboot-learning-example)|[Liaokailin - Spring Boot 实战教程](https://blog.csdn.net/liaokailin/category_5765237.html)|
 ---|---|
 
+---
+
+# 项目实战教学
+[手摸手教你学spring boot 2.x](https://www.kancloud.cn/hanxt/springboot2/1492077)|
+---|
+
+[【项目实战】Spring Security-JWT-OAuth2一本通(基于SpringBoot2.0)](https://www.kancloud.cn/hanxt/springsecurity/1472507)|[【项目实战】Spring Security-JWT-OAuth2一本通(基于SpringBoot2.0)视频](https://www.bilibili.com/video/BV16J41127jq)|
+---|---|
+
+[【项目实战】DongBB-前后端分离RBAC权限管理系统](https://www.kancloud.cn/hanxt/vue-spring/1528245)|[【项目实战】实战SpringCloud微服务从青铜到王者](https://www.kancloud.cn/hanxt/vue-spring/1719694)|[【项目实战】Spring Cloud 微服务权限系统搭建教程](https://www.kancloud.cn/mrbird/spring-cloud/1263679 "博客地址 https://mrbird.cc/archives/")|
+---|---|---|
+
+[【项目实战】微服务多租户系统后台管理系统---基于SpringBoot2.x、SpringCloud和SpringCloudAlibaba并采用前后端分离的企业级微服务多租户系统架构](https://gitee.com/zlt2000/microservices-platform)|
+---|
+
+[SpringBoot实战开发---SpringBoot如何和各项技术整合 好评如潮 58集](https://www.youtube.com/watch?v=DU6ApMNDtWo&list=PLwDQt7s1o9J4AgZVM0hdtNpWiyrKIMHOx&index=1)|
+---|
+
+---
+
+# 
+
+[五分钟实现外网访问你的本地web项目（Ngrok内外网穿透）](https://www.jianshu.com/p/8cb64d2607a0)|
+---|
+
+[Spring Boot 要怎么学？要学哪些东西？要不要先学 SSM?  很好的资源 ](https://blog.csdn.net/u012702547/article/details/104474467)|[Spring Boot 入门---很好的资源](http://springboot.javaboy.org/)|
+---|---|
 
 [SpringBoot与SpringCloud的版本对应详细版](https://blog.csdn.net/qq32933432/article/details/89375630)|[如何从官网查看SpringCloud各个版本对应最优的SpringBoot版本](https://blog.csdn.net/ywb201314/article/details/107444583?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromBaidu-1.not_use_machine_learn_pai&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromBaidu-1.not_use_machine_learn_pai)|
 ---|---|
@@ -52,37 +81,12 @@
 [SpringBoot: 后台接口文档 - 基于Swagger3](https://www.jianshu.com/p/c839e72ad1b2)|[springboot + aop的最佳实践](https://juejin.cn/post/6844904105819783175)|
 ---|---|
 
-[SpringBoot实战开发---SpringBoot如何和各项技术整合 好评如潮 58集](https://www.youtube.com/watch?v=DU6ApMNDtWo&list=PLwDQt7s1o9J4AgZVM0hdtNpWiyrKIMHOx&index=1)|
----|
-
----
-
-
-[手摸手教你学spring boot 2.x](https://www.kancloud.cn/hanxt/springboot2/1492077)|[Spring boot参考指南---从总体上对Spring Boot或Spring入门](https://www.jianshu.com/p/67a0e41dfe05)|
----|---|
-
-[Spring Security-JWT-OAuth2一本通(基于SpringBoot2.0)](https://www.kancloud.cn/hanxt/springsecurity/1472507)|[Spring Security-JWT-OAuth2一本通(基于SpringBoot2.0)视频](https://www.bilibili.com/video/BV16J41127jq)|
----|---|
-
-[【项目实战】DongBB-前后端分离RBAC权限管理系统](https://www.kancloud.cn/hanxt/vue-spring/1528245)|[【项目实战】实战SpringCloud微服务从青铜到王者](https://www.kancloud.cn/hanxt/vue-spring/1719694)|[【项目实战】Spring Cloud 微服务权限系统搭建教程](https://www.kancloud.cn/mrbird/spring-cloud/1263679 "博客地址 https://mrbird.cc/archives/")|
----|---|---|
-
-[【项目实战】微服务多租户系统后台管理系统---基于SpringBoot2.x、SpringCloud和SpringCloudAlibaba并采用前后端分离的企业级微服务多租户系统架构](https://gitee.com/zlt2000/microservices-platform)|
----|
-
-[精通 Spring Boot 42 讲---纯洁的微笑](https://github.com/ityouknow/spring-boot-leaning)|[五分钟实现外网访问你的本地web项目（Ngrok内外网穿透）](https://www.jianshu.com/p/8cb64d2607a0)|
----|---|
-
 
 [Spring Boot DTO示例：实体到DTO的转换](https://www.jdon.com/55804)|[SpringBoot+CQRS微服务设计模式教程 ](https://www.jdon.com/55380)|[使用Spring实现访问主从数据库的读写和只读事务/事物的分离路由](https://www.jdon.com/54429)|
 ---|---|---|
 
 [微服务框架：如果不用Spring Boot，还可以选择谁](https://www.kubernetes.org.cn/9526.html)|
 ---|
-
----
-
-
 
 #### [Github Java Topic排行榜第九排名的项目]()
   * [【项目实战】MMall电商系统,包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署](https://github.com/stevenli91748/mall)
@@ -101,10 +105,11 @@
   * [最全面微服务教程：SpringBoot + DDD + Apache Kafka实现最终一致性(1) 英文版](https://itnext.io/eventual-consistency-with-spring-for-apache-kafka-cfbbed450b5e)
   * [最全面微服务教程: SpringBoot + DDD + Apache Kafka实现最终一致性(2)：在Kubernetes与Istio运维微服务](https://www.jdon.com/56429)
   * [最全面微服务教程: SpringBoot + DDD + Apache Kafka实现最终一致性(2)：在Kubernetes与Istio运维微服务 英文版](https://itnext.io/eventual-consistency-with-spring-for-apache-kafka-part-2-of-2-23bedd512ccf)
-   
      
 #### [SpringBoot 中间件设计和开发项目实战 重要 ](https://juejin.cn/book/6940996508632219689)
+
 #### [SpringBoot技术栈搭建个人博客【后台开发】](https://www.jianshu.com/p/91c6c9fc67c4)
+
 #### 13个值得学习和练手的java企业级开源项目!
   * [1. JeeSite---JeeSite 是一个 Java EE 企业级快速开发平台，基于经典技术组合（Spring Boot、Spring MVC、Apache Shiro、MyBatis、Beetl、Bootstrap、AdminLTE）采用经典开发模式，让初学者能够更快的入门并投入到团队开发中去 ](https://github.com/thinkgem/jeesite "在线代码生成功能，包括核心模块如：组织机构、角色用户、菜单及按钮授权、数据权限、系统参数、内容管理、工作流等。采用松耦合设计；界面无刷新，一键换肤；众多账号安全设置，密码策略；在线定时任务配置；支持集群，支持SAAS；支持多数据源；支持微服务")
   * [2. XMall商城---一个基于SOA架构的分布式电商购物商城，并且前后端分离 是初学者练手的不错的项目](https://github.com/Exrick/xmall "项目所用技术栈：SSM、Elasticsearch、Redis、MySQL、ActiveMQ、Shiro、Dubbo、Zookeeper、Vue.js ")
@@ -121,6 +126,7 @@
 这个项目与其说是一个开源项目，倒不如说是一些具体秒杀问题里面的案例集合,秒杀系统基本设计思想无非也就是：限流、缓存、异步、分摊、主备，其实某一程度上来说就是开源+节流的思想,所以通过它应该能学到一些比CRUD高级一些的技术，诸如：线程池、锁、分布式锁、消息队列（kafka）、缓存（redis） 等等")
   * [13. roncoo-pay---支付类项目](https://gitee.com/roncoocom/roncoo-pay "支付系统嘛，集成了主流支付方式、支付平台等，除此之外它还有些额外的管理功能，比如对账、结算、交易订单的管理等等，所以也有后台管理的,该项目的技术栈也是后端的主流技术，包括：Spring Boot、Shiro、MyBatis、Redis等。开源的支付类项目平时见得可能也不多，它也是一个偏业务类型的开源项目。毕竟开源项目很少有业务强相关的，开源出来的东西，业务一般都剥离出去了。该项目涉及了一些和支付相关的业务流程，包括：支付流程、对账流程、结算流程等等。")
 
+---
 
 # 目录
 * [0 SpringBoot 基础知识 核心知识](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/README.md)
@@ -135,8 +141,8 @@
     * [第一阶段：XML配置，在Spring1.x时代，使用Spring开发满眼都是xml配置的Bean，随着项目的扩大，我们需要把xml配置文件分放到不同的配置文件里，那时候需要频繁的在开发的类和配置文件之间切换](https://www.cnblogs.com/chiangchou/p/sunny-1.html)
     * [第二阶段：注解配置，在Spring2.x时代，Spring提供声明Bean的注解，大大减少了配置量。应用的基本配置用xml，业务配置用注解](https://www.cnblogs.com/chiangchou/p/sunny-1.html)
     * [第三阶段：Java配置，从Spring3.x到现在，Spring提供了Java配置，使用Java配置可以让你更理解你所配置的Bean](http://springboot.javaboy.org/2019/0528/javassm) 
-  * [2a 热部署](#2a-热部署)
-  * 2b 嵌入式容器的配置与应用
+  * [热部署](#2a-热部署)
+  * 嵌入式容器的配置与应用
     * [Tomcat](#2b-Tomcat)
   * Spring Boot的各种配置
     * [spring boot2 + dubbo + zookeeper 搭建微服务框架](https://www.pianshen.com/article/8697367836/)
