@@ -131,8 +131,9 @@
     * [spring boot集成swagger](https://www.pianshen.com/article/6672172411/)
     * [spring boot 集成quartz集群](https://www.pianshen.com/article/96821505859/)
 * [3 Web开发](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/Web%E5%BC%80%E5%8F%91/README.md)
-  * [3a HTTP客户端库](#3a-HTTP客户端库)
+  * [3a RESTFul API构建](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/RESTful%20API/RESTful%20API.md)
   * [3b Dubbo进行服务治理](#3b-Dubbo进行服务治理)
+  * [3c HTTP客户端库](#3c-HTTP客户端库)
 * [4 数据库訪问](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%A8%AA%E9%97%AE/README.md)
 * [5 事务管理](https://github.com/stevenli91748/JAVA-Architecture/tree/master/JAVA%20Framework/SpringBoot/%E4%BA%8B%E5%8A%A1%E7%AE%A1%E7%90%86)
 * [6 日志管理](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E6%97%A5%E5%BF%97%E7%AE%A1%E7%90%86/README.md)
@@ -250,9 +251,6 @@
 
 
 # 3 Web开发
-  * [3a RESTFul API构建](#3a-RESTFulAPI构建)
-  * [3b Dubbo进行服务治理](#3b-Dubbo进行服务治理)
-  * [3c HTTP客户端库](#3c-HTTP客户端库)
 
 ---
 
@@ -264,18 +262,6 @@
 * [扩展XML请求和响应的支持](http://blog.didispace.com/spring-boot-xml-httpmessageconverter)
 * [使用 ECharts 绘制各种华丽的数据图表](http://blog.didispace.com/spring-boot-learning-21-4-2/)
 
-## 3a RESTFulAPI构建
-* [SpringBoot如何优雅的校验参数](https://zhuanlan.zhihu.com/p/97555913?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
-* [SpringBoot：如何优雅地进行参数传递、响应数据封装、异常处理？](https://www.jianshu.com/p/b7f881bd940c)
-* [构建一个较为复杂的RESTful API以及单元测试](http://blog.didispace.com/springbootrestfulapi/)
-* [使用Swagger2构建RESTful API](http://blog.didispace.com/springbootswagger2/)
-* [JSR-303实现请求参数校验](http://blog.didispace.com/spring-boot-learning-21-2-3/)
-* [Swagger接口分类与各元素排序问题详解](http://blog.didispace.com/spring-boot-learning-21-2-4/)
-* [Swagger静态文档的生成](http://blog.didispace.com/spring-boot-learning-21-2-5/)
-* [为什么启动时候API路径都没了？](http://blog.didispace.com/spring-boot-learning-21-2-6/)
-* [使用SpringFox 3生成Swagger文档](http://blog.didispace.com/spring-boot-learning-21-2-7/)
-* [Spring Boot中使用Swagger2构建强大的RESTful API文档](http://blog.didispace.com/springbootswagger2/)
-* [自制的spring-boot-starter-swagger](https://github.com/SpringForAll/spring-boot-starter-swagger)
 
 ## 3b Dubbo进行服务治理
 
