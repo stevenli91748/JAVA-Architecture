@@ -55,3 +55,4 @@ AOP的实现是通过代理模式，在调用对象的某个方法时，执行�
 * [SpringAOP面向切面编程](https://www.cnblogs.com/SimpleWu/p/9652700.html)
 * [Spring AOP无法拦截内部方法调用](https://www.jianshu.com/p/6534945eb3b5)
 * [Spring---AOP](https://www.jianshu.com/p/a0101e7cc649)
+* [深入理解Spring AOP原理](https://mrbird.cc/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Spring-AOP%E5%8E%9F%E7%90%86.html)
