@@ -56,6 +56,11 @@
 | [设计模式---接口设计原则之分离原则详解](https://www.jianshu.com/p/fe1e778b4f52)|||
 | [SpringBoot后端接口的实现(看这一篇就够了)](https://www.jb51.net/article/196404.htm)||
 |[【从零入门系列-4】Spring Boot 之 WEB接口设计实现](https://segmentfault.com/a/1190000019191020)||
+| [谁要是再敢用Map传参，我过去就是一JIO](https://www.bilibili.com/read/cv5441884)||
+| [啥？听说你还在手写复杂的API 参数校验？](https://www.bilibili.com/read/cv4308221)||
+| [【项目实践】SpringBoot三招组合拳，手把手教你打出优雅的后端接口,一步一步演示如何构建起一个优秀的后端接口体系](https://www.jianshu.com/p/b5b8613769db)||
+| [如何优雅设计 API 接口，实现统一格式返回？](https://www.jianshu.com/p/90bac4eda34a)||
+
 | **第二部分 API网关 篇** | [无代码] | 
 | :--- | :---: | 
 |[这样讲 API 网关，你应该能明白了吧](https://zhuanlan.zhihu.com/p/90433496)||
