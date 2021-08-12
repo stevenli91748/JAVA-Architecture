@@ -22,8 +22,8 @@ AOP动态代理|AOP静态代理|
 [小马哥讲Spring核心编程思想---在硬盘](https://time.geekbang.org/course/intro/100042601)|[小马哥讲Spring AOP编程思想---在硬盘](https://time.geekbang.org/course/intro/100066301)|
 ---|---|
 
-[一文读懂 AOP --- 你想要的最全面 AOP 方法探讨](https://www.jianshu.com/p/0799aa19ada1)|[spring专题系列之AOP的理解和分析](https://www.jianshu.com/p/41e9d1c494e4)|
----|---|
+[一文读懂 AOP --- 你想要的最全面 AOP 方法探讨](https://www.jianshu.com/p/0799aa19ada1)|[spring专题系列之AOP的理解和分析](https://www.jianshu.com/p/41e9d1c494e4)|[Spring-AOP-基于注解的AOP通知执行顺序](https://www.cnblogs.com/orzjiangxiaoyu/p/13869747.html)|
+---|---|---|
 
 [一文应用 AOP  最全选型考量 + 边剖析经典开源库边实践](https://www.jianshu.com/p/42ce95450adb)|[springboot + aop的最佳实践](https://juejin.cn/post/6844904105819783175)|
 ---|---|
