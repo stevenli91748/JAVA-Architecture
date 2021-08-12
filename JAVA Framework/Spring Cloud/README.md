@@ -18,6 +18,9 @@
 [老炮说JAVA---SPring Cloud篇 非常好](https://www.laopaojava.com/)|[基于SpringCloud微服务系统设计,5万字总结](https://segmentfault.com/a/1190000039889988)|[bugstack虫洞栈---非常好](https://bugstack.cn/itstack/itstack-demo-design.html)|
 ----|---|---|
 
+[小马哥的技术博客](https://mercyblitz.github.io/)|
+---|
+
 [Spring Cloud学习示例代码 ---Spring Cloud Examples](https://github.com/ityouknow/spring-cloud-examples)|
 ---|
 
