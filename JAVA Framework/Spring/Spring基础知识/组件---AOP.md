@@ -19,6 +19,9 @@ AOP动态代理|AOP静态代理|
 ---|---|---|---|
 
 
+[小马哥讲Spring核心编程思想](https://time.geekbang.org/course/intro/100042601)|[小马哥讲Spring AOP编程思想](https://time.geekbang.org/course/intro/100066301)|
+---|---|
+
 [一文读懂 AOP --- 你想要的最全面 AOP 方法探讨](https://www.jianshu.com/p/0799aa19ada1)|[spring专题系列之AOP的理解和分析](https://www.jianshu.com/p/41e9d1c494e4)|
 ---|---|
 
