@@ -10,8 +10,15 @@
 [Spring 常用注解](https://www.pianshen.com/article/56151732739/)|
 ---|
 
-[ Spring 例子程序](https://github.com/stevenli91748/JAVA-Architecture/tree/master/JAVA%20Framework/Spring/Spring%20%E4%BE%8B%E5%AD%90%E7%A8%8B%E5%BA%8F)|[Spring SpringBoot SpringCloud技术一览](https://zhuanlan.zhihu.com/p/267654014?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)|[bugstack虫洞栈---非常好](https://bugstack.cn/itstack/itstack-demo-design.html)|
----|---|---|
+[ Spring 例子程序](https://github.com/stevenli91748/JAVA-Architecture/tree/master/JAVA%20Framework/Spring/Spring%20%E4%BE%8B%E5%AD%90%E7%A8%8B%E5%BA%8F)|[Spring SpringBoot SpringCloud技术一览](https://zhuanlan.zhihu.com/p/267654014?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)|
+---|---|
+
+# 博客
+[小马哥的技术博客](https://mercyblitz.github.io/)|[bugstack虫洞栈---非常好](https://bugstack.cn/itstack/itstack-demo-design.html)|
+---|---|
+
+---
+
 
 [深入学习Spring组件注册](https://mrbird.cc/Spring-Bean-Regist.html)|[深入学习Spring Bean生命周期](https://mrbird.cc/Spring-Bean-Lifecycle.html)|
 ---|---|
