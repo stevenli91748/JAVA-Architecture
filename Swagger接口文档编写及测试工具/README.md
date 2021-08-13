@@ -6,6 +6,10 @@
 [还在手动整合Swagger？Swagger官方Starter是真的香](https://www.jianshu.com/p/cb6a3e456427)|[前后端都分离了，该搞个好用的API管理系统了！](https://mp.weixin.qq.com/s/Ahs6fnIfFVVPOn3NZpIsNA)|
 ---|---|
 
+[SpringBoot: 后台接口文档 - 基于Swagger3](https://www.jianshu.com/p/c839e72ad1b2)|
+---|
+
+
 # 接口
 
 Swagger|
