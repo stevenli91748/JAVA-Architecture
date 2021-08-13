@@ -125,114 +125,54 @@
     * [Tomcat](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%B7%A5%E7%A8%8B%E9%85%8D%E7%BD%AE/%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%AE%B9%E5%99%A8%E7%9A%84%E9%85%8D%E7%BD%AE%E4%B8%8E%E5%BA%94%E7%94%A8/Tomcat.md)
   * [Spring Boot的各种工程整合配置](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%B7%A5%E7%A8%8B%E9%85%8D%E7%BD%AE/Spring%20Boot%E7%9A%84%E5%90%84%E7%A7%8D%E6%95%B4%E5%90%88%E9%A1%B9%E7%9B%AE%E9%85%8D%E7%BD%AE/README.md)
 * [3 Web开发](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/Web%E5%BC%80%E5%8F%91/README.md)
-  * [3a RESTFul API构建](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/RESTful%20API/RESTful%20API.md)
-  * [3b Dubbo进行服务治理](#3b-Dubbo进行服务治理)
-  * [3c HTTP客户端库](#3c-HTTP客户端库)
+  * [RESTFul API构建](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/RESTful%20API/RESTful%20API.md)
+  * [HTTP客户端库](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/Web%E5%BC%80%E5%8F%91/HTTP%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%BA%93/README.md)
+  * [静态资源与模板引擎的整合](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/Web%E5%BC%80%E5%8F%91/%E9%9D%99%E6%80%81%E8%B5%84%E6%BA%90%E4%B8%8E%E6%A8%A1%E6%9D%BF%E5%BC%95%E6%93%8E%E7%9A%84%E6%95%B4%E5%90%88/README.md)
 * [4 数据库訪问](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%A8%AA%E9%97%AE/README.md)
 * [5 事务管理](https://github.com/stevenli91748/JAVA-Architecture/tree/master/JAVA%20Framework/SpringBoot/%E4%BA%8B%E5%8A%A1%E7%AE%A1%E7%90%86)
 * [6 日志管理](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E6%97%A5%E5%BF%97%E7%AE%A1%E7%90%86/README.md)
 * [7 安全管理](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%AE%89%E5%85%A8%E7%AE%A1%E7%90%86/README.md)
 * [8 缓存管理](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E7%BC%93%E5%AD%98%E7%AE%A1%E7%90%86/README.md)
 * [9 消息服务](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E6%B6%88%E6%81%AF%E6%9C%8D%E5%8A%A1/README.md)
-* [10 RPC 开发](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/spring%20boot%E7%9A%84RPC%20%E5%BC%80%E5%8F%91/README.md)
+* [10 SpringBoot RPC 开发](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/spring%20boot%E7%9A%84RPC%20%E5%BC%80%E5%8F%91/README.md)
 * [11 RESTFul接口实现与测试](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/RESTful%20API/RESTful%20API.md)
-* [12 静态资源与模板引擎的整合](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E9%9D%99%E6%80%81%E8%B5%84%E6%BA%90%E4%B8%8E%E6%A8%A1%E6%9D%BF%E5%BC%95%E6%93%8E%E7%9A%84%E6%95%B4%E5%90%88/README.md)
-* 
+* [12 SpringBoot 微服务](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%20%E5%BE%AE%E6%9C%8D%E5%8A%A1/README.md)
 * [14 统一全局异常处理](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E7%BB%9F%E4%B8%80%E5%85%A8%E5%B1%80%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86/README.md)
 * 15 整合分布式文件系统
 * [16 服务器推送技术](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%8E%A8%E9%80%81%E6%8A%80%E6%9C%AF/README.md)
 * [17 邮件发送的整合与使用](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E9%82%AE%E4%BB%B6%E5%8F%91%E9%80%81%E7%9A%84%E6%95%B4%E5%90%88%E4%B8%8E%E4%BD%BF%E7%94%A8/README.md)
 * [18 分布式应用开发](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%88%86%E5%B8%83%E5%BC%8F%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91/README.md)
-  * [Spirng Boot with Docker](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%88%86%E5%B8%83%E5%BC%8F%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91/Springboot%20with%20Docker/README.md)
-  * [Spring Boot with Kubernetes](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%88%86%E5%B8%83%E5%BC%8F%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91/Spring%20Boot%20with%20Kubernetes/README.md)
+  * [Spirng Boot分布式应用开发 with Docker](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%88%86%E5%B8%83%E5%BC%8F%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91/Springboot%20with%20Docker/README.md)
+  * [Spring Boot分布式应用开发 with Kubernetes](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%88%86%E5%B8%83%E5%BC%8F%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91/Spring%20Boot%20with%20Kubernetes/README.md)
 * [19 响应式框架webflux](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%93%8D%E5%BA%94%E5%BC%8F%E6%A1%86%E6%9E%B6webflux/README.md)
-* [20. 应用监控](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%BA%94%E7%94%A8%E7%9B%91%E6%8E%A7/README.md)
-* [21. 应用部署](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%BA%94%E7%94%A8%E9%83%A8%E7%BD%B2/README.md)
-* [22. 项目实战](https://github.com/stevenli91748/JAVA-Architecture/tree/master/JAVA%20Framework/SpringBoot/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98#readme)
+* [20 应用监控](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%BA%94%E7%94%A8%E7%9B%91%E6%8E%A7/README.md)
+* [21 应用部署](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%BA%94%E7%94%A8%E9%83%A8%E7%BD%B2/README.md)
+* [22 项目实战](https://github.com/stevenli91748/JAVA-Architecture/tree/master/JAVA%20Framework/SpringBoot/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98#readme)
 
 ---
 
-|[SpringBoot 在IDEA中实现热部署(实用版)](https://www.jianshu.com/p/f658fed35786)|[Intellij IDEA 4种配置热部署的方法](https://www.cnblogs.com/jcook/p/6910238.html)|
----|---|---|
-
-
-[springboot框架图解](https://blog.csdn.net/ycy0706/article/details/103778977?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522159142623819724811805234%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&request_id=159142623819724811805234&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v1~rank_ctr_v4-2-103778977.ecpm_v1_rank_ctr_v4&utm_term=springboot%E6%A0%B8%E5%BF%83%E6%A1%86%E6%9E%B6%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84)|[关于SpringBoot中的多数据源集成](https://www.bilibili.com/read/cv740636)|
----|---|
-
-
-
-[一文教你细数 SpringBoot 中的连接池](https://zhuanlan.zhihu.com/p/105118740)|
+|
 ---|
-
-[SpringBoot应用Docker化](https://www.codesheep.cn/2018/04/12/SpringBoot%E5%BA%94%E7%94%A8Docker%E5%8C%96/)|[Spring Boot应用监控实战](https://mp.weixin.qq.com/s?__biz=MzU4ODI1MjA3NQ==&mid=2247483771&idx=1&sn=7c5f103a816c16e453e04141d7433bf9&chksm=fdded7bfcaa95ea9a5dbe81114d32c1908bf8da0b3366bfbfcbe2473445cdba73c5e2060d5f3#rd)|[SpringBoot 中 @SpringBootApplication注解背后的三体结构探秘](https://www.codesheep.cn/2018/07/30/at-SpringBootApplication-zhujie/)|
----|---|---|
-
-
-
-
-# 3 Web开发
-
----
-
-* [使用Thymeleaf模板引擎渲染web视图](http://blog.didispace.com/springbootweb/)
-* [使用Freemarker模板引擎渲染web视图](http://blog.didispace.com/springbootweb/)
-* [使用Velocity模板引擎渲染web视图](http://blog.didispace.com/springbootweb/)
-* [统一异常处理](http://blog.didispace.com/springbootexception/)
-* [使用Java 8中LocalDate等时间日期类的问题解决](http://blog.didispace.com/Spring-Boot-And-Feign-Use-localdate/)
-* [扩展XML请求和响应的支持](http://blog.didispace.com/spring-boot-xml-httpmessageconverter)
-* [使用 ECharts 绘制各种华丽的数据图表](http://blog.didispace.com/spring-boot-learning-21-4-2/)
-
-
-## 3b Dubbo进行服务治理
-
-* [Spring Boot中使用Dubbo进行服务治理](https://gitee.com/didispace/SpringBoot-Learning/tree/master/Chapter9-2-1)
-* [Spring Boot与Dubbo中管理服务依赖](https://gitee.com/didispace/SpringBoot-Learning/tree/master/Chapter9-2-2)
-
-## 3c HTTP客户端库
-
-* [精讲RestTemplate](http://www.zimug.com/tag/resttemplate)
-* [精讲响应式webclient](http://www.zimug.com/java/spring/%e7%b2%be%e8%ae%b2%e5%93%8d%e5%ba%94%e5%bc%8fwebclient%e7%ac%ac1%e7%af%87-%e5%93%8d%e5%ba%94%e5%bc%8f%e9%9d%9e%e9%98%bb%e5%a1%9eio%e4%b8%8e%e5%9f%ba%e7%a1%80%e7%94%a8%e6%b3%95/.html)
-* [SpringBoot实现本地存储文件上传及提供HTTP访问服务](http://www.zimug.com/java/spring/springboot%e5%ae%9e%e7%8e%b0%e6%9c%ac%e5%9c%b0%e5%ad%98%e5%82%a8%e6%96%87%e4%bb%b6%e4%b8%8a%e4%bc%a0%e5%8f%8a%e6%8f%90%e4%be%9bhttp%e8%ae%bf%e9%97%ae%e6%9c%8d%e5%8a%a1/.html)
-
-## Springboot集成 MySql Mybatis
-
-* [SpringBoot集成Mysql、Mybatis、Mybatis-Plus，实现增删改查](https://www.jianshu.com/p/197155b76442)
-
-
-
-
-
-
-
 
 ---
 
 # 
-[SpringBoot注解](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot注解/README.md)|[springboot基本原理(知识点)](https://blog.csdn.net/z446981439/article/details/103822257)|[SpringBoot实现原理](https://blog.csdn.net/qq_38417983/article/details/81128299)|[Spring Boot要如何学习](https://www.zhihu.com/question/53729800/answer/311948415)|[参数校验](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E5%8F%82%E6%95%B0%E6%A0%A1%E9%AA%8C.md)|
----|---|---|---|---|
-
-[全局异常处理](https://www.jianshu.com/p/b5b8613769db)|[HttpMessageConverter的作用及替换---输入/输出数据格式和JAVA对象的转换](https://www.jianshu.com/p/333ed5ee958d)|
+[SpringBoot注解](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot注解/README.md)|||[参数校验](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E5%8F%82%E6%95%B0%E6%A0%A1%E9%AA%8C.md)|
 ---|---|
 
-[Springboot启动原理解析](https://zhuanlan.zhihu.com/p/60475611)|[基于Spring Boot项目构建流水线](https://www.bilibili.com/video/av90883375?from=search&seid=1134316332664179526)|[Idea 平台下实现 spring boot 项目 热部署](https://www.bilibili.com/video/av93414618?from=search&seid=1134316332664179526)|[Spring boot项目导入 环境配置](https://www.bilibili.com/video/av45976433?from=search&seid=1134316332664179526)|[如何创建Spring Boot项目脚手架](https://www.bilibili.com/video/av92630366?from=search&seid=1134316332664179526)|
----|---|---|---|---|
+|[HttpMessageConverter的作用及替换---输入/输出数据格式和JAVA对象的转换](https://www.jianshu.com/p/333ed5ee958d)|
+---|---|
 
-[Spring boot 项目打成war包部署到远程服务器tomcat](https://www.bilibili.com/video/av78310165?from=search&seid=1134316332664179526)|[六分钟演示SpringBoot部署到腾讯云绑定域名](https://www.bilibili.com/video/av59319568?from=search&seid=1976421999597493025)|[RESTfull API简单项目的快速搭建](https://www.bilibili.com/video/av13224378?from=search&seid=10786600269014143134)|
----|---|---|
+[基于Spring Boot项目构建流水线](https://www.bilibili.com/video/av90883375?from=search&seid=1134316332664179526)|[Idea 平台下实现 spring boot 项目 热部署](https://www.bilibili.com/video/av93414618?from=search&seid=1134316332664179526)|[Spring boot项目导入 环境配置](https://www.bilibili.com/video/av45976433?from=search&seid=1134316332664179526)|[如何创建Spring Boot项目脚手架](https://www.bilibili.com/video/av92630366?from=search&seid=1134316332664179526)|
+---|---|---|---|
 
-[SpringBoot布道系列](https://www.jianshu.com/p/964370d9374e)|[SpringBoot 使用线程池](https://crossoverjie.top/2018/07/29/java-senior/ThreadPool/)|[Netty(一) SpringBoot 整合长连接心跳机制](https://crossoverjie.top/2018/05/24/netty/Netty(1)TCP-Heartbeat/#SpringBoot-%E7%9B%91%E6%8E%A7)|
----|---|---|
+[Spring boot 项目打成war包部署到远程服务器tomcat](https://www.bilibili.com/video/av78310165?from=search&seid=1134316332664179526)|[六分钟演示SpringBoot部署到腾讯云绑定域名](https://www.bilibili.com/video/av59319568?from=search&seid=1976421999597493025)|
+---|---|
+
+[SpringBoot布道系列](https://www.jianshu.com/p/964370d9374e)|[Netty(一) SpringBoot 整合长连接心跳机制](https://crossoverjie.top/2018/05/24/netty/Netty(1)TCP-Heartbeat/#SpringBoot-%E7%9B%91%E6%8E%A7)|
+---|---|
 
 [还在手动部署SpringBoot应用？试试这个自动化插件！](https://juejin.im/post/6868060821927723021)|[SpringBoot生命周期管理之停掉应用服务几种方法](http://www.zimug.com/java/spring/springboot%e7%94%9f%e5%91%bd%e5%91%a8%e6%9c%9f%e7%ae%a1%e7%90%86%e4%b9%8b%e5%81%9c%e6%8e%89%e5%ba%94%e7%94%a8%e6%9c%8d%e5%8a%a1%e5%87%a0%e7%a7%8d%e6%96%b9%e6%b3%95/.html)|
----|---|
-
-[怎么在 Spring Boot 中使用 JDBC 连接 MySQL](https://juejin.im/post/5ed443eef265da76ed485423)|[SpringBoot+MyBatis+MySQL读写分离](https://zhuanlan.zhihu.com/p/54812239)|
----|---|
-
-[芋道 Spring Boot 数据库连接池入门](http://www.iocoder.cn/Spring-Boot/datasource-pool/?self)|[芋道 Spring Boot MyBatis 入门](http://www.iocoder.cn/Spring-Boot/MyBatis/?self)|[芋道 Spring Boot 多数据源（读写分离）入门](http://www.iocoder.cn/Spring-Boot/dynamic-datasource/?self)|
----|---|---|
-
-[芋道 Spring Boot 分库分表入门](http://www.iocoder.cn/Spring-Boot/sharding-datasource/?self)|[Spring Boot + MyBatis 如何优雅的实现数据库读写分离](https://www.zhihu.com/question/381631883/answer/1100642927?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=group3_Answer&utm_campaign=shareopn)|
 ---|---|
 
 
@@ -256,30 +196,7 @@
 * [想要快速上手 Spring Boot？看这些教程就足够了](https://blog.csdn.net/dgqvhtlwq472235338/article/details/101415016)
 * [使用Spring Boot+Dubbo+Zookeeper搭建第一个分布式项目(详细介绍如何搭建分布式项目，上篇)](https://blog.csdn.net/weixin_42146366/article/details/90268062)
 * [使用Spring Boot+Dubbo+Zookeeper搭建第一个分布式项目(详细介绍如何搭建分布式项目，下篇)](https://blog.csdn.net/weixin_42146366/article/details/90268555)
-
-* [分布式Restful SpringBoot骨架搭建](https://blog.csdn.net/songxinjianqwe/article/details/77478385)
 * [SpringBoot+SpringSession+Redis实现session共享及单点登录](https://blog.csdn.net/xjj1040249553/article/details/82658889)
-
-
-# 目录
-
- * [Spring Boot概述](#Spring-Boot概述)
- * [建立Spring Boot工程的几种方法](#建立SpringBoot工程的几种方法)
-
-
-### Spring Boot概述
-
-其优点是简化了 Spring 相关组件的配置，实现自动配置，降低了项目搭建的复杂度，使开发变得更加简便，从而提升开发效率。Spring Boot 本身并不提供 Spring 框架的核心特性以及扩展功能，只是用于快速、敏捷地开发新一代基于 Spring 框架的应用程序。
-
- 
-
-Spring Boot 并不是用来替代 Spring 的解决方案，而是和 Spring 框架紧密结合用于提升 Spring 开发者体验的工具。同时它集成了大量常用的第三方库配置，如 Jackson、JDBC、Mongo、Redis、Mail 等，Spring Boot 应用中这些第三方库几乎可以零配置的开箱即用（out-of-the-box），大部分的 Spring Boot 应用都只需要非常少量的配置代码，开发者能够更加专注于业务逻辑。
-
- 
-
-也就是说，Spring Boot 只是起到一个承载的作用，辅助你简化项目搭建的过程。如果承载的是 Web 项目，使用 Spring MVC 作为 MVC 框架，那么整个业务工作流程还是由 Spring MVC 来完成的，因此 Spring Boot 并不能替代 Spring MVC，它只是简化了 Spring MVC 的相关配置，Spring Boot 帮你完成了很多底层工作。
-
-
 
 
 
@@ -482,8 +399,8 @@ Spring Boot 并不是用来替代 Spring 的解决方案，而是和 Spring 框�
 ---|---|
 
 
-[Spring Boot DTO示例：实体到DTO的转换](https://www.jdon.com/55804)|[SpringBoot+CQRS微服务设计模式教程 ](https://www.jdon.com/55380)|[使用Spring实现访问主从数据库的读写和只读事务/事物的分离路由](https://www.jdon.com/54429)|
----|---|---|
+[Spring Boot DTO示例：实体到DTO的转换](https://www.jdon.com/55804)|[SpringBoot+CQRS微服务设计模式教程 ](https://www.jdon.com/55380)||
+---|---|
 
 [微服务框架：如果不用Spring Boot，还可以选择谁](https://www.kubernetes.org.cn/9526.html)|
 ---|
