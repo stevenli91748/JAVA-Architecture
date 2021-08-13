@@ -5,8 +5,11 @@
 
 
 
-[Spring Boot常用注解](https://www.pianshen.com/article/8357683291/)|
----|
+[Spring Boot常用注解](https://www.pianshen.com/article/8357683291/)|[SpringBoot与SpringCloud的版本对应详细版](https://blog.csdn.net/qq32933432/article/details/89375630)|[如何从官网查看SpringCloud各个版本对应最优的SpringBoot版本](https://blog.csdn.net/ywb201314/article/details/107444583?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromBaidu-1.not_use_machine_learn_pai&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromBaidu-1.not_use_machine_learn_pai)|
+---|---|---|
+
+[Spring框架模块依赖关系](https://juejin.cn/post/6844903670945939469)|[一文读懂Spring Boot各模块组件依赖关系](https://cloud.tencent.com/developer/article/1683323)|[spring5的各模块组依赖关系](https://www.jianshu.com/p/d3233d6322ef)|
+---|---|---|
 
 # 学习示例
 
@@ -46,6 +49,8 @@
 
 [泥瓦匠 - Springboot-learning-example](https://github.com/JeffLi1993/springboot-learning-example)|[Liaokailin - Spring Boot 实战教程](https://blog.csdn.net/liaokailin/category_5765237.html)|
 ---|---|
+
+
 
 ---
 
@@ -380,20 +385,10 @@
 
 
 
-
 # 
 
 [五分钟实现外网访问你的本地web项目（Ngrok内外网穿透）](https://www.jianshu.com/p/8cb64d2607a0)|
 ---|
-
-[Spring Boot 要怎么学？要学哪些东西？要不要先学 SSM?  很好的资源 ](https://blog.csdn.net/u012702547/article/details/104474467)|[Spring Boot 入门---很好的资源](http://springboot.javaboy.org/)|
----|---|
-
-[SpringBoot与SpringCloud的版本对应详细版](https://blog.csdn.net/qq32933432/article/details/89375630)|[如何从官网查看SpringCloud各个版本对应最优的SpringBoot版本](https://blog.csdn.net/ywb201314/article/details/107444583?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromBaidu-1.not_use_machine_learn_pai&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromBaidu-1.not_use_machine_learn_pai)|
----|---|
-
-[Spring框架模块依赖关系](https://juejin.cn/post/6844903670945939469)|[一文读懂Spring Boot各模块组件依赖关系](https://cloud.tencent.com/developer/article/1683323)|[spring5的各模块组依赖关系](https://www.jianshu.com/p/d3233d6322ef)|
----|---|---|
 
 [SpringBoot: 后台接口文档 - 基于Swagger3](https://www.jianshu.com/p/c839e72ad1b2)|[springboot + aop的最佳实践](https://juejin.cn/post/6844904105819783175)|
 ---|---|
