@@ -109,6 +109,7 @@
 # 目录
 * [0 SpringBoot 基础知识 核心知识](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/README.md)
 * [1 SpringBoot内部机制](#1-SpringBoot内部机制)
+  * [SpringBoot 应用程序启动过程探秘](https://www.codesheep.cn/2018/09/04/springboot-startup-process/) 
   * [1a SpringBoot 环境配置](https://www.cnblogs.com/crazymakercircle/p/11706764.html)
   * [1b SpringBoot 配置文件](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/SpringBoot%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6.md)
   * [1c SpringBoot内存](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/SpringBoot%E5%86%85%E5%AD%98.md)
@@ -122,7 +123,7 @@
   * [热部署](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%B7%A5%E7%A8%8B%E9%85%8D%E7%BD%AE/%E7%83%AD%E9%83%A8%E7%BD%B2/README.md)
   * 嵌入式容器的配置与应用
     * [Tomcat](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%B7%A5%E7%A8%8B%E9%85%8D%E7%BD%AE/%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%AE%B9%E5%99%A8%E7%9A%84%E9%85%8D%E7%BD%AE%E4%B8%8E%E5%BA%94%E7%94%A8/Tomcat.md)
-  * [Spring Boot的各种项目整合配置](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%B7%A5%E7%A8%8B%E9%85%8D%E7%BD%AE/Spring%20Boot%E7%9A%84%E5%90%84%E7%A7%8D%E6%95%B4%E5%90%88%E9%A1%B9%E7%9B%AE%E9%85%8D%E7%BD%AE/README.md)
+  * [Spring Boot的各种工程整合配置](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%B7%A5%E7%A8%8B%E9%85%8D%E7%BD%AE/Spring%20Boot%E7%9A%84%E5%90%84%E7%A7%8D%E6%95%B4%E5%90%88%E9%A1%B9%E7%9B%AE%E9%85%8D%E7%BD%AE/README.md)
 * [3 Web开发](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/Web%E5%BC%80%E5%8F%91/README.md)
   * [3a RESTFul API构建](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/RESTful%20API/RESTful%20API.md)
   * [3b Dubbo进行服务治理](#3b-Dubbo进行服务治理)
@@ -136,42 +137,29 @@
 * [10 RPC 开发](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/spring%20boot%E7%9A%84RPC%20%E5%BC%80%E5%8F%91/README.md)
 * [11 RESTFul接口实现与测试](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/RESTful%20API/RESTful%20API.md)
 * [12 静态资源与模板引擎的整合](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E9%9D%99%E6%80%81%E8%B5%84%E6%BA%90%E4%B8%8E%E6%A8%A1%E6%9D%BF%E5%BC%95%E6%93%8E%E7%9A%84%E6%95%B4%E5%90%88/README.md)
+* 
 * [14 统一全局异常处理](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E7%BB%9F%E4%B8%80%E5%85%A8%E5%B1%80%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86/README.md)
 * 15 整合分布式文件系统
 * [16 服务器推送技术](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%8E%A8%E9%80%81%E6%8A%80%E6%9C%AF/README.md)
 * [17 邮件发送的整合与使用](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E9%82%AE%E4%BB%B6%E5%8F%91%E9%80%81%E7%9A%84%E6%95%B4%E5%90%88%E4%B8%8E%E4%BD%BF%E7%94%A8/README.md)
 * [18 分布式应用开发](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%88%86%E5%B8%83%E5%BC%8F%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91/README.md)
+  * [Spirng Boot with Docker](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%88%86%E5%B8%83%E5%BC%8F%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91/Springboot%20with%20Docker/README.md)
+  * [Spring Boot with Kubernetes](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%88%86%E5%B8%83%E5%BC%8F%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91/Spring%20Boot%20with%20Kubernetes/README.md)
 * [19 响应式框架webflux](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%93%8D%E5%BA%94%E5%BC%8F%E6%A1%86%E6%9E%B6webflux/README.md)
 * [20. 应用监控](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%BA%94%E7%94%A8%E7%9B%91%E6%8E%A7/README.md)
 * [21. 应用部署](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%BA%94%E7%94%A8%E9%83%A8%E7%BD%B2/README.md)
 * [22. 项目实战](https://github.com/stevenli91748/JAVA-Architecture/tree/master/JAVA%20Framework/SpringBoot/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98#readme)
-  
----
-
-
-
-
 
 ---
 
-
----
-
-[IDEA下从零开始搭建SpringBoot工程](https://blog.csdn.net/u013248535/article/details/55100979)|[建立SpringBoot工程的几种方法](#建立SpringBoot工程的几种方法)|[Docker容器可视化监控中心搭建](https://mp.weixin.qq.com/s?__biz=MzU4ODI1MjA3NQ==&mid=2247483763&idx=1&sn=6ceb9e73540b5016dadfb212636b3855&chksm=fdded7b7caa95ea1165b507397c39267d3bf7522c83cc8ed10eae4ee4a13db831eb58a3dc167&scene=21#wechat_redirect)|[SpringBoot 应用程序启动过程探秘](https://www.codesheep.cn/2018/09/04/springboot-startup-process/)|
----|---|---|---|
-
-[SpringBoot应用部署于外置Tomcat容器](https://mp.weixin.qq.com/s?__biz=MzU4ODI1MjA3NQ==&mid=2247483792&idx=1&sn=fde72633b86c7f951cd2a25f0c270121&chksm=fdded754caa95e420516178ff70b67b42271c4c68bc4644b4671925bf3c0b8383242432318a5#rd)|[SpringBoot 在IDEA中实现热部署(实用版)](https://www.jianshu.com/p/f658fed35786)|[Intellij IDEA 4种配置热部署的方法](https://www.cnblogs.com/jcook/p/6910238.html)|
+|[SpringBoot 在IDEA中实现热部署(实用版)](https://www.jianshu.com/p/f658fed35786)|[Intellij IDEA 4种配置热部署的方法](https://www.cnblogs.com/jcook/p/6910238.html)|
 ---|---|---|
 
-[IDEA/JRebel实现内部/外部/远程Tomcat热部署Spring Boot](https://juejin.im/post/6844904134643023879)|
----|
 
 [springboot框架图解](https://blog.csdn.net/ycy0706/article/details/103778977?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522159142623819724811805234%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&request_id=159142623819724811805234&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v1~rank_ctr_v4-2-103778977.ecpm_v1_rank_ctr_v4&utm_term=springboot%E6%A0%B8%E5%BF%83%E6%A1%86%E6%9E%B6%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84)|[关于SpringBoot中的多数据源集成](https://www.bilibili.com/read/cv740636)|
 ---|---|
 
 
-[SpringBoot 配置文件详解（告别XML）](https://www.jianshu.com/p/60b34464ca58)|[YAML 语言教程](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/yaml/README.md|
----|---|
 
 [一文教你细数 SpringBoot 中的连接池](https://zhuanlan.zhihu.com/p/105118740)|
 ---|
@@ -291,14 +279,7 @@ Spring Boot 并不是用来替代 Spring 的解决方案，而是和 Spring 框�
 
 也就是说，Spring Boot 只是起到一个承载的作用，辅助你简化项目搭建的过程。如果承载的是 Web 项目，使用 Spring MVC 作为 MVC 框架，那么整个业务工作流程还是由 Spring MVC 来完成的，因此 Spring Boot 并不能替代 Spring MVC，它只是简化了 Spring MVC 的相关配置，Spring Boot 帮你完成了很多底层工作。
 
-### 建立SpringBoot工程的几种方法
-* [不重复造轮子都是骗小孩的，教你手撸 SpringBoot 脚手架！](https://developer.51cto.com/art/202103/650015.htm)
-* [1. Spring官方的构建页面来生成项目](http://blog.didispace.com/spring-boot-learning-1/)
-* [2. 使用Intellij中的Spring Initializr来快速构建Spring Boot/Cloud工程](http://blog.didispace.com/spring-initializr-in-intellij/)
-* [3. 使用Cloud Studio在线编写、调试和管理Spring Boot应用](http://blog.didispace.com/studio-coding-spring-boot-app/#)
-* [4. 通过Maven来手工构建](https://blog.csdn.net/u013248535/article/details/55100979)
-* [5. 通过脚手架等方式快速搭建]()
-* [一站式SpringBoot for NoSQL Study Tutorial 开发教程学习手册](https://www.cnblogs.com/starcrm/p/9667830.html)
+
 
 
 
