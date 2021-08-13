@@ -38,7 +38,7 @@
 [bugstack虫洞栈---非常好](https://bugstack.cn/itstack/itstack-demo-design.html)|[SpringBoot精选](https://www.jianshu.com/c/edd22b195bd9)|[精通 Spring Boot 42 讲---纯洁的微笑](https://github.com/ityouknow/spring-boot-leaning)|
 ---|---|---|
 
-[精尽 Spring Boot 学习指南](http://svip.iocoder.cn/Spring-Boot/tutorials/)|[字母哥系列---springboot系列之02-需要了解的宏观知识点](http://www.zimug.com/java/spring/springboot%e7%b3%bb%e5%88%97%e4%b9%8b02-%e9%9c%80%e8%a6%81%e4%ba%86%e8%a7%a3%e7%9a%84%e5%ae%8f%e8%a7%82%e7%9f%a5%e8%af%86%e7%82%b9/.html)|[Spring SpringBoot SpringCloud技术一览](https://zhuanlan.zhihu.com/p/267654014?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)|
+[精尽 Spring Boot 学习指南](http://svip.iocoder.cn/Spring-Boot/tutorials/)|[字母哥博客---springboot系列之02-需要了解的宏观知识点](http://www.zimug.com/java/spring/springboot%e7%b3%bb%e5%88%97%e4%b9%8b02-%e9%9c%80%e8%a6%81%e4%ba%86%e8%a7%a3%e7%9a%84%e5%ae%8f%e8%a7%82%e7%9f%a5%e8%af%86%e7%82%b9/.html)|[Spring SpringBoot SpringCloud技术一览](https://zhuanlan.zhihu.com/p/267654014?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)|
 ---|---|---|
 
 [Spring SpringMVC Spring Boot Spring cloud Spring cloud alibaba全家桶教程](https://www.kancloud.cn/king_om/ss_m/1941921)|
