@@ -159,11 +159,9 @@
 
 
 # 
-[SpringBoot注解](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot注解/README.md)||||
+[SpringBoot注解](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot注解/README.md)|
 ---|
 
-[SpringBoot布道系列](https://www.jianshu.com/p/964370d9374e)|
----|
 
 [还在手动部署SpringBoot应用？试试这个自动化插件！](https://juejin.im/post/6868060821927723021)|[SpringBoot生命周期管理之停掉应用服务几种方法](http://www.zimug.com/java/spring/springboot%e7%94%9f%e5%91%bd%e5%91%a8%e6%9c%9f%e7%ae%a1%e7%90%86%e4%b9%8b%e5%81%9c%e6%8e%89%e5%ba%94%e7%94%a8%e6%9c%8d%e5%8a%a1%e5%87%a0%e7%a7%8d%e6%96%b9%e6%b3%95/.html)|
 ---|---|
@@ -378,8 +376,8 @@
 [五分钟实现外网访问你的本地web项目（Ngrok内外网穿透）](https://www.jianshu.com/p/8cb64d2607a0)|
 ---|
 
-[SpringBoot: 后台接口文档 - 基于Swagger3](https://www.jianshu.com/p/c839e72ad1b2)|[springboot + aop的最佳实践](https://juejin.cn/post/6844904105819783175)|
----|---|
+[springboot + aop的最佳实践](https://juejin.cn/post/6844904105819783175)|
+---|
 
 
 [Spring Boot DTO示例：实体到DTO的转换](https://www.jdon.com/55804)|[SpringBoot+CQRS微服务设计模式教程 ](https://www.jdon.com/55380)||
