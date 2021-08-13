@@ -2,6 +2,9 @@
 
 
 # 项目构建
+* [Spring boot项目导入 环境配置](https://www.bilibili.com/video/av45976433?from=search&seid=1134316332664179526)
+* [如何创建Spring Boot项目脚手架](https://www.bilibili.com/video/av92630366?from=search&seid=1134316332664179526)
+* [基于Spring Boot项目构建流水线](https://www.bilibili.com/video/av90883375?from=search&seid=1134316332664179526)
 * [基本项目构建（可作为工程脚手架），引入web模块，完成一个简单的RESTful API](http://blog.didispace.com/spring-boot-learning-1/)
 * [分布式Restful SpringBoot骨架搭建](https://blog.csdn.net/songxinjianqwe/article/details/77478385)
 * [RESTfull API简单项目的快速搭建](https://www.bilibili.com/video/av13224378?from=search&seid=10786600269014143134)
@@ -16,7 +19,7 @@
   * [一站式SpringBoot for NoSQL Study Tutorial 开发教程学习手册](https://www.cnblogs.com/starcrm/p/9667830.html)
 * [使用Intellij中的Spring Initializr来快速构建Spring Boot/Cloud工程](http://blog.didispace.com/spring-initializr-in-intellij/)
 * [工程结构推荐](http://blog.didispace.com/spring-boot-learning-21-1-2/)
-
+* [Idea 平台下实现 spring boot 项目 热部署](https://www.bilibili.com/video/av93414618?from=search&seid=1134316332664179526)
 
 # 项目整合配置
 * [spring boot2 + dubbo + zookeeper 搭建微服务框架](https://www.pianshen.com/article/8697367836/)
