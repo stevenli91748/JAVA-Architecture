@@ -7,3 +7,4 @@
 * [通过Tomcat配置改善SpringBoot项目并发线程数上不去的问题](https://blog.csdn.net/weixin_41657493/article/details/90819987?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-3.control&dist_request_id=1619637687737_21438&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-3.control)
 * [设置springboot自带tomcat的最大连接数和最大并发数](https://blog.csdn.net/kouwoo/article/details/83898788?utm_medium=distribute.pc_relevant.none-task-blog-baidujs_baidulandingword-5&spm=1001.2101.3001.4242)
 * [tomcat优化——并发和Tomcat线程数](https://blog.csdn.net/hunhun1122/article/details/78818337)
+* [Spring boot 项目打成war包部署到远程服务器tomcat](https://www.bilibili.com/video/av78310165?from=search&seid=1134316332664179526)
