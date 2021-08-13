@@ -1,4 +1,4 @@
-
+* [SpringBoot应用部署于外置Tomcat容器](https://mp.weixin.qq.com/s?__biz=MzU4ODI1MjA3NQ==&mid=2247483792&idx=1&sn=fde72633b86c7f951cd2a25f0c270121&chksm=fdded754caa95e420516178ff70b67b42271c4c68bc4644b4671925bf3c0b8383242432318a5#rd)
 * [Spring Boot – How to change Tomcat port](https://mkyong.com/spring-boot/spring-boot-how-to-change-tomcat-port/)
 * [How to get the Tomcat home directory in Java](https://mkyong.com/java/how-to-get-the-tomcat-home-directory-in-java/)
 * [Spring Boot打包war jar并部署tomcat实例步骤](https://www.xz577.com/j/48479.html)
