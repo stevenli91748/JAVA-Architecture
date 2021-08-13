@@ -110,10 +110,10 @@
 * [0 SpringBoot 基础知识 核心知识](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/README.md)
 * [1 SpringBoot内部机制](#1-SpringBoot内部机制)
   * [1a SpringBoot 配置开发环境](https://www.cnblogs.com/crazymakercircle/p/11706764.html)
-  * [1b SpringBoot配置文件](#1b-SpringBoot配置文件)
-  * [1c SpringBoot内存](#1c-SpringBoot内存)
-  * [1d SpringBoot Bean](#1d-SpringBoot-Bean)
-  * [Spring boot 并发编程](https://github.com/stevenli91748/JAVA-Architecture/tree/master/JAVA%20Framework/SpringBoot/Spring%20Boot%E7%9A%84%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B)  
+  * [1b SpringBoot配置文件](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/SpringBoot%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6.md)
+  * [1c SpringBoot内存](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/SpringBoot%E5%86%85%E5%AD%98.md)
+  * [1d SpringBoot Bean](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/SpringBoot%20Bean.md)
+  * [Spring boot 高并发编程](https://github.com/stevenli91748/JAVA-Architecture/tree/master/JAVA%20Framework/SpringBoot/Spring%20Boot%E7%9A%84%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B)  
 * [2 工程配置](#2-工程配置)
   * Spring Boot 框架配置分类
     * [第一阶段：XML配置，在Spring1.x时代，使用Spring开发满眼都是xml配置的Bean，随着项目的扩大，我们需要把xml配置文件分放到不同的配置文件里，那时候需要频繁的在开发的类和配置文件之间切换](https://www.cnblogs.com/chiangchou/p/sunny-1.html)
@@ -158,39 +158,7 @@
 * [20. 应用监控](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%BA%94%E7%94%A8%E7%9B%91%E6%8E%A7/README.md)
 * [21. 应用部署](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%BA%94%E7%94%A8%E9%83%A8%E7%BD%B2/README.md)
 * [22. 项目实战](https://github.com/stevenli91748/JAVA-Architecture/tree/master/JAVA%20Framework/SpringBoot/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98#readme)
-* [23. SpringBoot高并发](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/Spring%20Boot%E7%9A%84%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B/README.md)
   
----
-
-# 1 SpringBoot内部机制
-  * [1a SpringBoot 基础配置](https://www.cnblogs.com/crazymakercircle/p/11706764.html)
-  * [1b SpringBoot配置文件](#1b-SpringBoot配置文件)
-  * [1c SpringBoot内存](#1c-SpringBoot内存)
-  * [1d SpringBoot Bean](#1d-SpringBoot-Bean)
-
----
-
-
-## 1b SpringBoot配置文件
-* [Spring Boot 配置加载顺序详解](https://mp.weixin.qq.com/s/tFrRMM25LVE_2AG23lK5qQ)
-* [springboot启动时是如何加载配置文件application.yml文件](https://blog.csdn.net/chengkui1990/article/details/79866499?utm_medium=distribute.pc_relevant.none-task-blog-searchFromBaidu-1.not_use_machine_learn_pai&depth_1-utm_source=distribute.pc_relevant.none-task-blog-searchFromBaidu-1.not_use_machine_learn_pai)
-* [YAML属性配置文件使用详解](https://blog.csdn.net/qq_21806621/article/details/79598233?utm_medium=distribute.pc_relevant.none-task-blog-baidulandingword-2&spm=1001.2101.3001.4242)
-* [Spring Boot Profiles example](https://mkyong.com/spring-boot/spring-boot-profiles-example/)
-* [Spring Boot YAML example](https://mkyong.com/spring-boot/spring-boot-yaml-example/)
-* [Spring Boot + Multiple Profiles YAML example](https://mkyong.com/spring-boot/spring-boot-profile-based-properties-and-yaml-example/)
-* [Spring Boot读取配置的几种方式](https://mp.weixin.qq.com/s?__biz=MzI3ODcxMzQzMw==&mid=2247484575&idx=1&sn=56c88cd7283374345d891e85a800539b&scene=21#wechat_redirect)
-* [配置文件详解：自定义属性、随机数、多环境配置等](http://blog.didispace.com/springbootproperties/)
-* [Spring Boot 2.0 新特性（一）：配置绑定 2.0 全解析](http://blog.didispace.com/Spring-Boot-2-0-feature-1-relaxed-binding-2/)
-* [配置文件详解](http://blog.didispace.com/spring-boot-learning-21-1-3/)
-
-## 1c SpringBoot内存
-
-* [Spring Boot引起的“堆外内存泄漏”排查及经验总结](https://juejin.im/post/5c2ef77ae51d4551de1d769b)
-
-## 1d SpringBoot Bean
-
-* [How to display all beans loaded by Spring Boot](https://mkyong.com/spring-boot/how-to-display-all-beans-loaded-by-spring-boot/)
-
 ---
 
 # 2 工程配置
