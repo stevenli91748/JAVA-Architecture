@@ -8,6 +8,9 @@
 
 <a href="https://ibb.co/8ss6Hc3"><img src="https://i.ibb.co/pwwJSyD/thread2019050823383080.png" alt="thread2019050823383080" border="0"></a>
 
+[Java并发知识体系详解](https://www.pdai.tech/md/java/thread/java-thread-x-overview.html)|
+---|
+
 
 [完美解决工作中遇到的Java多线程问题，以后遇到也不慌](https://www.bilibili.com/video/BV1is411j7n4)|[分布式场景中确保线程安全的解决方案，Redis实现分布式锁](https://www.bilibili.com/video/BV1Ks411j7sa)|
 ---|---|
