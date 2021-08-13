@@ -6,6 +6,8 @@
 
 # [API网关面试知识点](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/Interview/apigate.md)
 
+[Spring Boot API Project Seed 是一个基于Spring Boot & MyBatis的种子项目，用于快速构建中小型API、RESTful API项目](https://github.com/lihengming/spring-boot-api-project-seed)
+
 [Vert.x](https://www.bilibili.com/video/BV174411E7Vr?from=search&seid=3412424618058651269)|
 ---|
 
@@ -14,6 +16,8 @@
 
 [API网关介绍及选型(kong)](https://blog.csdn.net/pushiqiang/article/details/95726137?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.channel_param&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.channel_param)|
 ---|
+
+
 
 [黑客攻击你的接口服务，如何给你的开放API穿上“金甲神盾”](https://www.bilibili.com/video/BV1qs411J788)|[90分钟教你实现，接口优雅限流降级](https://www.bilibili.com/video/BV1YW41197mr)|
 ---|---|
@@ -367,6 +371,8 @@ Open API开放平台必然涉及到客户应用的接入、API权限的管理、
   * [REST API 接口测试](https://www.imooc.com/learn/1048)
   * [高质量API接口设计最佳实践](https://www.bilibili.com/video/BV1g4411V7R9/?spm_id_from=333.788.videocard.7)
 # 有用的参考
+
+  * [分布式Restful SpringBoot骨架搭建](https://blog.csdn.net/songxinjianqwe/article/details/77478385)
   * [SpringBoot实现API接口的完整代码](https://www.jb51.net/article/198167.htm)
   * [正确甄别API & REST API & RESTful API & Web Service之间的差异与联系](https://juejin.cn/post/6844903869625942029)
   * [看看人家那后端API接口写得，那叫一个优雅！](https://www.jianshu.com/p/fa75acba5b07)
