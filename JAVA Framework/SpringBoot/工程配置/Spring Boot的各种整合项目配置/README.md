@@ -3,6 +3,7 @@
 
 # 项目构建
 * [基本项目构建（可作为工程脚手架），引入web模块，完成一个简单的RESTful API](http://blog.didispace.com/spring-boot-learning-1/)
+* [RESTfull API简单项目的快速搭建](https://www.bilibili.com/video/av13224378?from=search&seid=10786600269014143134)
 * [IDEA下从零开始搭建SpringBoot工程](https://blog.csdn.net/u013248535/article/details/55100979)
 * 建立SpringBoot工程的几种方法
   * [不重复造轮子都是骗小孩的，教你手撸 SpringBoot 脚手架！](https://developer.51cto.com/art/202103/650015.htm)
