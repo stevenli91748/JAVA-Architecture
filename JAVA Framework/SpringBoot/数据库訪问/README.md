@@ -48,3 +48,4 @@
 
 * [使用LDAP来统一管理用户信息](http://blog.didispace.com/spring-boot-ldap-user/)
 * [Spring Boot中增强对MongoDB的配置（连接池等）](http://blog.didispace.com/springbootmongodb-plus/)
+* [关于SpringBoot中的多数据源集成](https://www.bilibili.com/read/cv740636)
