@@ -9,4 +9,4 @@
 
 * [SpringBoot开启热部署，亲测有效，实用教程](https://blog.csdn.net/uziuzi669/article/details/108420762?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.control&dist_request_id=1328602.40031.16150801157086523&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.control)
 * [聊一聊SpringBoot项目热部署--可获得jrebel激活序列码](https://developer.51cto.com/art/202102/646224.htm)
-
+* [Idea 平台下实现 spring boot 项目 热部署](https://www.bilibili.com/video/av93414618?from=search&seid=1134316332664179526)
