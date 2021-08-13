@@ -32,8 +32,8 @@
 [程序猿DD---非常好](http://blog.didispace.com/)|[ 芋道源码------非常好](http://www.iocoder.cn/)|[猿码架构](https://www.jianshu.com/u/657c611b2e07)|[周立的博客](http://itmuch.com/)|[My bird](https://mrbird.cc/archives/)|[纯洁的微笑---Spring Boot](http://www.ityouknow.com/spring-boot.html)|[木九天](https://my.oschina.net/mdxlcj?tab=newest&catalogId=5781789)|
 ---|---|---|---|---|---|---|
 
-[手摸手教你学spring boot 2.x](https://www.kancloud.cn/hanxt/springboot2/1492077)|[小马哥的技术博客](https://mercyblitz.github.io/)|
----|---|
+[手摸手教你学spring boot 2.x](https://www.kancloud.cn/hanxt/springboot2/1492077)|[小马哥的技术博客](https://mercyblitz.github.io/)|[SpringBoot布道系列](https://www.jianshu.com/p/964370d9374e)|
+---|---|---|
 
 [ITNEXT---software developers, engineers, IT architects and system engineers to share knowledge, connect 付费](https://itnext.io/)|[vinsguru](https://www.vinsguru.com/topics/)|
 ---|---|
@@ -142,6 +142,7 @@
 * [10 SpringBoot RPC 开发](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/spring%20boot%E7%9A%84RPC%20%E5%BC%80%E5%8F%91/README.md)
 * [11 RESTFul接口实现与测试](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/RESTful%20API/RESTful%20API.md)
 * [12 SpringBoot 微服务](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%20%E5%BE%AE%E6%9C%8D%E5%8A%A1/README.md)
+* 13 Spring Boot 网络
 * [14 统一全局异常处理](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E7%BB%9F%E4%B8%80%E5%85%A8%E5%B1%80%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86/README.md)
 * 15 整合分布式文件系统
 * [16 服务器推送技术](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%8E%A8%E9%80%81%E6%8A%80%E6%9C%AF/README.md)
@@ -156,26 +157,13 @@
 
 ---
 
-|
----|
-
----
 
 # 
-[SpringBoot注解](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot注解/README.md)|||[参数校验](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E5%8F%82%E6%95%B0%E6%A0%A1%E9%AA%8C.md)|
----|---|
+[SpringBoot注解](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot注解/README.md)||||
+---|
 
-|[HttpMessageConverter的作用及替换---输入/输出数据格式和JAVA对象的转换](https://www.jianshu.com/p/333ed5ee958d)|
----|---|
-
-[基于Spring Boot项目构建流水线](https://www.bilibili.com/video/av90883375?from=search&seid=1134316332664179526)|[Idea 平台下实现 spring boot 项目 热部署](https://www.bilibili.com/video/av93414618?from=search&seid=1134316332664179526)|[Spring boot项目导入 环境配置](https://www.bilibili.com/video/av45976433?from=search&seid=1134316332664179526)|[如何创建Spring Boot项目脚手架](https://www.bilibili.com/video/av92630366?from=search&seid=1134316332664179526)|
----|---|---|---|
-
-[Spring boot 项目打成war包部署到远程服务器tomcat](https://www.bilibili.com/video/av78310165?from=search&seid=1134316332664179526)|[六分钟演示SpringBoot部署到腾讯云绑定域名](https://www.bilibili.com/video/av59319568?from=search&seid=1976421999597493025)|
----|---|
-
-[SpringBoot布道系列](https://www.jianshu.com/p/964370d9374e)|[Netty(一) SpringBoot 整合长连接心跳机制](https://crossoverjie.top/2018/05/24/netty/Netty(1)TCP-Heartbeat/#SpringBoot-%E7%9B%91%E6%8E%A7)|
----|---|
+[SpringBoot布道系列](https://www.jianshu.com/p/964370d9374e)|
+---|
 
 [还在手动部署SpringBoot应用？试试这个自动化插件！](https://juejin.im/post/6868060821927723021)|[SpringBoot生命周期管理之停掉应用服务几种方法](http://www.zimug.com/java/spring/springboot%e7%94%9f%e5%91%bd%e5%91%a8%e6%9c%9f%e7%ae%a1%e7%90%86%e4%b9%8b%e5%81%9c%e6%8e%89%e5%ba%94%e7%94%a8%e6%9c%8d%e5%8a%a1%e5%87%a0%e7%a7%8d%e6%96%b9%e6%b3%95/.html)|
 ---|---|
