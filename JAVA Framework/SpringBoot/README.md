@@ -119,17 +119,10 @@
     * [第一阶段：XML配置，在Spring1.x时代，使用Spring开发满眼都是xml配置的Bean，随着项目的扩大，我们需要把xml配置文件分放到不同的配置文件里，那时候需要频繁的在开发的类和配置文件之间切换](https://www.cnblogs.com/chiangchou/p/sunny-1.html)
     * [第二阶段：注解配置，在Spring2.x时代，Spring提供声明Bean的注解，大大减少了配置量。应用的基本配置用xml，业务配置用注解](https://www.cnblogs.com/chiangchou/p/sunny-1.html)
     * [第三阶段：Java配置，从Spring3.x到现在，Spring提供了Java配置，使用Java配置可以让你更理解你所配置的Bean](http://springboot.javaboy.org/2019/0528/javassm) 
-  * [热部署](#2a-热部署)
+  * [热部署](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%B7%A5%E7%A8%8B%E9%85%8D%E7%BD%AE/%E7%83%AD%E9%83%A8%E7%BD%B2/README.md)
   * 嵌入式容器的配置与应用
-    * [Tomcat](#2b-Tomcat)
-  * Spring Boot的各种整合配置
-    * [spring boot2 + dubbo + zookeeper 搭建微服务框架](https://www.pianshen.com/article/8697367836/)
-    * [Spring Boot2（完整的SSM）与Dubbo的集成](https://www.pianshen.com/article/960369232/)
-    * [Spring Boot2集成JPA](https://www.pianshen.com/article/1114121725/)
-    * [Spring Boot与Redis的集成](https://www.pianshen.com/article/87111813402/)
-    * [spring boot 集成多个kafka集群](https://www.pianshen.com/article/95811542353/)  
-    * [spring boot集成swagger](https://www.pianshen.com/article/6672172411/)
-    * [spring boot 集成quartz集群](https://www.pianshen.com/article/96821505859/)
+    * [Tomcat](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%B7%A5%E7%A8%8B%E9%85%8D%E7%BD%AE/%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%AE%B9%E5%99%A8%E7%9A%84%E9%85%8D%E7%BD%AE%E4%B8%8E%E5%BA%94%E7%94%A8/Tomcat.md)
+  * [Spring Boot的各种整合项目配置](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%B7%A5%E7%A8%8B%E9%85%8D%E7%BD%AE/Spring%20Boot%E7%9A%84%E5%90%84%E7%A7%8D%E6%95%B4%E5%90%88%E9%A1%B9%E7%9B%AE%E9%85%8D%E7%BD%AE/README.md)
 * [3 Web开发](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/Web%E5%BC%80%E5%8F%91/README.md)
   * [3a RESTFul API构建](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/RESTful%20API/RESTful%20API.md)
   * [3b Dubbo进行服务治理](#3b-Dubbo进行服务治理)
@@ -143,7 +136,6 @@
 * 10 RPC 开发
 * [11 RESTFul接口实现与测试](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/RESTful%20API/RESTful%20API.md)
 * 12 静态资源与模板引擎的整合
-* [13 异步任务与定时任务](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/Spring%20Boot%E7%9A%84%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B/README.md)
 * 14 统一全局异常处理
 * 15 整合分布式文件系统
 * 16 服务器推送技术
@@ -161,35 +153,12 @@
   
 ---
 
-# 2 工程配置
-  * [2a 热部署](#2a-热部署)
-  * [2b Tomcat](#2b-Tomcat)
+
+
+
 
 ---
 
-* [基本项目构建（可作为工程脚手架），引入web模块，完成一个简单的RESTful API](http://blog.didispace.com/spring-boot-learning-1/)
-* [使用Intellij中的Spring Initializr来快速构建Spring Boot/Cloud工程](http://blog.didispace.com/spring-initializr-in-intellij/)
-* [工程结构推荐](http://blog.didispace.com/spring-boot-learning-21-1-2/)
-
-## 2a 热部署
-* [Spring Boot热部署加持](http://www.codesheep.cn/2018/06/23/SpringBoot%E7%83%AD%E9%83%A8%E7%BD%B2%E5%8A%A0%E6%8C%81/)
-* [Springboot在idea中使用devtools热部署配置不生效的解决办法](https://blog.csdn.net/u010843945/article/details/84923465?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.control&dist_request_id=1328603.37546.16150668428043477&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.control)
-* [Spring Boot】使用Devtools实现热部署，避开IDEA的坑](https://blog.csdn.net/m0_37374307/article/details/106083948?utm_medium=distribute.pc_relevant.none-task-blog-baidujs_title-5&spm=1001.2101.3001.4242)
-* [SpringBoot热部署四种方式](https://blog.csdn.net/qq_32447301/article/details/84570534?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.control&dist_request_id=1328602.40031.16150801157086523&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.control)
-
-* [SpringBoot开启热部署，亲测有效，实用教程](https://blog.csdn.net/uziuzi669/article/details/108420762?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.control&dist_request_id=1328602.40031.16150801157086523&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.control)
-* [聊一聊SpringBoot项目热部署--可获得jrebel激活序列码](https://developer.51cto.com/art/202102/646224.htm)
-
-## 2b Tomcat
-* [Spring Boot – How to change Tomcat port](https://mkyong.com/spring-boot/spring-boot-how-to-change-tomcat-port/)
-* [How to get the Tomcat home directory in Java](https://mkyong.com/java/how-to-get-the-tomcat-home-directory-in-java/)
-* [Spring Boot打包war jar并部署tomcat实例步骤](https://www.xz577.com/j/48479.html)
-* [我是如何把SpringBoot项目的并发提升十倍量级的](https://blog.csdn.net/emprere/article/details/104404256?utm_medium=distribute.pc_relevant.none-task-blog-baidujs_baidulandingword-0&spm=1001.2101.3001.4242)
-* [通过Tomcat配置改善SpringBoot项目并发线程数上不去的问题](https://blog.csdn.net/weixin_41657493/article/details/90819987?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-3.control&dist_request_id=1619637687737_21438&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-3.control)
-* [设置springboot自带tomcat的最大连接数和最大并发数](https://blog.csdn.net/kouwoo/article/details/83898788?utm_medium=distribute.pc_relevant.none-task-blog-baidujs_baidulandingword-5&spm=1001.2101.3001.4242)
-* [tomcat优化——并发和Tomcat线程数](https://blog.csdn.net/hunhun1122/article/details/78818337)
-* [Spring boot中最大连接数、最大线程数与最大等待数在生产中的异常场景](https://blog.csdn.net/qq_36956015/article/details/100929993?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.control&dist_request_id=1619638919485_32258&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.control)
-* [springboot能抗住多少并发_并发测试神器，看看你的能不能抗住超过 5 万的并发用户](https://blog.csdn.net/weixin_39989688/article/details/111394127?utm_medium=distribute.pc_relevant.none-task-blog-baidujs_baidulandingword-0&spm=1001.2101.3001.4242)
 
 ---
 
