@@ -21,6 +21,8 @@
 * [使用Intellij中的Spring Initializr来快速构建Spring Boot/Cloud工程](http://blog.didispace.com/spring-initializr-in-intellij/)
 * [工程结构推荐](http://blog.didispace.com/spring-boot-learning-21-1-2/)
 * [Idea 平台下实现 spring boot 项目 热部署](https://www.bilibili.com/video/av93414618?from=search&seid=1134316332664179526)
+* [Spring boot项目搭建（前端到数据库，超详细）](https://developer.51cto.com/art/202103/648426.htm)
+
 
 # 项目整合配置
 * [spring boot2 + dubbo + zookeeper 搭建微服务框架](https://www.pianshen.com/article/8697367836/)
