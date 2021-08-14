@@ -19,6 +19,12 @@
 [Spring Boot 学习示例---spring-boot-examples](https://github.com/ityouknow/spring-boot-examples)|[spring-boot-demo---一个用来深度学习并实战 spring boot 的项目](https://github.com/xkcoding/spring-boot-demo)|
 ---|----|
 
+[完整项目---Github点赞接近 100k 的Spring Boot学习教程+实战项目推荐！](https://zhuanlan.zhihu.com/p/150513285?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|[完整项目--SpringBoot全家桶：23篇博客加23个可运行项目让你对它了如指掌](https://zhuanlan.zhihu.com/p/145063307?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|
+---|---|
+
+[完整项目---整理了八个开源的 Spring Boot 学习资源](https://zhuanlan.zhihu.com/p/66125910)|[Spring Boot 学习Sample](https://github.com/ityouknow/spring-boot-examples)|
+---|---|
+
 [Spring Boot API Project Seed 是一个基于Spring Boot & MyBatis的种子项目，用于快速构建中小型API、RESTful API项目](https://github.com/lihengming/spring-boot-api-project-seed)|
 ---|
 
@@ -131,7 +137,7 @@
   * [热部署](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%B7%A5%E7%A8%8B%E9%85%8D%E7%BD%AE/%E7%83%AD%E9%83%A8%E7%BD%B2/README.md)
   * 嵌入式容器的配置与应用
     * [Tomcat](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%B7%A5%E7%A8%8B%E9%85%8D%E7%BD%AE/%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%AE%B9%E5%99%A8%E7%9A%84%E9%85%8D%E7%BD%AE%E4%B8%8E%E5%BA%94%E7%94%A8/Tomcat.md)
-  * [Spring Boot的各种工程整合配置 + 项目构建](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%B7%A5%E7%A8%8B%E9%85%8D%E7%BD%AE/Spring%20Boot%E7%9A%84%E5%90%84%E7%A7%8D%E6%95%B4%E5%90%88%E9%A1%B9%E7%9B%AE%E9%85%8D%E7%BD%AE/README.md)
+  * [Spring Boot的各种工程整合配置](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%B7%A5%E7%A8%8B%E9%85%8D%E7%BD%AE/Spring%20Boot%E7%9A%84%E5%90%84%E7%A7%8D%E6%95%B4%E5%90%88%E9%A1%B9%E7%9B%AE%E9%85%8D%E7%BD%AE/README.md)
 * [3 Web开发](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/Web%E5%BC%80%E5%8F%91/README.md)
   * [RESTFul API构建](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/RESTful%20API/RESTful%20API.md)
   * [HTTP客户端库](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/Web%E5%BC%80%E5%8F%91/HTTP%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%BA%93/README.md)
@@ -222,32 +228,21 @@
 # 有用的参考
   * 深入实践Spring Boot.pdf
   * [SpringBoot零基础实现WebApi服务(1)项目构建](https://zhuanlan.zhihu.com/p/47365661)
-  
-  
-  
-  
-  
   * [阿里程序员常用的 15 款开发者工具（建议收藏）](https://www.javaweb.shop/article/330.html)
-  * [Spring中的统一异常处理](https://www.javaweb.shop/article/38.html)
   * [Spring中如何使用设计模式](https://www.javaweb.shop/article/295.html)
-  
   * [替换默认的banner---可以到http://patorjk.com/software/taag/这个网站生成一个自己项目的banner。创建banner.txt并放到resources根目录下](http://patorjk.com/software/taag/)
   * [springboot使用nacos做注册中心](https://www.jianshu.com/p/189376ef0b10)
   * [spring boot使用nacos作为配置中心实践](https://www.jianshu.com/p/0ccd1dcaa717)
   * [这篇文章让你搞懂 SpringMVC 国际化](https://developer.51cto.com/art/202104/657813.htm)
-  * [Spring boot项目搭建（前端到数据库，超详细）](https://developer.51cto.com/art/202103/648426.htm)
-  * [Springboot整合Websocket实现后端向前端主动推送消息案例](https://developer.51cto.com/art/202103/652897.htm)
-  * [SpringBoot 项目接入 Redis 集群](https://developer.51cto.com/art/202009/626914.htm)
   * [请问看懂java高级框架spring boot需要那些知识？](https://www.zhihu.com/question/436636345/answer/1708342093?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=group3_Answer&utm_campaign=shareopn)
-  * [SpringBoot应用整合ELK实现日志收集](https://www.jianshu.com/p/6f1a0487acf8)
   * [学习 Spring Boot 知识看这一篇就够了](https://zhuanlan.zhihu.com/p/37372007)
   * [教你理清 SpringBoot 与 SpringMVC 的关系](http://www.iocoder.cn/Fight/Teach-you-to-clarify-the-relationship-between-SpringBoot-and-SpringMVC/)
-  * [Spring Boot+RabbitMQ 实现延迟消息实现完整版，实用](https://zhuanlan.zhihu.com/p/147320193?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)
-  * [完整项目---Github点赞接近 100k 的Spring Boot学习教程+实战项目推荐！](https://zhuanlan.zhihu.com/p/150513285?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)
+  
+  
   * [听说你要接私活？Guide连夜整理了5个开源免费的Java项目快速开发脚手架](https://mp.weixin.qq.com/s/nKLFOUmdiCeW5VdfpO96BA)
-  * [完整项目--SpringBoot全家桶：23篇博客加23个可运行项目让你对它了如指掌](https://zhuanlan.zhihu.com/p/145063307?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)
-  * [完整微服务项目---使用Spring Cloud的完整微服务项目](https://www.zhihu.com/question/263476834)
-  * [完整项目---整理了八个开源的 Spring Boot 学习资源](https://zhuanlan.zhihu.com/p/66125910)
+  
+ 
+  
   * [SpringBoot 深度调优，让你的项目飞起来！](https://zhuanlan.zhihu.com/p/99585579?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)
   * [Spring Boot 各种例子程序---非常多的例子](https://blog.52itstyle.vip/category/springBoot/)
   * [非常好---Spring Boot 教程汇总](http://www.springboot.wiki/)
@@ -259,22 +254,19 @@
   * [SSM 一步一步演示如何整合这三者，并且会讲解每个配置的含义,如果想自己做一个完整的SSM项目，直接用这套架子进行开发也是完全没问题的](https://www.jianshu.com/p/c73cd21bf84a)
   * [【项目实践】SpringBoot三招组合拳，手把手教你打出优雅的后端接口](https://www.jianshu.com/p/b5b8613769db)
   * [啥？听说你还在手写复杂的参数校验？](https://www.bilibili.com/read/cv4308221)
-  * [Springboot+websocket+vue的聊天程序（项目源代码+部署教程+讲解）](https://www.jianshu.com/p/9b7f2e56276a)
+ 
+ * [Springboot+websocket+vue的聊天程序（项目源代码+部署教程+讲解）](https://www.jianshu.com/p/9b7f2e56276a)
   * [从头撸到脚，SpringBoot 就一篇全搞定！](https://www.jianshu.com/p/a1399c21ee22)
   * [Spring和SpringBoot比较，解惑区别](https://blog.csdn.net/weixin_43770982/article/details/88977526?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task)
   * [Spring Boot面试题（2020最新版）](https://blog.csdn.net/ThinkWon/article/details/104397299)
   * [Spring Boot 学习资料汇总](http://www.ityouknow.com/springboot/2015/12/30/springboot-collect.html)
-  * [Springboot项目搭建（前端到数据库，超详细）](https://blog.csdn.net/sunnyzyq/article/details/86711708?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task)
-  * [Spring Boot 学习Sample](https://github.com/ityouknow/spring-boot-examples)
+  
+  
   * [构建微服务：Spring boot 入门篇系列--能够系统性的学习](https://www.cnblogs.com/ityouknow/p/5662753.html)
   * [快速学习SpringBoot技术栈](https://www.jianguoyun.com/p/De_2rM0Q3o_SBhiu1Dw#)
   * [SpringBoot注解最全详解(整合超详细版本)](https://blog.csdn.net/weixin_40753536/article/details/81285046)
   * [Spring Boot 精选课程](https://github.com/ityouknow/spring-boot-leaning)
-  * [Spring Boot中使用Swagger2构建强大的RESTful API文档](http://blog.didispace.com/springbootswagger2/)
   * [SpringBoot工作机制概述](https://blog.csdn.net/m0_37962779/article/details/78957309)
-  * [在 Spring Boot 项目中使用 Swagger 文档](https://www.ibm.com/developerworks/cn/java/j-using-swagger-in-a-spring-boot-project/index.html)
-  * [一篇文章带你搞懂 SpringBoot与Swagger整合](https://blog.csdn.net/itguangit/article/details/78978296)
-
   * [Spring Boot Tutorial](https://github.com/ganchaoyang/spring-tutorial)
   * [Springboot 整合 Mybatis 的完整 Web 案例](https://zhuanlan.zhihu.com/p/25959187)
   * [SpringBoot常用注解大全](https://zhuanlan.zhihu.com/p/59110902)
@@ -282,7 +274,7 @@
   * [spring boot和SSM开发中有什么区别？](https://www.zhihu.com/question/284488830/answer/618537039?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
   * [Spring Boot基础教程--优先](http://blog.didispace.com/Spring-Boot基础教程/)
   * [Spring Boot 2.0 新特性学习](http://blog.didispace.com/Spring-Boot-2-0-feature/)
-  * [SpringBoot布道系列](https://www.jianshu.com/p/964370d9374e)
+  
   * [Spring Boot 从入门到上瘾](https://www.jianshu.com/c/fc788f631211)
   * [SpringBoot构建web项目](http://objcoding.com/2017/05/03/SpringBoot/)
   * [SpringBoot自动化配置源码分析](http://objcoding.com/2018/01/30/The-principle-of-Spring-Boot-automation-configuration/)
@@ -298,8 +290,7 @@
   * [spring boot和SSM开发中有什么区别？](https://www.zhihu.com/question/284488830/answer/618290880?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
   * [spring boot 实战（干货）](https://blog.csdn.net/qq_27384769/article/details/79439844)
   * [SpringBoot内容聚合---非常强大](https://mp.weixin.qq.com/s?__biz=MzI4Njc5NjM1NQ==&mid=2247488811&idx=2&sn=0d054027651bef114ae6bec5a8f62359&chksm=ebd62a07dca1a3111269692dd9b0a5ab8af7d2038b8ec6600a057573364e76db1332adc5fd46&scene=21)
- * [SpringBoot 在IDEA中实现热部署(实用版)](https://www.jianshu.com/p/f658fed35786)
- * [springboot项目快速搭建](https://blog.csdn.net/wjg8209/article/details/94546110#comments)
+  * [springboot项目快速搭建](https://blog.csdn.net/wjg8209/article/details/94546110#comments)
 * [SpringBoot多数据源中的分布式事务](https://blog.csdn.net/weixin_37158722/article/details/103224786)
 * [创建Spring Boot项目的几种方式总结](https://www.cnblogs.com/chansblogs/p/9293360.html)
 * [在Docker环境构建、打包和运行Spring Boot应用](http://dockone.io/article/9530)
@@ -354,8 +345,8 @@
 
 * [springboot2.3手册：多租户及自动创建数据，这样做](https://www.toutiao.com/a6871807445329510924/)
 
-# spring boot 项目中的pom.xml文件的配置
-* [spring-boot-dependencies、spring-boot-starter-parent、io.spring.platform详解](https://www.cnblogs.com/ld-mars/p/11720444.html)
+
+
 
 # Trouble shooting
 
