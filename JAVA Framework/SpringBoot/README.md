@@ -137,7 +137,7 @@
   * [热部署](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%B7%A5%E7%A8%8B%E9%85%8D%E7%BD%AE/%E7%83%AD%E9%83%A8%E7%BD%B2/README.md)
   * 嵌入式容器的配置与应用
     * [Tomcat](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%B7%A5%E7%A8%8B%E9%85%8D%E7%BD%AE/%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%AE%B9%E5%99%A8%E7%9A%84%E9%85%8D%E7%BD%AE%E4%B8%8E%E5%BA%94%E7%94%A8/Tomcat.md)
-  * [Spring Boot的各种工程整合配置](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%B7%A5%E7%A8%8B%E9%85%8D%E7%BD%AE/Spring%20Boot%E7%9A%84%E5%90%84%E7%A7%8D%E6%95%B4%E5%90%88%E9%A1%B9%E7%9B%AE%E9%85%8D%E7%BD%AE/README.md)
+  * [Spring Boot的各种工程整合配置 + 项目构建](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%B7%A5%E7%A8%8B%E9%85%8D%E7%BD%AE/Spring%20Boot%E7%9A%84%E5%90%84%E7%A7%8D%E6%95%B4%E5%90%88%E9%A1%B9%E7%9B%AE%E9%85%8D%E7%BD%AE/README.md)
 * [3 Web开发](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/Web%E5%BC%80%E5%8F%91/README.md)
   * [RESTFul API构建](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/RESTful%20API/RESTful%20API.md)
   * [HTTP客户端库](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/Web%E5%BC%80%E5%8F%91/HTTP%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%BA%93/README.md)
