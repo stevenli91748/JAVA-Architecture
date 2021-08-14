@@ -11,6 +11,9 @@
 [Spring框架模块依赖关系](https://juejin.cn/post/6844903670945939469)|[一文读懂Spring Boot各模块组件依赖关系](https://cloud.tencent.com/developer/article/1683323)|[spring5的各模块组依赖关系](https://www.jianshu.com/p/d3233d6322ef)|
 ---|---|---|
 
+[springboot + aop的最佳实践](https://juejin.cn/post/6844904105819783175)|[Spring Boot DTO示例：实体到DTO的转换](https://www.jdon.com/55804)|
+---|---|
+
 # 学习示例
 
 [Spring Boot 学习示例---spring-boot-examples](https://github.com/ityouknow/spring-boot-examples)|[spring-boot-demo---一个用来深度学习并实战 spring boot 的项目](https://github.com/xkcoding/spring-boot-demo)|
@@ -371,19 +374,9 @@
 
 
 
-# 
-
-[五分钟实现外网访问你的本地web项目（Ngrok内外网穿透）](https://www.jianshu.com/p/8cb64d2607a0)|
----|
-
-[springboot + aop的最佳实践](https://juejin.cn/post/6844904105819783175)|
----|
 
 
-[Spring Boot DTO示例：实体到DTO的转换](https://www.jdon.com/55804)|[SpringBoot+CQRS微服务设计模式教程 ](https://www.jdon.com/55380)||
----|---|
 
-[微服务框架：如果不用Spring Boot，还可以选择谁](https://www.kubernetes.org.cn/9526.html)|
----|
+
 
 
