@@ -145,7 +145,7 @@
 * [10 SpringBoot RPC 开发](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/spring%20boot%E7%9A%84RPC%20%E5%BC%80%E5%8F%91/README.md)
 * [11 RESTFul接口实现与测试](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/RESTful%20API/RESTful%20API.md)
 * [12 SpringBoot 微服务](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%20%E5%BE%AE%E6%9C%8D%E5%8A%A1/README.md)
-* 13 Spring Boot 网络
+* [13 Spring Boot 网络](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/Spring%20Boot%20%E7%BD%91%E7%BB%9C/README.md)
 * [14 统一全局异常处理](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E7%BB%9F%E4%B8%80%E5%85%A8%E5%B1%80%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86/README.md)
 * 15 整合分布式文件系统
 * [16 服务器推送技术](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%8E%A8%E9%80%81%E6%8A%80%E6%9C%AF/README.md)
@@ -222,15 +222,15 @@
 # 有用的参考
   * 深入实践Spring Boot.pdf
   * [SpringBoot零基础实现WebApi服务(1)项目构建](https://zhuanlan.zhihu.com/p/47365661)
-  * [SpringBoot实现API接口的完整代码](https://www.jb51.net/article/198167.htm)
-  * [使用SpringBoot实现微服务超时重试模式 ](https://www.jdon.com/55324)
-  * [spring boot +themyleaf+vue前后端分离](https://www.zybuluo.com/EggGump/note/1207305)
-  * [Spring Cloud Alibaba 链路追踪](https://www.jianshu.com/p/87b2a5802319)
-  * [springboot集成webSocket实现网络实时通讯](https://www.jianshu.com/p/969da26d5bea)
+  
+  
+  
+  
+  
   * [阿里程序员常用的 15 款开发者工具（建议收藏）](https://www.javaweb.shop/article/330.html)
   * [Spring中的统一异常处理](https://www.javaweb.shop/article/38.html)
   * [Spring中如何使用设计模式](https://www.javaweb.shop/article/295.html)
-  * [Spring Boot项目的接口防刷](https://www.javaweb.shop/article/204.html)
+  
   * [替换默认的banner---可以到http://patorjk.com/software/taag/这个网站生成一个自己项目的banner。创建banner.txt并放到resources根目录下](http://patorjk.com/software/taag/)
   * [springboot使用nacos做注册中心](https://www.jianshu.com/p/189376ef0b10)
   * [spring boot使用nacos作为配置中心实践](https://www.jianshu.com/p/0ccd1dcaa717)
