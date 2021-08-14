@@ -34,3 +34,6 @@ Swagger|
   * [Spring Boot集成springfox-swagger2构建restful API的方法教程](https://www.jb51.net/article/116092.htm)
   * [Spring boot集成swagger2生成接口文档的全过程](https://www.jb51.net/article/169898.htm)
   * [推荐一款接口 API 设计神器！](https://mp.weixin.qq.com/s/KcX68KZPR7KOfwSCImbUIg)
+  * [Spring Boot中使用Swagger2构建强大的RESTful API文档](http://blog.didispace.com/springbootswagger2/)
+  * [在 Spring Boot 项目中使用 Swagger 文档](https://www.ibm.com/developerworks/cn/java/j-using-swagger-in-a-spring-boot-project/index.html)
+  * [一篇文章带你搞懂 SpringBoot与Swagger整合](https://blog.csdn.net/itguangit/article/details/78978296)
