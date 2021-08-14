@@ -11,7 +11,7 @@
 * [配置文件详解：自定义属性、随机数、多环境配置等](http://blog.didispace.com/springbootproperties/)
 * [Spring Boot 2.0 新特性（一）：配置绑定 2.0 全解析](http://blog.didispace.com/Spring-Boot-2-0-feature-1-relaxed-binding-2/)
 * [配置文件详解](http://blog.didispace.com/spring-boot-learning-21-1-3/)
-
+* [spring-boot-dependencies、spring-boot-starter-parent、io.spring.platform详解](https://www.cnblogs.com/ld-mars/p/11720444.html)
 
 
 
