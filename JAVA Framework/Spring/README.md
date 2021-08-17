@@ -67,7 +67,7 @@
   * 5 Spring Aspects
   * 6 Instrumentation
   * 7 Messaging
-  * 8 Spring Testing
+  * [8 Spring Testing](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring%20Test/README.md)
   * 9 Spring Integration
       * Remoting and Java Web Services
       * JMS
