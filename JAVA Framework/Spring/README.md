@@ -48,7 +48,7 @@
     * [Spring事件机制](https://github.com/stevenli91748/JAVA-Architecture/tree/master/JAVA%20Framework/Spring/Spring%E4%BA%8B%E4%BB%B6%E6%9C%BA%E5%88%B6)
     * [Spring核心接口类](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring%E6%A0%B8%E5%BF%83%E6%8E%A5%E5%8F%A3%E7%B1%BB/README.md)
 * [Spring 组件](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring%20%E7%BB%84%E4%BB%B6/README.md)
-  * [1 Spring核心容器(core container)](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E6%A0%B8%E5%BF%83%E5%AE%B9%E5%99%A8(core%20container).md)
+  * [1 Spring核心容器(core container)](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring%20%E7%BB%84%E4%BB%B6/Spring%E6%A0%B8%E5%BF%83%E5%AE%B9%E5%99%A8(core%20container).md)
     * spring-core
     * Spring Beans---是事物处理组件类和实体类（POJO）对象的总称，是能够被实例化、能够被spring容器管理的java对象。 可以把bean看做是一个组件，这个组件用来具体实现某个业务功能。 总结性的讲，Bean就是由IOC容器初始化、装配及管理的对象，除此之外，和程序中的其他对象没有区别
     * spring-context
