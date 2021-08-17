@@ -83,14 +83,11 @@
 
 # Spring基础知识
 
-[IOC 控制反转](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring基础知识/IOC控制反转.md)|[Context&&Bean](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring基础知识/context上下文和bean.md)|[AOP 面向切面编程](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E7%BB%84%E4%BB%B6---AOP.md)|[核心容器](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring基础知识/核心容器(core%20container).md)|[Spring数据訪问](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/Spring%E6%95%B0%E6%8D%AE%E8%A8%AA%E9%97%AE.md)|[Spring WEB](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/Spring%20Web.md)|[TEST](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/Spring%20Test.md)|
----|---|---|---|---|---|---|
+[IOC 控制反转](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring基础知识/IOC控制反转.md)|[Context&&Bean](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring基础知识/context上下文和bean.md)|[AOP 面向切面编程](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E7%BB%84%E4%BB%B6---AOP.md)|[核心容器](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring基础知识/核心容器(core%20container).md)|[Spring数据訪问](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/Spring%E6%95%B0%E6%8D%AE%E8%A8%AA%E9%97%AE.md)|[Spring WEB](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/Spring%20Web.md)|
+---|---|---|---|---|---|
 
 [DI 依赖注入](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/DI%20%E4%BE%9D%E8%B5%96%E6%B3%A8%E5%85%A5.md)|[spring核心框架体系结构（jar包依赖）](https://blog.csdn.net/sinat_35512245/article/details/53893910)|[spring5的各模块组依赖关系](https://www.jianshu.com/p/d3233d6322ef)||
 ---|---|---|---|
-
-[Bean的加载过程](https://www.jianshu.com/p/77c9daef5572)|[spring中bean的创建流程，三级缓存、循环依赖问题](https://www.jianshu.com/p/cf98875fbc46)|
----|---|
 
 [Spring框架和组件](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/Spring%E6%A1%86%E6%9E%B6%E5%92%8C%E7%BB%84%E4%BB%B6.md)||[spring应用相关](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring基础知识/spring应用相关.md)|[Spring中bean的生命周期](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring基础知识/context上下文和bean.md)|[Spring扩展接口](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring基础知识/Spring扩展接口.md)|
 ---|---|---|---|---|
@@ -133,9 +130,9 @@
 * [Spring 经典面试题和答案](https://blog.csdn.net/wypersist/article/details/80274561)
 * [详解设计模式在Spring中的应用](https://blog.csdn.net/Y0Q2T57s/article/details/87899161)
 * [10分钟详解Spring全家桶7大知识点](https://zhuanlan.zhihu.com/p/59327709?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
-* [Spring--通过注解来配置bean](https://www.cnblogs.com/dreamfree/p/4090746.html)
+
 * [10分钟详解Spring全家桶7大知识点](https://zhuanlan.zhihu.com/p/59327709?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
-* [Spring解析，加载及实例化Bean的顺序（零配置）](https://blog.csdn.net/qq_27529917/article/details/79329809)
+
 * [Spring常见面试题总结（超详细回答）](https://blog.csdn.net/a745233700/article/details/80959716)
 * [基于maven开发spring项目需要配置的一些最基础的依赖](https://blog.csdn.net/rj1bww/article/details/71774568)
 * [Spring全注解式开发](https://blog.csdn.net/qq_35170365/article/details/81184435)
