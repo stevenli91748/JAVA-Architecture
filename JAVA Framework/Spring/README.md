@@ -19,9 +19,6 @@
 
 ---
 
-[Spring声明式事务原理](https://mrbird.cc/Spring%E5%A3%B0%E6%98%8E%E5%BC%8F%E4%BA%8B%E5%8A%A1%E5%8E%9F%E7%90%86.html)|[深入理解Spring事件发布与监听](https://mrbird.cc/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Spring%E4%BA%8B%E4%BB%B6%E5%8F%91%E5%B8%83%E4%B8%8E%E7%9B%91%E5%90%AC.html)|
----|---|
-
 [Java字节码增强技术](https://www.jianshu.com/p/8b7e515a9fcc)|
 ---|
 
