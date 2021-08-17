@@ -6,6 +6,9 @@
 
 * [可能是最漂亮的Spring事务管理详解](https://juejin.im/post/5b00c52ef265da0b95276091)
 * [7000+字的Spring事务总结来啦！我饱了！](https://juejin.im/post/5ebe682c5188256d8a22940f)
+* [Spring声明式事务原理](https://mrbird.cc/Spring%E5%A3%B0%E6%98%8E%E5%BC%8F%E4%BA%8B%E5%8A%A1%E5%8E%9F%E7%90%86.html)
+
+
 
 # 隔离类型事务
 
