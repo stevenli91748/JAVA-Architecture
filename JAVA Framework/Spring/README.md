@@ -19,21 +19,11 @@
 
 ---
 
-
-[深入学习Spring组件注册](https://mrbird.cc/Spring-Bean-Regist.html)|[深入学习Spring Bean生命周期](https://mrbird.cc/Spring-Bean-Lifecycle.html)|
----|---|
-
-[深入理解Spring BeanPostProcessor & InstantiationAwareBeanPostProcessor](https://mrbird.cc/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Spring-BeanPostProcessor-InstantiationAwareBeanPostProcessor.html)|
----|
-
-[深入理解BeanFactoryPostProcessor & BeanDefinitionRegistryPostProcessor](https://mrbird.cc/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3BeanFactoryPostProcessor-BeanDefinitionRegistryPostProcessor.html)|[深入理解Spring循环依赖](https://mrbird.cc/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Spring%E5%BE%AA%E7%8E%AF%E4%BE%9D%E8%B5%96.html)|
----|---|
-
 [Spring声明式事务原理](https://mrbird.cc/Spring%E5%A3%B0%E6%98%8E%E5%BC%8F%E4%BA%8B%E5%8A%A1%E5%8E%9F%E7%90%86.html)|[深入理解Spring事件发布与监听](https://mrbird.cc/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Spring%E4%BA%8B%E4%BB%B6%E5%8F%91%E5%B8%83%E4%B8%8E%E7%9B%91%E5%90%AC.html)|
 ---|---|
 
-[Java字节码增强技术](https://www.jianshu.com/p/8b7e515a9fcc)|[这么多的bean，Spring是如何区分的？](https://www.jianshu.com/p/5167c0e2c450)|
----|---|
+[Java字节码增强技术](https://www.jianshu.com/p/8b7e515a9fcc)|
+---|
 
 [Spring 手撸专栏---模拟SPring的实现，用最简的架构，剥丝抽茧，体现核心，把Spring最直接相干的内容体现出来进行学习](https://bugstack.cn/spring/2021/05/16/%E7%AC%AC1%E7%AB%A0-%E5%BC%80%E7%AF%87%E4%BB%8B%E7%BB%8D-%E6%89%8B%E5%86%99Spring%E8%83%BD%E7%BB%99%E4%BD%A0%E5%B8%A6%E6%9D%A5%E4%BB%80%E4%B9%88.html)|
 ---|
@@ -85,10 +75,11 @@
 * Spring MVC
 * [Spring 异步调用](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring%E6%A1%86%E6%9E%B6%E7%9A%84%E5%BC%82%E6%AD%A5%E6%89%A7%E8%A1%8C/README.md)
 * Spring Source Code
+
 ---
 
-[Spring常用注解](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring常用注解/README.md)|[Spring实例化bean的三种方法](https://www.cnblogs.com/liwendeboke/p/6228129.html)|[超详细Spring知识点汇总](https://blog.csdn.net/pingdouble/article/details/79526068)|[Spring如何学](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring如何学.md)|
----|---|---|---|
+[Spring常用注解](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring常用注解/README.md)|[超详细Spring知识点汇总](https://blog.csdn.net/pingdouble/article/details/79526068)|[Spring如何学](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring如何学.md)|
+---|---|---|
 
 # Spring基础知识
 
