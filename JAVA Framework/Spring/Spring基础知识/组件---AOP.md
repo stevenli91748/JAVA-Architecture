@@ -6,21 +6,12 @@
 # AOP例子程序
 * [Spring AOP 详解 1(注解方式)  例子说明](https://juejin.im/post/5d390f705188252c784a4f74)
 * [Spring AOP 详解 2(xml方式)  例子说明 先看](https://www.cnblogs.com/hongwz/p/5764917.html)
-
-
-
-
+* [深入理解Spring AOP原理](https://mrbird.cc/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Spring-AOP%E5%8E%9F%E7%90%86.html)
 
 
 AOP动态代理|AOP静态代理|
 ---|--|
 
-[spring-aop]("面向切面编程")|[spring-aspects]("集成AspectJ")|[spring-instrument]("提供一些类级的工具支持和ClassLoader级的实现，用于服务器")|[spring-instrument-tomcat]("针对tomcat的instrument实现包含了spring的tomcat设备代理它们的完整依赖关系")|
----|---|---|---|
-
-
-[小马哥讲Spring核心编程思想---在硬盘](https://time.geekbang.org/course/intro/100042601)|[小马哥讲Spring AOP编程思想---在硬盘](https://time.geekbang.org/course/intro/100066301)|
----|---|
 
 [一文读懂 AOP --- 你想要的最全面 AOP 方法探讨](https://www.jianshu.com/p/0799aa19ada1)|[spring专题系列之AOP的理解和分析](https://www.jianshu.com/p/41e9d1c494e4)|[Spring-AOP-基于注解的AOP通知执行顺序](https://www.cnblogs.com/orzjiangxiaoyu/p/13869747.html)|
 ---|---|---|
@@ -33,6 +24,16 @@ AOP动态代理|AOP静态代理|
 
 [《包你懂系列》让我们来揭开 AOP 和动态代理技术的神秘面纱](https://juejin.im/post/5ed723606fb9a047a07f2ec2)|[面试被问了几百遍的 IoC 和 AOP ，还在傻傻搞不清楚](https://juejin.im/post/5ecf62ee51882542ef4f851f)|
 ---|--|
+
+
+# 视频
+
+* [小马哥讲Spring核心编程思想---在硬盘](https://time.geekbang.org/course/intro/100042601)
+* [小马哥讲Spring AOP编程思想---在硬盘](https://time.geekbang.org/course/intro/100066301)
+
+
+
+
 
 * [自己动手实现的 Spring IOC 和 AOP - 上篇](https://www.tianxiaobo.com/2018/01/18/%E8%87%AA%E5%B7%B1%E5%8A%A8%E6%89%8B%E5%AE%9E%E7%8E%B0%E7%9A%84-Spring-IOC-%E5%92%8C-AOP-%E4%B8%8A%E7%AF%87/)
 * [自己动手实现的 Spring IOC 和 AOP - 下篇](https://www.tianxiaobo.com/2018/01/18/%E8%87%AA%E5%B7%B1%E5%8A%A8%E6%89%8B%E5%AE%9E%E7%8E%B0%E7%9A%84-Spring-IOC-%E5%92%8C-AOP-%E4%B8%8B%E7%AF%87/)
@@ -68,4 +69,4 @@ AOP的实现是通过代理模式，在调用对象的某个方法时，执行�
 * [SpringAOP面向切面编程](https://www.cnblogs.com/SimpleWu/p/9652700.html)
 * [Spring AOP无法拦截内部方法调用](https://www.jianshu.com/p/6534945eb3b5)
 * [Spring---AOP](https://www.jianshu.com/p/a0101e7cc649)
-* [深入理解Spring AOP原理](https://mrbird.cc/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Spring-AOP%E5%8E%9F%E7%90%86.html)
+
