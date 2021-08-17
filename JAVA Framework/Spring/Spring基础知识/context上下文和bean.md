@@ -2,6 +2,7 @@
   * [Spring的Context的初始化流程](#Spring的Context的初始化流程)
 * [Bean](#Bean)
   * [spring bean是什么](https://www.awaimai.com/2596.html)
+  * [深入学习Spring组件注册](https://mrbird.cc/Spring-Bean-Regist.html)
   * [Spring中Bean及@Bean的理解](https://www.cnblogs.com/bossen/p/5824067.html)
   * [装配Bean的三种方式](https://www.bilibili.com/video/av64742878?p=11)
   * [Bean的加载流程（讲得很棒）](https://blog.csdn.net/weixin_38278878/article/details/81408403)
