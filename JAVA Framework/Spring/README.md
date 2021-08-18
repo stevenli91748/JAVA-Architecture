@@ -134,7 +134,7 @@
 * [基于maven开发spring项目需要配置的一些最基础的依赖](https://blog.csdn.net/rj1bww/article/details/71774568)
 * [Spring全注解式开发](https://blog.csdn.net/qq_35170365/article/details/81184435)
 * [web.xml文件是什么？有什么用](https://blog.csdn.net/ckc_666/article/details/82964812)
-
+* [Spring自带工具类使用学习](https://mrbird.cc/Spring%E8%87%AA%E5%B8%A6%E5%B7%A5%E5%85%B7%E7%B1%BB%E4%BD%BF%E7%94%A8%E5%AD%A6%E4%B9%A0.html)
 
 
 # 亿级流量网站架构核心技术的作者专栏---开涛
