@@ -297,6 +297,9 @@ JVM实验例子|[常见JVM内存错误及解决方案](https://www.kancloud.cn/h
   *  自己动手写Java虚拟机.PDF
   *  Java虚拟机规范.Java SE 8版.PDF
   *  Java虚拟机并发编程.PDF
+  *  [Java对象实例化过程](https://mrbird.cc/Java%E5%AF%B9%E8%B1%A1%E5%AE%9E%E4%BE%8B%E5%8C%96%E8%BF%87%E7%A8%8B.html)
+  * [JVM学习笔记](https://mrbird.cc/JVM-Learn.html)
+  * [Java 垃圾回收](https://mrbird.cc/Java-%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E2%99%BB%EF%B8%8F.html)
   * [jvm troubleshooting 基础](https://mrbird.cc/Java%20Troubleshooting%E5%9F%BA%E7%A1%80.html)
   * [JVM常用配置参数：Trace跟踪参数](https://edu.51cto.com/study/9314)
   * [github JVM Information ](https://github.com/deephacks/awesome-jvm)
