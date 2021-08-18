@@ -29,3 +29,7 @@
 # 有用的参考
 
 * [厉害了，Spring Cloud for Alibaba 来了](https://mp.weixin.qq.com/s?__biz=MzI3ODcxMzQzMw==&mid=2247487701&idx=1&sn=06f49867943b73ba38cd3c3ffa0707b5&chksm=eb5395e3dc241cf513745835f98c509067d2f9f3c292daffa0fa2932fd3481a4d27cdf9d9e16&scene=21#wechat_redirect)
+* [Spring Cloud Alibaba Sentinel @SentinelResource](https://mrbird.cc/Spring-Cloud-Alibaba-Sentinel-SentinelResource.html)
+* [Spring Cloud Alibaba Sentinel控制台详解](https://mrbird.cc/Sentinel%E6%8E%A7%E5%88%B6%E5%8F%B0%E8%AF%A6%E8%A7%A3.html)
+* [Spring Cloud Alibaba Nacos配置中心](https://mrbird.cc/Spring-Cloud-Alibaba-Nacos%E9%85%8D%E7%BD%AE%E4%B8%AD%E5%BF%83.html)
+* [Spring Cloud Alibaba Nacos注册中心](https://mrbird.cc/Spring-Cloud-Alibaba-Nacos%E6%B3%A8%E5%86%8C%E4%B8%AD%E5%BF%83.html)
