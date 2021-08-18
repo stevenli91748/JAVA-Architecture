@@ -16,6 +16,8 @@
 
 ## 1.2. 对象
 
+* [Java对象实例化过程](https://mrbird.cc/Java%E5%AF%B9%E8%B1%A1%E5%AE%9E%E4%BE%8B%E5%8C%96%E8%BF%87%E7%A8%8B.html)
+
 ## 1.3. 接口
 
 ### 静态块 静态变量
