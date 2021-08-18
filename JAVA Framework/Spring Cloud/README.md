@@ -182,7 +182,7 @@
 * 4  [项目实战](#项目实战)
 
 
-# Spring Cloud各组件专题
+# Spring Cloud架构方案
 
 组件|Spring Cloud原生及其他整合组件|Spring Cloud Netflix套件|Spring Cloud Alibaba套件|其他|
 ---|---|---|---|---|
