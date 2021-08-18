@@ -18,7 +18,7 @@
  * [汪文君Jenkins入门视频](https://www.bilibili.com/video/av52163638/?spm_id_from=333.788.videocard.1)
 
 # 有用的参考
-
+* [GitLab & Jenkins安装小记](https://mrbird.cc/GitLab-Jenkins-Install-Note.html)
 * [Jenkins工程构建](https://blog.csdn.net/qq_39680564/article/details/111573807)
 * [mall-swarm微服务电商系统如何部署？用Jenkins自动化部署是真的香！](https://www.jianshu.com/p/4d6a37438ea3)
 * [使用Jenkins一键打包部署SpringBoot应用，就是这么6！](https://mp.weixin.qq.com/s/tQqvgSc9cHBtnqRQSbI4aw)
