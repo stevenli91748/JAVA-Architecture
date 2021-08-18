@@ -33,4 +33,5 @@
 * [spring boot集成swagger](https://www.pianshen.com/article/6672172411/)
 * [spring boot 集成quartz集群](https://www.pianshen.com/article/96821505859/)
 * [SpringBoot 项目接入 Redis 集群](https://developer.51cto.com/art/202009/626914.htm)
+* [Spring Boot整合WebSocket](https://mrbird.cc/Spring-Boot%E6%95%B4%E5%90%88WebSocket.html)
 
