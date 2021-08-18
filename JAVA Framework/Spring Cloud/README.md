@@ -141,11 +141,11 @@
 ---
 
 # 目录
-* 1. Spring Cloud内部机制
+* 1  Spring Cloud内部机制
      * [Spring CLoud配置](https://www.cnblogs.com/crazymakercircle/p/11674597.html)
        * [spring cloud 核心参数调优](https://www.coollf.com/archives/article-51) 
      * [Spring Cloud各组件专题](#Spring-Cloud各组件专题)
-* 2. Sprng Cloud开发环境配置
+* 2  Sprng Cloud开发环境配置
      * 服务注册与发现配置中心
        * [主流微服务注册中心浅析和对比](https://my.oschina.net/yunqi/blog/3040280)
        * [主流微服务注册中心产品比较 Eureka、Consul、Nacos](https://www.jianshu.com/p/54f525334658)
@@ -178,8 +178,8 @@
         * [Linux Redis 安装](https://www.cnblogs.com/crazymakercircle/p/11985983.html)
         * [Linux Zookeeper 安装](https://www.cnblogs.com/crazymakercircle/p/12006500.html)
         * [RabbitMQ 离线安装](https://www.cnblogs.com/crazymakercircle/p/11992763.html)
-* 3. [Spring Cloud构建微服务架构](#SpringCloud构建微服务架构)
-* 4. [项目实战](#项目实战)
+* 3  [Spring Cloud构建微服务架构](#SpringCloud构建微服务架构)
+* 4  [项目实战](#项目实战)
 
 
 # Spring Cloud各组件专题
