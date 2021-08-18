@@ -30,8 +30,11 @@
 * [Spring Boot2集成JPA](https://www.pianshen.com/article/1114121725/)
 * [Spring Boot与Redis的集成](https://www.pianshen.com/article/87111813402/)
 * [spring boot 集成多个kafka集群](https://www.pianshen.com/article/95811542353/)  
+* [Spring Boot整合Kafka](https://mrbird.cc/Spring-Boot-Kafka.html)
 * [spring boot集成swagger](https://www.pianshen.com/article/6672172411/)
 * [spring boot 集成quartz集群](https://www.pianshen.com/article/96821505859/)
 * [SpringBoot 项目接入 Redis 集群](https://developer.51cto.com/art/202009/626914.htm)
 * [Spring Boot整合WebSocket](https://mrbird.cc/Spring-Boot%E6%95%B4%E5%90%88WebSocket.html)
-
+* [Spring Boot整合Mongo DB](https://mrbird.cc/Spring-Boot-Mongo-DB-CRUD.html)
+* [Spring Boot整合Dubbo&Zookeeper](https://mrbird.cc/Spring-Boot-Dubbo-Zookeeper.html)
+* [Spring Boot整合Swagger2构建RESTful API](https://mrbird.cc/Spring-Boot-Swagger2-RESTful-API.html)
