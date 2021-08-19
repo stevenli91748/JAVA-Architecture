@@ -761,6 +761,8 @@ SQL语言|[MySQL](https://github.com/stevenli91748/Database/blob/master/MySQL/RE
 # [输入程序代码问题得到回答的网站](https://www.codegrepper.com/code-examples/)
 # [廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/1207298049439968)
 # [精益技术简历之道——改善技术简历的47条原则](https://www.kancloud.cn/digest/lean-technical-resume/62711)
+# [互联网应用开发平台综合技术入门指南](https://www.kancloud.cn/fang2099/rayplatform/2109037)|
+
 
 # 有用的参考
 
