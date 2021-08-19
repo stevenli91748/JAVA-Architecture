@@ -26,6 +26,9 @@
 [小马哥的技术博客](https://mercyblitz.github.io/)|[Spring SpringBoot SpringCloud技术一览](https://zhuanlan.zhihu.com/p/267654014?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)|
 ---|---|
 
+[互联网应用开发平台综合技术入门指南](https://www.kancloud.cn/fang2099/rayplatform/2109037)|
+---|
+
 ## SpringCloud版本依赖
 
 [SpringBoot与SpringCloud的版本对应详细版](https://blog.csdn.net/qq32933432/article/details/89375630)|[如何从官网查看SpringCloud各个版本对应最优的SpringBoot版本](https://blog.csdn.net/ywb201314/article/details/107444583?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromBaidu-1.not_use_machine_learn_pai&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromBaidu-1.not_use_machine_learn_pai)|
