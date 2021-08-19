@@ -83,6 +83,9 @@
 [【项目实战】企业级微服务框架项目---前后端分离的企业级微服务架构,引入组件化的思想实现高内聚低耦合,并提供应用管理方便第三方系统接入；同时还集合各种微服务治理功能和监控功能](https://www.kancloud.cn/zlt2000/microservices-platform/919412)|
 ---|
 
+[【项目实战】dynamic-datasource-spring-boot-starter 是一个基于springboot的快速集成**多数据源的启动器**，适用于多种场景 **纯粹多库 读写分离 一主多从 混合模式**](https://www.kancloud.cn/tracy5546/dynamic-datasource/2264611)|
+---|
+
 [【项目实战】open-capacity-platform---仿百度能力开放平台的spring cloud 微服务框架](https://www.kancloud.cn/owenwangwen/open-capacity-platform)|
 ---|
 
