@@ -58,12 +58,17 @@
 [【项目实战】hmallcloud---基于SpringBoot2.x、SpringCloud和SpringCloudAlibaba并采用前后端分离的企业级微服务敏捷开发系统架构](https://www.kancloud.cn/haijun0314/fengxue/1704481)|
 ---|
 
+[【项目实战】dynamic-datasource-spring-boot-starter 是一个基于springboot的快速集成**多数据源的启动器**，适用于多种场景 **纯粹多库 读写分离 一主多从 混合模式**](https://www.kancloud.cn/tracy5546/dynamic-datasource/2264611)|
+---|
+
+
 
 [【项目实战】微服务多租户系统后台管理系统---基于SpringBoot2.x、SpringCloud和SpringCloudAlibaba并采用前后端分离的企业级微服务多租户系统架构](https://gitee.com/zlt2000/microservices-platform)|
 ---|
 
  [【项目实战】2020最新Java项目实战APM性能监控系统](https://www.bilibili.com/video/BV15t4y117xN/?spm_id_from=333.788.videocard.5)|[SpringBoot 2.x ShardingSphere分库分表实战](https://juejin.im/post/6844903857336614920)|
  ---|---|
+ 
 
 ---
 
