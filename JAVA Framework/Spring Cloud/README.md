@@ -49,6 +49,9 @@
 [【项目实战】Spring Cloud 微服务权限系统搭建教程---手把手教你从零搭建到Docker部署（新增K8S集群部署教程）](https://www.kancloud.cn/mrbird/spring-cloud/1263681)|
 ---|
 
+[【项目实战】企业级微服务框架项目---前后端分离的企业级微服务架构,引入组件化的思想实现高内聚低耦合,并提供应用管理方便第三方系统接入；同时还集合各种微服务治理功能和监控功能](https://www.kancloud.cn/zlt2000/microservices-platform/919412)|
+---|
+
 [【项目实战】微服务多租户系统后台管理系统---基于SpringBoot2.x、SpringCloud和SpringCloudAlibaba并采用前后端分离的企业级微服务多租户系统架构](https://gitee.com/zlt2000/microservices-platform)|
 ---|
 
