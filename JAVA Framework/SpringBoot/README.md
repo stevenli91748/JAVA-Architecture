@@ -59,7 +59,8 @@
 [泥瓦匠 - Springboot-learning-example](https://github.com/JeffLi1993/springboot-learning-example)|[Liaokailin - Spring Boot 实战教程](https://blog.csdn.net/liaokailin/category_5765237.html)|
 ---|---|
 
-
+[互联网应用开发平台综合技术入门指南](https://www.kancloud.cn/fang2099/rayplatform/2109037)|
+---|
 
 ---
 
