@@ -90,6 +90,9 @@
 [【项目实战】open-capacity-platform---仿百度能力开放平台的spring cloud 微服务框架](https://www.kancloud.cn/owenwangwen/open-capacity-platform)|
 ---|
 
+[【项目实战】XBoot前后端分离开发平台 付费项目---基于 Spring Boot 和 Vue 开发，整合 Activiti工作流、Elasticsearch、Redis等，提供配套跨全端APP，来帮助中小型企业及个人实现敏捷化的应用交付和运营管理，并提供代码生成器、通用前端等业务组件](https://www.kancloud.cn/exrick/xboot)|
+---|
+
 [【项目实战】微服务多租户系统后台管理系统---基于SpringBoot2.x、SpringCloud和SpringCloudAlibaba并采用前后端分离的企业级微服务多租户系统架构](https://gitee.com/zlt2000/microservices-platform)|
 ---|
 
