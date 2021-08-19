@@ -637,6 +637,10 @@ SQL语言|[MySQL](https://github.com/stevenli91748/Database/blob/master/MySQL/RE
 
 ### Java的机制
 
+* [java核心知识整理](https://www.kancloud.cn/imnotdown1019/java_core_full/1004074)|
+
+---
+
 * 核心机制
   * [Java Visual Machine](https://github.com/stevenli91748/JAVA-Architecture/tree/master/Java%20Advanced/JVM)
   * [JAVA内存管理机制](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/Memory/README.md)
