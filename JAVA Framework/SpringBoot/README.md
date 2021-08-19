@@ -77,6 +77,10 @@
 [【项目实战】DongBB-前后端分离RBAC权限管理系统](https://www.kancloud.cn/hanxt/vue-spring/1528245)|[【项目实战】实战SpringCloud微服务从青铜到王者](https://www.kancloud.cn/hanxt/vue-spring/1719694)|[【项目实战】Spring Cloud 微服务权限系统搭建教程](https://www.kancloud.cn/mrbird/spring-cloud/1263679 "博客地址 https://mrbird.cc/archives/")|
 ---|---|---|
 
+[【项目实战】DongBB-前后端分离RBAC权限管理系统之一个基于electron、vue开发的跨操作系统、跨项目的代码生成器](https://gitee.com/hanxt/dongbb-coder)|
+---|
+
+
 [【项目实战】微服务多租户系统后台管理系统---基于SpringBoot2.x、SpringCloud和SpringCloudAlibaba并采用前后端分离的企业级微服务多租户系统架构](https://gitee.com/zlt2000/microservices-platform)|
 ---|
 
