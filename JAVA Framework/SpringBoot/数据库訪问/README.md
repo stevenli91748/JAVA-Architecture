@@ -1,8 +1,8 @@
 
 # 目录
 
-[动态数据源例子---基于springboot的快速集成多数据源的启动器 已付费](https://www.kancloud.cn/tracy5546/dynamic-datasource/2344619)|
----|
+[动态数据源例子---基于springboot的快速集成多数据源的启动器 已付费](https://www.kancloud.cn/tracy5546/dynamic-datasource/2344619)|[Spring Boot JdbcTemplate配置Druid多数据源](https://mrbird.cc/Spring-Boot-JdbcTemplate%20Druid.html)|
+---|---|
 
 
 * [SpringBoot集成Mysql、Mybatis、Mybatis-Plus，实现增删改查](https://www.jianshu.com/p/197155b76442)
