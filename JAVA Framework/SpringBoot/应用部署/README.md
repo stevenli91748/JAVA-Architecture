@@ -1,3 +1,6 @@
+## SpringBoot项目打包
+   * [Spring Boot项目打包成war包](https://mrbird.cc/Spring-Boot%20war.html)
+
 ## SpringBoot项目部署在AWS
    * [部署SpringBoot项目到亚马逊aws云服务上](https://www.twblogs.net/a/5cb0c671bd9eee480f075dcf/?lang=zh-cn)
    * [在AWS EC2上部署springboot项目](https://www.cnblogs.com/yelao/p/12589098.html)
