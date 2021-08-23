@@ -17,8 +17,23 @@
 ---|---|
 
 
-
-
+# Mybird
+* [基于数据库用户认证](https://mrbird.cc/%E5%9F%BA%E4%BA%8E%E6%95%B0%E6%8D%AE%E5%BA%93%E7%94%A8%E6%88%B7%E8%AE%A4%E8%AF%81.html)
+* [自定义Spring Security登录页](https://mrbird.cc/%E8%87%AA%E5%AE%9A%E4%B9%89Spring-Security%E7%99%BB%E5%BD%95%E9%A1%B5.html)
+* [Spring Security JSP标签库](https://mrbird.cc/Spring-Security-JSP%E6%A0%87%E7%AD%BE%E5%BA%93.html)
+* [Spring Security保护方法](https://mrbird.cc/Spring-Security%E4%BF%9D%E6%8A%A4%E6%96%B9%E6%B3%95.html)
+* [Spring Security OAuth2 SSO](https://mrbird.cc/Spring-Security-OAuth2-SSO.html)
+* [Spring Security OAuth2自定义令牌配置](https://mrbird.cc/Spring-Security-OAuth2-Token-Config.html)
+* [Spring Security OAuth2自定义Token获取方式](https://mrbird.cc/Spring-Security-OAuth2-Customize.html)
+* [Spring Security OAuth2入门](https://mrbird.cc/Spring-Security-OAuth2-Guide.html)
+* [Spring Security权限控制](https://mrbird.cc/Spring-Security-Permission.html)
+* [Spring Security退出登录](https://mrbird.cc/Spring-Security-logout.html)
+* [Spring Security Session管理](https://mrbird.cc/Spring-Security-Session-Manage.html)
+* [Spring Security短信验证码登录](https://mrbird.cc/Spring-Security-SmsCode.html)
+* [Spring Security添加记住我功能](https://mrbird.cc/Spring-Security-RememberMe.html)
+* [Spring Security添加图形验证码](https://mrbird.cc/Spring-Security-ValidateCode.html)
+* [Spring Security自定义用户认证](https://mrbird.cc/Spring-Security-Authentication.html)
+* [Spring Boot中开启Spring Security](https://mrbird.cc/Spring-Boot&Spring-Security.html)
 # 有用的参考
 
 * [手把手教你搞定权限管理，结合Spring Security实现接口的动态权限控制](https://www.jianshu.com/p/a8e66020fad1)
