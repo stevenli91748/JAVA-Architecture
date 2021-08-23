@@ -1,6 +1,6 @@
 
 ## 异步任务
-
+* [Spring Boot 中的异步调用](https://mrbird.cc/Spring-Boot-Async.html)
 * [使用@Async实现异步调用](http://blog.didispace.com/springbootasync/)
 * [使用@Async实现异步调用：自定义线程池](http://blog.didispace.com/springbootasync-2/)
 * [使用@Async实现异步调用：资源优雅关闭](http://blog.didispace.com/springbootasync-3/)
