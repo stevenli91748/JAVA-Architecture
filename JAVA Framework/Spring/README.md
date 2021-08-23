@@ -117,6 +117,14 @@
   * [spring 2019_IDEA版(下)](https://www.bilibili.com/video/av50157169/?spm_id_from=333.788.videocard.0)
   
 # 有用的参考
+
+
+* [Spring multipart上传下载](https://mrbird.cc/Spring-multipart%E4%B8%8A%E4%BC%A0%E4%B8%8B%E8%BD%BD.html)
+* [Spring表单校验](https://mrbird.cc/Spring%E8%A1%A8%E5%8D%95%E6%A0%A1%E9%AA%8C.html)
+* [Spring传递参数](https://mrbird.cc/Spring%E4%BC%A0%E9%80%92%E5%8F%82%E6%95%B0.html)
+* [搭建SpringMVC](https://mrbird.cc/%E6%90%AD%E5%BB%BASpringMVC.html)
+* [Spring注入外部值](https://mrbird.cc/Spring%E6%B3%A8%E5%85%A5%E5%A4%96%E9%83%A8%E5%80%BC.html)
+* 
 * [最全Spring面试71题与答案：IOC+AOP+事务+Bean装配+注解](https://www.javaweb.shop/article/217.html)
 * [万字Spring框架学习总结（附核心代码详细注释）](https://www.jianshu.com/p/751886415026)
 * [Spring声明式事务在哪些情况下会失效](https://developer.51cto.com/art/202104/657440.htm)
