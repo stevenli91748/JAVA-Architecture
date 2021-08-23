@@ -67,7 +67,7 @@
 * [SpringBoot实现API接口的完整代码](https://www.jb51.net/article/198167.htm)
 * [Spring Boot项目的接口防刷](https://www.javaweb.shop/article/204.html)
 * [使用WireMock快速伪造RESTful服务](https://mrbird.cc/WireMock-mock-RESTful.html)
- 
+* [Spring Boot整合Swagger2构建RESTful API](https://mrbird.cc/Spring-Boot-Swagger2-RESTful-API.html)
 
 
 * **第二部分 API网关 篇**
