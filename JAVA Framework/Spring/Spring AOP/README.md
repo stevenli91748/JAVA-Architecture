@@ -1,6 +1,11 @@
 
 # AOP
 
+* [AOP术语](https://mrbird.cc/AOP%E6%9C%AF%E8%AF%AD.html)
+* [使用注解配置AOP切面](https://mrbird.cc/%E4%BD%BF%E7%94%A8%E6%B3%A8%E8%A7%A3%E9%85%8D%E7%BD%AEAOP%E5%88%87%E9%9D%A2.html)
+* [在Spring XML中声明切面](https://mrbird.cc/%E5%9C%A8Spring-XML%E4%B8%AD%E5%A3%B0%E6%98%8E%E5%88%87%E9%9D%A2.html)
+* 
+
 
 
 # AOP例子程序
