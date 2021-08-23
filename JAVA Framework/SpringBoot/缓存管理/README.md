@@ -1,4 +1,4 @@
-
+* [Spring Boot中使用缓存](https://mrbird.cc/Spring-Boot%20cache.html)
 * [Spring boot caching tutorial with example](https://howtodoinjava.com/spring-boot2/spring-boot-cache-example/)
 * [SpringBoot2.0整合Redis](https://blog.csdn.net/qq_21046665/article/details/79692390?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522160619392819195264725683%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=160619392819195264725683&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_click~default-2-79692390.pc_first_rank_v2_rank_v28&utm_term=springboot%E6%95%B4%E5%90%88redis&spm=1018.2118.3001.4449)
 * [SpringBoot整合Redis（单机/集群）](https://blog.csdn.net/aa1215018028/article/details/83213846?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522160619426119724839251609%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=160619426119724839251609&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-3-83213846.pc_first_rank_v2_rank_v28&utm_term=springboot%E6%95%B4%E5%90%88redis%E9%9B%86%E7%BE%A4%E6%A8%A1%E5%BC%8F&spm=1018.2118.3001.4449)
