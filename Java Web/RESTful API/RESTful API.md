@@ -66,6 +66,9 @@
 * [如何优雅设计 API 接口，实现统一格式返回？](https://www.jianshu.com/p/90bac4eda34a)
 * [SpringBoot实现API接口的完整代码](https://www.jb51.net/article/198167.htm)
 * [Spring Boot项目的接口防刷](https://www.javaweb.shop/article/204.html)
+* [使用WireMock快速伪造RESTful服务](https://mrbird.cc/WireMock-mock-RESTful.html)
+ 
+
 
 * **第二部分 API网关 篇**
 * [这样讲 API 网关，你应该能明白了吧](https://zhuanlan.zhihu.com/p/90433496)
