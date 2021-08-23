@@ -15,3 +15,4 @@
 * [Springboot启动原理解析](https://zhuanlan.zhihu.com/p/60475611)
 * [深入学习Spring Boot中的SpringApplication](https://mrbird.cc/deepin-springboot-application.html)
 * [Spring Boot配合Hibernate Validator参数校验](https://mrbird.cc/Spring-Boot-Hibernate-Validator-Params-Check.html)
+* [自定义annotation](https://mrbird.cc/%E8%87%AA%E5%AE%9A%E4%B9%89annotation.html)
