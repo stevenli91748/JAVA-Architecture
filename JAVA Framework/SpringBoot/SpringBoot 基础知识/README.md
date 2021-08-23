@@ -14,3 +14,4 @@
 * [SpringBoot实现原理](https://blog.csdn.net/qq_38417983/article/details/81128299)
 * [Springboot启动原理解析](https://zhuanlan.zhihu.com/p/60475611)
 * [深入学习Spring Boot中的SpringApplication](https://mrbird.cc/deepin-springboot-application.html)
+* [Spring Boot配合Hibernate Validator参数校验](https://mrbird.cc/Spring-Boot-Hibernate-Validator-Params-Check.html)
