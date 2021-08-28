@@ -360,6 +360,16 @@
 * [springboot2.2.X手册：36个注解详细解析，一目了然](https://www.toutiao.com/i6823649625178636803/?group_id=6823649625178636803)
 * [springboot2.2.X手册：5分钟用Netty搭建高性能异步WebSocket服务](https://www.toutiao.com/a6856955045942919684/?log_from=1a78655ea3f6d_1627707229680)
 * [springboot2.2.X手册：女盆友太烦，给她做个简易人工智能聊天器](https://www.toutiao.com/a6860471476152336907/?log_from=3eacbe366fe15_1627707249674)
+* [springboot2.3手册：多租户及自动创建数据，这样做](https://www.toutiao.com/a6871807445329510924/?log_from=2df85be8314ff_1630173699495)
+* [springboot2.2.X手册：分布式系统下，重复提交的解决方案](https://www.toutiao.com/a6830430731164975620/?log_from=ab9e59705741c_1630173843341)
+* [springboot2.2.X手册：是时候用Lettuce替换Jedis操作Redis缓存了](https://www.toutiao.com/a6830375730736529934/?log_from=fdcf26a59505e_1630173886316)
+* [springboot2.2.X手册：基于OSS解决文件存储](https://www.toutiao.com/a6827253921170326027/?log_from=dec09d64c11b1_1630174296048)
+* [springboot2.2.X手册：对象复制哪种最快？7种复制方式性能对比](https://www.toutiao.com/a6826649167629124109/?log_from=a868f7cd5d4f5_1630174318961)
+* [springboot2.2.X手册：基于Jasypt的JavaConfig方式敏感信息加密](https://www.toutiao.com/a6826174219655578115/?log_from=6864da4c63cbb_1630174348544)
+* [springboot2.2.X手册：整合最新版MybatisPlus 3.3.1版本](https://www.toutiao.com/a6825131400312652302/?log_from=14d0e5c99715a_1630174374670)
+
+
+
 # springboot2.3手册
 
 * [springboot2.3手册：多租户及自动创建数据，这样做](https://www.toutiao.com/a6871807445329510924/)
