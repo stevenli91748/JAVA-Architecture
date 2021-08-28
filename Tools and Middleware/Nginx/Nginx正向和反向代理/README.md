@@ -30,6 +30,7 @@
 
 
 # 有用的参考
+* [nginx反向代理配置去除前缀](https://www.toutiao.com/a6833925749104181773/?log_from=7ca6179260085_1630181436726)
 * [Nginx配置实列-反向代理](https://www.kancloud.cn/ll90/liuyaofu/2144225)
 * [Nginx反向代理、负载均衡、动静分离、缓存、压缩、防盗链、跨域访问](https://www.cnblogs.com/ph7seven/p/9932712.html)
 * [nginx反向代理实例](https://www.cnblogs.com/hanmk/p/9289069.html)
