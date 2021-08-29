@@ -354,6 +354,7 @@ Open API开放平台必然涉及到客户应用的接入、API权限的管理、
 
 
 # API网关视频
+  * [Top 25 API Testing Interview Questions & Answers](https://www.youtube.com/watch?v=8cyMZ87J7zo)
   * [APIs for Beginners - How to use an API (Full Course / Tutorial)](https://www.youtube.com/watch?v=GZvSYJDk-us)
   * [什么是RESTful API](https://www.bilibili.com/video/BV1nb411c71r/?spm_id_from=333.788.videocard.5)
   * [全网高质量接口设计API网关组件实现分布式合集](https://www.bilibili.com/video/BV1mt411571k/?spm_id_from=333.788.videocard.8)
