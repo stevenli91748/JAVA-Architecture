@@ -748,6 +748,7 @@ SQL语言|[MySQL](https://github.com/stevenli91748/Database/blob/master/MySQL/RE
 [图形程序设计][%图形程序设计]|[Swing界面组件][%Swing界面组件]|[事件处理][%事件处理]|[高级Swing 界面组件][%高级Swing 界面组件]|[高级AWT][%高级AWT]|
 ---|---|---|---|---|
 
+# [百度AI能力开放平台](https://ai.baidu.com/)
 # [JAVA系统架构进阶之路](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E8%BF%9B%E9%98%B6%E4%B9%8B%E8%B7%AF.md)
 # [Java学习路径](https://mp.weixin.qq.com/s?__biz=MzI5MzYzMDAwNw==&mid=2247483728&idx=1&sn=da73111b02f90df1c9f251b6c6c1e23f&chksm=ec6e7808db19f11e18e677096da7e9049c741cf4f5a6d08003c0d396ae41176aa2a2d80f8ec8&scene=21#wechat_redirect)
 # [10分钟白嫖我的常用的在线工具网站清单](https://juejin.im/post/5ed1f00ff265da771b2fe075)
