@@ -47,8 +47,8 @@ nginx出口-->http服务
 [精尽 Nginx 学习指南](http://svip.iocoder.cn/Nginx/tutorials/)|[当初我要是这么学习Nginx就好了](https://www.jianshu.com/p/e90050dc89b6)|[Nginx和HAProxy对比，各有什么优点与不足？](https://www.zhihu.com/question/34489042)|
 ---|---|---|
 
-[Nginx官网](http://nginx.org/en/download.html)|[Nginx系列博客---好](https://www.cnblogs.com/itzgr/tag/Nginx/)|[Nginx 入门指南](https://www.w3cschool.cn/nginx/)|
----|---|---|
+[Nginx官网](http://nginx.org/en/download.html)|[Nginx系列博客---好](https://www.cnblogs.com/itzgr/tag/Nginx/)|[Nginx 入门指南](https://www.w3cschool.cn/nginx/)|[Nginx 详细教程](https://www.yht7.com/nginx)|
+---|---|---|---|
 
 [负载均衡层设计方案](#负载均衡层设计方案)|[亿级PV请求的三种负载均衡技术](https://www.cnblogs.com/chanshuyi/p/how-loadbalance-works.html)|
 ---|---|
