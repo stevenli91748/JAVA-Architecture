@@ -100,6 +100,10 @@
 [【项目实战】微服务多租户系统后台管理系统---基于SpringBoot2.x、SpringCloud和SpringCloudAlibaba并采用前后端分离的企业级微服务多租户系统架构](https://gitee.com/zlt2000/microservices-platform)|
 ---|
 
+[【项目实战】hmallcloud---基于SpringBoot2.x、SpringCloud和SpringCloudAlibaba并采用前后端分离的企业级微服务敏捷开发系统架构, 一套从 前端模板 - 基础框架 - 分布式架构 - 开源项目 - 持续集成 - 自动化部署 - 系统监测 - 无缝升级 的全方位J2EE企业级开发解决方案](https://www.kancloud.cn/haijun0314/fengxue/1704481 '基于SpringBoot2.x、SpringCloud和SpringCloudAlibaba并采用前后端分离的企业级微服务敏捷开发系统架构。真正实现了jwt无状态统一权限认证的解决方案，支持CI/CD多环境部署，并提供应用管理方便第三方系统接入；同时还集合各种微服务治理功能和监控功能。模块包括:企业级的认证系统、开发平台、应用监控、慢sql监控、统一日志、单点登录、Redis分布式高速缓存、配置中心、分布式任务调度、接口文档、代码生成等等, 一套从 前端模板 - 基础框架 - 分布式架构 - 开源项目 - 持续集成 - 自动化部署 - 系统监测 - 无缝升级 的全方位J2EE企业级开发解决方案')|
+---|
+
+
 #### Github Java Topic排行榜第九排名的项目
   * [【项目实战】MMall电商系统,包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署](https://github.com/stevenli91748/mall)
   * [mall电商系统学习教程目录](https://www.jianshu.com/p/3d91982ce458)
