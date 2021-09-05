@@ -254,6 +254,7 @@
 
 # 有用的参考
   * 深入实践Spring Boot.pdf
+  * [Spring Boot Actuator详解](https://www.jianshu.com/p/8bfac9289c7e)
   * [SpringBoot零基础实现WebApi服务(1)项目构建](https://zhuanlan.zhihu.com/p/47365661)
   * [阿里程序员常用的 15 款开发者工具（建议收藏）](https://www.javaweb.shop/article/330.html)
   * [Spring中如何使用设计模式](https://www.javaweb.shop/article/295.html)
