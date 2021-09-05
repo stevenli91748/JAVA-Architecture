@@ -5,7 +5,7 @@
 
 
 
-[Spring Boot常用注解](https://www.pianshen.com/article/8357683291/)|[SpringBoot与SpringCloud的版本对应详细版](https://blog.csdn.net/qq32933432/article/details/89375630)|[如何从官网查看SpringCloud各个版本对应最优的SpringBoot版本](https://blog.csdn.net/ywb201314/article/details/107444583?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromBaidu-1.not_use_machine_learn_pai&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromBaidu-1.not_use_machine_learn_pai)|
+[Spring Boot常用注解](https://www.pianshen.com/article/8357683291/)|[SpringBoot与SpringCloud的版本对应详细版](https://blog.csdn.net/qq32933432/article/details/89375630)|[SpringCloud各个版本对应最优的SpringBoot版本](https://www.kancloud.cn/hanxt/springcloud/1599296)|
 ---|---|---|
 
 [Spring框架模块依赖关系](https://juejin.cn/post/6844903670945939469)|[一文读懂Spring Boot各模块组件依赖关系](https://cloud.tencent.com/developer/article/1683323)|[spring5的各模块组依赖关系](https://www.jianshu.com/p/d3233d6322ef)|
