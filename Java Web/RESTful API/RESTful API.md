@@ -28,7 +28,9 @@
 
 
 # 目录
+
 * API的意义---我们必须拥抱 API，并使用 API 先行（API-first）的集成思维来开发我们的集成用例，以 API 驱动的方式开展项目开发和集成
+* [企业中的 API 设计思路---以API 驱动的方式设计系统  ](https://www.infoq.cn/article/9aWfgWP7cWqGW44vMmeZ?utm_source=related_read_bottom&utm_medium=article)
 * API 可分三类
   * 1 边缘（edge）API---边缘 API 担当企业系统的网关，边缘 API 是前端团队需要与之交互的。首先设计边缘 API，其中大多数用于访问特定的系统功能。避免将后端的复杂性泄漏给前端应用，一旦设计好边缘 API，后端团队就可以匹配边缘 API 的需求，着手设计工具 API 和领域 AP。如果碰上一些未考虑到的问题，可以按需回滚，更新边缘 API
     * [以API 先行方法 驱动的方式开展边缘（edge）API项目的开发步骤](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/RESTful%20API/%E4%BB%A5%20API%20%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%96%B9%E5%BC%8F%E5%BC%80%E5%B1%95%E9%A1%B9%E7%9B%AE%E5%BC%80%E5%8F%91%E7%9A%84%E6%AD%A5%E9%AA%A4.md)
@@ -46,7 +48,6 @@
 
 * **第一部分 RestFulAPI 篇**
 
-* [企业中的 API 设计思路---以API 驱动的方式设计系统  ](https://www.infoq.cn/article/9aWfgWP7cWqGW44vMmeZ?utm_source=related_read_bottom&utm_medium=article)
 * [ RESTfull API简单项目的快速搭建](https://www.bilibili.com/video/av13224378?from=search&seid=10786600269014143134)
 * [【项目实践】SpringBoot三招组合拳，手把手教你打出优雅的后端接口](https://zhuanlan.zhihu.com/p/134209666?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
 * [【项目实践】后端接口统一规范的同时，如何优雅得扩展规范](https://juejin.im/post/6844904143912435719?)
