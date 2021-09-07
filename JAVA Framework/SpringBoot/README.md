@@ -225,6 +225,14 @@
 * [使用Spring Boot+Dubbo+Zookeeper搭建第一个分布式项目(详细介绍如何搭建分布式项目，下篇)](https://blog.csdn.net/weixin_42146366/article/details/90268555)
 * [SpringBoot+SpringSession+Redis实现session共享及单点登录](https://blog.csdn.net/xjj1040249553/article/details/82658889)
 
+---
+### 一个完整的前后端整合的例子
+ * [【从零入门系列-0】Spring Boot 之 Hello World](https://segmentfault.com/a/1190000019137607)
+ * [【从零入门系列-1】Spring Boot 之 程序结构设计](https://segmentfault.com/a/1190000019165644)
+ * [【从零入门系列-2】Spring Boot 之 数据库实体定义实现](https://segmentfault.com/a/1190000019174796)
+ * [【从零入门系列-3】Spring Boot 之 数据库操作](https://segmentfault.com/a/1190000019180288)
+ * [【从零入门系列-4】Spring Boot 之 WEB接口设计实现](https://segmentfault.com/a/1190000019191020)
+ * [【从零入门系列-5】Spring Boot 之 前端展示](https://segmentfault.com/a/1190000019204965)
 
 
 # Spring Boot视频
