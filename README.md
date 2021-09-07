@@ -442,8 +442,8 @@ VisualVM分析工具|[Jenkins](https://github.com/stevenli91748/JAVA-Architectur
 [Log4j日志文件](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/log4j日志文件/README.md)|[FastDFS](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/FastDFS/README.md)|[模板引擎](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/%E6%A8%A1%E6%9D%BF%E5%BC%95%E6%93%8E/README.md)|[Shiro---安全架构](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Security/shiro.md)|[Activiti工作流引擎](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Activiti%E5%B7%A5%E4%BD%9C%E6%B5%81%E5%BC%95%E6%93%8E/README.md)|[Mockito](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Mockito/mochito.md)|
 ---|---|---|---|---|---|
 
-[Hutool---Hutool是项目中“util”包友好的替代,是一个小而全的Java工具类库](https://github.com/dromara/hutool)|[JWT](https://www.ruanyifeng.com/blog/2018/07/json_web_token-tutorial.html)|
----|---|
+[Hutool---Hutool是项目中“util”包友好的替代,是一个小而全的Java工具类库](https://github.com/dromara/hutool)|[JWT](https://www.ruanyifeng.com/blog/2018/07/json_web_token-tutorial.html)|[持续集成服务 Travis CI 教程](https://www.ruanyifeng.com/blog/2017/12/travis_ci_tutorial.html)|
+---|---|---|
 
 [任务调度](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E4%BB%BB%E5%8A%A1%E8%B0%83%E5%BA%A6/README.md)|[压力测试工具](https://github.com/stevenli91748/JAVA-Architecture/tree/master/Tools%20and%20Middleware/%E5%8E%8B%E5%8A%9B%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7)|[Ansible](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Ansible/Ansible%20.md)|[LVS](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/LVS/README.md)|[Istio](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Istio/README.md)|[Prometheus](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Prometheus/README.md)|[微信开发 Java SDK ，支持包括微信支付，开放平台，小程序，企业微信，公众号等的后端开发](https://github.com/Wechat-Group/WxJava)|
 ---|---|---|---|---|---|---|
