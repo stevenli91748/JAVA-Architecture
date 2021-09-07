@@ -26,6 +26,10 @@
 [APIs for Beginners - How to use an API ](https://www.youtube.com/watch?v=GZvSYJDk-us)|[别在简历写秒杀系统了！我告诉你消息管理平台实现原理吧---怎样设计接口](https://zhuanlan.zhihu.com/p/258732579)|[RESTfull API简单项目的快速搭建](https://www.bilibili.com/video/av13224378?from=search&seid=10786600269014143134)|
 ---|---|---|
 
+[Cookie、Session、Token与JWT解析](https://www.jianshu.com/p/cab856c32222)
+---|
+
+
 
 # 目录
 
