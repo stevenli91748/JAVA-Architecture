@@ -58,6 +58,7 @@
 * [看看人家那后端API接口写得，那叫一个优雅！---着重介绍一下后端服务器如何实现把数据返回给前端](https://www.jianshu.com/p/3c1d3ba5f56d)
 * [REST API Design Documenttion tools](https://www.kancloud.cn/thinkphp/api-design-and-documentation/43384) 
 * [REST API 接口测试](https://www.imooc.com/learn/1048)
+* []()
 * [基于token身份认证的完整实例](https://www.jianshu.com/p/75f6d7426118)
 * [初探APP架构之后端接口设计方案](https://www.jianshu.com/p/f3b747abdf2a)
 * [设计模式---接口设计原则之分离原则详解](https://www.jianshu.com/p/fe1e778b4f52)
@@ -84,6 +85,7 @@
 * [五、API网关解决方案](#API网关解决方案)
 * [六、企业怎么选择API网关](#企业怎么选择API网关)
 * 参考： [百亿流量微服务网关的设计与实现](https://www.infoq.cn/article/EeE1xZeic4UdpbmR*03t)
+* [Spring Cloud Gateway + Jwt + Oauth2 实现网关的鉴权操作](https://www.jianshu.com/p/c9f0f1c7333c)
 
 * **第三部分 前后端分离 篇**
 
