@@ -35,5 +35,5 @@
 * [Spring Security自定义用户认证](https://mrbird.cc/Spring-Security-Authentication.html)
 * [Spring Boot中开启Spring Security](https://mrbird.cc/Spring-Boot&Spring-Security.html)
 # 有用的参考
-
+* [基于token身份认证的完整实例](https://www.jianshu.com/p/75f6d7426118)
 * [手把手教你搞定权限管理，结合Spring Security实现接口的动态权限控制](https://www.jianshu.com/p/a8e66020fad1)
