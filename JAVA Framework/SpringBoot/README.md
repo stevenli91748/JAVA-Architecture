@@ -38,7 +38,7 @@
 
 # 优秀学习博客
 
-[极客教程---提供最全面最通俗易懂的IT技术教程，包括基础教程和高级教程](https://geek-docs.com/)|
+[极客教程---提供最全面最通俗易懂的IT技术教程，包括基础教程和高级教程](https://geek-docs.com/spring-boot)|
 ---|
 
 [程序猿DD---非常好](http://blog.didispace.com/)|[ 芋道源码------非常好](http://www.iocoder.cn/)|[猿码架构](https://www.jianshu.com/u/657c611b2e07)|[周立的博客](http://itmuch.com/)|[My bird](https://mrbird.cc/archives/)|[纯洁的微笑---Spring Boot](http://www.ityouknow.com/spring-boot.html)|[木九天](https://my.oschina.net/mdxlcj?tab=newest&catalogId=5781789)|
