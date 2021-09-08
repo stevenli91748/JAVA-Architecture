@@ -8,8 +8,8 @@
 [Spring Boot常用注解](https://www.pianshen.com/article/8357683291/)|[SpringBoot与SpringCloud的版本对应详细版](https://blog.csdn.net/qq32933432/article/details/89375630)|[SpringCloud各个版本对应最优的SpringBoot版本](https://www.kancloud.cn/hanxt/springcloud/1599296)|
 ---|---|---|
 
-[Spring框架模块依赖关系](https://juejin.cn/post/6844903670945939469)|[一文读懂Spring Boot各模块组件依赖关系](https://cloud.tencent.com/developer/article/1683323)|[spring5的各模块组依赖关系](https://www.jianshu.com/p/d3233d6322ef)|
----|---|---|
+[Spring框架模块依赖关系](https://juejin.cn/post/6844903670945939469)|[一文读懂Spring Boot各模块组件依赖关系](https://cloud.tencent.com/developer/article/1683323)|[spring5的各模块组依赖关系](https://www.jianshu.com/p/d3233d6322ef)|[YAML 语言教程](https://www.ruanyifeng.com/blog/2016/07/yaml.html)|
+---|---|---|---|
 
 [springboot + aop的最佳实践](https://juejin.cn/post/6844904105819783175)|[Spring Boot DTO示例：实体到DTO的转换](https://www.jdon.com/55804)|
 ---|---|
