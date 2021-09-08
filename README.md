@@ -417,7 +417,7 @@
 
 * [最新 Java 开发工具教程，都在这了](https://mp.weixin.qq.com/s/K2nbzDQmharfYhkBDvwQdw)
 
-[手把手教你配置VS Code远程开发工具，工作效率提升N倍](https://mp.weixin.qq.com/s/AR9BbYG4t8nKvhWihaEgvg)|[Alibaba Java诊断利器Arthas](https://github.com/alibaba/arthas)|
+[VS Code](https://github.com/stevenli91748/JAVA-Architecture/blob/master/VS%20Code/README.md)|[Alibaba Java诊断利器Arthas](https://github.com/alibaba/arthas)|
 ---|---|
 
 [IntellijIDEA](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/IntellijIDEA)|[Nginx](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Nginx)|[WebSocket](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/WebSocket)|[Tomcat](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Tomcat/README.md)|[QRCode](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/QRCode)|[Search Engineer](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Search%20Engineer)|[Shiro权限框架](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Shiro)|[Maven](https://github.com/stevenli91748/Engineering-special/blob/master/Maven/README.md)|
