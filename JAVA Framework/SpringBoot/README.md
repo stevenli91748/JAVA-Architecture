@@ -234,6 +234,24 @@
  * [【从零入门系列-4】Spring Boot 之 WEB接口设计实现](https://segmentfault.com/a/1190000019191020)
  * [【从零入门系列-5】Spring Boot 之 前端展示](https://segmentfault.com/a/1190000019204965)
 
+### 
+
+  * [spring-boot-route（一）Controller接收参数的几种方式](https://segmentfault.com/a/1190000025188239)
+  * []()
+  * []()
+  * []()
+  * []()
+  * []()
+  * []()
+  * []()
+  * []()
+  * []()
+
+
+
+
+
+
 
 # Spring Boot视频
  * [Spring Boot and Angular Tutorial - Build a Reddit Clone (Coding Project)](https://www.youtube.com/watch?v=DKlTBBuc32c)
