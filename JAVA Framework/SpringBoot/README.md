@@ -40,9 +40,11 @@
 [《芋道源码 SpringBoot-Labs---一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库,带你全面且深度地学习 Spring Boot 2.X ](https://github.com/YunaiV/SpringBoot-Labs)|
 ---|
 
-[springboot-guide 这个项目主要涵盖了 Spring Boot 比较重要的一些知识点，比如如何优雅地进行异常处理](https://github.com/CodingDocs/springboot-guide)|[springBoot--- 
-springboot 框架与其它组件结合如 jpa、mybatis、websocket、security、shiro、cache等](https://github.com/527515025/springBoot)|
----|---|
+[springboot-guide 这个项目主要涵盖了 Spring Boot 比较重要的一些知识点，比如如何优雅地进行异常处理](https://github.com/CodingDocs/springboot-guide)|
+---|
+
+[springBoot--- springboot 框架与其它组件结合如 jpa、mybatis、websocket、security、shiro、cache等](https://github.com/527515025/springBoot)|
+---|
 
 ## Spring Boot 实战项目/脚手架推荐
 
