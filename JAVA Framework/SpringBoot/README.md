@@ -44,8 +44,8 @@
 [程序猿DD---非常好](http://blog.didispace.com/)|[ 芋道源码------非常好](http://www.iocoder.cn/)|[猿码架构](https://www.jianshu.com/u/657c611b2e07)|[周立的博客](http://itmuch.com/)|[My bird](https://mrbird.cc/archives/)|[纯洁的微笑---Spring Boot](http://www.ityouknow.com/spring-boot.html)|[木九天](https://my.oschina.net/mdxlcj?tab=newest&catalogId=5781789)|
 ---|---|---|---|---|---|---|
 
-[手摸手教你学spring boot 2.x](https://www.kancloud.cn/hanxt/springboot2/1492077)|[小马哥的技术博客](https://mercyblitz.github.io/)|[SpringBoot布道系列](https://www.jianshu.com/p/964370d9374e)|
----|---|---|
+[手摸手教你学spring boot 2.x](https://www.kancloud.cn/hanxt/springboot2/1492077)|[小马哥的技术博客](https://mercyblitz.github.io/)|[SpringBoot布道系列](https://www.jianshu.com/p/964370d9374e)|[阮一峰的网络日志 ](https://www.ruanyifeng.com/blog/developer/)|
+---|---|---|---|
 
 [ITNEXT---software developers, engineers, IT architects and system engineers to share knowledge, connect 付费](https://itnext.io/)|[vinsguru](https://www.vinsguru.com/topics/)|
 ---|---|
