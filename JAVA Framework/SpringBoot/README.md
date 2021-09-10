@@ -19,20 +19,50 @@
 [Spring Boot 学习示例---spring-boot-examples](https://github.com/ityouknow/spring-boot-examples)|[spring-boot-demo---一个用来深度学习并实战 spring boot 的项目](https://github.com/xkcoding/spring-boot-demo)|
 ---|----|
 
-[完整项目---Github点赞接近 100k 的Spring Boot学习教程+实战项目推荐！](https://zhuanlan.zhihu.com/p/150513285?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|[完整项目--SpringBoot全家桶：23篇博客加23个可运行项目让你对它了如指掌,特别好的项目](https://zhuanlan.zhihu.com/p/145063307?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|
----|---|
-
 [Spring Boot 学习Sample](https://github.com/ityouknow/spring-boot-examples)|
 ---|
+
+## Spring Boot 教程项目
+
 
 [Spring Boot API Project Seed 是一个基于Spring Boot & MyBatis的种子项目，用于快速构建中小型API、RESTful API项目](https://github.com/lihengming/spring-boot-api-project-seed)|
 ---|
 
-[《芋道源码 SpringBoot-Labs---一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库](https://github.com/YunaiV/SpringBoot-Labs)|
+[Mybird 学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2](https://github.com/wuyouzhuguli/SpringAll)|
 ---|
 
-[学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2](https://github.com/wuyouzhuguli/SpringAll)|
+
+[完整项目--SpringBoot全家桶：23篇博客加23个可运行项目让你对它了如指掌,特别好的项目](https://zhuanlan.zhihu.com/p/145063307?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|[《芋道源码 SpringBoot-Labs---一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库,带你全面且深度地学习 Spring Boot 2.X ](https://github.com/YunaiV/SpringBoot-Labs)|
+---|---|
+
+[springboot-guide 这个项目主要涵盖了 Spring Boot 比较重要的一些知识点，比如如何优雅地进行异常处理](https://github.com/CodingDocs/springboot-guide)|[springBoot--- 
+springboot 框架与其它组件结合如 jpa、mybatis、websocket、security、shiro、cache等](https://github.com/527515025/springBoot)|
+---|---|
+
+## Spring Boot 实战项目/脚手架推荐
+
+[【实战项目】eladmin---项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由](https://github.com/elunez/eladmin)|
 ---|
+
+[【实战项目】mall---mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署 非常不错 这个项目还提供了详细的文档](https://github.com/macrozheng/mall)|
+---|
+
+[【实战项目】vhr---江南一点雨大佬的力作。整个项目不论是前端还是后端的代码质量都比较高，非常值得学习,vhr（微人事）这个项目的话，是一个前后端分离的人力资源管理系统，后端基于 SpringBoot 开发，前端基于 Vue 开发](https://github.com/lenve/vhr)|
+---|
+
+[【实战项目】community---开源论坛、问答系统，现有功能提问、回复、通知、最新、最热、消除零回复功能。功能持续更新中](https://github.com/codedrinker/community)|
+---|
+
+[【实战项目】SpringBoot-Shiro-Vue---提供一套基于 Spring Boot-Shiro-Vue 的权限管理思路.前后端都加以控制,做到按钮/接口级别的权限](https://github.com/Heeexy/SpringBoot-Shiro-Vue)|
+---|
+
+[完整项目---Github点赞接近 100k 的Spring Boot学习教程+实战项目推荐！](https://zhuanlan.zhihu.com/p/150513285?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|
+---|---|
+
+
+
+
+
 
 ---
 
