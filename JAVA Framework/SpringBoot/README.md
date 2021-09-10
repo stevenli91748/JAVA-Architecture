@@ -24,6 +24,8 @@
 
 ## Spring Boot 教程项目
 
+[完整项目---Github点赞接近 100k 的Spring Boot学习教程+实战项目推荐！](https://zhuanlan.zhihu.com/p/150513285?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|
+---|
 
 [Spring Boot API Project Seed 是一个基于Spring Boot & MyBatis的种子项目，用于快速构建中小型API、RESTful API项目](https://github.com/lihengming/spring-boot-api-project-seed)|
 ---|
@@ -32,8 +34,11 @@
 ---|
 
 
-[完整项目--SpringBoot全家桶：23篇博客加23个可运行项目让你对它了如指掌,特别好的项目](https://zhuanlan.zhihu.com/p/145063307?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|[《芋道源码 SpringBoot-Labs---一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库,带你全面且深度地学习 Spring Boot 2.X ](https://github.com/YunaiV/SpringBoot-Labs)|
----|---|
+[完整项目--SpringBoot全家桶：23篇博客加23个可运行项目让你对它了如指掌,特别好的项目](https://zhuanlan.zhihu.com/p/145063307?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|
+---|
+
+[《芋道源码 SpringBoot-Labs---一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库,带你全面且深度地学习 Spring Boot 2.X ](https://github.com/YunaiV/SpringBoot-Labs)|
+---|
 
 [springboot-guide 这个项目主要涵盖了 Spring Boot 比较重要的一些知识点，比如如何优雅地进行异常处理](https://github.com/CodingDocs/springboot-guide)|[springBoot--- 
 springboot 框架与其它组件结合如 jpa、mybatis、websocket、security、shiro、cache等](https://github.com/527515025/springBoot)|
@@ -56,8 +61,6 @@ springboot 框架与其它组件结合如 jpa、mybatis、websocket、security�
 [【实战项目】SpringBoot-Shiro-Vue---提供一套基于 Spring Boot-Shiro-Vue 的权限管理思路.前后端都加以控制,做到按钮/接口级别的权限](https://github.com/Heeexy/SpringBoot-Shiro-Vue)|
 ---|
 
-[完整项目---Github点赞接近 100k 的Spring Boot学习教程+实战项目推荐！](https://zhuanlan.zhihu.com/p/150513285?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|
----|---|
 
 
 
