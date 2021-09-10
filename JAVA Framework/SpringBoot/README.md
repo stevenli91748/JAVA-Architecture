@@ -19,7 +19,7 @@
 [Spring Boot 学习示例---spring-boot-examples](https://github.com/ityouknow/spring-boot-examples)|[spring-boot-demo---一个用来深度学习并实战 spring boot 的项目](https://github.com/xkcoding/spring-boot-demo)|
 ---|----|
 
-[完整项目---Github点赞接近 100k 的Spring Boot学习教程+实战项目推荐！](https://zhuanlan.zhihu.com/p/150513285?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|[完整项目--SpringBoot全家桶：23篇博客加23个可运行项目让你对它了如指掌](https://zhuanlan.zhihu.com/p/145063307?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|
+[完整项目---Github点赞接近 100k 的Spring Boot学习教程+实战项目推荐！](https://zhuanlan.zhihu.com/p/150513285?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|[完整项目--SpringBoot全家桶：23篇博客加23个可运行项目让你对它了如指掌,特别好的项目](https://zhuanlan.zhihu.com/p/145063307?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|
 ---|---|
 
 [完整项目---整理了八个开源的 Spring Boot 学习资源](https://zhuanlan.zhihu.com/p/66125910)|[Spring Boot 学习Sample](https://github.com/ityouknow/spring-boot-examples)|
