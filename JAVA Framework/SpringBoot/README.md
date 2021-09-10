@@ -22,8 +22,8 @@
 [完整项目---Github点赞接近 100k 的Spring Boot学习教程+实战项目推荐！](https://zhuanlan.zhihu.com/p/150513285?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|[完整项目--SpringBoot全家桶：23篇博客加23个可运行项目让你对它了如指掌,特别好的项目](https://zhuanlan.zhihu.com/p/145063307?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|
 ---|---|
 
-[完整项目---整理了八个开源的 Spring Boot 学习资源](https://zhuanlan.zhihu.com/p/66125910)|[Spring Boot 学习Sample](https://github.com/ityouknow/spring-boot-examples)|
----|---|
+[Spring Boot 学习Sample](https://github.com/ityouknow/spring-boot-examples)|
+---|
 
 [Spring Boot API Project Seed 是一个基于Spring Boot & MyBatis的种子项目，用于快速构建中小型API、RESTful API项目](https://github.com/lihengming/spring-boot-api-project-seed)|
 ---|
