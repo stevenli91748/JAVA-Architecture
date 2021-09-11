@@ -55,6 +55,8 @@
 [解放双手，再来推荐5个Java项目开发快速开发脚手架！项目经验和私活都不愁了](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247487467&idx=1&sn=c2d2bd28918b58d8646f1441791aeaaf&chksm=cea24020f9d5c9364afc22013fac3266fabffcaa370f708434a6a304274c6b1d8bce235b7a24&token=1072540862&lang=zh_CN#rd)|[听说你要接私活？Guide连夜整理了5个开源免费的Java项目快速开发脚手架](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247487002&idx=1&sn=e9db79f1bbd561b3ead1c9475f8fd7f5&chksm=cea241d1f9d5c8c72fa33764208a26a26de5d2d3e4ac2a6794e0792ba779bb11414b3fd506e3&cur_album_id=1345382825083895808&scene=189#rd)|
 ---|---|
 
+---
+
 [【实战项目】eladmin---项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由](https://github.com/elunez/eladmin)|
 ---|
 
@@ -73,7 +75,8 @@
 [【实战项目】SpringBlade开发手册---SpringBlade 是由一个商业级项目升级优化而来的SpringCloud微服务架构，采用Java8 API重构了业务代码，完全遵循阿里巴巴编码规范。采用Spring Boot 2 、Spring Cloud Greenwich 、Mybatis 等核心技术，同时提供基于React和Vue的两个前端框架用于快速搭建企业级的微服务系统平台](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98/SpringBlade%20%E9%A1%B9%E7%9B%AE/README.md)|
 ---|
 
-
+[【实战项目】pig--- 码云最有价值开源项目,基于 Spring Cloud Hoxton 、Spring Boot 2.2、 OAuth2 的 RBAC 权限管理系统,提供对常见容器化支持 Docker、Kubernetes、Rancher2 支持,提供 lambda 、stream api 、webflux 的生产实践](https://pig4cloud.com/#/)|
+---|
 
 
 
