@@ -75,9 +75,11 @@
 [【实战项目】SpringBlade开发手册---SpringBlade 是由一个商业级项目升级优化而来的SpringCloud微服务架构，采用Java8 API重构了业务代码，完全遵循阿里巴巴编码规范。采用Spring Boot 2 、Spring Cloud Greenwich 、Mybatis 等核心技术，同时提供基于React和Vue的两个前端框架用于快速搭建企业级的微服务系统平台](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98/SpringBlade%20%E9%A1%B9%E7%9B%AE/README.md)|
 ---|
 
-[【实战项目】pig--- 码云最有价值开源项目,基于 Spring Cloud Hoxton 、Spring Boot 2.2、 OAuth2 的 RBAC 权限管理系统,提供对常见容器化支持 Docker、Kubernetes、Rancher2 支持,提供 lambda 、stream api 、webflux 的生产实践](https://pig4cloud.com/#/)|
+[【实战项目】pig--- 码云最有价值开源项目,基于 Spring Cloud Hoxton 、Spring Boot 2.2、 OAuth2 的 RBAC 权限管理系统,提供对常见容器化支持 Docker、Kubernetes、Rancher2 支持,提供 lambda 、stream api 、webflux 的生产实践, 功能完全开源](https://pig4cloud.com/#/)|
 ---|
 
+[【实战项目】Guns快速开发平台--码云最有价值开源项目, 基于 Spring Boot2.0+版本开发，并且支持 Spring Cloud Alibaba 微服务等优秀框架，](https://gitee.com/stylefeng/guns)|
+---|
 
 
 
