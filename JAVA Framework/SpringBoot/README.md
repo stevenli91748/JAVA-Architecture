@@ -125,10 +125,14 @@
 [【项目实战】Spring Security-JWT-OAuth2一本通(基于SpringBoot2.0)](https://www.kancloud.cn/hanxt/springsecurity/1472507)|[【项目实战】Spring Security-JWT-OAuth2一本通(基于SpringBoot2.0)视频](https://www.bilibili.com/video/BV16J41127jq)|
 ---|---|
 
-[【项目实战】DongBB-前后端分离RBAC权限管理系统](https://www.kancloud.cn/hanxt/vue-spring/1528245)|[【项目实战】实战SpringCloud微服务从青铜到王者](https://www.kancloud.cn/hanxt/vue-spring/1719694)|[【项目实战】Spring Cloud 微服务权限系统搭建教程](https://www.kancloud.cn/mrbird/spring-cloud/1263679 "博客地址 https://mrbird.cc/archives/")|
----|---|---|
+[【项目实战】DongBB-前后端分离RBAC权限管理系统---单体架构版本](https://www.kancloud.cn/hanxt/vue-spring/1528245)|[【项目实战】DongBB-前后端分离RBAC权限管理系统之一个基于electron、vue开发的跨操作系统、跨项目的代码生成器](https://gitee.com/hanxt/dongbb-coder)|
+---|---|
 
-[【项目实战】DongBB-前后端分离RBAC权限管理系统之一个基于electron、vue开发的跨操作系统、跨项目的代码生成器](https://gitee.com/hanxt/dongbb-coder)|
+【项目实战】实战SpringCloud微服务从青铜到王者---DongBB-前后端分离RBAC权限管理系统的微服务架构版本](https://www.kancloud.cn/hanxt/vue-spring/1719694)|
+---|
+
+
+[【项目实战】Spring Cloud 微服务权限系统搭建教程---基于Spring Cloud Hoxton.RELEASE&Spring Cloud Oauth2&Spring Cloud Alibaba的微服务权限系统，手把手教你从零搭建到Docker部署（新增K8S集群部署教程）](https://www.kancloud.cn/mrbird/spring-cloud/1263679 "博客地址 https://mrbird.cc/archives/")|
 ---|
 
 [【项目实战】企业级微服务框架项目---前后端分离的企业级微服务架构,引入组件化的思想实现高内聚低耦合,并提供应用管理方便第三方系统接入；同时还集合各种微服务治理功能和监控功能](https://www.kancloud.cn/zlt2000/microservices-platform/919412)|
