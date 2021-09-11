@@ -24,10 +24,11 @@
 
 ## Spring Boot 教程项目
 
-[完整项目---Github点赞接近 100k 的Spring Boot学习教程+实战项目推荐！](https://zhuanlan.zhihu.com/p/150513285?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|[硬核推荐10个最火的Spring实战开源项目！总有一款适合你](https://www.bilibili.com/video/BV1b7411N7Qt)|
----|---|
 
 [Spring Boot API Project Seed 是一个基于Spring Boot & MyBatis的种子项目，用于快速构建中小型API、RESTful API项目](https://github.com/lihengming/spring-boot-api-project-seed)|
+---|
+
+[SpringBoot实战开发---SpringBoot如何和各项技术整合 好评如潮 58集](https://www.youtube.com/watch?v=DU6ApMNDtWo&list=PLwDQt7s1o9J4AgZVM0hdtNpWiyrKIMHOx&index=1)|
 ---|
 
 [Mybird 学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2](https://github.com/wuyouzhuguli/SpringAll)|
@@ -47,6 +48,9 @@
 ---|
 
 ## Spring Boot 实战项目/脚手架推荐
+
+[完整项目---Github点赞接近 100k 的Spring Boot学习教程+实战项目推荐！](https://zhuanlan.zhihu.com/p/150513285?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|[硬核推荐10个最火的Spring实战开源项目！总有一款适合你](https://www.bilibili.com/video/BV1b7411N7Qt)|
+---|---|
 
 [解放双手，再来推荐5个Java项目开发快速开发脚手架！项目经验和私活都不愁了](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247487467&idx=1&sn=c2d2bd28918b58d8646f1441791aeaaf&chksm=cea24020f9d5c9364afc22013fac3266fabffcaa370f708434a6a304274c6b1d8bce235b7a24&token=1072540862&lang=zh_CN#rd)|[听说你要接私活？Guide连夜整理了5个开源免费的Java项目快速开发脚手架](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247487002&idx=1&sn=e9db79f1bbd561b3ead1c9475f8fd7f5&chksm=cea241d1f9d5c8c72fa33764208a26a26de5d2d3e4ac2a6794e0792ba779bb11414b3fd506e3&cur_album_id=1345382825083895808&scene=189#rd)|
 ---|---|
@@ -116,8 +120,6 @@
 [项目实战例子](https://github.com/stevenli91748/JAVA-Architecture/tree/master/JAVA%20Framework/SpringBoot/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98#readme)|
 ---|
 
-[SpringBoot实战开发---SpringBoot如何和各项技术整合 好评如潮 58集](https://www.youtube.com/watch?v=DU6ApMNDtWo&list=PLwDQt7s1o9J4AgZVM0hdtNpWiyrKIMHOx&index=1)|
----|
 
 [【项目实战】Spring Security-JWT-OAuth2一本通(基于SpringBoot2.0)](https://www.kancloud.cn/hanxt/springsecurity/1472507)|[【项目实战】Spring Security-JWT-OAuth2一本通(基于SpringBoot2.0)视频](https://www.bilibili.com/video/BV16J41127jq)|
 ---|---|
