@@ -22,7 +22,40 @@
 [Spring Boot 学习Sample](https://github.com/ityouknow/spring-boot-examples)|
 ---|
 
-## Spring Boot 教程项目
+# 优秀学习博客
+
+[极客教程 Spring Boot篇---提供最全面最通俗易懂的IT技术教程，包括基础教程和高级教程](https://geek-docs.com/spring-boot)|
+---|
+
+[程序猿DD---非常好](http://blog.didispace.com/)|[ 芋道源码------非常好](http://www.iocoder.cn/)|[猿码架构](https://www.jianshu.com/u/657c611b2e07)|[周立的博客](http://itmuch.com/)|[My bird](https://mrbird.cc/archives/)|[纯洁的微笑---Spring Boot](http://www.ityouknow.com/spring-boot.html)|[木九天](https://my.oschina.net/mdxlcj?tab=newest&catalogId=5781789)|
+---|---|---|---|---|---|---|
+
+[手摸手教你学spring boot 2.x](https://www.kancloud.cn/hanxt/springboot2/1492077)|[小马哥的技术博客](https://mercyblitz.github.io/)|[SpringBoot布道系列](https://www.jianshu.com/p/964370d9374e)|[阮一峰的网络日志 ](https://www.ruanyifeng.com/blog/developer/)|
+---|---|---|---|
+
+[ITNEXT---software developers, engineers, IT architects and system engineers to share knowledge, connect 付费](https://itnext.io/)|[vinsguru](https://www.vinsguru.com/topics/)|
+---|---|
+
+[bugstack虫洞栈---非常好](https://bugstack.cn/itstack/itstack-demo-design.html)|[SpringBoot精选](https://www.jianshu.com/c/edd22b195bd9)|[精通 Spring Boot 42 讲---纯洁的微笑](https://github.com/ityouknow/spring-boot-leaning)|
+---|---|---|
+
+[廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/1022910821149312)|[Spring Boot教程](http://www.51gjie.com/javaweb/168)|
+---|---|
+
+[精尽 Spring Boot 学习指南](http://svip.iocoder.cn/Spring-Boot/tutorials/)|[字母哥博客---springboot系列之02-需要了解的宏观知识点](http://www.zimug.com/java/spring/springboot%e7%b3%bb%e5%88%97%e4%b9%8b02-%e9%9c%80%e8%a6%81%e4%ba%86%e8%a7%a3%e7%9a%84%e5%ae%8f%e8%a7%82%e7%9f%a5%e8%af%86%e7%82%b9/.html)|[Spring SpringBoot SpringCloud技术一览](https://zhuanlan.zhihu.com/p/267654014?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)|
+---|---|---|
+
+[Spring SpringMVC Spring Boot Spring cloud Spring cloud alibaba全家桶教程](https://www.kancloud.cn/king_om/ss_m/1941921)|
+---|
+
+[泥瓦匠 - Springboot-learning-example](https://github.com/JeffLi1993/springboot-learning-example)|[Liaokailin - Spring Boot 实战教程](https://blog.csdn.net/liaokailin/category_5765237.html)|
+---|---|
+
+[互联网应用开发平台综合技术入门指南](https://www.kancloud.cn/fang2099/rayplatform/2109037)|
+---|
+
+
+# Spring Boot 教程项目
 
 
 [Spring Boot API Project Seed 是一个基于Spring Boot & MyBatis的种子项目，用于快速构建中小型API、RESTful API项目](https://github.com/lihengming/spring-boot-api-project-seed)|
@@ -55,9 +88,10 @@
 [解放双手，再来推荐5个Java项目开发快速开发脚手架！项目经验和私活都不愁了](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247487467&idx=1&sn=c2d2bd28918b58d8646f1441791aeaaf&chksm=cea24020f9d5c9364afc22013fac3266fabffcaa370f708434a6a304274c6b1d8bce235b7a24&token=1072540862&lang=zh_CN#rd)|[听说你要接私活？Guide连夜整理了5个开源免费的Java项目快速开发脚手架](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247487002&idx=1&sn=e9db79f1bbd561b3ead1c9475f8fd7f5&chksm=cea241d1f9d5c8c72fa33764208a26a26de5d2d3e4ac2a6794e0792ba779bb11414b3fd506e3&cur_album_id=1345382825083895808&scene=189#rd)|
 ---|---|
 
----
-
 ## 比较基础的实战项目
+
+[项目实战例子](https://github.com/stevenli91748/JAVA-Architecture/tree/master/JAVA%20Framework/SpringBoot/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98#readme)|
+---|
 
 [【实战项目】vhr---江南一点雨大佬的力作。整个项目不论是前端还是后端的代码质量都比较高，非常值得学习,vhr（微人事）这个项目的话，是一个前后端分离的人力资源管理系统，后端基于 SpringBoot 开发，前端基于 Vue 开发](https://github.com/lenve/vhr)|
 ---|
@@ -77,8 +111,6 @@
 [【实战项目】RuoYi---基于SpringBoot的权限管理系统，可以用于所有的 Web 应用程序，如网站管理后台，网站会员中心，CMS，CRM，OA。所有前端后台代码封装过后十分精简易上手，出错概率低。同时支持移动客户端访问](http://ruoyi.vip/)|
 ---|
 
----
-
 ## 相对复杂的实战项目
 
 [【实战项目】eladmin---项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由](https://github.com/elunez/eladmin)|
@@ -89,51 +121,6 @@
 
 [【实战项目】SpringBlade开发手册---SpringBlade 是由一个商业级项目升级优化而来的SpringCloud微服务架构，采用Java8 API重构了业务代码，完全遵循阿里巴巴编码规范。采用Spring Boot 2 、Spring Cloud Greenwich 、Mybatis 等核心技术，同时提供基于React和Vue的两个前端框架用于快速搭建企业级的微服务系统平台](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98/SpringBlade%20%E9%A1%B9%E7%9B%AE/README.md)|
 ---|
-
-
-
-
-
-# 优秀学习博客
-
-[极客教程 Spring Boot篇---提供最全面最通俗易懂的IT技术教程，包括基础教程和高级教程](https://geek-docs.com/spring-boot)|
----|
-
-[程序猿DD---非常好](http://blog.didispace.com/)|[ 芋道源码------非常好](http://www.iocoder.cn/)|[猿码架构](https://www.jianshu.com/u/657c611b2e07)|[周立的博客](http://itmuch.com/)|[My bird](https://mrbird.cc/archives/)|[纯洁的微笑---Spring Boot](http://www.ityouknow.com/spring-boot.html)|[木九天](https://my.oschina.net/mdxlcj?tab=newest&catalogId=5781789)|
----|---|---|---|---|---|---|
-
-[手摸手教你学spring boot 2.x](https://www.kancloud.cn/hanxt/springboot2/1492077)|[小马哥的技术博客](https://mercyblitz.github.io/)|[SpringBoot布道系列](https://www.jianshu.com/p/964370d9374e)|[阮一峰的网络日志 ](https://www.ruanyifeng.com/blog/developer/)|
----|---|---|---|
-
-[ITNEXT---software developers, engineers, IT architects and system engineers to share knowledge, connect 付费](https://itnext.io/)|[vinsguru](https://www.vinsguru.com/topics/)|
----|---|
-
-[bugstack虫洞栈---非常好](https://bugstack.cn/itstack/itstack-demo-design.html)|[SpringBoot精选](https://www.jianshu.com/c/edd22b195bd9)|[精通 Spring Boot 42 讲---纯洁的微笑](https://github.com/ityouknow/spring-boot-leaning)|
----|---|---|
-
-[廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/1022910821149312)|[Spring Boot教程](http://www.51gjie.com/javaweb/168)|
----|---|
-
-
-[精尽 Spring Boot 学习指南](http://svip.iocoder.cn/Spring-Boot/tutorials/)|[字母哥博客---springboot系列之02-需要了解的宏观知识点](http://www.zimug.com/java/spring/springboot%e7%b3%bb%e5%88%97%e4%b9%8b02-%e9%9c%80%e8%a6%81%e4%ba%86%e8%a7%a3%e7%9a%84%e5%ae%8f%e8%a7%82%e7%9f%a5%e8%af%86%e7%82%b9/.html)|[Spring SpringBoot SpringCloud技术一览](https://zhuanlan.zhihu.com/p/267654014?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)|
----|---|---|
-
-[Spring SpringMVC Spring Boot Spring cloud Spring cloud alibaba全家桶教程](https://www.kancloud.cn/king_om/ss_m/1941921)|
----|
-
-[泥瓦匠 - Springboot-learning-example](https://github.com/JeffLi1993/springboot-learning-example)|[Liaokailin - Spring Boot 实战教程](https://blog.csdn.net/liaokailin/category_5765237.html)|
----|---|
-
-[互联网应用开发平台综合技术入门指南](https://www.kancloud.cn/fang2099/rayplatform/2109037)|
----|
-
----
-
-# 项目实战教学
-
-[项目实战例子](https://github.com/stevenli91748/JAVA-Architecture/tree/master/JAVA%20Framework/SpringBoot/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98#readme)|
----|
-
 
 [【项目实战】Spring Security-JWT-OAuth2一本通(基于SpringBoot2.0)](https://www.kancloud.cn/hanxt/springsecurity/1472507)|[【项目实战】Spring Security-JWT-OAuth2一本通(基于SpringBoot2.0)视频](https://www.bilibili.com/video/BV16J41127jq)|
 ---|---|
