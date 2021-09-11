@@ -128,9 +128,8 @@
 [【项目实战】DongBB-前后端分离RBAC权限管理系统---单体架构版本](https://www.kancloud.cn/hanxt/vue-spring/1528245)|[【项目实战】DongBB-前后端分离RBAC权限管理系统之一个基于electron、vue开发的跨操作系统、跨项目的代码生成器](https://gitee.com/hanxt/dongbb-coder)|
 ---|---|
 
-【项目实战】实战SpringCloud微服务从青铜到王者---DongBB-前后端分离RBAC权限管理系统的微服务架构版本](https://www.kancloud.cn/hanxt/vue-spring/1719694)|
+[【项目实战】实战SpringCloud微服务从青铜到王者---DongBB-前后端分离RBAC权限管理系统的微服务架构版本](https://www.kancloud.cn/hanxt/vue-spring/1719694)|
 ---|
-
 
 [【项目实战】Spring Cloud 微服务权限系统搭建教程---基于Spring Cloud Hoxton.RELEASE&Spring Cloud Oauth2&Spring Cloud Alibaba的微服务权限系统，手把手教你从零搭建到Docker部署（新增K8S集群部署教程）](https://www.kancloud.cn/mrbird/spring-cloud/1263679 "博客地址 https://mrbird.cc/archives/")|
 ---|
