@@ -57,22 +57,12 @@
 
 ---
 
-[【实战项目】eladmin---项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由](https://github.com/elunez/eladmin)|
----|
-
-[【实战项目】mall---mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署 非常不错 这个项目还提供了详细的文档](https://github.com/macrozheng/mall)|
----|
+## 比较基础的实战项目
 
 [【实战项目】vhr---江南一点雨大佬的力作。整个项目不论是前端还是后端的代码质量都比较高，非常值得学习,vhr（微人事）这个项目的话，是一个前后端分离的人力资源管理系统，后端基于 SpringBoot 开发，前端基于 Vue 开发](https://github.com/lenve/vhr)|
 ---|
 
 [【实战项目】community---开源论坛、问答系统，现有功能提问、回复、通知、最新、最热、消除零回复功能。功能持续更新中](https://github.com/codedrinker/community)|
----|
-
-[【实战项目】SpringBoot-Shiro-Vue---提供一套基于 Spring Boot-Shiro-Vue 的权限管理思路.前后端都加以控制,做到按钮/接口级别的权限](https://github.com/Heeexy/SpringBoot-Shiro-Vue)|
----|
-
-[【实战项目】SpringBlade开发手册---SpringBlade 是由一个商业级项目升级优化而来的SpringCloud微服务架构，采用Java8 API重构了业务代码，完全遵循阿里巴巴编码规范。采用Spring Boot 2 、Spring Cloud Greenwich 、Mybatis 等核心技术，同时提供基于React和Vue的两个前端框架用于快速搭建企业级的微服务系统平台](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98/SpringBlade%20%E9%A1%B9%E7%9B%AE/README.md)|
 ---|
 
 [【实战项目】pig--- 码云最有价值开源项目,基于 Spring Cloud Hoxton 、Spring Boot 2.2、 OAuth2 的 RBAC 权限管理系统,提供对常见容器化支持 Docker、Kubernetes、Rancher2 支持,提供 lambda 、stream api 、webflux 的生产实践, 功能完全开源](https://pig4cloud.com/#/)|
@@ -81,9 +71,28 @@
 [【实战项目】Guns快速开发平台--码云最有价值开源项目, 基于 Spring Boot2.0+版本开发，并且支持 Spring Cloud Alibaba 微服务等优秀框架，](https://gitee.com/stylefeng/guns)|
 ---|
 
+[【实战项目】SpringBoot-Shiro-Vue---提供一套基于 Spring Boot-Shiro-Vue 的权限管理思路.前后端都加以控制,做到按钮/接口级别的权限](https://github.com/Heeexy/SpringBoot-Shiro-Vue)|
+---|
 
+[【实战项目】RuoYi---基于SpringBoot的权限管理系统，可以用于所有的 Web 应用程序，如网站管理后台，网站会员中心，CMS，CRM，OA。所有前端后台代码封装过后十分精简易上手，出错概率低。同时支持移动客户端访问](http://ruoyi.vip/)|
+---|
 
 ---
+
+## 相对复杂的实战项目
+
+[【实战项目】eladmin---项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由](https://github.com/elunez/eladmin)|
+---|
+
+[【实战项目】mall---mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署 非常不错 这个项目还提供了详细的文档](https://github.com/macrozheng/mall)|
+---|
+
+[【实战项目】SpringBlade开发手册---SpringBlade 是由一个商业级项目升级优化而来的SpringCloud微服务架构，采用Java8 API重构了业务代码，完全遵循阿里巴巴编码规范。采用Spring Boot 2 、Spring Cloud Greenwich 、Mybatis 等核心技术，同时提供基于React和Vue的两个前端框架用于快速搭建企业级的微服务系统平台](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98/SpringBlade%20%E9%A1%B9%E7%9B%AE/README.md)|
+---|
+
+
+
+
 
 # 优秀学习博客
 
