@@ -28,6 +28,10 @@
 [精尽 Spring Cloud 学习指南](http://svip.iocoder.cn/Spring-Cloud/tutorials/)|[Spring官方文档： Spring Cloud AWS---如何把SpringCloud项目放到AWS](https://cloud.spring.io/spring-cloud-aws/spring-cloud-aws.html#_basic_setup)|
 ---|---|
 
+[美团技术](https://tech.meituan.com/)|[360 核心安全](https://blogs.360.cn/)|[阿里数据库内核月报---阿里数据库内核月报非常好的数据库进阶资料，文章多为阿里数据库内核专家所写](http://mysql.taobao.org/monthly/)|
+---|---|---|
+
+
 [小马哥的技术博客](https://mercyblitz.github.io/)|[Spring SpringBoot SpringCloud技术一览](https://zhuanlan.zhihu.com/p/267654014?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)|[bugstack虫洞栈---非常好](https://bugstack.cn/itstack/itstack-demo-design.html)|
 ---|---|---|
 
