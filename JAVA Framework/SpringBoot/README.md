@@ -71,7 +71,6 @@
 [Mybird 学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2](https://github.com/wuyouzhuguli/SpringAll)|
 ---|
 
-
 [完整项目--SpringBoot全家桶：23篇博客加23个可运行项目让你对它了如指掌,特别好的项目](https://zhuanlan.zhihu.com/p/145063307?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|
 ---|
 
@@ -83,6 +82,13 @@
 
 [springBoot--- springboot 框架与其它组件结合如 jpa、mybatis、websocket、security、shiro、cache等](https://github.com/527515025/springBoot)|
 ---|
+
+
+## 中间件
+
+[SpringBoot 中间件设计和开发](https://juejin.cn/book/6940996508632219689/section/6940996902338953216)|
+---|
+
 
 ## Spring Boot 实战项目/脚手架推荐
 
