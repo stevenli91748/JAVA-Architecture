@@ -98,6 +98,9 @@
 [解放双手，再来推荐5个Java项目开发快速开发脚手架！项目经验和私活都不愁了](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247487467&idx=1&sn=c2d2bd28918b58d8646f1441791aeaaf&chksm=cea24020f9d5c9364afc22013fac3266fabffcaa370f708434a6a304274c6b1d8bce235b7a24&token=1072540862&lang=zh_CN#rd)|[听说你要接私活？Guide连夜整理了5个开源免费的Java项目快速开发脚手架](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247487002&idx=1&sn=e9db79f1bbd561b3ead1c9475f8fd7f5&chksm=cea241d1f9d5c8c72fa33764208a26a26de5d2d3e4ac2a6794e0792ba779bb11414b3fd506e3&cur_album_id=1345382825083895808&scene=189#rd)|
 ---|---|
 
+[不重复造轮子都是骗小孩的，教你手撸 SpringBoot 脚手架](https://bugstack.cn/framework/2021/03/14/%E4%B8%8D%E9%87%8D%E5%A4%8D%E9%80%A0%E8%BD%AE%E5%AD%90%E5%8F%AA%E6%98%AF%E9%AA%97%E5%B0%8F%E5%AD%A9%E5%AD%90%E7%9A%84-%E6%95%99%E4%BD%A0%E6%89%8B%E6%92%B8-SpringBoot-%E8%84%9A%E6%89%8B%E6%9E%B6.html)|
+---|
+
 ## 比较基础的实战项目
 
 [项目实战例子](https://github.com/stevenli91748/JAVA-Architecture/tree/master/JAVA%20Framework/SpringBoot/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98#readme)|
