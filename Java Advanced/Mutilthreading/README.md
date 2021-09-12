@@ -18,6 +18,9 @@
 [在IntelliJ IDEA中多线程并发代码的调试方法](http://www.zimug.com/java/%e5%9c%a8intellij-idea%e4%b8%ad%e5%a4%9a%e7%ba%bf%e7%a8%8b%e5%b9%b6%e5%8f%91%e4%bb%a3%e7%a0%81%e7%9a%84%e8%b0%83%e8%af%95%e6%96%b9%e6%b3%95/.html)|[恕我直言:你可能真的不会多线程代码调试、IDEA、java](https://www.bilibili.com/video/BV13T4y177xc)|
 ---|---|
 
+[鹿鼎记 · 韦小宝，丽春院、天地会、入皇宫等五个场景，搭配不同剧情讲解多线程和锁，真香](https://bugstack.cn/itstack-code-life/2020/11/22/%E9%B9%BF%E9%BC%8E%E8%AE%B0-%E9%9F%A6%E5%B0%8F%E5%AE%9D-%E4%B8%BD%E6%98%A5%E9%99%A2-%E5%A4%A9%E5%9C%B0%E4%BC%9A-%E5%85%A5%E7%9A%87%E5%AE%AB%E7%AD%89%E4%BA%94%E4%B8%AA%E5%9C%BA%E6%99%AF-%E6%90%AD%E9%85%8D%E4%B8%8D%E5%90%8C%E5%89%A7%E6%83%85%E8%AE%B2%E8%A7%A3%E5%A4%9A%E7%BA%BF%E7%A8%8B%E5%92%8C%E9%94%81-%E7%9C%9F%E9%A6%99.html)|
+---|
+
 
 * 操作系统
   * 进程和线程
