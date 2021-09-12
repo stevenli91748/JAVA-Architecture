@@ -674,14 +674,15 @@ SQL语言|[MySQL](https://github.com/stevenli91748/Database/blob/master/MySQL/RE
 
 ### Java核心架构体系设计
 
-* [1. 日志架构设计]()
-* [2. 异常架构设计]()
-* [3. 消息架构设计]()
-* [4. 安全架构设计]()
-* [5. 权限架构设计]()
-* [6. 验证架构设计]()
-* [7. 阻塞架构设计]()
-* [8. 数据字典架构设计]()
+* [1 日志架构设计]()
+* [2 异常架构设计]()
+* [3 消息架构设计]()
+* [4 安全架构设计]()
+* [5 权限架构设计]()
+* [6 验证架构设计]()
+* [7 阻塞架构设计]()
+* [8 数据字典架构设计]()
+
 
 
 [Java Visual Machine](https://github.com/stevenli91748/JAVA-Architecture/tree/master/Java%20Advanced/JVM)|[Java Multithreading](https://github.com/stevenli91748/JAVA-Architecture/tree/master/Java%20Advanced/Mutilthreading)|[Java Concurrency](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/Concurrency/README.md)|Java 8 函数式编程|[java异步编程](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/java%E5%BC%82%E6%AD%A5%E7%BC%96%E7%A8%8B/README.md)|
