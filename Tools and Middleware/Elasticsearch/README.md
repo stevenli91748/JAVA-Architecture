@@ -1,8 +1,8 @@
 
 # [Elasticsearch面试](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Elasticsearch/interview/README.md)
 
-[周志明  部署 Elastic Stack](https://icyfenix.cn/appendix/operation-env-setup/elk-setup.html)|
----|
+[周志明  部署 Elastic Stack](https://icyfenix.cn/appendix/operation-env-setup/elk-setup.html)|[windows环境下安装elasticsearch6.2.2](https://bugstack.cn/itstack-demo-any/2019/08/12/windows%E7%8E%AF%E5%A2%83%E4%B8%8B%E5%AE%89%E8%A3%85elasticsearch6.2.2.html)|
+---|---|
 
 [深入了解Elasticsearch](https://www.bilibili.com/video/BV1NW411P7XU)|[elastic search集群故障切换测试](https://www.kancloud.cn/ty1114/elasticsearch/1079430)|
 ---|---|
