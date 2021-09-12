@@ -651,6 +651,7 @@ SQL语言|[MySQL](https://github.com/stevenli91748/Database/blob/master/MySQL/RE
 
 * [java核心知识整理](https://www.kancloud.cn/imnotdown1019/java_core_full/1004074)|
 * [恕我直言：你可能真的不会java编程](https://www.kancloud.cn/hanxt/javacrazy/1568811)
+* [数学，离一个程序员有多近](https://bugstack.cn/itstack-code-life/2021/01/17/%E6%95%B0%E5%AD%A6-%E7%A6%BB%E4%B8%80%E4%B8%AA%E7%A8%8B%E5%BA%8F%E5%91%98%E6%9C%89%E5%A4%9A%E8%BF%91.html)
 ---
 
 * 核心机制
