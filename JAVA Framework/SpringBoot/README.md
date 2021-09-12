@@ -153,8 +153,8 @@
 [【项目实战】微服务多租户系统后台管理系统---基于SpringBoot2.x、SpringCloud和SpringCloudAlibaba并采用前后端分离的企业级微服务多租户系统架构](https://gitee.com/zlt2000/microservices-platform)|
 ---|
 
-[给学习加点实践，开发一个分布式IM(即时通信)系统！---使用JavaFx、Netty4.x、SpringBoot、Mysql等技术栈和偏向于DDD领域驱动设计方式，搭建的仿桌面版微信实现通信核心功能](https://bugstack.cn/itstack-demo-netty-3/2021/08/17/%E7%BB%99%E5%AD%A6%E4%B9%A0%E5%8A%A0%E7%82%B9%E5%AE%9E%E8%B7%B5-%E5%BC%80%E5%8F%91%E4%B8%80%E4%B8%AA%E5%88%86%E5%B8%83%E5%BC%8FIM(%E5%8D%B3%E6%97%B6%E9%80%9A%E4%BF%A1)%E7%B3%BB%E7%BB%9F.html)|
----|
+[给学习加点实践，开发一个分布式IM(即时通信)系统！---使用JavaFx、Netty4.x、SpringBoot、Mysql等技术栈和偏向于DDD领域驱动设计方式，搭建的仿桌面版微信实现通信核心功能](https://bugstack.cn/itstack-demo-netty-3/2021/08/17/%E7%BB%99%E5%AD%A6%E4%B9%A0%E5%8A%A0%E7%82%B9%E5%AE%9E%E8%B7%B5-%E5%BC%80%E5%8F%91%E4%B8%80%E4%B8%AA%E5%88%86%E5%B8%83%E5%BC%8FIM(%E5%8D%B3%E6%97%B6%E9%80%9A%E4%BF%A1)%E7%B3%BB%E7%BB%9F.html)|[Netty + JavaFx 实战：仿桌面版微信聊天](https://blog.csdn.net/generalfu/category_10400631.html)|
+---|---|
 
 [【项目实战】hmallcloud---基于SpringBoot2.x、SpringCloud和SpringCloudAlibaba并采用前后端分离的企业级微服务敏捷开发系统架构, 一套从 前端模板 - 基础框架 - 分布式架构 - 开源项目 - 持续集成 - 自动化部署 - 系统监测 - 无缝升级 的全方位J2EE企业级开发解决方案](https://www.kancloud.cn/haijun0314/fengxue/1704481 '基于SpringBoot2.x、SpringCloud和SpringCloudAlibaba并采用前后端分离的企业级微服务敏捷开发系统架构。真正实现了jwt无状态统一权限认证的解决方案，支持CI/CD多环境部署，并提供应用管理方便第三方系统接入；同时还集合各种微服务治理功能和监控功能。模块包括:企业级的认证系统、开发平台、应用监控、慢sql监控、统一日志、单点登录、Redis分布式高速缓存、配置中心、分布式任务调度、接口文档、代码生成等等, 一套从 前端模板 - 基础框架 - 分布式架构 - 开源项目 - 持续集成 - 自动化部署 - 系统监测 - 无缝升级 的全方位J2EE企业级开发解决方案')|
 ---|
