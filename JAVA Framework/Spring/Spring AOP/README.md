@@ -65,6 +65,7 @@ AOP的实现是通过代理模式，在调用对象的某个方法时，执行�
 
 
 # 有用的参考
+
 * [Spring面向切面编程](http://objcoding.com/2017/08/25/Spring-AOP/)
 * [SpringAOP ApectJ 动态代理](https://www.cnblogs.com/heapStark/p/8358217.html)
 * [AOP的两种实现-Spring AOP以及AspectJ](https://www.cnblogs.com/john8169/p/9780502.html)
@@ -73,7 +74,7 @@ AOP的实现是通过代理模式，在调用对象的某个方法时，执行�
 * [Spring AOP无法拦截内部方法调用](https://www.jianshu.com/p/6534945eb3b5)
 * [Spring---AOP](https://www.jianshu.com/p/a0101e7cc649)
 
-
+* [一个Bug，让我发现了 Java 界的.AJ(锥)](https://bugstack.cn/itstack-code-life/2021/04/21/%E4%B8%80%E4%B8%AABug-%E8%AE%A9%E6%88%91%E5%8F%91%E7%8E%B0%E4%BA%86-Java-%E7%95%8C%E7%9A%84.AJ(%E9%94%A5).html)
 * [循序渐进之Spring AOP(1) - 原理](https://blog.csdn.net/autfish/article/details/51068062)
 * [循序渐进之Spring AOP(2) - 基本概念](https://blog.csdn.net/autfish/article/details/51100425)
 * [循序渐进之Spring AOP(3) - 配置代理](https://blog.csdn.net/autfish/article/details/51115420)
