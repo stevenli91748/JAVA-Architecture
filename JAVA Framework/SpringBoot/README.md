@@ -220,7 +220,7 @@
 # 英文的项目实战
 
 * [Free Spring Boot Projects 系列](https://www.sourcecodeexamples.net/p/free-spring-boot-projects.html)
-
+* [10+ Free Open Source Projects Using Spring Boot](https://www.javaguides.net/2018/10/free-open-source-projects-using-spring-boot.html)
 
 ---
 
