@@ -245,6 +245,10 @@
   * [【项目实战】Free Spring Boot Angular Open Source Projects 系列](https://www.javaguides.net/2020/06/free-spring-boot-angular-open-source-projects-github.html)
   * [【项目实战】Free Spring Boot Microservices Open Source Projects ](https://www.javaguides.net/2020/06/free-spring-boot-microservices-open-source-projects-github.html)
   * [【项目实战】Free Spring Boot ReactJS Open Source Projects](https://www.javaguides.net/2020/08/free-spring-boot-reactjs-open-source-projects-github.html)
+  * [【项目实战】E-Commerce Open Source Projects using Spring Boot + React + Angular + Microservices 系列](https://www.javaguides.net/2021/02/java-free-e-commerce-open-source-projects.html)
+  * [【项目实战】Spring Boot + Angular 8 + WebSocket Example Tutorial](https://www.javaguides.net/2019/06/spring-boot-angular-8-websocket-example-tutorial.html)
+  * [【项目实战】Angular + Spring Boot CRUD Full Stack Application](https://www.youtube.com/playlist?list=PLGRDMO4rOGcNzi3CpBWsCdQSzbjdWWy-f)
+  * [【项目实战】Angular + Spring Boot REST API Example Tutorial ](https://www.youtube.com/watch?v=_rMAnZIcRiU)
 ---
 
 # 目录
