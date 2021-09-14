@@ -7,8 +7,8 @@
 <a href="https://ibb.co/T1ZJxpx"><img src="https://i.ibb.co/kJpzsks/spring20190531222435175.png" alt="spring20190531222435175" border="0"></a>
 
 
-[Spring 常用注解](https://www.pianshen.com/article/56151732739/)|[Spring框架的@Valid注解](https://www.cnblogs.com/acm-bingzi/p/spring_valid.html)|
----|---|
+[Spring Core Annotations](https://www.javaguides.net/2018/10/15-spring-core-annotations.html)|[Spring MVC Annotations with Examples](https://www.javaguides.net/2018/11/spring-web-mvc-annotations.html)|[Spring Boot Annotations](https://www.javaguides.net/2018/10/spring-boot-annotations.html)|[Spring Scheduling Annotations](https://www.javaguides.net/2018/10/spring-scheduling-annotations.html)|[Spring 常用注解](https://www.pianshen.com/article/56151732739/)|[Spring框架的@Valid注解](https://www.cnblogs.com/acm-bingzi/p/spring_valid.html)|
+---|---|---|---|---|---|
 
 [ Spring 例子程序](https://github.com/stevenli91748/JAVA-Architecture/tree/master/JAVA%20Framework/Spring/Spring%20%E4%BE%8B%E5%AD%90%E7%A8%8B%E5%BA%8F)|[Spring SpringBoot SpringCloud技术一览](https://zhuanlan.zhihu.com/p/267654014?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)|
 ---|---|
