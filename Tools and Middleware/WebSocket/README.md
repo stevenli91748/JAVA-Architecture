@@ -2,7 +2,9 @@
 [ 极客教程  WebSocket篇](https://geek-docs.com/websocket)|
 ---|
 
+# 项目实战
 
+* [Spring Boot + Angular 8 + WebSocket Example Tutorial](https://www.javaguides.net/2019/06/spring-boot-angular-8-websocket-example-tutorial.html)
 
 # 视频
 
