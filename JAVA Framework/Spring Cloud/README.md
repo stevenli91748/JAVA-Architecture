@@ -11,6 +11,16 @@
 <a href="https://ibb.co/JyXjrtm"><img src="https://i.ibb.co/X3mxFLj/spring-cloud.png" alt="spring-cloud" border="0"></a>
 
 
+## 注解
+[Spring Core Annotations](https://www.javaguides.net/2018/10/15-spring-core-annotations.html)|[Spring MVC Annotations with Examples](https://www.javaguides.net/2018/11/spring-web-mvc-annotations.html)|[Spring Boot Annotations](https://www.javaguides.net/2018/10/spring-boot-annotations.html)|[Spring Scheduling Annotations](https://www.javaguides.net/2018/10/spring-scheduling-annotations.html)|
+---|---|---|---|
+
+[JUnit 5 Annotations with Examples](https://www.javaguides.net/2018/07/junit-5-annotations-with-example.html)|[All JPA Annotations: Mapping Annotations](https://www.javaguides.net/2018/11/all-jpa-annotations-mapping-annotations.html)|[Guide to Standard JAX-RS Annotations develop Rest API ](https://www.javaguides.net/2018/06/guide-to-standard-jax-rs-annotations.html)|
+---|---|---|
+
+[All Java Built-In Annotations Examples](https://www.javaguides.net/2018/11/all-java-built-in-annotations-examples.html)|[All Hibernate Annotations : Mapping Annotations](https://www.javaguides.net/2018/12/all-hibernate-mapping-annotations.html)|
+---|---|
+
 [SpringCloud常用注解总结](https://blog.csdn.net/u014666697/article/details/90756644)|
 ---|
 
