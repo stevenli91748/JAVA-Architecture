@@ -16,6 +16,9 @@
 
 # 学习示例
 
+[How to Learn Spring Boot Step by Step - Spring Boot Learning Path](https://www.youtube.com/watch?v=nZFe5ITz11I)|
+---|
+
 [Spring Boot 学习示例---spring-boot-examples](https://github.com/ityouknow/spring-boot-examples)|[spring-boot-demo---一个用来深度学习并实战 spring boot 的项目](https://github.com/xkcoding/spring-boot-demo)|
 ---|----|
 
@@ -219,9 +222,9 @@
 
 # 英文的项目实战
 
-* [Free Spring Boot Projects 系列](https://www.sourcecodeexamples.net/p/free-spring-boot-projects.html)
-* [10+ Free Open Source Projects Using Spring Boot](https://www.javaguides.net/2018/10/free-open-source-projects-using-spring-boot.html)
-
+* [【项目实战】Free Spring Boot Projects 系列](https://www.sourcecodeexamples.net/p/free-spring-boot-projects.html)
+* [【项目实战】10+ Free Open Source Projects Using Spring Boot 系列](https://www.javaguides.net/2018/10/free-open-source-projects-using-spring-boot.html)
+* [Spring Boot Source Code Examples 系列](https://www.sourcecodeexamples.net/p/spring-boot-source-code-examples.html)
 ---
 
 # 目录
