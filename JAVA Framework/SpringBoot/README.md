@@ -238,10 +238,13 @@
 
 # 英文的项目实战
 
-* [【项目实战】Free Spring Boot Projects 系列](https://www.sourcecodeexamples.net/p/free-spring-boot-projects.html)
-* [【项目实战】10+ Free Open Source Projects Using Spring Boot 系列](https://www.javaguides.net/2018/10/free-open-source-projects-using-spring-boot.html)
-* [Spring Boot Source Code Examples 系列](https://www.sourcecodeexamples.net/p/spring-boot-source-code-examples.html)
-* [Top Spring Boot Tutorials Examples 系列](https://www.javaguides.net/p/top-java-tutorials.html)
+* [英文的项目实战学习路径](https://www.javaguides.net/p/top-java-tutorials.html)
+  * [【项目实战】Free Spring Boot Projects 系列](https://www.sourcecodeexamples.net/p/free-spring-boot-projects.html)
+  * [【项目实战】10+ Free Open Source Projects Using Spring Boot 系列](https://www.javaguides.net/2018/10/free-open-source-projects-using-spring-boot.html)
+  * [【项目实战】Spring Boot Source Code Examples 系列](https://www.sourcecodeexamples.net/p/spring-boot-source-code-examples.html)
+  * [【项目实战】Free Spring Boot Angular Open Source Projects 系列](https://www.javaguides.net/2020/06/free-spring-boot-angular-open-source-projects-github.html)
+  * [【项目实战】Free Spring Boot Microservices Open Source Projects ](https://www.javaguides.net/2020/06/free-spring-boot-microservices-open-source-projects-github.html)
+  * [【项目实战】Free Spring Boot ReactJS Open Source Projects](https://www.javaguides.net/2020/08/free-spring-boot-reactjs-open-source-projects-github.html)
 ---
 
 # 目录
