@@ -13,8 +13,8 @@
 [Spring框架模块依赖关系](https://juejin.cn/post/6844903670945939469)|[一文读懂Spring Boot各模块组件依赖关系](https://cloud.tencent.com/developer/article/1683323)|[spring5的各模块组依赖关系](https://www.jianshu.com/p/d3233d6322ef)|[YAML 语言教程](https://www.ruanyifeng.com/blog/2016/07/yaml.html)|
 ---|---|---|---|
 
-[springboot + aop的最佳实践](https://juejin.cn/post/6844904105819783175)|[Spring Boot DTO示例：实体到DTO的转换](https://www.jdon.com/55804)|
----|---|
+[springboot + aop的最佳实践](https://juejin.cn/post/6844904105819783175)|[Spring Boot DTO示例：实体到DTO的转换](https://www.jdon.com/55804)|[SpringBoot+CQRS微服务设计模式教程 ](https://www.jdon.com/55380)|
+---|---|---|
 
 # 学习示例
 
