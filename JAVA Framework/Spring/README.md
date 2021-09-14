@@ -27,6 +27,11 @@
 [小马哥的技术博客](https://mercyblitz.github.io/)|[bugstack虫洞栈---非常好](https://bugstack.cn/itstack/itstack-demo-design.html)|[极客教程 Spring 篇](https://geek-docs.com/spring)|[《 Spring 手撸专栏》](https://github.com/fuzhengwei/small-spring)|
 ---|---|---|---|
 
+# Spring 实战项目
+
+* [20+ Free Open Source Projects Using Spring Framework](https://www.javaguides.net/2018/10/20-free-open-source-projects-using-spring-framework.html)
+
+
 ---
 
 [Java字节码增强技术](https://www.jianshu.com/p/8b7e515a9fcc)|
