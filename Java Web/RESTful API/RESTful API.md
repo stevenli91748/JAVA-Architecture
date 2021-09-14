@@ -9,6 +9,11 @@
 [Spring Boot API Project Seed 是一个基于Spring Boot & MyBatis的种子项目，用于快速构建中小型API、RESTful API项目](https://github.com/lihengming/spring-boot-api-project-seed)|
 ---|
 
+[RESTful Basics Tutorial with Examples](https://www.javaguides.net/p/restful-tutorial.html)|[Jersey Rest Api Examples](https://www.javaguides.net/p/jersey-rest-examples.html)|[Guide to Standard JAX-RS RESTful Api Annotations](https://www.javaguides.net/2018/06/guide-to-standard-jax-rs-annotations.html)|
+---|---|---|
+
+
+
 [Vert.x](https://www.bilibili.com/video/BV174411E7Vr?from=search&seid=3412424618058651269)|
 ---|
 
