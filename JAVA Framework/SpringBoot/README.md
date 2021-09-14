@@ -225,6 +225,7 @@
 * [【项目实战】Free Spring Boot Projects 系列](https://www.sourcecodeexamples.net/p/free-spring-boot-projects.html)
 * [【项目实战】10+ Free Open Source Projects Using Spring Boot 系列](https://www.javaguides.net/2018/10/free-open-source-projects-using-spring-boot.html)
 * [Spring Boot Source Code Examples 系列](https://www.sourcecodeexamples.net/p/spring-boot-source-code-examples.html)
+* [Top Spring Boot Tutorials Examples 系列](https://www.javaguides.net/p/top-java-tutorials.html)
 ---
 
 # 目录
