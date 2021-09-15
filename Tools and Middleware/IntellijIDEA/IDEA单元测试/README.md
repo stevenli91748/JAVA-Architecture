@@ -15,6 +15,10 @@
  [重要 测试金字塔实战---一个微服务应用测试例子](https://insights.thoughtworks.cn/practical-test-pyramid/)|[重要 Testing in Spring Boot ---- test framework for spring boot   ](https://www.baeldung.com/spring-boot-testing)|[JAVA程序员如何写单元测试](https://www.coollf.com/archives/unit-testing)|
 ---|---|---|
 
+[Software Testing Tutorial - Learn Unit Testing and Integration Testing](https://www.youtube.com/watch?v=Geq60OVyBPg)|[CRUD JUnit Tests for Spring Data JPA - Testing Repository Layer](https://www.javaguides.net/2021/07/crud-junit-tests-for-spring-data-jpa.html)|
+---|---|
+
+
 # 目录
 
   * 1 基本单元测试框架
