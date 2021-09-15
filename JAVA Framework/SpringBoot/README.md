@@ -247,7 +247,6 @@
   * [【项目实战】Free Spring Boot ReactJS Open Source Projects](https://www.javaguides.net/2020/08/free-spring-boot-reactjs-open-source-projects-github.html)
   * [【项目实战】E-Commerce Open Source Projects using Spring Boot + React + Angular + Microservices 系列](https://www.javaguides.net/2021/02/java-free-e-commerce-open-source-projects.html)
   * [【项目实战】Spring Boot + Angular 8 + WebSocket Example Tutorial](https://www.javaguides.net/2019/06/spring-boot-angular-8-websocket-example-tutorial.html)
-  * [【项目实战】Angular + Spring Boot CRUD Full Stack Application](https://www.youtube.com/playlist?list=PLGRDMO4rOGcNzi3CpBWsCdQSzbjdWWy-f)
   * [【项目实战】Angular + Spring Boot REST API Example Tutorial ](https://www.youtube.com/watch?v=_rMAnZIcRiU)
   * [【项目实战】Spring Boot Microservices, Spring Cloud and React Project - BookStoreApp](https://www.sourcecodeexamples.net/2020/10/spring-boot-microservices-spring-cloud-and-react-project.html)
   * [【项目实战】Spring Boot Thymeleaf CRUD Database Real-Time Project ](https://www.javaguides.net/2020/05/spring-boot-thymeleaf-crud-database-real-time-project-part1.html)
@@ -257,7 +256,18 @@
   * [【项目实战】Integrate Meteor and Vue](https://www.meteor.com/tutorials/vue/creating-an-app)
   * [Configure JWT with Spring Boot and Swagger UI](https://www.javaguides.net/2021/06/configure-jwt-with-spring-boot-and-swagger.html)
 
-
+# Full-Stack Development Tutorials
+* [【项目实战】Angular + Spring Boot CRUD Full Stack Application](https://www.youtube.com/playlist?list=PLGRDMO4rOGcNzi3CpBWsCdQSzbjdWWy-f)
+* [Angular CRUD Example with Spring Boot](https://www.javaguides.net/2021/08/angular-crud-example-with-spring-boot.html)
+* [Angular 12 + Spring Boot CRUD Example](https://www.javaguides.net/2021/08/angular-12-spring-boot-crud-example.html)
+* [Angular + Spring Boot + MySQL CRUD Example](https://www.javaguides.net/2020/07/spring-boot-angular-10-crud-example-tutorial.html)
+* [Spring Boot + Angular 8 CRUD Example Tutorial](https://www.javaguides.net/2019/06/spring-boot-angular-7-crud-example-tutorial.html)
+* [Spring Boot + React JS CRUD Example Tutorial](https://www.javaguides.net/2020/07/spring-boot-react-js-crud-example-tutorial.html)
+* [Spring Boot Thymeleaf CRUD Database Real-Time Project](https://www.javaguides.net/2020/05/spring-boot-thymeleaf-crud-database-real-time-project-part1.html)
+* [Vue JS + Spring Boot REST API Tutorial](https://www.javaguides.net/2021/07/vue-js-spring-boot-rest-api-tutorial.html)
+* [React JS ( React Hooks) + Spring Boot Tutorial](https://www.javaguides.net/2021/07/react-js-react-hooks-spring-boot.html)
+* []()
+ 
 ---
 
 # 目录
