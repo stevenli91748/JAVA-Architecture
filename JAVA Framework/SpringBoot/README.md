@@ -252,6 +252,9 @@
   * [【项目实战】Spring Boot Microservices, Spring Cloud and React Project - BookStoreApp](https://www.sourcecodeexamples.net/2020/10/spring-boot-microservices-spring-cloud-and-react-project.html)
   * [【项目实战】Spring Boot Thymeleaf CRUD Database Real-Time Project ](https://www.javaguides.net/2020/05/spring-boot-thymeleaf-crud-database-real-time-project-part1.html)
   * [【项目实战】Dockerizing Spring Boot Application | Spring Boot Docker Tutorial | Docker Image](https://www.javaguides.net/2021/09/dockerizing-spring-boot-application.html)
+  * [【项目实战】Vue JS + Spring Boot + MySQL Example](https://www.javaguides.net/2021/08/vue-js-spring-boot-mysql-example.html)
+  * [【项目实战】Vue JS + Spring Boot + PostgreSQL Example](https://www.javaguides.net/2021/08/vue-js-spring-boot-postgresql-example.html)
+  * [【项目实战】Integrate Meteor and Vue](https://www.meteor.com/tutorials/vue/creating-an-app)
 
 
 
