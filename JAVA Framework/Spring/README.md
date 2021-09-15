@@ -7,15 +7,15 @@
 <a href="https://ibb.co/T1ZJxpx"><img src="https://i.ibb.co/kJpzsks/spring20190531222435175.png" alt="spring20190531222435175" border="0"></a>
 
 
+## 注解
 [Spring Core Annotations](https://www.javaguides.net/2018/10/15-spring-core-annotations.html)|[Spring MVC Annotations with Examples](https://www.javaguides.net/2018/11/spring-web-mvc-annotations.html)|[Spring Boot Annotations](https://www.javaguides.net/2018/10/spring-boot-annotations.html)|[Spring Scheduling Annotations](https://www.javaguides.net/2018/10/spring-scheduling-annotations.html)|
 ---|---|---|---|
 
-[JUnit 5 Annotations with Examples](https://www.javaguides.net/2018/07/junit-5-annotations-with-example.html)|[All JPA Annotations: Mapping Annotations](https://www.javaguides.net/2018/11/all-jpa-annotations-mapping-annotations.html)|[Guide to Standard JAX-RS Annotations develop Rest API ](https://www.javaguides.net/2018/06/guide-to-standard-jax-rs-annotations.html)|
----|---|---|
+[JUnit 5 Annotations with Examples](https://www.javaguides.net/2018/07/junit-5-annotations-with-example.html)|[All JPA Annotations: Mapping Annotations](https://www.javaguides.net/2018/11/all-jpa-annotations-mapping-annotations.html)|[Guide to Standard JAX-RS Annotations develop Rest API ](https://www.javaguides.net/2018/06/guide-to-standard-jax-rs-annotations.html)|[Spring AOP Tutorial with Annotations](https://www.javaguides.net/2021/08/spring-aop-tutorial-with-annotations.html)|
+---|---|---|---|
 
 [All Java Built-In Annotations Examples](https://www.javaguides.net/2018/11/all-java-built-in-annotations-examples.html)|[All Hibernate Annotations : Mapping Annotations](https://www.javaguides.net/2018/12/all-hibernate-mapping-annotations.html)|
 ---|---|
-
 
 [Spring 常用注解](https://www.pianshen.com/article/56151732739/)|[Spring框架的@Valid注解](https://www.cnblogs.com/acm-bingzi/p/spring_valid.html)|
 ---|---|
