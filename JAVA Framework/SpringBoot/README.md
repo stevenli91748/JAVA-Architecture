@@ -249,6 +249,8 @@
   * [【项目实战】Spring Boot + Angular 8 + WebSocket Example Tutorial](https://www.javaguides.net/2019/06/spring-boot-angular-8-websocket-example-tutorial.html)
   * [【项目实战】Angular + Spring Boot CRUD Full Stack Application](https://www.youtube.com/playlist?list=PLGRDMO4rOGcNzi3CpBWsCdQSzbjdWWy-f)
   * [【项目实战】Angular + Spring Boot REST API Example Tutorial ](https://www.youtube.com/watch?v=_rMAnZIcRiU)
+  * [【项目实战】Spring Boot Microservices, Spring Cloud and React Project - BookStoreApp](https://www.sourcecodeexamples.net/2020/10/spring-boot-microservices-spring-cloud-and-react-project.html)
+  * 
 ---
 
 # 目录
