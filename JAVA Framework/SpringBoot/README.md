@@ -255,7 +255,7 @@
   * [【项目实战】Vue JS + Spring Boot + MySQL Example](https://www.javaguides.net/2021/08/vue-js-spring-boot-mysql-example.html)
   * [【项目实战】Vue JS + Spring Boot + PostgreSQL Example](https://www.javaguides.net/2021/08/vue-js-spring-boot-postgresql-example.html)
   * [【项目实战】Integrate Meteor and Vue](https://www.meteor.com/tutorials/vue/creating-an-app)
-
+  * [Configure JWT with Spring Boot and Swagger UI](https://www.javaguides.net/2021/06/configure-jwt-with-spring-boot-and-swagger.html)
 
 
 ---
