@@ -8,6 +8,12 @@
 [Spring IOC详解及Bean生命周期详细过程，看完直接吊打面试官！](https://www.jianshu.com/p/6f7a82d869e7)|
 ---|
 
+* [Spring Dependency Injection via Constructor Example](https://www.javaguides.net/2018/06/spring-dependency-injection-via.html)
+* [Spring Dependency Injection via Setter Example](https://www.javaguides.net/2018/06/spring-dependency-injection-via-setter.html)
+* [Spring Annotation Based Container Configuration](https://www.javaguides.net/2018/07/spring-annotation-based-container-configuration.html)
+* [Spring - Java-based Container Configuration](https://www.javaguides.net/2018/06/spring-java-based-configuration-basics.html)
+
+
 # IOC
 * [IoC基础知识](#IoC基础知识)
 * [1. IoC使用的三种注册对象管理的方式]()
