@@ -254,7 +254,7 @@
   * [【项目实战】Vue JS + Spring Boot + MySQL Example](https://www.javaguides.net/2021/08/vue-js-spring-boot-mysql-example.html)
   * [【项目实战】Vue JS + Spring Boot + PostgreSQL Example](https://www.javaguides.net/2021/08/vue-js-spring-boot-postgresql-example.html)
   * [【项目实战】Integrate Meteor and Vue](https://www.meteor.com/tutorials/vue/creating-an-app)
-  * [Configure JWT with Spring Boot and Swagger UI](https://www.javaguides.net/2021/06/configure-jwt-with-spring-boot-and-swagger.html)
+  * [【项目实战】Configure JWT with Spring Boot and Swagger UI](https://www.javaguides.net/2021/06/configure-jwt-with-spring-boot-and-swagger.html)
 
 # Full-Stack Development Tutorials
 * [【项目实战】Angular + Spring Boot CRUD Full Stack Application](https://www.youtube.com/playlist?list=PLGRDMO4rOGcNzi3CpBWsCdQSzbjdWWy-f)
@@ -266,7 +266,7 @@
 * [Spring Boot Thymeleaf CRUD Database Real-Time Project](https://www.javaguides.net/2020/05/spring-boot-thymeleaf-crud-database-real-time-project-part1.html)
 * [Vue JS + Spring Boot REST API Tutorial](https://www.javaguides.net/2021/07/vue-js-spring-boot-rest-api-tutorial.html)
 * [React JS ( React Hooks) + Spring Boot Tutorial](https://www.javaguides.net/2021/07/react-js-react-hooks-spring-boot.html)
-* []()
+* [Spring Boot 2 Hibernate 5 MySQL CRUD REST API Tutorial](https://www.javaguides.net/2018/09/spring-boot-2-hibernate-5-mysql-crud-rest-api-tutorial.html)
  
 ---
 
