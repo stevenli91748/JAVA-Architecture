@@ -1,6 +1,4 @@
 
-[Spring Boot框架里经常用到的注解 ](https://www.pianshen.com/article/8357683291/)|
----|
 
 @SpringBootApplication包含了@ComponentScan、@EnableAutoConfiguration、@SpringBootConfiguration三个注解
 
@@ -12,21 +10,24 @@
 ---|---|---|---|
 
 
-# [元注解](https://mp.weixin.qq.com/s?__biz=MzI3ODcxMzQzMw==&mid=2247484195&idx=1&sn=e28f9c3a2f7628061fe15bef668f2ea7&scene=21#wechat_redirect)
+# [Java 元注解](https://mp.weixin.qq.com/s?__biz=MzI3ODcxMzQzMw==&mid=2247484195&idx=1&sn=e28f9c3a2f7628061fe15bef668f2ea7&scene=21#wechat_redirect)
 
 [@Targe](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%E6%B3%A8%E8%A7%A3/%40Target%20.md)|[@Retention](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%E6%B3%A8%E8%A7%A3/%40Retention.md)|[@Documented](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%E6%B3%A8%E8%A7%A3/%40Documented.md)|[@Inherited](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%E6%B3%A8%E8%A7%A3/%40Inherited.md)|@interface|[@Native](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%E6%B3%A8%E8%A7%A3/%40Native.md)|[@Repeatable](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%E6%B3%A8%E8%A7%A3/%40Repeatable.md)|
 ---|---|---|---|---|---|---|
 
 # Spring的注解
-
-[Spring Core Annotations](https://www.baeldung.com/spring-core-annotations)|[Spring Web Annotations](https://www.baeldung.com/spring-mvc-annotations)|[Spring Boot Annotations](https://www.baeldung.com/spring-boot-annotations)|[Spring Scheduling Annotations](https://www.baeldung.com/spring-scheduling-annotations)|
----|---|---|---|
-
-[Spring Data Annotations](https://www.baeldung.com/spring-data-annotations)|[Spring Bean Annotations](https://www.baeldung.com/spring-bean-annotations)|
----|---|
-
+ 
+* [Spring Core Annotations](https://www.baeldung.com/spring-core-annotations)
+* [Spring Web Annotations](https://www.baeldung.com/spring-mvc-annotations)
+* [Spring Scheduling Annotations](https://www.baeldung.com/spring-scheduling-annotations)
+* [Spring Data Annotations](https://www.baeldung.com/spring-data-annotations)
+* [Spring Bean Annotations](https://www.baeldung.com/spring-bean-annotations)
 
 # Spring Boot的注解
+
+* [Spring Boot框架里经常用到的注解 ](https://www.pianshen.com/article/8357683291/)
+* [Spring Boot Annotations](https://www.baeldung.com/spring-boot-annotations) 
+ 
 [@SpringBootApplication](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%E6%B3%A8%E8%A7%A3/%40SpringBootApplication.md)|[@SpringBootConfiguration](https://github.com/stevenli91748/JAVA-Architecture/tree/master/JAVA%20Framework/SpringBoot/SpringBoot注解)|[@EnableAutoConfiguration](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%E6%B3%A8%E8%A7%A3/%40EnableAutoConfiguratio.md)|
 ---|---|---|
 
