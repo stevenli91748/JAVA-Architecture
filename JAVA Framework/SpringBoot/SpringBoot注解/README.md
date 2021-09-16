@@ -1,4 +1,6 @@
 
+[Spring Boot框架里经常用到的注解 ](https://www.pianshen.com/article/8357683291/)|
+---|
 
 @SpringBootApplication包含了@ComponentScan、@EnableAutoConfiguration、@SpringBootConfiguration三个注解
 
