@@ -17,7 +17,7 @@
 [All Java Built-In Annotations Examples](https://www.javaguides.net/2018/11/all-java-built-in-annotations-examples.html)|[All Hibernate Annotations : Mapping Annotations](https://www.javaguides.net/2018/12/all-hibernate-mapping-annotations.html)|
 ---|---|
 
-[Spring Boot常用注解](https://www.pianshen.com/article/8357683291/)|
+[SpringBoot注解](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot注解/README.md)|
 ---|
 
 ## 版本对应
@@ -321,8 +321,7 @@
 
 
 # 
-[SpringBoot注解](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot注解/README.md)|
----|
+
 
 
 [还在手动部署SpringBoot应用？试试这个自动化插件！](https://juejin.im/post/6868060821927723021)|[SpringBoot生命周期管理之停掉应用服务几种方法](http://www.zimug.com/java/spring/springboot%e7%94%9f%e5%91%bd%e5%91%a8%e6%9c%9f%e7%ae%a1%e7%90%86%e4%b9%8b%e5%81%9c%e6%8e%89%e5%ba%94%e7%94%a8%e6%9c%8d%e5%8a%a1%e5%87%a0%e7%a7%8d%e6%96%b9%e6%b3%95/.html)|
