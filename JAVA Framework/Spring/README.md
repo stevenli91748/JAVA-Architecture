@@ -44,7 +44,7 @@
 # 认证 Spring Professional Certification
 
 * [Spring Professional Certification](https://www.sourcecodeexamples.net/2021/08/spring-professional-certification-cost.html)
-
+* [Spring Professional Certification Topics and Questions](https://www.javaguides.net/2020/11/spring-professional-certification-topics-and-questions.html)
 
 
 ---
