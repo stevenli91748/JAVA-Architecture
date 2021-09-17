@@ -3,7 +3,8 @@
 
 # @Value
 
-[@Value注解读取配置文件方式](https://mp.weixin.qq.com/s?__biz=MzI3ODcxMzQzMw==&mid=2247484575&idx=1&sn=56c88cd7283374345d891e85a800539b&scene=21#wechat_redirect)
+* [@Value注解读取配置文件方式](https://mp.weixin.qq.com/s?__biz=MzI3ODcxMzQzMw==&mid=2247484575&idx=1&sn=56c88cd7283374345d891e85a800539b&scene=21#wechat_redirect)
+* [@Value](http://c.biancheng.net/spring_boot/config-bind.html)
 
 注入Spring boot application.properties配置的属性的值
 
