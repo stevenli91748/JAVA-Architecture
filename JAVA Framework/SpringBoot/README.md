@@ -56,8 +56,8 @@
 ---|---|
 
 
-[ 小傅哥 CodeGuide  程序员编码指南 非常好](https://github.com/fuzhengwei/CodeGuide/wiki)|[bugstack虫洞栈---非常好](https://bugstack.cn/itstack/itstack-demo-design.html)|
----|---|
+[ 小傅哥 CodeGuide  程序员编码指南 非常好](https://github.com/fuzhengwei/CodeGuide/wiki)|[bugstack虫洞栈---非常好](https://bugstack.cn/itstack/itstack-demo-design.html)|[Spring Boot教程网---非常好 ](http://c.biancheng.net/spring_boot/config-bind.html)|
+---|---|---|
 
 [美团技术](https://tech.meituan.com/)|[360 核心安全](https://blogs.360.cn/)|[阿里数据库内核月报---阿里数据库内核月报非常好的数据库进阶资料，文章多为阿里数据库内核专家所写](http://mysql.taobao.org/monthly/)|
 ---|---|---|
