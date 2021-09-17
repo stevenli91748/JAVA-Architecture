@@ -11,11 +11,12 @@
 * [SpringBoot 环境配置](https://www.cnblogs.com/crazymakercircle/p/11706764.html)
 * [Spring Boot一些基础配置](https://mrbird.cc/Spring-Boot%20basic%20config.html)
 * [application.properties中可配置所有官方属性](https://docs.spring.io/spring-boot/docs/current/reference/html/application-properties.html)
-* [YAML 语言教程](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/yaml/README.md)
+
 * [SpringBoot 配置文件详解（告别XML）](https://www.jianshu.com/p/60b34464ca58)
 * [Spring Boot 配置加载顺序详解](https://mp.weixin.qq.com/s/tFrRMM25LVE_2AG23lK5qQ)
 
 # yaml
+* [YAML 语言教程](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/yaml/README.md)
 * [springboot启动时是如何加载配置文件application.yml文件](https://blog.csdn.net/chengkui1990/article/details/79866499?utm_medium=distribute.pc_relevant.none-task-blog-searchFromBaidu-1.not_use_machine_learn_pai&depth_1-utm_source=distribute.pc_relevant.none-task-blog-searchFromBaidu-1.not_use_machine_learn_pai)
 * [YAML属性配置文件使用详解](https://blog.csdn.net/qq_21806621/article/details/79598233?utm_medium=distribute.pc_relevant.none-task-blog-baidulandingword-2&spm=1001.2101.3001.4242)
 * [Spring Boot Profiles example](https://mkyong.com/spring-boot/spring-boot-profiles-example/)
