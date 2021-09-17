@@ -8,10 +8,9 @@
 
 
 # 有用的参考
+* [application.properties中可配置所有官方属性](https://docs.spring.io/spring-boot/docs/current/reference/html/application-properties.html)
 * [SpringBoot 环境配置](https://www.cnblogs.com/crazymakercircle/p/11706764.html)
 * [Spring Boot一些基础配置](https://mrbird.cc/Spring-Boot%20basic%20config.html)
-* [application.properties中可配置所有官方属性](https://docs.spring.io/spring-boot/docs/current/reference/html/application-properties.html)
-
 * [SpringBoot 配置文件详解（告别XML）](https://www.jianshu.com/p/60b34464ca58)
 * [Spring Boot 配置加载顺序详解](https://mp.weixin.qq.com/s/tFrRMM25LVE_2AG23lK5qQ)
 
