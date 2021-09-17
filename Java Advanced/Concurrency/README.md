@@ -1,5 +1,7 @@
 # [并发知识点](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/Concurrency/并发面试.md)
 
+[高并发三部曲](https://www.cnblogs.com/crazymakercircle/p/14365820.html)|
+---|
 
 [精尽 Java【并发】学习指南](http://svip.iocoder.cn/Java/Concurrent/tutorials/)|[高并发都要学哪些技术](https://zhuanlan.zhihu.com/p/139509856?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)|[应用程序应对高并发的五步处理逻辑](https://www.coollf.com/archives/article-24)|
 ---|---|---|
