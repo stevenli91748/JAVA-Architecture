@@ -269,9 +269,10 @@
 
 # 目录
 * [0 SpringBoot 基础知识 核心知识](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/README.md)
-* [1 SpringBoot内部机制](#1-SpringBoot内部机制)
+* 1 SpringBoot内部机制
   * [SpringBoot 应用程序启动过程探秘](https://www.codesheep.cn/2018/09/04/springboot-startup-process/) 
   * [SpringBoot 配置](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/SpringBoot%20%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/README.md)
+  * [Spring Boot自动配置原理](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/Spring%20Boot%E8%87%AA%E5%8A%A8%E9%85%8D%E7%BD%AE%E5%8E%9F%E7%90%86.md)
   * [SpringBoot内存](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/SpringBoot%E5%86%85%E5%AD%98.md)
   * [SpringBoot Bean](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/SpringBoot%20Bean.md)
   * [Spring boot 高并发编程](https://github.com/stevenli91748/JAVA-Architecture/tree/master/JAVA%20Framework/SpringBoot/Spring%20Boot%E7%9A%84%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B)  
