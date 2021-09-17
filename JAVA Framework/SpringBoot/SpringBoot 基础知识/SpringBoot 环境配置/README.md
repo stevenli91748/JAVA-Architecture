@@ -8,7 +8,7 @@
 
 
 # Spring Boot项目中可配置的所有属性
-* [SpringBoot 基础配置](https://www.cnblogs.com/crazymakercircle/p/11706764.html)
+* [Springcloud 中 SpringBoot 配置全集](https://www.cnblogs.com/crazymakercircle/p/11706764.html)
 * [application.properties中可配置所有官方属性](https://docs.spring.io/spring-boot/docs/current/reference/html/application-properties.html)
 * [springboot启动时是如何加载配置文件application.yml文件](https://blog.csdn.net/chengkui1990/article/details/79866499?utm_medium=distribute.pc_relevant.none-task-blog-searchFromBaidu-1.not_use_machine_learn_pai&depth_1-utm_source=distribute.pc_relevant.none-task-blog-searchFromBaidu-1.not_use_machine_learn_pai)
 
