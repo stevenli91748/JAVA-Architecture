@@ -4,5 +4,5 @@
 * [Spring Boot 自动配置原理 2 ](https://www.cnblogs.com/crazymakercircle/p/13895735.html)
 
 
-Spring Factories 机制|[ Java SPI 机制](https://www.pdai.tech/md/java/advanced/java-advanced-spi.html)|
+[Spring Factories 机制](https://www.jianshu.com/p/7367dddab20d)|[ Java SPI 机制](https://www.pdai.tech/md/java/advanced/java-advanced-spi.html)|
 ---|---|
