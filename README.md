@@ -6,6 +6,7 @@
 # [2021 Github上最热门的开源项目来了](https://www.jianshu.com/p/18935f5a0aef)
 # [Github上面有个Java Topic 项目排行榜](https://github.com/topics/java)
 # [GVP ( Gitee Most Valuable Project ) ---Gitee 综合评定出的优秀开源项目的展示平台](https://gitee.com/gvp)
+# [在线书籍网战一：微信读书](https://weread.qq.com/)
 
 
 
