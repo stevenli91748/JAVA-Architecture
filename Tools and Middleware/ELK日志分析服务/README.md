@@ -51,7 +51,7 @@ Kafka 追求的是高吞吐量、高负载，Flume 追求的是数据的多样�
 
 # 日志系统分类
   * [比较常用的组合使用方式是Slf4j与Logback组合使用，Commons Logging与Log4j组合使用](http://c.biancheng.net/spring_boot/slf4j-logback.html)
-  * [ELK日志系统]()
+  * ELK日志系统
 
 
 ## EleasticSearch
