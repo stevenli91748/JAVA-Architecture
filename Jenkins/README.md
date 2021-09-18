@@ -1,4 +1,9 @@
 
+# 在线书籍
+* [Jenkins 2.x 实践指南](https://weread.qq.com/web/reader/12f320007184556612f32b6)
+
+---
+
 [精尽 Jenkins 学习指南](http://svip.iocoder.cn/Jenkins/tutorials/)|[Jenkins中文社区](https://my.oschina.net/jenkinszh)|
 ---|---|
 
