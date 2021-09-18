@@ -7,6 +7,11 @@
 [为Spring Boot面试准备13个主题 ](https://www.jdon.com/55996)|
 ---|
 
+# 在线书籍
+
+* [基于Kotlin的Spring Boot微服务实战---2020](https://weread.qq.com/web/reader/484326307210fc26484c017)
+
+
 ## 注解
 [Spring Core Annotations](https://www.javaguides.net/2018/10/15-spring-core-annotations.html)|[Spring MVC Annotations with Examples](https://www.javaguides.net/2018/11/spring-web-mvc-annotations.html)|[Spring Boot Annotations](https://www.javaguides.net/2018/10/spring-boot-annotations.html)|[Spring Scheduling Annotations](https://www.javaguides.net/2018/10/spring-scheduling-annotations.html)|
 ---|---|---|---|
