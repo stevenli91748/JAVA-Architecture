@@ -44,14 +44,14 @@
 [@ImportResource](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%E6%B3%A8%E8%A7%A3/%40ImportResource.md)|
 ---|
 
-@ConditionalOnJava|@ConditionalOnBean|@ConditionalOnExpression|@ConditionalOnSingleCandidate |
+@ConditionalOnJava---应用使用指定的 Java 版本时生效|@ConditionalOnBean---容器中存在指定的  Bean 时生效|@ConditionalOnExpression---满足指定的 SpEL 表达式时生效|@ConditionalOnSingleCandidate---容器中只存在一个指定的 Bean 或这个 Bean 为首选 Bean 时生效 |
 ---|---|---|----|
 
 [@Conditional](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%E6%B3%A8%E8%A7%A3/%40Conditional.md)|
-[@ConditionalOnClass](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%E6%B3%A8%E8%A7%A3/%40ConditionalOnClass.md)|[@ConditionalOnProperty](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%E6%B3%A8%E8%A7%A3/%40ConditionalOnProperty.md)|@ConditionalOnResource|
+[@ConditionalOnClass---存在指定的类时生效](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%E6%B3%A8%E8%A7%A3/%40ConditionalOnClass.md)|[@ConditionalOnProperty---系统中指定属性存在指定的值时生效](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%E6%B3%A8%E8%A7%A3/%40ConditionalOnProperty.md)|@ConditionalOnResource---类路径下存在指定的资源文件时生效|
 ---|---|---|---|
 
-@ConditionalOnMissingClass|@ConditionalOnMissingBean |@ConditionalOnNotWebApplication|[@ConditionalOnWebApplication|
+@ConditionalOnMissingClass---不存在指定的类时生效|@ConditionalOnMissingBean---容器中不存在指定的 Bean 时生效 |@ConditionalOnNotWebApplication---当前应用不是 web 应用生效|[@ConditionalOnWebApplication---当前应用是 web 应用时生效|
 ---|---|---|---|
 
 
