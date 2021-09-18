@@ -47,7 +47,7 @@
 @ConditionalOnJava|@ConditionalOnBean|@ConditionalOnExpression|@ConditionalOnSingleCandidate |
 ---|---|---|----|
 
-@Conditional](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%E6%B3%A8%E8%A7%A3/%40Conditional.md)|
+[@Conditional](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%E6%B3%A8%E8%A7%A3/%40Conditional.md)|
 ---|
 
 [@ConditionalOnClass](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%E6%B3%A8%E8%A7%A3/%40ConditionalOnClass.md)|[@ConditionalOnProperty](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%E6%B3%A8%E8%A7%A3/%40ConditionalOnProperty.md)|@ConditionalOnResource|
