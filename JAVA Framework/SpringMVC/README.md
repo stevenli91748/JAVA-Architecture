@@ -1,8 +1,8 @@
 
 # [Spring MVC面试题](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringMVC/interview/Spring%20MVC%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
-[Spring MVC框架快速入门教程](http://c.biancheng.net/spring_mvc/)|
----|
+[Spring MVC框架快速入门教程](http://c.biancheng.net/spring_mvc/)|[Spring MVC教程](https://www.yiibai.com/spring_mvc/)|
+---|---|
 
 [Spring MVC常用注解](https://www.pianshen.com/article/9840527859/)|[Spring MVC工作流程和常用注解](https://www.pianshen.com/article/88761901189/)|
 ---|---|
