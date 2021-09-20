@@ -51,7 +51,7 @@
 [ 小傅哥 CodeGuide  程序员编码指南 非常好](https://github.com/fuzhengwei/CodeGuide/wiki)|[bugstack虫洞栈---非常好](https://bugstack.cn/itstack/itstack-demo-design.html)|[Spring Boot快速入门教程网---非常好 ](http://c.biancheng.net/spring_boot/config-bind.html)|
 ---|---|---|
 
-[手摸手教你学spring boot 2.x](https://www.kancloud.cn/hanxt/springboot2/1492077)|[spring boot 基础教程](https://www.yiibai.com/spring-boot)|
+[手摸手教你学spring boot 2.x](https://www.kancloud.cn/hanxt/springboot2/1492077)|[spring boot 基础教程](https://www.yiibai.com/?app=all)|
 ---|---|
 
 [Java Guides sample program](https://www.javaguides.net/)|[Source Code Sample program](https://www.sourcecodeexamples.net/)|
