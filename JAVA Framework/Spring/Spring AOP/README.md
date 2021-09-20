@@ -18,6 +18,9 @@ AOP动态代理|AOP静态代理|
 ---|--|
 
 
+[Spring AOP教程](https://www.yiibai.com/spring_aop/)|
+---|
+
 [一文读懂 AOP --- 你想要的最全面 AOP 方法探讨](https://www.jianshu.com/p/0799aa19ada1)|[spring专题系列之AOP的理解和分析](https://www.jianshu.com/p/41e9d1c494e4)|[Spring-AOP-基于注解的AOP通知执行顺序](https://www.cnblogs.com/orzjiangxiaoyu/p/13869747.html)|
 ---|---|---|
 
