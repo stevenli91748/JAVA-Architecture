@@ -5,6 +5,9 @@
 [Spring MVC常用注解](https://www.pianshen.com/article/9840527859/)|[Spring MVC工作流程和常用注解](https://www.pianshen.com/article/88761901189/)|
 ---|---|
 
+[Spring MVC框架快速入门教程](http://c.biancheng.net/spring_mvc/)|
+---|
+
 [精尽 Spring MVC 学习指南](http://svip.iocoder.cn/Spring-MVC/tutorials/)|[SpringMVC请求处理过程](https://zhuanlan.zhihu.com/p/242608259?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)|
 ---|---|
 
