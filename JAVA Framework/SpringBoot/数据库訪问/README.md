@@ -9,6 +9,10 @@
 
 
 # Spring Boot 程序链接数据库的方式
+
+[Spring Boot——三种方式连接数据库](https://www.jianshu.com/p/414ef5b49a69)|
+---|
+
 *  [1 JDBC连接](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%A8%AA%E9%97%AE/JDBC%E8%BF%9E%E6%8E%A5/README.md)
 *  [2 数据库连接池---Druid or HikariCP ](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%A8%AA%E9%97%AE/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%BF%9E%E6%8E%A5%E6%B1%A0/README.md)
 *  [3 MyBatis](https://github.com/stevenli91748/Database/blob/master/Mybatis/%E5%9C%A8Spring%20Boot%E4%B8%AD%E7%BB%93%E5%90%88Mybatis/README.md)
