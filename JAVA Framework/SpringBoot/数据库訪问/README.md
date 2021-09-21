@@ -5,7 +5,7 @@
 ---|---|
 
 
-* [Spring Boot中使用JdbcTemplate](https://mrbird.cc/Spring-Boot%20JdbcTemplate.html)
+
 
 
 * [SpringBoot集成Mysql、Mybatis、Mybatis-Plus，实现增删改查](https://www.jianshu.com/p/197155b76442)
