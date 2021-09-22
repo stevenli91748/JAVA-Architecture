@@ -309,6 +309,7 @@
   * [Thymeleaf模板引擎](https://github.com/stevenli91748/Frontend/blob/master/Thymeleaf/Readme.md)
   * [Spring Boot中的JSON技术](https://mrbird.cc/Spring-Boot%20JSON.html)
   * [自定义Spring Boot 内容协商](https://mrbird.cc/Spring-Boot-Diy-Resolver.html)
+  * [Spring Boot自定义starter](http://c.biancheng.net/spring_boot/custom-starter.html)
 * [4 SpringBoot数据訪问](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%A8%AA%E9%97%AE/README.md)
 * [5 SpringBoot事务管理](https://github.com/stevenli91748/JAVA-Architecture/tree/master/JAVA%20Framework/SpringBoot/%E4%BA%8B%E5%8A%A1%E7%AE%A1%E7%90%86)
 * [6 SpringBoot日志管理](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E6%97%A5%E5%BF%97%E7%AE%A1%E7%90%86/README.md)
