@@ -572,6 +572,7 @@ SQL语言|[MySQL](https://github.com/stevenli91748/Database/blob/master/MySQL/RE
 
 * 1 日志架构设计
   * [java 日志框架](http://c.biancheng.net/spring_boot/slf4j-logback.html) 
+  * [SLF4J日志框架](https://www.yiibai.com/slf4j/slf4j_logging_frameworks.html)
 * 2 异常架构设计
 * 3 消息架构设计
 * 4 安全架构设计
