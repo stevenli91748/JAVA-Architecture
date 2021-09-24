@@ -3,6 +3,7 @@
 
 ## SpringBoot项目部署在AWS
    * [Spring Boot AWS Deployment - Full Course [2021]](https://www.youtube.com/watch?v=D1yOALZcMHs)
+   * [AWS Lambda 部署 SpringBoot 应用](https://hellowoodes.blog.csdn.net/article/details/89890336?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Edefault-5.no_search_link&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Edefault-5.no_search_link)
    * [部署SpringBoot项目到亚马逊aws云服务上](https://www.twblogs.net/a/5cb0c671bd9eee480f075dcf/?lang=zh-cn)
    * [在AWS EC2上部署springboot项目](https://www.cnblogs.com/yelao/p/12589098.html)
    * [springboot 部署amazon例子集](https://www.youtube.com/results?search_query=springboot+%E9%83%A8%E7%BD%B2amazon)
