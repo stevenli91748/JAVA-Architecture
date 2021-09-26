@@ -1,3 +1,4 @@
+* [Spring实例化bean过程解析及完整代码示例](https://www.jb51.net/article/132554.htm)
 * [深入学习Spring组件注册](https://mrbird.cc/Spring-Bean-Regist.html)
 * [深入学习Spring Bean生命周期](https://mrbird.cc/Spring-Bean-Lifecycle.html)
 * [Spring Bean生命周期](https://mrbird.cc/Spring-Bean%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F.html)
