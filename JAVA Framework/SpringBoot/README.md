@@ -296,6 +296,7 @@
   * [SpringBoot 配置](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/SpringBoot%20%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/README.md)
   * [Spring Boot自动配置原理](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/Spring%20Boot%E8%87%AA%E5%8A%A8%E9%85%8D%E7%BD%AE%E5%8E%9F%E7%90%86.md)
   * [Spring Boot启动器](https://www.yiibai.com/spring-boot/spring-boot-starters.html)
+    * [Spring Boot启动器父级](https://www.yiibai.com/spring-boot/spring-boot-starter-parent.html) 
   * [Spring Boot国际化](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/Spring%20Boot%E5%9B%BD%E9%99%85%E5%8C%96.md)
   * [SpringBoot内存](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/SpringBoot%E5%86%85%E5%AD%98.md)
   * [SpringBoot Bean](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/SpringBoot%20Bean.md)
