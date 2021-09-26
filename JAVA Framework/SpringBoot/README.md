@@ -356,6 +356,7 @@
 
 
 # 实验
+* [基于JWT的spring boot权限验证技术实现教程](https://www.jb51.net/article/198731.htm)
 * [基于SpringBoot搭建应用开发框架(一) —— 基础架构---一步步搭建一个前后端分离的应用开发框架](https://www.cnblogs.com/chiangchou/p/sunny-1.html)
 * [基于SpringBoot搭建应用开发框架(二) —— 登录认证---一步步搭建一个前后端分离的应用开发框架](https://www.cnblogs.com/chiangchou/p/springboot-2.html)
 * [DEMO例子： Spring Boot 多模块项目实践](https://zhuanlan.zhihu.com/p/133114207?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)
