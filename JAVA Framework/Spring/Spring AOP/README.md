@@ -6,6 +6,9 @@
 * [在Spring XML中声明切面](https://mrbird.cc/%E5%9C%A8Spring-XML%E4%B8%AD%E5%A3%B0%E6%98%8E%E5%88%87%E9%9D%A2.html)
 * 
 
+# 博客
+
+* [Spring AOP教程](https://www.yiibai.com/spring_aop/)
 
 
 # AOP例子程序
