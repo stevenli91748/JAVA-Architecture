@@ -300,8 +300,6 @@
 * 1 SpringBoot内部机制
   * [Spring Boot应用程序属性机制---application.properties文件进行应用程序配置](https://www.yiibai.com/spring-boot/spring-boot-properties.html) 
   * [spring factories 机制](https://www.jianshu.com/p/7367dddab20d)
-  * [Spring中WebApplicationInitializer的理解---可以看做是Web.xml的替代](https://blog.csdn.net/zq17865815296/article/details/79464403)
-    * [SpringBootServletInitializer类文件允许在使用Servlet容器启动时配置应用程序](https://www.yiibai.com/spring-boot/spring_boot_tomcat_deployment.html) 
   * [SpringBoot 应用程序启动过程](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/SpringBoot%20%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E5%90%AF%E5%8A%A8%E8%BF%87%E7%A8%8B.md) 
   * [SpringBoot 配置](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/SpringBoot%20%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/README.md)
   * [Spring Boot自动配置原理](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/Spring%20Boot%E8%87%AA%E5%8A%A8%E9%85%8D%E7%BD%AE%E5%8E%9F%E7%90%86.md)
@@ -323,6 +321,8 @@
     * [Tomcat](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%B7%A5%E7%A8%8B%E9%85%8D%E7%BD%AE/%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%AE%B9%E5%99%A8%E7%9A%84%E9%85%8D%E7%BD%AE%E4%B8%8E%E5%BA%94%E7%94%A8/Tomcat.md)
   * [Spring Boot的各种工程整合配置 + 项目构建](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%B7%A5%E7%A8%8B%E9%85%8D%E7%BD%AE/Spring%20Boot%E7%9A%84%E5%90%84%E7%A7%8D%E6%95%B4%E5%90%88%E9%A1%B9%E7%9B%AE%E9%85%8D%E7%BD%AE/README.md)
 * [3 SpringBoot Web开发](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/Web%E5%BC%80%E5%8F%91/README.md)
+  * [Spring中WebApplicationInitializer的理解---可以看做是Web.xml的替代](https://blog.csdn.net/zq17865815296/article/details/79464403)
+    * [SpringBootServletInitializer类文件允许在使用Servlet容器启动时配置应用程序](https://www.yiibai.com/spring-boot/spring_boot_tomcat_deployment.html) 
   * [RESTFul API构建](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/RESTful%20API/RESTful%20API.md)
   * [Spring Boot中使用过滤器和拦截器](https://mrbird.cc/Spring-Boot-Filter-Interceptor.html)
   * [Spring Boot定制Spring MVC](http://c.biancheng.net/spring_boot/spring-mvc.html)
