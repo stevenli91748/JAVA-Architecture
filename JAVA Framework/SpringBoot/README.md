@@ -40,8 +40,8 @@
 [How to Learn Spring Boot Step by Step - Spring Boot Learning Path](https://www.youtube.com/watch?v=nZFe5ITz11I)|
 ---|
 
-[Thymeleaf教程](https://www.yiibai.com/thymeleaf/)|[Spring Boot Hello World(Thymeleaf)示例](https://www.yiibai.com/spring-boot/hello-world-example-thymeleaf.html)||[Spring Boot应用程序开发入门](https://www.yiibai.com/spring-boot/getting-started-first-application.html)|
----|---|---|
+[Spring Boot应用程序开发入门](https://www.yiibai.com/spring-boot/getting-started-first-application.html)|
+---|
 
 [Spring Boot Ajax实例---如何使用jQuery.ajax将HTML表单请求发送到Spring REST API并返回JSON响应](https://www.yiibai.com/spring-boot/ajax-example.html)|
 ---|
