@@ -323,6 +323,7 @@
 * [3 SpringBoot Web开发](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/Web%E5%BC%80%E5%8F%91/README.md)
   * [Spring中WebApplicationInitializer的理解---可以看做是Web.xml的替代](https://blog.csdn.net/zq17865815296/article/details/79464403)
     * [SpringBootServletInitializer类文件允许在使用Servlet容器启动时配置应用程序](https://www.yiibai.com/spring-boot/spring_boot_tomcat_deployment.html) 
+    * [SpringBootServletInitializer的执行过程，简单来说就是通过SpringApplicationBuilder构建并封装SpringApplication对象，并最终调用SpringApplication的run方法的过程](https://blog.csdn.net/weixin_30411997/article/details/99446784?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-1.no_search_link&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-1.no_search_link)
   * [RESTFul API构建](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/RESTful%20API/RESTful%20API.md)
   * [Spring Boot中使用过滤器和拦截器](https://mrbird.cc/Spring-Boot-Filter-Interceptor.html)
   * [Spring Boot定制Spring MVC](http://c.biancheng.net/spring_boot/spring-mvc.html)
