@@ -458,6 +458,7 @@
 
 # 有用的参考
   * 深入实践Spring Boot.pdf
+  * [Spring中WebApplicationInitializer的理解---可以看做是Web.xml的替代](https://blog.csdn.net/zq17865815296/article/details/79464403)
   * [Spring，Spring Boot和Spring MVC的区别](https://www.yiibai.com/spring-boot/spring-vs-spring-boot-vs-spring-mvc.html)
   * [Spring Boot Actuator详解](https://www.jianshu.com/p/8bfac9289c7e)
   * [SpringBoot零基础实现WebApi服务(1)项目构建](https://zhuanlan.zhihu.com/p/47365661)
