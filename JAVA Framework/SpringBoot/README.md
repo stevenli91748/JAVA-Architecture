@@ -375,7 +375,7 @@
 * [使用Spring Boot+Dubbo+Zookeeper搭建第一个分布式项目(详细介绍如何搭建分布式项目，上篇)](https://blog.csdn.net/weixin_42146366/article/details/90268062)
 * [使用Spring Boot+Dubbo+Zookeeper搭建第一个分布式项目(详细介绍如何搭建分布式项目，下篇)](https://blog.csdn.net/weixin_42146366/article/details/90268555)
 * [SpringBoot+SpringSession+Redis实现session共享及单点登录](https://blog.csdn.net/xjj1040249553/article/details/82658889)
-
+* [SpringBoot + Docker + Nginx 负载均衡实现](https://rovo98.github.io/posts/39885a36/)
 ---
 ### 一个完整的前后端整合的例子
  * [【从零入门系列-0】Spring Boot 之 Hello World](https://segmentfault.com/a/1190000019137607)
