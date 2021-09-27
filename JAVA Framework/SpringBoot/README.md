@@ -40,8 +40,8 @@
 [How to Learn Spring Boot Step by Step - Spring Boot Learning Path](https://www.youtube.com/watch?v=nZFe5ITz11I)|
 ---|
 
-[Thymeleaf教程](https://www.yiibai.com/thymeleaf/)|
----|
+[Thymeleaf教程](https://www.yiibai.com/thymeleaf/)|[Spring Boot Hello World(Thymeleaf)示例](https://www.yiibai.com/spring-boot/hello-world-example-thymeleaf.html)|
+---|---|
 
 [Spring Boot 学习示例---spring-boot-examples](https://github.com/ityouknow/spring-boot-examples)|[spring-boot-demo---一个用来深度学习并实战 spring boot 的项目](https://github.com/xkcoding/spring-boot-demo)|
 ---|----|
