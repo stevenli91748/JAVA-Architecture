@@ -1,6 +1,7 @@
 
 * [Spring Boot引导过程](https://www.yiibai.com/spring-boot/spring_boot_bootstrapping.html)
 * [Spring Boot 应用在启动阶段执行代码的几种方式](https://segmentfault.com/a/1190000021437254)
+  * [Spring Boot运行器(Runner)](https://www.yiibai.com/spring-boot/spring_boot_runners.html)
   * [为什么我的 CommandLineRunner 不 run](https://juejin.cn/post/6844904083136987143) 
 * [SpringBoot 应用程序启动过程探秘](https://www.codesheep.cn/2018/09/04/springboot-startup-process/) 
 * [Spring Boot应用启动的秘密](https://www.cnblogs.com/crazymakercircle/p/13895735.html)
