@@ -325,7 +325,7 @@
     * [SpringBootServletInitializer类文件允许在使用Servlet容器启动时配置应用程序](https://www.yiibai.com/spring-boot/spring_boot_tomcat_deployment.html) 
     * [SpringBootServletInitializer的执行过程，简单来说就是通过SpringApplicationBuilder构建并封装SpringApplication对象，并最终调用SpringApplication的run方法的过程](https://blog.csdn.net/weixin_30411997/article/details/99446784?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-1.no_search_link&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-1.no_search_link)
   * [RESTFul API构建](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/RESTful%20API/RESTful%20API.md)
-  * [Spring Boot中使用过滤器和拦截器](https://mrbird.cc/Spring-Boot-Filter-Interceptor.html)
+  * [Spring Boot中使用过滤器和拦截器](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/Spring%20Boot%E4%B8%AD%E4%BD%BF%E7%94%A8%E8%BF%87%E6%BB%A4%E5%99%A8%E5%92%8C%E6%8B%A6%E6%88%AA%E5%99%A8.md)
   * [Spring Boot定制Spring MVC](http://c.biancheng.net/spring_boot/spring-mvc.html)
   * [HTTP客户端库](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/Web%E5%BC%80%E5%8F%91/HTTP%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%BA%93/README.md)
   * [静态资源与模板引擎的整合](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/Web%E5%BC%80%E5%8F%91/%E9%9D%99%E6%80%81%E8%B5%84%E6%BA%90%E4%B8%8E%E6%A8%A1%E6%9D%BF%E5%BC%95%E6%93%8E%E7%9A%84%E6%95%B4%E5%90%88/README.md)
