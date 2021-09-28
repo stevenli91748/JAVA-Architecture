@@ -1,3 +1,6 @@
+**commons-logging和slf4j都是日志的接口,供用户使用,而没有提供实现。log4j，logback等才是日志的真正实现，日志是接口+具体实现的方式来使用。目前应用比较广泛的是Log4j2和logback，而logback作为后起之秀，以替代log4j为目的，整体性能比log4j较佳，log4j的升级版log4j2也是有诸多亮点**
+
+
 [SLF4J](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E6%97%A5%E5%BF%97%E7%AE%A1%E7%90%86/SLF4J.md)|[ Logback ](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E6%97%A5%E5%BF%97%E7%AE%A1%E7%90%86/Logback.md)|
 ---|---|
 
