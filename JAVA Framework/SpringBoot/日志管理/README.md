@@ -12,6 +12,7 @@
 * [Spring Boot日志配置及输出](http://c.biancheng.net/spring_boot/log-config.html)
 * 
 # 有用的参考
+* [集成全局AOP切面，进行访问时间与日志打印](https://www.jianshu.com/p/450c773efc0c)
 * [Spring Boot AOP记录用户操作日志](https://mrbird.cc/Spring-Boot-AOP%20log.html)
 * [Spring Boot logback日志配置](https://mrbird.cc/Spring-Boot-logback.html)
 * [SpringBoot应用整合ELK实现日志收集](https://www.jianshu.com/p/6f1a0487acf8)
