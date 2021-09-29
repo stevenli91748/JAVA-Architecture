@@ -351,6 +351,7 @@
 * [15 Spring Boot调度---调度是执行特定时间段的任务的过程](https://www.yiibai.com/spring-boot/spring_boot_scheduling.html)
 * [Spring Boot Rest模板---模板用于创建消费RESTful Web 服务的应用](https://www.yiibai.com/spring-boot/spring_boot_rest_template.html)
 * [Spring Boot服务组件---服务组件(Service Components)是包含@Service注释的类文件](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/Spring%20Boot%E6%9C%8D%E5%8A%A1%E7%BB%84%E4%BB%B6.md)
+* [Spring Boot批量服务](https://www.yiibai.com/spring-boot/spring_boot_batch_service.html)
 * [16 SpringBoot服务器推送技术](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%8E%A8%E9%80%81%E6%8A%80%E6%9C%AF/README.md)
 * [17 邮件发送的整合与使用](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E9%82%AE%E4%BB%B6%E5%8F%91%E9%80%81%E7%9A%84%E6%95%B4%E5%90%88%E4%B8%8E%E4%BD%BF%E7%94%A8/README.md)
 * [18 SpringBoot分布式应用开发](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%88%86%E5%B8%83%E5%BC%8F%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91/README.md)
