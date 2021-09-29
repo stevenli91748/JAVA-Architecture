@@ -35,10 +35,8 @@
 * 内部机制
   * 项目应用程序配置例子实验
     * application.properties文件例子实验
-  
   * Spring Boot启动器父级例子实验
   * Spring Boot运行器(Runner)例子实验
-
 # 3 全局异常处理例子实验
 # 4 日志例子实验
 # 5 Spring Boot Web例子实验
