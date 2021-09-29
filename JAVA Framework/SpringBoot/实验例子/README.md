@@ -35,12 +35,16 @@
   * SpringBoot整合Solr
   * SpringBoot整合ElasticSearch
   * SpringBoot整合WebSocket
-  * SpringBoot整合前端
+  * SpringBoot整合分布式文件系统 
+  * SpringBoot整合前端框架
     * SpringBoot整合AngularJS
     * SpringBoot整合React
     * SpringBoot整合Vue
     * SpringBoot整合Thymeleaf
-* 内部机制
+
+---
+
+# 2 内部机制
   * Spring Boot应用程序属性
     * application.properties文件例子实验
   * Spring Boot Bean和依赖注入例子实验
