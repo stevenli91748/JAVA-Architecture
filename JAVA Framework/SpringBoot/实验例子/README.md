@@ -29,6 +29,7 @@
   * SpringBoot整合Kubernetes
   * SpringBoot整合QuartZ
   * SpringBoot整合Mail
+  * SpringBoot集成Swagger2
   * SpringBoot整合ActiveMQ
   * SpringBoot整合RabbitMQ
   * SpringBoot整合Kafka
