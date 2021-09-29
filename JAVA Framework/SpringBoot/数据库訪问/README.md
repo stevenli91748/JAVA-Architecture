@@ -10,8 +10,8 @@
 
 # Spring Boot 程序链接数据库的方式
 
-[Spring Boot——三种方式连接数据库](https://www.jianshu.com/p/414ef5b49a69)|
----|
+[Spring Boot——三种方式连接数据库](https://www.jianshu.com/p/414ef5b49a69)|[Spring Boot Flyway数据库---flyway是一个能对数据库变更做版本控制的工具](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/Spring%20Boot%20Flyway%E6%95%B0%E6%8D%AE%E5%BA%93.md)|
+---|---|
 
 *  [1 JDBC连接](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%A8%AA%E9%97%AE/JDBC%E8%BF%9E%E6%8E%A5/README.md)
 *  [2 数据库连接池---Druid or HikariCP ](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%A8%AA%E9%97%AE/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%BF%9E%E6%8E%A5%E6%B1%A0/README.md)
