@@ -34,7 +34,8 @@
 [Cookie、Session、Token与JWT解析](https://www.jianshu.com/p/cab856c32222)
 ---|
 
-
+[Spring Boot构建 CRUD服务 RESTful Web API接口的完整例子](https://www.yiibai.com/spring-boot/spring_boot_building_restful_web_services.html)|
+---|
 
 # 目录
 
