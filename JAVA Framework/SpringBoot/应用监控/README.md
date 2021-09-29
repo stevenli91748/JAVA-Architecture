@@ -1,3 +1,4 @@
+* [Spring Boot Actuator](https://www.yiibai.com/spring-boot/spring_boot_actuator.html)
 * [使用Actuator监控Spring Boot应用](https://mrbird.cc/Acutator-Spring-Boot.html)
 * [使用Spring Boot Admin监控服务](https://mrbird.cc/Spring-Boot-Admin.html)
 * [Spring Boot应用监控实战](https://mp.weixin.qq.com/s?__biz=MzU4ODI1MjA3NQ==&mid=2247483771&idx=1&sn=7c5f103a816c16e453e04141d7433bf9&chksm=fdded7bfcaa95ea9a5dbe81114d32c1908bf8da0b3366bfbfcbe2473445cdba73c5e2060d5f3#rd)
