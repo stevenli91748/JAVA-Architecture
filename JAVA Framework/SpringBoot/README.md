@@ -321,6 +321,7 @@
     * [Tomcat](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%B7%A5%E7%A8%8B%E9%85%8D%E7%BD%AE/%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%AE%B9%E5%99%A8%E7%9A%84%E9%85%8D%E7%BD%AE%E4%B8%8E%E5%BA%94%E7%94%A8/Tomcat.md)
   * [Spring Boot的各种工程整合配置 + 项目构建](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%B7%A5%E7%A8%8B%E9%85%8D%E7%BD%AE/Spring%20Boot%E7%9A%84%E5%90%84%E7%A7%8D%E6%95%B4%E5%90%88%E9%A1%B9%E7%9B%AE%E9%85%8D%E7%BD%AE/README.md)
 * [3 SpringBoot Web开发](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/Web%E5%BC%80%E5%8F%91/README.md)
+  * [Spring Boot CORS支持](https://www.yiibai.com/spring-boot/spring_boot_cors_support.html)
   * [Spring中WebApplicationInitializer的理解---可以看做是Web.xml的替代](https://blog.csdn.net/zq17865815296/article/details/79464403)
     * [SpringBootServletInitializer类文件允许在使用Servlet容器启动时配置应用程序](https://www.yiibai.com/spring-boot/spring_boot_tomcat_deployment.html) 
     * [SpringBootServletInitializer的执行过程，简单来说就是通过SpringApplicationBuilder构建并封装SpringApplication对象，并最终调用SpringApplication的run方法的过程](https://blog.csdn.net/weixin_30411997/article/details/99446784?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-1.no_search_link&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-1.no_search_link)
