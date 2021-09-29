@@ -357,6 +357,8 @@
     * [Spring Boost Eureka服务注册](https://www.yiibai.com/spring-boot/spring_boot_service_registration_with_eureka.html) 
   * [Spring Boot Zuul代理服务器和路由](https://www.yiibai.com/spring-boot/spring_boot_zuul_proxy_server_and_routing.html)
   * [Spring Boot Hystrix](https://www.yiibai.com/spring-boot/spring_boot_hystrix.html)
+  * [Spring Boot云配置服务器---Spring Cloud Configuration Server](https://www.yiibai.com/spring-boot/spring_boot_cloud_configuration_server.html)
+  * [Spring Boot云配置客户端---Spring Cloud Configuration Server](https://www.yiibai.com/spring-boot/spring_boot_cloud_configuration_client.html)
   * [Spirng Boot分布式应用开发 with Docker](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%88%86%E5%B8%83%E5%BC%8F%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91/Springboot%20with%20Docker/README.md)
   * [Spring Boot分布式应用开发 with Kubernetes](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%88%86%E5%B8%83%E5%BC%8F%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91/Spring%20Boot%20with%20Kubernetes/README.md)
 * [19 SpringBoot响应式框架webflux](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%93%8D%E5%BA%94%E5%BC%8F%E6%A1%86%E6%9E%B6webflux/README.md)
