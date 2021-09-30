@@ -5,7 +5,8 @@
 
 HelloApplication.javaHelloApplication.java是程序的引导类，我们可以直接运行该类来启动SpringBoot应用
 
-'''java
+```java
+
 package com.itheima.web;
 import org.springframework.boot.SpringApplication;
 importorg.springframework.boot.autoconfigure.SpringBootApplication;
@@ -16,7 +17,7 @@ public class HelloApplication {public static void main(String[] args)
   }
 }
 
-'''
+```
 
 # 参考
 
