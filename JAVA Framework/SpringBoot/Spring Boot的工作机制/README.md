@@ -30,7 +30,27 @@ public class HelloApplication {public static void main(String[] args)
       中的Tomcat端口号8080修改为8081，那么就可以在配置文件中添加如下信息：server.port=8081需要注意的是，项目中不需要显示的配置Spring Boot加载application.properties文件的信息，只要该文
       件存在，就会被自动加载，Spring和应用程序代码就可以获取其中的属性信息
       
+* 2.3  **HelloApplicationTests.java**     
+
+      HelloApplicationTests.java是Spring Initializr提供的一个基本的集成测试类，可以基于该类为应用程序编写测试代码
       
+```java
+
+package com.itheima.web;
+import org.junit.Test;
+import org.junit.runner.RunWith;
+import org.springframework.boot.test.context.SpringBootTest;
+import org.springframework.test.context.junit4.SpringRunner;
+@RunWith(SpringRunner.class)
+@SpringBootTest8　
+public class HelloApplicationTests {
+ @Test10
+ public void contextLoads() {
+　　 
+    }
+}
+
+```
 
 
 
