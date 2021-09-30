@@ -55,6 +55,12 @@ public class HelloApplicationTests {
 
 ```
 
+* 2.4 **pom.xml文件**
+
+<?xml version="1.0" encoding="UTF-8"?>
+　<project xmlns="http://maven.apache.org/POM/4.0.0"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://maven.apache.org/POM/4.0.05　　　　　　　　　　　　　 http://maven.apache.org/xsd/maven-4.0.0.xsd">6　　　<!--项目基本信息 -->7　　　<modelVersion>4.0.0</modelVersion>8　　　<groupId>com.itheima</groupId>9　　　<artifactId>hello</artifactId>10　　 <version>0.0.1-SNAPSHOT</version>11　　 <packaging>jar</packaging>12　　 <name>hello</name> <description>Demo project for Spring Boot</description>14　　 <!--父依赖 -->15　　 <parent>16　　　　 <groupId>org.springframework.boot</groupId>17　　　　 <artifactId>spring-boot-starter-parent</artifactId>18　　　　 <version>1.5.6.RELEASE</version>19　　　　 <relativePath /> <!-- lookup parent from repository -->20　　 </parent>21　　 <!-- 编码和Java版本 -->22　　 <properties>23　　　　 <project.build.sourceEncoding>24　　　　　　 UTF-825　　　　 </project.build.sourceEncoding>26　　　　 <project.reporting.outputEncoding>27　　　　　　 UTF-8</project.reporting.outputEncoding>29　　　　 <java.version>1.8</java.version>30　　 </properties>31　　 <!--其他依赖 -->32　　 <dependencies>33　　　　 <dependency>34　　　　　　 <groupId>org.springframework.boot</groupId>35　　　　　　 <artifactId>spring-boot-starter-web</artifactId>36　　　　 </dependency>37　　　　 <dependency>38　　　　　　 <groupId>org.springframework.boot</groupId>39　　　　　　 <artifactId>spring-boot-starter-test</artifactId>40　　　　　　 <scope>test</scope>41　　　　 </dependency>42　　 </dependencies>43　　 <build>44　　　　 <plugins><!--Spring Boot包含的Maven插件，它可以将项目打包成一个可执行JAR -->46　　　　　　 <plugin>47　　　　　　　　<groupId>org.springframework.boot</groupId>48　　　　　　　　<artifactId>spring-boot-maven-plugin</artifactId>49　　　　　　 </plugin>50　　　　 </plugins>51　　 </build>52 </project>
 
 
 # 参考
