@@ -178,6 +178,15 @@
 
 ## 相对复杂的实战项目
 
+## ---Mybird
+[FEBS  Spring Cloud  微服务权限系统搭建教程](https://www.kancloud.cn/mrbird/spring-cloud/1263679)|
+---|
+
+[FEBS-Vue文档,前后端分离版本，前端使用Vue全家桶  权限管理系统](https://mrbird.cc/FEBS-Vue-Document.html)|[FEBS-Shiro--- Spring Boot 2.4.2，Shiro1.6.0 & Layui 2.5.6 权限管理系统](https://github.com/febsteam/FEBS-Shiro)|
+---|---|
+
+---
+
 [【实战项目】eladmin---项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由](https://github.com/elunez/eladmin)|
 ---|
 
