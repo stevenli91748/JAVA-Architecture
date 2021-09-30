@@ -307,6 +307,7 @@
 * [0 SpringBoot 基础知识 核心知识](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/README.md)
 * [Spring Boot CLI教程](https://www.yiibai.com/springbootcli/)
 * 1 SpringBoot内部机制
+  * [Spring Boot的工作机制](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/Spring%20Boot%E7%9A%84%E5%B7%A5%E4%BD%9C%E6%9C%BA%E5%88%B6/README.md)
   * [Spring Boot应用程序属性机制---application.properties文件进行应用程序配置](https://www.yiibai.com/spring-boot/spring-boot-properties.html) 
   * [spring factories 机制](https://www.jianshu.com/p/7367dddab20d)
   * [SpringBoot 应用程序启动过程](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/SpringBoot%20%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E5%90%AF%E5%8A%A8%E8%BF%87%E7%A8%8B.md) 
