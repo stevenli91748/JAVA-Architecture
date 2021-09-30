@@ -24,7 +24,13 @@ public class HelloApplication {public static void main(String[] args)
 }
 
 ```
+* 2.2 **application.properties文件**
 
+      在新创建的Spring Boot项目中，application.properties文件是一个空文件，并且是可选文件，我们可以通过该文件对Spring Boot应用的服务端口号、注册中心地址等内容进行调整。例如将嵌入在项目
+      中的Tomcat端口号8080修改为8081，那么就可以在配置文件中添加如下信息：server.port=8081需要注意的是，项目中不需要显示的配置Spring Boot加载application.properties文件的信息，只要该文
+      件存在，就会被自动加载，Spring和应用程序代码就可以获取其中的属性信息
+      
+      
 
 
 
