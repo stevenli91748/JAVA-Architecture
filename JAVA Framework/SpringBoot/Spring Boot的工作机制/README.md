@@ -5,9 +5,9 @@
 
 **HelloApplication.java**, HelloApplication.java是程序的引导类，我们可以直接运行该类来启动SpringBoot应用
 
-         @SpringBootApplication是Spring Boot的核心注解，它是一个复合注解，用于开启组件扫描和自动配置。在main()方法中，通过调用SpringApplication类的run()方法将业务委托给了Spring Boot
-         的SpringApplication类，SpringApplication类将引导应用程序启动Spring，并相应地启动被自动配置的Tomcat服务器。只需要将 HelloApplication.class作为参数传递给run()方法，以此来通
-         知SpringApplication谁是主要的Spring组件，并传递args数组作为参数即可
+    @SpringBootApplication是Spring Boot的核心注解，它是一个复合注解，用于开启组件扫描和自动配置。在main()方法中，通过调用SpringApplication类的run()方法将业务委托给了Spring Boot
+    的SpringApplication类，SpringApplication类将引导应用程序启动Spring，并相应地启动被自动配置的Tomcat服务器。只需要将 HelloApplication.class作为参数传递给run()方法，以此来通
+    知SpringApplication谁是主要的Spring组件，并传递args数组作为参数即可
 
 ```java
 
