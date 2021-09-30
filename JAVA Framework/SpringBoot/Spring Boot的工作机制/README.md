@@ -3,6 +3,8 @@
 ### 1 使用IDEA 等工具生成Hello应用程序
 ### 2 对项目所生成的主要文件（HelloApplication.java，application.properties，HelloApplicationTests.java，pom.xml）的内容进行详细讲解
 
+* 2.1  **HelloApplication.java**
+ 
 **HelloApplication.java**, HelloApplication.java是程序的引导类，我们可以直接运行该类来启动SpringBoot应用
 
     @SpringBootApplication是Spring Boot的核心注解，它是一个复合注解，用于开启组件扫描和自动配置。在main()方法中，通过调用SpringApplication类的run()方法将业务委托给了Spring Boot
