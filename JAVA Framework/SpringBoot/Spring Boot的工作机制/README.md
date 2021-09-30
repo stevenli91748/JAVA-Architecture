@@ -34,6 +34,9 @@ public class HelloApplication {public static void main(String[] args)
 
       HelloApplicationTests.java是Spring Initializr提供的一个基本的集成测试类，可以基于该类为应用程序编写测试代码
       
+      @RunWith 注解表示测试运行在 Spring 测试环境中，@SpringBootTest 是Spring Boot 提供的注解，该注解通过 SpringApplication在测试中创建应用上下文来工作。contextLoads()方法是一个空
+      方法，虽然在方法体中没有编写任何代码，但通过此方法可以确定应用程序上下文的加载是否有问题。如果HelloApplication中定义的配置是正确的，那么就可以通过测试，否则，不能通过测试
+      
 ```java
 
 package com.itheima.web;
@@ -44,7 +47,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 @RunWith(SpringRunner.class)
 @SpringBootTest8　
 public class HelloApplicationTests {
- @Test10
+ @Test
  public void contextLoads() {
 　　 
     }
