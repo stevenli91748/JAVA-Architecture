@@ -11,6 +11,7 @@
 
 * [基于Kotlin的Spring Boot微服务实战---2020  微信读书](https://weread.qq.com/web/reader/484326307210fc26484c017)
 * [Spring Boot实战： 从0 开始动手搭建企业级项目---2021  微信读书](https://weread.qq.com/web/reader/c9c324c07263ff4ac9c629c)
+* [微服务架构基础（Spring Boot + Spring Cloud + Docker）](https://weread.qq.com/web/reader/69532da0717d3026695636ekc81322c012c81e728d9d180)
 
 ## 注解
 [Spring Core Annotations](https://www.javaguides.net/2018/10/15-spring-core-annotations.html)|[Spring MVC Annotations with Examples](https://www.javaguides.net/2018/11/spring-web-mvc-annotations.html)|[Spring Boot Annotations](https://www.javaguides.net/2018/10/spring-boot-annotations.html)|[Spring Scheduling Annotations](https://www.javaguides.net/2018/10/spring-scheduling-annotations.html)|
