@@ -30,8 +30,8 @@
 
 # 博客
 
-[极客教程---提供最全面最通俗易懂的IT技术教程，包括基础教程和高级教程](https://geek-docs.com/)|
----|
+[极客教程---提供最全面最通俗易懂的IT技术教程，包括基础教程和高级教程](https://geek-docs.com/)|[Spring Cloud 学习资料汇总](http://www.ityouknow.com/springcloud/2016/12/30/springcloud-collect.html)|
+---|---|
 
 [程序猿DD---非常好](http://blog.didispace.com/)|[ 芋道源码------非常好](http://www.iocoder.cn/)|[周立的博客](http://itmuch.com/)|[My bird](https://mrbird.cc/archives/)|[纯洁的微笑---Spring Cloud](http://www.ityouknow.com/spring-cloud)|[疯狂创客圈](https://www.cnblogs.com/crazymakercircle/p/9904544.html)|[疯狂创客圈-全部作品在线阅读-微信读书](https://weread.qq.com/web/search/books?author=%E5%B0%BC%E6%81%A9)|
 ---|---|---|---|---|---|---|
