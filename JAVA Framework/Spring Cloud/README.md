@@ -12,9 +12,11 @@
 
 
 # 在线书籍
-
+* [Spring Cloud Nginx高并发核心编程---2020](https://weread.qq.com/web/reader/a2032080720a3143a204cce)
 * [Spring Cloud微服务架构进阶---讲得非常详细](https://weread.qq.com/web/reader/c9932ea07163ff6ac993e0dkc81322c012c81e728d9d180)
-
+* [Spring Cloud Alibaba微服务原理与实战---2020](https://weread.qq.com/web/reader/0f132410811e3ac57g011a6akc81322c012c81e728d9d180)
+* [重新定义Spring Cloud实战---2018](https://weread.qq.com/web/reader/71d32370716443e271df020kc81322c012c81e728d9d180)
+* [Spring Cloud微服务和分布式系统实践---2020](https://weread.qq.com/web/reader/2fe329c071e041322feb53d)
 ## 注解
 [Spring Core Annotations](https://www.javaguides.net/2018/10/15-spring-core-annotations.html)|[Spring MVC Annotations with Examples](https://www.javaguides.net/2018/11/spring-web-mvc-annotations.html)|[Spring Boot Annotations](https://www.javaguides.net/2018/10/spring-boot-annotations.html)|[Spring Scheduling Annotations](https://www.javaguides.net/2018/10/spring-scheduling-annotations.html)|
 ---|---|---|---|
