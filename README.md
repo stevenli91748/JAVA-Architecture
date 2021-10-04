@@ -307,7 +307,8 @@
 第三阶段的项目实现|
 ---|
 
-* [最新 Java 开发工具教程，都在这了](https://mp.weixin.qq.com/s/K2nbzDQmharfYhkBDvwQdw)
+[最新 Java 开发工具教程，都在这了](https://mp.weixin.qq.com/s/K2nbzDQmharfYhkBDvwQdw)|[java代码审计](https://weread.qq.com/web/reader/c8732a70726fa058c87154b)|
+---|---|
 
 [VS Code](https://github.com/stevenli91748/JAVA-Architecture/blob/master/VS%20Code/README.md)|[Alibaba Java诊断利器Arthas](https://github.com/alibaba/arthas)|
 ---|---|
