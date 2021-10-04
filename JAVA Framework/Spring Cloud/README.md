@@ -20,6 +20,7 @@
 * [Spring Cloud微服务和分布式系统实践---2020](https://weread.qq.com/web/reader/2fe329c071e041322feb53d)
 * [深入理解Spring Cloud与微服务构建 第2版](https://weread.qq.com/web/reader/1223205071ccfab912296c2)
 * [Spring Cloud微服务： 入门 实战与进阶](https://weread.qq.com/web/reader/5c832cf07186d8355c87a4f)
+* [Spring Cloud微服务架构实战---2020](https://weread.qq.com/web/reader/ca932ea071d7c798ca9a714)
 ## 注解
 [Spring Core Annotations](https://www.javaguides.net/2018/10/15-spring-core-annotations.html)|[Spring MVC Annotations with Examples](https://www.javaguides.net/2018/11/spring-web-mvc-annotations.html)|[Spring Boot Annotations](https://www.javaguides.net/2018/10/spring-boot-annotations.html)|[Spring Scheduling Annotations](https://www.javaguides.net/2018/10/spring-scheduling-annotations.html)|
 ---|---|---|---|
