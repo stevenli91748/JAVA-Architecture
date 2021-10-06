@@ -13,14 +13,16 @@
 
 # 在线书籍
 * [微服务架构基础（Spring Boot + Spring Cloud + Docker）---将编程开发，持续集成，部署运维等环节都讲到，照着本书可搭建一套运行环境，构建一个demo](https://weread.qq.com/web/reader/69532da0717d3026695636ekc81322c012c81e728d9d180)
-* [Spring Cloud Nginx高并发核心编程---2020](https://weread.qq.com/web/reader/a2032080720a3143a204cce)
+* [微服务分布式架构基础与实战： 基于Spring Boot + Spring Cloud](https://weread.qq.com/web/reader/f6732e8071dbddd6f674178)
 * [Spring Cloud微服务架构进阶---讲得非常详细](https://weread.qq.com/web/reader/c9932ea07163ff6ac993e0dkc81322c012c81e728d9d180)
+* [Spring Cloud微服务架构实战---2020](https://weread.qq.com/web/reader/ca932ea071d7c798ca9a714)
 * [Spring Cloud Alibaba微服务原理与实战---2020](https://weread.qq.com/web/reader/0f132410811e3ac57g011a6akc81322c012c81e728d9d180)
+* [Spring Cloud Nginx高并发核心编程---2020](https://weread.qq.com/web/reader/a2032080720a3143a204cce)
 * [重新定义Spring Cloud实战---2018](https://weread.qq.com/web/reader/71d32370716443e271df020kc81322c012c81e728d9d180)
 * [Spring Cloud微服务和分布式系统实践---2020](https://weread.qq.com/web/reader/2fe329c071e041322feb53d)
 * [深入理解Spring Cloud与微服务构建 第2版](https://weread.qq.com/web/reader/1223205071ccfab912296c2)
 * [Spring Cloud微服务： 入门 实战与进阶](https://weread.qq.com/web/reader/5c832cf07186d8355c87a4f)
-* [Spring Cloud微服务架构实战---2020](https://weread.qq.com/web/reader/ca932ea071d7c798ca9a714)
+
 ## 注解
 [Spring Core Annotations](https://www.javaguides.net/2018/10/15-spring-core-annotations.html)|[Spring MVC Annotations with Examples](https://www.javaguides.net/2018/11/spring-web-mvc-annotations.html)|[Spring Boot Annotations](https://www.javaguides.net/2018/10/spring-boot-annotations.html)|[Spring Scheduling Annotations](https://www.javaguides.net/2018/10/spring-scheduling-annotations.html)|
 ---|---|---|---|
