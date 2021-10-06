@@ -1,6 +1,10 @@
 
 # 在线书籍
 * [Jenkins 2.x 实践指南](https://weread.qq.com/web/reader/12f320007184556612f32b6)
+* [接口自动化测试持续集成 Postman + Newman + Git + Jenkins + 钉钉---2020](https://weread.qq.com/web/reader/553324d0718b726d553ecef)
+* [Python实现WebUI自动化测试实战 ： Selenium 3/4 + unittest/Pytest + GitLab + Jenkins---2021](https://weread.qq.com/web/reader/08d327607265c44f08df6be)
+* [Web前端测试与集成： Jasmine/Selenium/Protractor/Jenkins的最佳实践](https://weread.qq.com/web/reader/33c321a0719b200633c3c27)
+
 
 ---
 
