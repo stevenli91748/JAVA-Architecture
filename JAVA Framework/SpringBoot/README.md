@@ -21,7 +21,7 @@
 * [11 Spring Boot开发实战---2018 基于Kotlin 来 用Spring Boot 开发企业级应用 非常好的书](https://weread.qq.com/web/reader/a6d32030715dbcb6a6d9015)
 * [12 Spring Boot + Spring Cloud + Vue + Element项目实战： 手把手教你开发权限管理系统---2019](https://weread.qq.com/web/reader/9593218071950312959b681)
 * [Spring Boot 从入门到实战---2021 Spring Boot框架基础，以及IoC与AOP原理；Spring MVC知识；Spring Boot搭建与配置；Spring Boot数据访问，包括MySQL、Redis和MongoDB等；配置中心与服务发现，重点讲解Nacos等中间件；服务限流与降级，包括Sentinel等；全链路追踪系统；微服务监控，讲解了Spring Boot Actuator；Spring Cloud Gateway提供了API网关相关断言；Spring Boot测试与部署；Spring Boot微服务开发和Spring WebFlux实战开发，全面的展示了微服务开发过程](https://weread.qq.com/web/reader/369321d0725d0bc1369c67e)
-
+* [从企业级开发到云原生微服务： Spring Boot实战---2019](https://weread.qq.com/web/reader/c183258072043959c1828a9kc81322c012c81e728d9d180)
 ## 注解
 [Spring Core Annotations](https://www.javaguides.net/2018/10/15-spring-core-annotations.html)|[Spring MVC Annotations with Examples](https://www.javaguides.net/2018/11/spring-web-mvc-annotations.html)|[Spring Boot Annotations](https://www.javaguides.net/2018/10/spring-boot-annotations.html)|[Spring Scheduling Annotations](https://www.javaguides.net/2018/10/spring-scheduling-annotations.html)|
 ---|---|---|---|
