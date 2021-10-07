@@ -12,10 +12,10 @@
 
 
 # 在线书籍
-* [微服务架构基础（Spring Boot + Spring Cloud + Docker）---将编程开发，持续集成，部署运维等环节都讲到，照着本书可搭建一套运行环境，构建一个demo](https://weread.qq.com/web/reader/69532da0717d3026695636ekc81322c012c81e728d9d180)
-* [微服务分布式架构基础与实战： 基于Spring Boot + Spring Cloud](https://weread.qq.com/web/reader/f6732e8071dbddd6f674178)
-* [微服务架构实战： 基于Spring Boot, Spring Cloud, Docker](https://weread.qq.com/web/reader/4ff32e10717d34624ff9b0a)
-* [Spring Cloud微服务架构进阶---讲得非常详细](https://weread.qq.com/web/reader/c9932ea07163ff6ac993e0dkc81322c012c81e728d9d180)
+* [微服务架构基础（Spring Boot + Spring Cloud + Docker）---将编程开发，持续集成，部署运维等环节都讲到，照着本书可搭建一套运行环境，构建一个demo---2018](https://weread.qq.com/web/reader/69532da0717d3026695636ekc81322c012c81e728d9d180)
+* [微服务分布式架构基础与实战： 基于Spring Boot + Spring Cloud---2020 组件包括 Consul + Feign + Hystrix + Ribbon + 缓存 + 消息通信 + 微服务异步线程池 + 微服务数据持久化 +  微服务事务 + 任务调度 + 文件上下传 + 部署](https://weread.qq.com/web/reader/f6732e8071dbddd6f674178)
+* [微服务架构实战： 基于Spring Boot, Spring Cloud, Docker---2018 可跟据书中的核心接口往下深究，组件包括 Spring Cloud Stream + Bus + Security + Sleuth + Test + Docker](https://weread.qq.com/web/reader/4ff32e10717d34624ff9b0a)
+* [Spring Cloud微服务架构进阶---2018 各组件讲得非常详细, 值的反复阅读的书 ，包括 Spring Cloud Stream + Bus + Security + Sleuth   ](https://weread.qq.com/web/reader/c9932ea07163ff6ac993e0dkc81322c012c81e728d9d180)
 * [Spring Cloud微服务架构实战---2020](https://weread.qq.com/web/reader/ca932ea071d7c798ca9a714)
 * [Spring Cloud Alibaba微服务原理与实战---2020](https://weread.qq.com/web/reader/0f132410811e3ac57g011a6akc81322c012c81e728d9d180)
 * [Spring Cloud Nginx高并发核心编程---2020](https://weread.qq.com/web/reader/a2032080720a3143a204cce)
