@@ -10,6 +10,7 @@
 # 在线书籍
 
 * [一步一步学Spring Boot: 微服务项目实战（第2版）---2019 介绍了Spring BOOT2.x 在Web应用开发中的各种技术，讲了很多实践性的案例 非常好](https://weread.qq.com/web/reader/c743298071c96a17c74f8ba)
+* [[Spring Boot技术内幕：架构设计与实现原理---2020](https://weread.qq.com/web/reader/4d93200071eeef994d90ec9)
 * [基于Kotlin的Spring Boot微服务实战---2020  微信读书](https://weread.qq.com/web/reader/484326307210fc26484c017)
 * [Spring Boot实战： 从0 开始动手搭建企业级项目---2021 开发思路与代码结构设计很清楚](https://weread.qq.com/web/reader/c9c324c07263ff4ac9c629c)
 * [微服务架构基础（Spring Boot + Spring Cloud + Docker）---将编程开发，持续集成，部署运维等环节都讲到，照着本书可搭建一套运行环境，构建一个demo](https://weread.qq.com/web/reader/69532da0717d3026695636ekc81322c012c81e728d9d180)
