@@ -8,17 +8,19 @@
 ---|
 
 # 在线书籍
-
-* [一步一步学Spring Boot: 微服务项目实战（第2版）---2019 介绍了Spring BOOT2.x 在Web应用开发中的各种技术，讲了很多实践性的案例 非常好](https://weread.qq.com/web/reader/c743298071c96a17c74f8ba)
-* [[Spring Boot技术内幕：架构设计与实现原理---2020](https://weread.qq.com/web/reader/4d93200071eeef994d90ec9)
-* [基于Kotlin的Spring Boot微服务实战---2020  微信读书](https://weread.qq.com/web/reader/484326307210fc26484c017)
-* [Spring Boot实战： 从0 开始动手搭建企业级项目---2021 开发思路与代码结构设计很清楚](https://weread.qq.com/web/reader/c9c324c07263ff4ac9c629c)
-* [微服务架构基础（Spring Boot + Spring Cloud + Docker）---将编程开发，持续集成，部署运维等环节都讲到，照着本书可搭建一套运行环境，构建一个demo](https://weread.qq.com/web/reader/69532da0717d3026695636ekc81322c012c81e728d9d180)
-* [Spring Boot 2 + Thymeleaf企业应用实战---2019](https://weread.qq.com/web/reader/855325a07184876485505ad)
-* [Spring Data JPA从入门到精通](https://weread.qq.com/web/reader/328329c07198d703328ecb3)
-* [Spring Boot + Vue全开发实战](https://weread.qq.com/web/reader/c1f3219071e52576c1fb8d9kc81322c012c81e728d9d180)
-* [Spring Boot开发实战---2018 基于Kotlin 来 用Spring Boot 开发企业级应用 非常好的书](https://weread.qq.com/web/reader/a6d32030715dbcb6a6d9015)
-* [Spring Boot + Spring Cloud + Vue + Element项目实战： 手把手教你开发权限管理系统---2019](https://weread.qq.com/web/reader/9593218071950312959b681)
+* [1 微服务架构基础（Spring Boot + Spring Cloud + Docker）---将编程开发，持续集成，部署运维等环节都讲到，照着本书可搭建一套运行环境，构建一个demo---2018](https://weread.qq.com/web/reader/69532da0717d3026695636ekc81322c012c81e728d9d180)
+* [2 一步一步学Spring Boot: 微服务项目实战（第2版）---2019 介绍了Spring BOOT2.x 在Web应用开发中的各种技术，讲了很多实践性的案例 非常好](https://weread.qq.com/web/reader/c743298071c96a17c74f8ba)
+* [3 深入浅出SpringBoot2.x---2018  挺全面，是一本难的SpringBoot入门的书](https://weread.qq.com/web/reader/48732c40718b74cd487c7c3)
+* [4 Spring Boot技术内幕：架构设计与实现原理---2020](https://weread.qq.com/web/reader/4d93200071eeef994d90ec9)
+* [5 基于Kotlin的Spring Boot微服务实战---2020  使用Kotlin作为开发语言，介绍了函数式编程思想、Kotlin的语法、Kotlin在常用中间件中的应用，以及其在微服务注册中心、微服务配置中心、微服务网关、Spring Cloud Alibaba、服务监控和服务链路监控方面的应用](https://weread.qq.com/web/reader/484326307210fc26484c017)
+* [6 Spring Boot实战： 从0 开始动手搭建企业级项目---2021 开发思路与代码结构设计很清楚,从0开始动手搭建一个企业级的商城项目，涉及后台管理系统和前端页面所有功能模块的技术开发](https://weread.qq.com/web/reader/c9c324c07263ff4ac9c629c)
+* [7 微服务架构基础（Spring Boot + Spring Cloud + Docker）---将编程开发，持续集成，部署运维等环节都讲到，照着本书可搭建一套运行环境，构建一个demo](https://weread.qq.com/web/reader/69532da0717d3026695636ekc81322c012c81e728d9d180)
+* [8 Spring Boot 2 + Thymeleaf企业应用实战---2019](https://weread.qq.com/web/reader/855325a07184876485505ad)
+* [9 Spring Data JPA从入门到精通](https://weread.qq.com/web/reader/328329c07198d703328ecb3)
+* [10 Spring Boot + Vue全栈开发实战---2018 是一本难得的好书 各种整合的例子](https://weread.qq.com/web/reader/c1f3219071e52576c1fb8d9kc81322c012c81e728d9d180)
+* [11 Spring Boot开发实战---2018 基于Kotlin 来 用Spring Boot 开发企业级应用 非常好的书](https://weread.qq.com/web/reader/a6d32030715dbcb6a6d9015)
+* [12 Spring Boot + Spring Cloud + Vue + Element项目实战： 手把手教你开发权限管理系统---2019](https://weread.qq.com/web/reader/9593218071950312959b681)
+* [Spring Boot 从入门到实战---2021 Spring Boot框架基础，以及IoC与AOP原理；Spring MVC知识；Spring Boot搭建与配置；Spring Boot数据访问，包括MySQL、Redis和MongoDB等；配置中心与服务发现，重点讲解Nacos等中间件；服务限流与降级，包括Sentinel等；全链路追踪系统；微服务监控，讲解了Spring Boot Actuator；Spring Cloud Gateway提供了API网关相关断言；Spring Boot测试与部署；Spring Boot微服务开发和Spring WebFlux实战开发，全面的展示了微服务开发过程](https://weread.qq.com/web/reader/369321d0725d0bc1369c67e)
 
 ## 注解
 [Spring Core Annotations](https://www.javaguides.net/2018/10/15-spring-core-annotations.html)|[Spring MVC Annotations with Examples](https://www.javaguides.net/2018/11/spring-web-mvc-annotations.html)|[Spring Boot Annotations](https://www.javaguides.net/2018/10/spring-boot-annotations.html)|[Spring Scheduling Annotations](https://www.javaguides.net/2018/10/spring-scheduling-annotations.html)|
