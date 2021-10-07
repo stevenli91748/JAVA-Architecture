@@ -14,9 +14,11 @@
 * [基于Kotlin的Spring Boot微服务实战---2020  微信读书](https://weread.qq.com/web/reader/484326307210fc26484c017)
 * [Spring Boot实战： 从0 开始动手搭建企业级项目---2021 开发思路与代码结构设计很清楚](https://weread.qq.com/web/reader/c9c324c07263ff4ac9c629c)
 * [微服务架构基础（Spring Boot + Spring Cloud + Docker）---将编程开发，持续集成，部署运维等环节都讲到，照着本书可搭建一套运行环境，构建一个demo](https://weread.qq.com/web/reader/69532da0717d3026695636ekc81322c012c81e728d9d180)
+* [Spring Boot 2 + Thymeleaf企业应用实战---2019](https://weread.qq.com/web/reader/855325a07184876485505ad)
 * [Spring Data JPA从入门到精通](https://weread.qq.com/web/reader/328329c07198d703328ecb3)
 * [Spring Boot + Vue全开发实战](https://weread.qq.com/web/reader/c1f3219071e52576c1fb8d9kc81322c012c81e728d9d180)
-
+* [Spring Boot开发实战---2018 基于Kotlin 来 用Spring Boot 开发企业级应用 非常好的书](https://weread.qq.com/web/reader/a6d32030715dbcb6a6d9015)
+* [Spring Boot + Spring Cloud + Vue + Element项目实战： 手把手教你开发权限管理系统---2019](https://weread.qq.com/web/reader/9593218071950312959b681)
 
 ## 注解
 [Spring Core Annotations](https://www.javaguides.net/2018/10/15-spring-core-annotations.html)|[Spring MVC Annotations with Examples](https://www.javaguides.net/2018/11/spring-web-mvc-annotations.html)|[Spring Boot Annotations](https://www.javaguides.net/2018/10/spring-boot-annotations.html)|[Spring Scheduling Annotations](https://www.javaguides.net/2018/10/spring-scheduling-annotations.html)|
