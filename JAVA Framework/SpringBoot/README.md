@@ -9,9 +9,11 @@
 
 # 在线书籍
 
+* [一步一步学Spring Boot: 微服务项目实战（第2版）---2019 介绍了Spring BOOT2.x 在Web应用开发中的各种技术，讲了很多实践性的案例 非常好](https://weread.qq.com/web/reader/c743298071c96a17c74f8ba)
 * [基于Kotlin的Spring Boot微服务实战---2020  微信读书](https://weread.qq.com/web/reader/484326307210fc26484c017)
 * [Spring Boot实战： 从0 开始动手搭建企业级项目---2021  微信读书](https://weread.qq.com/web/reader/c9c324c07263ff4ac9c629c)
 * [微服务架构基础（Spring Boot + Spring Cloud + Docker）---将编程开发，持续集成，部署运维等环节都讲到，照着本书可搭建一套运行环境，构建一个demo](https://weread.qq.com/web/reader/69532da0717d3026695636ekc81322c012c81e728d9d180)
+* [Spring Data JPA从入门到精通](https://weread.qq.com/web/reader/328329c07198d703328ecb3)
 
 ## 注解
 [Spring Core Annotations](https://www.javaguides.net/2018/10/15-spring-core-annotations.html)|[Spring MVC Annotations with Examples](https://www.javaguides.net/2018/11/spring-web-mvc-annotations.html)|[Spring Boot Annotations](https://www.javaguides.net/2018/10/spring-boot-annotations.html)|[Spring Scheduling Annotations](https://www.javaguides.net/2018/10/spring-scheduling-annotations.html)|
