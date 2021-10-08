@@ -313,7 +313,11 @@
 # 目录
 * [0 SpringBoot 基础知识 核心知识](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/README.md)
 * [Spring Boot CLI教程](https://www.yiibai.com/springbootcli/)
-* 1 SpringBoot内部机制
+* 1 SpringBoot内部原理
+  * Spring Boot 三大核心特性（组件自动装配、嵌入式Web容器、生产准备特性）
+  * Web 应用（传统 Servlet、Spring Web MVC、Spring WebFlux）
+  * 数据相关（JDBC、JPA、事务）
+  * 功能扩展（SpringApplication、Spring Boot 配置、Spring Boot Starter）  
   * [Spring Boot的工作机制](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/Spring%20Boot%E7%9A%84%E5%B7%A5%E4%BD%9C%E6%9C%BA%E5%88%B6/README.md)
   * [Spring Boot应用程序属性机制---application.properties文件进行应用程序配置](https://www.yiibai.com/spring-boot/spring-boot-properties.html) 
   * [spring factories 机制](https://www.jianshu.com/p/7367dddab20d)
@@ -587,7 +591,7 @@
 * [使用Spring StateMachine框架实现状态机](http://blog.didispace.com/spring-statemachine/)
 * [Spring Boot应用的后台运行配置](http://blog.didispace.com/spring-boot-run-backend/)
 * [Spring Boot自定义Banner](http://blog.didispace.com/spring-boot-banner/)
-
+* [Spring Boot项目的接口防刷](https://www.javaweb.shop/article/204.html)
 
 
 
