@@ -307,8 +307,8 @@
 ---|---|---|---|---|
 [RocketMQ](https://github.com/stevenli91748/Message-Server-System/blob/master/RocketMQ/README.md)|||||
 ---|---|---|---|---|
-|||||
-[RestTemplate](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/RestTemplate/README.md)|---|---|---|---|
+微服务之间的通信的方式| Feign(第一代) , [RestTemplate（第二代）](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/RestTemplate/README.md)|[OpenFeign （第二代）](https://www.jianshu.com/p/7d45185ae7f1) |||
+|---|---|---|---|
 
 ---
 
