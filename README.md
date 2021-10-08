@@ -465,6 +465,9 @@ SOA架构|[JPA](https://github.com/stevenli91748/JAVA-Architecture/blob/master/T
 
 ### WEB服务器基础
 
+[Java Web应用程序的发展历史](https://weread.qq.com/web/reader/f6732e8071dbddd6f674178ke4d32d5015e4da3b7fbb1fa)|
+---|
+
 [HTTP](https://github.com/stevenli91748/Network/blob/master/HTTP/README.md)|HttpWatch|[Tomcat](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Tomcat/README.md)|[JSON][%JSON]|JSONP|[Java动态追踪技术探究](https://juejin.im/post/5c789892f265da2dc45390d4)|[Jmx](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/jmx/README.md)|[JAXB2](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/JAXB2/README.md 'Java Architecture for XML Binding [JAXB] is one of the most popular API and industry standard to convert Java object into XML structures and vice versa.')|
 ---|---|---|---|---|---|---|---|
 
