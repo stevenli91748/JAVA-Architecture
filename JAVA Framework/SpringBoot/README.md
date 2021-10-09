@@ -499,6 +499,7 @@
 # 有用的参考
   * 深入实践Spring Boot.pdf
   * [初级 Spring Boot 研发职位的技能要求](https://weread.qq.com/web/reader/f6732e8071dbddd6f674178)
+  * [Spring 全家桶中各组件的功能](https://weread.qq.com/web/reader/f6732e8071dbddd6f674178)
   * [Spring，Spring Boot和Spring MVC的区别](https://www.yiibai.com/spring-boot/spring-vs-spring-boot-vs-spring-mvc.html)
   * [Spring Boot Actuator详解](https://www.jianshu.com/p/8bfac9289c7e)
   * [SpringBoot零基础实现WebApi服务(1)项目构建](https://zhuanlan.zhihu.com/p/47365661)
