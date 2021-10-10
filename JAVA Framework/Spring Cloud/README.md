@@ -286,7 +286,7 @@
 ---|---|---|---|---|
 配置中心|[Spring Cloud Config (第一代组件)](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%E5%8E%9F%E7%94%9F%E5%8F%8A%E5%85%B6%E4%BB%96%E6%95%B4%E5%90%88%E7%BB%84%E4%BB%B6/Config.md)||[Nacos (第二代新组件)](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%20Alibaba%E5%A5%97%E4%BB%B6/Nacos.md)|[Apollo (第二代新组件)](https://github.com/ctripcorp/apollo) |
 ---|---|---|---|---|
-负载均衡|默认采用Netfilix Ribbon|||可使用Spring Cloud Loadbalancer代替|
+负载均衡|[默认采用Netfilix Ribbon](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%20Netflix%E5%A5%97%E4%BB%B6/Ribbon.md '基于客户端的负载均衡组件')|||可使用Spring Cloud Loadbalancer代替|
 ---|---|---|---|---|
 服务网关|[使用Spring Cloud Gateway (第二代新组件)代替](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%E5%8E%9F%E7%94%9F%E5%8F%8A%E5%85%B6%E4%BB%96%E6%95%B4%E5%90%88%E7%BB%84%E4%BB%B6/Gateway.md)|[Zuul(被淘汰)](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%20Netflix%E5%A5%97%E4%BB%B6/Zuul.md 'API网关，提供路由转发、请求过滤等功能')||Kong(流行)|
 ---|---|---|---|---|
@@ -308,8 +308,7 @@
 ---|---|---|---|---|
 [RocketMQ](https://github.com/stevenli91748/Message-Server-System/blob/master/RocketMQ/README.md)|||||
 ---|---|---|---|---|
-微服务之间的通信的方式| Feign(第一代) , [RestTemplate（第二代）](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/RestTemplate/README.md)|[OpenFeign （第二代）](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%20Netflix%E5%A5%97%E4%BB%B6/OpenFeign.md) |||
-|---|---|---|---|
+
 
 ---
 
