@@ -342,6 +342,7 @@
     * [Tomcat](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%B7%A5%E7%A8%8B%E9%85%8D%E7%BD%AE/%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%AE%B9%E5%99%A8%E7%9A%84%E9%85%8D%E7%BD%AE%E4%B8%8E%E5%BA%94%E7%94%A8/Tomcat.md)
   * [Spring Boot的各种工程整合配置 + 项目构建](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%B7%A5%E7%A8%8B%E9%85%8D%E7%BD%AE/Spring%20Boot%E7%9A%84%E5%90%84%E7%A7%8D%E6%95%B4%E5%90%88%E9%A1%B9%E7%9B%AE%E9%85%8D%E7%BD%AE/README.md)
 * [3 SpringBoot Web开发](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/Web%E5%BC%80%E5%8F%91/README.md)
+  * Spring WebFlux框架---即响应式Web编程框架，其底层是由Netty框架提供的异步支持；它用少量的线程处理更高的并发，在支持异步方式的同时也支持同步方式，类似于WebSocket式的客户端与服务器双向监听
   * [Spring Boot CORS支持](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%20%E5%BE%AE%E6%9C%8D%E5%8A%A1/Spring%20Boot%20CORS%E6%94%AF%E6%8C%81/README.md)
   * [Spring中WebApplicationInitializer的理解---可以看做是Web.xml的替代](https://blog.csdn.net/zq17865815296/article/details/79464403)
     * [SpringBootServletInitializer类文件允许在使用Servlet容器启动时配置应用程序](https://www.yiibai.com/spring-boot/spring_boot_tomcat_deployment.html) 
