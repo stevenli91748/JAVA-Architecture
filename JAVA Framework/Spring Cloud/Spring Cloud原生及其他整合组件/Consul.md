@@ -1,5 +1,5 @@
 
-[Consul官方网站](https://www.consul.io/)[使用Consul为例来搭建和使用注册中心](https://yasinshaw.com/articles/43)|
+[Consul官方网站](https://www.consul.io/)|[使用Consul为例来搭建和使用注册中心](https://yasinshaw.com/articles/43)|
 ---|---|
 
 # 目录
