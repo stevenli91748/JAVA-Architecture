@@ -1,7 +1,8 @@
 
 
- * [1 设置Eureka注册中心](#设置Eureka注册中心)
- * [2 设置Spring Cloud Alibaba Nacos 注册中心](#设置Spring-Cloud-Alibaba-Nacos-注册中心)
+ * [1 设置Eureka注册中心](#1-设置Eureka注册中心)
+ * [2 设置Consul注册中心](#2-设置Consul注册中心)
+ * [3 设置Spring Cloud Alibaba Nacos 注册中心](#3-设置Spring-Cloud-Alibaba-Nacos-注册中心)
 
 ----
 
@@ -14,4 +15,4 @@
 * [eureka-producer-consumer](https://github.com/ityouknow/spring-cloud-examples/tree/master/eureka-producer-consumer)：利用eureka实现服务提供与调用示例
 
 
-# 2 设置Spring-Cloud-Alibaba-Nacos-注册中心
+# 3 设置Spring-Cloud-Alibaba-Nacos-注册中心
