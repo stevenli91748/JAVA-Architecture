@@ -1,5 +1,9 @@
 
+ [客户端负载均衡器：Spring Cloud Netflix Ribbon](https://weread.qq.com/web/reader/c9932ea07163ff6ac993e0dk19c3222022419ca14e7eef7)|
+ ---|
 
+
+# 参考
 * [Ribbon 与 Feign 和 Nginx 区别与使用场景,性能介绍](https://blog.csdn.net/lchq1995/article/details/83340753)
 * [撸一撸Spring Cloud Ribbon的原理-负载均衡策略](https://www.cnblogs.com/kongxianghai/p/8477781.html)
 * [Feign Ribbon Hystrix 三者关系 | 史上最全, 深度解析](https://www.cnblogs.com/crazymakercircle/p/11664812.html)
