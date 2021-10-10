@@ -3,7 +3,7 @@
 ---|---|
 
 # 目录
-
+* [微服务注册中心比较(ZooKeeper/Eureka/Consul/Nacos)](https://www.cnblogs.com/davidgu/p/14526467.html)
 * [Consul的安装](https://weread.qq.com/web/reader/f6732e8071dbddd6f674178k6f4322302126f4922f45dec)
 
 
