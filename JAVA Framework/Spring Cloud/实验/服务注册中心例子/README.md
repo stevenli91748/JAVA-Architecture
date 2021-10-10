@@ -1,7 +1,7 @@
 
 
-    * [设置Eureka注册中心](#设置Eureka注册中心)
-    * [设置Spring Cloud Alibaba Nacos 注册中心](#设置Spring-Cloud-Alibaba-Nacos-注册中心)
+ * [设置Eureka注册中心](#设置Eureka注册中心)
+ * [设置Spring Cloud Alibaba Nacos 注册中心](#设置Spring-Cloud-Alibaba-Nacos-注册中心)
 
 ----
 
