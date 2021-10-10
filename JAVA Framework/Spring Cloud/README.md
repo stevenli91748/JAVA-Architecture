@@ -226,9 +226,10 @@
        * [spring cloud 核心参数调优](https://www.coollf.com/archives/article-51) 
      * [Spring Cloud各组件专题](#Spring-Cloud各组件专题)
 * 2  Sprng Cloud开发环境配置
-     * 服务注册与发现配置中心
+     * 服务注册与发现中心
        * [主流微服务注册中心浅析和对比](https://my.oschina.net/yunqi/blog/3040280)
        * [主流微服务注册中心产品比较 Eureka、Consul、Nacos](https://www.jianshu.com/p/54f525334658)
+       * Zookeeper
        * [ Eureka服务注册中心环境配置](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%20Netflix%E5%A5%97%E4%BB%B6/Eureka.md)
        * [ Nacos 服务注册中心环境配置](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%20Alibaba%E5%A5%97%E4%BB%B6/Nacos.md)  
      * Microservice 微服务配置中心
