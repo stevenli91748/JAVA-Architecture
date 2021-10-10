@@ -300,8 +300,6 @@
 ---|---|---|---|---|
 声明式 HTTP 客户端|默认采用Spring Cloud OpenFeign|||声明式的 HTTP 客户端其实没有找替代品的必要性，如果需要，可考虑Retrofit，或者使用 RestTemplete 乃至于更底层的OkHTTP、HTTPClient以命令式编程来访问|
 ---|---|---|---|---|
-配置中心||||git Zoopkeeper |
----|---|---|---|---|
 认证授权中心||||[Spring Security Oauth (第二代新组件)]() [JWT (第二代新组件)]()|
 ---|---|---|---|---|
 缓存中心|||||
