@@ -26,6 +26,7 @@ Eureka由两个组件组成：Eureka服务器和Eureka客户端。Eureka服务�
 
 
 # 有用的参考
+* [微服务注册中心比较(ZooKeeper/Eureka/Consul/Nacos)](https://www.cnblogs.com/davidgu/p/14526467.html)
 * [Eureka与Consul的区别](https://weread.qq.com/web/reader/f6732e8071dbddd6f674178k6f4322302126f4922f45dec)
 * [Spring Cloud Eureka详解](https://blog.csdn.net/sunhuiliang85/article/details/76222517)
 * [《Spring Cloud Netflix》 -- 服务注册和服务发现-Eureka 的使用](https://zhuanlan.zhihu.com/p/26472547)
