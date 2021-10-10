@@ -296,7 +296,7 @@
 ---|---|---|---|---|
 跟踪监控| [Sleuth](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%E5%8E%9F%E7%94%9F%E5%8F%8A%E5%85%B6%E4%BB%96%E6%95%B4%E5%90%88%E7%BB%84%E4%BB%B6/Sleuth.md '构建分布式链路跟踪功能') [Zipkin](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%E5%8E%9F%E7%94%9F%E5%8F%8A%E5%85%B6%E4%BB%96%E6%95%B4%E5%90%88%E7%BB%84%E4%BB%B6/Zipkin.md '收集所有服务的监控数据的分布式跟踪系统')|||Spring Cloud Turbine代替 |
 ---|---|---|---|---|
-消息中心|[Stream](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%E5%8E%9F%E7%94%9F%E5%8F%8A%E5%85%B6%E4%BB%96%E6%95%B4%E5%90%88%E7%BB%84%E4%BB%B6/Stream.md '构建消息驱动的微服务应用程序的框架')|||Bus|
+消息中心|[Spring Cloud Stream](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%E5%8E%9F%E7%94%9F%E5%8F%8A%E5%85%B6%E4%BB%96%E6%95%B4%E5%90%88%E7%BB%84%E4%BB%B6/Stream.md '构建消息驱动的微服务应用程序的框架')|||[Spring Cloud Bus](https://weread.qq.com/web/reader/c9932ea07163ff6ac993e0dk09332a2023b093f65e0888c)|
 ---|---|---|---|---|
 声明式 HTTP 客户端|[默认采用Spring Cloud OpenFeign](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%20Netflix%E5%A5%97%E4%BB%B6/OpenFeign.md)|||声明式的 HTTP 客户端其实没有找替代品的必要性，如果需要，可考虑Retrofit，或者使用 RestTemplete 乃至于更底层的OkHTTP、HTTPClient以命令式编程来访问|
 ---|---|---|---|---|
