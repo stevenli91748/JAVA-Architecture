@@ -1,4 +1,7 @@
-
+ [Spring Cloud Stream](https://weread.qq.com/web/reader/c9932ea07163ff6ac993e0dkd8232f00235d82c8d161fb2)|
+ ---|
+ 
+ 
 - [Spring Cloud Stream如何消费自己生产的消息](http://blog.didispace.com/spring-cloud-starter-finchley-7-1)
 - [Spring Cloud Stream同一通道根据消息内容分发不同的消费逻辑](http://blog.didispace.com/spring-cloud-starter-finchley-7-6)
 - [Spring Cloud Stream使用延迟消息实现定时任务（RabbitMQ）](http://blog.didispace.com/spring-cloud-starter-finchley-7-7)
