@@ -1,6 +1,12 @@
 
-[使用Consul为例来搭建和使用注册中心](https://yasinshaw.com/articles/43)|
----|
+[Consul官方网站](https://www.consul.io/)[使用Consul为例来搭建和使用注册中心](https://yasinshaw.com/articles/43)|
+---|---|
+
+# 目录
+
+* [Consul的安装](https://weread.qq.com/web/reader/f6732e8071dbddd6f674178k6f4322302126f4922f45dec)
+
+
 
 * [Eureka与Consul的区别](https://weread.qq.com/web/reader/f6732e8071dbddd6f674178k6f4322302126f4922f45dec)
 * [Spring Cloud Finchley版中Consul多实例注册的问题处理](http://blog.didispace.com/Spring-Cloud-Finchley-Consul-InstanceId/)
