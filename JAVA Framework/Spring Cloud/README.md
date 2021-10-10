@@ -67,8 +67,8 @@
 [小马哥的技术博客](https://mercyblitz.github.io/)|[Spring SpringBoot SpringCloud技术一览](https://zhuanlan.zhihu.com/p/267654014?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)|[bugstack虫洞栈---非常好](https://bugstack.cn/itstack/itstack-demo-design.html)|
 ---|---|---|
 
-[互联网应用开发平台综合技术入门指南](https://www.kancloud.cn/fang2099/rayplatform/2109037)|
----|
+[互联网应用开发平台综合技术入门指南](https://www.kancloud.cn/fang2099/rayplatform/2109037)|[Yasin Shaw---一线互联网公司，挺好](https://yasinshaw.com/)|
+---|---|
 
 ## SpringCloud版本依赖
 
