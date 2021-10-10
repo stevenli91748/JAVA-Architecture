@@ -7,6 +7,8 @@
   * XML配置例子实验
   * Java配置例子实验 
   * 注解配置例子实验
+  * [通过单配置文件让工程适应多应用场景](https://weread.qq.com/web/reader/f6732e8071dbddd6f674178kc20321001cc20ad4d76f5ae)
+  * [通过多配置文件使工程适应多应用场景](https://weread.qq.com/web/reader/f6732e8071dbddd6f674178kc51323901dc51ce410c121b)
 * 项目整合例子实验
   * 数据整合 
     * SpringBoot整合Jdbc Template例子实验 
