@@ -2,6 +2,9 @@
 [Consul官方网站](https://www.consul.io/)|[使用Consul为例来搭建和使用注册中心](https://yasinshaw.com/articles/43)|
 ---|---|
 
+[Spring Cloud Consul上篇](https://weread.qq.com/web/reader/71d32370716443e271df020kd1f32d7024fd1fe173d0651)|[Spring Cloud Consul下篇](https://weread.qq.com/web/reader/71d32370716443e271df020kfe932230253fe9fc289c8a3)|
+---|---|
+
 # 目录
 * [微服务注册中心比较(ZooKeeper/Eureka/Consul/Nacos)](https://www.cnblogs.com/davidgu/p/14526467.html)
 * [Consul的安装](https://weread.qq.com/web/reader/f6732e8071dbddd6f674178k6f4322302126f4922f45dec)
