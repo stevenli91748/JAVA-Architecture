@@ -1,4 +1,5 @@
-
+[Spring Cloud Feign的使用扩展](https://weread.qq.com/web/reader/71d32370716443e271df020k4e73277021a4e732ced3b55)|
+---|
 
 * [Ribbon 与 Feign 和 Nginx 区别与使用场景,性能介绍](https://blog.csdn.net/lchq1995/article/details/83340753)
 * [Feign](https://blog.csdn.net/u012734441/article/details/77662617)
