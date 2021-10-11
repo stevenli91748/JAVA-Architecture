@@ -1,4 +1,5 @@
-
+[Spring Cloud Hystrix实战运用](https://weread.qq.com/web/reader/71d32370716443e271df020ka5b325d0225a5bfc9e0772d)|
+---|
 
 * [Hystrix ，为什么说它是每个系统不可或缺的开源框架？](https://zhuanlan.zhihu.com/p/34304136)
 * [深入理解Hystrix之文档翻译](https://zhuanlan.zhihu.com/p/28523060)
