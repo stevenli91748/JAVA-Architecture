@@ -1,5 +1,7 @@
 
-* [Spring Cloud Config](https://weread.qq.com/web/reader/c9932ea07163ff6ac993e0dk64232b60230642e92efb54c)
+ [Spring Cloud Config](https://weread.qq.com/web/reader/c9932ea07163ff6ac993e0dk64232b60230642e92efb54c)|[Spring Cloud Config上篇](https://weread.qq.com/web/reader/71d32370716443e271df020kfc432fb0241fc490ca45614)|[Spring Cloud Config下篇](https://weread.qq.com/web/reader/71d32370716443e271df020k14b3246024514bfa6bb1534)|
+ ---|---|---|
+ 
 * [springcloud Config 入门，带视频](https://www.cnblogs.com/crazymakercircle/p/12043604.html)
 * [Spring Cloud Config采用数据库存储配置内容](http://blog.didispace.com/spring-cloud-starter-edgware-3-1/)
 * [Spring Cloud Config采用Git存储时两种常用的配置策略](http://blog.didispace.com/Spring-Cloud-Config-Git-Config-Two-Mode/)
