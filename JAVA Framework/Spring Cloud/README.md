@@ -300,7 +300,7 @@
 ---|---|---|---|---|
 声明式 HTTP 客户端|[默认采用Spring Cloud OpenFeign](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%20Netflix%E5%A5%97%E4%BB%B6/OpenFeign.md)|||声明式的 HTTP 客户端其实没有找替代品的必要性，如果需要，可考虑Retrofit，或者使用 [RestTemplete](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/RestTemplate/README.md) 乃至于更底层的OkHTTP、HTTPClient以命令式编程来访问|
 ---|---|---|---|---|
-[认证授权中心](https://weread.qq.com/web/reader/71d32370716443e271df020kfe932230253fe9fc289c8a3)|[Spring Cloud Security](https://weread.qq.com/web/reader/c9932ea07163ff6ac993e0dkea532350240ea5d2f1c4357)|||[Spring Security Oauth (第二代新组件)]() JWT (第二代新组件)|
+[认证授权中心](https://weread.qq.com/web/reader/71d32370716443e271df020kfe932230253fe9fc289c8a3)|[Spring Cloud Security](https://weread.qq.com/web/reader/c9932ea07163ff6ac993e0dkea532350240ea5d2f1c4357)|||[Spring Security Oauth (第二代新组件)](https://weread.qq.com/web/reader/0e03209071c96a420e02710k7f632b502707f6ffaa6bf2e) JWT (第二代新组件)|
 ---|---|---|---|---|
 文档中心||||swagger|
 ---|---|---|---|---|
