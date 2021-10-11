@@ -1,6 +1,6 @@
 
- [客户端负载均衡器：Spring Cloud Netflix Ribbon](https://weread.qq.com/web/reader/c9932ea07163ff6ac993e0dk19c3222022419ca14e7eef7)|
- ---|
+ [客户端负载均衡器：Spring Cloud Netflix Ribbon](https://weread.qq.com/web/reader/c9932ea07163ff6ac993e0dk19c3222022419ca14e7eef7)|[Spring Cloud Ribbon实战运用](https://weread.qq.com/web/reader/71d32370716443e271df020k636320102206364d3f0ffdc)|
+ ---|---|
 
 
 # 参考
