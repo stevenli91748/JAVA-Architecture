@@ -396,6 +396,7 @@ Open API开放平台必然涉及到客户应用的接入、API权限的管理、
   * [REST API 接口测试](https://www.imooc.com/learn/1048)
   * [高质量API接口设计最佳实践](https://www.bilibili.com/video/BV1g4411V7R9/?spm_id_from=333.788.videocard.7)
 # 有用的参考
+  * [老板叫我设计一个亿级API网关](https://network.51cto.com/art/202104/656469.htm)
   * [Spring Boot构建RESTful Web服务](https://www.yiibai.com/spring-boot/spring_boot_building_restful_web_services.html)
   * [分布式Restful SpringBoot骨架搭建](https://blog.csdn.net/songxinjianqwe/article/details/77478385)
   * [SpringBoot实现API接口的完整代码](https://www.jb51.net/article/198167.htm)
