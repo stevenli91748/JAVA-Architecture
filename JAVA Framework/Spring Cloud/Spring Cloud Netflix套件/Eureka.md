@@ -1,3 +1,7 @@
+[Spring Cloud Eureka上篇](https://weread.qq.com/web/reader/71d32370716443e271df020kc51323901dc51ce410c121b)|[Spring Cloud Eureka下篇](https://weread.qq.com/web/reader/71d32370716443e271df020k6f4322302126f4922f45dec)|
+---|---|
+
+
 [Eureka停更后的替换](https://blog.csdn.net/XJ0927/article/details/109405285?utm_medium=distribute.pc_relevant.none-task-blog-OPENSEARCH-6.not_use_machine_learn_pai&depth_1-utm_source=distribute.pc_relevant.none-task-blog-OPENSEARCH-6.not_use_machine_learn_pai)|
 ---|
 
