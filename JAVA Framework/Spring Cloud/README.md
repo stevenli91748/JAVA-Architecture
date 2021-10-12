@@ -255,7 +255,7 @@
   * Sleuth + ELK整合
   * Pinpoint
   * Skywalking
-* Spring Cloud Security
+* 微服务之间调用的安全认证
   * [OAuth](https://weread.qq.com/web/reader/0e03209071c96a420e02710k7f632b502707f6ffaa6bf2e) 
   * OAuth 2
   * JWT
