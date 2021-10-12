@@ -28,23 +28,13 @@
   * OpenFeign---服务调用
   * Ribbon---负载均衡
 * 2 服务配置中心
-  *  Apollo
-  *  Disconf
-  *  Spring Cloud Confifig
   *  Nacos Config
 * 3 服务网关
-  * Zuul
-  * Nginx + Lua
-  * Kong
   * Spring Cloud Gateway 
 * 4 服务容错
   * Sentinel
-  * Hystrix
-  * Resilience4J
 * 5 链路追踪
-  * Cat
   * Sleuth  + Zipkin
-  * Pinpoint
   * Skywalking
 * 6 分布式消息驱动 RocketMQ
 * 7 SMS 短信 
