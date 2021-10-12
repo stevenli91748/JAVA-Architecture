@@ -27,10 +27,12 @@
 * [12 Spring Cloud微服务架构开发实战 ---2018 涵盖了构建微服务架构所需要的服务治理（Eureka）、客户端负载均衡（Ribbon）、微服务容错与降级处理（Hystrix）、微服务API统一网关（Zuul）、分布式配置中心（Config）、微服务调用链追踪（Sleuth）、微服务消息驱动开发（Stream）及微服务安全（OAuth及JWT）等组件](https://weread.qq.com/web/reader/7d332ce0715dbcba7d3a09d)
 * [13 Spring Cloud开发实战 ---2021 Eureka + Consul + Apollo + Nacos + Zuul + Feign + Gateway + Kafka + config + Zipkin + Hystrix + Ribbon + ZooKeeper + Swagger + Postman  ](https://weread.qq.com/web/reader/1c632610725a69631c6c26f)
 * [名师讲坛： JAVA微服务架构实战（SpringBoot + SpringCloud + Docker + RabbitMQ）---2020 李兴华](https://weread.qq.com/web/reader/0e03209071c96a420e02710)
-
-
-
-
+* （Spring Cloud 深入系列 ）Spring Cloud与Docker微服务架构实战（第2版）.PDF
+* Spring Cloud微服务架构实战派.PDF---共有“39个基于知识点的实例 + 1个综合性项目
+* Spring Cloud与Docker高并发微服务架构设计实施.PDF---通过一个互联网电商平台实例实现了高并发的微服务架构设计  适合做项目实战 
+* Spring Cloud微服务架构开发实战.PDF---
+* 深入理解Spring Cloud与微服务构建.PDF---有一个可参考的实例
+* （Spring Cloud 深入系列 ）Spring Cloud微服务实战.PDF
 ### 注解
 [Spring Core Annotations](https://www.javaguides.net/2018/10/15-spring-core-annotations.html)|[Spring MVC Annotations with Examples](https://www.javaguides.net/2018/11/spring-web-mvc-annotations.html)|[Spring Boot Annotations](https://www.javaguides.net/2018/10/spring-boot-annotations.html)|[Spring Scheduling Annotations](https://www.javaguides.net/2018/10/spring-scheduling-annotations.html)|
 ---|---|---|---|
