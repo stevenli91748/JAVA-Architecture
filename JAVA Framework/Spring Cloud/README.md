@@ -54,8 +54,8 @@
 [程序猿DD---非常好](http://blog.didispace.com/)|[ 芋道源码------非常好](http://www.iocoder.cn/)|[周立的博客](http://itmuch.com/)|[My bird](https://mrbird.cc/archives/)|[纯洁的微笑---Spring Cloud](http://www.ityouknow.com/spring-cloud)|[疯狂创客圈](https://www.cnblogs.com/crazymakercircle/p/9904544.html)|[疯狂创客圈-全部作品在线阅读-微信读书](https://weread.qq.com/web/search/books?author=%E5%B0%BC%E6%81%A9)|
 ---|---|---|---|---|---|---|
 
-[Java Guides sample program](https://www.javaguides.net/)|[Source Code Sample program](https://www.sourcecodeexamples.net/)|
----|---|
+[Java Guides sample program](https://www.javaguides.net/)|[Source Code Sample program](https://www.sourcecodeexamples.net/)|[JavaInUse example](https://www.javainuse.com/home)|
+---|---|---|
 
 [老炮说JAVA---SPring Cloud篇 非常好](https://www.laopaojava.com/)|[基于SpringCloud微服务系统设计,5万字总结](https://segmentfault.com/a/1190000039889988)|[bugstack虫洞栈---非常好](https://bugstack.cn/itstack/itstack-demo-design.html)|
 ----|---|---|
