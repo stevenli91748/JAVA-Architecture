@@ -33,6 +33,7 @@
 * Spring Cloud微服务架构开发实战.PDF---
 * 深入理解Spring Cloud与微服务构建.PDF---有一个可参考的实例
 * （Spring Cloud 深入系列 ）Spring Cloud微服务实战.PDF
+* （Spring Cloud 深入系列 ）Spring Cloud微服务全栈技术与案例解析.PDF
 ### 注解
 [Spring Core Annotations](https://www.javaguides.net/2018/10/15-spring-core-annotations.html)|[Spring MVC Annotations with Examples](https://www.javaguides.net/2018/11/spring-web-mvc-annotations.html)|[Spring Boot Annotations](https://www.javaguides.net/2018/10/spring-boot-annotations.html)|[Spring Scheduling Annotations](https://www.javaguides.net/2018/10/spring-scheduling-annotations.html)|
 ---|---|---|---|
@@ -245,6 +246,10 @@
   * Nginx + Lua
   * Kong
   * Spring Cloud Gateway 
+  * API网关扩展
+  * 服务限流
+  * 服务降级
+  * 灰度发布
 * 4 微服务容错---微服务的高级主题
   * Sentinel
   * Hystrix
@@ -270,7 +275,22 @@
 * 8 Seata 分布式事务
 * 微服务的高级主题---分布式消息总线
   * Spring Cloud Bus 
+* Spring Boot Admin
+* 微服务的API 文档管理
+  * Swagger 2 
 * 微服务的日志与监控
+* 微服务之缓存---Spring Cloud微服务全栈技术与案例解析.pdf
+  * Guava Cache
+  * Redis
+  * 防止缓存穿透方案..
+  * 防止缓存雪崩方案 
+* 微服务之存储
+  * MongoDB
+  * MySQL
+  * Elasticsearch 
+  * 分库分表解决方案
+* 微服务之分布式事物解决方案
+* 分布式任务调度------Spring Cloud微服务全栈技术与案例解析.pdf
 * 微服务的部署与发布
   * 持续交付与持续部署微服务
   * 基于容器的部署与发布
