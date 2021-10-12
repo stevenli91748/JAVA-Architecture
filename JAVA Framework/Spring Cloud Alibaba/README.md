@@ -24,14 +24,14 @@
 
 # 目录
 * 1 服务治理
-  * Nacos---注册中心
+  * Nacos Discovery---注册中心
   * OpenFeign---服务调用
   * Ribbon---负载均衡
 * 2 服务配置中心
   *  Apollo
   *  Disconf
   *  Spring Cloud Confifig
-  *  Nacos
+  *  Nacos Config
 * 3 服务网关
   * Zuul
   * Nginx + Lua
@@ -46,7 +46,7 @@
   * Sleuth  + Zipkin
   * Pinpoint
   * Skywalking
-* 6 RocketMQ
+* 6 分布式消息驱动 RocketMQ
 * 7 SMS 短信 
 * 8 Seata 分布式事务
 * 
