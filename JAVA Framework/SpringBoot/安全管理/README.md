@@ -1,6 +1,7 @@
 * [Spring Security](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%AE%89%E5%85%A8%E7%AE%A1%E7%90%86/Spring%20Security.md)
 * [Shiro](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%AE%89%E5%85%A8%E7%AE%A1%E7%90%86/Shiro.md)
 * [Oauth2](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%AE%89%E5%85%A8%E7%AE%A1%E7%90%86/Oauth2.md)
+* [JWT]()
 * [SSO](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%AE%89%E5%85%A8%E7%AE%A1%E7%90%86/SSO.md)
 
 
