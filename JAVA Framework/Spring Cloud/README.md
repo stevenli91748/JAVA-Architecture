@@ -254,6 +254,10 @@
   * Pinpoint
   * Skywalking
 * Spring Cloud Security
+  * [OAuth](https://weread.qq.com/web/reader/0e03209071c96a420e02710k7f632b502707f6ffaa6bf2e) 
+  * OAuth 2
+  * JWT
+  * Spring Cloud Security
 * Spring Test
 * 6 分布式消息驱动
   * RocketMQ
