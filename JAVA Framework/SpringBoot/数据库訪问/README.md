@@ -47,7 +47,7 @@
    * [使用Flyway来管理数据库版本](http://blog.didispace.com/spring-boot-flyway-db-version/)
 
 # 有用的参考
-
+* [SpringBoot 整合 Redis，一篇解决“缓存”的所有问题](https://www.jianshu.com/p/e4ad2b6bf85f?utm_campaign=hugo&utm_medium=reader_share&utm_content=note&utm_source=weixin-friends)
 * [如何通过Spring Boot配置动态数据源访问多个数据库](https://blog.csdn.net/ylforever/article/details/79600631?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-4.not_use_machine_learn_pai&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-4.not_use_machine_learn_pai)
 * [Elasticsearch搜索引擎在Spring Boot中的实践](https://github.com/hansonwang99/Spring-Boot-In-Action/tree/master/springboot_es_demo)
 * [自制一个 elasticsearch-spring-boot-starter](https://www.codesheep.cn/2019/02/28/elasticsearch-spring-boot-starter/)
