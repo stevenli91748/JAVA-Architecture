@@ -232,6 +232,8 @@
 * 1 微服务服务治理
   * 微服务注册中心 
     * Eureka---注册中心
+      *  启动 EurekaDjscoveryProvider进行服务注册
+      *  启动 EurekaDiscoveryConsumer进行服务发现
     * Consul---注册中心
     * Nacos Discovery---注册中心
   * 微服务服务调用
@@ -239,6 +241,7 @@
     * OpenFeign---服务调用
   * 微服务负载均衡
     * Ribbon---负载均衡
+    * Spring Cloud LoadBalancer
     * RestTemplate的负载均衡机制
 * 2 微服务的集中化配置中心
   *  Apollo
@@ -249,12 +252,18 @@
   * Zuul
   * Nginx + Lua
   * Kong
-  * Spring Cloud Gateway 
+  * 非阻塞式的Spring Cloud Gateway
+  * Route路由信息
+  * Predicate机制
+  * Filter机制
+  * 整合注册中心和配置中心
+  * GatewayControllerEndpoint 
   * API网关扩展
   * 服务限流
   * 服务降级
   * 灰度发布
 * 4 微服务容错---微服务的高级主题
+  * CircuitBreaker
   * Sentinel
   * Hystrix
   * Resilience4J
@@ -277,11 +286,23 @@
   * Apache Kafka
 * 7 SMS 短信 
 * 8 Seata 分布式事务
-* 微服务的高级主题---分布式消息总线
+* 微服务的高级主题---Spring生态消息驱动
+  * Spring与消息
+  * Spring Integration
+  * Spring Cloud Stream
+* 分布式消息总线
   * Spring Cloud Bus 
 * Spring Boot Admin
 * 微服务的API 文档管理
   * Swagger 2 
+* Spring Cloud Data Flow
+  * Spring Cloud Data Flow
+  * Spring Cloud Data Flow Shell
+  * Spring Cloud Skipper
+  * Spring Cloud Deployer
+  * Spring Cloud Task
+  * Spring Batch 
+* Spring Cloud 与 Serverless
 * 微服务的日志与监控
 * 微服务之缓存---Spring Cloud微服务全栈技术与案例解析.pdf
   * Guava Cache
