@@ -4,6 +4,8 @@
 
 * Spring Cloud Alibaba微服务原理与实战.PDF
 * 阿里巴巴：Sprng Cloud Alibaba 从入门到实战.PDF
+* 深入理解springcloud与实战.PDF
+
 
 # Spring Cloud Alibaba 版本关系说明
 
