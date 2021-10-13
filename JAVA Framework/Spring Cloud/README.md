@@ -255,6 +255,7 @@
     * Nacos Discovery---注册中心
   * 微服务服务调用
     * Feign
+    * RestTemplate
     * OpenFeign---服务调用
   * 微服务负载均衡
     * Ribbon---负载均衡
@@ -295,6 +296,7 @@
   * OAuth 2
   * JWT
   * Spring Cloud Security
+* Spring Cloud与 gRPC
 * Spring Test
 * 6 分布式消息驱动
   * RocketMQ
@@ -339,7 +341,8 @@
   * 分库分表解决方案
 * 微服务之分布式事物解决方案
 * 分布式任务调度------Spring Cloud微服务全栈技术与案例解析.pdf
-* 微服务的部署与发布
+* Spring Cloud 与 邻域驱动实践---重新定义Spring Cloud实战.pdf
+* 微服务的部署与发布容器化
   * 持续交付与持续部署微服务
   * 基于容器的部署与发布
     * 使用Docker来构建 运行 发布微服务
