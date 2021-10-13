@@ -1,4 +1,9 @@
 
+# 参考的书 
+* Spring Cloud微服务架构实战派.PDF
+* [（Spring Cloud 深入系列 ）Spring Cloud 微服务架构进阶](https://weread.qq.com/web/reader/c9932ea07163ff6ac993e0dkc81322c012c81e728d9d180)
+
+
 
 [Spring Cloud Gateway](https://weread.qq.com/web/reader/c9932ea07163ff6ac993e0dka1d32a6022aa1d0c6e83eb4)|
 ---|
@@ -10,6 +15,10 @@
 ---|---|
 
 
+
+
+
+# 参考
 * [SpringCloudAlibaba网关Gateway集成Sentinel](https://www.jianshu.com/p/f2f7019b4a3e)
 * [SpringCloudAlibaba集成Gateway动态路由Nacos服务](https://www.jianshu.com/p/36373e5be522)
 * [Gateway动态路由实现](https://www.jianshu.com/p/7dfc8b67149e)
