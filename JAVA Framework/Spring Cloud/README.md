@@ -268,6 +268,7 @@
   *  Nacos Config
 * [3 微服务网关](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/API%20%E6%9C%8D%E5%8A%A1%E7%BD%91%E5%85%B3/README.md)
   * Zuul
+  * Consul
   * Nginx + Lua
   * Kong
   * 非阻塞式的Spring Cloud Gateway
