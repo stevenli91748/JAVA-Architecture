@@ -4,7 +4,7 @@
 
 * Spring Cloud Alibaba微服务原理与实战.PDF
 * 阿里巴巴：Sprng Cloud Alibaba 从入门到实战.PDF
-* 深入理解springcloud与实战.PDF
+* 深入理解springcloud与实战.PDF---Spring Cloud Alibba创始人倾力打造
 
 
 # Spring Cloud Alibaba 版本关系说明
@@ -29,8 +29,10 @@
 ---|
 
 # 目录
-* 1 服务治理
+* 1 服务治理---深入理解springcloud与实战.PDF
   * Nacos Discovery---注册中心
+    * 启动 NacosDiscoveryProvider进行服务注册
+    * 启动 NacosDiscoveryConsumer迸行服务发现
   * OpenFeign---服务调用
   * Ribbon---负载均衡
 * 2 服务配置中心
