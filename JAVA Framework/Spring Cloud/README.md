@@ -17,7 +17,7 @@
 * [2 微服务分布式架构基础与实战： 基于Spring Boot + Spring Cloud---2020 组件包括 Consul + Feign + Hystrix + Ribbon + 缓存 + 消息通信 + 微服务异步线程池 + 微服务数据持久化 +  微服务事务 + 任务调度 + 文件上下传 + 部署](https://weread.qq.com/web/reader/f6732e8071dbddd6f674178)
 * [3 微服务架构实战： 基于Spring Boot, Spring Cloud, Docker---2018 可跟据书中的核心接口往下深究，组件包括 Spring Cloud Stream + Bus + Security + Sleuth + Test + Docker](https://weread.qq.com/web/reader/4ff32e10717d34624ff9b0a)
 * [4 Spring Cloud微服务架构进阶---2018 （Spring Cloud 深入系列 ）各组件讲得非常详细, 值的反复阅读的书 ，包括 Spring Cloud Stream + Bus + Security + Sleuth   ](https://weread.qq.com/web/reader/c9932ea07163ff6ac993e0dkc81322c012c81e728d9d180)
-* [5 Spring Cloud微服务架构实战---2020 本书以电商案例讲解微服务开发环境塔建，微服务治理，数据架构设计，展示层架构设计，分布式文件系统设计，高并发订单架构设计，移动端商城架构设计，管理后台架构设计，很好的微服务架构入门书](https://weread.qq.com/web/reader/ca932ea071d7c798ca9a714)
+* [5 Spring Cloud微服务架构实战---2020 本书以电商案例讲解微服务开发环境塔建，微服务治理，数据架构设计，展示层架构设计，分布式文件系统设计，高并发订单架构设计，移动端商城架构设计，管理后台架构设计，很好的微服务架构入门书, 是 “Spring Cloud与Docker高并发微服务架构设计实施” 的改编版](https://weread.qq.com/web/reader/ca932ea071d7c798ca9a714)
 * [6 Spring Cloud Alibaba微服务原理与实战---2020 组件包括 Nacos + Sentinel + RocketMQ + Seata + Spring Cloud Gateway + Dubbo + Zookeeper , 采用 “场境->需求->解决方案->应用->原理” 高效技术学习模型  ](https://weread.qq.com/web/reader/0f132410811e3ac57g011a6akc81322c012c81e728d9d180)
 * [7 Spring Cloud Nginx高并发核心编程---2020 从动态代理模式、Reactor模式、三大限流策略等知识入手，深入浅出地剖析Spring Cloud+Nginx系统架构的核心原理以及Web高并发开发,并结合秒杀场景实现Spring Cloud秒杀、Spring Cloud+Nginx Lua秒杀 ](https://weread.qq.com/web/reader/a2032080720a3143a204cce)
 * [8 重新定义Spring Cloud实战---2018 Spring Cloud中国社区倾力打造，多位行业专家推荐，作者来自原阿里、蚂蚁金服、京东金融等互联网企业, 一本实践与理论并重、广度与深度兼顾的Spring Cloud生产实践开发指南, 有3大特色: 足够广,有深度,重实践](https://weread.qq.com/web/reader/71d32370716443e271df020kc81322c012c81e728d9d180)
