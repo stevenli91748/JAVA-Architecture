@@ -266,7 +266,7 @@
   *  Disconf
   *  Spring Cloud Config
   *  Nacos Config
-* [3 微服务网关](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%E5%8E%9F%E7%94%9F%E5%8F%8A%E5%85%B6%E4%BB%96%E6%95%B4%E5%90%88%E7%BB%84%E4%BB%B6/Gateway.md)
+* [3 微服务网关](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/API%20%E6%9C%8D%E5%8A%A1%E7%BD%91%E5%85%B3/README.md)
   * Zuul
   * Nginx + Lua
   * Kong
