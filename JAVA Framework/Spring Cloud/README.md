@@ -50,7 +50,7 @@
 * 深入理解Spring Cloud与微服务构建.PDF---有一个可参考的实例
 * （Spring Cloud 深入系列 ）Spring Cloud微服务实战.PDF
 * （Spring Cloud 深入系列 ）Spring Cloud微服务全栈技术与案例解析.PDF
-* （Spring Cloud 深入系列 ）Spring Cloud 微服务架构进阶.pdf
+* [（Spring Cloud 深入系列 ）Spring Cloud 微服务架构进阶](https://weread.qq.com/web/reader/c9932ea07163ff6ac993e0dkc81322c012c81e728d9d180)
 *  深入理解springcloud与实战.PDF---Spring Cloud Alibba创始人倾力打造
 *  疯狂创客圈 Spring Cloud、Nginx高并发核心编程.PDF
 
