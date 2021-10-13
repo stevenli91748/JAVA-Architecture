@@ -14,6 +14,7 @@
 # 目录
   * 服务网关的分类
     * Zuul
+    * Consul
     * Nginx + Lua
     * Kong
     * 非阻塞式的Spring Cloud Gateway
