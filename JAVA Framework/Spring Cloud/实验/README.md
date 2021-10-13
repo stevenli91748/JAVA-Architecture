@@ -7,9 +7,20 @@
   * [服务容错例子程序](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/%E5%AE%9E%E9%AA%8C/%E6%9C%8D%E5%8A%A1%E5%AE%B9%E9%94%99%E4%BE%8B%E5%AD%90%E7%A8%8B%E5%BA%8F/README.md)
   * [服务网关例子程序](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/%E5%AE%9E%E9%AA%8C/%E6%9C%8D%E5%8A%A1%E7%BD%91%E5%85%B3%E4%BE%8B%E5%AD%90%E7%A8%8B%E5%BA%8F/README.md)
   * [分布式配置中心例子程序](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/%E5%AE%9E%E9%AA%8C/%E5%88%86%E5%B8%83%E5%BC%8F%E9%85%8D%E7%BD%AE%E4%B8%AD%E5%BF%83%E4%BE%8B%E5%AD%90%E7%A8%8B%E5%BA%8F/README.md)
+  * 微服务链路追踪
+  * 微服务之间调用的安全认证
+  * SMS 短信
+  * Seata 分布式事务
+  * 微服务的高级主题---Spring生态消息驱动
+  * 分布式消息总线
   * [服务的健康检查例子程序](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/%E5%AE%9E%E9%AA%8C/%E6%9C%8D%E5%8A%A1%E7%9A%84%E5%81%A5%E5%BA%B7%E6%A3%80%E6%9F%A5%E4%BE%8B%E5%AD%90%E7%A8%8B%E5%BA%8F/README.md)
   * [日志处理例子程序](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/%E5%AE%9E%E9%AA%8C/%E6%97%A5%E5%BF%97%E5%A4%84%E7%90%86%E4%BE%8B%E5%AD%90%E7%A8%8B%E5%BA%8F/README.md)
-
+  * Spring Cloud 与 Serverless
+  * 微服务之缓存
+  * 微服务之存储 
+  * 微服务之分布式事物解决方案
+  * 分布式任务调度
+  * 微服务的部署与发布
 ---
 
 
