@@ -303,6 +303,12 @@
   * Spring Cloud Task
   * Spring Batch 
 * Spring Cloud 与 Serverless
+  * Serverless
+  * Java Function
+  * Spring Cloud Function与Spring生态的整合
+    * Spring Cloud Function 与 Spring Web/WebFlux
+    * Spring Cloud Function 与 Spring Cloud Stream
+    * Spring Cloud Function 与 Spring Cloud Task 
 * 微服务的日志与监控
 * 微服务之缓存---Spring Cloud微服务全栈技术与案例解析.pdf
   * Guava Cache
