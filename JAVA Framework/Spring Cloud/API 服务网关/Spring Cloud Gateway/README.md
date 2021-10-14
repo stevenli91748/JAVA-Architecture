@@ -23,3 +23,8 @@
 
 * 整合注册中心和配置中心
 * Predicate机制
+
+
+# 参考
+
+* [Spring cloud gateway 详解和配置使用（文章较长）](https://blog.csdn.net/qq_38380025/article/details/102968559)
