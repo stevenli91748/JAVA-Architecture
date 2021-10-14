@@ -27,13 +27,13 @@
 
 * [7 Spring Cloud Nginx高并发核心编程---2020 从动态代理模式、Reactor模式、三大限流策略等知识入手，深入浅出地剖析Spring Cloud+Nginx系统架构的核心原理以及Web高并发开发,并结合秒杀场景实现Spring Cloud秒杀、Spring Cloud+Nginx Lua秒杀 ](https://weread.qq.com/web/reader/a2032080720a3143a204cce)
 
-* [8 重新定义Spring Cloud实战---2018 Spring Cloud中国社区倾力打造，多位行业专家推荐，作者来自原阿里、蚂蚁金服、京东金融等互联网企业, 一本实践与理论并重、广度与深度兼顾的Spring Cloud生产实践开发指南, 有3大特色: 足够广,有深度,重实践](https://weread.qq.com/web/reader/71d32370716443e271df020kc81322c012c81e728d9d180)
+* [8 （先看） 重新定义Spring Cloud实战---2018 Spring Cloud中国社区倾力打造，多位行业专家推荐，作者来自原阿里、蚂蚁金服、京东金融等互联网企业, 一本实践与理论并重、广度与深度兼顾的Spring Cloud生产实践开发指南, 有3大特色: 足够广,有深度,重实践](https://weread.qq.com/web/reader/71d32370716443e271df020kc81322c012c81e728d9d180)
 
 * [9 Spring Cloud微服务和分布式系统实践---2020 组件包括服务注册和服务发现（Eureka）、服务调用（Ribbon和OpenFeign）、断路器（Hystrix和Resilience4j）、网关（Zuul和Spring Cloud Gateway）、配置（Config）、全链路追踪（Sleuth）、微服务的监控（Admin）,分布式系统方面主要讲解分布式数据库、分布式缓存、分布式会话和分布式权限以及发号机制,远程过程调用， 微服务设计和高并发等](https://weread.qq.com/web/reader/2fe329c071e041322feb53d)
 
 * [10  （先看）  深入理解Spring Cloud与微服务构建 （第2版）---包括Spring Boot + Eureka、Consul, Ribbon + RestTemplate , Feign、Hystrix、Zuul、Gateway、Consul、Config、Sleuth、Admint等组件,使用JWT, Spring Cloud OAuth2来保护微服务系统, 还有一个综合案例](https://weread.qq.com/web/reader/1223205071ccfab912296c2)
 
-* [11  （先看线下有书） Spring Cloud微服务： 入门 实战与进阶--- 2019 从技术原理、工程实践、进阶提升3个维度详解Spring Cloud微服务的架构与开发](https://weread.qq.com/web/reader/5c832cf07186d8355c87a4f)
+* [11  （先看） Spring Cloud微服务： 入门 实战与进阶--- 2019 从技术原理、工程实践、进阶提升3个维度详解Spring Cloud微服务的架构与开发](https://weread.qq.com/web/reader/5c832cf07186d8355c87a4f)
 
 * [12 Spring Cloud微服务架构开发实战 ---2018 涵盖了构建微服务架构所需要的服务治理（Eureka）、客户端负载均衡（Ribbon）、微服务容错与降级处理（Hystrix）、微服务API统一网关（Zuul）、分布式配置中心（Config）、微服务调用链追踪（Sleuth）、微服务消息驱动开发（Stream）及微服务安全（OAuth及JWT）等组件](https://weread.qq.com/web/reader/7d332ce0715dbcba7d3a09d)
 
