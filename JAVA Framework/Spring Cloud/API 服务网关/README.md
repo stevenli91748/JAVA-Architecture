@@ -7,7 +7,19 @@
 
 
 # 目录
-  
+  * 服务网关的基本功能
+    * 路由转发
+      * 动态路由：能够匹配任何请求属性 
+      * 可以对路由指定 Predicate（断言）和 Filter（过滤器）；
+      * 易于编写的 Predicate（断言）和 Filter（过滤器）
+      * 支持路径重写。
+    * 单点入口
+    * 熔断
+    * 限流
+    * 安全认证
+    * 日志监控
+    * 集成 Spring Cloud 服务发现功能；
+    * 集成Hystrix的断路器功能 
   * 服务网关的分类
     * [Zuul](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/API%20%E6%9C%8D%E5%8A%A1%E7%BD%91%E5%85%B3/Zuul/README.md)
     * [Consul](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/API%20%E6%9C%8D%E5%8A%A1%E7%BD%91%E5%85%B3/Consul/README.md)
