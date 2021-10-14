@@ -13,7 +13,9 @@
 * @EnableZuu!Server 与＠EnableZuulProxy 比较
 
 ---
-
+* 动态路由
+* 监控
+* 
 
 
 
