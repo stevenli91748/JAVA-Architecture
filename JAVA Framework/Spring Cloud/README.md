@@ -15,7 +15,7 @@
 # 在线书籍
 * [1 微服务架构基础（Spring Boot + Spring Cloud + Docker）---将编程开发，持续集成，部署运维等环节都讲到，照着本书可搭建一套运行环境，构建一个demo---2018](https://weread.qq.com/web/reader/69532da0717d3026695636ekc81322c012c81e728d9d180)
 
-* [2 微服务分布式架构基础与实战： 基于Spring Boot + Spring Cloud---2020 组件包括 Consul + Feign + Hystrix + Ribbon + 缓存 + 消息通信 + 微服务异步线程池 + 微服务数据持久化 +  微服务事务 + 任务调度 + 文件上下传 + 部署](https://weread.qq.com/web/reader/f6732e8071dbddd6f674178)
+* [2 微服务分布式架构基础与实战： 基于Spring Boot + Spring Cloud---2020 组件包括 Consul + Feign + Hystrix + Ribbon + 缓存 + 消息通信 + 微服务异步线程池 + 微服务数据持久化 +  微服务事务 + 微服务的缓存和分布式消息通信 + 微服务的任务调度和分布式任务调度 + 微服务的文件上传和分布式文件管理 + 展部署](https://weread.qq.com/web/reader/f6732e8071dbddd6f674178)
 
 * [3 微服务架构实战： 基于Spring Boot, Spring Cloud, Docker---2018 可跟据书中的核心接口往下深究，组件包括 Spring Cloud Stream + Bus + Security + Sleuth + Test + Docker](https://weread.qq.com/web/reader/4ff32e10717d34624ff9b0a)
 
