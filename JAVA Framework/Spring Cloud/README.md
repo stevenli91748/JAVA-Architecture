@@ -43,6 +43,8 @@
 
 * [15 名师讲坛： JAVA微服务架构实战（SpringBoot的各种整合 + SpringCloud + Docker + RabbitMQ）---2020 李兴华（Eureka + Ribbon + Feign + Hystrix + ZUUL + Config + Bus + Stream + Sleuth + OAuth + RabbitMQ +  Docker）](https://weread.qq.com/web/reader/0e03209071c96a420e02710)
 
+* [16 高可用可伸缩微服务架构： 基于 Dubbo + Spring Cloud + Service Mesh](https://weread.qq.com/web/reader/d9e327a07188b377d9eb7dakc81322c012c81e728d9d180)
+ 
 * （Spring Cloud 深入系列 ）Spring Cloud与Docker微服务架构实战（第2版）.PDF
 * Spring Cloud微服务架构实战派.PDF---共有“39个基于知识点的实例 + 1个综合性项目
 * Spring Cloud与Docker高并发微服务架构设计实施.PDF---通过一个互联网电商平台实例实现了高并发的微服务架构设计  适合做项目实战 
@@ -312,7 +314,6 @@
   * Spring Cloud Stream
 * 分布式消息总线
   * Spring Cloud Bus 
-* Spring Boot Admin
 * 微服务的API 文档管理
   * Swagger 2 
 * Spring Cloud Data Flow
@@ -329,6 +330,10 @@
     * Spring Cloud Function 与 Spring Web/WebFlux
     * Spring Cloud Function 与 Spring Cloud Stream
     * Spring Cloud Function 与 Spring Cloud Task 
+* [微服务康检查和服务跟踪--- spring cloud 实战](https://weread.qq.com/web/reader/a1132af07199a64ca1167d3k66f3299023a66f041e16858)
+  * 通过Spring Boot Admin监控微服务
+  * 通过Sleuth跟踪服务调用链路
+  * 整合 ZipKin查询和分析日志
 * 微服务的日志与监控
 * 微服务之缓存---Spring Cloud微服务全栈技术与案例解析.pdf
   * Guava Cache
