@@ -3,6 +3,19 @@
 
 
 # 目录
+
+* ZUUL具备的功能
+  * 认证与鉴权
+  * 压力控制
+  * 金丝雀测试
+  * 动态路由
+  * 负载削减
+  * 静态响应处理
+  * 主动流量管理
+* [Spring Cloud Zuul基础篇](https://weread.qq.com/web/reader/71d32370716443e271df020k34132fc02293416a75f431d)
+* [Spring Cloud Zuul中级篇](https://weread.qq.com/web/reader/71d32370716443e271df020kd9d320f022ed9d4f495e456)
+* [Spring Cloud Zuul高级篇](https://weread.qq.com/web/reader/71d32370716443e271df020kb5332110237b53b3a3d68d2)
+
 --- Spring Cloud微服务架构开发实战.pdf
 
 * 启用Zuul 路由服务
