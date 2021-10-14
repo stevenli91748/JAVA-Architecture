@@ -18,3 +18,8 @@
 * 限流
 * 高可用
 * Spring Cloud Gateway endpoint
+
+----（Sprng Cloud Alibaba）深入理解springcloud与实战
+
+* 整合注册中心和配置中心
+* Predicate机制
