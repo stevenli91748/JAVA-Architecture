@@ -13,8 +13,20 @@
   * 认识SpringCloudGateway 
   * SprlngCloudGateway的工作流程
   * 比较Zuul与SpringCloud Gateway
-* 路由（Route）
-* 过滤器（Filter）
+  * SprlngCloudGateway的功能
+    * 路由转发
+    * 单点入口
+    * 协议适配
+    * 协议转发
+    * 防刷
+    * 流量控制
+      * 熔断
+      * 限流 
+    * 监控日志
+    * 安全认证
+* 路由（Route）---网关对外暴露的URL或者接口信息，我们统称为路由信息, 路由信息由一个ID、一个目的url、一组断言工厂和一组Filter组成。如果路由断言为真，则说明请求的url和配置的路由匹配
+* 断言（Predicate）---Java 8中的断言函数。Spring Cloud Gateway中的断言函数输入类型是Spring 5.0框架中的ServerWebExchange。Spring CloudGateway中的断言函数允许开发者去定义匹配来自于Http Request中的任何信息，比如请求头和参数等
+* 过滤器（Filter）----一个标准的Spring webFilter。Spring Cloud Gateway中的Filter分为两种类型的Filter，分别是Gateway Filter和Global Filter。过滤器Filter将会对请求和响应进行修改处理
 * 限流
 * 高可用
 * Spring Cloud Gateway endpoint
