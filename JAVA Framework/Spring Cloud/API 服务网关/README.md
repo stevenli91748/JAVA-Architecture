@@ -5,8 +5,6 @@
 
 ---
 
-|[[云框架]KONG API Gateway v1.5](https://github.com/cloudframeworks-apigateway/user-guide-apigateway)|
----|---|
 
 # 目录
   * 服务网关的分类
