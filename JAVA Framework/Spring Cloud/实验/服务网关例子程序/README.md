@@ -17,3 +17,6 @@
   * Before路由断言工厂例子
   * Between路由断言工厂例子
   * Host路由断言工厂例子 
+  * Method路由断言工厂例子
+  * Query路由断言工厂例子
+  * RemoteAddr路由断言工厂例子
