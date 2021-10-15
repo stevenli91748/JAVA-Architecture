@@ -45,7 +45,15 @@
   * Method路由断言工厂---Method路由断言工厂会根据路由信息配置的method对请求方法是Get或者Post等进行断言匹配，匹配成功则进行转发，否则处理失败
   * Query路由断言工厂---Query路由断言工厂会从请求中获取两个参数，将请求中参数和Query断言路由中的配置进行匹配，比如http://localhost:8080/?foo=baz中的foo=baz和下面的r.query("foo", "baz")配置一致则进行转发，否则转发失败
   * RemoteAddr路由断言工厂---RemoteAddr路由断言工厂配置一个IPv4或IPv6网段的字符串或者IP。当请求IP地址在网段之内或者和配置的IP相同，则表示匹配成功进行转发，否则不能转发
-* 过滤器（Filter）----一个标准的Spring webFilter。Spring Cloud Gateway中的Filter分为两种类型的Filter，分别是Gateway Filter和Global Filter。过滤器Filter将会对请求和响应进行修改处理
+* 过滤器（Filter）----一个标准的Spring webFilter。Spring Cloud Gateway中的Filter分为两种类型的Filter，分别是Gateway Filter和Global Filter。路由过滤器允许以某种方式修改请求进来的http请求或返回的http响应。路由过滤器主要作用于需要处理的特定路由
+  * 过滤器分7类---过滤器的实现类将近二十多个。总得来说，可以分为七类：Header、Parameter、Path、Status、Redirect跳转、Hytrix熔断和RateLimiter
+    * Header
+    * Parameter
+    * Path
+    * Status
+    * Redirect跳转
+    * Hytrix熔断
+    * RateLimiter
 * 高可用
 * Spring Cloud Gateway endpoint
 
