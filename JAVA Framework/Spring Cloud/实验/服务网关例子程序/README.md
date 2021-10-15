@@ -28,25 +28,27 @@
   * 路由规则---路由规则是指匹配到路由配置之后，再根据路由规则进行转发处理 
     * [Gateway基于服务发现的路由规则例子](https://weread.qq.com/web/reader/71d32370716443e271df020k5f9323e026e5f93f9835418)
     * [权重路由案例例子](https://weread.qq.com/web/reader/71d32370716443e271df020k7f632b502707f6ffaa6bf2e)
-  * 断言（Predicate）
-    * Header路由断言工厂例子
-    * Cookie路由断言工厂例子
-    * After路由断言工厂例子
-    * Before路由断言工厂例子
-    * Between路由断言工厂例子
-    * Host路由断言工厂例子 
-    * Method路由断言工厂例子
-    * Query路由断言工厂例子
-    * RemoteAddr路由断言工厂例子
-  * 过滤器（Filter）
-    * [Global Filter](https://weread.qq.com/web/reader/71d32370716443e271df020k6983268026f698d51a198ff)
-    * [Gateway Filter 例子](https://weread.qq.com/web/reader/71d32370716443e271df020k6983268026f698d51a198ff)
-    * AddRequestHeader过滤器工厂例子
-    * AddResponseHeader过滤器例子
-    * AddRequestParameter过滤器例子
-    * RewritePath过滤器例子
-    * StripPrefix过滤器例子
-    * Hystrix过滤器例子
-    * Retry过滤器例子
+  * [动态路由---前面章节介绍了Spring Cloud Gateway提供的配置路由规则的两种方法，但都是在Spring Cloud Gateway启动时将路由配置和规则加载到内存里，无法做到不重启网关就可以动态地对应路由的配置和规则进行增加、修改和删除](https://weread.qq.com/web/reader/71d32370716443e271df020k7f632b502707f6ffaa6bf2e)
+  * 路由转发
+    * 断言（Predicate）
+      * Header路由断言工厂例子
+      * Cookie路由断言工厂例子
+      * After路由断言工厂例子
+      * Before路由断言工厂例子
+      * Between路由断言工厂例子
+      * Host路由断言工厂例子 
+      * Method路由断言工厂例子
+      * Query路由断言工厂例子
+      * RemoteAddr路由断言工厂例子
+    * 过滤器（Filter）
+      * [Global Filter](https://weread.qq.com/web/reader/71d32370716443e271df020k6983268026f698d51a198ff)
+      * [Gateway Filter 例子](https://weread.qq.com/web/reader/71d32370716443e271df020k6983268026f698d51a198ff)
+      * AddRequestHeader过滤器工厂例子
+      * AddResponseHeader过滤器例子
+      * AddRequestParameter过滤器例子
+      * RewritePath过滤器例子
+      * StripPrefix过滤器例子
+      * Hystrix过滤器例子
+      * Retry过滤器例子
   * 协议转发
-      * [Spring Cloud Gateway中Https的使用技巧---Spring Cloud Gateway将Https前端请求转发调用Http后端服务的问题](https://weread.qq.com/web/reader/71d32370716443e271df020k7f632b502707f6ffaa6bf2e)  
+    * [Spring Cloud Gateway中Https的使用技巧---Spring Cloud Gateway将Https前端请求转发调用Http后端服务的问题](https://weread.qq.com/web/reader/71d32370716443e271df020k7f632b502707f6ffaa6bf2e)  
