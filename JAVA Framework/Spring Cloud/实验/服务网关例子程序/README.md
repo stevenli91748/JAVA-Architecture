@@ -23,26 +23,6 @@
     * SprlngCloud Gateway内置过滤器工厂限流
       * [Spring CloudGateway内置了一个名为RequestRateLimiterGatewayFilterFactory的过滤器工厂，可以用来直接限流例子  ](https://weread.qq.com/web/reader/71d32370716443e271df020k7f632b502707f6ffaa6bf2e)
   * 分布式集群限流--采用Redis等分布式解决方案
-* 断言（Predicate）
-  * Header路由断言工厂例子
-  * Cookie路由断言工厂例子
-  * After路由断言工厂例子
-  * Before路由断言工厂例子
-  * Between路由断言工厂例子
-  * Host路由断言工厂例子 
-  * Method路由断言工厂例子
-  * Query路由断言工厂例子
-  * RemoteAddr路由断言工厂例子
-* 过滤器（Filter）
-  * [Global Filter](https://weread.qq.com/web/reader/71d32370716443e271df020k6983268026f698d51a198ff)
-  * [Gateway Filter 例子](https://weread.qq.com/web/reader/71d32370716443e271df020k6983268026f698d51a198ff)
-  * AddRequestHeader过滤器工厂例子
-  * AddResponseHeader过滤器例子
-  * AddRequestParameter过滤器例子
-  * RewritePath过滤器例子
-  * StripPrefix过滤器例子
-  * Hystrix过滤器例子
-  * Retry过滤器例子
 * 路由
   * 路由配置---路由配置是指配置某请求路径路由到指定的目的地址
   * 路由规则---路由规则是指匹配到路由配置之后，再根据路由规则进行转发处理 
