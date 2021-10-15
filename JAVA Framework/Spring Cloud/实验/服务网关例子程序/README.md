@@ -8,9 +8,13 @@
   * 整合Hystrix的断路器功能例子
   * [Spring Cloud Gateway集成Swagger例子](https://weread.qq.com/web/reader/71d32370716443e271df020k7f632b502707f6ffaa6bf2e)
 * 限流
-  * Spring Cloud Gateway IP限流例子
-  * Spring Cloud Gateway 用户限流例子
-  * Spring Cloud Gateway 接口限流例子
+  * 限流的需求---在实际项目应用中对网关进行限流时，需要参考的因素比较多。可能会根据网络请求连接数、请求流量、CPU使用率等流控
+    * 对网络请求连接数进行限流
+    * [对CPU使用率进行限流](https://weread.qq.com/web/reader/71d32370716443e271df020k7f632b502707f6ffaa6bf2e)
+    * 对请求流量进行限流 
+      * Spring Cloud Gateway 对请求IP限流例子
+      * Spring Cloud Gateway 对请求用户限流例子
+      * Spring Cloud Gateway 对请求接口限流例子
   * 单机网关限流 --- Guava中的RateLimiter、Bucket4j、RateLimitJ都是基于令牌桶算法实现的限流工具
     * 自定义过滤器实现限流
       * Guava中的RateLimiter在Spring CloudGateway中实现限流例子
