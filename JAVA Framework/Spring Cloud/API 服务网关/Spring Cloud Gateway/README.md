@@ -48,9 +48,12 @@
           * 接口限流
         * 单机网关限流  
           * 在Spring Cloud Gateway中实现限流的方法---在单机网关限流中用Spring Cloud Gateway中实现限流比较简单，只需要编写一个过滤器就可以。Guava中的RateLimiter、Bucket4j、RateLimitJ都是基于令牌桶算法实现的限流工具
-            * 在单机网关限流中用Guava中的RateLimiter在Spring CloudGateway中实现限流
-            * [在单机网关限流中用Guava中Bucket4j在Spring CloudGateway中实现限流](https://weread.qq.com/web/reader/71d32370716443e271df020k7f632b502707f6ffaa6bf2e)
-            * 在单机网关限流中用Guava中RateLimitJ在Spring CloudGateway中实现限流
+            * 自定义过滤器实现限流 
+              * 在单机网关限流中用Guava中的RateLimiter在Spring CloudGateway中实现限流
+              * [在单机网关限流中用Guava中Bucket4j在Spring CloudGateway中实现限流](https://weread.qq.com/web/reader/71d32370716443e271df020k7f632b502707f6ffaa6bf2e)
+              * 在单机网关限流中用Guava中RateLimitJ在Spring CloudGateway中实现限流
+            * SprlngCloud Gateway内置过滤器工厂限流
+              * Spring CloudGateway内置了一个名为RequestRateLimiterGatewayFilterFactory的过滤器工厂，可以用来直接限流 
         * 分布式集群限流--采用Redis等分布式解决方案
     * 监控日志
     * 安全认证
