@@ -47,6 +47,9 @@
     * SpringBoot整合React
     * SpringBoot整合Vue
     * SpringBoot整合Thymeleaf
+*  [Spring Boot Actuator 模块例子实验](https://segmentfault.com/a/1190000021611510)
+
+
 ---
 
 # 2 内部机制
@@ -80,7 +83,7 @@
 # 17 SpringBoot应用监控例子实验
 # 18 Spring Boot文件处理例子实验
 # 19 SpringBoot应用打包部署例子实验
-# 20 [Spring Boot Actuator 模块例子实验](https://segmentfault.com/a/1190000021611510)
+# [20 Spring Boot Actuator 模块例子实验](https://segmentfault.com/a/1190000021611510)
 
 
 
