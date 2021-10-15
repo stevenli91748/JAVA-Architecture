@@ -6,6 +6,7 @@
     * Spring Cloud Gateway整合Consul例子
     * Spring Cloud Gateway整合Nacos例子  
   * 整合Hystrix的断路器功能例子
+  * [Spring Cloud Gateway集成Swagger](https://weread.qq.com/web/reader/71d32370716443e271df020k7f632b502707f6ffaa6bf2e)
 * 限流
   * Spring Cloud Gateway IP限流例子
   * Spring Cloud Gateway 用户限流例子
