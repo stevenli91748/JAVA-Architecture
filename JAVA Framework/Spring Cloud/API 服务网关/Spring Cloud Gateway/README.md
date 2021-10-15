@@ -94,9 +94,6 @@
         * 分布式集群限流--采用Redis等分布式解决方案
     * 监控日志
     * 安全认证
-* 路由（Route）---网关对外暴露的URL或者接口信息，我们统称为路由信息, 路由信息由一个ID、一个目的url、一组断言工厂和一组Filter组成。如果路由断言为真，则说明请求的url和配置的路由匹配
-  * [SprlngCloud Gateway基于服务发现的路由规则 ](https://weread.qq.com/web/reader/71d32370716443e271df020k5f9323e026e5f93f9835418)
-  * [ Spring Cloud Gateway权重路由---Spring Cloud Gateway会根据权重路由规则，针对特定的服务，把95%的请求流量分发给服务的V1版本，把剩余5%的流量分发给服务的V2版本，进行权重路由](https://weread.qq.com/web/reader/71d32370716443e271df020k7f632b502707f6ffaa6bf2e)
 * 高可用
 * Spring Cloud Gateway endpoint
 
