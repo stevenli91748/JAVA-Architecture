@@ -36,9 +36,22 @@
     * 流量控制
       * 熔断
       * 限流
-        * IP限流
-        * 用户限流
-        * 接口限流  
+        * 限流算法
+          * 令牌桶算法
+          * 漏桶算法  
+        * 两种限流模式：
+          * 控制速率模式
+          * 控制并发模式
+        * 限流的方法
+          * IP限流
+          * 用户限流
+          * 接口限流
+        * 单机网关限流  
+          * 在Spring Cloud Gateway中实现限流的方法---在单机网关限流中用Spring Cloud Gateway中实现限流比较简单，只需要编写一个过滤器就可以。Guava中的RateLimiter、Bucket4j、RateLimitJ都是基于令牌桶算法实现的限流工具
+            * 在单机网关限流中用Guava中的RateLimiter在Spring CloudGateway中实现限流
+            * [在单机网关限流中用Guava中Bucket4j在Spring CloudGateway中实现限流](https://weread.qq.com/web/reader/71d32370716443e271df020k7f632b502707f6ffaa6bf2e)
+            * 在单机网关限流中用Guava中RateLimitJ在Spring CloudGateway中实现限流
+        * 分布式集群限流--采用Redis等分布式解决方案
     * 监控日志
     * 安全认证
 * 路由（Route）---网关对外暴露的URL或者接口信息，我们统称为路由信息, 路由信息由一个ID、一个目的url、一组断言工厂和一组Filter组成。如果路由断言为真，则说明请求的url和配置的路由匹配
