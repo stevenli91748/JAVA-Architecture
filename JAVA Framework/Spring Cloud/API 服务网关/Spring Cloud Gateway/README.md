@@ -29,7 +29,8 @@
       * 过滤器（Filter）
     * 单点入口
     * 协议适配
-    * 协议转发
+    * 协议转发---在微服务的应用集群中会存在很多服务提供者和服务消费者，而这些服务提供者和服务消费者基本都是部署在企业内网中，没必要全部加Https进行调用，Spring Cloud Gateway对外部的请求协议是Https，对内部后端代理服务的请求协议是Http
+      * [Spring Cloud Gateway中Https的使用技巧---Spring Cloud Gateway将Https前端请求转发调用Http后端服务的问题。](https://weread.qq.com/web/reader/71d32370716443e271df020k7f632b502707f6ffaa6bf2e) 
     * 防刷
     * 流量控制
       * 熔断
