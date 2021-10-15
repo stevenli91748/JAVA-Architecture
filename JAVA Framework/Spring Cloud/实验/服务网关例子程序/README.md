@@ -32,3 +32,4 @@
   * Retry过滤器例子
 * 路由
   * [Gateway基于服务发现的路由规则例子](https://weread.qq.com/web/reader/71d32370716443e271df020k5f9323e026e5f93f9835418)
+  * [权重路由案例例子](https://weread.qq.com/web/reader/71d32370716443e271df020k7f632b502707f6ffaa6bf2e)
