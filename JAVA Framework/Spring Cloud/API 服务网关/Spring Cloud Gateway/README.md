@@ -25,8 +25,35 @@
   * 比较Zuul与SpringCloud Gateway
   * SprlngCloud Gateway的功能
     * 路由转发
-      * 断言（Predicate）
-      * 过滤器（Filter）
+      * 断言（Predicate）---Java 8中的断言函数。Spring Cloud Gateway中的断言函数输入类型是Spring 5.0框架中的ServerWebExchange。Spring CloudGateway中的断言函数允许开发者去定义匹配来自于Http Request中的任何信息，比如请求头和参数等
+        * Header路由断言工厂---Header路由断言工厂用于根据配置的路由header信息进行断言匹配路由，匹配成功进行转发，否则不进行转发
+        * Cookie路由断言工厂---Cookie路由断言工厂会取两个参数——cookie名称对应的key和value。当请求中携带的cookie和Cookied断言工厂中配置的cookie一致，则路由匹配成功进行转发，否则匹配不成功
+        * After路由断言工厂---After Route Predicate Factory中会取一个UTC时间格式的时间参数，当请求进来的当前时间在配置的UTC时间之后，则会成功匹配进行转发，否则不能成功匹配。
+        * Before路由断言工厂---Before路由断言工厂会取一个UTC时间格式的时间参数，当请求进来的当前时间在路由断言工厂之前会成功匹配进行转发，否则不能成功匹配
+        * Between路由断言工厂---Between路由断言工厂会取一个UTC时间格式的时间参数，当请求进来的当前时间在配置的UTC时间工厂之间会成功匹配进行转发，否则不能成功匹配
+        * Host路由断言工厂 ---Host路由断言工厂根据配置的Host，对请求中的Host进行断言处理，断言成功则进行路由转发，否则不转发
+        * Method路由断言工厂---Method路由断言工厂会根据路由信息配置的method对请求方法是Get或者Post等进行断言匹配，匹配成功则进行转发，否则处理失败
+        * Query路由断言工厂---Query路由断言工厂会从请求中获取两个参数，将请求中参数和Query断言路由中的配置进行匹配，比如http://localhost:8080/?foo=baz中的foo=baz和下面的r.query("foo", "baz")配置一致则进行转发，否则转发失败
+        * RemoteAddr路由断言工厂---RemoteAddr路由断言工厂配置一个IPv4或IPv6网段的字符串或者IP。当请求IP地址在网段之内或者和配置的IP相同，则表示匹配成功进行转发，否则不能转发
+      * 过滤器（Filter）----一个标准的Spring webFilter。Spring Cloud Gateway中的Filter分为两种类型的Filter，分别是Gateway Filter和Global Filter。路由过滤器允许以某种方式修改请求进来的http请求或返回的http响应。路由过滤器主要作用于需要处理的特定路由
+        * Gateway Filter---Gateway Filter是从Web Filter中复制过来的，相当于一个Filter过滤器，可以对访问的URL过滤，进行横切处理（切面处理），应用场景包括超时、安全等
+        * Global Filter---可以自定义实现自己的Global Filter。Global Filter是一个全局的Filter，作用于所有路由。
+        * 过滤器分7类---过滤器的实现类将近二十多个。总得来说，可以分为七类：Header、Parameter、Path、Status、Redirect跳转、Hytrix熔断和RateLimiter
+          * Header
+            * [AddRequestHeader过滤器工厂 ---AddRequestHeader过滤器工厂用于对匹配上的请求加上header ](https://weread.qq.com/web/reader/71d32370716443e271df020ka973204026ba97da629bd12)
+            * [AddResponseHeader过滤器---AddResponseHeader过滤器工厂的作用是对从网关返回的响应添加Header](https://weread.qq.com/web/reader/71d32370716443e271df020ka973204026ba97da629bd12)
+          * Parameter
+            * [AddRequestParameter过滤器---AddRequestParameter过滤器作用是对匹配上的请求路由添加请求参数 ](https://weread.qq.com/web/reader/71d32370716443e271df020ka973204026ba97da629bd12)
+          * Path
+            * [RewritePath过滤器---Spring Cloud Gateway可以使用RewritePath替换Zuul的StripPrefix功能，而且功能更强大 ](https://weread.qq.com/web/reader/71d32370716443e271df020ka973204026ba97da629bd12)
+            * [StripPrefix过滤器---StripPrefixGatewayFilterFactory是一个对针对请求url前缀进行处理的filter工厂，用于去除前缀。而PrefixPathGatewayFilterFactory是用于增加前缀](https://weread.qq.com/web/reader/71d32370716443e271df020ka973204026ba97da629bd12)
+          * Status
+          * Redirect跳转
+          * Hytrix熔断
+            * [Hystrix过滤器--Spring Cloud Gateway对Hystrix进行集成提供路由层面的服务熔断和降级，最简单的使用场景是当通过Spring CloudGateway调用后端服务，后端服务一直出现异常、服务不可用的状态。此时为了提高用户体验，就需要对服务降级，返回友好的提示信息，在保护网关自身可用的同时保护后端服务高可用](https://weread.qq.com/web/reader/71d32370716443e271df020ka973204026ba97da629bd12) 
+          * RateLimiter
+      ---
+           * [Retry过滤器---网关作为所有请求流量的入口，网关对路由进行协议适配和协议转发处理的过程中，如果出现异常或网络抖动，为了保证后端服务请求的高可用，一般处理方式会对网络请求进行重试](https://weread.qq.com/web/reader/71d32370716443e271df020ka973204026ba97da629bd12)
     * 单点入口
     * 协议适配
     * 协议转发---在微服务的应用集群中会存在很多服务提供者和服务消费者，而这些服务提供者和服务消费者基本都是部署在企业内网中，没必要全部加Https进行调用，Spring Cloud Gateway对外部的请求协议是Https，对内部后端代理服务的请求协议是Http
@@ -64,35 +91,6 @@
 * 路由（Route）---网关对外暴露的URL或者接口信息，我们统称为路由信息, 路由信息由一个ID、一个目的url、一组断言工厂和一组Filter组成。如果路由断言为真，则说明请求的url和配置的路由匹配
   * [SprlngCloud Gateway基于服务发现的路由规则 ](https://weread.qq.com/web/reader/71d32370716443e271df020k5f9323e026e5f93f9835418)
   * [ Spring Cloud Gateway权重路由---Spring Cloud Gateway会根据权重路由规则，针对特定的服务，把95%的请求流量分发给服务的V1版本，把剩余5%的流量分发给服务的V2版本，进行权重路由](https://weread.qq.com/web/reader/71d32370716443e271df020k7f632b502707f6ffaa6bf2e)
-* 断言（Predicate）---Java 8中的断言函数。Spring Cloud Gateway中的断言函数输入类型是Spring 5.0框架中的ServerWebExchange。Spring CloudGateway中的断言函数允许开发者去定义匹配来自于Http Request中的任何信息，比如请求头和参数等
-  * Header路由断言工厂---Header路由断言工厂用于根据配置的路由header信息进行断言匹配路由，匹配成功进行转发，否则不进行转发
-  * Cookie路由断言工厂---Cookie路由断言工厂会取两个参数——cookie名称对应的key和value。当请求中携带的cookie和Cookied断言工厂中配置的cookie一致，则路由匹配成功进行转发，否则匹配不成功
-  * After路由断言工厂---After Route Predicate Factory中会取一个UTC时间格式的时间参数，当请求进来的当前时间在配置的UTC时间之后，则会成功匹配进行转发，否则不能成功匹配。
-  * Before路由断言工厂---Before路由断言工厂会取一个UTC时间格式的时间参数，当请求进来的当前时间在路由断言工厂之前会成功匹配进行转发，否则不能成功匹配
-  * Between路由断言工厂---Between路由断言工厂会取一个UTC时间格式的时间参数，当请求进来的当前时间在配置的UTC时间工厂之间会成功匹配进行转发，否则不能成功匹配
-  * Host路由断言工厂 ---Host路由断言工厂根据配置的Host，对请求中的Host进行断言处理，断言成功则进行路由转发，否则不转发
-  * Method路由断言工厂---Method路由断言工厂会根据路由信息配置的method对请求方法是Get或者Post等进行断言匹配，匹配成功则进行转发，否则处理失败
-  * Query路由断言工厂---Query路由断言工厂会从请求中获取两个参数，将请求中参数和Query断言路由中的配置进行匹配，比如http://localhost:8080/?foo=baz中的foo=baz和下面的r.query("foo", "baz")配置一致则进行转发，否则转发失败
-  * RemoteAddr路由断言工厂---RemoteAddr路由断言工厂配置一个IPv4或IPv6网段的字符串或者IP。当请求IP地址在网段之内或者和配置的IP相同，则表示匹配成功进行转发，否则不能转发
-* 过滤器（Filter）----一个标准的Spring webFilter。Spring Cloud Gateway中的Filter分为两种类型的Filter，分别是Gateway Filter和Global Filter。路由过滤器允许以某种方式修改请求进来的http请求或返回的http响应。路由过滤器主要作用于需要处理的特定路由
-  * Gateway Filter---Gateway Filter是从Web Filter中复制过来的，相当于一个Filter过滤器，可以对访问的URL过滤，进行横切处理（切面处理），应用场景包括超时、安全等
-  * Global Filter---可以自定义实现自己的Global Filter。Global Filter是一个全局的Filter，作用于所有路由。
-  * 过滤器分7类---过滤器的实现类将近二十多个。总得来说，可以分为七类：Header、Parameter、Path、Status、Redirect跳转、Hytrix熔断和RateLimiter
-    * Header
-      * [AddRequestHeader过滤器工厂 ---AddRequestHeader过滤器工厂用于对匹配上的请求加上header ](https://weread.qq.com/web/reader/71d32370716443e271df020ka973204026ba97da629bd12)
-      * [AddResponseHeader过滤器---AddResponseHeader过滤器工厂的作用是对从网关返回的响应添加Header](https://weread.qq.com/web/reader/71d32370716443e271df020ka973204026ba97da629bd12)
-    * Parameter
-      * [AddRequestParameter过滤器---AddRequestParameter过滤器作用是对匹配上的请求路由添加请求参数 ](https://weread.qq.com/web/reader/71d32370716443e271df020ka973204026ba97da629bd12)
-    * Path
-      * [RewritePath过滤器---Spring Cloud Gateway可以使用RewritePath替换Zuul的StripPrefix功能，而且功能更强大 ](https://weread.qq.com/web/reader/71d32370716443e271df020ka973204026ba97da629bd12)
-      * [StripPrefix过滤器---StripPrefixGatewayFilterFactory是一个对针对请求url前缀进行处理的filter工厂，用于去除前缀。而PrefixPathGatewayFilterFactory是用于增加前缀](https://weread.qq.com/web/reader/71d32370716443e271df020ka973204026ba97da629bd12)
-    * Status
-    * Redirect跳转
-    * Hytrix熔断
-      * [Hystrix过滤器--Spring Cloud Gateway对Hystrix进行集成提供路由层面的服务熔断和降级，最简单的使用场景是当通过Spring CloudGateway调用后端服务，后端服务一直出现异常、服务不可用的状态。此时为了提高用户体验，就需要对服务降级，返回友好的提示信息，在保护网关自身可用的同时保护后端服务高可用](https://weread.qq.com/web/reader/71d32370716443e271df020ka973204026ba97da629bd12) 
-    * RateLimiter
----
-     * [Retry过滤器---网关作为所有请求流量的入口，网关对路由进行协议适配和协议转发处理的过程中，如果出现异常或网络抖动，为了保证后端服务请求的高可用，一般处理方式会对网络请求进行重试](https://weread.qq.com/web/reader/71d32370716443e271df020ka973204026ba97da629bd12)
 * 高可用
 * Spring Cloud Gateway endpoint
 
