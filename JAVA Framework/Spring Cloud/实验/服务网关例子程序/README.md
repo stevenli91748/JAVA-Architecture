@@ -20,3 +20,11 @@
   * Method路由断言工厂例子
   * Query路由断言工厂例子
   * RemoteAddr路由断言工厂例子
+* 过滤器（Filter）
+  * AddRequestHeader过滤器工厂例子
+  * AddResponseHeader过滤器例子
+  * AddRequestParameter过滤器例子
+  * RewritePath过滤器例子
+  * StripPrefix过滤器例子
+  * Hystrix过滤器例子
+  * Retry过滤器例子
