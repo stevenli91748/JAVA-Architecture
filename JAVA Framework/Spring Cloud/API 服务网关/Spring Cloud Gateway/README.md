@@ -78,9 +78,10 @@
 
 ----（Sprng Cloud Alibaba）深入理解springcloud与实战
 
-* 整合注册中心和配置中心
-* 整合Hystrix的断路器功能
-
+* Spring Cloud Gateway整合注册中心
+* Spring Cloud Gateway配置中心
+* Spring Cloud Gateway整合Hystrix断路器功能
+* [Spring Cloud Gateway整合Swagger](https://weread.qq.com/web/reader/71d32370716443e271df020k7f632b502707f6ffaa6bf2e)
 
 
 # 参考
