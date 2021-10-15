@@ -48,6 +48,7 @@
     * SpringBoot整合Vue
     * SpringBoot整合Thymeleaf
 *  [Spring Boot Actuator 模块例子实验](https://segmentfault.com/a/1190000021611510)
+   * [通过Spring Boot Actuator提供的Metrics获取当前CPU的使用情况例子实验 ](https://weread.qq.com/web/reader/71d32370716443e271df020k7f632b502707f6ffaa6bf2e)
 
 
 ---
