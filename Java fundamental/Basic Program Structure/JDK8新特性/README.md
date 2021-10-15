@@ -7,7 +7,7 @@
 * [3. 方法引用、构造器引用和数组引用](#3-方法引用-构造器引用和数组引用)
 * [4. 接口支持默认方法和静态方法](#4-接口支持默认方法和静态方法)
 * [5. Stream API](https://www.toutiao.com/a6827086609469407757/?log_from=14a43015fe4a7_1630181597825)
-  * [8 Stream流式API](https://www.jianshu.com/p/226bf8ed0ced) 
+  * [java8 Stream流式API解说](https://www.jianshu.com/p/226bf8ed0ced) 
 * [6. 增强类型推断](#6-增强类型推断)
 * [7. 新的日期时间 API](#7-新的日期时间API)
 * [8. Optional 类](#8-Optional-类)
