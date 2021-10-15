@@ -11,11 +11,12 @@
   * Spring Cloud Gateway IP限流例子
   * Spring Cloud Gateway 用户限流例子
   * Spring Cloud Gateway 接口限流例子
-### Guava中的RateLimiter、Bucket4j、RateLimitJ都是基于令牌桶算法实现的限流工具  
-  * Guava中的RateLimiter在Spring CloudGateway中实现限流例子
-  * [Guava中Bucket4j在Spring CloudGateway中实现限流例子](https://weread.qq.com/web/reader/71d32370716443e271df020k7f632b502707f6ffaa6bf2e)
-  * Guava中RateLimitJ在Spring CloudGateway中实现限流例子
-
+### Guava中的RateLimiter、Bucket4j、RateLimitJ都是基于令牌桶算法实现的限流工具
+  * 单机网关限流 
+    * Guava中的RateLimiter在Spring CloudGateway中实现限流例子
+    * [Guava中Bucket4j在Spring CloudGateway中实现限流例子](https://weread.qq.com/web/reader/71d32370716443e271df020k7f632b502707f6ffaa6bf2e)
+    * Guava中RateLimitJ在Spring CloudGateway中实现限流例子
+  * 分布式集群限流--采用Redis等分布式解决方案
 * 断言（Predicate）
   * Header路由断言工厂例子
   * Cookie路由断言工厂例子
