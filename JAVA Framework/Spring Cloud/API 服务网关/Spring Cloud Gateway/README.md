@@ -24,10 +24,12 @@
   * [SprlngCloudGateway的工作流程](https://weread.qq.com/web/reader/71d32370716443e271df020kc9e32940268c9e1074f5bc6)
   * 比较Zuul与SpringCloud Gateway
   * SprlngCloud Gateway的功能
-    * 路由（Route）---网关对外暴露的URL或者接口信息，我们统称为路由信息, 路由信息由一个ID、一个目的url、一组断言工厂和一组Filter组成。如果路由断言为真，则说明请求的url和配置的路由匹配
-      * [SprlngCloud Gateway基于服务发现的路由规则 ](https://weread.qq.com/web/reader/71d32370716443e271df020k5f9323e026e5f93f9835418)
-      * [ Spring Cloud Gateway权重路由---Spring Cloud Gateway会根据权重路由规则，针对特定的服务，把95%的请求流量分发给服务的V1版本，把剩余5%的流量分发给服务的V2版本，进行权重路由](https://weread.qq.com/web/reader/71d32370716443e271df020k7f632b502707f6ffaa6bf2e)
-    * 动态路由
+    * 路由（Route）---网关对外暴露的URL或者接口信息，我们统称为路由信息, 路由信息由一个ID、一个目的url、一组断言工厂和一组Filter组成。如果路由断言为真，则说明请求的url和配置的路由匹配, 网关中有两个重要的概念，那就是路由配置和路由规则
+      * 路由配置
+      * 路由规则 
+        * [SprlngCloud Gateway基于服务发现的路由规则 ](https://weread.qq.com/web/reader/71d32370716443e271df020k5f9323e026e5f93f9835418)
+        * [ Spring Cloud Gateway权重路由---Spring Cloud Gateway会根据权重路由规则，针对特定的服务，把95%的请求流量分发给服务的V1版本，把剩余5%的流量分发给服务的V2版本，进行权重路由](https://weread.qq.com/web/reader/71d32370716443e271df020k7f632b502707f6ffaa6bf2e)
+    * [动态路由](https://weread.qq.com/web/reader/71d32370716443e271df020k7f632b502707f6ffaa6bf2e)
     * 路由转发
       * 断言（Predicate）---Java 8中的断言函数。Spring Cloud Gateway中的断言函数输入类型是Spring 5.0框架中的ServerWebExchange。Spring CloudGateway中的断言函数允许开发者去定义匹配来自于Http Request中的任何信息，比如请求头和参数等
         * Header路由断言工厂---Header路由断言工厂用于根据配置的路由header信息进行断言匹配路由，匹配成功进行转发，否则不进行转发
