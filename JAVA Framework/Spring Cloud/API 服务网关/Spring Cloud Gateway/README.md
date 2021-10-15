@@ -84,3 +84,8 @@
 # 参考
 
 * [Spring cloud gateway 详解和配置使用（文章较长）](https://blog.csdn.net/qq_38380025/article/details/102968559)
+* [Spring cloud gateway 设置https 和http同时支持](https://blog.csdn.net/qq_38380025/article/details/106255171)
+* [spring cloud gateway 处理跨域问题](https://blog.csdn.net/qq_38380025/article/details/104936705)
+* [Spring cloud Gateway 指定执行过滤器 （在配置文件中配置所需要过滤器）](https://blog.csdn.net/qq_38380025/article/details/104894916)
+* [spring cloud gateway 修改response 截断问题，乱码问题解决](https://blog.csdn.net/qq_38380025/article/details/100032490)
+* [Spring cloud gateway 拦截请求404 等HTTP 状态码](https://blog.csdn.net/qq_38380025/article/details/104755040)
