@@ -20,6 +20,9 @@ tomcat的优势在于少量的接收并处理复杂的http请求（将用户请�
 
 # [Tomcat面试题](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Tomcat/interview/Tomcat%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
+
+
+
 # 已安装Tomcat
 windows安装目录
 c:\apache-tomcat-9.0.16
@@ -27,7 +30,8 @@ c:\apache-tomcat-9.0.16
 [Tomcat Linux系统安装](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Tomcat/Tomcat%20Linux系统安装/README.md)|[在Docker安装Tomcat](https://github.com/stevenli91748/Engineering-special/blob/master/Docker/在Docker安装Tomcat/README.md)|[How To Install Tomcat 9 On CentOS 7](https://phoenixnap.com/kb/install-tomcat-9-on-centos-7)|
 ---|---|---|
 
-
+[企业主流Web服务器Tomcat工作原理全面解析](https://mp.weixin.qq.com/s/YsnikDt5TqxrUrQLf0wm0A)|
+---|
 
 * Tomcat基础知识
   * [Tomcat源码部署](#Tomcat源码部署)
