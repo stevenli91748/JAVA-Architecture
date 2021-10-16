@@ -73,9 +73,9 @@ Zuul支持Ribbon和Hystrix，也能够实现客户端的负载均衡。我们的
 
 可以这样理解：
 
-Zuul是对外暴露的唯一接口相当于路由的是controller的请求，而Ribbonhe和Fegin路由了service的请求。
+**Zuul是对外暴露的唯一接口相当于路由的是controller的请求，而Ribbonhe和Fegin路由了service的请求。**
 
-Zuul做最外层请求的负载均衡，而Ribbon和Fegin做的是系统内部各个微服务的service的调用的负载均衡。
+**Zuul做最外层请求的负载均衡，而Ribbon和Fegin做的是系统内部各个微服务的service的调用的负载均衡。**
 
 
 
