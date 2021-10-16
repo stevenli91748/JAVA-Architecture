@@ -57,6 +57,9 @@
       * 过滤器（Filter）----一个标准的Spring webFilter。Spring Cloud Gateway中的Filter分为两种类型的Filter，分别是Gateway Filter和Global Filter。路由过滤器允许以某种方式修改请求进来的http请求或返回的http响应。路由过滤器主要作用于需要处理的特定路由
         * Gateway Filter---Gateway Filter是从Web Filter中复制过来的，相当于一个Filter过滤器，可以对访问的URL过滤，进行横切处理（切面处理），应用场景包括超时、安全等
         * Global Filter---可以自定义实现自己的Global Filter。Global Filter是一个全局的Filter，作用于所有路由。
+        * 过滤器的应用开发方式
+          * [基于自定义过滤器接口](https://weread.qq.com/web/reader/c9932ea07163ff6ac993e0dkd9d320f022ed9d4f495e456)
+          * [基于内置的限流过滤器配置实现](https://weread.qq.com/web/reader/c9932ea07163ff6ac993e0dkd9d320f022ed9d4f495e456)
         * 过滤器分7类---过滤器的实现类将近二十多个。总得来说，可以分为七类：Header、Parameter、Path、Status、Redirect跳转、Hytrix熔断和RateLimiter
           * Header
             * [AddRequestHeader过滤器工厂 ---AddRequestHeader过滤器工厂用于对匹配上的请求加上header ](https://weread.qq.com/web/reader/71d32370716443e271df020ka973204026ba97da629bd12)
@@ -70,9 +73,11 @@
           * Redirect跳转
           * Hytrix熔断
             * [Hystrix过滤器--Spring Cloud Gateway对Hystrix进行集成提供路由层面的服务熔断和降级，最简单的使用场景是当通过Spring CloudGateway调用后端服务，后端服务一直出现异常、服务不可用的状态。此时为了提高用户体验，就需要对服务降级，返回友好的提示信息，在保护网关自身可用的同时保护后端服务高可用](https://weread.qq.com/web/reader/71d32370716443e271df020ka973204026ba97da629bd12) 
+            * [ 如何使用Hystrix过滤器熔断降级](https://weread.qq.com/web/reader/c9932ea07163ff6ac993e0dkd9d320f022ed9d4f495e456)
           * RateLimiter
       ---
            * [Retry过滤器---网关作为所有请求流量的入口，网关对路由进行协议适配和协议转发处理的过程中，如果出现异常或网络抖动，为了保证后端服务请求的高可用，一般处理方式会对网络请求进行重试](https://weread.qq.com/web/reader/71d32370716443e271df020ka973204026ba97da629bd12)
+           * [网关重试过滤器](https://weread.qq.com/web/reader/c9932ea07163ff6ac993e0dkd9d320f022ed9d4f495e456)
     * 单点入口
     * 协议适配
     * 协议转发---在微服务的应用集群中会存在很多服务提供者和服务消费者，而这些服务提供者和服务消费者基本都是部署在企业内网中，没必要全部加Https进行调用，Spring Cloud Gateway对外部的请求协议是Https，对内部后端代理服务的请求协议是Http
