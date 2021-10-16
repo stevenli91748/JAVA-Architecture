@@ -258,10 +258,11 @@
       *  启动 EurekaDiscoveryConsumer进行服务发现
     * Consul---注册中心
     * Nacos Discovery---注册中心
-  * 微服务服务调用
-    * Feign
-    * RestTemplate
-    * OpenFeign---服务调用
+  * 微服务之间的调用
+    * RPC方式
+    * RESTful HTTP方式有两种服务调用方法
+      * Feign or OpenFeign（第一种调用方法）
+      * Ribbon + RestTemplate（第二种调用方法）
   * 微服务负载均衡
     * Ribbon---负载均衡
     * Spring Cloud LoadBalancer
