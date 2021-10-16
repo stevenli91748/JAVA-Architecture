@@ -30,8 +30,8 @@
 ---Spring Cloud微服务架构实战派.pdf
 
 * 认识微服务网关
-  * 认识SpringCloud Gateway
-    * 
+  * 认识SpringCloud Gateway---Spring Cloud Gateway旨在提供一种简单而有效的途径来转发请求，并为它们提供横切关注点，例如：安全性、监控/指标和弹性
+    * [SpringCloud Gateway和ZUUL的区别](https://weread.qq.com/web/reader/c9932ea07163ff6ac993e0dk17e328b022b17e62166fad4)
   * [SprlngCloudGateway的工作流程](https://weread.qq.com/web/reader/71d32370716443e271df020kc9e32940268c9e1074f5bc6)
   * 比较Zuul与SpringCloud Gateway
   * SprlngCloud Gateway的功能
@@ -118,7 +118,11 @@
 * [Spring Cloud Gateway整合Swagger](https://weread.qq.com/web/reader/71d32370716443e271df020k7f632b502707f6ffaa6bf2e)
 
 
-## 认识SpringCloudGateway
+
+
+
+
+
 
 
 # 参考
