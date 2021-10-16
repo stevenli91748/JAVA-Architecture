@@ -30,7 +30,8 @@
 ---Spring Cloud微服务架构实战派.pdf
 
 * 认识微服务网关
-  * 认识SpringCloudGateway 
+  * 认识SpringCloud Gateway
+    * 
   * [SprlngCloudGateway的工作流程](https://weread.qq.com/web/reader/71d32370716443e271df020kc9e32940268c9e1074f5bc6)
   * 比较Zuul与SpringCloud Gateway
   * SprlngCloud Gateway的功能
@@ -92,7 +93,6 @@
         * 两种限流模式：
           * 控制速率模式
           * 控制并发模式
-
         * 单机网关限流  
           * 在Spring Cloud Gateway中实现限流的方法---在单机网关限流中用Spring Cloud Gateway中实现限流比较简单，只需要编写一个过滤器就可以。Guava中的RateLimiter、Bucket4j、RateLimitJ都是基于令牌桶算法实现的限流工具
             * 自定义过滤器实现限流 
@@ -102,8 +102,11 @@
             * SprlngCloud Gateway内置过滤器工厂限流
               * [Spring CloudGateway内置了一个名为RequestRateLimiterGatewayFilterFactory的过滤器工厂，可以用来直接限流 ](https://weread.qq.com/web/reader/71d32370716443e271df020k7f632b502707f6ffaa6bf2e)
         * 分布式集群限流--采用Redis等分布式解决方案
-    * 监控日志
+    * 监控
+      * 监控日志
     * 安全认证
+      * 身份验证 
+    * 应用检测
 * 高可用
 * Spring Cloud Gateway endpoint
 
@@ -113,6 +116,9 @@
 * Spring Cloud Gateway配置中心
 * Spring Cloud Gateway整合Hystrix断路器功能
 * [Spring Cloud Gateway整合Swagger](https://weread.qq.com/web/reader/71d32370716443e271df020k7f632b502707f6ffaa6bf2e)
+
+
+## 认识SpringCloudGateway
 
 
 # 参考
