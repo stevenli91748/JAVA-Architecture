@@ -18,9 +18,18 @@ JVM实验例子|[常见JVM内存错误及解决方案](https://www.kancloud.cn/h
 [用Java实现一个JVM虚拟机](https://bugstack.cn/itstack-demo-jvm/itstack-demo-jvm.html)|
 ---|
 
+---
 
+# 如何啃下JVM这座大山
 
+* [第一篇： 三天刷完《深入JVM虚拟机 第三版》---JVM的开门篇](https://mp.weixin.qq.com/s/Rfn-utucyeuny1zldz3dzQ)
+* [第二篇:  还在学JVM？我都帮你总结好了（附脑图）---理论的重点部分，关于JVM的运行时数据区的各个部分是干嘛的，以及重点JVM堆的分代理论和GC的基本回收算法](https://mp.weixin.qq.com/s/eYrP1dReLxx8YeDAUX09zQ)
+* [第三篇:  你是不是垃圾，心里没点数吗？---调优的重中之重，主要聊的就是GC， 如何判断一个对象是否存活、以及常见的GC的种类，常见GC年轻代和老年代的搭配，各种GC的原理和特点、以及适用的场景](https://mp.weixin.qq.com/s/U7Dc5oLCq_rFKwBf5nAKqQ)
+* [第四篇: JVM性能调优实战篇（一）---JVM调优实战讲解的工具篇，包括线上的Arthas工具、GUI工具（Visual VM）、内存分析工具（mat）以及linux的原始命令jps、jstack、jstat、jmap、jhat等命令的讲解和使用](https://mp.weixin.qq.com/s/0DanB3AeZBIiIQNGEYyTvQ)
+* [第五篇: JVM性能调优实战篇（二）---实战调优的场景、案例、经典排查OOM、磁盘不足排查、CPU飙高的排查、死锁的排查、调优的目的和理论已经调优案例场景解析](https://mp.weixin.qq.com/s/fvLNaTFCDGuW16W__xQ9Tw)
+* [第六篇: 类加载子系统---](https://mp.weixin.qq.com/s/FQhMAeMxSKUGah6onDpXww)
 
+---
 
 # [0. 初识JVM](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E5%88%9D%E8%AF%86JVM.md)
 
@@ -270,14 +279,6 @@ JVM实验例子|[常见JVM内存错误及解决方案](https://www.kancloud.cn/h
      *  [HSDB(Hotspot Debugger)](https://liuzhengyang.github.io/2017/05/27/serviceabilityagent/ "HSDB可以查看Java对象的oops、查看类信息、线程栈信息、堆信息、方法字节码和JIT编译后的汇编代码等")
  
 
-# 如何啃下JVM这座大山
-
-* [第一篇： 三天刷完《深入JVM虚拟机 第三版》---JVM的开门篇](https://mp.weixin.qq.com/s/Rfn-utucyeuny1zldz3dzQ)
-* [第二篇:  还在学JVM？我都帮你总结好了（附脑图）---理论的重点部分，关于JVM的运行时数据区的各个部分是干嘛的，以及重点JVM堆的分代理论和GC的基本回收算法](https://mp.weixin.qq.com/s/eYrP1dReLxx8YeDAUX09zQ)
-* [第三篇:  你是不是垃圾，心里没点数吗？---调优的重中之重，主要聊的就是GC， 如何判断一个对象是否存活、以及常见的GC的种类，常见GC年轻代和老年代的搭配，各种GC的原理和特点、以及适用的场景](https://mp.weixin.qq.com/s/U7Dc5oLCq_rFKwBf5nAKqQ)
-* [第四篇: JVM性能调优实战篇（一）---JVM调优实战讲解的工具篇，包括线上的Arthas工具、GUI工具（Visual VM）、内存分析工具（mat）以及linux的原始命令jps、jstack、jstat、jmap、jhat等命令的讲解和使用](https://mp.weixin.qq.com/s/0DanB3AeZBIiIQNGEYyTvQ)
-* [第五篇: JVM性能调优实战篇（二）---实战调优的场景、案例、经典排查OOM、磁盘不足排查、CPU飙高的排查、死锁的排查、调优的目的和理论已经调优案例场景解析](https://mp.weixin.qq.com/s/fvLNaTFCDGuW16W__xQ9Tw)
-* [第六篇: 类加载子系统---](https://mp.weixin.qq.com/s/FQhMAeMxSKUGah6onDpXww)
 
 
 # 用Java实现JVM
