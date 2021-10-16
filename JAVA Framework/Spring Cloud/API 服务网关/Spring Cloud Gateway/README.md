@@ -95,7 +95,7 @@
             * 对请求的接口限流
           * [对CPU使用率进行限流](https://weread.qq.com/web/reader/71d32370716443e271df020k7f632b502707f6ffaa6bf2e)
           * 对内存负载进行限流
-        * 限流算法
+        * [限流算法](https://weread.qq.com/web/reader/c9932ea07163ff6ac993e0dkd9d320f022ed9d4f495e456)
           * 令牌桶算法
           * 漏桶算法  
         * 两种限流模式：
