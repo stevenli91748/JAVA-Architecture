@@ -9,7 +9,7 @@
 # 参考书籍
 
 * 重新定义Spring Cloud实战.PDF
-* 深入理解Spring Cloud与微服务构建 （第2版）
+* Spring Cloud微服务架构实战派.PDF
 --
 
 [Spring Cloud Gateway](https://weread.qq.com/web/reader/c9932ea07163ff6ac993e0dka1d32a6022aa1d0c6e83eb4)|[Spring Cloud Gateway上篇](https://weread.qq.com/web/reader/71d32370716443e271df020kec8325e0266ec89566376b5)|[Spring Cloud Gateway下篇](https://weread.qq.com/web/reader/71d32370716443e271df020k272329d026d2723d092b535)|[Spring Cloud Gateway入门案例](https://weread.qq.com/web/reader/71d32370716443e271df020k65b326f026965b9eea6e6e1)|
