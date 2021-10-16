@@ -269,7 +269,7 @@
 * 2 微服务的集中化配置中心
   *  Apollo
   *  Disconf
-  *  Spring Cloud Config
+  *  Spring Cloud Config---可以获取git中的配置文件，给其它微服务使用，从而使各个微服务的配置在git中进行集中式管理，但在git中修改了配置项，微服务系统中的配置项不能及时更新，需要重启微服务，可用 Spring Cloud Bus代替
   *  Nacos Config
 * [3 微服务网关](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/API%20%E6%9C%8D%E5%8A%A1%E7%BD%91%E5%85%B3/README.md)
   * Zuul
@@ -309,14 +309,14 @@
   * RabbitMQ
   * Spring Cloud Stream
   * Apache Kafka
-* 7 SMS 短信 
-* 8 Seata 分布式事务
+* SMS 短信 
+* Seata 分布式事务
 * 微服务的高级主题---Spring生态消息驱动
   * Spring与消息
   * Spring Integration
   * Spring Cloud Stream
 * 分布式消息总线
-  * Spring Cloud Bus 
+  * Spring Cloud Bus ---可以实现修改Git库中的配置文件并及时同步和不重启微服务系统的情况下更新到配置项
 * 微服务的API 文档管理
   * Swagger 2 
 * Spring Cloud Data Flow
