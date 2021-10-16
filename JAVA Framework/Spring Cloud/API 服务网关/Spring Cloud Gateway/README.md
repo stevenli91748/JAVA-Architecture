@@ -81,14 +81,20 @@
     * 防刷
     * 流量控制
       * 熔断
-      * 限流
+      * [限流](https://weread.qq.com/web/reader/c9932ea07163ff6ac993e0dkd9d320f022ed9d4f495e456)
         * 限流的需求---在实际项目应用中对网关进行限流时，需要参考的因素比较多。可能会根据网络请求连接数、请求流量、CPU使用率等流控
+          * 限制总并发数（比如数据库连接池、线程池）
+          * 限制瞬时并发数（如nginx的limit_conn模块，用来限制瞬时并发连接数）
+          * 限制时间窗口内的平均速率（如Guava的RateLimiter、nginx的limit_req模块，限制每秒的平均速率）
+          * 限制远程接口调用速率
+          * 限制MQ的消费速率
           * 对网络请求连接数进行限流
           * 对请求流量进行限流
             * 对请求的IP限流
             * 对请求的用户限流
             * 对请求的接口限流
           * [对CPU使用率进行限流](https://weread.qq.com/web/reader/71d32370716443e271df020k7f632b502707f6ffaa6bf2e)
+          * 对内存负载进行限流
         * 限流算法
           * 令牌桶算法
           * 漏桶算法  
@@ -110,12 +116,12 @@
       * 身份验证 
     * 应用检测
 * 高可用
-* Spring Cloud Gateway endpoint
+* Spring Cloud Gateway endpoint---Spring Cloud Gateway提供了内置的端点，用于提供路由相关的操作，如过滤器列表、路由列表、单个路由信息等等,Spring Cloud Gateway的内置端点纳管到Spring Boot-Actuator中。从网关服务的启动日志，可以看到网关的内置端点
+  
 
 ----（Sprng Cloud Alibaba）深入理解springcloud与实战
 
 * Spring Cloud Gateway整合注册中心---网关与服务注册与发现组件进行结合，通过serviceId转发到具体的服务实例。
-  * []()  
 * Spring Cloud Gateway配置中心
 * Spring Cloud Gateway整合Hystrix断路器功能
 * [Spring Cloud Gateway整合Swagger](https://weread.qq.com/web/reader/71d32370716443e271df020k7f632b502707f6ffaa6bf2e)
