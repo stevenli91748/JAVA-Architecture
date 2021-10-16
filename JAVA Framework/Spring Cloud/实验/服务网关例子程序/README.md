@@ -43,6 +43,8 @@
     * 过滤器（Filter）
       * [Global Filter](https://weread.qq.com/web/reader/71d32370716443e271df020k6983268026f698d51a198ff)
       * [Gateway Filter 例子](https://weread.qq.com/web/reader/71d32370716443e271df020k6983268026f698d51a198ff)
+      * [基于自定义过滤器接口](https://weread.qq.com/web/reader/c9932ea07163ff6ac993e0dkd9d320f022ed9d4f495e456)
+      * [基于内置的限流过滤器配置实现](https://weread.qq.com/web/reader/c9932ea07163ff6ac993e0dkd9d320f022ed9d4f495e456)
       * AddRequestHeader过滤器工厂例子
       * AddResponseHeader过滤器例子
       * AddRequestParameter过滤器例子
