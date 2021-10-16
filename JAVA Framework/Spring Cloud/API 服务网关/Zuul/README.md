@@ -5,7 +5,7 @@
 # 目录
 * [ZUUL概念](#ZUUL概念)
   * [Zuul和Nginx区别](#Zuul和Nginx区别)
-  * [Zuul和Ribbon实现负载均衡](#Zuul和Ribbon实现负载均衡)
+  * [Zuul和Ribbon实现负载均衡区别](#Zuul和Ribbon实现负载均衡区别)
 * ZUUL具备的功能
   * 认证与鉴权
   * 压力控制
@@ -67,7 +67,7 @@ Zuul虽然在性能上和Nginx没法比，但它也有它的优点。Zuul提供�
 
 Nginx和Zuul是可以配合使用的，发挥各自的优点，使用Nginx作为负载均衡实现高并发的请求转发，Zuul用作网关。
 
-## Zuul和Ribbon实现负载均衡
+## Zuul和Ribbon实现负载均衡区别
 
 Zuul支持Ribbon和Hystrix，也能够实现客户端的负载均衡。我们的Feign不也是实现客户端的负载均衡和Hystrix的吗？既然Zuul已经能够实现了，那我们的Feign还有必要吗？
 
