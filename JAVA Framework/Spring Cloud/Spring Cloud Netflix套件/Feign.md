@@ -1,8 +1,55 @@
 [Spring Cloud Feign的使用扩展](https://weread.qq.com/web/reader/71d32370716443e271df020k4e73277021a4e732ced3b55)|
 ---|
 
-* [springcloud feign 与 openFeign区别](https://www.jianshu.com/p/fc5de8218384)
-* [Ribbon 与 Feign 和 Nginx 区别与使用场景,性能介绍](https://blog.csdn.net/lchq1995/article/details/83340753)
+# 目录
+* Ribbon 与 Feign or OpenFeign 和 Nginx的区别
+  * [Feign概念](#Feign概念)
+  * [Ribbon和Feign的区别](#Ribbon和Feign的区别)
+  * [Ribbon和Nginx的区别](#Ribbon和Nginx的区别)
+  * [springcloud feign 与 openFeign区别](https://www.jianshu.com/p/fc5de8218384)
+  * [Ribbon 与 Feign 和 Nginx 区别与使用场景,性能介绍](https://blog.csdn.net/lchq1995/article/details/83340753)
+
+## Feign概念
+
+在微服务架构中，业务都会被拆分成一个独立的服务，服务与服务的通讯是基于HTTP RESTful的。Spring Cloud有两种服务调用方式，一种是Ribbon+RestTemplate，另一种是Feign
+
+客户端负载均衡：负载均衡Zuul网关将一个请求发送给某一个服务的应用的时候，如果一个服务启动了多个实例，就会通过Ribbon来通过一定的负载均衡策略来发送给某一一个服务实例。Spring Cloud中的Ribbon，客户端会有一个服务器地址列表，在发送请求前通过负载均衡算法（如简单轮询，随机连接等）选择一个服务器，然后进行访问。
+
+**负载均衡**
+
+负载均衡：用于将工作负载分布到多个服务器来提高网站、应用、数据库或其他服务的性能和可靠性。
+使用负载均衡带来的好处很明显：当集群里的1台或者多台服务器down的时候，剩余的没有down的服务器可以保证服务的继续使用；将访问压力分配到各个服务器，不会由于某一高峰时刻导致系统cpu急剧上升。
+负载均衡有好几种实现策略，常见的有：随机（Random），轮询（RoundRobin），一致性哈希（ConsistentHash），哈希（Hash），加权（Weighted），Ribbon的默认策略是轮询
+
+**RestTemplate**
+
+传统情况下在Java代码里访问RESTful服务，一般使用Apache的HttpClient，不过此种方法使用起来太过繁琐。Spring提供了一种简单便捷的模板类来进行操作，这就是RestTemplate。
+Feign是一个声明式http客户端。使用Feign能让编写http客户端更加简单，它的使用方法是定义一个接口，然后在上面添加注解，避免了调用目标微服务时，需要不断的解析/封装json数据的繁琐。Spring Cloud中Feign默认集成了Ribbon，并和Eureka结合，默认实现了负载均衡的效果。
+
+
+## Ribbon和Feign的区别
+
+Feign目标使编写Java Http客户端变得更容易
+
+在使用Ribbon+ RestTemplate时，Ribbon需要自己构建http请求，模拟http请求然后使用RestTemplate发送给其他服务，步骤相当繁琐。利用RestTemplate对http请求的封装处理，形成了-套模版化的调用方法。但是在实际开发中，由于对服务依赖的调用可能不止一处,往往一个接口会被多处调用，所以通常都会针对每个微服务自行封装一些客户端类来包装这些依赖服务的调用。所以，Feign在此基础上做了进一步封装，由他来帮助我们定义和实现依赖服务接口的定义。
+
+在Feign的实现下，我们只需创建一个接口并使用注解的方式来配置它（以前是Dao接口上面标注Mapper注解，现在是一个微服务接口上面标注一个Feign注解即可）， 即可完成对服务提供方的接口绑定，简化了使用Spring Cloud Ribbon时，自动封装服务调用客户端的开发量。
+
+**Feign集成了Ribbon**
+
+Ribbon通过轮询实现了客户端的负载均衡，而与Ribbon不同的是，Feign是一个声明式的Web服务客户端， 使得编写Web服务客户端变得非常容易，只需要创建一个接口， 然后在上面添加注解，像调用本地方法一样调用它就可以，而感觉不到是调用远程方法。SpringCloud中Feign默认集成了Ribbon，并和Eureka结合，默认实现了负载均衡的效果
+
+## Ribbon和Nginx的区别
+
+服务器端负载均衡Nginx
+
+Nginx是客户端所有请求统一交给Nginx，由Nginx进行实现负载均衡请求转发，属于服务器端负载均衡。既请求由Nginx服务器端进行转发。客户端负载均衡Ribbon，Ribbon是从Eureka注册中心服务器端上获取服务注册信息列表，缓存到本地，然后在本地实现轮询负载均衡策略。既在客户端实现负载均衡。
+
+应用场景的区别:
+
+Nginx适合于服务器端实现负载均衡，比如：Tomcat，Ribbon适合与在微服务中RPC远程调用实现本地服务负载均衡，比如：Dubbo、Spring Cloud中都是采用本地负载均衡。
+
+# 参考
 * [Feign](https://blog.csdn.net/u012734441/article/details/77662617)
 * [Spring Cloud Alibaba基础教程：支持的几种服务消费方式（RestTemplate、WebClient、Feign](http://blog.didispace.com/spring-cloud-alibaba-2/)
 * [Spring Cloud Feign的文件上传实现](http://blog.didispace.com/spring-cloud-starter-dalston-2-4/)
