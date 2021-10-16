@@ -29,6 +29,8 @@ JVM实验例子|[常见JVM内存错误及解决方案](https://www.kancloud.cn/h
 * [第五篇: JVM性能调优实战篇（二）---实战调优的场景、案例、经典排查OOM、磁盘不足排查、CPU飙高的排查、死锁的排查、调优的目的和理论已经调优案例场景解析](https://mp.weixin.qq.com/s/fvLNaTFCDGuW16W__xQ9Tw)
 * [第六篇: 类加载子系统---](https://mp.weixin.qq.com/s/FQhMAeMxSKUGah6onDpXww)
 
+* [JVM 内存布局，写得太好了 ](https://mp.weixin.qq.com/s/R7z-4TqmpLfi1Nx6KErZxA)
+
 ---
 
 # [0. 初识JVM](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E5%88%9D%E8%AF%86JVM.md)
