@@ -9,6 +9,11 @@
   * [Spring Cloud Gateway集成Swagger例子](https://weread.qq.com/web/reader/71d32370716443e271df020k7f632b502707f6ffaa6bf2e)
 * 限流
   * 限流的需求---在实际项目应用中对网关进行限流时，需要参考的因素比较多。可能会根据网络请求连接数、请求流量、CPU使用率等流控
+    * 限制总并发数（比如数据库连接池、线程池）
+    * 限制瞬时并发数（如nginx的limit_conn模块，用来限制瞬时并发连接数）
+    * 限制时间窗口内的平均速率（如Guava的RateLimiter、nginx的limit_req模块，限制每秒的平均速率）
+    * 限制远程接口调用速率
+    * 限制MQ的消费速率
     * 对网络请求连接数进行限流
     * [对CPU使用率进行限流](https://weread.qq.com/web/reader/71d32370716443e271df020k7f632b502707f6ffaa6bf2e)
     * 对请求流量进行限流 
