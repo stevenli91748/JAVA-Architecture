@@ -70,6 +70,10 @@
           * OrderedGatewayFilter：一个有序的网关过滤器
           * GatewayFilterAdapter：一个适配器类，是Web处理器（FilteringWebHandler）中的内部类
           * ModifyResponseGatewayFilter：一个内部类，用于修改响应体 
+          * [自定义过滤器---自定义过滤器来实现自己想要的特殊功能,使用Resilience4j限流器是一个更好的选择](https://weread.qq.com/web/reader/2fe329c071e041322feb53dkc7432af0210c74d97b01b1c)
+            * 自定义局部过滤器
+            * 自定义全局过滤器
+            * 过滤器的执行顺序 
           * 内置过滤器分7类------这些内置的过滤器工厂有21种。总得来说，可以分为七类：Header、Parameter、Path、Status、Redirect跳转、Hytrix熔断和RateLimiter
             * Header
               * [AddRequestHeader过滤器工厂 ---AddRequestHeader过滤器工厂用于对匹配上的请求加上header，通过它可以增加请求参数 ](https://weread.qq.com/web/reader/71d32370716443e271df020ka973204026ba97da629bd12)
@@ -80,6 +84,7 @@
               * [RewritePath过滤器---Spring Cloud Gateway可以使用RewritePath替换Zuul的StripPrefix功能，而且功能更强大 ,可以直接重写请求路径](https://weread.qq.com/web/reader/71d32370716443e271df020ka973204026ba97da629bd12)
               * [StripPrefix过滤器---为了区分路由的源服务器，我们需要在路径中加入前缀，例如在请求用户微服务的路径中加入前缀“/u”，这个时候就可以使用StripPrefix过滤器工厂了, StripPrefixGatewayFilterFactory是一个对针对请求url前缀进行处理的filter工厂，用于去除前缀。而PrefixPathGatewayFilterFactory是用于增加前缀](https://weread.qq.com/web/reader/71d32370716443e271df020ka973204026ba97da629bd12)
             * Status
+              * [SetStatus过滤器工厂---在有些情况下，请求会失败，然后转到另一个链接，此时需要给出关于错误的提示信息，并且将响应状态码设置为坏请求（状态码为400）](https://weread.qq.com/web/reader/2fe329c071e041322feb53dkc7432af0210c74d97b01b1c)
             * Redirect跳转
             * Hytrix熔断
               * [Hystrix过滤器--Spring Cloud Gateway对Hystrix进行集成提供路由层面的服务熔断和降级，最简单的使用场景是当通过Spring CloudGateway调用后端服务，后端服务一直出现异常、服务不可用的状态。此时为了提高用户体验，就需要对服务降级，返回友好的提示信息，在保护网关自身可用的同时保护后端服务高可用](https://weread.qq.com/web/reader/71d32370716443e271df020ka973204026ba97da629bd12) 
