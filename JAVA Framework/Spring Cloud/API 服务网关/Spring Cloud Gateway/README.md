@@ -7,10 +7,16 @@
 ---
 
 # 参考书籍
-* 9 Spring Cloud微服务和分布式系统实践.PDF---在线
-* 8 （先看） 重新定义Spring Cloud实战---2018 Spring Cloud中国社区倾力打造，多位行业专家推荐，作者来自原阿里、蚂蚁金服、京东金融等互联网企业, 一本实践与理论并重、广度与深度兼顾的Spring Cloud生产实践开发指南, 有3大特色: 足够广,有深度,重实践---在线
-* 13 Spring Cloud开发实战 ---2021 Eureka + Consul + Apollo + Nacos + Zuul + Feign + Gateway + Kafka + config + Zipkin + Hystrix + Ribbon + ZooKeeper + Swagger + Postman + MongoDB + Redis---在线
-* 4 （先看） Spring Cloud微服务架构进阶---2018 （Spring Cloud 深入系列 ）各组件讲得非常详细, 值的反复阅读的书 ，包括Spring Cloud Gateway + Eureka + OpenFeign + Hystrix + Config + Ribbon + Spring Cloud Stream + Spring Cloud Bus + Spring Cloud Security + Spring Cloud Sleuth---在线
+* [4 （先看） Spring Cloud微服务架构进阶---2018 （Spring Cloud 深入系列 ）各组件讲得非常详细, 值的反复阅读的书 ，包括Spring Cloud Gateway + Eureka + OpenFeign + Hystrix + Config + Ribbon + Spring Cloud Stream + Spring Cloud Bus + Spring Cloud Security + Spring Cloud Sleuth   ](https://weread.qq.com/web/reader/c9932ea07163ff6ac993e0dkc81322c012c81e728d9d180)
+
+* [8 重新定义Spring Cloud实战---2018 Spring Cloud中国社区倾力打造，多位行业专家推荐，作者来自原阿里、蚂蚁金服、京东金融等互联网企业, 一本实践与理论并重、广度与深度兼顾的Spring Cloud生产实践开发指南, 有3大特色: 足够广,有深度,重实践](https://weread.qq.com/web/reader/71d32370716443e271df020kc81322c012c81e728d9d180)
+
+* [9 Spring Cloud微服务和分布式系统实践---2020 组件包括服务注册和服务发现（Eureka）、服务调用（Ribbon和OpenFeign）、断路器（Hystrix和Resilience4j）、网关（Zuul和Spring Cloud Gateway）、配置（Config）、全链路追踪（Sleuth）、微服务的监控（Admin）,分布式系统方面主要讲解分布式数据库、分布式缓存、分布式会话和分布式权限以及发号机制,远程过程调用， 微服务设计和高并发等](https://weread.qq.com/web/reader/2fe329c071e041322feb53d)
+
+* [10  （先看）  深入理解Spring Cloud与微服务构建 （第2版）---包括Spring Boot + Eureka、Consul, Ribbon + RestTemplate , Feign、Hystrix、Zuul、Gateway、Consul、Config、Sleuth、Admint等组件,使用Spring Cloud OAuth2来保护微服务系统](https://weread.qq.com/web/reader/1223205071ccfab912296c2)
+
+* [13 Spring Cloud开发实战 ---2021 Eureka + Consul + Apollo + Nacos + Zuul + Feign + Gateway + Kafka + config + Zipkin + Hystrix + Ribbon + ZooKeeper + Swagger + Postman + MongoDB + Redis ](https://weread.qq.com/web/reader/1c632610725a69631c6c26f)
+
 * Spring Cloud微服务架构实战派.PDF
 
 --
