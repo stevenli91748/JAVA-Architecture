@@ -70,21 +70,22 @@
           * OrderedGatewayFilter：一个有序的网关过滤器
           * GatewayFilterAdapter：一个适配器类，是Web处理器（FilteringWebHandler）中的内部类
           * ModifyResponseGatewayFilter：一个内部类，用于修改响应体 
-          * 内置过滤器分7类------过滤器的实现类将近二十多个。总得来说，可以分为七类：Header、Parameter、Path、Status、Redirect跳转、Hytrix熔断和RateLimiter
+          * 内置过滤器分7类------这些内置的过滤器工厂有21种。总得来说，可以分为七类：Header、Parameter、Path、Status、Redirect跳转、Hytrix熔断和RateLimiter
             * Header
-              * [AddRequestHeader过滤器工厂 ---AddRequestHeader过滤器工厂用于对匹配上的请求加上header ](https://weread.qq.com/web/reader/71d32370716443e271df020ka973204026ba97da629bd12)
+              * [AddRequestHeader过滤器工厂 ---AddRequestHeader过滤器工厂用于对匹配上的请求加上header，通过它可以增加请求参数 ](https://weread.qq.com/web/reader/71d32370716443e271df020ka973204026ba97da629bd12)
               * [AddResponseHeader过滤器---AddResponseHeader过滤器工厂的作用是对从网关返回的响应添加Header](https://weread.qq.com/web/reader/71d32370716443e271df020ka973204026ba97da629bd12)
             * Parameter
               * [AddRequestParameter过滤器---AddRequestParameter过滤器作用是对匹配上的请求路由添加请求参数 ](https://weread.qq.com/web/reader/71d32370716443e271df020ka973204026ba97da629bd12)
             * Path
-              * [RewritePath过滤器---Spring Cloud Gateway可以使用RewritePath替换Zuul的StripPrefix功能，而且功能更强大 ](https://weread.qq.com/web/reader/71d32370716443e271df020ka973204026ba97da629bd12)
-              * [StripPrefix过滤器---StripPrefixGatewayFilterFactory是一个对针对请求url前缀进行处理的filter工厂，用于去除前缀。而PrefixPathGatewayFilterFactory是用于增加前缀](https://weread.qq.com/web/reader/71d32370716443e271df020ka973204026ba97da629bd12)
+              * [RewritePath过滤器---Spring Cloud Gateway可以使用RewritePath替换Zuul的StripPrefix功能，而且功能更强大 ,可以直接重写请求路径](https://weread.qq.com/web/reader/71d32370716443e271df020ka973204026ba97da629bd12)
+              * [StripPrefix过滤器---为了区分路由的源服务器，我们需要在路径中加入前缀，例如在请求用户微服务的路径中加入前缀“/u”，这个时候就可以使用StripPrefix过滤器工厂了, StripPrefixGatewayFilterFactory是一个对针对请求url前缀进行处理的filter工厂，用于去除前缀。而PrefixPathGatewayFilterFactory是用于增加前缀](https://weread.qq.com/web/reader/71d32370716443e271df020ka973204026ba97da629bd12)
             * Status
             * Redirect跳转
             * Hytrix熔断
               * [Hystrix过滤器--Spring Cloud Gateway对Hystrix进行集成提供路由层面的服务熔断和降级，最简单的使用场景是当通过Spring CloudGateway调用后端服务，后端服务一直出现异常、服务不可用的状态。此时为了提高用户体验，就需要对服务降级，返回友好的提示信息，在保护网关自身可用的同时保护后端服务高可用](https://weread.qq.com/web/reader/71d32370716443e271df020ka973204026ba97da629bd12) 
               * [ 如何使用Hystrix过滤器熔断降级](https://weread.qq.com/web/reader/c9932ea07163ff6ac993e0dkd9d320f022ed9d4f495e456)
             * RateLimiter
+              * [RequestRateLimiter过滤器工厂---用于限制请求流量，避免过大的流量进入系统，从而保证系统在一个安全的流量下可用](https://weread.qq.com/web/reader/2fe329c071e041322feb53dkc7432af0210c74d97b01b1c) 
             * [Retry过滤器---网关作为所有请求流量的入口，网关对路由进行协议适配和协议转发处理的过程中，如果出现异常或网络抖动，为了保证后端服务请求的高可用，一般处理方式会对网络请求进行重试](https://weread.qq.com/web/reader/71d32370716443e271df020ka973204026ba97da629bd12)
             * [网关重试过滤器](https://weread.qq.com/web/reader/c9932ea07163ff6ac993e0dkd9d320f022ed9d4f495e456)
         * Global Filter---可以自定义实现自己的Global Filter。Global Filter是一个全局的Filter，作用于所有路由。全局过滤器需要实现GlobalFilter接口
