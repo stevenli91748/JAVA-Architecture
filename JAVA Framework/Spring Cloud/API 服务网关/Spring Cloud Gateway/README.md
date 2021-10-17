@@ -72,8 +72,12 @@
           * ModifyResponseGatewayFilter：一个内部类，用于修改响应体 
           * [自定义过滤器---自定义过滤器来实现自己想要的特殊功能,使用Resilience4j限流器是一个更好的选择](https://weread.qq.com/web/reader/2fe329c071e041322feb53dkc7432af0210c74d97b01b1c)
             * 自定义局部过滤器
+              * [自定义过滤器,使用Resilience4j限流 ](https://weread.qq.com/web/reader/2fe329c071e041322feb53dkc7432af0210c74d97b01b1c) 
             * 自定义全局过滤器
+              * [自定义全局过滤器---转发token](https://weread.qq.com/web/reader/2fe329c071e041322feb53dkc7432af0210c74d97b01b1c) 
             * 过滤器的执行顺序 
+              * [全局过滤器执行的顺序](https://weread.qq.com/web/reader/2fe329c071e041322feb53dkc7432af0210c74d97b01b1c) 
+              * [局部过滤器执行的顺序](https://weread.qq.com/web/reader/2fe329c071e041322feb53dkc7432af0210c74d97b01b1c)
           * 内置过滤器分7类------这些内置的过滤器工厂有21种。总得来说，可以分为七类：Header、Parameter、Path、Status、Redirect跳转、Hytrix熔断和RateLimiter
             * Header
               * [AddRequestHeader过滤器工厂 ---AddRequestHeader过滤器工厂用于对匹配上的请求加上header，通过它可以增加请求参数 ](https://weread.qq.com/web/reader/71d32370716443e271df020ka973204026ba97da629bd12)
