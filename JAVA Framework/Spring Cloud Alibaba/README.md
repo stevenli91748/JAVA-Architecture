@@ -2,9 +2,9 @@
 
 # 在线书籍
 
-* Spring Cloud Alibaba微服务原理与实战.PDF
-* 阿里巴巴：Sprng Cloud Alibaba 从入门到实战.PDF
-* 深入理解springcloud与实战.PDF---Spring Cloud Alibba创始人倾力打造
+* Spring Cloud Alibaba微服务原理与实战.PDF---(Dubbo集成Zookeeper实现服务注册 + Nacos实现服务注册 + Nacos实现统一配置管理 + Sentinel 限流和熔断 + 布式事务 + RocketMQ 分布式消息通信·+ Spring Cloud Gateway)
+* 阿里巴巴：Sprng Cloud Alibaba 从入门到实战.PDF---
+* 深入理解springcloud与实战.PDF---Spring Cloud Alibba创始人倾力打造 , （Alibaba Nacos注册中心 + Spring Cloud LoadBalancer + Ribbon + OpenFeign + Config配置中心 + 熔断【Spring Cloud Circuit Breaker，Sentinel, Hystrix , Resilience4j 】, Spring Integration , Stream, Bus, Spring Cloud Data Flow, Spring Cloud Task, Serverless）
 
 
 # Spring Cloud Alibaba 版本关系说明
@@ -35,18 +35,19 @@
     * 启动 NacosDiscoveryConsumer迸行服务发现
   * OpenFeign---服务调用
   * Ribbon---负载均衡
-* 2 服务配置中心
+* 2 服务调用
+* 3 服务配置中心
   *  Nacos Config
-* 3 服务网关
+* 4 服务网关
   * Spring Cloud Gateway 
-* 4 服务容错
+* 5 服务容错
   * Sentinel
-* 5 链路追踪
+* 6 链路追踪
   * Sleuth  + Zipkin
   * Skywalking
-* 6 分布式消息驱动 RocketMQ
-* 7 SMS 短信 
-* 8 Seata 分布式事务
+* 7 分布式消息驱动 RocketMQ
+* 8 SMS 短信 
+* 9 Seata 分布式事务
 * 
 
 
