@@ -24,7 +24,7 @@
 
 * [4 （先看） Spring Cloud微服务架构进阶---2018 （Spring Cloud 深入系列 ）各组件讲得非常详细, 值的反复阅读的书 ，包括Spring Cloud Gateway + Eureka + OpenFeign + Hystrix + Config + Ribbon + Spring Cloud Stream + Spring Cloud Bus + Spring Cloud Security + Spring Cloud Sleuth   ](https://weread.qq.com/web/reader/c9932ea07163ff6ac993e0dkc81322c012c81e728d9d180)
 
-* [5 Spring Cloud微服务架构实战---2020 本书以电商案例讲解微服务开发环境塔建，微服务治理，数据架构设计，展示层架构设计，分布式文件系统设计，高并发订单架构设计，移动端商城架构设计，管理后台架构设计，很好的微服务架构入门书, 是 “Spring Cloud与Docker高并发微服务架构设计实施” 的改编版](https://weread.qq.com/web/reader/ca932ea071d7c798ca9a714)
+* [5 Spring Cloud微服务架构实战---2020 本书以电商案例讲解微服务开发环境塔建，微服务治理，数据架构设计，展示层架构设计，分布式文件系统设计，高并发订单架构设计，移动端商城架构设计，管理后台架构设计，很好的微服务架构入门书, 是 “Spring Cloud与Docker高并发微服务架构设计实施” 的改编版, jenkis + FastDFS + MySQL分库分区 读写分离 主从同步 主主同步 + Docker部署 + SSO设计 +  MongoDB + Mybatis + RESTful API + Spring data JPA + Zipkin + ELK + Consul + ](https://weread.qq.com/web/reader/ca932ea071d7c798ca9a714)
 
 * [6 Spring Cloud Alibaba微服务原理与实战---2020 组件包括 Nacos + Sentinel + RocketMQ + Seata + Spring Cloud Gateway + Dubbo + Zookeeper , 采用 “场境->需求->解决方案->应用->原理” 高效技术学习模型  ](https://weread.qq.com/web/reader/0f132410811e3ac57g011a6akc81322c012c81e728d9d180)
 
