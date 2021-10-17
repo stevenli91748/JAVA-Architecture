@@ -18,6 +18,9 @@
 * [13 Spring Cloud开发实战 ---2021 Eureka + Consul + Apollo + Nacos + Zuul + Feign + Gateway + Kafka + config + Zipkin + Hystrix + Ribbon + ZooKeeper + Swagger + Postman + MongoDB + Redis ](https://weread.qq.com/web/reader/1c632610725a69631c6c26f)
 
 * Spring Cloud微服务架构实战派.PDF
+* 重要 （Sprng Cloud Alibaba）Spring Cloud Alibaba微服务原理与实战.PDF 2020---咕泡学院联合创始人
+* Spring cloud微服务：入门、实战与进阶.PDF
+
 
 --
 
