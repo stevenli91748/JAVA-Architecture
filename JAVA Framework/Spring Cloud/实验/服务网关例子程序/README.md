@@ -32,10 +32,14 @@
   * 分布式集群限流--采用Redis等分布式解决方案
 * 路由
   * 路由配置---路由配置是指配置某请求路径路由到指定的目的地址
+    * [基于WebSocket的网关路由](https://weread.qq.com/web/reader/c9932ea07163ff6ac993e0dkf7132c6022cf7177163c01c) 
+    * [基于微服务实例进行路由 9.6.1](https://weread.qq.com/web/reader/2fe329c071e041322feb53dkc7432af0210c74d97b01b1c)
+    * [基于服务发现进行路由](https://weread.qq.com/web/reader/2fe329c071e041322feb53dkc7432af0210c74d97b01b1c)
   * 路由规则---路由规则是指匹配到路由配置之后，再根据路由规则进行转发处理 
     * [Gateway基于服务发现的路由规则例子](https://weread.qq.com/web/reader/71d32370716443e271df020k5f9323e026e5f93f9835418)
     * [权重路由案例例子](https://weread.qq.com/web/reader/71d32370716443e271df020k7f632b502707f6ffaa6bf2e)
   * [动态路由---前面章节介绍了Spring Cloud Gateway提供的配置路由规则的两种方法，但都是在Spring Cloud Gateway启动时将路由配置和规则加载到内存里，无法做到不重启网关就可以动态地对应路由的配置和规则进行增加、修改和删除](https://weread.qq.com/web/reader/71d32370716443e271df020k7f632b502707f6ffaa6bf2e)
+    * [度量和动态更新路由 9.6.2](https://weread.qq.com/web/reader/2fe329c071e041322feb53dkc7432af0210c74d97b01b1c) 
   * 路由转发
     * 断言（Predicate）
       * [断言的开发既可以使用编码的方式实现，也可以使用配置的方式实现](https://weread.qq.com/web/reader/2fe329c071e041322feb53dkc7432af0210c74d97b01b1c)
@@ -64,5 +68,6 @@
         * [RequestRateLimiter过滤器工厂](https://weread.qq.com/web/reader/2fe329c071e041322feb53dkc7432af0210c74d97b01b1c)
         * [Retry过滤器例子](https://weread.qq.com/web/reader/2fe329c071e041322feb53dkc7432af0210c74d97b01b1c)
       * 自定义过滤器接口
+        * [自定义过滤器,使用Resilience4j限流 ](https://weread.qq.com/web/reader/2fe329c071e041322feb53dkc7432af0210c74d97b01b1c)
   * 协议转发
     * [Spring Cloud Gateway中Https的使用技巧---Spring Cloud Gateway将Https前端请求转发调用Http后端服务的问题](https://weread.qq.com/web/reader/71d32370716443e271df020k7f632b502707f6ffaa6bf2e)  
