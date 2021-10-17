@@ -48,6 +48,8 @@
 
 * [16 高可用可伸缩微服务架构： 基于 Dubbo + Spring Cloud + Service Mesh + istio ，微服务邻域驱动设计， Dubbo实践， SpringBoot + Spring Cloud实践, 微服务稳定性的常用手段，事务一致性，百亿流量微服务网关的设计，微服务双活体系的构建 , 微服务监控实战](https://weread.qq.com/web/reader/d9e327a07188b377d9eb7dakc81322c012c81e728d9d180)
  
+ * [17 Spring Cloud 实战--- Spring Data + Eureka整合 + Ribbon整合 + ZUUL +  Hystrix整合 + Config + Zipkin + ](https://weread.qq.com/web/reader/a1132af07199a64ca1167d3)
+ 
 * （Spring Cloud 深入系列 ）Spring Cloud与Docker微服务架构实战（第2版）.PDF
 * Spring Cloud微服务架构实战派.PDF---共有“39个基于知识点的实例 + 1个综合性项目
 * Spring Cloud与Docker高并发微服务架构设计实施.PDF---通过一个互联网电商平台实例实现了高并发的微服务架构设计  适合做项目实战 
