@@ -33,12 +33,16 @@
 
 * 认识微服务网关
   * [认识SpringCloud Gateway](#认识SpringCloud-Gateway)
-  * [SprlngCloudGateway的工作流程](https://weread.qq.com/web/reader/71d32370716443e271df020kc9e32940268c9e1074f5bc6)
+  * [SprlngCloud Gateway的工作流程](https://weread.qq.com/web/reader/71d32370716443e271df020kc9e32940268c9e1074f5bc6)
+    * [SprlngCloud Gateway执行原理](https://weread.qq.com/web/reader/2fe329c071e041322feb53dkc7432af0210c74d97b01b1c) 
   * 比较Zuul与SpringCloud Gateway
     * [SpringCloud Gateway和ZUUL的区别1](https://weread.qq.com/web/reader/2fe329c071e041322feb53dkc7432af0210c74d97b01b1c)
     * [SpringCloud Gateway和ZUUL的区别2](https://weread.qq.com/web/reader/c9932ea07163ff6ac993e0dk17e328b022b17e62166fad4)
   * [SprlngCloud Gateway源码解析](https://weread.qq.com/web/reader/c9932ea07163ff6ac993e0dk6c8328f022d6c8349cc72d5)
-  * 开发者如何通过响应式、函数式和Lambda表达式灵活地构建微服务网关
+  * 构建微服务网关
+    * [通过YAML文件配置](https://weread.qq.com/web/reader/2fe329c071e041322feb53dkc7432af0210c74d97b01b1c)
+    * [通过代码来配置](https://weread.qq.com/web/reader/2fe329c071e041322feb53dkc7432af0210c74d97b01b1c)
+    * 开发者如何通过响应式、函数式和Lambda表达式灵活地构建微服务网关
   * SprlngCloud Gateway的功能
     * 路由（Route）---网关对外暴露的URL或者接口信息，我们统称为路由信息, 路由信息由一个ID、一个目的url、一组断言工厂和一组Filter组成。如果路由断言为真，则说明请求的url和配置的路由匹配, 网关中有两个重要的概念，那就是路由配置和路由规则
       * 路由配置---路由配置是指配置某请求路径路由到指定的目的地址
@@ -48,7 +52,7 @@
         * [ Spring Cloud Gateway权重路由---Spring Cloud Gateway会根据权重路由规则，针对特定的服务，把95%的请求流量分发给服务的V1版本，把剩余5%的流量分发给服务的V2版本，进行权重路由](https://weread.qq.com/web/reader/71d32370716443e271df020k7f632b502707f6ffaa6bf2e)
     * [动态路由---前面章节介绍了Spring Cloud Gateway提供的配置路由规则的两种方法，但都是在Spring Cloud Gateway启动时将路由配置和规则加载到内存里，无法做到不重启网关就可以动态地对应路由的配置和规则进行增加、修改和删除](https://weread.qq.com/web/reader/71d32370716443e271df020k7f632b502707f6ffaa6bf2e)
     * 路由转发
-      * 断言（Predicate）---其定义为“断定一个特定前提为真的陈述”，它是作为路由进行转发的判断条件存在的，目前支持的方式有请求路径（Path）、请求查询（Query）、方法（Method）、请求标头（Header）。Spring CloudGateway中的断言函数允许开发者去定义匹配来自于Http Request中的任何信息，比如请求头和参数等
+      * 断言（Predicate）---每个断言的入参都是Spring框架的ServerWebExchange对象类型。它允许开发者匹配来自HTTP请求的任何内容，例如URL、请求头或请求参数，当这些断言都返回true时，才执行这个路由，目前支持的方式有请求路径（Path）、请求查询（Query）、方法（Method）、请求标头（Header）。Spring Cloud Gateway中的断言函数允许开发者去定义匹配来自于Http Request中的任何信息，比如请求头和参数等
         * Header路由断言工厂---Header路由断言工厂用于根据配置的路由header信息进行断言匹配路由，匹配成功进行转发，否则不进行转发
         * Cookie路由断言工厂---Cookie路由断言工厂会取两个参数——cookie名称对应的key和value。当请求中携带的cookie和Cookied断言工厂中配置的cookie一致，则路由匹配成功进行转发，否则匹配不成功
         * After路由断言工厂---After Route Predicate Factory中会取一个UTC时间格式的时间参数，当请求进来的当前时间在配置的UTC时间之后，则会成功匹配进行转发，否则不能成功匹配。
@@ -58,7 +62,7 @@
         * Method路由断言工厂---Method路由断言工厂会根据路由信息配置的method对请求方法是Get或者Post等进行断言匹配，匹配成功则进行转发，否则处理失败
         * Query路由断言工厂---Query路由断言工厂会从请求中获取两个参数，将请求中参数和Query断言路由中的配置进行匹配，比如http://localhost:8080/?foo=baz中的foo=baz和下面的r.query("foo", "baz")配置一致则进行转发，否则转发失败
         * RemoteAddr路由断言工厂---RemoteAddr路由断言工厂配置一个IPv4或IPv6网段的字符串或者IP。当请求IP地址在网段之内或者和配置的IP相同，则表示匹配成功进行转发，否则不能转发
-      * 过滤器（Filter）----一个标准的Spring webFilter。Spring Cloud Gateway中的Filter分为两种类型的Filter，分别是Gateway Filter和Global Filter。路由过滤器允许以某种方式修改请求进来的http请求或返回的http响应。路由过滤器主要作用于需要处理的特定路由
+      * 过滤器（Filter）----一个标准的Spring webFilter。Spring Cloud Gateway中的Filter分为两种类型的Filter，分别是Gateway Filter和Global Filter。使用特定工厂构造的SpringFrameworkGatewayFilter实例, 路由过滤器允许以某种方式修改请求进来的http请求或返回的http响应。路由过滤器主要作用于需要处理的特定路由
         * Gateway Filter---Gateway Filter是从Web Filter中复制过来的，相当于一个Filter过滤器，可以对访问的URL过滤，进行横切处理（切面处理），应用场景包括超时、安全等
           * OrderedGatewayFilter：一个有序的网关过滤器
           * GatewayFilterAdapter：一个适配器类，是Web处理器（FilteringWebHandler）中的内部类
