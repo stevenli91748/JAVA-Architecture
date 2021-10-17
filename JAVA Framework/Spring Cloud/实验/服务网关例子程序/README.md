@@ -48,6 +48,7 @@
       * Method路由断言工厂例子
       * Query路由断言工厂例子
       * RemoteAddr路由断言工厂例子
+      * Weight路由断言工厂
     * 过滤器（Filter）
       * [Global Filter](https://weread.qq.com/web/reader/71d32370716443e271df020k6983268026f698d51a198ff)
       * [Gateway Filter 例子](https://weread.qq.com/web/reader/71d32370716443e271df020k6983268026f698d51a198ff)
