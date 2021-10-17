@@ -1,13 +1,13 @@
 # 网关类型
 
-[API网关之ZUUL1.X](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Swagger接口文档编写及测试工具/API网关之ZUUL1.X/README.md)|[API网关之ZUUL2.X](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Swagger接口文档编写及测试工具/API网关之ZUUL2.X/README.md)|[Spirng clound gateway](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Swagger接口文档编写及测试工具/Spirng%20clound%20gateway/README.md)|
----|---|---|
-
-[还在手动整合Swagger？Swagger官方Starter是真的香](https://www.jianshu.com/p/cb6a3e456427)|[前后端都分离了，该搞个好用的API管理系统了！](https://mp.weixin.qq.com/s/Ahs6fnIfFVVPOn3NZpIsNA)|
+[API网关之ZUUL2.X](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/API%20%E6%9C%8D%E5%8A%A1%E7%BD%91%E5%85%B3/Zuul/README.md)|[Spirng clound gateway](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/API%20%E6%9C%8D%E5%8A%A1%E7%BD%91%E5%85%B3/Spring%20Cloud%20Gateway/README.md)|
 ---|---|
 
-[SpringBoot: 后台接口文档 - 基于Swagger3](https://www.jianshu.com/p/c839e72ad1b2)|[ApiModel 和 ApiModelProperty 注解详解](https://m.imooc.com/wiki/swaggerlesson-apimodelproperty#:~:text=ApiModel%20%E6%B3%A8%E8%A7%A3%E6%98%AF%E4%BD%9C%E7%94%A8%E5%9C%A8,%E5%92%8C%40ApiModelProperty%20%E6%B3%A8%E8%A7%A3%E9%85%8D%E5%90%88%E4%BD%BF%E7%94%A8%E3%80%82&text=ApiModel%20%E5%92%8CApiModelProperty%20%E4%B8%A4%E4%B8%AA,%E6%B7%BB%E5%8A%A0%E9%A2%9D%E5%A4%96%E7%9A%84%E6%8F%8F%E8%BF%B0%E4%BF%A1%E6%81%AF%E3%80%82)|
----|---|
+[前后端都分离了，该搞个好用的API管理系统了！](https://mp.weixin.qq.com/s/Ahs6fnIfFVVPOn3NZpIsNA)|
+---|
+
+[ApiModel 和 ApiModelProperty 注解详解](https://m.imooc.com/wiki/swaggerlesson-apimodelproperty#:~:text=ApiModel%20%E6%B3%A8%E8%A7%A3%E6%98%AF%E4%BD%9C%E7%94%A8%E5%9C%A8,%E5%92%8C%40ApiModelProperty%20%E6%B3%A8%E8%A7%A3%E9%85%8D%E5%90%88%E4%BD%BF%E7%94%A8%E3%80%82&text=ApiModel%20%E5%92%8CApiModelProperty%20%E4%B8%A4%E4%B8%AA,%E6%B7%BB%E5%8A%A0%E9%A2%9D%E5%A4%96%E7%9A%84%E6%8F%8F%E8%BF%B0%E4%BF%A1%E6%81%AF%E3%80%82)|
+---|
 
 * [接口可视化工具—Swagger-UI](https://weread.qq.com/web/reader/69532da0717d3026695636ekd8232f00235d82c8d161fb2)
 * [Configure JWT with Spring Boot and Swagger UI](https://www.javaguides.net/2021/06/configure-jwt-with-spring-boot-and-swagger.html)
