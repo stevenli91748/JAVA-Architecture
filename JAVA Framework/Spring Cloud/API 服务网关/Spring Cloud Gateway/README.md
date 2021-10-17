@@ -7,7 +7,7 @@
 ---
 
 # 参考书籍
-
+* 9 Spring Cloud微服务和分布式系统实践.PDF---在线
 * 8 （先看） 重新定义Spring Cloud实战---2018 Spring Cloud中国社区倾力打造，多位行业专家推荐，作者来自原阿里、蚂蚁金服、京东金融等互联网企业, 一本实践与理论并重、广度与深度兼顾的Spring Cloud生产实践开发指南, 有3大特色: 足够广,有深度,重实践---在线
 * 13 Spring Cloud开发实战 ---2021 Eureka + Consul + Apollo + Nacos + Zuul + Feign + Gateway + Kafka + config + Zipkin + Hystrix + Ribbon + ZooKeeper + Swagger + Postman + MongoDB + Redis---在线
 * 4 （先看） Spring Cloud微服务架构进阶---2018 （Spring Cloud 深入系列 ）各组件讲得非常详细, 值的反复阅读的书 ，包括Spring Cloud Gateway + Eureka + OpenFeign + Hystrix + Config + Ribbon + Spring Cloud Stream + Spring Cloud Bus + Spring Cloud Security + Spring Cloud Sleuth---在线
