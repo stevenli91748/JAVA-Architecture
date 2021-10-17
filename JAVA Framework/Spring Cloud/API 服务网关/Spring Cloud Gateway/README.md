@@ -97,7 +97,6 @@
         * 过滤器的应用开发方式
           * [基于自定义过滤器接口](https://weread.qq.com/web/reader/c9932ea07163ff6ac993e0dkd9d320f022ed9d4f495e456)
           * [基于内置的限流过滤器配置实现](https://weread.qq.com/web/reader/c9932ea07163ff6ac993e0dkd9d320f022ed9d4f495e456)
-        * 过滤器分7类---过滤器的实现类将近二十多个。总得来说，可以分为七类：Header、Parameter、Path、Status、Redirect跳转、Hytrix熔断和RateLimiter
     * 单点入口
     * 协议适配
     * 协议转发---在微服务的应用集群中会存在很多服务提供者和服务消费者，而这些服务提供者和服务消费者基本都是部署在企业内网中，没必要全部加Https进行调用，Spring Cloud Gateway对外部的请求协议是Https，对内部后端代理服务的请求协议是Http
