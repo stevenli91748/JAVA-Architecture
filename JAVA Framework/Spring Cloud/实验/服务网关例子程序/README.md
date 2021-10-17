@@ -54,12 +54,15 @@
       * [Gateway Filter 例子](https://weread.qq.com/web/reader/71d32370716443e271df020k6983268026f698d51a198ff)
       * [基于自定义过滤器接口](https://weread.qq.com/web/reader/c9932ea07163ff6ac993e0dkd9d320f022ed9d4f495e456)
       * [基于内置的限流过滤器配置实现](https://weread.qq.com/web/reader/c9932ea07163ff6ac993e0dkd9d320f022ed9d4f495e456)
-      * AddRequestHeader过滤器工厂例子
-      * AddResponseHeader过滤器例子
-      * AddRequestParameter过滤器例子
-      * RewritePath过滤器例子
-      * StripPrefix过滤器例子
-      * Hystrix过滤器例子
-      * Retry过滤器例子
+      * 内置过滤器
+        * [AddRequestHeader过滤器工厂例子](https://weread.qq.com/web/reader/2fe329c071e041322feb53dkc7432af0210c74d97b01b1c)
+        * AddResponseHeader过滤器例子
+        * [AddRequestParameter过滤器例子](https://weread.qq.com/web/reader/2fe329c071e041322feb53dkc7432af0210c74d97b01b1c)
+        * RewritePath过滤器例子
+        * StripPrefix过滤器例子
+        * Hystrix过滤器例子
+        * [RequestRateLimiter过滤器工厂](https://weread.qq.com/web/reader/2fe329c071e041322feb53dkc7432af0210c74d97b01b1c)
+        * [Retry过滤器例子](https://weread.qq.com/web/reader/2fe329c071e041322feb53dkc7432af0210c74d97b01b1c)
+      * 自定义过滤器接口
   * 协议转发
     * [Spring Cloud Gateway中Https的使用技巧---Spring Cloud Gateway将Https前端请求转发调用Http后端服务的问题](https://weread.qq.com/web/reader/71d32370716443e271df020k7f632b502707f6ffaa6bf2e)  
