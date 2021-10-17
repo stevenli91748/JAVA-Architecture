@@ -7,6 +7,7 @@
     * Spring Cloud Gateway整合Eureka例子
     * Spring Cloud Gateway整合Consul例子
     * Spring Cloud Gateway整合Nacos例子  
+    * [服务网关如何配合服务注册中心进行路由转发实例](https://weread.qq.com/web/reader/1223205071ccfab912296c2ke0032e0028be00da03b6659)
   * 整合Hystrix的断路器功能例子
   * [Spring Cloud Gateway集成Swagger例子](https://weread.qq.com/web/reader/71d32370716443e271df020k7f632b502707f6ffaa6bf2e)
 * 限流
@@ -53,6 +54,7 @@
       * Query路由断言工厂例子
       * RemoteAddr路由断言工厂例子
       * Weight路由断言工厂
+      * [Path 路由断言工厂](https://weread.qq.com/web/reader/1223205071ccfab912296c2k76d325c028076dc611d6d8c)
     * 过滤器（Filter）
       * [Global Filter](https://weread.qq.com/web/reader/71d32370716443e271df020k6983268026f698d51a198ff)
       * [Gateway Filter 例子](https://weread.qq.com/web/reader/71d32370716443e271df020k6983268026f698d51a198ff)
