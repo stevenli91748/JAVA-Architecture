@@ -32,7 +32,7 @@
 ---Spring Cloud微服务架构实战派.pdf
 
 * 认识微服务网关
-  * 认识SpringCloud Gateway---Spring Cloud Gateway旨在提供一种简单而有效的途径来转发请求，并为它们提供横切关注点，例如：安全性、监控/指标和弹性,Gateway网关的定义是网间连接器或协议转化器，其作用就是将两个不同通信协议的网络段连接到一起
+  * [认识SpringCloud Gateway](#认识SpringCloud-Gateway)---Spring Cloud Gateway旨在提供一种简单而有效的途径来转发请求，并为它们提供横切关注点，例如：安全性、监控/指标和弹性,Gateway网关的定义是网间连接器或协议转化器，其作用就是将两个不同通信协议的网络段连接到一起
   * [SprlngCloudGateway的工作流程](https://weread.qq.com/web/reader/71d32370716443e271df020kc9e32940268c9e1074f5bc6)
   * 比较Zuul与SpringCloud Gateway
     * [SpringCloud Gateway和ZUUL的区别1](https://weread.qq.com/web/reader/2fe329c071e041322feb53dkc7432af0210c74d97b01b1c)
@@ -139,12 +139,24 @@
 * [Spring Cloud Gateway整合Swagger](https://weread.qq.com/web/reader/71d32370716443e271df020k7f632b502707f6ffaa6bf2e)
 
 
+---
 
+# 目录
 
+# 认识SpringCloud Gateway
 
+Spring Cloud Gateway旨在提供一种简单而有效的途径来转发请求，并为它们提供横切关注点，例如：安全性、监控/指标和弹性, Gateway网关的定义是网间连接器或协议转化器，其作用就是将两个不同通信协议的网络段连接到一起。
 
+在Gateway中，需要Spring Boot和SpringWebFlux提供的基于Netty的运行环境，要使用Gateway，需要新建Gateway模块，注意，这里选择用JAR（即不要选择打成WAR包的形式）的方式创建模块，
+然后引入Maven依赖:     <artifactId> spring-cloud-starter-gateway</artifactId> 
+有了这个依赖，在默认的情况下，Gateway网关就会自动开启了，**如果不希望它自动开启，可以配置spring.cloud.gateway.enabled=false**
 
+这里需要注意的有两点。
 
+**● 因为Gateway依赖WebFlux，而WebFlux和Spring Web MVC的包冲突，所以项目再引入spring- boot-starter-web就会发生异常。
+  ● 其次，当前Gateway只能支持Netty容器，不支持其他容器，所以引入Tomcat或者Jetty等容器就会在运行期间出现意想不到的问题。**
+
+**所以在pom.xml中应该删除对spring-boot-starter-web和其他容器的依赖包。如果你创建模块时不小心选择了WAR打包方式，那么还需要删除IDE为你创建的ServletInitializer.java文件，这是一个被扫描的类，是依赖Servlet容器的，而这里使用的是Netty容器，没有Servlet容器，所以它的存在会引发错误**
 
 # 参考
 
