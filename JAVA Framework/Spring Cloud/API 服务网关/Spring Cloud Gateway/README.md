@@ -58,16 +58,17 @@
       * 断言（Predicate）---每个断言的入参都是Spring框架的ServerWebExchange对象类型。它允许开发者匹配来自HTTP请求的任何内容，例如URL、请求头或请求参数，当这些断言都返回true时，才执行这个路由，目前支持的方式有请求路径（Path）、请求查询（Query）、方法（Method）、请求标头（Header）。Spring Cloud Gateway中的断言函数允许开发者去定义匹配来自于Http Request中的任何信息，比如请求头和参数等 
         * [断言的开发既可以使用编码的方式实现，也可以使用配置的方式实现](https://weread.qq.com/web/reader/2fe329c071e041322feb53dkc7432af0210c74d97b01b1c)
         * 断言的分类 
-          * Header路由断言工厂---Header路由断言工厂用于根据配置的路由header信息进行断言匹配路由，匹配成功进行转发，否则不进行转发
-          * Cookie路由断言工厂---Cookie路由断言工厂会取两个参数——cookie名称对应的key和value。当请求中携带的cookie和Cookied断言工厂中配置的cookie一致，则路由匹配成功进行转发，否则匹配不成功
-          * After路由断言工厂---After Route Predicate Factory中会取一个UTC时间格式的时间参数，当请求进来的当前时间在配置的UTC时间之后，则会成功匹配进行转发，否则不能成功匹配。
+          * [Header路由断言工厂---Header路由断言工厂用于根据配置的路由header信息进行断言匹配路由，匹配成功进行转发，否则不进行转发 10.2.2](https://weread.qq.com/web/reader/1223205071ccfab912296c2kc8f3245027cc8ffe9a588b8)
+          * [Cookie路由断言工厂---Cookie路由断言工厂会取两个参数——cookie名称对应的key和value。当请求中携带的cookie和Cookied断言工厂中配置的cookie一致，则路由匹配成功进行转发，否则匹配不成功 10.2.3](https://weread.qq.com/web/reader/1223205071ccfab912296c2k3de32dd027d3def184ad06e)
+          * [After路由断言工厂---After Route Predicate Factory中会取一个UTC时间格式的时间参数，当请求进来的当前时间在配置的UTC时间之后，则会成功匹配进行转发，否则不能成功匹配 10.2.1](https://weread.qq.com/web/reader/1223205071ccfab912296c2k2023270027b202cb962a56f)
           * Before路由断言工厂---Before路由断言工厂会取一个UTC时间格式的时间参数，当请求进来的当前时间在路由断言工厂之前会成功匹配进行转发，否则不能成功匹配
           * Between路由断言工厂---Between路由断言工厂会取一个UTC时间格式的时间参数，当请求进来的当前时间在配置的UTC时间工厂之间会成功匹配进行转发，否则不能成功匹配
-          * Host路由断言工厂 ---Host路由断言工厂根据配置的Host，对请求中的Host进行断言处理，断言成功则进行路由转发，否则不转发
-          * Method路由断言工厂---Method路由断言工厂会根据路由信息配置的method对请求方法是Get或者Post等进行断言匹配，匹配成功则进行转发，否则处理失败
-          * Query路由断言工厂---Query路由断言工厂会从请求中获取两个参数，将请求中参数和Query断言路由中的配置进行匹配，比如http://localhost:8080/?foo=baz中的foo=baz和下面的r.query("foo", "baz")配置一致则进行转发，否则转发失败
+          * [Host路由断言工厂 ---Host路由断言工厂根据配置的Host，对请求中的Host进行断言处理，断言成功则进行路由转发，否则不转发 10.2.4](https://weread.qq.com/web/reader/1223205071ccfab912296c2k06932ec027e069059b7e512)
+          * [Method路由断言工厂---Method路由断言工厂会根据路由信息配置的method对请求方法是Get或者Post等进行断言匹配，匹配成功则进行转发，否则处理失败 10.2.5](https://weread.qq.com/web/reader/1223205071ccfab912296c2kec532f2027fec5decca5182)
+          * [Query路由断言工厂---Query路由断言工厂会从请求中获取两个参数，将请求中参数和Query断言路由中的配置进行匹配，比如http://localhost:8080/?foo=baz中的foo=baz和下面的r.query("foo", "baz")配置一致则进行转发，否则转发失败](https://weread.qq.com/web/reader/1223205071ccfab912296c2kd1f32250281d1f491a40045)
           * RemoteAddr路由断言工厂---RemoteAddr路由断言工厂配置一个IPv4或IPv6网段的字符串或者IP。当请求IP地址在网段之内或者和配置的IP相同，则表示匹配成功进行转发，否则不能转发
           * Weight路由断言工厂---一种按照权重路由的工厂。之前我们谈过，一个微服务可以由多个实例构成，实例的版本可以不同。例如，当前实例中存在旧版本（v1）和新版本（v2），相对来说，旧版本比较稳定，而新版本可能不太稳定，那么可以考虑先小规模使用新版本，待实践过后，再彻底地升级为新版本。可以考虑让用户的请求80%的概率路由到旧版本，而20%的概率路由到新版本
+          * [Path 路由断言工厂---路径路由断言工厂，当请求的路径和配置的请求路径相匹配时，则路由通过。该断言工厂需要配置一个参数——应用匹配路径，可以是一个spel表达式](https://weread.qq.com/web/reader/1223205071ccfab912296c2k76d325c028076dc611d6d8c)
       * 过滤器（Filter）----一个标准的Spring webFilter。Spring Cloud Gateway中的Filter分为两种类型的Filter，分别是Gateway Filter和Global Filter。使用特定工厂构造的SpringFrameworkGatewayFilter实例, 路由过滤器允许以某种方式修改请求进来的http请求或返回的http响应。路由过滤器主要作用于需要处理的特定路由
         * [Gateway Filter](https://weread.qq.com/web/reader/2fe329c071e041322feb53dkc7432af0210c74d97b01b1c)---局部过滤器则要实现GatewayFilter接口，可以对访问的URL过滤，进行横切处理（切面处理），应用场景包括超时、安全等
           * OrderedGatewayFilter：一个有序的网关过滤器
@@ -153,6 +154,7 @@
 ----（Sprng Cloud Alibaba）深入理解springcloud与实战
 
 * Spring Cloud Gateway整合注册中心---网关与服务注册与发现组件进行结合，通过serviceId转发到具体的服务实例。
+  * [服务网关如何配合服务注册中心进行路由转发实例](https://weread.qq.com/web/reader/1223205071ccfab912296c2ke0032e0028be00da03b6659)
 * Spring Cloud Gateway配置中心
 * Spring Cloud Gateway整合Hystrix断路器功能
 * [Spring Cloud Gateway整合Swagger](https://weread.qq.com/web/reader/71d32370716443e271df020k7f632b502707f6ffaa6bf2e)
