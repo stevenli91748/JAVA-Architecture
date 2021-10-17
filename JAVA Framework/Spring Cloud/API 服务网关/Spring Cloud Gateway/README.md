@@ -64,6 +64,7 @@
           * Method路由断言工厂---Method路由断言工厂会根据路由信息配置的method对请求方法是Get或者Post等进行断言匹配，匹配成功则进行转发，否则处理失败
           * Query路由断言工厂---Query路由断言工厂会从请求中获取两个参数，将请求中参数和Query断言路由中的配置进行匹配，比如http://localhost:8080/?foo=baz中的foo=baz和下面的r.query("foo", "baz")配置一致则进行转发，否则转发失败
           * RemoteAddr路由断言工厂---RemoteAddr路由断言工厂配置一个IPv4或IPv6网段的字符串或者IP。当请求IP地址在网段之内或者和配置的IP相同，则表示匹配成功进行转发，否则不能转发
+          * Weight路由断言工厂---一种按照权重路由的工厂。之前我们谈过，一个微服务可以由多个实例构成，实例的版本可以不同。例如，当前实例中存在旧版本（v1）和新版本（v2），相对来说，旧版本比较稳定，而新版本可能不太稳定，那么可以考虑先小规模使用新版本，待实践过后，再彻底地升级为新版本。可以考虑让用户的请求80%的概率路由到旧版本，而20%的概率路由到新版本
       * 过滤器（Filter）----一个标准的Spring webFilter。Spring Cloud Gateway中的Filter分为两种类型的Filter，分别是Gateway Filter和Global Filter。使用特定工厂构造的SpringFrameworkGatewayFilter实例, 路由过滤器允许以某种方式修改请求进来的http请求或返回的http响应。路由过滤器主要作用于需要处理的特定路由
         * Gateway Filter---Gateway Filter是从Web Filter中复制过来的，相当于一个Filter过滤器，可以对访问的URL过滤，进行横切处理（切面处理），应用场景包括超时、安全等
           * OrderedGatewayFilter：一个有序的网关过滤器
