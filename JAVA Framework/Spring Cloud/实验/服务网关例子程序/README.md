@@ -5,11 +5,29 @@
 * 整合 Spring Cloud 组件
   * 整合服务注册中心
     * Spring Cloud Gateway整合Eureka例子
-    * Spring Cloud Gateway整合Consul例子
-    * Spring Cloud Gateway整合Nacos例子  
+      * Spring Cloud Gateway整合单个Eureka例子
+      * Spring Cloud Gateway整合Eureka集群例子
+    * Spring Cloud Gateway整合单个Consul例子
+      * Spring Cloud Gateway整合Consul例子
+      * Spring Cloud Gateway整合Consul集群例子
+    * Spring Cloud Gateway整合alibaba Nacos例子  
+      * Spring Cloud Gateway整合alibaba Nacos例子
+      * Spring Cloud Gateway整合alibaba Nacos集群例子
     * [服务网关如何配合服务注册中心进行路由转发实例](https://weread.qq.com/web/reader/1223205071ccfab912296c2ke0032e0028be00da03b6659)
-  * 整合Hystrix的断路器功能例子
-  * [Spring Cloud Gateway集成Swagger例子](https://weread.qq.com/web/reader/71d32370716443e271df020k7f632b502707f6ffaa6bf2e)
+  * 整合配置中心
+  * 整合监控中心
+  * 整合日志中心
+  * 整合负载均衡
+    * Ribbon 
+    * Loadbalance
+  * 整合限流,降级，溶断
+    * Sentiel
+    *  
+    * 整合Hystrix的断路器功能例子
+  * 整合服务调用
+    * 整合Feign
+    * 整合OpenFeign 
+  * [Spring Cloud Gateway整合Swagger例子](https://weread.qq.com/web/reader/71d32370716443e271df020k7f632b502707f6ffaa6bf2e)
 * 限流
   * 限流的需求---在实际项目应用中对网关进行限流时，需要参考的因素比较多。可能会根据网络请求连接数、请求流量、CPU使用率等流控
     * 限制总并发数（比如数据库连接池、线程池）
