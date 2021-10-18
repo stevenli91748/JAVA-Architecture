@@ -1,12 +1,12 @@
 
 
- * [1 设置Eureka注册中心](#1-设置Eureka注册中心)
- * [2 设置Consul注册中心](#2-设置Consul注册中心)
- * [3 设置Spring Cloud Alibaba Nacos discovery注册中心](#3-设置Spring-Cloud-Alibaba-Nacos-注册中心)
+ * [1 Eureka注册中心](#1-Eureka注册中心)
+ * [2 Consul注册中心](#2-Consul注册中心)
+ * [3 Spring Cloud Alibaba Nacos discovery注册中心](#3-Spring-Cloud-Alibaba-Nacos-注册中心)
 
 ----
 
-# 1 设置Eureka注册中心
+# 1 Eureka注册中心
 
 * [Eureka 提供方 demo](https://blog.csdn.net/KinseyGeek/article/details/78597605)
 * [Eureka 消费端demo](https://blog.csdn.net/KinseyGeek/article/details/78597476)
@@ -14,5 +14,5 @@
 * [spring-cloud-eureka](https://github.com/ityouknow/spring-cloud-examples/tree/master/spring-cloud-eureka)：eureka server单机、双机、集群示例
 * [eureka-producer-consumer](https://github.com/ityouknow/spring-cloud-examples/tree/master/eureka-producer-consumer)：利用eureka实现服务提供与调用示例
 
-# 2 设置Consul注册中心
-# 3 设置Spring-Cloud-Alibaba-Nacos-注册中心
+# 2 Consul注册中心
+# 3 Spring-Cloud-Alibaba-Nacos-注册中心
