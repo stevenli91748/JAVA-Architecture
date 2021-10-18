@@ -11,12 +11,19 @@
       * Spring Cloud Gateway整合Consul例子
       * Spring Cloud Gateway整合Consul集群例子
     * Spring Cloud Gateway整合alibaba Nacos例子  
-      * Spring Cloud Gateway整合alibaba Nacos例子
-      * Spring Cloud Gateway整合alibaba Nacos集群例子
+      * Spring Cloud Gateway整合alibaba Nacos注册中心例子
+      * Spring Cloud Gateway整合alibaba Nacos注册中心集群例子
     * [服务网关如何配合服务注册中心进行路由转发实例](https://weread.qq.com/web/reader/1223205071ccfab912296c2ke0032e0028be00da03b6659)
   * 整合配置中心
+    * Spring Cloud Config
+    * Nacos配置中心 
   * 整合监控中心
+    * Spring Boot Admin
+    * Skywalking
+    * ZipKin +  Sleuth 
   * 整合日志中心
+    * ELK(Logstash采集 ---->ElasticSearch 存储----> Kibana 显示)
+    * ELK2(filebeat采集 ---> Kafka消息----> Logstash采集 ---->ElasticSearch存储  ----> Kibana显示) 
   * 整合负载均衡
     * Ribbon 
     * Loadbalance
