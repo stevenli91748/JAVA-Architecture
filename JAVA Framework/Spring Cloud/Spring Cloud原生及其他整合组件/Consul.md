@@ -19,6 +19,7 @@
   * [Eureka与Consul的区别](https://weread.qq.com/web/reader/f6732e8071dbddd6f674178k6f4322302126f4922f45dec)
 * [Consul的安装](https://weread.qq.com/web/reader/f6732e8071dbddd6f674178k6f4322302126f4922f45dec)
 * [Consul的常用命令](https://weread.qq.com/web/reader/f6732e8071dbddd6f674178k1f032c402131f0e3dad99f3)
+* [搭建Consul集群](https://weread.qq.com/web/reader/f6732e8071dbddd6f674178k98f3284021498f137082c2e)  
 
 
 # Consul的概念
