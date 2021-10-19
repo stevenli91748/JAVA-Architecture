@@ -6,7 +6,7 @@
 # [2021 Github上最热门的开源项目来了](https://www.jianshu.com/p/18935f5a0aef)
 # [Github上面有个Java Topic 项目排行榜](https://github.com/topics/java)
 # [GVP ( Gitee Most Valuable Project ) ---Gitee 综合评定出的优秀开源项目的展示平台](https://gitee.com/gvp)
-
+# [StackShare---可以查找到软件的流行率](https://stackshare.io/categories)
 
 
 
