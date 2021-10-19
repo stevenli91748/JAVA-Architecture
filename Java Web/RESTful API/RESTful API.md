@@ -6,6 +6,14 @@
 
 # [API网关面试知识点](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/Interview/apigate.md)
 
+
+# 在线书籍
+
+* [现代API: 通往架构师之门---2018  作者20年为北美18个行业50多家大型企业进行系统集成及API设计的实践经验](https://weread.qq.com/web/reader/b3f321407170d865b3f0e45)
+
+---
+
+
 [Spring Boot API Project Seed 是一个基于Spring Boot & MyBatis的种子项目，用于快速构建中小型API、RESTful API项目](https://github.com/lihengming/spring-boot-api-project-seed)|
 ---|
 
