@@ -63,6 +63,7 @@
         * [ Spring Cloud Gateway权重路由---Spring Cloud Gateway会根据权重路由规则，针对特定的服务，把95%的请求流量分发给服务的V1版本，把剩余5%的流量分发给服务的V2版本，进行权重路由](https://weread.qq.com/web/reader/71d32370716443e271df020k7f632b502707f6ffaa6bf2e)
     * [动态路由---前面章节介绍了Spring Cloud Gateway提供的配置路由规则的两种方法，但都是在Spring Cloud Gateway启动时将路由配置和规则加载到内存里，无法做到不重启网关就可以动态地对应路由的配置和规则进行增加、修改和删除](https://weread.qq.com/web/reader/71d32370716443e271df020k7f632b502707f6ffaa6bf2e)
       * [度量和动态更新路由(动态增加，删除路由) 9.6.2](https://weread.qq.com/web/reader/2fe329c071e041322feb53dkc7432af0210c74d97b01b1c) 
+      * [基于Redis实现SpringCloudGateway的动态管理](https://weread.qq.com/web/reader/74f32a4071fe268a74f714dka87322c014a87ff679a21ea)
     * 路由转发
       * 断言（Predicate）---每个断言的入参都是Spring框架的ServerWebExchange对象类型。它允许开发者匹配来自HTTP请求的任何内容，例如URL、请求头或请求参数，当这些断言都返回true时，才执行这个路由，目前支持的方式有请求路径（Path）、请求查询（Query）、方法（Method）、请求标头（Header）。Spring Cloud Gateway中的断言函数允许开发者去定义匹配来自于Http Request中的任何信息，比如请求头和参数等 
         * [断言的开发既可以使用编码的方式实现，也可以使用配置的方式实现](https://weread.qq.com/web/reader/2fe329c071e041322feb53dkc7432af0210c74d97b01b1c)
