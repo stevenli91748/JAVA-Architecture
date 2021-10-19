@@ -14,15 +14,39 @@
 
 
 # 目录
-* Consul的概念
+* [Consul的概念](#Consul的概念)
   * [微服务注册中心比较(ZooKeeper/Eureka/Consul/Nacos)](https://www.cnblogs.com/davidgu/p/14526467.html)
   * [Eureka与Consul的区别](https://weread.qq.com/web/reader/f6732e8071dbddd6f674178k6f4322302126f4922f45dec)
 * [Consul的安装](https://weread.qq.com/web/reader/f6732e8071dbddd6f674178k6f4322302126f4922f45dec)
 
 
+# Consul的概念
 
+Consul是一个服务网格（service mesh）解决方案，是一个分布式高可用的服务系统发现与配置工具、中间件，由HashiCorp公司研发。Consul以Go语言编写，用HTTP方式对外提供服务，支持多数据中心，支持K/V键值对存储，可以构建完整的服务网格
 
+**Consul主要功能如下**。
 
+（1）服务发现：服务可以通过HTTP方式找到其他依赖Consul的服务。
+
+（2）健康检查：检查服务是否正在正常响应。
+
+（3）K/V存储：提供了简易的HTTP接口满足用户的动态配置。
+
+（4）安全业务通信：生成和分发服务的TLS证书，以建立相互的TLS连接，允许服务相互通信。
+
+（5）多数据中心：支持多数据中心。不用构建额外的抽象层就能扩展到多个区域。
+
+**Consul主要特点如下。**
+
+（1）Consul提供了健康检查能力、K/V存储和多数据中心意识。Consul要求每个数据中心都有一组服务器，以及每个客户端上的一个代理，类似Sideecar。Consul代理允许大多数应用程序在不知情的情况下，通过配置文件执行服务注册，并通过DNS或负载均衡进行发现。
+
+（2）Consul提供了一致性保证，服务器使用RAFT协议，Consul提供的健康检查能力包括TCP、HTTP、Nagios/Sensu（网络监视工具）。
+
+（3）Consul的客户端节点依靠Gossip Based节点采样技术，即Gossip协议，通过采样技术进行健康检查。Consul主动发现并发送请求给当前的Consul Leader，即非集中式心跳，而集中性心跳将会成为可伸缩架构的障碍。
+
+（4）Consul提供了支持面向服务体系结构所需的工具包，包括服务发现、健康检查、服务锁定、K/V、多数据联合、事件系统和ACL。Consul试图将应用程序更改的内容降到最少，以避免通过SDK与本机进行集成。
+
+（5）Consul使用Raft算法保证一致性，比复杂的Paxos算法更直接。Zookeeper采用Paxos，而Etcd采用Raft。
 
 # 参考
 * [Spring Cloud Finchley版中Consul多实例注册的问题处理](http://blog.didispace.com/Spring-Cloud-Finchley-Consul-InstanceId/)
