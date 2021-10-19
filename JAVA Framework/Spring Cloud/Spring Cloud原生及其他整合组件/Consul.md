@@ -22,7 +22,7 @@
 
 # Consul的概念
 
-Consul是一个服务网格（service mesh）解决方案，是一个分布式高可用的服务系统发现与配置工具、中间件，由HashiCorp公司研发。Consul以Go语言编写，用HTTP方式对外提供服务，支持多数据中心，支持K/V键值对存储，可以构建完整的服务网格
+Consul是一个服务网格（service mesh）解决方案，是一个分布式高可用的服务系统发现与配置工具、中间件，由HashiCorp公司研发。Consul以Go语言编写，用HTTP方式对外提供服务，支持多数据中心，支持K/V键值对存储，可以构建完整的服务网格, **Consul注册中心是Linux系统中可直接运行的二进制文件**
 
 **Consul主要功能如下**。
 
