@@ -10,7 +10,7 @@
 # 在线书籍
 
 * [现代API: 通往架构师之门---2018  作者20年为北美18个行业50多家大型企业进行系统集成及API设计的实践经验](https://weread.qq.com/web/reader/b3f321407170d865b3f0e45)
-
+* [hand-on RESTFul API Design patterns and best practices](https://weread.qq.com/web/reader/21f32c20722ffb4121fa251)
 ---
 
 
