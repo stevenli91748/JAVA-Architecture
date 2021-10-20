@@ -11,7 +11,7 @@
 
 ## Feign概念
 
-在使用Spring Cloud开发微服务应用时，**各个服务提供者都是以HTTP接口的形式对外提供服务**，因此在服务消费者调用服务提供者时，底层通过HTTP Client的方式访问。当然我们可以使用JDK原生的URLConnection、Apache的HTTPClient、Netty的异步HTTP Client, Spring的RestTemplate去实现服务间的调用。但是最方便、最优雅的方式是通过Spring Cloud Open Feign进行服务间的调用。Spring Cloud对Feign进行了增强，使Feign支持Spring MVC的注解，并整合了Ribbon等，从而让Feign的使用更加方便
+在使用Spring Cloud开发微服务应用时，**各个服务提供者都是以HTTP接口的形式对外提供服务**，因此在服务消费者调用服务提供者时，底层通过HTTP Client的方式访问。当然我们可以使用JDK原生的**URLConnection、Apache的HTTPClient、Netty的异步HTTP Client, Spring的RestTemplate**去实现服务间的调用。但是最方便、最优雅的方式是通过**Spring Cloud Open Feign**进行服务间的调用。Spring Cloud对Feign进行了增强，使Feign支持Spring MVC的注解，并整合了Ribbon等，从而让Feign的使用更加方便
 
 在微服务架构中，业务都会被拆分成一个独立的服务，服务与服务的通讯是基于HTTP RESTful的。Spring Cloud有两种服务调用方式，一种是Ribbon+RestTemplate，另一种是Feign
 
