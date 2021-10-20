@@ -19,5 +19,5 @@
  * [通过代码获取Consul中的服务信息](https://weread.qq.com/web/reader/f6732e8071dbddd6f674178k3c5327902153c59dc0488e1)
  * [Spring Cloud操作Consul的K/V存储](https://weread.qq.com/web/reader/f6732e8071dbddd6f674178kb6d32b90216b6d767d2f0dc)
  * [通过Spring Boot，Spring Cloud Gateway构建基于Consul集群的微服务案例演示 ](https://www.jdon.com/53374)
-
+ * [Spring Cloud Consul入门案例](https://weread.qq.com/web/reader/71d32370716443e271df020k43e327b025143ec517d680b)
 # 3 Spring-Cloud-Alibaba-Nacos-注册中心
