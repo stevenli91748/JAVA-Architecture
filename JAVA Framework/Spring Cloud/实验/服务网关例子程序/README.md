@@ -9,6 +9,7 @@
       * Spring Cloud Gateway整合Eureka集群例子
     * Spring Cloud Gateway整合单个Consul例子
       * Spring Cloud Gateway整合Consul例子
+        * [Spring Cloud Gateway 注册到服务中心 Consul，代理服务中心的所有服务](https://juejin.cn/post/6844903945341501447)
       * Spring Cloud Gateway整合Consul集群例子
     * Spring Cloud Gateway整合alibaba Nacos例子  
       * Spring Cloud Gateway整合alibaba Nacos注册中心例子
