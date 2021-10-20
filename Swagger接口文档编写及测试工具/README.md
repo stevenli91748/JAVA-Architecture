@@ -14,6 +14,9 @@
 * [Spring Boot REST API Documentation with Swagger](https://www.javaguides.net/2021/06/spring-boot-rest-api-documentation-with-swagger.html)
 
 
+* [【实例】微服务集成Swagger](https://weread.qq.com/web/reader/f6732e8071dbddd6f674178)
+
+
 
 # 接口
 
