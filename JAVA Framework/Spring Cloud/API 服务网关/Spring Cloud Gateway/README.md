@@ -165,6 +165,7 @@
 
 * Spring Cloud Gateway整合注册中心---网关与服务注册与发现组件进行结合，通过serviceId转发到具体的服务实例。
   * [服务网关如何配合服务注册中心进行路由转发实例](https://weread.qq.com/web/reader/1223205071ccfab912296c2ke0032e0028be00da03b6659)
+  * [Spring Cloud Gateway 注册到服务中心 Consul，代理服务中心的所有服务](https://juejin.cn/post/6844903945341501447)
 * Spring Cloud Gateway配置中心
 * Spring Cloud Gateway整合Hystrix断路器功能
 * [Spring Cloud Gateway整合Swagger](https://weread.qq.com/web/reader/71d32370716443e271df020k7f632b502707f6ffaa6bf2e)
