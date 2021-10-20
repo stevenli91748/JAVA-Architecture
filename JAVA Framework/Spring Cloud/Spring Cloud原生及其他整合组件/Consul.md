@@ -20,6 +20,10 @@
   * [Consul注册中心的默认端口号](https://weread.qq.com/web/reader/f6732e8071dbddd6f674178k98f3284021498f137082c2e)
 * [Consul的安装](https://weread.qq.com/web/reader/f6732e8071dbddd6f674178k6f4322302126f4922f45dec)
 * [用Consul创建注册中心](https://weread.qq.com/web/reader/ca932ea071d7c798ca9a714k67c32d7022f67c6a1e7ce82)
+  * 1. 依赖引用
+  * 2. 连接设置
+  * [3. 统一配置管理](https://weread.qq.com/web/reader/ca932ea071d7c798ca9a714k67c32d7022f67c6a1e7ce82)
+  * 4. 注册激活 
 * [Consul启动](https://weread.qq.com/web/reader/71d32370716443e271df020kf03328d0250f033ab37c722)
 * [Consul UI页面展示](https://weread.qq.com/web/reader/71d32370716443e271df020kf03328d0250f033ab37c722)
 * [Consul的常用命令](https://weread.qq.com/web/reader/f6732e8071dbddd6f674178k1f032c402131f0e3dad99f3)
