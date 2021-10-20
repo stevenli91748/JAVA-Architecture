@@ -9,6 +9,8 @@
 
 * [2 微服务分布式架构基础与实战： 基于Spring Boot + Spring Cloud---2020 组件包括 Consul + Feign + Hystrix + Ribbon + 缓存 + 消息通信 + 微服务异步线程池 + 微服务数据持久化 +  微服务事务 + 微服务的缓存和分布式消息通信 + 微服务的任务调度和分布式任务调度 + 微服务的文件上传和分布式文件管理 + 展部署](https://weread.qq.com/web/reader/f6732e8071dbddd6f674178)
 
+* [5 Spring Cloud微服务架构实战---2020 本书以电商案例讲解微服务开发环境塔建，微服务治理，数据架构设计，展示层架构设计，分布式文件系统设计，高并发订单架构设计，移动端商城架构设计，管理后台架构设计，很好的微服务架构入门书, 是 “Spring Cloud与Docker高并发微服务架构设计实施” 的改编版, jenkis + FastDFS + MySQL分库分区 读写分离 主从同步 主主同步 + Docker部署 + SSO设计 +  MongoDB + Mybatis + RESTful API + Spring data JPA + Zipkin + ELK + Consul + ](https://weread.qq.com/web/reader/ca932ea071d7c798ca9a714)
+ 
 * [8 （先看） 重新定义Spring Cloud实战---2018 Spring Cloud中国社区倾力打造，多位行业专家推荐，作者来自原阿里、蚂蚁金服、京东金融等互联网企业, 一本实践与理论并重、广度与深度兼顾的Spring Cloud生产实践开发指南, 有3大特色: 足够广,有深度,重实践](https://weread.qq.com/web/reader/71d32370716443e271df020kc81322c012c81e728d9d180)
 
 
