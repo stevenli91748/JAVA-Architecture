@@ -19,11 +19,17 @@
   * [Eureka与Consul的区别](https://weread.qq.com/web/reader/f6732e8071dbddd6f674178k6f4322302126f4922f45dec)
   * [Consul注册中心的默认端口号](https://weread.qq.com/web/reader/f6732e8071dbddd6f674178k98f3284021498f137082c2e)
 * [Consul的安装](https://weread.qq.com/web/reader/f6732e8071dbddd6f674178k6f4322302126f4922f45dec)
+* [Consul启动](https://weread.qq.com/web/reader/71d32370716443e271df020kf03328d0250f033ab37c722)
+* [Consul UI页面展示](https://weread.qq.com/web/reader/71d32370716443e271df020kf03328d0250f033ab37c722)
 * [Consul的常用命令](https://weread.qq.com/web/reader/f6732e8071dbddd6f674178k1f032c402131f0e3dad99f3)
+* [Consul实用接口](https://weread.qq.com/web/reader/71d32370716443e271df020kf03328d0250f033ab37c722)
+  * 运维人员喜欢的命令行接口
+  * 开发人员喜欢的HTTP接口 
 * 案例
   * [搭建Consul集群案例](https://weread.qq.com/web/reader/f6732e8071dbddd6f674178k98f3284021498f137082c2e)  
   * [通过代码获取Consul中的服务信息](https://weread.qq.com/web/reader/f6732e8071dbddd6f674178k3c5327902153c59dc0488e1)
   * [Spring Cloud操作Consul的K/V存储](https://weread.qq.com/web/reader/f6732e8071dbddd6f674178kb6d32b90216b6d767d2f0dc)
+  * [通过Spring Boot，Spring Cloud Gateway构建基于Consul集群的微服务案例演示 ](https://www.jdon.com/53374)
 
 # Consul的概念
 
