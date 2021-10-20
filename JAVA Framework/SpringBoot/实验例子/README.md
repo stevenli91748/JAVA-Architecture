@@ -1,5 +1,5 @@
 
-# 1 基储原理例子实验
+# 1 基础原理例子实验
 
 * 项目创建
   * [使用Spring Initializer创建Web项目的步骤，并在browser中浏览它](https://www.yiibai.com/spring-boot/spring_boot_bootstrapping.html)
