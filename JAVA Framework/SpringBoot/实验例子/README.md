@@ -25,6 +25,7 @@
     * SpringBoot整合Oracle
     * SpringBoot整合Neo4j
     * SpringBoot整合Redis(单机版)
+      * [Spring Boot与Redis的集成](https://weread.qq.com/web/reader/69532da0717d3026695636ek6f4322302126f4922f45dec)
     * SpringBoot整合Redis集群
     * SpringBoot整合MongoDB   
   * SpringBoot整合Dubbo
@@ -37,6 +38,7 @@
   * SpringBoot整合Mail
   * SpringBoot集成Swagger2
   * SpringBoot整合ActiveMQ
+    * [Spring Boot与ActiveMQ的集成](https://weread.qq.com/web/reader/69532da0717d3026695636ek1f032c402131f0e3dad99f3) 
   * SpringBoot整合RabbitMQ
   * SpringBoot整合Kafka
   * SpringBoot整合Solr
@@ -68,7 +70,6 @@
   * SpringBoot响应式框架webflux例子实验
   * Spring Boot拦截器例子实验
   * Spring Boot Tomcat例子实验
-    *  
 # 6 SpringBoot缓存管理例子实验
 # 7 SpringBoot事务管理例子实验
 # 8 SpringBoot安全管理例子实验
