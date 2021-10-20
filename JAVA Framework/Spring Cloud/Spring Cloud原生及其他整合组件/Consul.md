@@ -27,7 +27,7 @@
   * 开发人员喜欢的HTTP接口 
 * [Spring Cloud Consul的模块介绍](https://weread.qq.com/web/reader/71d32370716443e271df020k68d3221025468d30a95982e)
   * Spring-cloud-consul-binder：对Consul的事件功能封装
-  * Spring-cloud-consul-config：对Consul的配置功能封装
+  * [Spring-cloud-consul-config：对Consul的配置功能封装](https://weread.qq.com/web/reader/71d32370716443e271df020k68d3221025468d30a95982e)
   * Spring-cloud-consul-core：基础配置和健康检查模块
   * [Spring-cloud-consul-discovery：对Consul服务治理功能封装](https://weread.qq.com/web/reader/71d32370716443e271df020k68d3221025468d30a95982e)
     * [Spring-cloud-consul-discovery服务注册](https://weread.qq.com/web/reader/71d32370716443e271df020k68d3221025468d30a95982e)
