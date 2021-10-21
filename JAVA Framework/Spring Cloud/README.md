@@ -74,7 +74,7 @@
 [SpringCloud常用注解总结](https://blog.csdn.net/u014666697/article/details/90756644)|
 ---|
 
-## 开发环境配置
+##  分布式  高并发 开发环境搭建
 
 * [疯狂创客圈 : 地表最强 开发环境： vagrant+java+springcloud+redis+zookeeper镜像下载(&制作详解)](https://www.cnblogs.com/crazymakercircle/p/14194688.html)
 * [疯狂创客圈 : 地表最强 热部署：java SpringBoot SpringCloud 热部署 热加载 热调试](https://www.cnblogs.com/crazymakercircle/p/12077373.html)
