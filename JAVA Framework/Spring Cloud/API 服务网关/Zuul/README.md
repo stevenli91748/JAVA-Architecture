@@ -6,6 +6,9 @@
 * [ZUUL概念](#ZUUL概念)
   * [Zuul和Nginx区别](#Zuul和Nginx区别)
   * [Zuul和Ribbon实现负载均衡区别](#Zuul和Ribbon实现负载均衡区别)
+  * [Zuul 详解，带视频---疯狂创客圈](https://www.cnblogs.com/crazymakercircle/p/12046484.html)
+  * [Zuul 修改 请求头、响应头 （死磕）---疯狂创客圈](https://www.cnblogs.com/crazymakercircle/p/12037587.html)
+  * [Zuul Swagger 整合---疯狂创客圈](https://www.cnblogs.com/crazymakercircle/p/12046131.html)
 * ZUUL具备的功能
   * 认证与鉴权
   * 压力控制
