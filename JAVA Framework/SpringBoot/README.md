@@ -24,8 +24,23 @@
 * [10 Spring Boot + Vue全栈开发实战---2018 是一本难得的好书 各种整合的例子](https://weread.qq.com/web/reader/c1f3219071e52576c1fb8d9kc81322c012c81e728d9d180)
 * [11 Spring Boot开发实战---2018 基于Kotlin 来 用Spring Boot 开发企业级应用 非常好的书](https://weread.qq.com/web/reader/a6d32030715dbcb6a6d9015)
 * [12 Spring Boot + Spring Cloud + Vue + Element项目实战： 手把手教你开发权限管理系统---2019](https://weread.qq.com/web/reader/9593218071950312959b681)
-* [Spring Boot 从入门到实战---2021 Spring Boot框架基础，以及IoC与AOP原理；Spring MVC知识；Spring Boot搭建与配置；Spring Boot数据访问，包括MySQL、Redis和MongoDB等；配置中心与服务发现，重点讲解Nacos等中间件；服务限流与降级，包括Sentinel等；全链路追踪系统；微服务监控，讲解了Spring Boot Actuator；Spring Cloud Gateway提供了API网关相关断言；Spring Boot测试与部署；Spring Boot微服务开发和Spring WebFlux实战开发，全面的展示了微服务开发过程](https://weread.qq.com/web/reader/369321d0725d0bc1369c67e)
-* [从企业级开发到云原生微服务： Spring Boot实战---2019](https://weread.qq.com/web/reader/c183258072043959c1828a9kc81322c012c81e728d9d180)
+* [13 Spring Boot 从入门到实战---2021 Spring Boot框架基础，以及IoC与AOP原理；Spring MVC知识；Spring Boot搭建与配置；Spring Boot数据访问，包括MySQL、Redis和MongoDB等；配置中心与服务发现，重点讲解Nacos等中间件；服务限流与降级，包括Sentinel等；全链路追踪系统；微服务监控，讲解了Spring Boot Actuator；Spring Cloud Gateway提供了API网关相关断言；Spring Boot测试与部署；Spring Boot微服务开发和Spring WebFlux实战开发，全面的展示了微服务开发过程](https://weread.qq.com/web/reader/369321d0725d0bc1369c67e)
+* [14 从企业级开发到云原生微服务： Spring Boot实战---2019](https://weread.qq.com/web/reader/c183258072043959c1828a9kc81322c012c81e728d9d180)
+
+* [18 (疯狂创客圈) Spring Cloud Nginx高并发核心编程 ---2020 从动态代理模式、Reactor模式、三大限流策略等知识入手，深入浅出地剖析Spring Cloud+Nginx系统架构的核心原理以及Web高并发开发,并结合秒杀场景实现Spring Cloud秒杀、Spring Cloud+Nginx Lua秒杀 ](https://weread.qq.com/web/reader/a2032080720a3143a204cce)
+  * [18.1 阅读"Spring Cloud Nginx高并发核心编程"之前，建议拥有的前置知识](https://www.cnblogs.com/crazymakercircle/p/9904544.html)
+
+* [19 (疯狂创客圈) Netty Zookeeper Redis 高并发实战](https://weread.qq.com/web/reader/1e732510718f63a11e7dee2)
+  * [19.1 《Netty  Redis  Zookeeper 高并发实战》随书源码、说明](https://www.cnblogs.com/crazymakercircle/p/9904544.html)
+
+* [20 (疯狂创客圈) Java高并发核心编程 (卷1)](https://weread.qq.com/web/reader/e6d323b0723b6029e6d1c55) 
+  * [20.1 《Java高并发核心编程 (卷1)》随书源码、说明](https://www.cnblogs.com/crazymakercircle/p/9904544.html) 
+
+* [21 (疯狂创客圈) Java高并发核心编程 (卷2)](https://weread.qq.com/web/reader/9b93254072456ac19b9a176)
+  * [21.1 《Java高并发核心编程 (卷2)》随书源码、说明](https://www.cnblogs.com/crazymakercircle/p/9904544.html) 
+
+
+
 ## 注解
 [Spring Core Annotations](https://www.javaguides.net/2018/10/15-spring-core-annotations.html)|[Spring MVC Annotations with Examples](https://www.javaguides.net/2018/11/spring-web-mvc-annotations.html)|[Spring Boot Annotations](https://www.javaguides.net/2018/10/spring-boot-annotations.html)|[Spring Scheduling Annotations](https://www.javaguides.net/2018/10/spring-scheduling-annotations.html)|
 ---|---|---|---|
