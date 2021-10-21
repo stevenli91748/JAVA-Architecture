@@ -74,6 +74,27 @@
 [SpringCloud常用注解总结](https://blog.csdn.net/u014666697/article/details/90756644)|
 ---|
 
+## 开发环境配置
+
+* [疯狂创客圈 : 地表最强 开发环境： vagrant+java+springcloud+redis+zookeeper镜像下载(&制作详解)](https://www.cnblogs.com/crazymakercircle/p/14194688.html)
+* [疯狂创客圈 : 地表最强 热部署：java SpringBoot SpringCloud 热部署 热加载 热调试](https://www.cnblogs.com/crazymakercircle/p/12077373.html)
+* [疯狂创客圈 : 地表最强 发请求工具（再见吧， PostMan ）：IDEA HTTP Client（史上最全）](https://www.cnblogs.com/crazymakercircle/p/14317222.html)
+* [疯狂创客圈 : 一张价值10W的架构师知识图谱（程序员必备、架构师必备）](https://www.cnblogs.com/crazymakercircle/p/14326975.html)
+* [centos mysql 笔记（内含vagrant mysql 镜像）](https://www.cnblogs.com/crazymakercircle/p/14196707.html)
+* [kafka springboot (或 springcloud ) 整合](https://www.cnblogs.com/crazymakercircle/p/14050681.html)
+* [linux openresty 安装（图文死磕）](https://www.cnblogs.com/crazymakercircle/p/12115651.html)
+* [Windows Redis 安装（带视频）](https://www.cnblogs.com/crazymakercircle/p/11973314.html)
+* [Linux Redis 安装（带视频）](https://www.cnblogs.com/crazymakercircle/p/11985983.html)
+* [Linux Redis 集群架构 （史上最全）](https://www.cnblogs.com/crazymakercircle/p/14282108.html)
+* [Linux Zookeeper 安装, 带视频](https://www.cnblogs.com/crazymakercircle/p/12006500.html)
+* [Linux ZooKeeper 客户端: GUI+命令行（史上最全）](https://www.cnblogs.com/crazymakercircle/p/14613474.html)
+* [RabbitMQ 离线安装（带视频）](https://www.cnblogs.com/crazymakercircle/p/11992763.html)
+* [RocketMQ 原理 - 部署 - 入门 （图解）](https://www.cnblogs.com/crazymakercircle/p/14012420.html)
+* []()
+* []()
+* []()
+
+
 ### 博客
 
 [极客教程---提供最全面最通俗易懂的IT技术教程，包括基础教程和高级教程](https://geek-docs.com/)|[Spring Cloud 学习资料汇总](http://www.ityouknow.com/springcloud/2016/12/30/springcloud-collect.html)|
@@ -105,12 +126,6 @@
 ---|---|
 
 
-## 开发环境配置
-
-* [疯狂创客圈 : 地表最强 开发环境： vagrant+java+springcloud+redis+zookeeper镜像下载(&制作详解)](https://www.cnblogs.com/crazymakercircle/p/14194688.html)
-* [疯狂创客圈 : 地表最强 热部署：java SpringBoot SpringCloud 热部署 热加载 热调试](https://www.cnblogs.com/crazymakercircle/p/12077373.html)
-* [疯狂创客圈 : 地表最强 发请求工具（再见吧， PostMan ）：IDEA HTTP Client（史上最全）](https://www.cnblogs.com/crazymakercircle/p/14317222.html)
-* [疯狂创客圈 : 一张价值10W的架构师知识图谱（程序员必备、架构师必备）](https://www.cnblogs.com/crazymakercircle/p/14326975.html)
 
 ## SpringCloud版本依赖
 
