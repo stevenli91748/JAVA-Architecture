@@ -104,6 +104,14 @@
 [互联网应用开发平台综合技术入门指南](https://www.kancloud.cn/fang2099/rayplatform/2109037)|[Yasin Shaw---一线互联网公司，挺好](https://yasinshaw.com/)|
 ---|---|
 
+
+## 开发环境配置
+
+* [疯狂创客圈 : 地表最强 开发环境： vagrant+java+springcloud+redis+zookeeper镜像下载(&制作详解)](https://www.cnblogs.com/crazymakercircle/p/14194688.html)
+* [疯狂创客圈 : 地表最强 热部署：java SpringBoot SpringCloud 热部署 热加载 热调试](https://www.cnblogs.com/crazymakercircle/p/12077373.html)
+* [疯狂创客圈 : 地表最强 发请求工具（再见吧， PostMan ）：IDEA HTTP Client（史上最全）](https://www.cnblogs.com/crazymakercircle/p/14317222.html)
+* [疯狂创客圈 : 一张价值10W的架构师知识图谱（程序员必备、架构师必备）](https://www.cnblogs.com/crazymakercircle/p/14326975.html)
+
 ## SpringCloud版本依赖
 
 [SpringBoot与SpringCloud的版本对应详细版](https://blog.csdn.net/qq32933432/article/details/89375630)|[SpringCloud各个版本对应最优的SpringBoot版本](https://www.kancloud.cn/hanxt/springcloud/1599296)|[Spring Cloud组件的选型](https://www.kancloud.cn/hanxt/springcloud/1599297)|
@@ -114,6 +122,8 @@
 
 [Spring boot版本与Spring cloud对应关系](https://www.kancloud.cn/owenwangwen/open-capacity-platform/1329250)|[spring cloud 与spring cloud alibaba的关系](https://www.kancloud.cn/owenwangwen/open-capacity-platform/1329250)|
 ---|---|
+
+
 
 
 ---
