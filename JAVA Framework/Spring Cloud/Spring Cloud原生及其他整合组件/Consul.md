@@ -23,7 +23,9 @@
   * [Eureka与Consul的区别](https://weread.qq.com/web/reader/f6732e8071dbddd6f674178k6f4322302126f4922f45dec)
   * [Consul注册中心的默认端口号](https://weread.qq.com/web/reader/f6732e8071dbddd6f674178k98f3284021498f137082c2e)
 * [Consul的安装](https://weread.qq.com/web/reader/f6732e8071dbddd6f674178k6f4322302126f4922f45dec)
-* [用Consul创建注册中心](https://weread.qq.com/web/reader/ca932ea071d7c798ca9a714k67c32d7022f67c6a1e7ce82)
+* [使用Spring Cloud Consul Config创建服务配置中心](https://weread.qq.com/web/reader/1223205071ccfab912296c2k1d7328e029a1d7f7abc1af1)
+  * [动态刷新配置---在使用Spring Cloud Config作为配置中心时，可以使用Spring Cloud Config Bus动态刷新配置](https://weread.qq.com/web/reader/1223205071ccfab912296c2k2a7320a029b2a79ea27c063) 
+* [使用Spring Cloud Consul创建注册中心](https://weread.qq.com/web/reader/ca932ea071d7c798ca9a714k67c32d7022f67c6a1e7ce82)
   * 1. 依赖引用
   * 2. 连接设置
   * [3. 统一配置管理](https://weread.qq.com/web/reader/ca932ea071d7c798ca9a714k67c32d7022f67c6a1e7ce82)
