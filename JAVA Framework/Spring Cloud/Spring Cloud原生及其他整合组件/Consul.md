@@ -28,10 +28,10 @@
   * [动态刷新配置---在使用Spring Cloud Config作为配置中心时，可以使用Spring Cloud Config Bus动态刷新配置](https://weread.qq.com/web/reader/1223205071ccfab912296c2k2a7320a029b2a79ea27c063) 
 * 创建注册中心
   * [使用Spring Cloud Consul创建注册中心例子1](https://weread.qq.com/web/reader/ca932ea071d7c798ca9a714k67c32d7022f67c6a1e7ce82) 
-    * 1. 依赖引用
-    * 2. 连接设置
-    * [3. 统一配置管理](https://weread.qq.com/web/reader/ca932ea071d7c798ca9a714k67c32d7022f67c6a1e7ce82)
-    * 4. 注册激活 
+    * 1 依赖引用
+    * 2 连接设置
+    * [3 统一配置管理](https://weread.qq.com/web/reader/ca932ea071d7c798ca9a714k67c32d7022f67c6a1e7ce82)
+    * 4 注册激活 
   * [使用Spring Cloud Consul创建注册中心例子2](https://weread.qq.com/web/reader/1c632610725a69631c6c26fk3c5327902153c59dc0488e1)
 * [Consul启动](https://weread.qq.com/web/reader/71d32370716443e271df020kf03328d0250f033ab37c722)
 * [Consul UI页面展示](https://weread.qq.com/web/reader/71d32370716443e271df020kf03328d0250f033ab37c722)
