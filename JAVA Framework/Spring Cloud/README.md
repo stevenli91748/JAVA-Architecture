@@ -341,7 +341,9 @@
     * Spring Cloud Function 与 Spring Cloud Task 
 * [微服务康检查和服务跟踪--- spring cloud 实战](https://weread.qq.com/web/reader/a1132af07199a64ca1167d3k66f3299023a66f041e16858)
   * 通过Spring Boot Admin监控微服务
+    * [微服务的监控——Spring Boot Admin](https://weread.qq.com/web/reader/2fe329c071e041322feb53dk1f032c402131f0e3dad99f3) 
   * 通过Sleuth跟踪服务调用链路
+    * [Spring Cloud Sleuth全链路追踪](https://weread.qq.com/web/reader/2fe329c071e041322feb53dk6f4322302126f4922f45dec) 
   * 整合 ZipKin查询和分析日志
 * 微服务的日志与监控
 * 微服务之缓存---Spring Cloud微服务全栈技术与案例解析.pdf
