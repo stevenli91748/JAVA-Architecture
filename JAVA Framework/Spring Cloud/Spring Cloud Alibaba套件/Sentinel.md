@@ -2,7 +2,7 @@
 
 # 目录
 ### Sentinel概念
-    * [sentinel （史上最全+入门教程）](https://www.cnblogs.com/crazymakercircle/p/14285001.html)
+* [sentinel （史上最全+入门教程）](https://www.cnblogs.com/crazymakercircle/p/14285001.html)
 
 
 * [阿里开源的限流神器 Sentinel，轻松搞定接口限流！](https://www.jianshu.com/p/8f2ac0f83588)
