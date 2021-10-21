@@ -384,6 +384,7 @@
     * Spring Cloud Function 与 Spring Cloud Stream
     * Spring Cloud Function 与 Spring Cloud Task 
 * [微服务康检查和服务跟踪--- spring cloud 实战](https://weread.qq.com/web/reader/a1132af07199a64ca1167d3k66f3299023a66f041e16858)
+  * [千锋大数据项目实战-某头条亿级流量采集与监控](https://www.bilibili.com/video/BV1154y1H7Y9/) 
   * 通过Spring Boot Admin监控微服务
     * [微服务的监控——Spring Boot Admin](https://weread.qq.com/web/reader/2fe329c071e041322feb53dk1f032c402131f0e3dad99f3) 
   * 通过Sleuth跟踪服务调用链路
