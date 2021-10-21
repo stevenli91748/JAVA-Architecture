@@ -337,9 +337,9 @@
   * 灰度发布
 * 4 微服务容错---微服务的高级主题
   * CircuitBreaker
-  * Sentinel
+  * [Sentinel](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%20Alibaba%E5%A5%97%E4%BB%B6/Sentinel.md)
   * Hystrix
-  * Resilience4J
+  * [Resilience4J](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%E5%8E%9F%E7%94%9F%E5%8F%8A%E5%85%B6%E4%BB%96%E6%95%B4%E5%90%88%E7%BB%84%E4%BB%B6/Resilience4j/README.md)
 * 5 微服务链路追踪
   * Cat
   * Sleuth  + Zipkin整合
@@ -356,10 +356,10 @@
 * 6 分布式消息驱动
   * RocketMQ
   * RabbitMQ
-  * Spring Cloud Stream
+  * [Spring Cloud Stream](https://weread.qq.com/web/reader/7d332ce0715dbcba7d3a09dk7f33291023d7f39f8317e0b)
   * Apache Kafka
 * SMS 短信 
-* Seata 分布式事务
+* [Seata 分布式事务](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%20Alibaba%E5%A5%97%E4%BB%B6/Seata.md)
 * 微服务的高级主题---Spring生态消息驱动
   * Spring与消息
   * Spring Integration
