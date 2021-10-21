@@ -16,7 +16,7 @@
       * 支持路径重写。
     * 单点入口
     * 熔断
-    * 限流
+    * [限流](https://www.cnblogs.com/crazymakercircle/p/15187184.html)
     * 安全认证
     * 日志监控
     * 集成 Spring Cloud 服务发现功能；
