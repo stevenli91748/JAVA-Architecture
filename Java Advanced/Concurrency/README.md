@@ -59,7 +59,20 @@
 [Swoole 从入门到实战教程---高并发实战演示](https://laravelacademy.org/books/swoole-tutorial)|
 ---|
 
+# 疯狂创客圈
+###  JUC并发包
+* [ CyclicBarrier 使用&核心原理 图解   ](https://www.cnblogs.com/crazymakercircle/p/13906379.html)
+* [countDownLatch 使用&核心原理 图解](https://www.cnblogs.com/crazymakercircle/p/13906922.html)
+* [Semaphore 使用&核心原理 图解](https://www.cnblogs.com/crazymakercircle/p/13907012.html)
+* [跳表 核心原理 图解](https://www.cnblogs.com/crazymakercircle/p/13925511.html)
+* [ConcurrentSkipListMap - 秒懂](https://www.cnblogs.com/crazymakercircle/p/13928386.html)
+* [ConcurrentSkipListSet - 秒懂](https://www.cnblogs.com/crazymakercircle/p/13928504.html)
 
+###  无锁编程 高并发框架
+
+* [伪共享 （图解）](https://www.cnblogs.com/crazymakercircle/p/13909102.html)
+* [disruptor （史上最全）](https://www.cnblogs.com/crazymakercircle/p/13909235.html)
+* [Akka 框架的原理和入门实例](https://www.cnblogs.com/crazymakercircle/p/13910553.html)
 
 # 目录
 * [并发学习路线](#并发学习路线)
