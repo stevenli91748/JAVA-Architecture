@@ -256,6 +256,7 @@
 
 # 目录
 * 1 微服务服务治理
+  * [注册中心的设计与实现](https://github.com/aCoder2013/blog/issues/32) 
   * 微服务注册中心 
     * Eureka---注册中心
       *  启动 EurekaDjscoveryProvider进行服务注册
