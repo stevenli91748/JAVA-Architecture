@@ -5,6 +5,13 @@
 [线程与内存交互操作](https://www.cnblogs.com/hongwz/p/5948308.html)|[一文彻底搞懂“内存管理](https://stor.51cto.com/art/202106/668928.htm)|[内存管理设计精要](https://draveness.me/system-design-memory-management/)|
 ---|---|---|
 
+# 疯狂创客圈
+
+* [内存泄漏 内存溢出 （史上最全）](https://www.cnblogs.com/crazymakercircle/p/14389201.html)
+* [JVM 内存溢出 实战 （史上最全）](https://www.cnblogs.com/crazymakercircle/p/14389389.html)
+
+
+
 # 目录
 
 # 1 内存分配
