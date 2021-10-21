@@ -19,7 +19,8 @@
 
 # 目录
 * [Consul的概念](#Consul的概念)
-  * [Consul的原理](https://weread.qq.com/web/reader/1223205071ccfab912296c2ka5e327b0292a5e001323dfc) 
+  * [Consul的原理1](https://weread.qq.com/web/reader/1223205071ccfab912296c2ka5e327b0292a5e001323dfc) 
+  * [Consul原理2](https://weread.qq.com/web/reader/1c632610725a69631c6c26fk3c5327902153c59dc0488e1)
   * [微服务注册中心比较(ZooKeeper/Eureka/Consul/Nacos)](https://www.cnblogs.com/davidgu/p/14526467.html)
   * [Eureka与Consul的区别](https://weread.qq.com/web/reader/f6732e8071dbddd6f674178k6f4322302126f4922f45dec)
   * [Consul注册中心的默认端口号](https://weread.qq.com/web/reader/f6732e8071dbddd6f674178k98f3284021498f137082c2e)
