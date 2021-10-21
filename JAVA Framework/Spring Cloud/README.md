@@ -93,6 +93,8 @@
 * [疯狂创客圈 : 地表最强 热部署：java SpringBoot SpringCloud 热部署 热加载 热调试](https://www.cnblogs.com/crazymakercircle/p/12077373.html)
 * [疯狂创客圈 : 地表最强 发请求工具（再见吧， PostMan ）：IDEA HTTP Client（史上最全）](https://www.cnblogs.com/crazymakercircle/p/14317222.html)
 * [疯狂创客圈 : 一张价值10W的架构师知识图谱（程序员必备、架构师必备）](https://www.cnblogs.com/crazymakercircle/p/14326975.html)
+* [疯狂创客圈 : Springcloud 配置 | 史上最全,一文全懂](https://www.cnblogs.com/crazymakercircle/p/11674597.html)
+* [疯狂创客圈 : Springcloud 中 SpringBoot 配置全集 （收藏版）](https://www.cnblogs.com/crazymakercircle/p/11706764.html)
 * [疯狂创客圈 : centos mysql 笔记（内含vagrant mysql 镜像）](https://www.cnblogs.com/crazymakercircle/p/14196707.html)
 * [疯狂创客圈 : kafka springboot (或 springcloud ) 整合](https://www.cnblogs.com/crazymakercircle/p/14050681.html)
 * [疯狂创客圈 : linux openresty 安装（图文死磕）](https://www.cnblogs.com/crazymakercircle/p/12115651.html)
