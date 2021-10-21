@@ -28,7 +28,7 @@
 
 * [6 Spring Cloud Alibaba微服务原理与实战---2020 组件包括 Nacos + Sentinel + RocketMQ + Seata + Spring Cloud Gateway + Dubbo + Zookeeper , 采用 “场境->需求->解决方案->应用->原理” 高效技术学习模型  ](https://weread.qq.com/web/reader/0f132410811e3ac57g011a6akc81322c012c81e728d9d180)
 
-* [7 Spring Cloud Nginx高并发核心编程---2020 从动态代理模式、Reactor模式、三大限流策略等知识入手，深入浅出地剖析Spring Cloud+Nginx系统架构的核心原理以及Web高并发开发,并结合秒杀场景实现Spring Cloud秒杀、Spring Cloud+Nginx Lua秒杀 ](https://weread.qq.com/web/reader/a2032080720a3143a204cce)
+* [7 (疯狂创客圈) Spring Cloud Nginx高并发核心编程 ---2020 从动态代理模式、Reactor模式、三大限流策略等知识入手，深入浅出地剖析Spring Cloud+Nginx系统架构的核心原理以及Web高并发开发,并结合秒杀场景实现Spring Cloud秒杀、Spring Cloud+Nginx Lua秒杀 ](https://weread.qq.com/web/reader/a2032080720a3143a204cce)
   * [7.1 阅读"Spring Cloud Nginx高并发核心编程"之前，建议拥有的前置知识](https://www.cnblogs.com/crazymakercircle/p/9904544.html)
   
 * [8 （先看） 重新定义Spring Cloud实战---2018 Spring Cloud中国社区倾力打造，多位行业专家推荐，作者来自原阿里、蚂蚁金服、京东金融等互联网企业, 一本实践与理论并重、广度与深度兼顾的Spring Cloud生产实践开发指南, 有3大特色: 足够广,有深度,重实践](https://weread.qq.com/web/reader/71d32370716443e271df020kc81322c012c81e728d9d180)
