@@ -16,7 +16,7 @@
       * 支持路径重写。
     * 单点入口
     * 熔断
-    * [限流](https://www.cnblogs.com/crazymakercircle/p/15187184.html)
+    * [限流](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/%E9%99%90%E6%B5%81/README.md)
     * 安全认证
     * 日志监控
     * 集成 Spring Cloud 服务发现功能；
