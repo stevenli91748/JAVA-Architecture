@@ -90,9 +90,11 @@
 * [Linux ZooKeeper 客户端: GUI+命令行（史上最全）](https://www.cnblogs.com/crazymakercircle/p/14613474.html)
 * [RabbitMQ 离线安装（带视频）](https://www.cnblogs.com/crazymakercircle/p/11992763.html)
 * [RocketMQ 原理 - 部署 - 入门 （图解）](https://www.cnblogs.com/crazymakercircle/p/14012420.html)
-* []()
-* []()
-* []()
+* [ElasticSearch 安装, 带视频](https://www.cnblogs.com/crazymakercircle/p/12001292.html)
+* [Eureka 入门，带视频](https://www.cnblogs.com/crazymakercircle/p/12043538.html)
+* [springcloud Config 入门，带视频](https://www.cnblogs.com/crazymakercircle/p/12043604.html)
+* [SpringCloud脚手架打包与启动](https://www.cnblogs.com/crazymakercircle/p/12041568.html)
+* [linux 开机自启 假死自启 （史上最全）](https://www.cnblogs.com/crazymakercircle/p/14022322.html)
 
 
 ### 博客
