@@ -28,9 +28,8 @@
 
 * [6 Spring Cloud Alibaba微服务原理与实战---2020 组件包括 Nacos + Sentinel + RocketMQ + Seata + Spring Cloud Gateway + Dubbo + Zookeeper , 采用 “场境->需求->解决方案->应用->原理” 高效技术学习模型  ](https://weread.qq.com/web/reader/0f132410811e3ac57g011a6akc81322c012c81e728d9d180)
 
-* [7 (疯狂创客圈) Spring Cloud Nginx高并发核心编程 ---2020 从动态代理模式、Reactor模式、三大限流策略等知识入手，深入浅出地剖析Spring Cloud+Nginx系统架构的核心原理以及Web高并发开发,并结合秒杀场景实现Spring Cloud秒杀、Spring Cloud+Nginx Lua秒杀 ](https://weread.qq.com/web/reader/a2032080720a3143a204cce)
-  * [7.1 阅读"Spring Cloud Nginx高并发核心编程"之前，建议拥有的前置知识](https://www.cnblogs.com/crazymakercircle/p/9904544.html)
-  
+* [7 ]()
+
 * [8 （先看） 重新定义Spring Cloud实战---2018 Spring Cloud中国社区倾力打造，多位行业专家推荐，作者来自原阿里、蚂蚁金服、京东金融等互联网企业, 一本实践与理论并重、广度与深度兼顾的Spring Cloud生产实践开发指南, 有3大特色: 足够广,有深度,重实践](https://weread.qq.com/web/reader/71d32370716443e271df020kc81322c012c81e728d9d180)
 
 * [9 Spring Cloud微服务和分布式系统实践---2020 组件包括服务注册和服务发现（Eureka）、服务调用（Ribbon和OpenFeign）、断路器（Hystrix和Resilience4j）、网关（Zuul和Spring Cloud Gateway）、配置（Config）、全链路追踪（Sleuth）、微服务的监控（Admin）,分布式系统方面主要讲解分布式数据库、分布式缓存、分布式会话和分布式权限以及发号机制,远程过程调用， 微服务设计和高并发等](https://weread.qq.com/web/reader/2fe329c071e041322feb53d)
@@ -50,7 +49,20 @@
 * [16 高可用可伸缩微服务架构： 基于 Dubbo + Spring Cloud + Service Mesh + istio ，微服务邻域驱动设计， Dubbo实践， SpringBoot + Spring Cloud实践, 微服务稳定性的常用手段，事务一致性，百亿流量微服务网关的设计，微服务双活体系的构建 , 微服务监控实战](https://weread.qq.com/web/reader/d9e327a07188b377d9eb7dakc81322c012c81e728d9d180)
  
  * [17 Spring Cloud 实战--- SpringCloud的各种整合: Spring Data + Eureka整合 + Ribbon整合 + ZUUL +  Hystrix整合 + Config + Zipkin + 微服务健康检查与服务跟踪 + 消息机制与消息驱动框架 ](https://weread.qq.com/web/reader/a1132af07199a64ca1167d3)
- 
+
+* [18 (疯狂创客圈) Spring Cloud Nginx高并发核心编程 ---2020 从动态代理模式、Reactor模式、三大限流策略等知识入手，深入浅出地剖析Spring Cloud+Nginx系统架构的核心原理以及Web高并发开发,并结合秒杀场景实现Spring Cloud秒杀、Spring Cloud+Nginx Lua秒杀 ](https://weread.qq.com/web/reader/a2032080720a3143a204cce)
+  * [18.1 阅读"Spring Cloud Nginx高并发核心编程"之前，建议拥有的前置知识](https://www.cnblogs.com/crazymakercircle/p/9904544.html)
+
+* [19 (疯狂创客圈) Netty Zookeeper Redis 高并发实战](https://weread.qq.com/web/reader/1e732510718f63a11e7dee2)
+  * [19.1 《Netty  Redis  Zookeeper 高并发实战》随书源码、说明（](https://www.cnblogs.com/crazymakercircle/p/9904544.html)
+
+* [20 (疯狂创客圈) Java高并发核心编程 (卷1)](https://weread.qq.com/web/reader/e6d323b0723b6029e6d1c55) 
+  * [20.1 《Java高并发核心编程 (卷1)》随书源码、说明（](https://www.cnblogs.com/crazymakercircle/p/9904544.html) 
+
+* [21 (疯狂创客圈) Java高并发核心编程 (卷2)](https://weread.qq.com/web/reader/9b93254072456ac19b9a176)
+  * [21.1 《Java高并发核心编程 (卷2)》随书源码、说明（](https://www.cnblogs.com/crazymakercircle/p/9904544.html) 
+
+
 * （Spring Cloud 深入系列 ）Spring Cloud与Docker微服务架构实战（第2版）.PDF
 * Spring Cloud微服务架构实战派.PDF---共有“39个基于知识点的实例 + 1个综合性项目
 * Spring Cloud与Docker高并发微服务架构设计实施.PDF---通过一个互联网电商平台实例实现了高并发的微服务架构设计  适合做项目实战 
