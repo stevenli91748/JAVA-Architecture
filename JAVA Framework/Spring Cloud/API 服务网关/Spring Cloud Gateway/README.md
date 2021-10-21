@@ -15,6 +15,8 @@
 
 * [10  （先看）  深入理解Spring Cloud与微服务构建 （第2版）---包括Spring Boot + Eureka、Consul, Ribbon + RestTemplate , Feign、Hystrix、Zuul、Gateway、Consul、Config、Sleuth、Admint等组件,使用Spring Cloud OAuth2来保护微服务系统](https://weread.qq.com/web/reader/1223205071ccfab912296c2)
 
+* [11  （先看） Spring Cloud微服务： 入门 实战与进阶--- 2019 从技术原理、工程实践、进阶提升3个维度详解Spring Cloud微服务的架构与开发 （Eureka + Ribbon + Feign + Hystrix + ZUUL + Spring Cloud Gateway + Apollo + Spring Cloud Sleuth + JWT + Spring Boot Admin + Swagger + 微服务缓存 + API 网关 + 微服务存储 + 分布式事务解决方案 + 分布式任务调度 + 分库分表解决方案 + 最佳生产实践经验)](https://weread.qq.com/web/reader/5c832cf07186d8355c87a4f)
+
 * [13 Spring Cloud开发实战 ---2021 Eureka + Consul + Apollo + Nacos + Zuul + Feign + Gateway + Kafka + config + Zipkin + Hystrix + Ribbon + ZooKeeper + Swagger + Postman + MongoDB + Redis ](https://weread.qq.com/web/reader/1c632610725a69631c6c26f)
 
 * Spring Cloud微服务架构实战派.PDF
