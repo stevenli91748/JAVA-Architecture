@@ -4,6 +4,9 @@
 [周志明  部署 Elastic Stack](https://icyfenix.cn/appendix/operation-env-setup/elk-setup.html)|[windows环境下安装elasticsearch6.2.2](https://bugstack.cn/itstack-demo-any/2019/08/12/windows%E7%8E%AF%E5%A2%83%E4%B8%8B%E5%AE%89%E8%A3%85elasticsearch6.2.2.html)|[elasticsearch-head插件安装](https://bugstack.cn/itstack-demo-any/2019/08/13/elasticsearch-head%E6%8F%92%E4%BB%B6%E5%AE%89%E8%A3%85.html)|
 ---|---|---|
 
+[疯狂创客圈: Elasticsearch高可用 HA原理 (图解+秒懂+史上最全)](https://www.cnblogs.com/crazymakercircle/p/15433680.html)|
+---|
+
 [深入了解Elasticsearch](https://www.bilibili.com/video/BV1NW411P7XU)|[elastic search集群故障切换测试](https://www.kancloud.cn/ty1114/elasticsearch/1079430)|
 ---|---|
 
