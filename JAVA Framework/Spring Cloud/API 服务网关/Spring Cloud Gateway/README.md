@@ -126,7 +126,7 @@
     * 防刷
     * 流量控制
       * 熔断
-      * [限流](https://weread.qq.com/web/reader/c9932ea07163ff6ac993e0dkd9d320f022ed9d4f495e456)
+      * [限流](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/%E9%99%90%E6%B5%81/README.md)
         * [限流：计数器、漏桶、令牌桶 三大算法的原理与实战（史上最全）---疯狂创客圈](https://www.cnblogs.com/crazymakercircle/p/15187184.html) 
         * 限流的需求因素---在实际项目应用中对网关进行限流时，需要参考的因素比较多。可能会根据网络请求连接数、请求流量、CPU使用率等流控
           * 限制总并发数（比如数据库连接池、线程池）
