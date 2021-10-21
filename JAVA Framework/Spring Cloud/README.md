@@ -54,13 +54,13 @@
   * [18.1 阅读"Spring Cloud Nginx高并发核心编程"之前，建议拥有的前置知识](https://www.cnblogs.com/crazymakercircle/p/9904544.html)
 
 * [19 (疯狂创客圈) Netty Zookeeper Redis 高并发实战](https://weread.qq.com/web/reader/1e732510718f63a11e7dee2)
-  * [19.1 《Netty  Redis  Zookeeper 高并发实战》随书源码、说明（](https://www.cnblogs.com/crazymakercircle/p/9904544.html)
+  * [19.1 《Netty  Redis  Zookeeper 高并发实战》随书源码、说明](https://www.cnblogs.com/crazymakercircle/p/9904544.html)
 
 * [20 (疯狂创客圈) Java高并发核心编程 (卷1)](https://weread.qq.com/web/reader/e6d323b0723b6029e6d1c55) 
-  * [20.1 《Java高并发核心编程 (卷1)》随书源码、说明（](https://www.cnblogs.com/crazymakercircle/p/9904544.html) 
+  * [20.1 《Java高并发核心编程 (卷1)》随书源码、说明](https://www.cnblogs.com/crazymakercircle/p/9904544.html) 
 
 * [21 (疯狂创客圈) Java高并发核心编程 (卷2)](https://weread.qq.com/web/reader/9b93254072456ac19b9a176)
-  * [21.1 《Java高并发核心编程 (卷2)》随书源码、说明（](https://www.cnblogs.com/crazymakercircle/p/9904544.html) 
+  * [21.1 《Java高并发核心编程 (卷2)》随书源码、说明](https://www.cnblogs.com/crazymakercircle/p/9904544.html) 
 
 
 * （Spring Cloud 深入系列 ）Spring Cloud与Docker微服务架构实战（第2版）.PDF
