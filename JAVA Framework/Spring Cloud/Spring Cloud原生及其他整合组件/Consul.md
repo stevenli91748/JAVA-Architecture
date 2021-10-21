@@ -1,6 +1,6 @@
 
-[Consul官方网站](https://www.consul.io/)|[使用Consul为例来搭建和使用注册中心](https://yasinshaw.com/articles/43)|
----|---|
+[Consul官方网站](https://www.consul.io/)|
+---|
 
 [Spring Cloud Consul上篇](https://weread.qq.com/web/reader/71d32370716443e271df020kd1f32d7024fd1fe173d0651)|[Spring Cloud Consul下篇](https://weread.qq.com/web/reader/71d32370716443e271df020kfe932230253fe9fc289c8a3)|
 ---|---|
@@ -50,7 +50,7 @@
   * [Spring Cloud操作Consul的K/V存储](https://weread.qq.com/web/reader/f6732e8071dbddd6f674178kb6d32b90216b6d767d2f0dc)
   * [通过Spring Boot，Spring Cloud Gateway构建基于Consul集群的微服务案例演示 ](https://www.jdon.com/53374)
   * [Spring Cloud Consul入门案例](https://weread.qq.com/web/reader/71d32370716443e271df020k43e327b025143ec517d680b)
-
+  * [使用Consul为例来搭建和使用注册中心](https://yasinshaw.com/articles/43)
 
 # Consul的概念
 
