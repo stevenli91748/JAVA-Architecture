@@ -19,6 +19,7 @@
 ---|---|---|
 
 # 目录
+* [Spring Cloud Alibaba Nacos注册中心快速入门实例](https://mrbird.cc/Spring-Cloud-Alibaba-Nacos%E6%B3%A8%E5%86%8C%E4%B8%AD%E5%BF%83.html)
 * [Nacos 三大功能---致力于帮助您发现、配置和管理微服务](#Nacos-三大功能)
   * [nacos 实战（史上最全）---疯狂创客圈](https://www.cnblogs.com/crazymakercircle/p/14231815.html) 
   * [服务发现与服务管理功能](#1-服务发现与服务管理功能)
