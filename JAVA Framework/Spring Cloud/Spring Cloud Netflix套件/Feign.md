@@ -2,6 +2,7 @@
 ---|
 
 # 目录
+* [Spring Cloud Feign 声明式服务调用快速入门例子](https://mrbird.cc/Spring-Cloud-Feign.html)
 * Ribbon 与 Feign or OpenFeign 和 Nginx的区别
   * [Feign原理 （图解）---疯狂创客圈](https://www.cnblogs.com/crazymakercircle/p/11965726.html) 
   * [Feign概念](#Feign概念)
