@@ -16,7 +16,7 @@
 
 
 # 目录
-
+* [Spring Cloud Eureka服务治理快速入门例子](https://mrbird.cc/Spring-Cloud-Eureka.html)
 * [1. Eureka服务注册中心](#1-Eureka服务注册中心)
   *  
 # 1 Eureka服务注册中心
