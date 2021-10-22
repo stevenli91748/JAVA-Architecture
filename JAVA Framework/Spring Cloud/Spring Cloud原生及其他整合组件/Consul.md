@@ -18,6 +18,7 @@
 * [13 Spring Cloud开发实战 ---2021 Eureka + Consul + Apollo + Nacos + Zuul + Feign + Gateway + Kafka + config + Zipkin + Hystrix + Ribbon + ZooKeeper + Swagger + Postman + MongoDB + Redis ](https://weread.qq.com/web/reader/1c632610725a69631c6c26f)
 
 # 目录
+* [Spring Cloud Consul服务治理快速入门例子](https://mrbird.cc/Spring-Cloud-Consul.html)
 * [Consul的概念](#Consul的概念)
   * [Consul的原理1](https://weread.qq.com/web/reader/1223205071ccfab912296c2ka5e327b0292a5e001323dfc) 
   * [Consul原理2](https://weread.qq.com/web/reader/1c632610725a69631c6c26fk3c5327902153c59dc0488e1)
