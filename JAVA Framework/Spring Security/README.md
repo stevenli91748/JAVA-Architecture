@@ -17,12 +17,6 @@
 ---|---|
 
 
-[精尽 Shiro 学习指南](http://svip.iocoder.cn/Shiro/tutorials/)|
----|
-
-[跟我学Shiro](https://www.iteye.com/blogs/subjects/shiro?page=2)|
----|
-
 
 # 微服务安全
   * [spring security 原理+实战](https://www.cnblogs.com/crazymakercircle/p/12040402.html)
