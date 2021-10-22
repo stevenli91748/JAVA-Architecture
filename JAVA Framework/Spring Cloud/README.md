@@ -367,6 +367,7 @@
   * [Spring Cloud Stream](https://weread.qq.com/web/reader/7d332ce0715dbcba7d3a09dk7f33291023d7f39f8317e0b)
 * 分布式消息总线
   * [Spring Cloud Bus ---可以实现修改Git库中的配置文件并及时同步和不重启微服务系统的情况下更新到配置项](https://weread.qq.com/web/reader/7d332ce0715dbcba7d3a09dk73532580243735b90b45ac8)
+    * [使用Spring Cloud Bus刷新配置](https://mrbird.cc/Spring-Cloud-Bus.html) 
 * 微服务的API 文档管理
   * [Swagger 2 ](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Swagger%E6%8E%A5%E5%8F%A3%E6%96%87%E6%A1%A3%E7%BC%96%E5%86%99%E5%8F%8A%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7/README.md)
   * [【实例】微服务集成Swagger](https://weread.qq.com/web/reader/f6732e8071dbddd6f674178)
