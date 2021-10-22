@@ -302,7 +302,7 @@
   * [初识Spring Cloud与微服务](https://mrbird.cc/Spring-Cloud%20and%20MicroService.html)
 * 1 微服务服务治理
   * [注册中心的设计与实现](https://github.com/aCoder2013/blog/issues/32) 
-  * 微服务注册中心 
+  * [微服务注册中心 ](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/%E5%BE%AE%E6%9C%8D%E5%8A%A1%E6%B3%A8%E5%86%8C%E4%B8%AD%E5%BF%83/README.md)
     * [Eureka---注册中心](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%20Netflix%E5%A5%97%E4%BB%B6/Eureka.md)
       *  启动 EurekaDjscoveryProvider进行服务注册
       *  启动 EurekaDiscoveryConsumer进行服务发现
@@ -317,7 +317,7 @@
     * [Ribbon---负载均衡](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%20Netflix%E5%A5%97%E4%BB%B6/Ribbon.md)
     * Spring Cloud LoadBalancer
     * RestTemplate的负载均衡机制
-* 2 微服务的集中化配置中心
+* 2 [微服务的集中化配置中心](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/%E5%BE%AE%E6%9C%8D%E5%8A%A1%E5%88%86%E5%B8%83%E5%BC%8F%E9%85%8D%E7%BD%AE%E4%B8%AD%E5%BF%83/README.md)
   *  Apollo
   *  Disconf
   *  Spring Cloud Config---可以获取git中的配置文件，给其它微服务使用，从而使各个微服务的配置在git中进行集中式管理，但在git中修改了配置项，微服务系统中的配置项不能及时更新，需要重启微服务，可用 Spring Cloud Bus代替
@@ -348,7 +348,7 @@
   * Sleuth + ELK整合
   * Pinpoint
   * Skywalking
-* 微服务之间调用的安全认证
+* [微服务之间调用的安全认证](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/%E5%BE%AE%E6%9C%8D%E5%8A%A1%E4%B9%8B%E9%97%B4%E8%B0%83%E7%94%A8%E7%9A%84%E5%AE%89%E5%85%A8%E8%AE%A4%E8%AF%81/README.md)
   * [OAuth](https://weread.qq.com/web/reader/0e03209071c96a420e02710k7f632b502707f6ffaa6bf2e) 
   * OAuth 2
   * JWT
