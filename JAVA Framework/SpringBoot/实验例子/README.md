@@ -30,7 +30,9 @@
     * SpringBoot整合MongoDB
       * [Spring Boot整合Mongo DB](https://mrbird.cc/Spring-Boot-Mongo-DB-CRUD.html)    
   * SpringBoot整合Dubbo
+    * [Spring Boot整合Dubbo&Zookeeper](https://mrbird.cc/Spring-Boot-Dubbo-Zookeeper.html) 
   * SpringBoot整合Zookeeper
+    * [Spring Boot整合Dubbo&Zookeeper](https://mrbird.cc/Spring-Boot-Dubbo-Zookeeper.html) 
   * SpringBoot整合Docker
   * SpringBoot整合Nginx
   * SpringBoot整合Tomcat
