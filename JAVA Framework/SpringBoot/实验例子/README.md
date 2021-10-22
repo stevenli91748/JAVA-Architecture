@@ -41,6 +41,7 @@
     * [Spring Boot与ActiveMQ的集成](https://weread.qq.com/web/reader/69532da0717d3026695636ek1f032c402131f0e3dad99f3) 
   * SpringBoot整合RabbitMQ
   * SpringBoot整合Kafka
+    * [Spring Boot整合Kafka](https://mrbird.cc/Spring-Boot-Kafka.html) 
   * SpringBoot整合Solr
   * SpringBoot整合ElasticSearch
   * SpringBoot整合WebSocket
