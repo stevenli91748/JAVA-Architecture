@@ -310,7 +310,7 @@
   * 微服务之间的调用
     * RPC方式
     * [RESTful HTTP方式有两种服务调用方法](https://mp.weixin.qq.com/s/uSYygJRwav5GgrG4um8R4w)
-      * [Feign]() or OpenFeign（第一种调用方法）---Feign是一个声明式http客户端。使用Feign能让编写http客户端更加简单，它的使用方法是定义一个接口，然后在上面添加注解，避免了调用目标微服务时，需要不断的解析/封装json数据的繁琐,但是在实际开发中，由于对服务依赖的调用可能不止一处,往往一个接口会被多处调用，所以通常都会针对每个微服务自行封装一些客户端类来包装这些依赖服务的调用。所以，Feign在此基础上做了进一步封装，由他来帮助我们定义和实现依赖服务接口的定义
+      * [Feign](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%20Netflix%E5%A5%97%E4%BB%B6/Feign.md) or OpenFeign（第一种调用方法）---Feign是一个声明式http客户端。使用Feign能让编写http客户端更加简单，它的使用方法是定义一个接口，然后在上面添加注解，避免了调用目标微服务时，需要不断的解析/封装json数据的繁琐,但是在实际开发中，由于对服务依赖的调用可能不止一处,往往一个接口会被多处调用，所以通常都会针对每个微服务自行封装一些客户端类来包装这些依赖服务的调用。所以，Feign在此基础上做了进一步封装，由他来帮助我们定义和实现依赖服务接口的定义
       * Ribbon + RestTemplate（第二种调用方法）---在使用Ribbon+ RestTemplate时，Ribbon需要自己构建http请求，模拟http请求然后使用RestTemplate发送给其他服务，步骤相当繁琐
   * 微服务负载均衡
     * Ribbon---负载均衡
