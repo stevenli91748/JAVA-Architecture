@@ -319,9 +319,10 @@
     * RestTemplate的负载均衡机制
 * 2 [微服务的集中化配置中心](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/%E5%BE%AE%E6%9C%8D%E5%8A%A1%E5%88%86%E5%B8%83%E5%BC%8F%E9%85%8D%E7%BD%AE%E4%B8%AD%E5%BF%83/README.md)
   *  Apollo
+  *  Consul
   *  Disconf
   *  Spring Cloud Config---可以获取git中的配置文件，给其它微服务使用，从而使各个微服务的配置在git中进行集中式管理，但在git中修改了配置项，微服务系统中的配置项不能及时更新，需要重启微服务，可用 Spring Cloud Bus代替
-  *  Nacos Config
+  *  Nacos Config配置中心
 * [3 微服务网关](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/API%20%E6%9C%8D%E5%8A%A1%E7%BD%91%E5%85%B3/README.md)
   * Zuul
   * Consul
