@@ -27,7 +27,8 @@
     * SpringBoot整合Redis(单机版)
       * [Spring Boot与Redis的集成](https://weread.qq.com/web/reader/69532da0717d3026695636ek6f4322302126f4922f45dec)
     * SpringBoot整合Redis集群
-    * SpringBoot整合MongoDB   
+    * SpringBoot整合MongoDB
+      * [Spring Boot整合Mongo DB](https://mrbird.cc/Spring-Boot-Mongo-DB-CRUD.html)    
   * SpringBoot整合Dubbo
   * SpringBoot整合Zookeeper
   * SpringBoot整合Docker
