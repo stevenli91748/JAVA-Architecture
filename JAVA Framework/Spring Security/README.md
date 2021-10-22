@@ -39,6 +39,11 @@
 * [Spring Security添加图形验证码](https://mrbird.cc/Spring-Security-ValidateCode.html)
 * [Spring Security自定义用户认证](https://mrbird.cc/Spring-Security-Authentication.html)
 * [Spring Boot中开启Spring Security](https://mrbird.cc/Spring-Boot&Spring-Security.html)
+* [Spring Security保护方法](https://mrbird.cc/Spring-Security%E4%BF%9D%E6%8A%A4%E6%96%B9%E6%B3%95.html)
+* [Spring Security JSP标签库](https://mrbird.cc/Spring-Security-JSP%E6%A0%87%E7%AD%BE%E5%BA%93.html)
+* []()
+
+
 # 有用的参考
 * [基于token身份认证的完整实例](https://www.jianshu.com/p/75f6d7426118)
 * [手把手教你搞定权限管理，结合Spring Security实现接口的动态权限控制](https://www.jianshu.com/p/a8e66020fad1)
