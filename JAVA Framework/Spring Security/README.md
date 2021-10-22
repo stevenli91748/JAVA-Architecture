@@ -16,6 +16,14 @@
 [springBoot整合spring security实现权限管理(单体应用版)--筑基初期](https://juejin.im/post/6867530830446034958)|[springBoot整合spring security+JWT实现单点登录与权限管理前后端分离--筑基中期](https://juejin.im/post/6868558729353117710)|
 ---|---|
 
+
+[精尽 Shiro 学习指南](http://svip.iocoder.cn/Shiro/tutorials/)|
+---|
+
+[跟我学Shiro](https://www.iteye.com/blogs/subjects/shiro?page=2)|
+---|
+
+
 # 微服务安全
   * [spring security 原理+实战](https://www.cnblogs.com/crazymakercircle/p/12040402.html)
   * [SpingSecurity + SpringSession 死磕](https://www.cnblogs.com/crazymakercircle/p/12037584.html)
