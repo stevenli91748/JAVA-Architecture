@@ -4,7 +4,7 @@
 * Sentinel概念
   * [sentinel （史上最全+入门教程）---疯狂创客圈](https://www.cnblogs.com/crazymakercircle/p/14285001.html)
   * [Spring Cloud Alibaba Sentinel控制台详解](https://mrbird.cc/Sentinel%E6%8E%A7%E5%88%B6%E5%8F%B0%E8%AF%A6%E8%A7%A3.html)
-
+  * [Spring Cloud Alibaba Sentinel @SentinelResource](https://mrbird.cc/Spring-Cloud-Alibaba-Sentinel-SentinelResource.html)
 
 
 
