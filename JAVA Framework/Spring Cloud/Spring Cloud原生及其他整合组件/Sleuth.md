@@ -2,6 +2,12 @@
 [Spring Cloud Sleuth](https://weread.qq.com/web/reader/c9932ea07163ff6ac993e0dk7cb321502467cbbc409e62d)|
 ---|
 
+# 目录
+
+* [使用Spring Cloud Sleuth跟踪微服务快速入门例子](https://mrbird.cc/Spring-Cloud-sleuth.html)
+
+
+
 * [Spring Cloud构建微服务架构：分布式服务跟踪（抽样收集）](http://blog.didispace.com/spring-cloud-starter-dalston-8-6/)
 * [Spring Cloud构建微服务架构：分布式服务跟踪（收集原理](http://blog.didispace.com/spring-cloud-starter-dalston-8-5/)
 * [Spring Cloud构建微服务架构：分布式服务跟踪（整合zipkin）](http://blog.didispace.com/spring-cloud-starter-dalston-8-4/)
