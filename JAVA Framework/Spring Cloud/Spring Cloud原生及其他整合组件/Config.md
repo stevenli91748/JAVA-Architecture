@@ -3,7 +3,7 @@
  ---|---|---|
  
  # 目录
- 
+ * [Spring Cloud Config统一配置管理快速入门例子](https://mrbird.cc/Spring-Cloud-Config.html)
  * [Config概念](#Config概念)
  
  
