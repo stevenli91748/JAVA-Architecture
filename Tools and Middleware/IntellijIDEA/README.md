@@ -105,7 +105,7 @@
 * [IDEA troubleshoting]()
   * [IDEA中maven项目dependencies报错飘红问题解决](https://blog.csdn.net/qq_34748010/article/details/107878145?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-3.not_use_machine_learn_pai&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-3.not_use_machine_learn_pai)
   * [IDEA中Maven依赖下载失败解决方案](https://blog.csdn.net/ThinkWon/article/details/101312918)|
-  
+  * [是时候装逼了，一招解决 Maven 依赖冲突的 IDEA 高能神器！](https://mp.weixin.qq.com/s/7WEtWUuio1f-JWKjLKBIMg)
   
 * plugin
   * [IDEA插件分享!以Spring Boot项目为载体进行视频教程演示](https://www.bilibili.com/video/BV1XE411K7Fz)
