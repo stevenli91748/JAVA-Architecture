@@ -4,6 +4,9 @@
 
 # postman接口自动化测试视频
 
+[你还在用 Postman？IDEA REST Client 好用到爆，Postman 可以扔了](https://mp.weixin.qq.com/s/QwoZkMxOTgCHhKWOv2rEag)|
+---|
+
  [postman接口自动化测试](https://www.bilibili.com/video/av50904292/?spm_id_from=333.788.videocard.8)|[Postman Beginner's Course - API Testing](https://www.youtube.com/watch?v=VywxIQ2ZXw4)|
  ---|---|
 
