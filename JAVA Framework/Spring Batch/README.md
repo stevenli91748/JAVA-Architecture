@@ -1,6 +1,6 @@
 
-[Spring Batch教程](https://www.yiibai.com/spring_batch/)|
----|
+[Spring Batch教程](https://www.yiibai.com/spring_batch/)|[Spring Batch 批处理框架，真心强啊！！](https://mp.weixin.qq.com/s/M14kvrWMT_4MRZDZ1TpTYA)|
+---|---|
 
 
 * [Spring Batch入门](https://mrbird.cc/Spring-Batch%E5%85%A5%E9%97%A8.html)
