@@ -24,7 +24,8 @@
  ---|---|---|
  
  # 目录
- * [Spring Cloud Config统一配置管理快速入门例子](https://mrbird.cc/Spring-Cloud-Config.html)
+ * [Spring Cloud Config统一配置管理快速入门例子1](https://mrbird.cc/Spring-Cloud-Config.html)
+ * [Spring Cloud Config入门案例2](https://weread.qq.com/web/reader/71d32370716443e271df020k32932b102423295c76ac7d9)
  * [配置中心概念](#Config概念)
    * Spring Cloud Config配置中心
    * 扩展配置中心
