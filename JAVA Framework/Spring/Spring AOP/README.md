@@ -37,7 +37,8 @@ AOP动态代理|AOP静态代理|
 ---|--|
 
 
-
+[关于 Spring AOP 的 5 种通知类型，很少人知道它的优先级](https://mp.weixin.qq.com/s/XTCQtKGIEdaXGC5J2FCobg)|
+---|
 
 
 # 视频
