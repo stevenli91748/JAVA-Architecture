@@ -18,8 +18,8 @@
 [你还在用 Postman？IDEA REST Client 好用到爆，Postman 可以扔了](https://mp.weixin.qq.com/s/QwoZkMxOTgCHhKWOv2rEag)|
 ---|
 
-[Spring Boot + GraphQL 才是 API 的未来！](https://mp.weixin.qq.com/s/0PnHhG_AcPxUJIClvx1fdQ)|
----|
+[Spring Boot + GraphQL 才是 API 的未来！](https://mp.weixin.qq.com/s/0PnHhG_AcPxUJIClvx1fdQ)|[一个基于 Spring 极度简单的 Restful API 工具，非常好用](https://mp.weixin.qq.com/s/Mnz26kCVEyQWckkOKPkJ-A)|
+---|---|
 
 [Spring Boot API Project Seed 是一个基于Spring Boot & MyBatis的种子项目，用于快速构建中小型API、RESTful API项目](https://github.com/lihengming/spring-boot-api-project-seed)|
 ---|
