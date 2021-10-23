@@ -21,6 +21,7 @@
     * 日志监控
     * 集成 Spring Cloud 服务发现功能；
     * 集成Hystrix的断路器功能 
+  * [API网关异步化改造技术选型](https://github.com/aCoder2013/blog/issues/34)
   * 服务网关的分类
     * [Zuul](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/API%20%E6%9C%8D%E5%8A%A1%E7%BD%91%E5%85%B3/Zuul/README.md)
     * [Consul](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/API%20%E6%9C%8D%E5%8A%A1%E7%BD%91%E5%85%B3/Consul/README.md)
