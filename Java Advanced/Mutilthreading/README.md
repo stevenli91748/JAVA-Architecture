@@ -41,6 +41,7 @@
     * 共享存储
   
 * Java线程的运行机制
+* [Java线程池ThreadPoolExecutor实现原理剖析](https://github.com/aCoder2013/blog/issues/28)
 * 线程的创建和启动
   * 展Java.lang.Thread类
   * 实现Runnable接口
