@@ -11,8 +11,12 @@
 
 * [现代API: 通往架构师之门---2018  作者20年为北美18个行业50多家大型企业进行系统集成及API设计的实践经验](https://weread.qq.com/web/reader/b3f321407170d865b3f0e45)
 * [hand-on RESTFul API Design patterns and best practices](https://weread.qq.com/web/reader/21f32c20722ffb4121fa251)
+
 ---
 
+
+[你还在用 Postman？IDEA REST Client 好用到爆，Postman 可以扔了](https://mp.weixin.qq.com/s/QwoZkMxOTgCHhKWOv2rEag)|
+---|
 
 [Spring Boot API Project Seed 是一个基于Spring Boot & MyBatis的种子项目，用于快速构建中小型API、RESTful API项目](https://github.com/lihengming/spring-boot-api-project-seed)|
 ---|
