@@ -5,3 +5,4 @@
 * [IntelliJ IDEA远程Debug Linux的Java程序，找问题不要只会看日志了](https://juejin.im/post/6868793304772870158)
 * [如何运行+如何读代码 如何用IDEA进行调试 ](https://www.bilibili.com/video/BV1y4411p74E)
 * [IDEA中Debug javaScript功能](https://www.bilibili.com/video/av22537758?p=2)
+* [怎么 debug JDK 源码？](https://mp.weixin.qq.com/s/1Vj-iBqS1lKoP2lwZWm9qw)
