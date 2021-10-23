@@ -7,7 +7,7 @@
 * [1.3. 接口](#13-接口)
 * [1.4. 多态](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Object%20oriented/多态.md)    
 * [继承](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Object%20oriented/%E7%BB%A7%E6%89%BF.md)  
-    
+* [面试官：什么是对象池？有什么用？别说你还不会！](https://mp.weixin.qq.com/s/EZ0firt5T8sVOdh8BS_CWQ)    
     
     
 # 类与对象
