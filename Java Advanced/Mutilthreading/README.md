@@ -30,6 +30,8 @@
 [鹿鼎记 · 韦小宝，丽春院、天地会、入皇宫等五个场景，搭配不同剧情讲解多线程和锁，真香](https://bugstack.cn/itstack-code-life/2020/11/22/%E9%B9%BF%E9%BC%8E%E8%AE%B0-%E9%9F%A6%E5%B0%8F%E5%AE%9D-%E4%B8%BD%E6%98%A5%E9%99%A2-%E5%A4%A9%E5%9C%B0%E4%BC%9A-%E5%85%A5%E7%9A%87%E5%AE%AB%E7%AD%89%E4%BA%94%E4%B8%AA%E5%9C%BA%E6%99%AF-%E6%90%AD%E9%85%8D%E4%B8%8D%E5%90%8C%E5%89%A7%E6%83%85%E8%AE%B2%E8%A7%A3%E5%A4%9A%E7%BA%BF%E7%A8%8B%E5%92%8C%E9%94%81-%E7%9C%9F%E9%A6%99.html)|
 ---|
 
+[面试官：线程池执行过程中遇到异常会发生什么，怎样处理？](https://mp.weixin.qq.com/s/7pQoC9PSqN43sbfhr0IUmA)|
+---|
 
 * 操作系统
   * 进程和线程
