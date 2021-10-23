@@ -8,7 +8,7 @@
 
 # 目录
   * [API 网关的概念](#API-网关的概念) 
-  * 服务网关的基本功能
+  * [服务网关的基本功能](https://github.com/aCoder2013/blog/issues/35)
     * 路由转发
       * 动态路由：能够匹配任何请求属性 
       * 可以对路由指定 Predicate（断言）和 Filter（过滤器）；
