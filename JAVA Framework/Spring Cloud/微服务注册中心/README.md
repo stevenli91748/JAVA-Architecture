@@ -1,4 +1,7 @@
-# 注册中心
+# 注册中心的设计与实现
+* [注册中心的设计与实现](https://github.com/aCoder2013/blog/issues/32)
+
+# 注册中心的类型
 
 * [ZooKeeper](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/%E5%BE%AE%E6%9C%8D%E5%8A%A1%E6%B3%A8%E5%86%8C%E4%B8%AD%E5%BF%83/ZooKeeper.md)
 * Eureka
