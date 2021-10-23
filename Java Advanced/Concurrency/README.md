@@ -53,11 +53,16 @@
 ---|---|---|
 
 
-[公司项目并发量都特小，自己如何实际接触高并发项目](https://www.zhihu.com/question/267113602/answer/1861665973)|[]()|
----|---|
+[公司项目并发量都特小，自己如何实际接触高并发项目](https://www.zhihu.com/question/267113602/answer/1861665973)|
+---|
 
 [Swoole 从入门到实战教程---高并发实战演示](https://laravelacademy.org/books/swoole-tutorial)|
 ---|
+
+[guava---Google Java标准库的十全大补](https://github.com/google/guava)|[Guava RateLimiter 实现 API 限流，这才是正确的姿势](https://mp.weixin.qq.com/s/uyYqni2Li6DpaAYB0vniow)|
+---|---|
+
+
 
 # 疯狂创客圈
 ###  JUC并发包
