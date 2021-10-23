@@ -35,7 +35,7 @@ Nginx适合于服务器端实现负载均衡，比如：Tomcat，Ribbon适合与
 
 
 # 参考
-
+* [Spring Cloud Ribbon踩坑记录及原理解析](https://github.com/aCoder2013/blog/issues/29)
 * [撸一撸Spring Cloud Ribbon的原理-负载均衡策略](https://www.cnblogs.com/kongxianghai/p/8477781.html)
 * [Feign Ribbon Hystrix 三者关系 | 史上最全, 深度解析](https://www.cnblogs.com/crazymakercircle/p/11664812.html)
 * [为Spring Cloud Ribbon配置请求重试（Camden.SR2+）](http://blog.didispace.com/spring-cloud-ribbon-failed-retry/)
