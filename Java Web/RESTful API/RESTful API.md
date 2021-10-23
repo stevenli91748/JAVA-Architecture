@@ -79,6 +79,7 @@
 * [【项目实践】后端接口统一规范的同时，如何优雅得扩展规范](https://juejin.im/post/6844904143912435719?)
 * [【项目实践】SpringBoot-如何设计优秀的后端接口](https://juejin.im/post/6860404263143604232)
 * [微服务手册：API接口9个生命节点，构建全生命周期管理](https://www.toutiao.com/i6900147166866702851/?group_id=6900147166866702851)
+* [Spring Boot 如何优雅的进行字段校验？写得太好了！](https://mp.weixin.qq.com/s/EfIh_izIeUv4zNqcDxf-hg)
 * [springboot2.2.X手册：构建多元化的API接口，我们这样子设计](https://www.toutiao.com/i6824397028622074379/?group_id=6824397028622074379&wid=1627684804783)
 * [看看人家那后端API接口写得，那叫一个优雅！---着重介绍一下后端服务器如何实现把数据返回给前端](https://www.jianshu.com/p/3c1d3ba5f56d)
 * [如何设计一个牛逼的API接口](https://segmentfault.com/a/1190000037503942)
