@@ -5,8 +5,8 @@
 [[32个 IDEA 推荐配置，让你的IDEA有飞一般的感觉](https://zhuanlan.zhihu.com/p/79345173)|[Spring Cloud Alibaba IDE 工具重大升级](https://www.kubernetes.org.cn/8465.html)|
 ---|---|
 
-[阿里程序员常用的 15 款开发者工具（2020 版）](https://www.kubernetes.org.cn/8668.html)|
----|
+[阿里程序员常用的 15 款开发者工具（2020 版）](https://www.kubernetes.org.cn/8668.html)|[是时候装逼了，一招解决 Maven 依赖冲突的 IDEA 高能神器！](https://mp.weixin.qq.com/s/7WEtWUuio1f-JWKjLKBIMg)|
+---|---|
 
 
 
