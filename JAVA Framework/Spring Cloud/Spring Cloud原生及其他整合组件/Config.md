@@ -25,11 +25,11 @@
  
  # 目录
  * [Spring Cloud Config统一配置管理快速入门例子](https://mrbird.cc/Spring-Cloud-Config.html)
- * [Spring Cloud Config概念](#Config概念)
+ * [配置中心概念](#Config概念)
    * Spring Cloud Config配置中心
    * 扩展配置中心
    * 第三方配置中心Apollo的接入
- 
+ * [配置中心应具备的功能 ](https://weread.qq.com/web/reader/71d32370716443e271df020k32932b102423295c76ac7d9)
  
  ## Config概念
  
@@ -39,6 +39,7 @@ Spring Cloud Config是一个解决分布式系统的配置管理方案。微服�
 
 其能够很好地将程序中配置日益增多的**各种功能的开关、参数的配置、服务器的地址，配置修改后实时生效，灰度发布，分环境、分集群管理配置**等进行全面的集中化管理，有利于系统的配置管理和维护
 
+Spring Cloud Config是一个集中化外部配置的分布式系统，由服务端和客户端组成。它不依赖于注册中心，是一个独立的配置中心。Spring Cloud config支持多种存储配置信息的形式，目前主要有jdbc、Vault、Native、svn、git，其中默认为git
 
 **应用场景**
 
