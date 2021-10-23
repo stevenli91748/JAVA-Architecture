@@ -1,3 +1,4 @@
+* [一招搞定 Spring Boot 可视化监控！](https://mp.weixin.qq.com/s/J67gVzdoFZZZPIoXtPqsLg)
 * 1 创建Actuator监控Spring Boot应用
   * [Spring Boot Actuator](https://www.yiibai.com/spring-boot/spring_boot_actuator.html)
   * [使用Actuator监控Spring Boot应用](https://mrbird.cc/Acutator-Spring-Boot.html)
