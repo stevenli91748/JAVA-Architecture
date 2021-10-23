@@ -604,8 +604,8 @@ SQL语言|[MySQL](https://github.com/stevenli91748/Database/blob/master/MySQL/RE
 [java程序的执行顺序](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/java%E7%A8%8B%E5%BA%8F%E7%9A%84%E6%89%A7%E8%A1%8C%E9%A1%BA%E5%BA%8F.md)|
 ---|
 
-[JDK Linux系统安装](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/JDK%20Linux系统安装/README.md)|
----|
+[JDK Linux系统安装](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/JDK%20Linux系统安装/README.md)|[怎么 debug JDK 源码？](https://mp.weixin.qq.com/s/1Vj-iBqS1lKoP2lwZWm9qw)|
+---|---|
 
 
 [Java常用的注解](https://www.pianshen.com/article/5379678728/)|[Lombok 学习指南](https://juejin.cn/post/6844903984176562183#heading-25)|
