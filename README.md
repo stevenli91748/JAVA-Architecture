@@ -354,6 +354,8 @@ VisualVM分析工具|[Jenkins](https://github.com/stevenli91748/JAVA-Architectur
 [guava---Google Java标准库的十全大补](https://github.com/google/guava)|[Guava RateLimiter 实现 API 限流，这才是正确的姿势](https://mp.weixin.qq.com/s/uyYqni2Li6DpaAYB0vniow)|
 ---|---|
 
+[Guava学习笔记](https://www.cnblogs.com/Courage129/p/14413974.html)|
+---|
 
 # [第六阶段   互联网架构篇](https://github.com/stevenli91748/JAVA-Architecture/blob/master/internet%20architecture/README.md)
 
@@ -415,11 +417,11 @@ Nginx性能优化|Linux系统性能优化|
 
 ### 互联网架构基础
 
-[linux](https://github.com/stevenli91748/Linux/blob/master/README.md)|[Java Netty](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Netty/README.md)|[高并发编程](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/Concurrency/README.md)|[高级网络编程][%networkprogramming]|[高性能编程](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/%E9%AB%98%E6%80%A7%E8%83%BD%E7%BC%96%E7%A8%8B.md)|
+[linux](https://github.com/stevenli91748/Linux/blob/master/README.md)|[Java Netty](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Netty/README.md)|[高并发编程](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/Concurrency/README.md)|[高级网络编程][%networkprogramming]|[高性能缓存编程 Guava + Redis](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/%E9%AB%98%E6%80%A7%E8%83%BD%E7%BC%96%E7%A8%8B.md)|
 ---|---|---|---|---|
 
-[Java亿万级数据存储解决方案](https://www.bilibili.com/video/BV1Q4411X7a4)|
----|
+[Java亿万级数据存储解决方案](https://www.bilibili.com/video/BV1Q4411X7a4)|[亿级流量研究处理](https://www.cnblogs.com/Courage129/category/1933798.html)|
+---|---|
 
 
 
