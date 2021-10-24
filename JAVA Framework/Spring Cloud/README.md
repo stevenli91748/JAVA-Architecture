@@ -349,6 +349,7 @@
   * 服务降级
   * 灰度发布
 * 4 微服务容错---微服务的高级主题
+  * []() 
   * CircuitBreaker
   * [Sentinel](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%20Alibaba%E5%A5%97%E4%BB%B6/Sentinel.md)
   * [Hystrix](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%20Netflix%E5%A5%97%E4%BB%B6/hystrix.md)
