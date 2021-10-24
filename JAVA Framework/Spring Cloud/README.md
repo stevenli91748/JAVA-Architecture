@@ -479,6 +479,8 @@
 
 # Spring Cloud架构方案
 
+* [Spring Cloud 2020 版本最佳实践，你落伍了！](https://mp.weixin.qq.com/s/cyC3fuPYmGhhGJULDLsZyQ)
+
 **配置中心**：默认采用Spring Cloud Config，亦可使用Spring Cloud Consul(流行)、Spring Cloud Alibaba Nacos(流行)代替。
 
 **服务发现**：默认采用Netflix Eureka，亦可使用Spring Cloud Consul(流行)、Spring Cloud ZooKeeper、Etcd等代替。
