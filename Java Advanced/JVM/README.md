@@ -316,6 +316,7 @@ JVM实验例子|[常见JVM内存错误及解决方案](https://www.kancloud.cn/h
   
   
 # 有用的参考书籍
+  * [ JAVA JVM](https://www.cnblogs.com/Courage129/category/1716534.html)
   * [一图解千愁，jvm内存从来没有这么简单过！---了解了这张图，会让你对JVM内存的划分有更深入的理解，而不仅限于什么虚拟机栈、程序计数器等比较浅显的认知](https://juejin.im/post/5ed49e7c51882543012f9e6c)
   * [Java虚拟机(JVM)面试题（2020最新版）](https://blog.csdn.net/ThinkWon/article/details/104390752)
   * [Java虚拟机内存分配机制与启动参数说明](https://blog.csdn.net/chengyun19830206/article/details/53244278)
