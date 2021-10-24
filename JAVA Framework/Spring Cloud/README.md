@@ -124,6 +124,10 @@
 [Java Guides sample program](https://www.javaguides.net/)|[Source Code Sample program](https://www.sourcecodeexamples.net/)|[JavaInUse example](https://www.javainuse.com/home)|
 ---|---|---|
 
+[亿级流量研究处理](https://www.cnblogs.com/Courage129/category/1933798.html)|
+---|
+
+
 [SpringCloud构建实战例子程序、从入门到高级，包含eureka、zuul、gateway、feign、ribbon、hystrix、mq、turbine、nacos、elk、consul、zookeeper、rocketmq、kafka、分布式事务(RocketMq、LCN、Seata)、分库分表(Sharding-JDBC)、分布式锁(Redis、Guava)、jwt、SkyWalking、Zipkin、bootadmin等使用案例](https://github.com/xuyisu/fw-spring-cloud)|
 ---|
 
