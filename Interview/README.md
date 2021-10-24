@@ -37,6 +37,8 @@
 
 # [阿里当了7年技术面试官：掌握这些Java知识点，大厂offer拿到手软](https://www.bilibili.com/read/cv7211982)
 
+# [JAVA面试库](https://www.cnblogs.com/Courage129/category/1716534.html)
+
 # 第一阶段 Java核心篇
 
 **围绕数据结构, 多线程并发, 设计模式和虚拟机准备面试题**  
