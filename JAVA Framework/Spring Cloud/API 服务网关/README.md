@@ -16,7 +16,7 @@
       * 支持路径重写。
     * 单点入口
     * 熔断
-    * [限流](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/%E9%99%90%E6%B5%81/README.md)
+    * [服务限流](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/%E9%99%90%E6%B5%81/README.md)
     * [服务降级](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/%E6%9C%8D%E5%8A%A1%E9%99%8D%E7%BA%A7/README.md)
     * 安全认证
     * 日志监控
