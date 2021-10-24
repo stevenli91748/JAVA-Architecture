@@ -81,6 +81,7 @@
 
 
 # 有用的参考
+* [Netty](https://www.cnblogs.com/Courage129/category/1890816.html)
 * [老板叫我设计一个亿级API网关](https://network.51cto.com/art/202104/656469.htm)
 * [Netty学习大纲](https://www.jianshu.com/p/a29bc6a19c6c)
 * [Netty面试题（2020最新版）](https://blog.csdn.net/ThinkWon/article/details/104391081)
