@@ -100,7 +100,7 @@
 * [注解@CrossOrigin解决跨域问题](https://www.cnblogs.com/mmzs/p/9167743.html)
 
 ---
-
+* [详解SpringMVC](https://www.cnblogs.com/Courage129/p/14111961.html)
 * [这篇文章让你搞懂 SpringMVC 国际化](https://developer.51cto.com/art/202104/657813.htm)
 * [SpringMVC 异常处理体系深入分析](https://developer.51cto.com/art/202104/657057.htm)
 * [Spring MVC面试题（2020最新版）](https://blog.csdn.net/ThinkWon/article/details/104397427)
