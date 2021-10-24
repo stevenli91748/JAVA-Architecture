@@ -152,7 +152,7 @@
 * [Spring传递参数](https://mrbird.cc/Spring%E4%BC%A0%E9%80%92%E5%8F%82%E6%95%B0.html)
 * [搭建SpringMVC](https://mrbird.cc/%E6%90%AD%E5%BB%BASpringMVC.html)
 * [Spring注入外部值](https://mrbird.cc/Spring%E6%B3%A8%E5%85%A5%E5%A4%96%E9%83%A8%E5%80%BC.html)
-* 
+* [面试官：Spring 中的 Service 有多个实现类，怎么注入？](https://mp.weixin.qq.com/s/jm6-iUNf2ykntT8WrATCwQ)
 * [最全Spring面试71题与答案：IOC+AOP+事务+Bean装配+注解](https://www.javaweb.shop/article/217.html)
 * [万字Spring框架学习总结（附核心代码详细注释）](https://www.jianshu.com/p/751886415026)
 * [Spring声明式事务在哪些情况下会失效](https://developer.51cto.com/art/202104/657440.htm)
