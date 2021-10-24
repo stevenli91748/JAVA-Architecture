@@ -680,7 +680,9 @@
 
 * [idea 无法下载依赖包的问题](https://blog.csdn.net/weixin_39209728/article/details/90637258?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.control&dist_request_id=&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.control)
 
-
+* [Failed to bind properties under 'spring.datasource' to javax.sql.DataSource:](https://www.cnblogs.com/Courage129/p/13893093.html)
+* [Correct the classpath of your application so that it contains a single, compatible version of org.thymeleaf.spring5.SpringTemplateEngine](https://www.cnblogs.com/Courage129/p/13888087.html)
+* [SpringBoot 报错： Circular view path [readingList] 解决办法](https://www.cnblogs.com/Courage129/p/12674748.html)
 
 
 
