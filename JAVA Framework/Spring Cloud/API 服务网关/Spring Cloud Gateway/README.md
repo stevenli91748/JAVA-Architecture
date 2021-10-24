@@ -43,6 +43,7 @@
 ---Spring Cloud微服务架构实战派.pdf
 
 * 认识微服务网关
+  * [亿级流量架构之网关设计思路、常见网关对比](https://www.cnblogs.com/Courage129/p/14446586.html)
   * [SpringCloud gateway （史上最全）---疯狂创客圈](https://www.cnblogs.com/crazymakercircle/p/11704077.html)
   * [认识SpringCloud Gateway](#认识SpringCloud-Gateway)
   * [SprlngCloud Gateway的工作流程](https://weread.qq.com/web/reader/71d32370716443e271df020kc9e32940268c9e1074f5bc6)
