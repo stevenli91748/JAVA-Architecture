@@ -115,6 +115,9 @@
 
 ### 博客
 
+[Spring Cloud 2020 版本最佳实践，你落伍了！](https://mp.weixin.qq.com/s/cyC3fuPYmGhhGJULDLsZyQ)|
+---|
+
 [极客教程---提供最全面最通俗易懂的IT技术教程，包括基础教程和高级教程](https://geek-docs.com/)|[Spring Cloud 学习资料汇总](http://www.ityouknow.com/springcloud/2016/12/30/springcloud-collect.html)|
 ---|---|
 
@@ -363,20 +366,24 @@
   * Spring Cloud Security
 * Spring Cloud与 gRPC
 * Spring Test
+* 微服务之分布式事物解决方案
+  * [Seata 分布式事务](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%20Alibaba%E5%A5%97%E4%BB%B6/Seata.md)
+  * [亿级流量架构之分布式事务思路及方法](https://www.cnblogs.com/Courage129/p/14433462.html)
+  * [亿级流量架构之分布式事务解决方案对比](https://www.cnblogs.com/Courage129/p/14443653.html) 
+* 分布式任务调度------Spring Cloud微服务全栈技术与案例解析.pdf
+* 分布式消息总线
+  * [Spring Cloud Bus ---可以实现修改Git库中的配置文件并及时同步和不重启微服务系统的情况下更新到配置项](https://weread.qq.com/web/reader/7d332ce0715dbcba7d3a09dk73532580243735b90b45ac8)
+    * [使用Spring Cloud Bus刷新配置](https://mrbird.cc/Spring-Cloud-Bus.html) 
 * 6 分布式消息驱动
   * RocketMQ
   * RabbitMQ
   * [Spring Cloud Stream](https://weread.qq.com/web/reader/7d332ce0715dbcba7d3a09dk7f33291023d7f39f8317e0b)
   * Apache Kafka
 * SMS 短信 
-* [Seata 分布式事务](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%20Alibaba%E5%A5%97%E4%BB%B6/Seata.md)
 * 微服务的高级主题---Spring生态消息驱动
   * Spring与消息
   * Spring Integration
   * [Spring Cloud Stream](https://weread.qq.com/web/reader/7d332ce0715dbcba7d3a09dk7f33291023d7f39f8317e0b)
-* 分布式消息总线
-  * [Spring Cloud Bus ---可以实现修改Git库中的配置文件并及时同步和不重启微服务系统的情况下更新到配置项](https://weread.qq.com/web/reader/7d332ce0715dbcba7d3a09dk73532580243735b90b45ac8)
-    * [使用Spring Cloud Bus刷新配置](https://mrbird.cc/Spring-Cloud-Bus.html) 
 * 微服务的API 文档管理
   * [Swagger 2 ](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Swagger%E6%8E%A5%E5%8F%A3%E6%96%87%E6%A1%A3%E7%BC%96%E5%86%99%E5%8F%8A%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7/README.md)
   * [【实例】微服务集成Swagger](https://weread.qq.com/web/reader/f6732e8071dbddd6f674178)
@@ -403,7 +410,7 @@
   * 整合 ZipKin查询和分析日志
 * 微服务的日志与监控
 * [springcloud Webflux响应式编程---疯狂创客圈](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring%20Webflux/README.md)
-* 微服务之缓存---Spring Cloud微服务全栈技术与案例解析.pdf
+* [微服务之缓存](https://github.com/stevenli91748/Database/blob/master/%E7%BC%93%E5%AD%98%E7%B3%BB%E7%BB%9F/README.md)---Spring Cloud微服务全栈技术与案例解析.pdf
   * Guava Cache
   * Redis
   * 防止缓存穿透方案..
@@ -417,8 +424,6 @@
   * [SpingSecurity + SpringSession 死磕](https://www.cnblogs.com/crazymakercircle/p/12037584.html)
   * [SpringSession 独立使用](https://www.cnblogs.com/crazymakercircle/p/12038664.html)
   * [RedisSession （自定义）](https://www.cnblogs.com/crazymakercircle/p/12038208.html) 
-* 微服务之分布式事物解决方案
-* 分布式任务调度------Spring Cloud微服务全栈技术与案例解析.pdf
 * Spring Cloud 与 邻域驱动实践---重新定义Spring Cloud实战.pdf
 * 微服务的部署与发布容器化
   * 持续交付与持续部署微服务
