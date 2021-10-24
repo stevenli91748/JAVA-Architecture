@@ -145,6 +145,7 @@
   * [spring 2019_IDEA版(下)](https://www.bilibili.com/video/av50157169/?spm_id_from=333.788.videocard.0)
   
 # 有用的参考
+* [解决Spirng注入时名称下的红色波浪线](https://www.cnblogs.com/Courage129/p/14057074.html)
 * [Spring源码分析之循环依赖解决策略](https://www.cnblogs.com/Courage129/p/14494680.html)
 * [Spring 全家桶中各组件的功能](https://weread.qq.com/web/reader/f6732e8071dbddd6f674178)
 * [Spring multipart上传下载](https://mrbird.cc/Spring-multipart%E4%B8%8A%E4%BC%A0%E4%B8%8B%E8%BD%BD.html)
