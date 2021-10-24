@@ -370,6 +370,7 @@
   * [Seata 分布式事务](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%20Alibaba%E5%A5%97%E4%BB%B6/Seata.md)
   * [亿级流量架构之分布式事务思路及方法](https://www.cnblogs.com/Courage129/p/14433462.html)
   * [亿级流量架构之分布式事务解决方案对比](https://www.cnblogs.com/Courage129/p/14443653.html) 
+  * [微服务分布式事务之LCN、TCC特点、事务补偿机制缘由以及设计重点](https://www.cnblogs.com/Courage129/p/14528981.html)
 * 分布式任务调度------Spring Cloud微服务全栈技术与案例解析.pdf
 * 分布式消息总线
   * [Spring Cloud Bus ---可以实现修改Git库中的配置文件并及时同步和不重启微服务系统的情况下更新到配置项](https://weread.qq.com/web/reader/7d332ce0715dbcba7d3a09dk73532580243735b90b45ac8)
