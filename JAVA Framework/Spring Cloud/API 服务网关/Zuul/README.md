@@ -21,6 +21,8 @@
 * [Spring Cloud Zuul基础篇](https://weread.qq.com/web/reader/71d32370716443e271df020k34132fc02293416a75f431d)
 * [Spring Cloud Zuul中级篇](https://weread.qq.com/web/reader/71d32370716443e271df020kd9d320f022ed9d4f495e456)
 * [Spring Cloud Zuul高级篇](https://weread.qq.com/web/reader/71d32370716443e271df020kb5332110237b53b3a3d68d2)
+* Zuul过滤器Filter
+  * [微服务网关Zuul过滤器Filter](https://www.cnblogs.com/Courage129/p/14517275.html)
 
 --- Spring Cloud微服务架构开发实战.pdf
 
