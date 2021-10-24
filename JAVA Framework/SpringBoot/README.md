@@ -335,6 +335,7 @@
 * [0 SpringBoot 基础知识 核心知识](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/README.md)
 * [Spring Boot CLI教程](https://www.yiibai.com/springbootcli/)
 * 1 SpringBoot内部原理
+  * [Spring Boot 这样优化，让你的项目飞起来！](https://mp.weixin.qq.com/s/pHw4Xdo9bEJvDXfoxQnnKw)
   * Spring Boot 三大核心特性（组件自动装配、嵌入式Web容器、生产准备特性）
   * Web 应用（传统 Servlet、Spring Web MVC、Spring WebFlux）
   * 数据相关（JDBC、JPA、事务）
