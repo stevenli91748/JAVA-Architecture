@@ -1,4 +1,5 @@
 # 目录
+* [OAuth2.0是干什么的?](https://www.cnblogs.com/Courage129/p/14086871.html)
 * [Spring Security OAuth2快速入门](https://mrbird.cc/Spring-Security-OAuth2-Guide.html)
 * Spring Security OAuth2概念
   * [Spring Security OAuth2 SSO](https://mrbird.cc/Spring-Security-OAuth2-SSO.html)
