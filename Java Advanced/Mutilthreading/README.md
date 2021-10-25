@@ -75,6 +75,7 @@
   * 被废弃的stop()方法
   * 以编程的方式控制线程
 * [线程池---如何优雅的使用和理解线程池](https://crossoverjie.top/2018/07/29/java-senior/ThreadPool/)
+  * [别再纠结线程池大小了，没有固定公式的！终于有人说清楚了。。](https://mp.weixin.qq.com/s/_lPN_1M_bTp7EXC-dkDKrQ) 
 * 处理线程未捕获的异常
 * ThreadLocal类
 * Concurrent并发包
