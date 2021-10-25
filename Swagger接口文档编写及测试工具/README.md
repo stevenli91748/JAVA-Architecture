@@ -3,6 +3,9 @@
 [API网关之ZUUL2.X](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/API%20%E6%9C%8D%E5%8A%A1%E7%BD%91%E5%85%B3/Zuul/README.md)|[Spirng clound gateway](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/API%20%E6%9C%8D%E5%8A%A1%E7%BD%91%E5%85%B3/Spring%20Cloud%20Gateway/README.md)|
 ---|---|
 
+[Swagger2配置与使用](https://www.cnblogs.com/Courage129/p/14079026.html)|
+---|
+
 [前后端都分离了，该搞个好用的API管理系统了！](https://mp.weixin.qq.com/s/Ahs6fnIfFVVPOn3NZpIsNA)|
 ---|
 
