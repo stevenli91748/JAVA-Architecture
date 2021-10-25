@@ -39,9 +39,7 @@
 
 
 
-# 第一阶段 Java核心篇
 
-**围绕数据结构, 多线程并发, 设计模式和虚拟机准备面试题**  
 
 [Coding Interview University---这份清单内的主题会让你拥有足够的知识去面对几乎每家软件公司的技术面试](https://github.com/jwasham/coding-interview-university/blob/main/translations/README-cn.md)|
 ---|
@@ -60,7 +58,9 @@
 ----|---|---|
 
 
+# 第一阶段 Java核心篇
 
+**围绕数据结构, 多线程并发, 设计模式和虚拟机准备面试题**  
 
   * [计算机系统原理]()
   * [计算机操作系统](https://github.com/stevenli91748/operation-system/blob/master/interview/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E9%9D%A2%E8%AF%95%E7%9F%A5%E8%AF%86%E7%82%B9.md)
