@@ -1,3 +1,14 @@
+* 26 Spring Boot 并发编程
+  * [厉害了！我们部门主管半小时把我的springboot项目并发提升几倍](https://www.jianshu.com/p/669edac4ae8f) 
+  * [并发编程系列之如何正确使用线程池？](https://www.jianshu.com/p/6a2ed7180ff8)
+  * [从“设计思想”到“源码解读”，一步一步深入解析Java线程池](https://www.jianshu.com/p/a5e71ae77c53)
+  * [SpringBoot —— 多线程定时任务的实现（注解配置、task:annotation-driven配置）](https://www.jianshu.com/p/cec00ad3be2e)
+  * [Spring Boot中使用@Async实现异步调用，加速任务的执行](https://www.jianshu.com/p/a57e3aa8418a)
+  * [Spring Boot中有多个@Async异步任务时，记得做好线程池的隔离](https://www.jianshu.com/p/9441a048696c)
+  * [Spring Boot中使用@Async的时候，千万别忘了线程池的配置！](https://www.jianshu.com/p/0db4d91a6d22)
+  * [Spring Boot中如何配置线程池拒绝策略，妥善处理好溢出的任务](https://www.jianshu.com/p/7f519a8267ee)
+
+
 
 ## 异步任务
 * [Spring Boot 中的异步调用](https://mrbird.cc/Spring-Boot-Async.html)
