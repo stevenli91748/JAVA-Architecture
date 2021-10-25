@@ -31,6 +31,9 @@
       
   * [动态配置管理功能](#2-动态配置管理功能)
   * [动态DNS服务功能](#3-动态DNS服务功能)
+* [springBoot下实现http请求的异步长轮询—AsyncContext---客户端轮询的去服务器读取更新的配置信息，但读取的频率高就会影响客户端和服务器的性能。那么如何优化这种场景呢？ ](https://www.jianshu.com/p/0e968ad2a5fa)
+* [有一个支付的场景，前端需要根据支付的结果，跳转到不同的页面中。而我们的支付通知是支付方异步通知回来的，因此在发出支付请求后
+无法立即获取到支付结果，此时我们就需要轮训交易结果，判断是否支付成功](https://www.jianshu.com/p/fe819a4c4294)
 
 
 # Nacos 三大功能
@@ -51,6 +54,8 @@
 
 
 # 有用的参考
+* [Nacos配置中心](https://www.jianshu.com/p/bcc5b787bc29)
+* [Nacos配置中心交互模型是 push 还是 pull ？你应该这么回答](https://www.jianshu.com/p/ec5a4a428923)
 * [微服务注册中心比较(ZooKeeper/Eureka/Consul/Nacos)](https://www.cnblogs.com/davidgu/p/14526467.html)
 * [Nacos官方文档](https://nacos.io/zh-cn/docs/what-is-nacos.html)
 * [阿里巴巴 Nacos 企业级落地上篇](https://mp.weixin.qq.com/s?__biz=MzUzNzYxNjAzMg==&mid=2247492337&idx=1&sn=71df8eee2b4ab038a502bebcb2d3ced2&chksm=fae6e93ecd91602888cfee80041c6b37566a5e5cd1066df16439d320438c07a9375d3345554d&scene=21#wechat_redirect)
