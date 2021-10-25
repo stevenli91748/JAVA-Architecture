@@ -32,6 +32,7 @@
        * [服务端Git配置详解与实战](https://weread.qq.com/web/reader/71d32370716443e271df020k7cb321502467cbbc409e62d) 
        * [关系型数据库实现配置中心](https://weread.qq.com/web/reader/71d32370716443e271df020ke2c32140247e2c420d92577)
        * [关系数据库存储实现配置中心](https://weread.qq.com/web/reader/71d32370716443e271df020k32b321d024832bb90e89958)
+       * [使用本地的参数覆盖远程的参数](https://weread.qq.com/web/reader/71d32370716443e271df020kd2d32c50249d2ddea18fb39)
      * [Spring Cloud Config Client配置](https://weread.qq.com/web/reader/71d32370716443e271df020k32932b102423295c76ac7d9)
      * [手动刷新配置中心信息](https://weread.qq.com/web/reader/71d32370716443e271df020k73532580243735b90b45ac8)
      * [Spring Cloud Config结合Spring Cloud Bus进行热刷新](https://weread.qq.com/web/reader/71d32370716443e271df020k73532580243735b90b45ac8)
