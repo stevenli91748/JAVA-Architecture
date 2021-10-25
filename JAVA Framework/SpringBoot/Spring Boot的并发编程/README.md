@@ -7,7 +7,7 @@
   * [Spring Boot中有多个@Async异步任务时，记得做好线程池的隔离](https://www.jianshu.com/p/9441a048696c)
   * [Spring Boot中使用@Async的时候，千万别忘了线程池的配置！](https://www.jianshu.com/p/0db4d91a6d22)
   * [Spring Boot中如何配置线程池拒绝策略，妥善处理好溢出的任务](https://www.jianshu.com/p/7f519a8267ee)
-
+  * [调用线程不可捕捉异步线程的异常,如何处理?](https://www.jianshu.com/p/ad32d98a624f)
 
 
 ## 异步任务
