@@ -402,6 +402,9 @@
 * [14 统一全局异常处理](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E7%BB%9F%E4%B8%80%E5%85%A8%E5%B1%80%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86/README.md)
 * [15 Spring Boot调度---调度是执行特定时间段的任务的过程](https://www.yiibai.com/spring-boot/spring_boot_scheduling.html)
   * [15.1 Spring Boot 定时任务，怎么实现任务动态增删启停？](https://mp.weixin.qq.com/s/D2WDNCBuqSbTSuY8TkjPqA) 
+  * [SpringBoot —— 多线程定时任务的实现（注解配置、task:annotation-driven配置）](https://www.jianshu.com/p/cec00ad3be2e)
+  * [Spring Boot中使用@Async实现异步调用，加速任务的执行](https://www.jianshu.com/p/a57e3aa8418a)
+  * [必须学会这10种定时任务，你我都会飘](https://www.jianshu.com/p/ed781e6a7bd3)
 * [Spring Boot Rest模板---模板用于创建消费RESTful Web 服务的应用](https://www.yiibai.com/spring-boot/spring_boot_rest_template.html)
 * [Spring Boot服务组件---服务组件(Service Components)是包含@Service注释的类文件](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/Spring%20Boot%E6%9C%8D%E5%8A%A1%E7%BB%84%E4%BB%B6.md)
 * [Spring Boot批量服务](https://www.yiibai.com/spring-boot/spring_boot_batch_service.html)
@@ -424,6 +427,8 @@
 * [23 项目实战](https://github.com/stevenli91748/JAVA-Architecture/tree/master/JAVA%20Framework/SpringBoot/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98#readme)
 * [24 Spring Boot中编写单元测试](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95%E7%94%A8%E4%BE%8B.md)
 * [25 spring boot actuator模块](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/spring%20boot%20actuator%E6%A8%A1%E5%9D%97/README.md)
+* 26 Spring Boot 并发编程
+  * [厉害了！我们部门主管半小时把我的springboot项目并发提升几倍](https://www.jianshu.com/p/669edac4ae8f) 
 ---
 
 
