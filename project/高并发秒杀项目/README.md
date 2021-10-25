@@ -5,6 +5,8 @@
 [秒杀系统设计与实现.互联网工程师进阶与分析](https://github.com/qiurunze123/miaosha)|
 ---|
 
+[「绝密档案」“爆料”完整秒杀架构的设计到技术关键点的“情报信息”](https://www.jianshu.com/p/dad900926de6)|
+---|
 
 [教你你搭建高并发秒杀系统](https://www.bilibili.com/video/BV16W411A7zy)|[不会搭建高并发秒杀系统？看架构师带你如何快速搭建](https://www.bilibili.com/video/BV1NW411k7VD)|
 ---|---|
