@@ -428,6 +428,7 @@
 * [25 spring boot actuator模块](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/spring%20boot%20actuator%E6%A8%A1%E5%9D%97/README.md)
 * SpringBoot异步编程机制以及功能分析讲解
   * [SpringBoot技术专题-异步编程机制以及功能分析讲解](https://www.jianshu.com/p/e4d513d34a3e)
+  * [异步调用如何使用最好？](https://www.jianshu.com/p/3c589f4ee4ef)
 ---
 
 
