@@ -31,7 +31,7 @@
      * [Spring Cloud Config Server配置](https://weread.qq.com/web/reader/71d32370716443e271df020k32932b102423295c76ac7d9)
      * [Spring Cloud Config Client配置](https://weread.qq.com/web/reader/71d32370716443e271df020k32932b102423295c76ac7d9)
      * [手动刷新配置中心信息](https://weread.qq.com/web/reader/71d32370716443e271df020k73532580243735b90b45ac8)
-     * [结合Spring Cloud Bus热刷新](https://weread.qq.com/web/reader/71d32370716443e271df020k73532580243735b90b45ac8)
+     * [Spring Cloud Config结合Spring Cloud Bus进行热刷新](https://weread.qq.com/web/reader/71d32370716443e271df020k73532580243735b90b45ac8)
    * 扩展配置中心
    * 第三方配置中心Apollo的接入
  * [配置中心应具备的功能 ](https://weread.qq.com/web/reader/71d32370716443e271df020k32932b102423295c76ac7d9)
