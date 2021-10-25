@@ -43,7 +43,6 @@
     * 共享存储
   
 * Java线程的运行机制
-* [Java线程池ThreadPoolExecutor实现原理剖析](https://github.com/aCoder2013/blog/issues/28)
 * 线程的创建和启动
   * 展Java.lang.Thread类
   * 实现Runnable接口
@@ -75,7 +74,8 @@
   * 被废弃的stop()方法
   * 以编程的方式控制线程
 * [线程池---如何优雅的使用和理解线程池](https://crossoverjie.top/2018/07/29/java-senior/ThreadPool/)
-  * [别再纠结线程池大小了，没有固定公式的！终于有人说清楚了。。](https://mp.weixin.qq.com/s/_lPN_1M_bTp7EXC-dkDKrQ) 
+  * [别再纠结线程池大小了，没有固定公式的！终于有人说清楚了。。](https://mp.weixin.qq.com/s/_lPN_1M_bTp7EXC-dkDKrQ)
+  * [Java线程池ThreadPoolExecutor实现原理剖析](https://github.com/aCoder2013/blog/issues/28) 
 * 处理线程未捕获的异常
 * ThreadLocal类
 * Concurrent并发包
