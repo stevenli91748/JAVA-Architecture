@@ -1,4 +1,8 @@
 
+[全网Intellij IDEA 的优秀文章](https://github.com/xiaoxiunique/awesome-IntelliJ-IDEA)|
+---|
+
+
 [精尽 IntelliJ IDEA 学习指南](http://svip.iocoder.cn/IntelliJ-IDEA/tutorials/)|[IntelliJ IDEA使用教程 （总目录篇）](https://blog.csdn.net/qq_27093465/article/details/77449117)|
 ---|---|
 
