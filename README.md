@@ -304,8 +304,9 @@
 
 # 第七阶段   工具和组件篇
 
-第三阶段的项目实现|
+[大厂的 SDK 写法，偷学到了](https://www.jianshu.com/p/583023fccd61)|
 ---|
+
 
 [最新 Java 开发工具教程，都在这了](https://mp.weixin.qq.com/s/K2nbzDQmharfYhkBDvwQdw)|[java代码审计](https://weread.qq.com/web/reader/c8732a70726fa058c87154b)|
 ---|---|
