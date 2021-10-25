@@ -30,20 +30,14 @@
 * [可能是一份最适合你的后端面试指南（部分内容前端同样适用）](https://juejin.im/post/5ba591386fb9a05cd31eb85f#heading-6)
 
 
+# 博客
 
-# [简历模板](https://bugstack.cn/itstack-code-life/2021/02/24/%E5%8D%8A%E5%B9%B4%E7%AD%9B%E9%80%89%E4%BA%86400+%E4%BB%BD%E7%AE%80%E5%8E%86-%E5%91%8A%E8%AF%89%E4%BD%A0%E6%80%8E%E4%B9%88%E5%86%99%E4%BC%9A%E8%A2%AB%E6%92%A9.html)
+### [简历模板](https://bugstack.cn/itstack-code-life/2021/02/24/%E5%8D%8A%E5%B9%B4%E7%AD%9B%E9%80%89%E4%BA%86400+%E4%BB%BD%E7%AE%80%E5%8E%86-%E5%91%8A%E8%AF%89%E4%BD%A0%E6%80%8E%E4%B9%88%E5%86%99%E4%BC%9A%E8%A2%AB%E6%92%A9.html)
 
-# 第0阶段  [面向对象](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Object%20oriented/interview/README.md)
-
-# [阿里当了7年技术面试官：掌握这些Java知识点，大厂offer拿到手软](https://www.bilibili.com/read/cv7211982)
-
-
-
-
+### [阿里当了7年技术面试官：掌握这些Java知识点，大厂offer拿到手软](https://www.bilibili.com/read/cv7211982)
 
 [Coding Interview University---这份清单内的主题会让你拥有足够的知识去面对几乎每家软件公司的技术面试](https://github.com/jwasham/coding-interview-university/blob/main/translations/README-cn.md)|
 ---|
-
 
 [阿里云---Java面试红宝书](https://developer.aliyun.com/graph/java/point/103?spm=a2c6h.21254954.0.0.342e5907quXIz6)|[java核心知识整理](https://www.kancloud.cn/imnotdown1019/java_core_full/1004074)|[史上最全 Java 面试题 30 专题](https://www.cnblogs.com/crazymakercircle/p/14367907.html)|
 ---|---|---|
@@ -57,6 +51,7 @@
 [Java集合容器面试题（2020最新版）](https://thinkwon.blog.csdn.net/article/details/104588551)|[Java异常面试题（2020最新版）](https://thinkwon.blog.csdn.net/article/details/104390689)|[Java集合容器面试题（2020最新版）](https://thinkwon.blog.csdn.net/article/details/104588551)|
 ----|---|---|
 
+# 第0阶段  [面向对象](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Object%20oriented/interview/README.md)
 
 # 第一阶段 Java核心篇
 
