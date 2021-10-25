@@ -2,6 +2,9 @@
 [Spring Data Redis 最佳实践](https://www.jianshu.com/p/6eb4306ef365)|[Spring Data Jpa(2019_idea版)](https://www.bilibili.com/video/BV1Y4411W7Rx?from=search&seid=15302849285323004849)|
 ---|---|
 
+[spring-data-redis 动态切换数据源](https://www.jianshu.com/p/571b0c55ed4c)|
+---|
+
 # Spring Data 教程
 
 * Spring Data With MySQL
