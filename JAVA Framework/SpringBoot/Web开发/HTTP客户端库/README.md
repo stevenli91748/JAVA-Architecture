@@ -1,10 +1,14 @@
 # HTTP客户端
-
+* HttpClient
+* okhttp
+* RestTemplate
+* Feign
 
 
 
 
 # 参考
+* [HttpClient、OKhttp、RestTemplate接口调用对比，选择一个优秀的 HTTP Client 的重要性](https://www.codenong.com/cs106097201/)
 * [HttpClient、okhttp和RestTemplate的区别](https://blog.csdn.net/riemann_/article/details/109168384)
 * [Back to articles Which Java HTTP client should I use in 2020?](https://www.mocklab.io/blog/which-java-http-client-should-i-use-in-2020/)
 * [参数校验](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E5%8F%82%E6%95%B0%E6%A0%A1%E9%AA%8C.md)
