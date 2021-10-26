@@ -228,11 +228,11 @@
 [【实战项目】mall（SpringBoot版本）---mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署 非常不错 这个项目还提供了详细的文档](https://github.com/macrozheng/mall)|
 ---|
 
-[【实战项目】mall（SpringCloud版本）---是一套微服务商城系统，采用了 Spring Cloud Hoxton & Alibaba、Spring Boot 2.3、Oauth2、MyBatis、Docker、Elasticsearch、Kubernetes等核心技术](https://www.jianshu.com/p/48a6e0e6cc01)|
+[【实战项目】mall-swarm (SpringCloud版本）---是一套微服务商城系统，采用了 Spring Cloud Hoxton & Alibaba、Spring Boot 2.3、Oauth2、MyBatis、Docker、Elasticsearch、Kubernetes等核心技术](https://www.jianshu.com/p/48a6e0e6cc01)|
 ---|
 
-[【实战项目】mall(学习教程文档)](http://www.macrozheng.com/#/README)|
----|
+[【实战项目】mall(SpringBoot学习教程文档)](http://www.macrozheng.com/#/README)|[【实战项目】mall(SpringCloud学习教程文档)](https://github.com/macrozheng/springcloud-learning)|
+---|---|
 
 ---
 
