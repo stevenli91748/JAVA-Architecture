@@ -5,3 +5,4 @@
 * [k8s springboot 生产实践（高可用部署、基于qps动态扩缩容、prometheus监控）](https://www.jianshu.com/p/8aa4ae9be025)
 * [k8s部署springboot容器连接mysql容器](https://www.jianshu.com/p/d6835a121bae)
 * [在k8s中部署redis cluster实战](https://www.jianshu.com/p/a34790c730cf)
+* [springcloud in k8s springcloud项目部署到k8s](https://www.jianshu.com/p/a58ff88ceda7)
