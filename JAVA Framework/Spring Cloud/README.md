@@ -327,12 +327,20 @@
       *  启动 EurekaDiscoveryConsumer进行服务发现
     * [Consul---注册中心](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%E5%8E%9F%E7%94%9F%E5%8F%8A%E5%85%B6%E4%BB%96%E6%95%B4%E5%90%88%E7%BB%84%E4%BB%B6/Consul.md)
     * [Nacos Discovery---注册中心](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%20Alibaba%E5%A5%97%E4%BB%B6/Nacos.md)
-  * 微服务之间的调用
-    * RPC方式
-    * [RESTful HTTP方式有两种服务调用方法](https://mp.weixin.qq.com/s/uSYygJRwav5GgrG4um8R4w)
-      * [OpenFeign---最方便、最优雅的方式是通过Spring Cloud Open Feign进行服务间的调用 ](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%20Netflix%E5%A5%97%E4%BB%B6/OpenFeign.md)
-      * [Feign](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%20Netflix%E5%A5%97%E4%BB%B6/Feign.md)（第一种调用方法）---Feign是一个声明式http客户端。使用Feign能让编写http客户端更加简单，它的使用方法是定义一个接口，然后在上面添加注解，避免了调用目标微服务时，需要不断的解析/封装json数据的繁琐,但是在实际开发中，由于对服务依赖的调用可能不止一处,往往一个接口会被多处调用，所以通常都会针对每个微服务自行封装一些客户端类来包装这些依赖服务的调用。所以，Feign在此基础上做了进一步封装，由他来帮助我们定义和实现依赖服务接口的定义
-      * Ribbon + RestTemplate（第二种调用方法）---在使用Ribbon+ RestTemplate时，Ribbon需要自己构建http请求，模拟http请求然后使用RestTemplate发送给其他服务，步骤相当繁琐
+  * [微服务HTTP客户端](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/Web%E5%BC%80%E5%8F%91/HTTP%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%BA%93/README.md)
+    * 底层协议
+      * Java’s HttpURLConnection and HttpsURLConnection
+      * The new HttpClient, introduced in Java 11
+      * Apache HTTPClient
+      * OkHttp
+      * AsyncHttpClient
+      * Jetty HttpClient
+    * 微服务之间的HTTP客户端
+      * RPC方式
+      * [RESTful HTTP方式有几种服务调用方法](https://mp.weixin.qq.com/s/uSYygJRwav5GgrG4um8R4w)
+        * [OpenFeign---最方便、最优雅的方式是通过Spring Cloud Open Feign进行服务间的调用 ](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%20Netflix%E5%A5%97%E4%BB%B6/OpenFeign.md)
+        * [Feign](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%20Netflix%E5%A5%97%E4%BB%B6/Feign.md)（第一种调用方法）---微服务间调用，个人使用feign，同时使用OKhttp替换feign中默认的httpClient
+        * Ribbon + RestTemplate（第二种调用方法）---第三方服务调用, 在使用Ribbon+ RestTemplate时，Ribbon需要自己构建http请求，模拟http请求然后使用RestTemplate发送给其他服务，步骤相当繁琐
   * 微服务负载均衡
     * [Ribbon---负载均衡](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%20Netflix%E5%A5%97%E4%BB%B6/Ribbon.md)
     * Spring Cloud LoadBalancer
@@ -359,7 +367,6 @@
   * 服务降级
   * 灰度发布
 * 4 微服务容错---微服务的高级主题
-  * []() 
   * CircuitBreaker
   * [Sentinel](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%20Alibaba%E5%A5%97%E4%BB%B6/Sentinel.md)
   * [Hystrix](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%20Netflix%E5%A5%97%E4%BB%B6/hystrix.md)
