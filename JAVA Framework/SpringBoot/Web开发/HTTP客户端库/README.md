@@ -1,12 +1,12 @@
 # HTTP客户端
 
  * 底层协议
-   * Java’s HttpURLConnection and HttpsURLConnection
-   * The new HttpClient, introduced in Java 11
-   * Apache HTTPClient
-   * OkHttp
-   * AsyncHttpClient
-   * Jetty HttpClient
+   * Java’s HttpURLConnection and HttpsURLConnection---Feign在默认情况下使用的是JDK原生的URLConnection发送HTTP请求，没有连接池, 可参考该文 [Back to articles Which Java HTTP client should I use in 2020?](https://www.mocklab.io/blog/which-java-http-client-should-i-use-in-2020/)
+   * The new HttpClient, introduced in Java 11---可参考该文 [Back to articles Which Java HTTP client should I use in 2020?](https://www.mocklab.io/blog/which-java-http-client-should-i-use-in-2020/)
+   * Apache HTTPClient--- 可参考该文[Back to articles Which Java HTTP client should I use in 2020?](https://www.mocklab.io/blog/which-java-http-client-should-i-use-in-2020/)
+   * OkHttp---可参考该文[Back to articles Which Java HTTP client should I use in 2020?](https://www.mocklab.io/blog/which-java-http-client-should-i-use-in-2020/)
+   * AsyncHttpClient---可参考该文[Back to articles Which Java HTTP client should I use in 2020?](https://www.mocklab.io/blog/which-java-http-client-should-i-use-in-2020/)
+   * Jetty HttpClient--可参考该文[Back to articles Which Java HTTP client should I use in 2020?](https://www.mocklab.io/blog/which-java-http-client-should-i-use-in-2020/)
  * 微服务之间的调用
       * RPC方式
       * [RESTful HTTP方式有几种服务调用方法](https://mp.weixin.qq.com/s/uSYygJRwav5GgrG4um8R4w)
