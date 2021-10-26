@@ -248,12 +248,13 @@
   * [4. open-capacity-platform---综合平台类项目,一个学习Spring Cloud微服务技术栈的不错范例，其同样也包含了微服务架构里面的各种应用组件](https://gitee.com/owenwangwen/open-capacity-platform "open-capacity-platform也是一个学习Spring Cloud微服务技术栈的不错范例，其同样也包含了微服务架构里面的各种应用组件")
   * [5. Piggy Metrics---项目所用技术栈：Spring Boot、Spring Cloud、Docker等](https://github.com/sqshq/piggymetrics "Piggy Metrics是一个基于Spring Boot, Spring Cloud和Docker等技术实现的微服务脚手架，项目包含了：API网关、服务发现、负载均衡、熔断机制、配置中心、监控服务、认证服务等几大微服务项目基本模块，对学习和练手微服务项目是不错的选择")
   * 6 mall---mall项目是一套电商系统，包括前台商城系统及后台管理系统，现有SpringBoot版本 和 Spring Cloud版本， 基于SpringBoot+MyBatis实现，采用Docker容器化部署。前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块"
+    * [mall的作者 macrozheng的 Github](https://github.com/macrozheng/)
     * [【实战项目】mall（SpringBoot版本）---mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署 非常不错 这个项目还提供了详细的文档](https://github.com/macrozheng/mall)
     * [【实战项目】mall-swarm (SpringCloud版本）---是一套微服务商城系统，采用了 Spring Cloud Hoxton & Alibaba、Spring Boot 2.3、Oauth2、MyBatis、Docker、Elasticsearch、Kubernetes等核心技术](https://www.jianshu.com/p/48a6e0e6cc01)
     * [【实战项目】mall(SpringBoot学习教程文档)](http://www.macrozheng.com/#/README)
     * [【实战项目】mall(SpringCloud学习教程文档)](https://github.com/macrozheng/springcloud-learning)
 
-  
+ * [Lion 项目简介---基于SpringCloud体系实现的一套支持云原生的分布式微服务架构，提供OAuth2/JWT权限认证、分布式事务、灰度、限流、链路追踪等功能，支持Docker容器化部署、镜像交付、K8S容器编排               ](https://www.jianshu.com/p/a061effe4ae5)
   
   
   * [7. SnowJena---帮助我们学习和实践限流这一常见的技术方案和实现原理，二是帮助我们学习和理解常见的设计模式](https://github.com/ystcode/SnowJena "SnowJena是一个基于令牌桶算法实现的分布式无锁限流框架，支持熔断降级，支持动态配置规则，支持可视化监控，开箱即用。可用于Java后端项目常见的本地限流和分布式限流的场景")
