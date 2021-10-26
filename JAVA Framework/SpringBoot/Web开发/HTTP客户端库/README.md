@@ -7,7 +7,7 @@
    * OkHttp---可参考该文[Back to articles Which Java HTTP client should I use in 2020?](https://www.mocklab.io/blog/which-java-http-client-should-i-use-in-2020/)
    * AsyncHttpClient---可参考该文[Back to articles Which Java HTTP client should I use in 2020?](https://www.mocklab.io/blog/which-java-http-client-should-i-use-in-2020/)
    * Jetty HttpClient--可参考该文[Back to articles Which Java HTTP client should I use in 2020?](https://www.mocklab.io/blog/which-java-http-client-should-i-use-in-2020/)
- * 微服务之间的调用
+ * 微服务之间的HTTP客户端
       * RPC方式
       * [RESTful HTTP方式有几种服务调用方法](https://mp.weixin.qq.com/s/uSYygJRwav5GgrG4um8R4w)
         * [OpenFeign---最方便、最优雅的方式是通过Spring Cloud Open Feign进行服务间的调用 ](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%20Netflix%E5%A5%97%E4%BB%B6/OpenFeign.md)
