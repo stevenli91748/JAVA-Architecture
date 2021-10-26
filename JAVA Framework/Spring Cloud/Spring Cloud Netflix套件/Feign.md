@@ -27,9 +27,9 @@
     * [Feign支持属性文件配置](https://weread.qq.com/web/reader/71d32370716443e271df020k33e3289021c33e75ff09694)
       * 对单个指定特定名称的Feign进行配置
       * 作用于所有Feign的配置方式---注意，如果通过Java代码的方式配置过Feign，然后又通过属性文件的方式配置Feign，属性文件中Feign的配置会覆盖Java代码的配置。但是可以配置feign.client.default-to-properties=false来改变Feign配置生效的优先级
-    * [替换Feign默认的HTTP客户端---Feign在默认情况下使用的是JDK原生的URLConnection发送HTTP请求，没有连接池，但是对每个地址会保持一个长连接，即利用HTTP的persistenceconnection, 我们可以用Apache的HTTP Client替换Feign原始的HTTP Client，通过设置连接池、超时时间等对服务之间的调用调优](https://weread.qq.com/web/reader/71d32370716443e271df020k6ea321b021d6ea9ab1ba605) 
-      * [使用HTTP Client替换Feign默认Client](https://weread.qq.com/web/reader/71d32370716443e271df020k6ea321b021d6ea9ab1ba605)
-      * [使用okhttp替换Feign默认的Client](https://weread.qq.com/web/reader/71d32370716443e271df020k6ea321b021d6ea9ab1ba605) 
+      * [替换Feign默认的HTTP客户端---Feign在默认情况下使用的是JDK原生的URLConnection发送HTTP请求，没有连接池，但是对每个地址会保持一个长连接，即利用HTTP的persistenceconnection, 我们可以用Apache的HTTP Client替换Feign原始的HTTP Client，通过设置连接池、超时时间等对服务之间的调用调优](https://weread.qq.com/web/reader/71d32370716443e271df020k6ea321b021d6ea9ab1ba605) 
+        * [使用HTTP Client替换Feign默认Client](https://weread.qq.com/web/reader/71d32370716443e271df020k6ea321b021d6ea9ab1ba605)
+        * [使用okhttp替换Feign默认的Client](https://weread.qq.com/web/reader/71d32370716443e271df020k6ea321b021d6ea9ab1ba605) 
       * [Feign的Post和Get的多参数传递](https://weread.qq.com/web/reader/71d32370716443e271df020k6ea321b021d6ea9ab1ba605)
 
 ---
