@@ -6,6 +6,7 @@
 * Ribbon 与 Feign or OpenFeign 和 Nginx的区别
   * [Feign原理 （图解）---疯狂创客圈](https://www.cnblogs.com/crazymakercircle/p/11965726.html) 
   * [Feign概念](#Feign概念)
+  * [Feign特性](https://weread.qq.com/web/reader/71d32370716443e271df020k02e32f0021b02e74f10ece8)
   * [Ribbon和Feign的区别](#Ribbon和Feign的区别)
   * [Ribbon和Nginx的区别](#Ribbon和Nginx的区别)
   * [springcloud feign 与 openFeign区别](https://www.jianshu.com/p/fc5de8218384)
