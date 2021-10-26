@@ -1,3 +1,12 @@
+# HTTP客户端
+
+
+
+
+
+# 参考
+* [HttpClient、okhttp和RestTemplate的区别](https://blog.csdn.net/riemann_/article/details/109168384)
+* [Back to articles Which Java HTTP client should I use in 2020?](https://www.mocklab.io/blog/which-java-http-client-should-i-use-in-2020/)
 * [参数校验](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E5%8F%82%E6%95%B0%E6%A0%A1%E9%AA%8C.md)
 * [HttpMessageConverter的作用及替换---输入/输出数据格式和JAVA对象的转换](https://www.jianshu.com/p/333ed5ee958d)
 * [精讲RestTemplate](http://www.zimug.com/tag/resttemplate)
