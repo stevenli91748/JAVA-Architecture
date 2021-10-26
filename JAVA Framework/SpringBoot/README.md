@@ -220,13 +220,25 @@
 [FEBS-Vue文档,前后端分离版本，前端使用Vue全家桶  权限管理系统](https://mrbird.cc/FEBS-Vue-Document.html)|[FEBS-Shiro--- Spring Boot 2.4.2，Shiro1.6.0 & Layui 2.5.6 权限管理系统](https://github.com/febsteam/FEBS-Shiro)|
 ---|---|
 
+## Mall项目
+
+[mall的作者 macrozheng的 Github](https://github.com/macrozheng/)|
+---|
+
+[【实战项目】mall（SpringBoot版本）---mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署 非常不错 这个项目还提供了详细的文档](https://github.com/macrozheng/mall)|
+---|
+
+[【实战项目】mall（SpringCloud版本）---是一套微服务商城系统，采用了 Spring Cloud Hoxton & Alibaba、Spring Boot 2.3、Oauth2、MyBatis、Docker、Elasticsearch、Kubernetes等核心技术](https://www.jianshu.com/p/48a6e0e6cc01)|
+---|
+
+[【实战项目】mall(学习教程文档)](http://www.macrozheng.com/#/README)|
+---|
+
 ---
 
 [【实战项目】eladmin---项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由](https://github.com/elunez/eladmin)|
 ---|
 
-[【实战项目】mall---mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署 非常不错 这个项目还提供了详细的文档](https://github.com/macrozheng/mall)|
----|
 
 [【实战项目】SpringBlade开发手册---SpringBlade 是由一个商业级项目升级优化而来的SpringCloud微服务架构，采用Java8 API重构了业务代码，完全遵循阿里巴巴编码规范。采用Spring Boot 2 、Spring Cloud Greenwich 、Mybatis 等核心技术，同时提供基于React和Vue的两个前端框架用于快速搭建企业级的微服务系统平台](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98/SpringBlade%20%E9%A1%B9%E7%9B%AE/README.md)|
 ---|
