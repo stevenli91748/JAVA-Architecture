@@ -30,7 +30,7 @@
     * [替换Feign默认的HTTP客户端---Feign在默认情况下使用的是JDK原生的URLConnection发送HTTP请求，没有连接池，但是对每个地址会保持一个长连接，即利用HTTP的persistenceconnection, 我们可以用Apache的HTTP Client替换Feign原始的HTTP Client，通过设置连接池、超时时间等对服务之间的调用调优](https://weread.qq.com/web/reader/71d32370716443e271df020k6ea321b021d6ea9ab1ba605) 
       * [使用HTTP Client替换Feign默认Client](https://weread.qq.com/web/reader/71d32370716443e271df020k6ea321b021d6ea9ab1ba605)
       * [使用okhttp替换Feign默认的Client](https://weread.qq.com/web/reader/71d32370716443e271df020k6ea321b021d6ea9ab1ba605) 
-
+      * [Feign的Post和Get的多参数传递](https://weread.qq.com/web/reader/71d32370716443e271df020k6ea321b021d6ea9ab1ba605)
 
 ---
 
