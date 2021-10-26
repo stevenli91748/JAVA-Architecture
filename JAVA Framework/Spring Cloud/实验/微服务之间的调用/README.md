@@ -10,4 +10,5 @@
   * [Spring Cloud Feign 声明式服务调用快速入门例子](https://mrbird.cc/Spring-Cloud-Feign.html)
   * [对单个指定特定名称的Feign进行配置的例子](https://weread.qq.com/web/reader/71d32370716443e271df020k33e3289021c33e75ff09694)
   * [作用于所有Feign的配置方式的例子 ](https://weread.qq.com/web/reader/71d32370716443e271df020k33e3289021c33e75ff09694)
-
+  * [使用HTTP Client替换Feign默认Client的例子](https://weread.qq.com/web/reader/71d32370716443e271df020k6ea321b021d6ea9ab1ba605)
+  * [使用okhttp替换Feign默认的Client的例子](https://weread.qq.com/web/reader/71d32370716443e271df020k6ea321b021d6ea9ab1ba605) 
