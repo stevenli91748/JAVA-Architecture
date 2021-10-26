@@ -9,11 +9,22 @@
   * [Feign原理解析](https://weread.qq.com/web/reader/71d32370716443e271df020k02e32f0021b02e74f10ece8)
   * [Feign概念](#Feign概念)
   * [Feign特性](https://weread.qq.com/web/reader/71d32370716443e271df020k02e32f0021b02e74f10ece8)
+    * 可插拔的注解支持，包括Feign注解和JAX-RS注解
+    * 支持可插拔的HTTP编码器和解码器
+    * 支持Hystrix和它的Fallback
+    * 支持Ribbon的负载均衡
+    * 支持HTTP请求和响应的压缩  
   * Ribbon 与 Feign or OpenFeign 和 Nginx的区别
     * [Ribbon和Feign的区别](#Ribbon和Feign的区别)
     * [Ribbon和Nginx的区别](#Ribbon和Nginx的区别)
     * [springcloud feign 与 openFeign区别](https://www.jianshu.com/p/fc5de8218384)
     * [Ribbon 与 Feign 和 Nginx 区别与使用场景,性能介绍](https://blog.csdn.net/lchq1995/article/details/83340753)
+  * Spring Cloud Feign的基础功能使用
+    * [FeignClient注解剖析](https://weread.qq.com/web/reader/71d32370716443e271df020k33e3289021c33e75ff09694)
+    * [Feign开启GZIP压缩](https://weread.qq.com/web/reader/71d32370716443e271df020k33e3289021c33e75ff09694)
+    * [Feign支持属性文件配置](https://weread.qq.com/web/reader/71d32370716443e271df020k33e3289021c33e75ff09694)
+      * 对单个指定特定名称的Feign进行配置
+      * 作用于所有Feign的配置方式 
   * [Spring Cloud Feign的使用扩展](https://weread.qq.com/web/reader/71d32370716443e271df020k4e73277021a4e732ced3b55)
 
 ---
