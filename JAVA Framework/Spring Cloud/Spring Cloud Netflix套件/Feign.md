@@ -21,11 +21,16 @@
     * [Ribbon 与 Feign 和 Nginx 区别与使用场景,性能介绍](https://blog.csdn.net/lchq1995/article/details/83340753)
   * Spring Cloud Feign的基础功能使用
     * [FeignClient注解剖析](https://weread.qq.com/web/reader/71d32370716443e271df020k33e3289021c33e75ff09694)
-    * [Feign开启GZIP压缩](https://weread.qq.com/web/reader/71d32370716443e271df020k33e3289021c33e75ff09694)
+    * [Feign开启GZIP压缩](https://weread.qq.com/web/reader/71d32370716443e271df020k33e3289021c33e75ff09694)---在Spring Cloud Finchley.M9版本中开启Feign GZIP压缩时，应用会启动报错
+    * [Feign Client开启日志](https://weread.qq.com/web/reader/71d32370716443e271df020k33e3289021c33e75ff09694)
+    * [ Feign的超时设置](https://weread.qq.com/web/reader/71d32370716443e271df020k33e3289021c33e75ff09694)
     * [Feign支持属性文件配置](https://weread.qq.com/web/reader/71d32370716443e271df020k33e3289021c33e75ff09694)
       * 对单个指定特定名称的Feign进行配置
-      * 作用于所有Feign的配置方式 
-  * [Spring Cloud Feign的使用扩展](https://weread.qq.com/web/reader/71d32370716443e271df020k4e73277021a4e732ced3b55)
+      * 作用于所有Feign的配置方式---注意，如果通过Java代码的方式配置过Feign，然后又通过属性文件的方式配置Feign，属性文件中Feign的配置会覆盖Java代码的配置。但是可以配置feign.client.default-to-properties=false来改变Feign配置生效的优先级
+    * [替换Feign默认的Client---Feign在默认情况下使用的是JDK原生的URLConnection发送HTTP请求，没有连接池，但是对每个地址会保持一个长连接，即利用HTTP的persistenceconnection, 我们可以用Apache的HTTP Client替换Feign原始的HTTP Client，通过设置连接池、超时时间等对服务之间的调用调优](https://weread.qq.com/web/reader/71d32370716443e271df020k6ea321b021d6ea9ab1ba605) 
+      * [使用HTTP Client替换Feign默认Client](https://weread.qq.com/web/reader/71d32370716443e271df020k6ea321b021d6ea9ab1ba605)
+      * [使用okhttp替换Feign默认的Client](https://weread.qq.com/web/reader/71d32370716443e271df020k6ea321b021d6ea9ab1ba605) 
+
 
 ---
 
