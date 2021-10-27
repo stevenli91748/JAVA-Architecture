@@ -34,8 +34,8 @@
       * [Feign的Post和Get的多参数传递](https://weread.qq.com/web/reader/71d32370716443e271df020k6ea321b021d6ea9ab1ba605)
       * [Feign的文件上传](https://weread.qq.com/web/reader/71d32370716443e271df020k6ea321b021d6ea9ab1ba605)
       * [解决Feign首次请求失败问题](https://weread.qq.com/web/reader/71d32370716443e271df020k6ea321b021d6ea9ab1ba605)
-      * [解决Feign首次请求失败问题](https://weread.qq.com/web/reader/71d32370716443e271df020k6ea321b021d6ea9ab1ba605)
-      * [解决Feign首次请求失败问题](https://weread.qq.com/web/reader/71d32370716443e271df020k6ea321b021d6ea9ab1ba605)
+      * [Feign返回图片流处理方式](https://weread.qq.com/web/reader/71d32370716443e271df020k6ea321b021d6ea9ab1ba605)
+      * [Feign调用传递Token](https://weread.qq.com/web/reader/71d32370716443e271df020k6ea321b021d6ea9ab1ba605)
 
 ---
 
