@@ -2,6 +2,7 @@
 ---|
 
 # 目录
+* [Spring Cloud Hystrix实战运用](https://weread.qq.com/web/reader/71d32370716443e271df020kd67323c0227d67d8ab4fb04)
 * [Spring Cloud Hystrix服务容错快速入门例子1](https://mrbird.cc/Spring-Cloud-Hystrix-Circuit-Breaker.html)
 * [Spring Cloud Hystrix Dashboard仪表盘快速入门例子2](https://mrbird.cc/Spring-Cloud-Hystrix-Dashboard.html)
 * [Hystrix概念](#Hystrix概念)
