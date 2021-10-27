@@ -9,6 +9,13 @@
   * [Ribbon 与 Feign 和 Nginx 区别与使用场景,性能介绍](https://blog.csdn.net/lchq1995/article/details/83340753)
   * [Ribbon和Feign的区别](#Ribbon和Feign的区别)
   * [Ribbon和Nginx的区别](#Ribbon和Nginx的区别)
+* [Spring Cloud Ribbon实战](https://weread.qq.com/web/reader/71d32370716443e271df020ke3632bd0222e369853df322)
+  * Ribbon负载均衡策略与自定义配置 
+  * Ribbon超时与重试
+  * Ribbon的饥饿加载
+  * 利用配置文件自定义Ribbon客户端
+  * Ribbon脱离Eureka的使用
+
 
 
 ## Ribbon和Feign的区别
@@ -21,6 +28,7 @@ Feign目标使编写Java Http客户端变得更容易
 
 Ribbon是一个客户端负载均衡器，它赋予了应用一些支配HTTP与TCP行为的能力，可以得知，这里的客户端负载均衡（许多人称之为后端负载均衡）也是进程内负载均衡的一种
 
+Ribbon默认使用轮询的方式访问源服务，此外Ribbon对服务实例节点的增减也能动态感知
 
 **Feign集成了Ribbon**
 
