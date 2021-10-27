@@ -10,7 +10,13 @@
   * [Ribbon和Feign的区别](#Ribbon和Feign的区别)
   * [Ribbon和Nginx的区别](#Ribbon和Nginx的区别)
 * [Spring Cloud Ribbon实战](https://weread.qq.com/web/reader/71d32370716443e271df020ke3632bd0222e369853df322)
-  * Ribbon负载均衡策略与自定义配置 
+  * [Ribbon负载均衡策略与自定义配置](https://weread.qq.com/web/reader/71d32370716443e271df020ke3632bd0222e369853df322)
+    * 7种Ribbon负载均衡策略
+    * 全局策略设置---全局更改负载均衡策略
+    * 基于注解的策略设置---如果我们想要针对某一个源服务设置其特有的策略，可以通过使用@RibbonClient注解，在使用它之前，我们需要对全局设置的代码进行改变
+    * 基于配置文件的策略设置---如果不喜欢用注解，也可以使用配置文件来对源服务负载策略进行配置，其基本语法是<client name>.ribbon.*，使用它几乎可以不用注解形式的任何配置代码，推荐使用
+    * Ribbon超时与重试
+ 
   * Ribbon超时与重试
   * Ribbon的饥饿加载
   * 利用配置文件自定义Ribbon客户端
