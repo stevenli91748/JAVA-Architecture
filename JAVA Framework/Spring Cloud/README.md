@@ -378,8 +378,8 @@
   * [Resilience4J](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%E5%8E%9F%E7%94%9F%E5%8F%8A%E5%85%B6%E4%BB%96%E6%95%B4%E5%90%88%E7%BB%84%E4%BB%B6/Resilience4j/README.md)
 * 5 微服务链路追踪
   * Cat
-  * Sleuth  + Zipkin整合
-  * Sleuth + ELK整合
+  * Spring Cloud Sleuth  +  Spring Cloud Zipkin整合
+  * Spring Cloud Sleuth + ELK整合
   * Pinpoint
   * Skywalking
 * [微服务之间调用的安全认证](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/%E5%BE%AE%E6%9C%8D%E5%8A%A1%E4%B9%8B%E9%97%B4%E8%B0%83%E7%94%A8%E7%9A%84%E5%AE%89%E5%85%A8%E8%AE%A4%E8%AF%81/README.md)
