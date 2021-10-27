@@ -13,7 +13,7 @@
         * [RESTful HTTP方式有几种服务调用方法](https://mp.weixin.qq.com/s/uSYygJRwav5GgrG4um8R4w)
           * [OpenFeign---最方便、最优雅的方式是通过Spring Cloud Open Feign进行服务间的调用 ](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%20Netflix%E5%A5%97%E4%BB%B6/OpenFeign.md)
           * [Feign](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%20Netflix%E5%A5%97%E4%BB%B6/Feign.md)（第一种调用方法）---微服务间调用，个人使用feign，同时使用OKhttp替换feign中默认的httpClient
-          * Ribbon + RestTemplate（第二种调用方法）---第三方服务调用, 在使用Ribbon+ RestTemplate时，Ribbon需要自己构建http请求，模拟http请求然后使用RestTemplate发送给其他服务，步骤相当繁琐
+          * Ribbon + [RestTemplate](http://www.zimug.com/tag/resttemplate)（第二种调用方法）---第三方服务调用, 在使用Ribbon+ RestTemplate时，Ribbon需要自己构建http请求，模拟http请求然后使用RestTemplate发送给其他服务，步骤相当繁琐
 
 
 
