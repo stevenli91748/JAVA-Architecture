@@ -35,7 +35,7 @@
       * [Feign的文件上传](https://weread.qq.com/web/reader/71d32370716443e271df020k6ea321b021d6ea9ab1ba605)
       * [解决Feign首次请求失败问题](https://weread.qq.com/web/reader/71d32370716443e271df020k6ea321b021d6ea9ab1ba605)
       * [Feign返回图片流处理方式](https://weread.qq.com/web/reader/71d32370716443e271df020k6ea321b021d6ea9ab1ba605)
-      * [Feign调用传递Token](https://weread.qq.com/web/reader/71d32370716443e271df020k6ea321b021d6ea9ab1ba605)
+      * [Feign调用传递Token---当使用Feign时就会发现外部请求到A服务的时候，A服务是可以拿到Token的，然而当服务使用Feign调用B服务时，Token就会丢失，从而认证失败。解决方法相对比较简单，需要做的就是在Feign调用的时候，向请求头里面添加需要传递的Token](https://weread.qq.com/web/reader/71d32370716443e271df020k6ea321b021d6ea9ab1ba605)
 
 ---
 
