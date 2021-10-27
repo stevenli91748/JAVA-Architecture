@@ -7,6 +7,7 @@
 * [Spring Cloud Ribbon客户端负载均衡快速入门例子2](https://weread.qq.com/web/reader/71d32370716443e271df020k182326e0221182be0c5ca23)
 * Ribbon概念
   * [Ribbon核心工作原理](https://weread.qq.com/web/reader/71d32370716443e271df020k1c3321802231c383cd30bb3)
+    * [Ribbon核心接口](https://weread.qq.com/web/reader/71d32370716443e271df020k1c3321802231c383cd30bb3) 
     * [Ribbon是如何做到使用RestTemplate达到负载均衡的原理](https://weread.qq.com/web/reader/71d32370716443e271df020k1c3321802231c383cd30bb3)
   * [Ribbon 与 Feign 和 Nginx 区别与使用场景,性能介绍](https://blog.csdn.net/lchq1995/article/details/83340753)
   * [Ribbon和Feign的区别](#Ribbon和Feign的区别)
@@ -14,6 +15,7 @@
 * [Spring Cloud Ribbon实战](https://weread.qq.com/web/reader/71d32370716443e271df020ke3632bd0222e369853df322)
   * [Ribbon负载均衡策略与自定义配置](https://weread.qq.com/web/reader/71d32370716443e271df020ke3632bd0222e369853df322)
     * 7种Ribbon负载均衡策略
+    * [负载均衡策略实现原理解析](https://weread.qq.com/web/reader/71d32370716443e271df020k1c3321802231c383cd30bb3) 
     * 全局策略设置---全局更改负载均衡策略
     * 基于注解的策略设置---如果我们想要针对某一个源服务设置其特有的策略，可以通过使用@RibbonClient注解，在使用它之前，我们需要对全局设置的代码进行改变
     * 基于配置文件的策略设置---如果不喜欢用注解，也可以使用配置文件来对源服务负载策略进行配置，其基本语法是<client name>.ribbon.*，使用它几乎可以不用注解形式的任何配置代码，推荐使用
