@@ -31,25 +31,24 @@
 # 目录
 * 
 * 1 服务治理---深入理解springcloud与实战.PDF
-  * Nacos Discovery---注册中心
+  * Nacos Discovery---注册中心 替代旧方案 eureka、consul、zookeeper
     * 启动 NacosDiscoveryProvider进行服务注册
     * 启动 NacosDiscoveryConsumer迸行服务发现
-  * OpenFeign---服务调用
-  * Ribbon---负载均衡
 * 2 服务调用
+    * Feign --- 替代旧方案 resttempate
 * 3 服务配置中心
-  *  Nacos Config
+    * Nacos Config--- 替代旧方案 sc config、consul config
 * 4 服务网关
-  * Spring Cloud Gateway 
-* 5 服务容错
-  * Sentinel
-* 6 链路追踪
-  * Sleuth  + Zipkin
-  * Skywalking
-* 7 分布式消息驱动 RocketMQ
-* 8 SMS 短信 
-* 9 Seata 分布式事务
-* 
+    * Spring Cloud Gateway ---- 替代旧方案 ZUUL
+* 5 负载均衡 
+    * Spring Cloud loadbalancer --- ---- 替代旧方案 Ribbon
+* 6 服务容错
+    * Sentinel---替代旧方案：Resilience4j
+* 7 链路追踪
+    * Spring Cloud Sleuth  + Zipkin--- 替代旧方案：skywalking等
+* 8 分布式消息驱动 RocketMQ
+* 9 SMS 短信 
+* 10 Seata 分布式事务
 
 
 # 视频
