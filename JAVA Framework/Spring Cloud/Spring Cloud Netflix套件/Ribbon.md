@@ -6,6 +6,7 @@
 * [Spring Cloud Ribbon客户端负载均衡快速入门例子1](https://mrbird.cc/Spring-Cloud-Ribbon-LoadBalance.html)
 * [Spring Cloud Ribbon客户端负载均衡快速入门例子2](https://weread.qq.com/web/reader/71d32370716443e271df020k182326e0221182be0c5ca23)
 * Ribbon概念
+  * [Ribbon核心工作原理](https://weread.qq.com/web/reader/71d32370716443e271df020k1c3321802231c383cd30bb3)
   * [Ribbon 与 Feign 和 Nginx 区别与使用场景,性能介绍](https://blog.csdn.net/lchq1995/article/details/83340753)
   * [Ribbon和Feign的区别](#Ribbon和Feign的区别)
   * [Ribbon和Nginx的区别](#Ribbon和Nginx的区别)
