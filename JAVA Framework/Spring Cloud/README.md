@@ -513,6 +513,8 @@
 
 **服务治理**：默认采用Netflix Hystrix，亦可使用Sentinel(中国流行)、Resilience4j（外国流行 ）代替。
 
+**微服务链路追踪**: Spring Cloud Sleuth + Zipkin (中国流行，外国流行)
+
 **进程内负载均衡**：默认采用Netfilix Ribbon，亦可使用Spring Cloud Loadbalancer(中国流行，外国流行)代替。
 
 **声明式 HTTP 客户端**：默认采用Spring Cloud OpenFeign。声明式的 HTTP 客户端其实没有找替代品的必要性，如果需要，可考虑Retrofit，或者使用 RestTemplete 乃至于更底层的OkHTTP、HTTPClient以命令式编程来访问，多写一些代码而已了。
