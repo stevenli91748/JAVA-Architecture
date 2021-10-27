@@ -3,7 +3,8 @@
  ---|
 
 # 目录
-* [Spring Cloud Ribbon客户端负载均衡快速入门例子](https://mrbird.cc/Spring-Cloud-Ribbon-LoadBalance.html)
+* [Spring Cloud Ribbon客户端负载均衡快速入门例子1](https://mrbird.cc/Spring-Cloud-Ribbon-LoadBalance.html)
+* [Spring Cloud Ribbon客户端负载均衡快速入门例子2](https://weread.qq.com/web/reader/71d32370716443e271df020k182326e0221182be0c5ca23)
 * Ribbon概念
   * [Ribbon 与 Feign 和 Nginx 区别与使用场景,性能介绍](https://blog.csdn.net/lchq1995/article/details/83340753)
   * [Ribbon和Feign的区别](#Ribbon和Feign的区别)
@@ -17,6 +18,9 @@ Feign目标使编写Java Http客户端变得更容易
 在使用Ribbon+ RestTemplate时，Ribbon需要自己构建http请求，模拟http请求然后使用RestTemplate发送给其他服务，步骤相当繁琐。利用RestTemplate对http请求的封装处理，形成了-套模版化的调用方法。但是在实际开发中，由于对服务依赖的调用可能不止一处,往往一个接口会被多处调用，所以通常都会针对每个微服务自行封装一些客户端类来包装这些依赖服务的调用。所以，Feign在此基础上做了进一步封装，由他来帮助我们定义和实现依赖服务接口的定义。
 
 在Feign的实现下，我们只需创建一个接口并使用注解的方式来配置它（以前是Dao接口上面标注Mapper注解，现在是一个微服务接口上面标注一个Feign注解即可）， 即可完成对服务提供方的接口绑定，简化了使用Spring Cloud Ribbon时，自动封装服务调用客户端的开发量。
+
+Ribbon是一个客户端负载均衡器，它赋予了应用一些支配HTTP与TCP行为的能力，可以得知，这里的客户端负载均衡（许多人称之为后端负载均衡）也是进程内负载均衡的一种
+
 
 **Feign集成了Ribbon**
 
