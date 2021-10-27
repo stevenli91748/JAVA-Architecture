@@ -342,10 +342,14 @@
         * [OpenFeign---最方便、最优雅的方式是通过Spring Cloud Open Feign进行服务间的调用 ](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%20Netflix%E5%A5%97%E4%BB%B6/OpenFeign.md)
         * [Feign](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%20Netflix%E5%A5%97%E4%BB%B6/Feign.md)（第一种调用方法）---微服务间调用，个人使用feign，同时使用OKhttp替换feign中默认的httpClient
         * Ribbon + RestTemplate（第二种调用方法）---第三方服务调用, 在使用Ribbon+ RestTemplate时，Ribbon需要自己构建http请求，模拟http请求然后使用RestTemplate发送给其他服务，步骤相当繁琐
-  * 微服务负载均衡
-    * [Ribbon---负载均衡](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%20Netflix%E5%A5%97%E4%BB%B6/Ribbon.md)
-    * Spring Cloud LoadBalancer
-    * RestTemplate的负载均衡机制
+  * [微服务负载均衡](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1/README.md)
+    * 集中式负载均衡---集中式负载均衡指位于因特网与服务提供者之间，并负责把网络请求转发到各个提供单位，这时候Nginx与F5就可以划为一类了，也可以称为服务端负载均衡
+      * LVS
+      * NGINX
+    * 进程内负载均衡---进程内负载均衡是指从一个实例库选取一个实例进行流量导入，在微服务的范畴内，实例库一般是存储在Eureka、Consul、Zookeeper、etcd这样的注册中心，而此时的负载均衡器就是类似Ribbon的IPC（Inter-Process Communication，进程间通信）组件，因此，进程内负载均衡也叫作客户端负载均衡
+      * [Ribbon---负载均衡](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%20Netflix%E5%A5%97%E4%BB%B6/Ribbon.md)
+      * Spring Cloud LoadBalancer
+      * RestTemplate的负载均衡机制
 * 2 [微服务的集中化配置中心](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/%E5%BE%AE%E6%9C%8D%E5%8A%A1%E5%88%86%E5%B8%83%E5%BC%8F%E9%85%8D%E7%BD%AE%E4%B8%AD%E5%BF%83/README.md)
   *  Apollo
   *  Consul
