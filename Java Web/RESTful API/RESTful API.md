@@ -28,6 +28,9 @@
 ---|---|---|
 
 
+[开源商城系统-API文档（单商户）例子，有参考价值](https://www.kancloud.cn/yi_xiang_42/likeshop_api_v2_x)|
+---|
+
 
 [Vert.x](https://www.bilibili.com/video/BV174411E7Vr?from=search&seid=3412424618058651269)|
 ---|
