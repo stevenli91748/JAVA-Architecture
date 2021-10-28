@@ -12,6 +12,7 @@
   * [Zuul Swagger 整合---疯狂创客圈](https://www.cnblogs.com/crazymakercircle/p/12046131.html)
 * ZUUL具备的功能
   * 认证与鉴权
+    * [Spring Cloud认证鉴权实战案例2---Zuul+OAuth2.0+JWT实战](https://weread.qq.com/web/reader/71d32370716443e271df020k64232b60230642e92efb54c) 
   * 压力控制
   * 金丝雀测试
   * 动态路由
