@@ -161,7 +161,7 @@
     * 监控
       * 监控日志
     * 安全认证
-      * 身份验证 
+      * [Spring Cloud认证鉴权实战案例1 ---采用前后端分离的架构，我们利用Spring Cloud Gateway实现用户的认证，解析JWT后传递用户信息到后端服务，后端服务根据用户和路由信息进行鉴权](https://weread.qq.com/web/reader/71d32370716443e271df020k5423294025b54229abfc040)
     * 应用检测
 * 高可用
 * Spring Cloud Gateway endpoint---Spring Cloud Gateway提供了内置的端点，用于提供路由相关的操作，如过滤器列表、路由列表、单个路由信息等等,Spring Cloud Gateway的内置端点纳管到Spring Boot-Actuator中。从网关服务的启动日志，可以看到网关的内置端点
