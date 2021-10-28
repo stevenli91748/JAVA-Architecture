@@ -5,7 +5,8 @@
 # 目录
 
 * [使用Spring Cloud Sleuth跟踪微服务快速入门例子](https://mrbird.cc/Spring-Cloud-sleuth.html)
-* [Spring Cloud Sleuth全链路追踪](https://weread.qq.com/web/reader/2fe329c071e041322feb53dk6f4322302126f4922f45dec) 
+* Spring Cloud Sleuth概念
+  * [Spring Cloud Sleuth全链路追踪源理](https://weread.qq.com/web/reader/2fe329c071e041322feb53dk6f4322302126f4922f45dec) 
 
 
 # 参考
