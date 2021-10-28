@@ -1,5 +1,5 @@
 
-
+**在Spring Cloud构建的微服务系统中，大多数开发者使用官方提供的服务调用组件Feign来进行内部服务通信，这种声明式的HTTP客户端使用起来极为简单、优雅、方便。然而，在使用Feign消费服务时，相对于Dubbo、gRPC等RPC框架来说，性能显得十分低**
 
 # 目录
 * [Spring Cloud Feign 声明式服务调用快速入门例子1](https://mrbird.cc/Spring-Cloud-Feign.html)
