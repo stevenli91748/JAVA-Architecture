@@ -336,9 +336,9 @@
       * AsyncHttpClient
       * Jetty HttpClient
     * 微服务之间的HTTP客户端
-      * RPC方式---
-        * [Spring Cloud与 gRPC](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%E4%B8%8E%20gRPC/README.md) 
-      * [声明式的RESTful HTTP方式有几种服务调用方法---](https://mp.weixin.qq.com/s/uSYygJRwav5GgrG4um8R4w)
+      * RPC方式---微服务调用的高效方式
+        * [Spring Cloud微服务中的调用方式用gRPC实现](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%E4%B8%8E%20gRPC/README.md) 
+      * [声明式的RESTful HTTP方式有几种服务调用方法---在使用Feign消费服务时，相对于Dubbo、gRPC等RPC框架来说，性能显得十分低](https://mp.weixin.qq.com/s/uSYygJRwav5GgrG4um8R4w)
         * [venus-cloud-feign---Spring Cloud中国社区对spring-cloud-openfeign进行增强](http://github.com/springcloud/venus-cloud-feign) 
         * [OpenFeign---最方便、最优雅的方式是通过Spring Cloud Open Feign进行服务间的调用 ](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%20Netflix%E5%A5%97%E4%BB%B6/OpenFeign.md)
         * [Feign](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%20Netflix%E5%A5%97%E4%BB%B6/Feign.md)（第一种调用方法）---微服务间调用，个人使用feign，同时使用OKhttp替换feign中默认的httpClient
