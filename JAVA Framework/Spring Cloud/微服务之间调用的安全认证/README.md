@@ -4,6 +4,7 @@
 
 # 目录
 * [Spring Cloud认证鉴权实战案例1 ---采用前后端分离的架构，我们利用Spring Cloud Gateway实现用户的认证，解析JWT后传递用户信息到后端服务，后端服务根据用户和路由信息进行鉴权](https://weread.qq.com/web/reader/71d32370716443e271df020k5423294025b54229abfc040)
+* [Spring Cloud认证鉴权实战案例2---Zuul+OAuth2.0+JWT实战](https://weread.qq.com/web/reader/71d32370716443e271df020k64232b60230642e92efb54c)
 * 认证与鉴权方案
   * 单体应用下的常用方案---我们在传统的单体应用中，一般会写一个固定的认证和鉴权的包，里面包含了很多认证和鉴权的类，当用户发起请求时我们可以利用session的方式，把用户存入session并生成一个sessionId，之后返回客户端。客户端可以存在cookie里，从而在后续的请求中顺利通过验证
   * 微服务下SSO单点登录方案
