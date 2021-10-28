@@ -40,3 +40,4 @@
 * [springboot能抗住多少并发_并发测试神器，看看你的能不能抗住超过 5 万的并发用户](https://blog.csdn.net/weixin_39989688/article/details/111394127?utm_medium=distribute.pc_relevant.none-task-blog-baidujs_baidulandingword-0&spm=1001.2101.3001.4242)
 * [SpringBoot中如何优雅的使用多线程](https://juejin.cn/post/6844904173977206797)
 * [SpringBoot 使用线程池](https://crossoverjie.top/2018/07/29/java-senior/ThreadPool/)
+* [SpringBoot结合线程池解决多线程问题实录](https://www.cxyzjd.com/article/GFJ0814/92422245)
