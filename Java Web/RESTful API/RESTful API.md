@@ -133,7 +133,10 @@
 * [公司项目里如何进行前后端接口联调系列](https://www.jianshu.com/search?q=%E5%90%8E%E7%AB%AF%E6%8E%A5%E5%8F%A3&page=1&type=note)
 * [Mockjs,再也不用追着后端小伙伴要接口了](https://www.jianshu.com/p/dd23a6547114)
 * [spring boot +themyleaf+vue前后端分离](https://www.zybuluo.com/EggGump/note/1207305)
-
+* [这次要讲不清前后端分离，我都怎么地！](https://mp.weixin.qq.com/s/Y0z-3r_Mdm-etCwa0GmQmQ)
+* [前后端分离的接口规范，我们是这样做的](https://mp.weixin.qq.com/s/zAOYAcR-6DEJU_s0qXe91g)
+* [前后端分离式开发：高效协作10板斧](https://mp.weixin.qq.com/s/niYHlrCDIkA1NqPVI_VJ8w)
+* [前后端都分离了，该搞个好用的API管理系统了！](https://mp.weixin.qq.com/s/Ahs6fnIfFVVPOn3NZpIsNA)
 
 
 
