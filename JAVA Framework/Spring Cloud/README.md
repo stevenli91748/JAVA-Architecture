@@ -455,7 +455,7 @@
   * [RedisSession （自定义）](https://www.cnblogs.com/crazymakercircle/p/12038208.html) 
 * Spring Cloud 与 邻域驱动实践---重新定义Spring Cloud实战.pdf
 * 微服务的部署与发布容器化
-  * [Spring Cloud容器化 ](https://weread.qq.com/web/reader/71d32370716443e271df020k42a324e028842a0e188f652)
+  * [Spring Cloud容器化 ](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Docker%E6%9C%8D%E5%8A%A1%E5%8C%96/README.md)
   * 持续交付与持续部署微服务
   * 基于容器的部署与发布
     * 使用Docker来构建 运行 发布微服务
