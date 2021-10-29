@@ -408,7 +408,7 @@
   * [Spring Cloud Stream](https://weread.qq.com/web/reader/7d332ce0715dbcba7d3a09dk7f33291023d7f39f8317e0b)
   * Apache Kafka
 * SMS 短信
-* [Spring Cloud版本控制与灰度发布](https://weread.qq.com/web/reader/71d32370716443e271df020k1af32e502831afa34a7fe44)
+* [Spring Cloud版本控制与灰度发布](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6%E4%B8%8E%E7%81%B0%E5%BA%A6%E5%8F%91%E5%B8%83/README.md)
 * 微服务的高级主题---Spring生态消息驱动
   * Spring与消息
   * Spring Integration
