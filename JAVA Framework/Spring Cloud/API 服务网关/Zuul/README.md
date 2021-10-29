@@ -19,11 +19,16 @@
   * 负载削减
   * 静态响应处理
   * 主动流量管理
-* [Spring Cloud Zuul基础篇](https://weread.qq.com/web/reader/71d32370716443e271df020k34132fc02293416a75f431d)
-* [Spring Cloud Zuul中级篇](https://weread.qq.com/web/reader/71d32370716443e271df020kd9d320f022ed9d4f495e456)
-* [Spring Cloud Zuul高级篇](https://weread.qq.com/web/reader/71d32370716443e271df020kb5332110237b53b3a3d68d2)
-* Zuul过滤器Filter
-  * [微服务网关Zuul过滤器Filter](https://www.cnblogs.com/Courage129/p/14517275.html)
+* [Spring Cloud Zuul Filter链](https://weread.qq.com/web/reader/71d32370716443e271df020k67c32d7022f67c6a1e7ce82)
+  * [微服务网关Zuul过滤器Filter](https://www.cnblogs.com/Courage129/p/14517275.html) 
+* [Spring Cloud Zuul权限集成](https://weread.qq.com/web/reader/71d32370716443e271df020k64232b60230642e92efb54c)
+* [Spring Cloud Zuul限流](https://weread.qq.com/web/reader/71d32370716443e271df020kf4532c00231f457c545ad3c)
+* [Spring Cloud Zuul动态路由](https://weread.qq.com/web/reader/71d32370716443e271df020kc0c320a0232c0c7c76d365a)
+* [Spring Cloud Zuul文件上传](https://weread.qq.com/web/reader/71d32370716443e271df020k9a132c802349a1158154a83)
+* [Spring Cloud Zuul多层负载](https://weread.qq.com/web/reader/71d32370716443e271df020k9f6326602389f61408e3715)
+* [Spring Cloud Zuul实用小技巧](https://weread.qq.com/web/reader/71d32370716443e271df020kd8232f00235d82c8d161fb2)
+* [Spring Cloud Zuul应用优化](https://weread.qq.com/web/reader/71d32370716443e271df020k72b327f023972b32a1f7e2d)
+* [Spring Cloud Zuul灰度发布](https://weread.qq.com/web/reader/71d32370716443e271df020k283328802332838023a7529)
 
 --- Spring Cloud微服务架构开发实战.pdf
 
