@@ -8,3 +8,7 @@
     * DOckerfile的编写
       * 以OpenJDK为基础编写的基础镜像
       * 以Oracle JDK为基础编写的基础镜像  
+    * 镜像构建插件
+    * 打包构建
+    * Push镜像
+    * 运行镜像            
