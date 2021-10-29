@@ -185,6 +185,9 @@
 
 ### 实战项目
 
+[Spring Cloud基础综合案例---把这些组件全部组合起来搭建一个简单的基础综合框架](https://weread.qq.com/web/reader/71d32370716443e271df020k0723244023c072b030ba601)|
+---|
+
 [Spring Cloud学习示例代码 ---Spring Cloud Examples](https://github.com/ityouknow/spring-cloud-examples)|[外行人都能看懂的SpringCloud，错过了血亏！---用例子解析了Sprng Cloud的各个组件](https://juejin.cn/post/6844903665292017678)|
 ---|---|
 
