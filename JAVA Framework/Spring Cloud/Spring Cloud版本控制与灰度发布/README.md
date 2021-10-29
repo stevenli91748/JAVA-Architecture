@@ -7,7 +7,7 @@
 * [常见发布方式](https://weread.qq.com/web/reader/71d32370716443e271df020k9fc324302859fc3d71522e0)
   * 蓝绿发布
   * 滚动发布
-  * 灰度发布
+  * 灰度发布---目前灰度发布较为流行
     * A/B测试（A/B Testing）
     * 金丝雀部署（Canary Deployment） 
   * 对比 
