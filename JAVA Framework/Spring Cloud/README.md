@@ -453,7 +453,7 @@
   * [SpingSecurity + SpringSession 死磕](https://www.cnblogs.com/crazymakercircle/p/12037584.html)
   * [SpringSession 独立使用](https://www.cnblogs.com/crazymakercircle/p/12038664.html)
   * [RedisSession （自定义）](https://www.cnblogs.com/crazymakercircle/p/12038208.html) 
-* Spring Cloud 与 邻域驱动实践---重新定义Spring Cloud实战.pdf
+* [Spring Cloud 与 邻域驱动实践](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%20%E4%B8%8E%20%E9%82%BB%E5%9F%9F%E9%A9%B1%E5%8A%A8%E5%AE%9E%E8%B7%B5/README.md)
 * 微服务的部署与发布容器化
   * 持续交付与持续部署微服务
   * 基于容器的部署与发布
