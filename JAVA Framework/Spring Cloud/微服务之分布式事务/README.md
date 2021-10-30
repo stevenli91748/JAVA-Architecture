@@ -11,7 +11,13 @@
   * XA接口与JTA
   * TCC解决方案
   * SAGA解决方案
-* 分布式事务解决方案
+* [分布式事务解决方案](https://weread.qq.com/web/reader/71d32370716443e271df020k8d5321302938d5e957f2c0d)
+  * Java事务编程接口JTA
+  * 分布式事务TCC模式
+    * TCC与2PC
+    * TCC与ACID
+    * TCC开源框架
+      * 蚂蚁金服的大部分业务系统采用了TCC的方式接入分布式事务 
 
 # 参考
   * [Seata 分布式事务](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%20Alibaba%E5%A5%97%E4%BB%B6/Seata.md)
