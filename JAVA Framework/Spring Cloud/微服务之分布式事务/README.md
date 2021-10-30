@@ -18,7 +18,15 @@
     * TCC与ACID
     * TCC开源框架
       * 蚂蚁金服的大部分业务系统采用了TCC的方式接入分布式事务 
-
+  * 分布式事务SAGA模式
+    * SAGA与2PC
+    * SAGA与TCC
+    * SAGA与ACID
+    * SAGA开源框架
+      * Axon framework：是一款采用Java编写的、面向可伸缩及高性能的CQRS框架，该框架内置了SagaRepository、SagaManager、SagaStore等组件，对SAGA模式提供了原生的支持
+      * Eventuate.io:eventuate-tram-sagas是Chris Richardson开源的一款为使用JDBC/JPA的微服务准备的SAGA框架
+      * Narayana LRA:Narayana是jboss提供的一款分布式事务管理器，其中实现SAGA模式的事务管理器为Narayana LRA, LRA为Long Running Action的缩写
+      * ServiceComb Saga：是华为于2017年7月份开源的一款基于SAGA模式的分布式事务框架，目前在Apache孵化中。                   
 # 参考
   * [Seata 分布式事务](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%20Alibaba%E5%A5%97%E4%BB%B6/Seata.md)
   * [亿级流量架构之分布式事务思路及方法](https://www.cnblogs.com/Courage129/p/14433462.html)
