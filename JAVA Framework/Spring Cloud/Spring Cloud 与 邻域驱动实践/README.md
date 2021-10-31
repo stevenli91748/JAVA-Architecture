@@ -1,6 +1,7 @@
 
 
 # 目录
+* [Spring Cloud与Halo实战案例](https://weread.qq.com/web/reader/71d32370716443e271df020k1d7328e029a1d7f7abc1af1)
 * [Spring Cloud与领域驱动实践](https://weread.qq.com/web/reader/71d32370716443e271df020k7ef321f02967ef605fc8aef)
   * 领域驱动模型的分层结构
     * 用户界面/展现层---负责向用户展现信息及解释用户命令。更细的方面来讲就是请求应用层以获取用户需要展现的数据；发送命令给应用层要求其执行某个用户命令
