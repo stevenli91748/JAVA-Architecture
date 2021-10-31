@@ -17,4 +17,4 @@
         * App层---App层主要负责获取输入、组装context、做输入校验、发送消息给领域层做业务处理、监听确认消息，以及如果需要的话使用MQ进行消息通知
         * Domain层---Domain层主要是通过领域服务（Domain Service）及领域对象（DomainObject）的交互，对上层提供业务逻辑处理，然后调用下层Repository做持久化处理
         * Infrastructure层---Infrastructure层主要负责数据的CRUD操作，在这一层抽取了数据通道（Tunnel）的概念，通过Tunnel的抽象概念来屏蔽具体的数据来源。数据来源可以是MySQL、NoSQL、Search、RPC服务或者Spring Cloud提供的Rest服务等
-      * [Halo框架中的CQRS设计](https://weread.qq.com/web/reader/71d32370716443e271df020kb3e32dc0299b3e3e393ce03)
+      * [Halo框架中的CQRS设计原理解析](https://weread.qq.com/web/reader/71d32370716443e271df020kb3e32dc0299b3e3e393ce03)
