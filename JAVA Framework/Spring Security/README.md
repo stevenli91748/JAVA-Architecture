@@ -16,13 +16,15 @@
 [springBoot整合spring security实现权限管理(单体应用版)--筑基初期](https://juejin.im/post/6867530830446034958)|[springBoot整合spring security+JWT实现单点登录与权限管理前后端分离--筑基中期](https://juejin.im/post/6868558729353117710)|
 ---|---|
 
+# 实战案例
 
+* [Spring Security 案例实现和执行流程剖析](https://www.cnblogs.com/xifengxiaoma/p/10020960.html)
 
-# 微服务安全
+### 微服务安全
   * [spring security 原理+实战](https://www.cnblogs.com/crazymakercircle/p/12040402.html)
   * [SpingSecurity + SpringSession 死磕](https://www.cnblogs.com/crazymakercircle/p/12037584.html)
 
-# Mybird
+### Mybird
 * [基于数据库用户认证](https://mrbird.cc/%E5%9F%BA%E4%BA%8E%E6%95%B0%E6%8D%AE%E5%BA%93%E7%94%A8%E6%88%B7%E8%AE%A4%E8%AF%81.html)
 * [自定义Spring Security登录页](https://mrbird.cc/%E8%87%AA%E5%AE%9A%E4%B9%89Spring-Security%E7%99%BB%E5%BD%95%E9%A1%B5.html)
 * [Spring Security JSP标签库](https://mrbird.cc/Spring-Security-JSP%E6%A0%87%E7%AD%BE%E5%BA%93.html)
