@@ -18,13 +18,13 @@
 
 # 实战案例
 
-* [Spring Security 案例实现和执行流程剖析](https://www.cnblogs.com/xifengxiaoma/p/10020960.html)
+## [案例1：Spring Security 案例实现和执行流程剖析](https://www.cnblogs.com/xifengxiaoma/p/10020960.html)
 
-# Spring Cloud Gateway + Spring Security OAuth2 + JWT实现微服务统一认证授权鉴权
+## 案例2： Spring Cloud Gateway + Spring Security OAuth2 + JWT实现微服务统一认证授权鉴权
 
 线上Demo地址：www.youlai.tech
 
-## 1. 后台微服务
+#### 1. 后台微服务
 
 * [Spring Cloud实战 | 第一篇：Windows搭建Nacos服务](https://www.cnblogs.com/haoxianrui/p/13581881.html)
 * [Spring Cloud实战 | 第二篇：Spring Cloud整合Nacos实现注册中心前言](https://www.cnblogs.com/haoxianrui/p/13584204.html)
@@ -38,16 +38,16 @@
 * [Spring Cloud实战 | 第十篇 ：Spring Cloud + Nacos整合Seata 1.4.1最新版本实现微服务架构中的分布式事务，进阶之路必须要迈过的槛](https://www.cnblogs.com/haoxianrui/p/14280184.html)
 * [Spring Cloud实战 | 第十一篇：Spring Cloud Gateway统一鉴权下针对RESTful接口的RBAC权限设计方案，附Vue按钮权限控制](https://www.cnblogs.com/haoxianrui/p/14396990.html)
 
-## 2. 后台管理前端
+#### 2. 后台管理前端
 
 * [vue-element-admin实战 | 第一篇： 移除mock接入后台微服务接口，搭建SpringCloud+Vue前后端分离的管理平台](https://www.cnblogs.com/haoxianrui/p/13624548.html)
 * [vue-element-admin实战 | 第二篇： 最小改动接入后台实现动态路由菜单加载](https://www.cnblogs.com/haoxianrui/p/13676619.html)
 
-## 3. 微信小程序
+#### 3. 微信小程序
 
 * [uni-app实战 | 第一篇：从0到1快速开发一个开源商城微信小程序，无缝接入Spring Security OAuth2认证授权实现登录](https://www.cnblogs.com/haoxianrui/p/13882310.html)
 
-## 4. 应用部署
+#### 4. 应用部署
 
 * [Docker实战 | 第一篇：Linux 安装 Docker](https://www.cnblogs.com/haoxianrui/p/14067423.html)
 * [Docker实战 | 第二篇：Docker部署nacos-server:1.4.0](https://www.cnblogs.com/haoxianrui/p/14059009.html)
