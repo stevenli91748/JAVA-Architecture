@@ -322,7 +322,7 @@
 
 线上Demo地址：www.youlai.tech
 
-Github: https://github.com/hxrui/youlai-mall
+Gitee:  https://gitee.com/haoxr
 
 项目文档：https://www.cnblogs.com/haoxianrui/
 
