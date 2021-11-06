@@ -23,6 +23,9 @@
 [ Spring 例子程序](https://github.com/stevenli91748/JAVA-Architecture/tree/master/JAVA%20Framework/Spring/Spring%20%E4%BE%8B%E5%AD%90%E7%A8%8B%E5%BA%8F)|[Spring SpringBoot SpringCloud技术一览](https://zhuanlan.zhihu.com/p/267654014?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)|
 ---|---|
 
+[IntelliJ IDEA2019.3编译Spring5.3.x源码](https://gitee.com/haoxr/spring-framework)|
+---|
+
 # 博客
 
 [Spring框架快速入门教程](http://c.biancheng.net/spring/)|[Spring教程](https://www.yiibai.com/spring/)|[ Java技术栈 ](https://www.javastack.cn/categories/Spring/)|
