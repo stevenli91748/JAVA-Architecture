@@ -322,6 +322,8 @@
 
 线上Demo地址：www.youlai.tech
 
+Github: https://github.com/hxrui/youlai-mall
+
 ## 1. 后台微服务
 
 * [Spring Cloud实战 | 第一篇：Windows搭建Nacos服务](https://www.cnblogs.com/haoxianrui/p/13581881.html)
