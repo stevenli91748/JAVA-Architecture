@@ -24,7 +24,7 @@
 
 线上Demo地址：www.youlai.tech
 
-* 1. 后台微服务
+* 1 后台微服务
 
 * [Spring Cloud实战 | 第一篇：Windows搭建Nacos服务](https://www.cnblogs.com/haoxianrui/p/13581881.html)
 * [Spring Cloud实战 | 第二篇：Spring Cloud整合Nacos实现注册中心前言](https://www.cnblogs.com/haoxianrui/p/13584204.html)
