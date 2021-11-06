@@ -25,35 +25,31 @@
 线上Demo地址：www.youlai.tech
 
 * 1 后台微服务
+  * [Spring Cloud实战 | 第一篇：Windows搭建Nacos服务](https://www.cnblogs.com/haoxianrui/p/13581881.html)
+  * [Spring Cloud实战 | 第二篇：Spring Cloud整合Nacos实现注册中心前言](https://www.cnblogs.com/haoxianrui/p/13584204.html)
+  * [Spring Cloud实战 | 第三篇：Spring Cloud整合Nacos实现配置中心](https://www.cnblogs.com/haoxianrui/p/13585125.html)
+  * [Spring Cloud实战 | 第四篇：Spring Cloud整合Gateway实现API网关](https://www.cnblogs.com/haoxianrui/p/13608650.html)
+  * [Spring Cloud实战 | 第五篇：Spring Cloud整合OpenFeign实现微服务之间的调用](https://www.cnblogs.com/haoxianrui/p/13615592.html)
+  * [Spring Cloud实战 | 第六篇：Spring Cloud Gateway + Spring Security OAuth2 + JWT实现微服务统一认证授权鉴权](https://www.cnblogs.com/haoxianrui/p/13719356.html)
+  * [Spring Cloud实战 | 最七篇：Spring Cloud Gateway+Spring Security OAuth2集成统一认证授权平台下实现注销使JWT失效方案](https://www.cnblogs.com/haoxianrui/p/13740264.html)
+  * [Spring Cloud实战 | 最八篇：Spring Cloud +Spring Security OAuth2+ Vue前后端分离模式下无感知刷新实现JWT续期](https://www.cnblogs.com/haoxianrui/p/14022632.html)
+  * [Spring Cloud实战 | 第九篇：Spring Cloud整合Spring Security OAuth2认证服务器统一认证自定义异常处理](https://www.cnblogs.com/haoxianrui/p/14028366.html)
+  * [Spring Cloud实战 | 第十篇 ：Spring Cloud + Nacos整合Seata 1.4.1最新版本实现微服务架构中的分布式事务，进阶之路必须要迈过的槛](https://www.cnblogs.com/haoxianrui/p/14280184.html)
+  * [Spring Cloud实战 | 第十一篇：Spring Cloud Gateway统一鉴权下针对RESTful接口的RBAC权限设计方案，附Vue按钮权限控制](https://www.cnblogs.com/haoxianrui/p/14396990.html)
 
-* [Spring Cloud实战 | 第一篇：Windows搭建Nacos服务](https://www.cnblogs.com/haoxianrui/p/13581881.html)
-* [Spring Cloud实战 | 第二篇：Spring Cloud整合Nacos实现注册中心前言](https://www.cnblogs.com/haoxianrui/p/13584204.html)
-* [Spring Cloud实战 | 第三篇：Spring Cloud整合Nacos实现配置中心](https://www.cnblogs.com/haoxianrui/p/13585125.html)
-* [Spring Cloud实战 | 第四篇：Spring Cloud整合Gateway实现API网关](https://www.cnblogs.com/haoxianrui/p/13608650.html)
-* [Spring Cloud实战 | 第五篇：Spring Cloud整合OpenFeign实现微服务之间的调用](https://www.cnblogs.com/haoxianrui/p/13615592.html)
-* [Spring Cloud实战 | 第六篇：Spring Cloud Gateway + Spring Security OAuth2 + JWT实现微服务统一认证授权鉴权](https://www.cnblogs.com/haoxianrui/p/13719356.html)
-* [Spring Cloud实战 | 最七篇：Spring Cloud Gateway+Spring Security OAuth2集成统一认证授权平台下实现注销使JWT失效方案](https://www.cnblogs.com/haoxianrui/p/13740264.html)
-* [Spring Cloud实战 | 最八篇：Spring Cloud +Spring Security OAuth2+ Vue前后端分离模式下无感知刷新实现JWT续期](https://www.cnblogs.com/haoxianrui/p/14022632.html)
-* [Spring Cloud实战 | 第九篇：Spring Cloud整合Spring Security OAuth2认证服务器统一认证自定义异常处理](https://www.cnblogs.com/haoxianrui/p/14028366.html)
-* [Spring Cloud实战 | 第十篇 ：Spring Cloud + Nacos整合Seata 1.4.1最新版本实现微服务架构中的分布式事务，进阶之路必须要迈过的槛](https://www.cnblogs.com/haoxianrui/p/14280184.html)
-* [Spring Cloud实战 | 第十一篇：Spring Cloud Gateway统一鉴权下针对RESTful接口的RBAC权限设计方案，附Vue按钮权限控制](https://www.cnblogs.com/haoxianrui/p/14396990.html)
+* 2 后台管理前端
+  * [vue-element-admin实战 | 第一篇： 移除mock接入后台微服务接口，搭建SpringCloud+Vue前后端分离的管理平台](https://www.cnblogs.com/haoxianrui/p/13624548.html)
+  * [vue-element-admin实战 | 第二篇： 最小改动接入后台实现动态路由菜单加载](https://www.cnblogs.com/haoxianrui/p/13676619.html)
 
-#### 2. 后台管理前端
+* 3 微信小程序
+  * [uni-app实战 | 第一篇：从0到1快速开发一个开源商城微信小程序，无缝接入Spring Security OAuth2认证授权实现登录](https://www.cnblogs.com/haoxianrui/p/13882310.html)
 
-* [vue-element-admin实战 | 第一篇： 移除mock接入后台微服务接口，搭建SpringCloud+Vue前后端分离的管理平台](https://www.cnblogs.com/haoxianrui/p/13624548.html)
-* [vue-element-admin实战 | 第二篇： 最小改动接入后台实现动态路由菜单加载](https://www.cnblogs.com/haoxianrui/p/13676619.html)
-
-#### 3. 微信小程序
-
-* [uni-app实战 | 第一篇：从0到1快速开发一个开源商城微信小程序，无缝接入Spring Security OAuth2认证授权实现登录](https://www.cnblogs.com/haoxianrui/p/13882310.html)
-
-#### 4. 应用部署
-
-* [Docker实战 | 第一篇：Linux 安装 Docker](https://www.cnblogs.com/haoxianrui/p/14067423.html)
-* [Docker实战 | 第二篇：Docker部署nacos-server:1.4.0](https://www.cnblogs.com/haoxianrui/p/14059009.html)
-* [Docker实战 | 第三篇：IDEA集成 Docker 插件实现一键自动打包部署微服务项目](https://www.cnblogs.com/haoxianrui/p/14088400.html)
-* [Docker实战 | 第四篇：Docker安装Nginx，实现基于vue-element-admin框架构建的项目线上部署](https://www.cnblogs.com/haoxianrui/p/14091762.html)
-* [Docker实战 | 第五篇：Docker启用TLS加密解决暴露2375端口引发的安全漏洞，被黑掉三台云主机的教训总结](https://www.cnblogs.com/haoxianrui/p/14095306.html)
+* 4 应用部署
+  * [Docker实战 | 第一篇：Linux 安装 Docker](https://www.cnblogs.com/haoxianrui/p/14067423.html)
+  * [Docker实战 | 第二篇：Docker部署nacos-server:1.4.0](https://www.cnblogs.com/haoxianrui/p/14059009.html)
+  * [Docker实战 | 第三篇：IDEA集成 Docker 插件实现一键自动打包部署微服务项目](https://www.cnblogs.com/haoxianrui/p/14088400.html)
+  * [Docker实战 | 第四篇：Docker安装Nginx，实现基于vue-element-admin框架构建的项目线上部署](https://www.cnblogs.com/haoxianrui/p/14091762.html)
+  * [Docker实战 | 第五篇：Docker启用TLS加密解决暴露2375端口引发的安全漏洞，被黑掉三台云主机的教训总结](https://www.cnblogs.com/haoxianrui/p/14095306.html)
 
 ---
 
