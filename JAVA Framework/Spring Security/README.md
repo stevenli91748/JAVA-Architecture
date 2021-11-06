@@ -42,6 +42,10 @@ Github: https://github.com/hxrui/youlai-mall
   * [Spring Cloud实战 | 第十一篇：Spring Cloud Gateway统一鉴权下针对RESTful接口的RBAC权限设计方案，附Vue按钮权限控制](https://www.cnblogs.com/haoxianrui/p/14396990.html)
 
 * 2 后台管理前端
+    
+    有来商城youlai-mall管理前端 
+    Github:https://github.com/hxrui/mall-admin-web
+
   * [vue-element-admin实战 | 第一篇： 移除mock接入后台微服务接口，搭建SpringCloud+Vue前后端分离的管理平台](https://www.cnblogs.com/haoxianrui/p/13624548.html)
   * [vue-element-admin实战 | 第二篇： 最小改动接入后台实现动态路由菜单加载](https://www.cnblogs.com/haoxianrui/p/13676619.html)
 
