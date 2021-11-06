@@ -16,6 +16,12 @@
 [springBoot整合spring security实现权限管理(单体应用版)--筑基初期](https://juejin.im/post/6867530830446034958)|[springBoot整合spring security+JWT实现单点登录与权限管理前后端分离--筑基中期](https://juejin.im/post/6868558729353117710)|
 ---|---|
 
+
+# 例子程序
+
+* [Spring Security4 例子程序](http://websystique.com/spring-security-tutorial/)
+* [[Spring Security官方例子程序](https://github.com/spring-projects/spring-security)
+
 # 实战案例
 
 ## [案例1：Spring Security 案例实现和执行流程剖析](https://www.cnblogs.com/xifengxiaoma/p/10020960.html)
