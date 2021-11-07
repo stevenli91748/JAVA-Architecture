@@ -437,20 +437,25 @@ Github:https://github.com/hxrui/mall-admin-web
   * Spring Cloud Security
 * [Spring Cloud 与 gRPC](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%E4%B8%8E%20gRPC/README.md)
 * Spring Test
-* [微服务之分布式事务解决方案](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/%E5%BE%AE%E6%9C%8D%E5%8A%A1%E4%B9%8B%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1/README.md)
-  * [Seata 分布式事务](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%20Alibaba%E5%A5%97%E4%BB%B6/Seata.md)
-  * [亿级流量架构之分布式事务思路及方法](https://www.cnblogs.com/Courage129/p/14433462.html)
-  * [亿级流量架构之分布式事务解决方案对比](https://www.cnblogs.com/Courage129/p/14443653.html) 
-  * [微服务分布式事务之LCN、TCC特点、事务补偿机制缘由以及设计重点](https://www.cnblogs.com/Courage129/p/14528981.html)
-* 分布式任务调度------Spring Cloud微服务全栈技术与案例解析.pdf
-* 分布式消息总线
-  * [Spring Cloud Bus ---可以实现修改Git库中的配置文件并及时同步和不重启微服务系统的情况下更新到配置项](https://weread.qq.com/web/reader/7d332ce0715dbcba7d3a09dk73532580243735b90b45ac8)
-    * [使用Spring Cloud Bus刷新配置](https://mrbird.cc/Spring-Cloud-Bus.html) 
-* 6 分布式消息驱动
-  * RocketMQ
-  * RabbitMQ
-  * [Spring Cloud Stream](https://weread.qq.com/web/reader/7d332ce0715dbcba7d3a09dk7f33291023d7f39f8317e0b)
-  * Apache Kafka
+* 微服务之分布式
+  * [微服务之分布式事务解决方案](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/%E5%BE%AE%E6%9C%8D%E5%8A%A1%E4%B9%8B%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1/README.md)
+    * [Seata 分布式事务](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%20Alibaba%E5%A5%97%E4%BB%B6/Seata.md)
+    * [亿级流量架构之分布式事务思路及方法](https://www.cnblogs.com/Courage129/p/14433462.html)
+    * [亿级流量架构之分布式事务解决方案对比](https://www.cnblogs.com/Courage129/p/14443653.html) 
+    * [微服务分布式事务之LCN、TCC特点、事务补偿机制缘由以及设计重点](https://www.cnblogs.com/Courage129/p/14528981.html)
+  * Spring Cloud分布式session
+    * [SpingSecurity + SpringSession 死磕](https://www.cnblogs.com/crazymakercircle/p/12037584.html)
+    * [SpringSession 独立使用](https://www.cnblogs.com/crazymakercircle/p/12038664.html)
+    * [RedisSession （自定义）](https://www.cnblogs.com/crazymakercircle/p/12038208.html) 
+  * 分布式任务调度------Spring Cloud微服务全栈技术与案例解析.pdf
+  * 分布式消息总线
+    * [Spring Cloud Bus ---可以实现修改Git库中的配置文件并及时同步和不重启微服务系统的情况下更新到配置项](https://weread.qq.com/web/reader/7d332ce0715dbcba7d3a09dk73532580243735b90b45ac8)
+      * [使用Spring Cloud Bus刷新配置](https://mrbird.cc/Spring-Cloud-Bus.html) 
+  * 6 分布式消息驱动
+    * RocketMQ
+    * RabbitMQ
+    * [Spring Cloud Stream](https://weread.qq.com/web/reader/7d332ce0715dbcba7d3a09dk7f33291023d7f39f8317e0b)
+    * Apache Kafka
 * SMS 短信
 * [Spring Cloud版本控制与灰度发布](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6%E4%B8%8E%E7%81%B0%E5%BA%A6%E5%8F%91%E5%B8%83/README.md)
 * 微服务的高级主题---Spring生态消息驱动
@@ -493,10 +498,6 @@ Github:https://github.com/hxrui/mall-admin-web
   * MySQL
   * Elasticsearch 
   * 分库分表解决方案
-* Spring Cloud分布式session
-  * [SpingSecurity + SpringSession 死磕](https://www.cnblogs.com/crazymakercircle/p/12037584.html)
-  * [SpringSession 独立使用](https://www.cnblogs.com/crazymakercircle/p/12038664.html)
-  * [RedisSession （自定义）](https://www.cnblogs.com/crazymakercircle/p/12038208.html) 
 * [Spring Cloud 与 邻域驱动实践](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%20%E4%B8%8E%20%E9%82%BB%E5%9F%9F%E9%A9%B1%E5%8A%A8%E5%AE%9E%E8%B7%B5/README.md)
 * 微服务的部署与发布容器化
   * 持续交付与持续部署微服务
