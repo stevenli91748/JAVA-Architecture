@@ -389,8 +389,9 @@ Github:https://github.com/hxrui/mall-admin-web
         * [venus-cloud-feign---Spring Cloud中国社区对spring-cloud-openfeign进行增强](http://github.com/springcloud/venus-cloud-feign) 
         * [OpenFeign---最方便、最优雅的方式是通过Spring Cloud Open Feign进行服务间的调用 ](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%20Netflix%E5%A5%97%E4%BB%B6/OpenFeign.md)
         * [Feign](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%20Netflix%E5%A5%97%E4%BB%B6/Feign.md)（第一种调用方法）---微服务间调用，个人使用feign，同时使用OKhttp替换feign中默认的httpClient
+          * [Feign调用实例](https://weread.qq.com/web/reader/9593218071950312959b681k81232fb025f812b4ba28a23) 
         * [Ribbon](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%20Netflix%E5%A5%97%E4%BB%B6/Ribbon.md) + [RestTemplate](http://www.zimug.com/tag/resttemplate)（第二种调用方法）---第三方服务调用, 在使用Ribbon+ RestTemplate时，Ribbon需要自己构建http请求，模拟http请求然后使用RestTemplate发送给其他服务，步骤相当繁琐
-          * [RestTemplate+Ribbon 实例](https://weread.qq.com/web/reader/9593218071950312959b681kf4b32ef025ef4b9ec30acd6) 
+          * [RestTemplate+Ribbon 调用实例](https://weread.qq.com/web/reader/9593218071950312959b681kf4b32ef025ef4b9ec30acd6) 
   * [微服务负载均衡](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1/README.md)
     * 集中式负载均衡---集中式负载均衡指位于因特网与服务提供者之间，并负责把网络请求转发到各个提供单位，这时候Nginx与F5就可以划为一类了，也可以称为服务端负载均衡
       * LVS
