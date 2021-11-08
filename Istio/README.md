@@ -1,6 +1,9 @@
 # 在线书籍
 * [Istio 服务网格技术解析与实践---2020](https://weread.qq.com/web/reader/20c3266071c94f5b20c1306)
+* [深入浅出Istio: Service Mesh快速入门与实践](https://weread.qq.com/web/reader/e2c32bb071848778e2cf1c7)
 * [Service Mesh 微服务架构设计](https://weread.qq.com/web/reader/4de32f7071ef4cea4dee0b6)
+* [istio入门与实战](https://weread.qq.com/web/reader/af532c40718247c3af53d89)
+* [Istio实战指南](https://weread.qq.com/web/reader/2c2325007193f2442c2e695kc81322c012c81e728d9d180)
 * [Service Mesh实战： 用Istio软负载实现服务网络](https://weread.qq.com/web/reader/f57324607188b37df57c39e)
 * [Serverless架构---2020](https://weread.qq.com/web/reader/c8a32e205e2f83c8a87fa85)
 * [Serverless工程实践---2021](https://weread.qq.com/web/reader/89c322e0725d0bbd89cac6a)
