@@ -35,6 +35,11 @@ Hystrix是一个用于处理分布式系统的延迟和容错的开源库,在分
 
 我们只需要在服务接口上添加Hystrix标签，就可以实现对这个接口的监控和断路器功能。Hystrix Dashboard监控面板，提供了一个界面，可以监控各个服务上的服务调用所消耗的时间等。
 
+Hystrix Dashboard共支持以下3种不同的监控方式：
+（1）单体Hystrix消费者：通过URL http://hystrix-app:port/hystrix.stream开启，实现对具体某个服务实例的监控。
+（2）默认集群监控：通过URL http://turbine-hostname:port/turbine.stream开启，实现对默认集群的监控。
+（3）自定集群监控：通过URL http://turbine-hostname:port/turbine.stream?cluster=[clusterName]开启，实现对clusterName集群的监控
+
 **Hystrix Turbine监控聚合**
 
 使用Hystrix监控，我们需要打开每一个服务实例的监控信息来查看。而Turbine可以帮助我们把所有的服务实例的监控信息聚合到一个地方统查看。这样就不需要挨个打开一个个的页面一个个查看。
