@@ -31,7 +31,7 @@ Spring Cloud Sleuth为服务之间的调用提供链路追踪，通过Sleuth可�
 
 链路优化：对于调用比较频繁的服务，可以针对这些服务实施一些优化措施。
 
-Spring Cloud Sleuth可以结合ZipKin，将信息发送到ZipKin，利用ZipKin的存储来存储信息，利用ZipKin UI来展示数据
+**Spring Cloud Sleuth可以结合ZipKin，将信息发送到ZipKin，利用ZipKin的存储来存储信息，利用ZipKin UI来展示数据**
 
 
 # 参考
