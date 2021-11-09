@@ -57,6 +57,7 @@ SpringCloud Config实现的配置中心默认采用Git来存储配置信息，�
 
 Spring Cloud Config也提供本地存储配置方式，只需设置属性spring.profiles.active=native，Config Server会默认从应用的src/main/resource目录下检索配置文件。另外，也可以通过spring.cloud.config.server.native.searchLocations=file:D:/properties/属性来指定配置文件的位置。虽然Spring Cloud Config提供了这样的功能，但是为了更好地支持内容管理和版本控制，还是推荐使用GIT的方式。
 
+服务端会自动读取最新提交的数据
 
 **应用场景**
 
