@@ -34,6 +34,7 @@
        * [关系数据库存储实现配置中心](https://weread.qq.com/web/reader/71d32370716443e271df020k32b321d024832bb90e89958)
        * [使用本地的参数覆盖远程的参数](https://weread.qq.com/web/reader/71d32370716443e271df020kd2d32c50249d2ddea18fb39)
      * [Spring Cloud Config Client配置](https://weread.qq.com/web/reader/71d32370716443e271df020k32932b102423295c76ac7d9)
+       * [客户端Refresh机制](https://weread.qq.com/web/reader/9593218071950312959b681k7f632b502707f6ffaa6bf2e) 
      * [手动刷新配置中心信息](https://weread.qq.com/web/reader/71d32370716443e271df020k73532580243735b90b45ac8)
      * [Spring Cloud Config结合Spring Cloud Bus进行热刷新](https://weread.qq.com/web/reader/71d32370716443e271df020k73532580243735b90b45ac8)
      
@@ -57,7 +58,7 @@ SpringCloud Config实现的配置中心默认采用Git来存储配置信息，�
 
 Spring Cloud Config也提供本地存储配置方式，只需设置属性spring.profiles.active=native，Config Server会默认从应用的src/main/resource目录下检索配置文件。另外，也可以通过spring.cloud.config.server.native.searchLocations=file:D:/properties/属性来指定配置文件的位置。虽然Spring Cloud Config提供了这样的功能，但是为了更好地支持内容管理和版本控制，还是推荐使用GIT的方式。
 
-服务端会自动读取最新提交的数据
+服务端会自动读取最新提交的数据，我们在上面讲到，Spring Boot程序只在启动的时候加载配置文件信息，这样在GIT仓库配置修改之后，虽然配置中心服务器端能够读取最新的提交信息，但是配置中心客户端却不会重新读取，以至于不能及时地读取更新后的配置信息。这时就需要一种通知刷新机制来支持了
 
 **应用场景**
 
