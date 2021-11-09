@@ -55,6 +55,9 @@ Spring Cloud Config是一套为分布式系统中的基础设施和微服务应�
 
 SpringCloud Config实现的配置中心默认采用Git来存储配置信息，所以使用SpringCloud Config构建的配置服务器天然就支持对微服务应用配置信息的版本管理，并且可以通过Git客户端工具非常方便地管理和访问配置内容
 
+Spring Cloud Config也提供本地存储配置方式，只需设置属性spring.profiles.active=native，Config Server会默认从应用的src/main/resource目录下检索配置文件。另外，也可以通过spring.cloud.config.server.native.searchLocations=file:D:/properties/属性来指定配置文件的位置。虽然Spring Cloud Config提供了这样的功能，但是为了更好地支持内容管理和版本控制，还是推荐使用GIT的方式。
+
+
 **应用场景**
 
 不方便维护，多人同时对配置文件进行修改，冲突不断，很难维护，
