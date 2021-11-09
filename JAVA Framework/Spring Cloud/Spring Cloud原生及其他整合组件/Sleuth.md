@@ -11,7 +11,7 @@
   * [Spring Cloud Sleuth全链路追踪源理](https://weread.qq.com/web/reader/71d32370716443e271df020kf4b32ef025ef4b9ec30acd6) 
     * Span---
     * Brave---Brave[插图]是一个用于捕捉分布式系统之间调用信息的工具库，然后将这些信息以Span的形式发送给Zipkin
-    * Zipkin---是一个分布式跟踪系统，它收集系统的延时数据并提供展示界面，以便用户排查问题
+    * [Zipkin---是一个分布式跟踪系统，它收集系统的延时数据并提供展示界面，以便用户排查问题](https://weread.qq.com/web/reader/9593218071950312959b681ka973204026ba97da629bd12)
 * [Sleuth基本用法](https://weread.qq.com/web/reader/71d32370716443e271df020k81232fb025f812b4ba28a23)
   *  Sleuth对Feign的支持 
   *  Sleuth对RestTemplate的支持
