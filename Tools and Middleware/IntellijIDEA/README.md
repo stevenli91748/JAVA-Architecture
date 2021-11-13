@@ -105,7 +105,8 @@
   * [IntelliJ强制更新Maven Dependencies](#IntelliJ强制更新Maven-Dependencies)
   * [IDEA Debug处理](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/IntellijIDEA/IDEA%20Debug%E5%A4%84%E7%90%86/README.md)
   * [Project的打包处理]()
-    * [Maven Project的打包处理]()
+    * Maven Project的打包处理
+      * [有关项目的打包与部署](https://weread.qq.com/web/reader/ca932ea071d7c798ca9a714k32932b102423295c76ac7d9) 
     * [非Maven Project的打包处理]()
 * [IDEA troubleshoting]()
   * [IDEA中maven项目dependencies报错飘红问题解决](https://blog.csdn.net/qq_34748010/article/details/107878145?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-3.not_use_machine_learn_pai&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-3.not_use_machine_learn_pai)
