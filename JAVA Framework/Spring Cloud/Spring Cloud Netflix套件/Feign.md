@@ -3,7 +3,10 @@
 
 **需要注意的是，如果有多个FeignClient程序调用了同一个微服务接口服务，则必须在项目的配置文件中使用如下所示的配置进行设置，以支持这种调用方式。因为这个Spring Cloud版本的默认配置是不开启这种调用方式的**
 
+application.yaml
+
 #允许多个接口使用相同的服务
+
 spring: 
   main:
     allow-bean-definition-overriding: true
