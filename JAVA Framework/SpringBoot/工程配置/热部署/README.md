@@ -1,4 +1,4 @@
-
+* [Web应用项目热部署设置](https://weread.qq.com/web/reader/ca932ea071d7c798ca9a714kad63251024aad61ab143c7e)
 * [Spring Boot Devtools热部署](https://mrbird.cc/Spring-Boot-Devtools.html)
 * [SpringBoot 在IDEA中实现热部署(实用版)](https://www.jianshu.com/p/f658fed35786)
 * [Intellij IDEA 4种配置热部署的方法](https://www.cnblogs.com/jcook/p/6910238.html)
