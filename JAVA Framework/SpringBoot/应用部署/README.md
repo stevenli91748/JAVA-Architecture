@@ -12,6 +12,7 @@
    * [我尝试使用Github Actions非常轻松地将Spring Boot应用程序部署到AWS Elastic Beanstalk](https://www.codenong.com/a59351c4f27083b3956f/) 
 
 ## SpringBoot项目部署在本地分布式环境中
+   * [有关项目的打包与部署](https://weread.qq.com/web/reader/ca932ea071d7c798ca9a714k32932b102423295c76ac7d9)
    * [运行 Spring Boot 应用的 3 种方式](https://zhuanlan.zhihu.com/p/311245147?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
    * [Spring Boot 发布 jar 包转为 war 包秘籍](https://mp.weixin.qq.com/s/RQAPIwQJ2jMmlcM76LJhSQ)
    * [Spring Boot – Deploy WAR file to Tomcat](https://mkyong.com/spring-boot/spring-boot-deploy-war-file-to-tomcat/)
