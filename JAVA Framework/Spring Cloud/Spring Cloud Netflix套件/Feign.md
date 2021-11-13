@@ -1,6 +1,14 @@
 
 **在Spring Cloud构建的微服务系统中，大多数开发者使用官方提供的服务调用组件Feign来进行内部服务通信，这种声明式的HTTP客户端使用起来极为简单、优雅、方便。然而，在使用Feign消费服务时，相对于Dubbo、gRPC等RPC框架来说，性能显得十分低**
 
+**需要注意的是，如果有多个FeignClient程序调用了同一个微服务接口服务，则必须在项目的配置文件中使用如下所示的配置进行设置，以支持这种调用方式。因为这个Spring Cloud版本的默认配置是不开启这种调用方式的**
+
+#允许多个接口使用相同的服务
+spring: 
+  main:
+    allow-bean-definition-overriding: true
+
+
 # 目录
 * [Spring Cloud Feign 声明式服务调用快速入门例子1](https://mrbird.cc/Spring-Cloud-Feign.html)
 * [Spring Cloud Feign 声明式服务调用快速入门例子2](https://weread.qq.com/web/reader/71d32370716443e271df020k02e32f0021b02e74f10ece8)
