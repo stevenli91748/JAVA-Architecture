@@ -32,7 +32,7 @@
      * Redis依赖配置
      * 创建Redis服务类
      * Redis测试
-   * MongoDB
+   * [MongoDB](https://weread.qq.com/web/reader/ca932ea071d7c798ca9a714kd1f32d7024fd1fe173d0651)
      * MongoDB依赖配置
      * 文档建模
      * 文档持久化
