@@ -443,6 +443,8 @@
 * 26 SpringBoot异步编程机制以及功能分析讲解
   * [SpringBoot技术专题-异步编程机制以及功能分析讲解](https://www.jianshu.com/p/e4d513d34a3e)
   * [异步调用如何使用最好？](https://www.jianshu.com/p/3c589f4ee4ef)
+* 27 SpringBoot对象存储
+  * [块存储、文件存储、对象存储这三者的本质差别是什么](https://www.zhihu.com/question/21536660) 
 
 
 
