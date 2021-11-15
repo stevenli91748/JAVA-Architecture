@@ -149,8 +149,11 @@
 [小马哥的技术博客](https://mercyblitz.github.io/)|[Spring SpringBoot SpringCloud技术一览](https://zhuanlan.zhihu.com/p/267654014?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)|[ Java技术栈 ](https://www.javastack.cn/categories/Spring/)|
 ---|---|---|
 
-[互联网应用开发平台综合技术入门指南](https://www.kancloud.cn/fang2099/rayplatform/2109037)|[Yasin Shaw---一线互联网公司，挺好](https://yasinshaw.com/)|[冰河技术](https://github.com/stevenli91748/technology-binghe)|
----|---|---|
+[互联网应用开发平台综合技术入门指南](https://www.kancloud.cn/fang2099/rayplatform/2109037)|[Yasin Shaw---一线互联网公司，挺好](https://yasinshaw.com/)|
+----|---|
+
+[冰河技术---分享各种编程语言、开发技术、分布式与微服务架构、分布式数据库、分布式事务、云原生、大数据与云计算技术和渗透技术](https://github.com/stevenli91748/technology-binghe)|
+---|
 
 
 
