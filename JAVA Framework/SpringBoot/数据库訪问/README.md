@@ -4,6 +4,9 @@
 [动态数据源例子---基于springboot的快速集成多数据源的启动器 已付费](https://www.kancloud.cn/tracy5546/dynamic-datasource/2344619)|[Spring Boot JdbcTemplate配置Druid多数据源](https://mrbird.cc/Spring-Boot-JdbcTemplate%20Druid.html)|
 ---|---|
 
+[Spring】如何实现多数据源读写分离？这是我看过最详细的一篇！！](https://zhuanlan.zhihu.com/p/309314866)|
+---|
+
 [Spring Boot数据库源（连接数据库）---不需要编写任何额外的代码, 只需添加依赖项并执行配置详细信息就足以创建DataSource并连接数据库](https://www.yiibai.com/spring-boot/spring_boot_database_handling.html)|
 ---|
 
