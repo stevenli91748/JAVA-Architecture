@@ -54,9 +54,11 @@
     * SpringBoot整合React
     * SpringBoot整合Vue
     * SpringBoot整合Thymeleaf
-*  [Spring Boot Actuator 模块例子实验](https://segmentfault.com/a/1190000021611510)
-   * [通过Spring Boot Actuator提供的Metrics获取当前CPU的使用情况例子实验 ](https://weread.qq.com/web/reader/71d32370716443e271df020k7f632b502707f6ffaa6bf2e)
-
+* [Spring Boot Actuator 模块例子实验](https://segmentfault.com/a/1190000021611510)
+  * [通过Spring Boot Actuator提供的Metrics获取当前CPU的使用情况例子实验 ](https://weread.qq.com/web/reader/71d32370716443e271df020k7f632b502707f6ffaa6bf2e)
+* SpringBoot整合数据库中间件 
+  * [SpringBoot 整合 Sharding-Sphere + Druid 读写分离](https://codeleading.com/article/79463528550/)
+  * [SpringBoot Mysql主从读写分离（主从，Mybatis，ShardingSphere ）](https://codeleading.com/article/45745225007/)
 
 ---
 
