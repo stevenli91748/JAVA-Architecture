@@ -504,6 +504,8 @@ Github:https://github.com/hxrui/mall-admin-web
   * MySQL
   * Elasticsearch 
   * 分库分表解决方案
+    * [数据库中间件详解（精品长文）---数据库拆分过程基本遵循的顺序是：垂直拆分、读写分离、分库分表(水平拆分)](https://zhuanlan.zhihu.com/p/87144535)
+    * [如何实现多数据源读写分离？这是我看过最详细的一篇！！](https://zhuanlan.zhihu.com/p/309314866)
 * [Spring Cloud 与 邻域驱动实践](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%20%E4%B8%8E%20%E9%82%BB%E5%9F%9F%E9%A9%B1%E5%8A%A8%E5%AE%9E%E8%B7%B5/README.md)
 * 微服务的部署与发布容器化
   * 持续交付与持续部署微服务
