@@ -132,7 +132,7 @@
 [Spring SpringMVC Spring Boot Spring cloud Spring cloud alibaba全家桶教程](https://www.kancloud.cn/king_om/ss_m/1941921)|
 ---|
 
-[泥瓦匠 - Springboot-learning-example](https://github.com/JeffLi1993/springboot-learning-example)|[Liaokailin - Spring Boot 实战教程](https://blog.csdn.net/liaokailin/category_5765237.html)|[冰河技术](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489112&idx=1&sn=b70f339a3a7c09e91d4d6c7b08db1f00&source=41#wechat_redirect)|
+[泥瓦匠 - Springboot-learning-example](https://github.com/JeffLi1993/springboot-learning-example)|[Liaokailin - Spring Boot 实战教程](https://blog.csdn.net/liaokailin/category_5765237.html)|[冰河技术---分享各种编程语言、开发技术、分布式与微服务架构、分布式数据库、分布式事务、云原生、大数据与云计算技术和渗透技术](https://github.com/stevenli91748/technology-binghe)|
 ---|---|---|
 
 [互联网应用开发平台综合技术入门指南](https://www.kancloud.cn/fang2099/rayplatform/2109037)|
