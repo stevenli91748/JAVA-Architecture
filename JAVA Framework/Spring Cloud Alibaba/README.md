@@ -38,6 +38,7 @@
     * Feign --- 替代旧方案 resttempate
 * 3 服务配置中心
     * Nacos Config--- 替代旧方案 sc config、consul config
+      * [seata整合nacos完成分布式的部署](https://www.jianshu.com/p/402ac48cf4cc) 
 * 4 服务网关
     * Spring Cloud Gateway ---- 替代旧方案 ZUUL
 * 5 负载均衡 
@@ -49,6 +50,7 @@
 * 8 分布式消息驱动 RocketMQ
 * 9 SMS 短信 
 * 10 Seata 分布式事务
+  * [seata整合nacos完成分布式的部署](https://www.jianshu.com/p/402ac48cf4cc)  
 
 
 # 视频
