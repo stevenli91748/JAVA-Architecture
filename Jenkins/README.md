@@ -9,7 +9,7 @@
 ---
 
 # 目录
-
+* [Jenkins的自动部署实例](https://weread.qq.com/web/reader/ca932ea071d7c798ca9a714k0f2324c028d0f28b5d492ee)
 * [使用Jenkins自动部署微服务](https://weread.qq.com/web/reader/69532da0717d3026695636ek0723244023c072b030ba601)
 * [使用Jenkins实现自动化构建](https://weread.qq.com/web/reader/ca932ea071d7c798ca9a714k398323202893988c7f885f0)
 ---
