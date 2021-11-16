@@ -665,7 +665,7 @@ SQL语言|[MySQL](https://github.com/stevenli91748/Database/blob/master/MySQL/RE
 [图形程序设计][%图形程序设计]|[Swing界面组件][%Swing界面组件]|[事件处理][%事件处理]|[高级Swing 界面组件][%高级Swing 界面组件]|[高级AWT][%高级AWT]|
 ---|---|---|---|---|
 
-
+# [最新 1500 多本计算机电子书免费下载---2020](https://github.com/itdevbooks)
 # [在线书籍网站：微信读书](https://weread.qq.com/)
 # [百度AI能力开放平台](https://ai.baidu.com/)
 # [JAVA系统架构进阶之路](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E8%BF%9B%E9%98%B6%E4%B9%8B%E8%B7%AF.md)
