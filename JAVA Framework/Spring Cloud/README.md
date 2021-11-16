@@ -456,6 +456,7 @@ Github:https://github.com/hxrui/mall-admin-web
     * [基于session单点登录与状态共享方案](https://www.kancloud.cn/hanxt/springsecurity/2025935) 
     * [基于session共享登陆方案](https://www.kancloud.cn/hanxt/springsecurity/2025936)
     * [基于session的图片验证码实现](https://www.kancloud.cn/hanxt/springsecurity/2026502)
+  * [FastDFS---高可用分布式文件系统的组建](https://weread.qq.com/web/reader/ca932ea071d7c798ca9a714k76d325c028076dc611d6d8c)
   * 分布式任务调度------Spring Cloud微服务全栈技术与案例解析.pdf
   * 分布式消息总线
     * [Spring Cloud Bus ---可以实现修改Git库中的配置文件并及时同步和不重启微服务系统的情况下更新到配置项](https://weread.qq.com/web/reader/7d332ce0715dbcba7d3a09dk73532580243735b90b45ac8)
