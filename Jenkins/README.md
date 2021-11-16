@@ -11,7 +11,7 @@
 # 目录
 
 * [使用Jenkins自动部署微服务](https://weread.qq.com/web/reader/69532da0717d3026695636ek0723244023c072b030ba601)
-
+* [使用Jenkins实现自动化构建](https://weread.qq.com/web/reader/ca932ea071d7c798ca9a714k398323202893988c7f885f0)
 ---
 
 [精尽 Jenkins 学习指南](http://svip.iocoder.cn/Jenkins/tutorials/)|[Jenkins中文社区](https://my.oschina.net/jenkinszh)|
