@@ -12,8 +12,8 @@
 [Java 全栈知识体系---Java并发知识体系详解](https://www.pdai.tech/md/java/thread/java-thread-x-overview.html)|
 ---|
 
-[高并发三部曲](https://www.cnblogs.com/crazymakercircle/p/14365820.html)|
----|
+[高并发三部曲](https://www.cnblogs.com/crazymakercircle/p/14365820.html)|[高并发分布式架构演进之路](https://zhuanlan.zhihu.com/p/149369244)|
+---|---|
 
 [精尽 Java【并发】学习指南](http://svip.iocoder.cn/Java/Concurrent/tutorials/)|[高并发都要学哪些技术](https://zhuanlan.zhihu.com/p/139509856?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)|[应用程序应对高并发的五步处理逻辑](https://www.coollf.com/archives/article-24)|
 ---|---|---|
