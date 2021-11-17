@@ -28,7 +28,7 @@
   * [利用神器 BTrace 追踪线上 Spring Boot应用运行时信息](https://www.codesheep.cn/2019/01/17/springbt-btrace/)
   * [Spring Boot Admin 2.0开箱体验](https://github.com/hansonwang99/Spring-Boot-In-Action/tree/master/spring_boot_admin2.0_demo)
 * 3 对网络的监控
-  * [Prometheus ](https://weread.qq.com/web/reader/d9e327a07188b377d9eb7dakd1f32d7024fd1fe173d0651)
+  * [Prometheus + Alert manager +  Grafana](https://weread.qq.com/web/reader/d9e327a07188b377d9eb7dakd1f32d7024fd1fe173d0651)
 
 
 ## [APM原理与应用](https://weread.qq.com/web/reader/d9e327a07188b377d9eb7dak35f3251024e35f4a8d46404)
