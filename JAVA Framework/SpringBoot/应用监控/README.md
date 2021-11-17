@@ -1,6 +1,13 @@
 
 # 目录
 * [APM原理与应用](#APM原理与应用)
+  * APM其实分为五大模块
+    * [监控数据的采集](https://weread.qq.com/web/reader/d9e327a07188b377d9eb7dak35f3251024e35f4a8d46404)
+      * [ELK日志数据的采集 ](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/%E6%97%A5%E5%BF%97%E7%B3%BB%E7%BB%9F/ELK/README.md)
+    * 数据传输与分析
+    * 历史数据存储
+    * 图表展示
+    * 监控预警  
   * [APM监控点](#APM监控点) 
 * [一招搞定 Spring Boot 可视化监控！](https://mp.weixin.qq.com/s/J67gVzdoFZZZPIoXtPqsLg)
 * [SpringBoot 2.x 开发案例之整合Srping Boot Admin](https://www.jianshu.com/p/a791e1c0b67e)
@@ -31,10 +38,20 @@ APM的全称是Application Performance Management（应用性能管理）。APM�
 ### [APM监控点](https://weread.qq.com/web/reader/d9e327a07188b377d9eb7dak35f3251024e35f4a8d46404)
 
 ● Web地址响应性能监控与统计
+
 ● 服务响应性能监控与统计
+
 ● RPC服务响应性能监控与统计
+
 ● API接口响应性能监控与统计
+
 ● 组件节点监控（MySQL、Redis、MQ）
+
 ● 系统CPU、内存、硬盘监测
+
 ● SQL响应性能监控与统计
+
 ● 系统异常监控与统计。
+
+
+常见的APM其实分为五大模块，分别是监控数据的采集、数据传输与分析、历史数据存储、图表展示和监控预警
