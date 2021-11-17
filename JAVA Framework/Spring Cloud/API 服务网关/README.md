@@ -7,6 +7,7 @@
 
 
 # 目录
+  * [百亿流量交易系统API网关设计](https://weread.qq.com/web/reader/d9e327a07188b377d9eb7dakd67323c0227d67d8ab4fb04)
   * [API 网关的概念](#API-网关的概念) 
   * [服务网关的基本功能](https://github.com/aCoder2013/blog/issues/35)
     * 路由转发
