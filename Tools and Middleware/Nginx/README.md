@@ -42,7 +42,7 @@ nginx出口-->http服务
          
 
 
-# 目录
+
 
 [精尽 Nginx 学习指南](http://svip.iocoder.cn/Nginx/tutorials/)|[当初我要是这么学习Nginx就好了](https://www.jianshu.com/p/e90050dc89b6)|[Nginx和HAProxy对比，各有什么优点与不足？](https://www.zhihu.com/question/34489042)|
 ---|---|---|
@@ -59,7 +59,11 @@ nginx出口-->http服务
 [OpenResty 究竟解决了什么痛点？](https://www.cnblogs.com/Tanwheey/p/12689629.html)|
 ---|
 
+# 案例
+* [使用Nginx+Lua实现的Web应用防火墙(WAF) 版本v1.0](https://github.com/unixhot/waf)
+* [一个基于ngx_lua的web应用防火墙](https://github.com/loveshell/ngx_lua_waf)
 
+# 目录
 * [1. Nginx 简介及特点]()
   * [1.1 Nginx 简介]()
   * [1.2 Nginx服务器配置例子](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Nginx/Nginx%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%85%8D%E7%BD%AE%E4%BE%8B%E5%AD%90.md)
