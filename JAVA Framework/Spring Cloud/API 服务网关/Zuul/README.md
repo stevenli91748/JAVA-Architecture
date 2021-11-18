@@ -15,9 +15,19 @@
   * 压力控制
   * 金丝雀测试
   * 动态路由
-  * 负载削减
   * 静态响应处理
   * 主动流量管理
+  * 服务发现
+  * 负载均衡
+  * 连接池
+  * 状态分类
+  * 重试
+  * 请求凭证
+  * HTTP/2
+  * TLS
+  * 代理协议
+  * GZip
+  * WebSocket
 * [Spring Cloud Zuul Filter链](https://weread.qq.com/web/reader/71d32370716443e271df020k67c32d7022f67c6a1e7ce82)
   * [微服务网关Zuul过滤器Filter](https://www.cnblogs.com/Courage129/p/14517275.html) 
 * [Spring Cloud Zuul权限集成](https://weread.qq.com/web/reader/71d32370716443e271df020k64232b60230642e92efb54c)
