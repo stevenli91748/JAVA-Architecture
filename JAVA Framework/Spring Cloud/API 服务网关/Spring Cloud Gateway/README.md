@@ -46,6 +46,14 @@
   * [亿级流量架构之网关设计思路、常见网关对比](https://www.cnblogs.com/Courage129/p/14446586.html)
   * [SpringCloud gateway （史上最全）---疯狂创客圈](https://www.cnblogs.com/crazymakercircle/p/11704077.html)
   * [认识SpringCloud Gateway](#认识SpringCloud-Gateway)
+  * Spring Cloud Gateway核心特性
+    * 通过请求参数匹配路由
+    * 通过断言和过滤器实现路由
+    * 与Hystrix熔断集成
+    * 与Spring Cloud DiscoveryClient集成
+    * 非常方便地实现断言和过滤器
+    * 请求限流
+    * 路径重写 
   * [SprlngCloud Gateway的工作流程](https://weread.qq.com/web/reader/71d32370716443e271df020kc9e32940268c9e1074f5bc6)
     * [SprlngCloud Gateway执行原理](https://weread.qq.com/web/reader/2fe329c071e041322feb53dkc7432af0210c74d97b01b1c) 
   * 比较Zuul与SpringCloud Gateway
