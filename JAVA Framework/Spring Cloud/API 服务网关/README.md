@@ -29,7 +29,7 @@
       * 保持大规模的inbound请求接入能力（长短连接），比如基于Netty实现
       * 最大限度地复用outbound的HTTP连接能力，比如基于HttpClient4的异步HttpClient实现
       * 方便灵活地实现安全、验证、过滤、聚合、限流、监控等各种策略。
-    * [推荐外部客户使用WebSocket和API SDK来连接APIAPI网关](https://weread.qq.com/web/reader/d9e327a07188b377d9eb7daka1d32a6022aa1d0c6e83eb4 'WebSocket是一个比REST API更加实时可靠、更加易于管理的方式')
+    * [推荐外部客户使用WebSocket和API SDK来连接API网关](https://weread.qq.com/web/reader/d9e327a07188b377d9eb7daka1d32a6022aa1d0c6e83eb4 'WebSocket是一个比REST API更加实时可靠、更加易于管理的方式')
     * API网关的分类
       * 流量网关是全局性的，跟具体的后端业务系统和服务完全无关的部分，这样流量网关关注全局流量的稳定与安全, 比如安全策略、全局性流控策略、流量分发策略等
         * 流量网关具体功能
