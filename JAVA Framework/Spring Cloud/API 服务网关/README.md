@@ -19,12 +19,6 @@
       * 支持支持Cookie过滤，URL与URL参数过滤
       * 支持日志记录，将所有拒绝的操作记录到日志中  
   * [API 网关的概念](#API-网关的概念)
-    * [常见的开源网关分类](https://weread.qq.com/web/reader/d9e327a07188b377d9eb7dak34132fc02293416a75f431d) 
-      * Nginx+Lua---Open Resty、Kong、Orange、Abtesting Gateway等
-      * Java---Zuul/Zuul 2、Spring Cloud Gateway、Kaazing KWG、gravitee、Dromara soul等
-      * Go---Janus、fagongzi、Grpc-Gateway
-      * .NET---Ocelot
-      * Node.js---Express Gateway、MicroGateway。 
     * API网关有四大职能
       * 请求接入---作为所有API接口服务请求的接入点，管理所有的接入请求
       * 业务聚合---作为所有后端业务服务的聚合点，所有的业务服务都可以在这里被调用
@@ -67,11 +61,18 @@
     * 集成Hystrix的断路器功能 
   * [API网关异步化改造技术选型](https://github.com/aCoder2013/blog/issues/34)
   * 服务网关的分类
-    * [Zuul](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/API%20%E6%9C%8D%E5%8A%A1%E7%BD%91%E5%85%B3/Zuul/README.md)
+    * [常见的开源网关分类](https://weread.qq.com/web/reader/d9e327a07188b377d9eb7dak34132fc02293416a75f431d) 
+      * [Nginx+Lua](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/API%20%E6%9C%8D%E5%8A%A1%E7%BD%91%E5%85%B3/Nginx%20%2B%20Lua/README.md)---Open Resty、[Kong](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/API%20%E6%9C%8D%E5%8A%A1%E7%BD%91%E5%85%B3/Kong/README.md)、Orange、Abtesting Gateway等
+      * Java---[Zuul/Zuul 2](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/API%20%E6%9C%8D%E5%8A%A1%E7%BD%91%E5%85%B3/Zuul/README.md)、[Spring Cloud Gateway](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/API%20%E6%9C%8D%E5%8A%A1%E7%BD%91%E5%85%B3/Spring%20Cloud%20Gateway/README.md)、Kaazing KWG、gravitee、Dromara soul等
+      * Go---Janus、fagongzi、Grpc-Gateway
+      * .NET---Ocelot
+      * Node.js---Express Gateway、MicroGateway。 
+ 
+
     * [Consul](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/API%20%E6%9C%8D%E5%8A%A1%E7%BD%91%E5%85%B3/Consul/README.md)
-    * [Nginx + Lua](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/API%20%E6%9C%8D%E5%8A%A1%E7%BD%91%E5%85%B3/Nginx%20%2B%20Lua/README.md)
-    * [Kong](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/API%20%E6%9C%8D%E5%8A%A1%E7%BD%91%E5%85%B3/Kong/README.md)
-    * [非阻塞式的Spring Cloud Gateway](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/API%20%E6%9C%8D%E5%8A%A1%E7%BD%91%E5%85%B3/Spring%20Cloud%20Gateway/README.md)
+
+
+
   * Route路由信息
   * 断言工厂
   * 
