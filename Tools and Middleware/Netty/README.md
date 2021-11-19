@@ -1,9 +1,25 @@
-**Netty之所以受青睐，是因为它提供了异步的、事件驱动的网络应用程序框架和工具。作为一个异步框架，Netty的所有IO操作都是异步非阻塞的，通过Future-Listener机制，用户可以方便地主动获取或者通过通知机制获得IO操作结果。与JDK原生NIO相比，Netty提供了十分简单易用的API，因而非常适合网络编程。Netty主要是基于NIO来实现的，在Netty中也可以提供阻塞IO的服务**
+**Netty之所以受青睐，是因为它提供了异步的、事件驱动的网络应用程序框架和工具。作为一个异步框架，Netty的所有IO操作都是异步非阻塞的，通过Future-Listener机制，用户可以方便地主动获取或者通过通知机制获得IO操作结果。与JDK原生NIO相比，Netty提供了十分简单易用的API，因而非常适合网络编程。Netty主要是基于NIO来实现的，在Netty中也可以提供阻塞IO的服务，Netty是互联网中间件领域使用最广泛、最核心的网络通信框架，几乎所有Java互联网中间件或者大数据中间件的高性能通信与传输均离不开Netty。所以，掌握Netty是一名初、中级工程师迈向高级工程师的重要技能之一**
 
 
 
 
 # [Netty面试](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Netty/interview/README.md)
+
+# 在线书籍
+* [(疯狂创客圈) Netty Zookeeper Redis 高并发实战](https://weread.qq.com/web/reader/1e732510718f63a11e7dee2)
+  * [《Netty  Redis  Zookeeper 高并发实战》随书源码、说明](https://www.cnblogs.com/crazymakercircle/p/9904544.html)
+* [(疯狂创客圈) Java高并发核心编程 (卷1)](https://weread.qq.com/web/reader/e6d323b0723b6029e6d1c55) 
+  * [Java高并发核心编程 (卷1)》随书源码、说明](https://www.cnblogs.com/crazymakercircle/p/9904544.html) 
+* [(疯狂创客圈) Java高并发核心编程 (卷2)](https://weread.qq.com/web/reader/9b93254072456ac19b9a176)
+  * [Java高并发核心编程 (卷2)》随书源码、说明](https://www.cnblogs.com/crazymakercircle/p/9904544.html) 
+* [Netty源码剖析与应用](https://weread.qq.com/web/reader/8da329b0721639f98daa24c)
+* [Netty4 核心原理与手写RPC框架实战](https://weread.qq.com/web/reader/f3832ad071d38030f380ced)
+* [Netty进阶之路：跟着案例学Netty](https://weread.qq.com/web/reader/fef3252071848772fefbb26kc81322c012c81e728d9d180)
+* [Netty实战](https://weread.qq.com/web/reader/f4432c60811e39130g01540f)
+* [Netty权威指南---异步非阻塞通信邻域的经典之作](https://weread.qq.com/web/reader/30032780811e1bb2fg019e77)
+
+
+
 
 [精尽 Netty 学习指南](http://svip.iocoder.cn/Netty/tutorials/)|[跟着案例学Netty](https://github.com/fuzhengwei/itstack-demo-netty)|
 ---|---|
