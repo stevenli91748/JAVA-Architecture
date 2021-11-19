@@ -11,7 +11,8 @@
 * [Java高并发编程详解：深入理解并发核心库](https://weread.qq.com/web/reader/30b3225071eeefb430bb397)
 * [Java高并发编程详解-多线程与架构设计](https://weread.qq.com/web/reader/40632d70811e39a3ag018fbe)
 * [java异步编程](https://weread.qq.com/web/reader/44332cc071a486a7443c539)
-
+* [实战JAVA高并发程序设计（第2版）](https://weread.qq.com/web/reader/2b0326d0718487522b0092e)
+* [JAVA并发原理： JDK源码剖析](https://weread.qq.com/web/reader/6de3271071dbddc06de1a75)
 ---
 
 [Java 全栈知识体系---Java并发知识体系详解](https://www.pdai.tech/md/java/thread/java-thread-x-overview.html)|
