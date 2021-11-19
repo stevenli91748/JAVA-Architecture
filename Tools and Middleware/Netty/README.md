@@ -1,3 +1,7 @@
+**Netty之所以受青睐，是因为它提供了异步的、事件驱动的网络应用程序框架和工具。作为一个异步框架，Netty的所有IO操作都是异步非阻塞的，通过Future-Listener机制，用户可以方便地主动获取或者通过通知机制获得IO操作结果。与JDK原生NIO相比，Netty提供了十分简单易用的API，因而非常适合网络编程。Netty主要是基于NIO来实现的，在Netty中也可以提供阻塞IO的服务**
+
+
+
 
 # [Netty面试](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Netty/interview/README.md)
 
