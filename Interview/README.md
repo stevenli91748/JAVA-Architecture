@@ -35,6 +35,7 @@
 * [java高级程序员面试笔试宝典 2020](https://weread.qq.com/web/reader/69232c7071ef58fb6924615)
 * [Offer来了： JAVA面试核心知识(原理篇) 2020](https://weread.qq.com/web/reader/d0c3212071a74c21d0c04fd)
 * [Offer来了： JAVA面试核心知识(框架篇) 2020](https://weread.qq.com/web/reader/0473295071df008204747ae)
+* [程序员代码面试指南： IT名企算法与数据结构题目最优解（第2版）](https://weread.qq.com/web/reader/1be32b907184877a1be90a2)
 
 
 
