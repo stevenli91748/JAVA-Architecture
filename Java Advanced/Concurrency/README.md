@@ -3,7 +3,7 @@
 # [并发知识点](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/Concurrency/并发面试.md)
 
 # 在线书籍
-
+* [java JUC 包](https://weread.qq.com/web/reader/810321a0721639f38103031)
 * [java高并发核心编程 (卷1) : NIO, Netty, Redis, ZooKeeper------本书实际上是《Netty、Redis、ZooKeeper高并发实战》一书的升级版](https://weread.qq.com/web/reader/e6d323b0723b6029e6d1c55)
 * [java高并发核心编程 (卷2): 多线程，锁，JMM,JUC,高并发设计模式](https://weread.qq.com/web/reader/9b93254072456ac19b9a176)
 * [Netty、Redis、Zookeeper高并发实战------讲Netty 最好的书 是学分布式和并发的必备图书](https://weread.qq.com/web/reader/1e732510718f63a11e7dee2)
