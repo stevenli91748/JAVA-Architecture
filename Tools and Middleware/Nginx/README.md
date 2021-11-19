@@ -44,6 +44,7 @@ nginx出口-->http服务
 
 * [Spring Cloud、Nginx高并发核心编程---原理级”“思想级”经典图书 2020](https://weread.qq.com/web/reader/a2032080720a3143a204cce)
 * [Nginx Lua开发实战](https://weread.qq.com/web/reader/339327805e25de339dac829)
+* [Lua程序设计（第4版）](https://weread.qq.com/web/reader/f9b3208071dbdd91f9b1ac6)
 * [直播系统开发： 基于Nginx与Nginx-rtmp-module](https://weread.qq.com/web/reader/d593282071848748d59ba0d)
 * [精通Nginx(第2版)](https://weread.qq.com/web/reader/8d5325f0715a41db8d5c0d6)
 * [Nginx应用与运维实战](https://weread.qq.com/web/reader/e4a321a071f80995e4ada08kc81322c012c81e728d9d180)
