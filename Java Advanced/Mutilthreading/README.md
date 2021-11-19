@@ -14,6 +14,8 @@
 * [java高并发核心编程 (卷2): 多线程，锁，JMM,JUC,高并发设计模式](https://weread.qq.com/web/reader/9b93254072456ac19b9a176)
 * [Netty、Redis、Zookeeper高并发实战------讲Netty 最好的书 是学分布式和并发的必备图书](https://weread.qq.com/web/reader/1e732510718f63a11e7dee2)
 * [Spring Cloud、Nginx高并发核心编程---原理级”“思想级”经典图书 2020](https://weread.qq.com/web/reader/a2032080720a3143a204cce)
+* [Java高并发编程详解：深入理解并发核心库](https://weread.qq.com/web/reader/30b3225071eeefb430bb397)
+* [Java高并发编程详解-多线程与架构设计](https://weread.qq.com/web/reader/40632d70811e39a3ag018fbe)
 
 ---
 
