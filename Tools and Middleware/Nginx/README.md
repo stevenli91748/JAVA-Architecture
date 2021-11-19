@@ -43,8 +43,17 @@ nginx出口-->http服务
 # 在线书籍
 
 * [Spring Cloud、Nginx高并发核心编程---原理级”“思想级”经典图书 2020](https://weread.qq.com/web/reader/a2032080720a3143a204cce)
+* [Nginx Lua开发实战](https://weread.qq.com/web/reader/339327805e25de339dac829)
+* [直播系统开发： 基于Nginx与Nginx-rtmp-module](https://weread.qq.com/web/reader/d593282071848748d59ba0d)
+* [精通Nginx(第2版)](https://weread.qq.com/web/reader/8d5325f0715a41db8d5c0d6)
+* [Nginx应用与运维实战](https://weread.qq.com/web/reader/e4a321a071f80995e4ada08kc81322c012c81e728d9d180)
+* [深入剖析Nginx](https://weread.qq.com/web/reader/45b324505b26ad45b7e1b9d)
+* [深入理解Nginx:模块开发与架构分析（第2版）](https://weread.qq.com/web/reader/f44328e05c62e1f449a3d34)
+* [Nginx实战： 基于Lua语言的配置，开发与架构详解](https://weread.qq.com/web/reader/a0a322707184550ba0adc41)
+* [Nginx底层设计与源码分析  2021](https://weread.qq.com/web/reader/e8b32f60724fa3b6e8bd6f5)
+* [Nginx高性能Web服务器详解](https://weread.qq.com/web/reader/e8d3200059fb19e8d3b2af6)
 
-
+---
 
 [精尽 Nginx 学习指南](http://svip.iocoder.cn/Nginx/tutorials/)|[当初我要是这么学习Nginx就好了](https://www.jianshu.com/p/e90050dc89b6)|[Nginx和HAProxy对比，各有什么优点与不足？](https://www.zhihu.com/question/34489042)|
 ---|---|---|
