@@ -13,6 +13,8 @@
 * [java异步编程](https://weread.qq.com/web/reader/44332cc071a486a7443c539)
 * [实战JAVA高并发程序设计（第2版）](https://weread.qq.com/web/reader/2b0326d0718487522b0092e)
 * [JAVA并发原理： JDK源码剖析](https://weread.qq.com/web/reader/6de3271071dbddc06de1a75)
+* [java并发编程之美](https://weread.qq.com/web/reader/81c32b507184869281c2a23)
+
 ---
 
 [Java 全栈知识体系---Java并发知识体系详解](https://www.pdai.tech/md/java/thread/java-thread-x-overview.html)|
