@@ -9,6 +9,11 @@
 # [StackShare---可以查找到软件的流行率](https://stackshare.io/categories)
 
 
+# 在线书籍
+
+* [高性能JAVA架构： 核心原理与案例实战](https://weread.qq.com/web/reader/6ba32c40726e7c066bad7ed)
+
+---
 
 # 后端学习路线
 
