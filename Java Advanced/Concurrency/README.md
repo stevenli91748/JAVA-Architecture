@@ -10,6 +10,7 @@
 * [Spring Cloud、Nginx高并发核心编程---原理级”“思想级”经典图书 2020](https://weread.qq.com/web/reader/a2032080720a3143a204cce)
 * [Java高并发编程详解：深入理解并发核心库](https://weread.qq.com/web/reader/30b3225071eeefb430bb397)
 * [Java高并发编程详解-多线程与架构设计](https://weread.qq.com/web/reader/40632d70811e39a3ag018fbe)
+* [java异步编程](https://weread.qq.com/web/reader/44332cc071a486a7443c539)
 
 ---
 
