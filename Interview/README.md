@@ -31,7 +31,7 @@
 
 
 # 在线书籍
-
+* [剑指Offer(专项突破版) 数据结构与算法名企面试题精解](https://weread.qq.com/web/reader/4e132bc07263ff664e11075)
 * [java高级程序员面试笔试宝典 2020](https://weread.qq.com/web/reader/69232c7071ef58fb6924615)
 * [Offer来了： JAVA面试核心知识(原理篇)](https://weread.qq.com/web/reader/d0c3212071a74c21d0c04fd)
 * [Offer来了： JAVA面试核心知识(框架篇)](https://weread.qq.com/web/reader/0473295071df008204747ae)
