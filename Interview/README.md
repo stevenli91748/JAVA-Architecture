@@ -30,6 +30,11 @@
 * [可能是一份最适合你的后端面试指南（部分内容前端同样适用）](https://juejin.im/post/5ba591386fb9a05cd31eb85f#heading-6)
 
 
+# 在线书籍
+
+* [java高级程序员面试笔试宝典 2020](https://weread.qq.com/web/reader/69232c7071ef58fb6924615)
+
+
 # 博客
 
 ### [简历模板](https://bugstack.cn/itstack-code-life/2021/02/24/%E5%8D%8A%E5%B9%B4%E7%AD%9B%E9%80%89%E4%BA%86400+%E4%BB%BD%E7%AE%80%E5%8E%86-%E5%91%8A%E8%AF%89%E4%BD%A0%E6%80%8E%E4%B9%88%E5%86%99%E4%BC%9A%E8%A2%AB%E6%92%A9.html)
