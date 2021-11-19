@@ -96,6 +96,12 @@
   * [Lambda架构](#Lambda架构)
 * 并发基础知识
   * [高并发理论---阿姆达尔定律和局部性原理 ](https://weread.qq.com/web/reader/d9e327a07188b377d9eb7dak636320102206364d3f0ffdc)
+  * 高并发时代的必备技能
+    * [Netty](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Netty/README.md)
+    * Redis
+    * ZooKeeper
+    * 高性能HTTP服务器组件（如Nginx）
+    * 高并发Java组件（JUC包 ）
   * 常见的高并发策略
     * [异步——提高业务过程中可异步部分的占比，提高异步部分的执行效率](https://weread.qq.com/web/reader/d9e327a07188b377d9eb7dak636320102206364d3f0ffdc)
       * **在JVM内部，使用代码级别的异步策略：异步线程池或异步回调机制**
