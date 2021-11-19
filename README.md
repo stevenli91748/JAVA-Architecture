@@ -12,7 +12,7 @@
 # 在线书籍
 
 * [高性能JAVA架构： 核心原理与案例实战](https://weread.qq.com/web/reader/6ba32c40726e7c066bad7ed)
-
+* [java 高频源码解析](https://weread.qq.com/web/reader/df532740723982c7df583bf)
 ---
 
 # 后端学习路线
