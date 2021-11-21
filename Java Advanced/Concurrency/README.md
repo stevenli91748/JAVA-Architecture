@@ -71,6 +71,9 @@
 [guava---Google Java标准库的十全大补](https://github.com/google/guava)|[Guava RateLimiter 实现 API 限流，这才是正确的姿势](https://mp.weixin.qq.com/s/uyYqni2Li6DpaAYB0vniow)|
 ---|---|
 
+# GPU并行开发
+
+* [GPU 选购指南：训练 ML 模型，我必须买 RTX3080 吗？](https://www.infoq.cn/article/yujetuzzjhlnvjwrfo5s)
 
 
 # 疯狂创客圈
