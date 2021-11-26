@@ -517,8 +517,7 @@ Github:https://github.com/hxrui/mall-admin-web
 * 微服务的部署与发布容器化
   * 持续交付与持续部署微服务
   * 基于容器的部署与发布
-    * 使用Docker来构建 运行 发布微服务
-      * [Spring Cloud组件容器化 ](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Docker%E6%9C%8D%E5%8A%A1%E5%8C%96/README.md) 
+    * [使用Docker来构建 运行 发布微服务](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Docker%E6%9C%8D%E5%8A%A1%E5%8C%96/README.md)
     * [使用Kubernetes来构建 运行 发布微服务](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/SpringCloud%E9%83%A8%E7%BD%B2/README.md)
 
 
