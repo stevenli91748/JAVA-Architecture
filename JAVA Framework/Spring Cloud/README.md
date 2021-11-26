@@ -299,7 +299,7 @@
 # SpringCloud 应用在 Kubernetes 上的最佳实践
 
 * [SpringCloud 应用在 Kubernetes 上的最佳实践 —— 开发篇](https://mp.weixin.qq.com/s?__biz=MzUzNzYxNjAzMg==&mid=2247491668&idx=1&sn=c9839f78ff31d6f5da285a259d804f53&chksm=fae6eb9bcd91628d28b0db9b53a091132df7535d320aee9c85fea241dc4e964e746b83a69dc8&scene=21#wechat_redirect)
-* [SpringCloud 应用在 Kubernetes 上的最佳实践 — 部署篇（开发部署）](https://mp.weixin.qq.com/s?__biz=MzUzNzYxNjAzMg==&mid=2247491668&idx=1&sn=c9839f78ff31d6f5da285a259d804f53&chksm=fae6eb9bcd91628d28b0db9b53a091132df7535d320aee9c85fea241dc4e964e746b83a69dc8&scene=21#wechat_redirect)
+* [SpringCloud 应用在 Kubernetes 上的最佳实践 — 部署篇（开发部署）](https://www.kubernetes.org.cn/8049.html)
 * [SpringCloud 应用在 Kubernetes 上的最佳实践 — 部署篇(工具部署)](https://www.kubernetes.org.cn/8078.html)
 * [SpringCloud 应用在 Kubernetes 上的最佳实践 —— 高可用（弹性伸缩）](https://www.kubernetes.org.cn/8503.html)
 * [SpringCloud 应用在 Kubernetes 上的最佳实践 — 线上发布（可灰度）](https://mp.weixin.qq.com/s?__biz=MzUzNzYxNjAzMg==&mid=2247492479&idx=1&sn=ac1463d4cd7b4323590766643d92dcb0&chksm=fae6e8b0cd9161a6d02057ca28971101aec9bc8ee823f0f4d12fc9b691bc8e122e542725f7ac&scene=21#wechat_redirect)
