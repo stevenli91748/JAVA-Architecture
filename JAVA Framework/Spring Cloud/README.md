@@ -267,7 +267,7 @@
     * [mall-tiny：基于SpringBoot+MyBatis的单应用项目骨架](https://mp.weixin.qq.com/s?__biz=MzU1Nzg4NjgyMw==&mid=2247483919&idx=1&sn=d8410231704226752b7bdac45901cc95&scene=21#wechat_redirect)
     * [【实战项目】mall(SpringBoot学习教程文档)](http://www.macrozheng.com/#/README)
     * [【实战项目】mall(SpringCloud学习教程文档)](https://github.com/macrozheng/springcloud-learning)
-
+    * [如何写出优雅的开源项目文档](https://mp.weixin.qq.com/s?__biz=MzU1Nzg4NjgyMw==&mid=2247483879&idx=1&sn=d392556cb6399d62f0152340fc970fb7&scene=21#wechat_redirect)
  * [Lion 项目简介---基于SpringCloud体系实现的一套支持云原生的分布式微服务架构，提供OAuth2/JWT权限认证、分布式事务、灰度、限流、链路追踪等功能，支持Docker容器化部署、镜像交付、K8S容器编排               ](https://www.jianshu.com/p/a061effe4ae5)
   
   
