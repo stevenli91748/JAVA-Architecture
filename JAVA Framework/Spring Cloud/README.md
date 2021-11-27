@@ -261,6 +261,7 @@
     * Demo system  id: admin  psw: macro123
     * [mall的作者 macrozheng的 Github](https://github.com/macrozheng/)
     * [【专属学习路线】Mall电商实战项目专属学习路线，主流技术一网打尽！](https://mp.weixin.qq.com/s/izwkCoq-oeb_-XiTldLhOg)
+    * [【专属学习路线】mall数据库表结构概览](https://mp.weixin.qq.com/s?__biz=MzU1Nzg4NjgyMw==&mid=2247483835&idx=1&sn=895ae94d5a0bc5fbe5bed8aa715d92af&scene=21#wechat_redirect)
     * [【实战项目】mall（SpringBoot版本）---mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署 非常不错 这个项目还提供了详细的文档](https://github.com/macrozheng/mall)
     * [【实战项目】mall-swarm (SpringCloud版本）---是一套微服务商城系统，采用了 Spring Cloud Hoxton & Alibaba、Spring Boot 2.3、Oauth2、MyBatis、Docker、Elasticsearch、Kubernetes等核心技术](https://www.jianshu.com/p/48a6e0e6cc01)
     * [【实战项目】mall(SpringBoot学习教程文档)](http://www.macrozheng.com/#/README)
