@@ -257,17 +257,17 @@
   * [4. open-capacity-platform---综合平台类项目,一个学习Spring Cloud微服务技术栈的不错范例，其同样也包含了微服务架构里面的各种应用组件](https://gitee.com/owenwangwen/open-capacity-platform "open-capacity-platform也是一个学习Spring Cloud微服务技术栈的不错范例，其同样也包含了微服务架构里面的各种应用组件")
   * [5. Piggy Metrics---项目所用技术栈：Spring Boot、Spring Cloud、Docker等](https://github.com/sqshq/piggymetrics "Piggy Metrics是一个基于Spring Boot, Spring Cloud和Docker等技术实现的微服务脚手架，项目包含了：API网关、服务发现、负载均衡、熔断机制、配置中心、监控服务、认证服务等几大微服务项目基本模块，对学习和练手微服务项目是不错的选择")
 ### 6 mall---mall项目是一套电商系统，包括前台商城系统及后台管理系统，现有SpringBoot版本 和 Spring Cloud版本， 基于SpringBoot+MyBatis实现，采用Docker容器化部署。前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块"
-    * 以mall项目为基础，其中权限系统可结合mybird的[“Spring Cloud 微服务权限系统搭建教程（看云）”](https://www.kancloud.cn/mrbird/spring-cloud) , 再结合周志明的[“凤凰架构---构建可靠的大型分布式系统 ”](https://github.com/stevenli91748/System-Design/blob/master/%E5%87%A4%E5%87%B0%E6%9E%B6%E6%9E%84---%E6%9E%84%E5%BB%BA%E5%8F%AF%E9%9D%A0%E7%9A%84%E5%A4%A7%E5%9E%8B%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%20%E5%91%A8%E5%BF%97%E6%98%8E.md)从SpringCloud技术栈升级到Kubernetes 为基础设施的微服务架构，然后再升级到以 Istio 为基础设施的服务网格架构，最终发展为以AWS Lambda 为基础的无服务架构 
-    * Demo system  id: admin  psw: macro123
-    * [mall的作者 macrozheng的 Github](https://github.com/macrozheng/)
-    * [【专属学习路线】Mall电商实战项目专属学习路线，主流技术一网打尽！](https://mp.weixin.qq.com/s/izwkCoq-oeb_-XiTldLhOg)
-    * [【专属学习路线】mall数据库表结构概览](https://mp.weixin.qq.com/s?__biz=MzU1Nzg4NjgyMw==&mid=2247483835&idx=1&sn=895ae94d5a0bc5fbe5bed8aa715d92af&scene=21#wechat_redirect)
-    * [【实战项目】mall（SpringBoot版本）---mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署 非常不错 这个项目还提供了详细的文档](https://github.com/macrozheng/mall)
-    * [【实战项目】mall-swarm (SpringCloud版本）---是一套微服务商城系统，采用了 Spring Cloud Hoxton & Alibaba、Spring Boot 2.3、Oauth2、MyBatis、Docker、Elasticsearch、Kubernetes等核心技术](https://www.jianshu.com/p/48a6e0e6cc01)
-    * [mall-tiny：基于SpringBoot+MyBatis的单应用项目骨架](https://mp.weixin.qq.com/s?__biz=MzU1Nzg4NjgyMw==&mid=2247483919&idx=1&sn=d8410231704226752b7bdac45901cc95&scene=21#wechat_redirect)
-    * [【实战项目】mall(SpringBoot学习教程文档)](http://www.macrozheng.com/#/README)
-    * [【实战项目】mall(SpringCloud学习教程文档)](https://github.com/macrozheng/springcloud-learning)
-    * [如何写出优雅的开源项目文档](https://mp.weixin.qq.com/s?__biz=MzU1Nzg4NjgyMw==&mid=2247483879&idx=1&sn=d392556cb6399d62f0152340fc970fb7&scene=21#wechat_redirect)
+  * 以mall项目为基础，其中权限系统可结合mybird的[“Spring Cloud 微服务权限系统搭建教程（看云）”](https://www.kancloud.cn/mrbird/spring-cloud) , 再结合周志明的[“凤凰架构---构建可靠的大型分布式系统 ”](https://github.com/stevenli91748/System-Design/blob/master/%E5%87%A4%E5%87%B0%E6%9E%B6%E6%9E%84---%E6%9E%84%E5%BB%BA%E5%8F%AF%E9%9D%A0%E7%9A%84%E5%A4%A7%E5%9E%8B%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%20%E5%91%A8%E5%BF%97%E6%98%8E.md)从SpringCloud技术栈升级到Kubernetes 为基础设施的微服务架构，然后再升级到以 Istio 为基础设施的服务网格架构，最终发展为以AWS Lambda 为基础的无服务架构 
+  * Demo system  id: admin  psw: macro123
+  * [mall的作者 macrozheng的 Github](https://github.com/macrozheng/)
+  * [【专属学习路线】Mall电商实战项目专属学习路线，主流技术一网打尽！](https://mp.weixin.qq.com/s/izwkCoq-oeb_-XiTldLhOg)
+  * [【专属学习路线】mall数据库表结构概览](https://mp.weixin.qq.com/s?__biz=MzU1Nzg4NjgyMw==&mid=2247483835&idx=1&sn=895ae94d5a0bc5fbe5bed8aa715d92af&scene=21#wechat_redirect)
+  * [【实战项目】mall（SpringBoot版本）---mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署 非常不错 这个项目还提供了详细的文档](https://github.com/macrozheng/mall)
+  * [【实战项目】mall-swarm (SpringCloud版本）---是一套微服务商城系统，采用了 Spring Cloud Hoxton & Alibaba、Spring Boot 2.3、Oauth2、MyBatis、Docker、Elasticsearch、Kubernetes等核心技术](https://www.jianshu.com/p/48a6e0e6cc01)
+  * [mall-tiny：基于SpringBoot+MyBatis的单应用项目骨架](https://mp.weixin.qq.com/s?__biz=MzU1Nzg4NjgyMw==&mid=2247483919&idx=1&sn=d8410231704226752b7bdac45901cc95&scene=21#wechat_redirect)
+  * [【实战项目】mall(SpringBoot学习教程文档)](http://www.macrozheng.com/#/README)
+  * [【实战项目】mall(SpringCloud学习教程文档)](https://github.com/macrozheng/springcloud-learning)
+  * [如何写出优雅的开源项目文档](https://mp.weixin.qq.com/s?__biz=MzU1Nzg4NjgyMw==&mid=2247483879&idx=1&sn=d392556cb6399d62f0152340fc970fb7&scene=21#wechat_redirect)
   
 ## 7 有来商城 Spring Cloud Gateway + Spring Security OAuth2 + JWT实现微服务统一认证授权鉴权
 
