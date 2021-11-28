@@ -270,7 +270,7 @@
     * [如何写出优雅的开源项目文档](https://mp.weixin.qq.com/s?__biz=MzU1Nzg4NjgyMw==&mid=2247483879&idx=1&sn=d392556cb6399d62f0152340fc970fb7&scene=21#wechat_redirect)
  * [Lion 项目简介---基于SpringCloud体系实现的一套支持云原生的分布式微服务架构，提供OAuth2/JWT权限认证、分布式事务、灰度、限流、链路追踪等功能，支持Docker容器化部署、镜像交付、K8S容器编排               ](https://www.jianshu.com/p/a061effe4ae5)
   
-  
+  * [有来商城](https://gitee.com/haoxr)
   * [7. SnowJena---帮助我们学习和实践限流这一常见的技术方案和实现原理，二是帮助我们学习和理解常见的设计模式](https://github.com/ystcode/SnowJena "SnowJena是一个基于令牌桶算法实现的分布式无锁限流框架，支持熔断降级，支持动态配置规则，支持可视化监控，开箱即用。可用于Java后端项目常见的本地限流和分布式限流的场景")
   * [8. seata---分布式事务问题几乎是当下后端开发和架构领域最棘手和最有含金量的问题之一，多学点总是好的](https://github.com/seata/seata "Seata 是一款阿里巴巴开源的分布式事务解决方案，致力于在微服务架构下提供高性能和简单易用的分布式事务服务")
   * [9. Java---基于Java语言的数据结构和算法题练手必备](https://github.com/TheAlgorithms/Java "这是一个基于Java的数据结构与算法的实现项目。里面包含了几乎常用所有数据结构的实现，以及诸多算法题和LeetCode习题的Java实现")
