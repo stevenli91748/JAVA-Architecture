@@ -696,7 +696,7 @@ SQL语言|[MySQL](https://github.com/stevenli91748/Database/blob/master/MySQL/RE
 # [廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/1207298049439968)
 # [精益技术简历之道——改善技术简历的47条原则](https://www.kancloud.cn/digest/lean-technical-resume/62711)
 # [互联网应用开发平台综合技术入门指南](https://www.kancloud.cn/fang2099/rayplatform/2109037)|
-
+# [欢迎来到 freeCodeCamp.org---帮助人们免费学习编程。我们通过创建成千上万的视频、文章和交互式编程课程——所有内容向公众免费开放](https://chinese.freecodecamp.org/learn/)
 
 # 有用的参考
 
