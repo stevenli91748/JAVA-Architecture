@@ -56,6 +56,9 @@ nginx出口-->http服务
 
 ---
 
+[nginx进阶实战](https://www.kancloud.cn/martist/mart)|
+---|
+
 [精尽 Nginx 学习指南](http://svip.iocoder.cn/Nginx/tutorials/)|[当初我要是这么学习Nginx就好了](https://www.jianshu.com/p/e90050dc89b6)|[Nginx和HAProxy对比，各有什么优点与不足？](https://www.zhihu.com/question/34489042)|
 ---|---|---|
 
