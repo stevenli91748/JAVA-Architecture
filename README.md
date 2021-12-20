@@ -7,6 +7,7 @@
 # [Github上面有个Java Topic 项目排行榜](https://github.com/topics/java)
 # [GVP ( Gitee Most Valuable Project ) ---Gitee 综合评定出的优秀开源项目的展示平台](https://gitee.com/gvp)
 # [StackShare---可以查找到软件的流行率](https://stackshare.io/categories)
+# [程序员英语单词册](https://www.kancloud.cn/haixu926611/study-english/112096)
 
 
 # 在线书籍
