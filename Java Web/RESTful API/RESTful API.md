@@ -81,7 +81,7 @@
 
 
 * **第一部分 RestFulAPI 篇**
-
+* [HTTP 接口设计指北](https://www.kancloud.cn/kancloud/http-api-guide)
 * [ RESTfull API简单项目的快速搭建](https://www.bilibili.com/video/av13224378?from=search&seid=10786600269014143134)
 * [REST API 安全设计指南](https://www.kancloud.cn/kancloud/rest-api-design-safety)
 * [【项目实践】SpringBoot三招组合拳，手把手教你打出优雅的后端接口](https://zhuanlan.zhihu.com/p/134209666?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
