@@ -360,8 +360,9 @@ VisualVM分析工具|[Jenkins](https://github.com/stevenli91748/JAVA-Architectur
 [okhttp---高效率的HTTP客户端,可用在移动客户端和服务器](https://github.com/square/okhttp)|[flink---流处理框架](https://github.com/stevenli91748/flink-learning)|[presto---Facebook开源分布式的大数据查询引擎](https://github.com/prestodb/presto)|
 ---|---|---|
 
-[guava---Google Java标准库的十全大补](https://github.com/google/guava)|[Guava RateLimiter 实现 API 限流，这才是正确的姿势](https://mp.weixin.qq.com/s/uyYqni2Li6DpaAYB0vniow)|
----|---|
+[guava---Google Java标准库的十全大补](https://github.com/google/guava)|[Guava RateLimiter 实现 API 限流，这才是正确的姿势](https://mp.weixin.qq.com/s/uyYqni2Li6DpaAYB0vniow)|[
+Guava学习入门](https://www.kancloud.cn/digest/guava)|
+---|---|---|
 
 [Guava学习笔记](https://www.cnblogs.com/Courage129/p/14413974.html)|
 ---|
