@@ -347,8 +347,8 @@ VisualVM分析工具|[Jenkins](https://github.com/stevenli91748/JAVA-Architectur
 [Hutool---Hutool是项目中“util”包友好的替代,是一个小而全的Java工具类库](https://github.com/dromara/hutool)|[JWT](https://www.ruanyifeng.com/blog/2018/07/json_web_token-tutorial.html)|[持续集成服务 Travis CI 教程](https://www.ruanyifeng.com/blog/2017/12/travis_ci_tutorial.html)|
 ---|---|---|
 
-[OAuth --- 令牌（token）授权机制](https://github.com/stevenli91748/JAVA-Architecture/blob/master/oauth2/README.md)|[Etcd](https://github.com/stevenli91748/Distributed-System/blob/master/type%20of%20system/Distributed%20coordination/etcd/README.md)|[ZooKeeper](https://github.com/stevenli91748/Distributed-System/blob/master/type%20of%20system/Distributed%20coordination/Zookeeper.md)|
----|---|---|
+[OAuth --- 令牌（token）授权机制](https://github.com/stevenli91748/JAVA-Architecture/blob/master/oauth2/README.md)|[Etcd](https://github.com/stevenli91748/Distributed-System/blob/master/type%20of%20system/Distributed%20coordination/etcd/README.md)|[ZooKeeper](https://github.com/stevenli91748/Distributed-System/blob/master/type%20of%20system/Distributed%20coordination/Zookeeper.md)|[Postman](https://github.com/stevenli91748/JAVA-Architecture/blob/master/postman/README.md)|
+---|---|---|---|
 
 
 [任务调度](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E4%BB%BB%E5%8A%A1%E8%B0%83%E5%BA%A6/README.md)|[压力测试工具](https://github.com/stevenli91748/JAVA-Architecture/tree/master/Tools%20and%20Middleware/%E5%8E%8B%E5%8A%9B%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7)|[Ansible](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Ansible/Ansible%20.md)|[LVS](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/LVS/README.md)|[Istio](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Istio/README.md)|[Prometheus](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Prometheus/README.md)|[微信开发 Java SDK ，支持包括微信支付，开放平台，小程序，企业微信，公众号等的后端开发](https://github.com/Wechat-Group/WxJava)|
