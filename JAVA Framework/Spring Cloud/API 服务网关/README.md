@@ -97,6 +97,7 @@ Github中的100个项目里，使用Go语言实现的Gateway差不多占一半�
 
 
 # 参考
+* [Spring Cloud Gateway 整合 Spring Security 统一鉴权](https://segmentfault.com/a/1190000039390248)
 * [SpringCloudAlibaba网关Gateway集成Sentinel](https://www.jianshu.com/p/f2f7019b4a3e)
 * [SpringCloudAlibaba集成Gateway动态路由Nacos服务](https://www.jianshu.com/p/36373e5be522)
 * [Gateway动态路由实现](https://www.jianshu.com/p/7dfc8b67149e)
