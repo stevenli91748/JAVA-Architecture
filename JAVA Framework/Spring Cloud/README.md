@@ -452,6 +452,7 @@
     * [亿级流量架构之分布式事务思路及方法](https://www.cnblogs.com/Courage129/p/14433462.html)
     * [亿级流量架构之分布式事务解决方案对比](https://www.cnblogs.com/Courage129/p/14443653.html) 
     * [微服务分布式事务之LCN、TCC特点、事务补偿机制缘由以及设计重点](https://www.cnblogs.com/Courage129/p/14528981.html)
+    * [分布式事务](https://www.kancloud.cn/zlt2000/microservices-platform/985365)
   * Spring Cloud分布式session
     * [SpingSecurity + SpringSession 死磕](https://www.cnblogs.com/crazymakercircle/p/12037584.html)
     * [SpringSession 独立使用](https://www.cnblogs.com/crazymakercircle/p/12038664.html)
