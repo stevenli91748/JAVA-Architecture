@@ -561,6 +561,7 @@
 
 # 有用的参考
   * 深入实践Spring Boot.pdf
+  * [你真的理解 Spring Boot 项目中的 parent 吗？](https://segmentfault.com/a/1190000018854658)
   * [初级 Spring Boot 研发职位的技能要求](https://weread.qq.com/web/reader/f6732e8071dbddd6f674178)
   * [Spring 全家桶中各组件的功能](https://weread.qq.com/web/reader/f6732e8071dbddd6f674178)
   * [Spring，Spring Boot和Spring MVC的区别](https://www.yiibai.com/spring-boot/spring-vs-spring-boot-vs-spring-mvc.html)
