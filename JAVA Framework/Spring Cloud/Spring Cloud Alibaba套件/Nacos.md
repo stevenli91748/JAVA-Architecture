@@ -15,7 +15,7 @@
 
 #  环境配置
 
-[ Nacos 服务注册中心环境配置](https://www.cnblogs.com/crazymakercircle/p/11992539.html)|[nacos_微服务注册中心nacos集群搭建指南](https://www.kancloud.cn/cehgnxuyuan_123/springcloud)|[Spring Cloud Alibaba Nacos注册中心](https://mrbird.cc/Spring-Cloud-Alibaba-Nacos%E6%B3%A8%E5%86%8C%E4%B8%AD%E5%BF%83.html)|
+[ Nacos 服务注册中心环境配置](https://www.cnblogs.com/crazymakercircle/p/11992539.html)|[nacos_微服务注册中心nacos集群搭建指南](https://www.kancloud.cn/cehgnxuyuan_123/springcloud)|[Spring Cloud Alibaba Nacos注册中心入门实例](https://mrbird.cc/Spring-Cloud-Alibaba-Nacos%E6%B3%A8%E5%86%8C%E4%B8%AD%E5%BF%83.html)|
 |---|---|---|
 
 # 目录
