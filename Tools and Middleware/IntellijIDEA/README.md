@@ -261,6 +261,7 @@
 # 快捷键的设置
 
 ## 快捷键的搜索
+* [IntelliJ IDEA添加注释常用的快捷键](https://www.cnblogs.com/xingkongzhizhu/p/12089865.html#:~:text=IDEA%E5%8F%AF%E4%BB%A5%E4%BD%BF%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE,%E7%A7%8D%E5%BF%AB%E6%8D%B7%E9%94%AE%E7%9A%84%E7%94%A8%E6%B3%95.&text=%E9%A6%96%E5%85%88%E4%BD%A0%E7%9A%84%E5%85%89%E6%A0%87%E8%A6%81,%E5%B0%86%E8%AF%A5%E8%A1%8C%E6%B3%A8%E9%87%8A%E6%8E%89%E3%80%82)
 
     2种快捷键的搜索方式
     
