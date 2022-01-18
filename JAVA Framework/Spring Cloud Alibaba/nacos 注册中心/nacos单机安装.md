@@ -27,7 +27,7 @@ db.password=123456
 
 ## 第三步：启动Nacos
 
-* [单机模式启动 NACOS](#3-.-1单机模式启动-NACOS)
+* [单机模式启动 NACOS](#单机模式启动-NACOS)
 * [集群模式启动 NACOS](#集群模式启动-NACOS)
 
 ### 3.1 单机模式启动 NACOS
