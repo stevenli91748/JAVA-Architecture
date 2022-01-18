@@ -30,7 +30,7 @@ db.password=123456
 * [单机模式启动 NACOS](#单机模式启动-NACOS)
 * [集群模式启动 NACOS](#集群模式启动-NACOS)
 
-### 3.1 单机模式启动 NACOS
+### 单机模式启动 NACOS
 
 数据层准备好后，我们就可以启动Nacos了
 
