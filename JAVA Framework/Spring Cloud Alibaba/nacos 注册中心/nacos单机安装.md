@@ -32,40 +32,40 @@ db.password=123456
 
 ### 单机模式启动 NACOS
 
-数据层准备好后，我们就可以启动Nacos了
+            数据层准备好后，我们就可以启动Nacos了
 
-在指定目录中的bin目录下为启动和关停脚本，conf下为nacos的配置文件，target目录下为nacos的fat jar。
+            在指定目录中的bin目录下为启动和关停脚本，conf下为nacos的配置文件，target目录下为nacos的fat jar。
 
-修改conf/application.properties配置文件，将应用端口改为8001 or 维持8848 原端口
+            修改conf/application.properties配置文件，将应用端口改为8001 or 维持8848 原端口
 
-server.port=8001
+            server.port=8001
 
-进入到 bin目录，
+            进入到 bin目录，
 
-Linux/Unix/Mac:
+            Linux/Unix/Mac:
 
-    启动命令(standalone代表着单机模式运行，非集群模式):
+                启动命令(standalone代表着单机模式运行，非集群模式):
 
-    sh startup.sh -m standalone
+                sh startup.sh -m standalone
 
-    如果您使用的是ubuntu系统，或者运行脚本报错提示[[符号找不到，可尝试如下运行：
+                如果您使用的是ubuntu系统，或者运行脚本报错提示[[符号找不到，可尝试如下运行：
 
-    bash startup.sh -m standalone
+                bash startup.sh -m standalone
 
-Windows:
+            Windows:
 
-    在DOS 下 以 单机模式启动 NACOS
-    启动命令(standalone代表着单机模式运行，非集群模式):
+                在DOS 下 以 单机模式启动 NACOS
+                启动命令(standalone代表着单机模式运行，非集群模式):
 
-    startup.cmd -m standalone
-    
-    
-当nacos启动成功后， 在浏览器 http://localhost:8001/nacos or http://localhost:8848/nacos    
+                startup.cmd -m standalone
 
-然后登录，
 
-ID：       nacos
-password:  nacos
+            当nacos启动成功后， 在浏览器 http://localhost:8001/nacos or http://localhost:8848/nacos    
+
+            然后登录，
+
+            ID：       nacos
+            password:  nacos
     
 ### 集群模式启动 NACOS
 
