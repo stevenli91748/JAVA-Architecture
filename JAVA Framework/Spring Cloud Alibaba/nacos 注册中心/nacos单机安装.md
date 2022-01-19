@@ -18,9 +18,13 @@
 ···
 
 spring.datasource.platform=mysql
+
 db.num=1
+
 db.url.0=jdbc:mysql://localhost:3306/nacos?characterEncoding=utf8&connectTimeout=1000&socketTimeout=3000&autoReconnect=true
+
 db.user=root
+
 db.password=123456
 
 ···
