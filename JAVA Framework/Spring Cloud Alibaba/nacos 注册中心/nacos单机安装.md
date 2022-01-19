@@ -5,6 +5,8 @@
 
 # 目录
 
+**Nacos的单节点，也就是我们最开始使用的standalone模式，配置的数据是默认存储到内嵌的数据库derby中**
+
 ## 第一步：下载安装
 
 通过https://github.com/alibaba/nacos/releases链接可以下载Nacos的最新发行版，解压到指定目录
