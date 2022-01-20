@@ -15,41 +15,13 @@
 
 通过https://github.com/alibaba/nacos/releases链接可以下载Nacos的最新发行版，解压到指定目录
 
-## 第二步：配置数据层
-
-解压后，打开conf目录下的配置文件，在末尾添加数据源配置：
-
-···
-
-spring.datasource.platform=mysql
-
-db.num=1
-
-db.url.0=jdbc:mysql://localhost:3306/nacos?characterEncoding=utf8&connectTimeout=1000&socketTimeout=3000&autoReconnect=true
-
-db.user=root
-
-db.password=123456
-
-···
-
-然后在MySQL数据库中新建nacos数据库，并导入Nacos解压包conf目录下的nacos-mysql.sql脚本，[通过Navicate for MySQL导入SQL文件](https://help.aliyun.com/document_detail/36315.html)
-
-## 第三步：启动Nacos
+## 第二步：启动Nacos
 
 
 ### 单机模式启动 NACOS
 
-            数据层准备好后，我们就可以启动Nacos了
-
-            在指定目录中的bin目录下为启动和关停脚本，conf下为nacos的配置文件，target目录下为nacos的fat jar。
-
-            修改conf/application.properties配置文件，将应用端口改为8001 or 维持8848 原端口
-
-            server.port=8001
-
-            进入到 bin目录，
-
+            单机模式启动根本不需要配置任何数据，直接到bin目录下查找 startup.sh 文件
+            
             Linux/Unix/Mac:
 
                 启动命令(standalone代表着单机模式运行，非集群模式):
