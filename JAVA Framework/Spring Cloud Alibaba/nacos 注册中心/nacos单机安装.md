@@ -13,10 +13,17 @@
 **Nacos的单节点，也就是我们最开始使用的standalone模式，配置的数据是默认存储到内嵌的数据库derby中**
 
   * 第一步：下载安装
-
+ 
+   [linux 查看java的安装路径](https://blog.csdn.net/u013626215/article/details/88964331?spm=1001.2101.3001.6650.2&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-2.pc_relevant_paycolumn_v3&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-2.pc_relevant_paycolumn_v3&utm_relevant_index=5)
+   
          配置JAVA_HOME环境变量，不配置会导致无法运行Nacos；
 
             JAVA_HOME=D:\developer\env\Java\jdk1.8.0_91
+
+
+
+
+
 
          通过https://github.com/alibaba/nacos/releases链接可以下载Nacos的最新发行版，解压到指定目录
 
