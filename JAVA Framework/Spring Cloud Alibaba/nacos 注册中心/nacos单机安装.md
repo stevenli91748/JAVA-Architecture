@@ -20,6 +20,8 @@
    
    [linux配置java环境变量(详细)](https://www.cnblogs.com/samcn/archive/2011/03/16/1986248.html)
    
+   [Which: no javac in (/ usr / local / SBIN / usr / local / bin / usr / SBIN / usr / bin / root / bin)](https://cdmana.com/2021/07/20210722163907299e.html)
+   
       配置完JAVA_HOME環境变量后，要重启(reboot)
       
      2 通过https://github.com/alibaba/nacos/releases链接可以下载Nacos的最新发行版，解压到指定目录
