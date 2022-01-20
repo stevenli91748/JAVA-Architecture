@@ -5,20 +5,24 @@
 
 # 目录
 
+* [1 单机模式下运行Nacos使用内嵌的数据库方式](#1-单机模式下运行Nacos使用内嵌的数据库方式)
+* []()
+
+# 1 单机模式下运行Nacos使用内嵌的数据库方式
+
 **Nacos的单节点，也就是我们最开始使用的standalone模式，配置的数据是默认存储到内嵌的数据库derby中**
 
-## 第一步：下载安装
+  * 第一步：下载安装
 
-配置JAVA_HOME环境变量，不配置会导致无法运行Nacos；
+         配置JAVA_HOME环境变量，不配置会导致无法运行Nacos；
 
-   JAVA_HOME=D:\developer\env\Java\jdk1.8.0_91
+            JAVA_HOME=D:\developer\env\Java\jdk1.8.0_91
 
-通过https://github.com/alibaba/nacos/releases链接可以下载Nacos的最新发行版，解压到指定目录
+         通过https://github.com/alibaba/nacos/releases链接可以下载Nacos的最新发行版，解压到指定目录
 
-## 第二步：启动Nacos
+* 第二步：启动Nacos
 
-
-### 单机模式启动 NACOS
+  **单机模式启动 NACOS**
 
             单机模式启动根本不需要配置任何数据，直接到bin目录下查找 startup.sh 文件
             
@@ -48,10 +52,9 @@
             password:  nacos
     
 
-# 第三步：关闭Nacos
+* 第三步：关闭Nacos
 
           在bin 目录下，查找 shutdown.sh
-          
           
            Linux/Unix/Mac:
            
