@@ -14,11 +14,11 @@
 
   * 第一步：配置JAVA_HOME环境变量, 下载安装Nacos
  
-   1 配置JAVA_HOME环境变量，不配置会导致无法运行Nacos；
+     1 配置JAVA_HOME环境变量，不配置会导致无法运行Nacos；
       
    [linux 查看java的安装路径](https://blog.csdn.net/u013626215/article/details/88964331?spm=1001.2101.3001.6650.2&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-2.pc_relevant_paycolumn_v3&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-2.pc_relevant_paycolumn_v3&utm_relevant_index=5)
 
-  2 通过https://github.com/alibaba/nacos/releases链接可以下载Nacos的最新发行版，解压到指定目录
+     2 通过https://github.com/alibaba/nacos/releases链接可以下载Nacos的最新发行版，解压到指定目录
 
 * 第二步：单机模式下使用内嵌的数据库方式启动Nacos
 
