@@ -9,6 +9,10 @@
 
 ## 第一步：下载安装
 
+配置JAVA_HOME环境变量，不配置会导致无法运行Nacos；
+
+   JAVA_HOME=D:\developer\env\Java\jdk1.8.0_91
+
 通过https://github.com/alibaba/nacos/releases链接可以下载Nacos的最新发行版，解压到指定目录
 
 ## 第二步：配置数据层
