@@ -48,6 +48,19 @@
             password:  nacos
     
 
+# 第三步：关闭Nacos
+
+          在bin 目录下，查找 shutdown.sh
+          
+          
+           Linux/Unix/Mac:
+           
+               root>  sh shutdown.sh
+               
+           windows
+           
+              cmd>  shutdown
+          
 
 
 
