@@ -5,7 +5,7 @@
 
 # 目录
 * [1 配置JAVA_HOME环境变量](#1-配置JAVA_HOME环境变量)
-* [2 单机模式下运行Nacos使用内嵌的数据库方式](#1-单机模式下运行Nacos使用内嵌的数据库方式)
+* [2 单机模式下运行Nacos方式](#1-单机模式下运行Nacos方式)
 
 
 
@@ -76,7 +76,7 @@
       [root@localhost ~]# reboot
      
 
-# 2 单机模式下运行Nacos使用内嵌的数据库方式
+# 2 单机模式下运行Nacos方式
 
    通过https://github.com/alibaba/nacos/releases链接可以下载Nacos的最新发行版，解压到指定目录
 
