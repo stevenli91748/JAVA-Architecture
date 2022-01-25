@@ -19,6 +19,7 @@
       * SpringBoot整合MyBatis(XML方式)
       * SpringBoot整合MyBatis(注解方式)
         * [Spring Boot与MyBatis的集成](https://weread.qq.com/web/reader/69532da0717d3026695636ek70e32fb021170efdf2eca12)
+        * [Spring Boot 整合 Redis 实现数据缓存---扛麻袋的少年](https://blog.csdn.net/lzb348110175/article/details/105386036#comments_19828036)
     * SpringBoot整合JPA
     * SpringBoot整合Druid
     * SpringBoot整合MySQL
