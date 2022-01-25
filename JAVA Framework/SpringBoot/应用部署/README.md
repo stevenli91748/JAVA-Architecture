@@ -1,6 +1,7 @@
 ## SpringBoot项目打包
    * [Spring Boot项目打包成war包](https://mrbird.cc/Spring-Boot%20war.html)
    * [Spring Boot将WAR文件部署到Tomcat](https://www.yiibai.com/spring-boot/deploy-war-file-to-tomcat.html)
+   
 ## SpringBoot项目部署在AWS
    * [Spring Boot AWS Deployment - Full Course [2021]](https://www.youtube.com/watch?v=D1yOALZcMHs)
    * [AWS Lambda 部署 SpringBoot 应用](https://hellowoodes.blog.csdn.net/article/details/89890336?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Edefault-5.no_search_link&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Edefault-5.no_search_link)
@@ -20,6 +21,7 @@
    * [How to deploy Maven based war file to Tomcat](https://mkyong.com/maven/how-to-deploy-maven-based-war-file-to-tomcat/)
    * [在Docker中怎样部署 Nginx + SpringBoot项目集群](https://www.kancloud.cn/pm1028/kubenetes/1767445)
    * [Rancher+k8s+Jenkines流水线+SpringCloud 微服务部署实践](https://www.jianshu.com/p/76eee9521d8a)
+   * [使用IDEA的Docker插件完成远程一键上传部署](https://edu.51cto.com/center/course/lesson/index?id=702197)
    * [手动部署springboot工程到Docker](https://www.jianshu.com/p/e635eb540c97)
    * [idea部署springboot工程到服务器Docker](https://www.jianshu.com/p/f95f1fa4c7cc)
    * [Docker部署SpringBoot的两种方法，一键部署超好用！](https://mp.weixin.qq.com/s/65sPIy3kdL0ZbFnb-6JlNQ)
