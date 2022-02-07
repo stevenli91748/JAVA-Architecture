@@ -126,6 +126,7 @@
     * [IDEA的Docker插件实战(Dockerfile篇)](https://blog.csdn.net/boling_cavalry/article/details/100051325)
     * [IDEA的Docker插件实战(Docker Image篇)](https://xinchen.blog.csdn.net/article/details/100062008)
     * [IDEA的Docker插件实战(Docker-compose篇)](https://xinchen.blog.csdn.net/article/details/100064934)
+  * [JRebel注册码，XRebel注册码，在线破解教程，可激活至2100（亲测有效）](http://www.javatiku.cn/idea/26.html)
   * [Translation]
   * [CodeGlance -代码地图]
   * [Rainbow Brackets--彩虹式的括号]
