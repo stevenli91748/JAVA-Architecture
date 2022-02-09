@@ -4,3 +4,6 @@
 * [2. OAuth 2.0 的四种方式](https://www.ruanyifeng.com/blog/2019/04/oauth-grant-types.html)
 * [3. GitHub OAuth 第三方登录示例教程](https://www.ruanyifeng.com/blog/2019/04/github-oauth.html)
 
+
+# 参考
+* [我扒了半天源码，终于找到了Oauth2自定义处理结果的最佳方案！](https://mp.weixin.qq.com/s/f1fDd98nnMJRexyJ3bydiw)
