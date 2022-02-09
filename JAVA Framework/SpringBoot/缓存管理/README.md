@@ -1,7 +1,11 @@
+
+* Springboot 中如何使用Redis
+  * [SpringBoot中如何使用Redis: 用的是单节点的Redis服务](https://mp.weixin.qq.com/s?__biz=MzU1Nzg4NjgyMw==&mid=2247484594&idx=1&sn=bf398a301965d0a0b50e0294dd4d9a96&scene=21#wechat_redirect)
+  * [在SpringBoot中如何使用Redis: 如何使用Redis集群服务](https://mp.weixin.qq.com/s/Vg8WCsyA1arLUoKENoNJQw) 
+
+
 * [Spring Boot + Redis 实现延时队列，写得太好了](https://mp.weixin.qq.com/s/7hUHW7rwnJY7XCM0JFDXpQ)
 * [Spring Boot + Redis 实现各种操作，写得太好了吧](https://mp.weixin.qq.com/s/xYkQF8e4NmiVl288SAobVA)
-
-
 * [OpenResty+Lua+Redis+Canal实现多级缓存架构](https://www.jianshu.com/p/5e4dbaedaecd?utm_campaign=hugo&utm_medium=reader_share&utm_content=note&utm_source=weixin-friends)
 * [SpringBoot 整合 Redis，一篇解决“缓存”的所有问题](https://www.jianshu.com/p/e4ad2b6bf85f?utm_campaign=hugo&utm_medium=reader_share&utm_content=note&utm_source=weixin-friends)
 * [Spring Boot中使用缓存](https://mrbird.cc/Spring-Boot%20cache.html)
