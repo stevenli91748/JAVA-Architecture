@@ -1,6 +1,6 @@
 
 * Springboot 中如何使用Redis
-  * [SpringBoot中如何使用Redis: 用的是单节点的Redis服务](https://mp.weixin.qq.com/s?__biz=MzU1Nzg4NjgyMw==&mid=2247484594&idx=1&sn=bf398a301965d0a0b50e0294dd4d9a96&scene=21#wechat_redirect)
+  * [SpringBoot中如何使用Redis:   用的是单节点的Redis服务](https://mp.weixin.qq.com/s?__biz=MzU1Nzg4NjgyMw==&mid=2247484594&idx=1&sn=bf398a301965d0a0b50e0294dd4d9a96&scene=21#wechat_redirect)
   * [在SpringBoot中如何使用Redis: 如何使用Redis集群服务](https://mp.weixin.qq.com/s/Vg8WCsyA1arLUoKENoNJQw) 
 
 
