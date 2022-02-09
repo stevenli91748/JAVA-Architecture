@@ -384,6 +384,7 @@
     * [第二阶段：注解配置，在Spring2.x时代，Spring提供声明Bean的注解，大大减少了配置量。应用的基本配置用xml，业务配置用注解](https://www.cnblogs.com/chiangchou/p/sunny-1.html)
     * [第三阶段：Java配置，从Spring3.x到现在，Spring提供了Java配置，使用Java配置可以让你更理解你所配置的Bean](http://springboot.javaboy.org/2019/0528/javassm) 
     * [微服务配置权重](https://weread.qq.com/web/reader/f6732e8071dbddd6f674178kaab325601eaab3238922e53)
+  * [线上热更新代码](http://www.macrozheng.com/#/reference/arthas_start)
   * [热部署](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%B7%A5%E7%A8%8B%E9%85%8D%E7%BD%AE/%E7%83%AD%E9%83%A8%E7%BD%B2/README.md)
   * 嵌入式容器的配置与应用
     * [Tomcat](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%B7%A5%E7%A8%8B%E9%85%8D%E7%BD%AE/%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%AE%B9%E5%99%A8%E7%9A%84%E9%85%8D%E7%BD%AE%E4%B8%8E%E5%BA%94%E7%94%A8/Tomcat.md)
