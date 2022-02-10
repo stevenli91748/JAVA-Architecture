@@ -2,9 +2,12 @@
 [Nginx和HAProxy对比，各有什么优点与不足？](https://www.zhihu.com/question/34489042)|
 ---|
 
+# 目录
+
+
 
 # 有用的参考
-
+* [haproxy指南](https://www.kancloud.cn/louis1986/haproxy)
 * [Haproxy安装部署文档及多配置文件管理方案](https://zhang.ge/5125.html)
 * [Haproxy进阶管理：命令行控制后端节点上下线](https://zhang.ge/5131.html)
 * [CentOS 7 二进制安装 HAProxy](http://www.dev-share.top/2020/08/12/centos-7-%e4%ba%8c%e8%bf%9b%e5%88%b6%e5%ae%89%e8%a3%85-haproxy/)
