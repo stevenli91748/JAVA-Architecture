@@ -1,6 +1,11 @@
 
 <a href="https://ibb.co/HzwZcs7"><img src="https://i.ibb.co/DCcdBy4/nginx13.webp" alt="nginx13" border="0"></a>
 
+* [反向代理](#反向代理)
+  * 静态代理 
+  * 动态代理
+
+
 # 反向代理
 
      默认配置是查找nginx目录下的html
@@ -30,6 +35,7 @@
 
 
 # 有用的参考
+* [Nginx的这些妙用，你肯定有不知道的！](http://www.macrozheng.com/#/reference/nginx)
 * [nginx反向代理配置去除前缀](https://www.toutiao.com/a6833925749104181773/?log_from=7ca6179260085_1630181436726)
 * [Nginx配置实列-反向代理](https://www.kancloud.cn/ll90/liuyaofu/2144225)
 * [Nginx反向代理、负载均衡、动静分离、缓存、压缩、防盗链、跨域访问](https://www.cnblogs.com/ph7seven/p/9932712.html)
