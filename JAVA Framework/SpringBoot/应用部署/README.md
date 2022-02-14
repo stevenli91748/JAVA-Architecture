@@ -1,7 +1,13 @@
 ## SpringBoot项目打包
    * [Spring Boot项目打包成war包](https://mrbird.cc/Spring-Boot%20war.html)
    * [Spring Boot将WAR文件部署到Tomcat](https://www.yiibai.com/spring-boot/deploy-war-file-to-tomcat.html)
-   
+   *  [第一种方法：使用Dockerfile为SpringBoot应用构建Docker镜像](http://www.macrozheng.com/#/reference/docker_file)
+      * [SpringBoot打包成Docker镜像](https://www.cnblogs.com/niceyoo/p/13796792.html)  
+   *  [第二种方法：使用Maven插件为SpringBoot应用构建Docker镜像](http://www.macrozheng.com/#/reference/docker_maven)
+      * [还在手动部署SpringBoot应用？试试这个自动化插件！](http://www.macrozheng.com/#/reference/maven_docker_fabric8)  
+   *  [第三种方法: 使用Docker Compose部署SpringBoot应用](http://www.macrozheng.com/#/reference/docker_compose)
+   *  [第三种方法: 使用Jenkins一键打包部署SpringBoot应用](http://www.macrozheng.com/#/reference/jenkins)
+
 ## SpringBoot项目部署在AWS
    * [Spring Boot AWS Deployment - Full Course [2021]](https://www.youtube.com/watch?v=D1yOALZcMHs)
    * [AWS Lambda 部署 SpringBoot 应用](https://hellowoodes.blog.csdn.net/article/details/89890336?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Edefault-5.no_search_link&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Edefault-5.no_search_link)
