@@ -110,7 +110,7 @@ nginx出口-->http服务
   * [智能路由（企业级灰度测试、地图 POI 一键切流）]()
   * [灰度发布]()
   * [消息推送]()
-  * [图片实时压缩]()
+  * [图片实时压缩](http://www.macrozheng.com/#/reference/nginx)
   * [防盗链]()
 * [3. Nginx 框架模型](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Nginx/Nginx%20%E6%A1%86%E6%9E%B6%E6%A8%A1%E5%9E%8B/README.md)
 * [4. Nginx 内部流程介绍](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Nginx/Nginx%20%E5%86%85%E9%83%A8%E6%B5%81%E7%A8%8B%E4%BB%8B%E7%BB%8D/README.md)
