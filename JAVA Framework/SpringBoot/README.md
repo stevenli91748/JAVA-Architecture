@@ -424,6 +424,7 @@
   * [Spring Boot 定时任务，怎么实现任务动态增删启停？](https://mp.weixin.qq.com/s/D2WDNCBuqSbTSuY8TkjPqA) 
   * [必须学会这10种定时任务，你我都会飘](https://www.jianshu.com/p/ed781e6a7bd3)
   * [还在手写任务调度代码？试试这款可视化分布式调度框架！](http://www.macrozheng.com/#/reference/power_job_start)
+  * [SpringBoot官方支持任务调度框架，轻量级用起来也挺香！](http://www.macrozheng.com/#/reference/quartz_start)
 * [Spring Boot Rest模板---模板用于创建消费RESTful Web 服务的应用](https://www.yiibai.com/spring-boot/spring_boot_rest_template.html)
 * [Spring Boot服务组件---服务组件(Service Components)是包含@Service注释的类文件](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/Spring%20Boot%E6%9C%8D%E5%8A%A1%E7%BB%84%E4%BB%B6.md)
 * [Spring Boot批量服务](https://www.yiibai.com/spring-boot/spring_boot_batch_service.html)
