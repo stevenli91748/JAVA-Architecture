@@ -58,3 +58,10 @@ APM的全称是Application Performance Management（应用性能管理）。APM�
 
 
 常见的APM其实分为五大模块，分别是监控数据的采集、数据传输与分析、历史数据存储、图表展示和监控预警
+
+
+
+# 参考
+
+* [微服务应用性能如何？APM监控工具来告诉你！](http://www.macrozheng.com/#/reference/elastic_apm_start)
+
