@@ -434,7 +434,13 @@
     * [Spring Boost Eureka服务注册](https://www.yiibai.com/spring-boot/spring_boot_service_registration_with_eureka.html) 
   * [Spring Boot Zuul代理服务器和路由](https://www.yiibai.com/spring-boot/spring_boot_zuul_proxy_server_and_routing.html)
   * [Spring Boot Hystrix](https://www.yiibai.com/spring-boot/spring_boot_hystrix.html)
-  * [Spring Boot跟踪微服务日志---Spring Cloud Sleuth和ZipKin](https://www.yiibai.com/spring-boot/spring_boot_tracing_micro_service_logs.html)
+  * Spring Boot微服务跟踪链路
+    * 第一种解决方案：Sleuth+Zipkin的方式
+      * [Spring Boot跟踪微服务日志---Spring Cloud Sleuth和ZipKin](https://www.yiibai.com/spring-boot/spring_boot_tracing_micro_service_logs.html)
+      * [Spring Cloud Sleuth：分布式请求链路跟踪](https://mp.weixin.qq.com/s/FEBeiU7PHrkXa8RrosXqlw)
+    * 第二种解决方案：SkyWalking
+    * 第三种解决方案：Elastic APM 对比SkyWalking和Elastic APM之后，发现Elastic APM更胜一筹
+      * [微服务应用性能如何？Elastic APM 监控工具来告诉你！](http://www.macrozheng.com/#/reference/elastic_apm_start) 
   * [Spring Boot云配置服务器---Spring Cloud Configuration Server](https://www.yiibai.com/spring-boot/spring_boot_cloud_configuration_server.html)
   * [Spring Boot云配置客户端---Spring Cloud Configuration Server](https://www.yiibai.com/spring-boot/spring_boot_cloud_configuration_client.html)
   * [Spirng Boot分布式应用开发 with Docker](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%88%86%E5%B8%83%E5%BC%8F%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91/Springboot%20with%20Docker/README.md)
