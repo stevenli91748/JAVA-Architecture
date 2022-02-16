@@ -4,9 +4,11 @@
    *  [第一种方法：使用Dockerfile为SpringBoot应用构建Docker镜像](http://www.macrozheng.com/#/reference/docker_file)
       * [SpringBoot打包成Docker镜像](https://www.cnblogs.com/niceyoo/p/13796792.html)  
    *  [第二种方法：使用Maven插件为SpringBoot应用构建Docker镜像](http://www.macrozheng.com/#/reference/docker_maven)
-      * [还在手动部署SpringBoot应用？试试这个自动化插件！](http://www.macrozheng.com/#/reference/maven_docker_fabric8)  
+      * [还在手动部署SpringBoot应用？试试这个自动化插件！](http://www.macrozheng.com/#/reference/maven_docker_fabric8)
+      * [官方插件也增加了对Docker的支持](http://www.macrozheng.com/#/reference/springboot_docker_plugin)  
    *  [第三种方法: 使用Docker Compose部署SpringBoot应用](http://www.macrozheng.com/#/reference/docker_compose)
-   *  [第三种方法: 使用Jenkins一键打包部署SpringBoot应用](http://www.macrozheng.com/#/reference/jenkins)
+   *  [第四种方法: 使用Jenkins一键打包部署SpringBoot应用](http://www.macrozheng.com/#/reference/jenkins)
+
 
 ## SpringBoot项目部署在AWS
    * [Spring Boot AWS Deployment - Full Course [2021]](https://www.youtube.com/watch?v=D1yOALZcMHs)
