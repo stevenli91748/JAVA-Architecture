@@ -34,6 +34,7 @@ Swagger|
 # 参考
   * [还在手动整合Swagger？Swagger官方Starter是真的香！](http://www.macrozheng.com/#/reference/swagger_starter)
   * [给Swagger换了个新皮肤，瞬间高大上了！---knife4j是springfox-swagger的增强UI实现](http://www.macrozheng.com/#/reference/knife4j_start)
+  * [当Swagger遇上YApi，瞬间高大上了！](http://www.macrozheng.com/#/reference/yapi_start)
   * [给Swagger升级了新版本，没想到居然有这么多坑！](https://mp.weixin.qq.com/s/GWQRTEBRLGsL7um795ufbQ)
   * [【项目实践】SpringBoot三招组合拳，一步一步演示如何构建起一个优秀的后端接口体系](https://www.jianshu.com/p/b5b8613769db)
   * [如何优雅设计 API 接口，实现统一格式返回？](https://www.jianshu.com/p/90bac4eda34a)
