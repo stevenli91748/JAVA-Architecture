@@ -32,6 +32,7 @@ Swagger|
  * [SpringBoot整合Swagger2及使用](https://iter01.com/594684.html)
 
 # 参考
+  * [Swagger结合Postman使用](http://www.macrozheng.com/#/reference/swagger_postman)
   * [还在手动整合Swagger？Swagger官方Starter是真的香！](http://www.macrozheng.com/#/reference/swagger_starter)
   * [给Swagger换了个新皮肤，瞬间高大上了！---knife4j是springfox-swagger的增强UI实现](http://www.macrozheng.com/#/reference/knife4j_start)
   * [当Swagger遇上YApi，瞬间高大上了！](http://www.macrozheng.com/#/reference/yapi_start)
