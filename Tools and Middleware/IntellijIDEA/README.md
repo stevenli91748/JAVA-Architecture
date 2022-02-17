@@ -138,6 +138,7 @@
   * [MyBatis Log Plugin---在项目运行后，可跟踪显示每一操作对数据库操作的SQL语句]
   * [Free Mybatis plugin---能在XML和mapper接口Java文件中跳转]
   * [Lombok](https://mp.weixin.qq.com/s/7ocQSmGtCn3EaVJ1kW7Cqg)
+    * [Lombok有啥牛皮的？SpringBoot和IDEA官方都要支持它](http://www.macrozheng.com/#/reference/lombok_start) 
   * [Codota---极其强大的代码自动补全,当我们第一次使用某个类，对该类的某个函数不够熟悉时，可以通过该插件搜索相关用法，快速模仿学习](https://www.kancloud.cn/hanxt/springboot2/1339999)
   * [Auto filling Java call arguments---自动使用该函数定义的参数名填充](https://www.kancloud.cn/hanxt/springboot2/1339999)
   * [Lombok plugin -- 注解自动生成代码](https://www.kancloud.cn/hanxt/springboot2/1315474)
