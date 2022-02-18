@@ -7,3 +7,4 @@
 
 # 参考
 * [我扒了半天源码，终于找到了Oauth2自定义处理结果的最佳方案！](https://mp.weixin.qq.com/s/f1fDd98nnMJRexyJ3bydiw)
+* [JWT和OAuth2比较？](https://segmentfault.com/a/1190000040920592)
