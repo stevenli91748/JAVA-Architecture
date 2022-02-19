@@ -1,3 +1,7 @@
+
+
+**Spring Security 的关键评分位列所有 Java 项目的第 29 位。很遗憾的是，Shiro 并未上榜, 相比于 Shiro 来说，Spring Security 的学习曲线更陡峭。但是，从生态等方面来说，Spring Security 依然是你做身份验证以及权限控制时的首选框架**
+
 # [Spring Security4 例子程序](http://websystique.com/spring-security-tutorial/)
 
 [Spring Security 和 SpringCloud Security 有什么区别](https://www.cxyzjd.com/article/hadues/109646510)|[Spring Cloud Gateway 整合 Spring Security 统一鉴权](https://segmentfault.com/a/1190000039390248)|
