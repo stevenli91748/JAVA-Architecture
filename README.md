@@ -1,5 +1,6 @@
 # [Java面试知识点 和 项目经验](https://github.com/stevenli91748/JAVA-Architecture/tree/master/Interview)
 
+# [JAVA技术选型以及技术学习都有极强的指导性作用](https://mp.weixin.qq.com/s?__biz=MzU1Nzg4NjgyMw==&mid=2247488725&idx=1&sn=0a5645a7668e57a98216900415bd57b7&scene=21#wechat_redirect)
 # [阿里大佬倾情力荐: Java全线成长宝典，从P5到P8一应俱全](https://www.jianshu.com/p/f69b9f5def41)
 # [全网最火的学习路线网站---前后端，android, DevOps, React, DBA](https://roadmap.sh/)
 # [从零搭建后台技术栈，让你提升一个层次](https://www.jianshu.com/p/41ebad81b5eb)
