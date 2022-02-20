@@ -89,6 +89,14 @@
 [Spring MVC测试框架详解——服务端测试](https://www.iteye.com/blog/jinnianshilongnian-2004660)|[Spring MVC测试框架详解——客户端测试](https://www.iteye.com/blog/jinnianshilongnian-2007180)|
 ---|---|
 
+
+# 目录
+* SpringMVC 国际化
+  * [这篇文章让你搞懂 SpringMVC 国际化！](https://developer.51cto.com/article/657813.html) 
+
+
+
+
 # Spring MVC视频
  * [SpringMVC 2019_IDEA版](https://www.bilibili.com/video/av50213945/?spm_id_from=333.788.videocard.6)
  * [尚硅谷大数据_SpringMVC](http://www.atguigu.com/download_detail.shtml?v=23)
