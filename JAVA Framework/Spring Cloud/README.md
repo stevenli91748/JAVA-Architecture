@@ -63,6 +63,8 @@
 * [21 (疯狂创客圈) Java高并发核心编程 (卷2)](https://weread.qq.com/web/reader/9b93254072456ac19b9a176)
   * [21.1 《Java高并发核心编程 (卷2)》随书源码、说明](https://www.cnblogs.com/crazymakercircle/p/9904544.html) 
 
+* [高效自动化测试平台：设计与开发实战](https://weread.qq.com/web/reader/4ce323907204397b4cedf59)
+
 
 * （Spring Cloud 深入系列 ）Spring Cloud与Docker微服务架构实战（第2版）.PDF
 * Spring Cloud微服务架构实战派.PDF---共有“39个基于知识点的实例 + 1个综合性项目
