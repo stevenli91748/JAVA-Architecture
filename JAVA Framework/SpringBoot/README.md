@@ -103,8 +103,8 @@
 [Java Guides sample program](https://www.javaguides.net/)|[Source Code Sample program](https://www.sourcecodeexamples.net/)|[JavaInUse example](https://www.javainuse.com/home)|
 ---|---|---|
 
-[Spring Boot Tutorials with example](https://mkyong.com/tutorials/spring-boot-tutorials/)|
----|
+[Spring Boot Tutorials with example](https://mkyong.com/tutorials/spring-boot-tutorials/)|[HowToDoInJava---非常多的例子程序，包括Java的方方面面](https://howtodoinjava.com/)|
+---|---|
 
 ---
 
