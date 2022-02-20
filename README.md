@@ -6,6 +6,7 @@
 # [从零搭建后台技术栈，让你提升一个层次](https://www.jianshu.com/p/41ebad81b5eb)
 # [2021 Github上最热门的开源项目来了](https://www.jianshu.com/p/18935f5a0aef)
 # [Github上面有个Java Topic 项目排行榜](https://github.com/topics/java)
+# [Github上100k点赞的计算机开源课程免费开源了！](https://zhuanlan.zhihu.com/p/418178828)
 # [GVP ( Gitee Most Valuable Project ) ---Gitee 综合评定出的优秀开源项目的展示平台](https://gitee.com/gvp)
 # [StackShare---可以查找到软件的流行率](https://stackshare.io/categories)
 # [程序员英语单词册](https://www.kancloud.cn/haixu926611/study-english/112096)
