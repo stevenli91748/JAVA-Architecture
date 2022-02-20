@@ -329,8 +329,8 @@
 [测试](https://github.com/stevenli91748/Testing/blob/master/README.md)|FastDFS文件存储|[Quartz定时任务](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Quartz)|jFinal|[Postman 接口调试工具](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/postman接口自动化测试/README.md)|[AKKA](https://doc.yonyoucloud.com/doc/akka-doc-cn/2.3.6/scala/book/chapter1/05_usecase_and_deployment_scenarios.html)|[Jetty](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/jetty/README.md)|[RxJava](https://github.com/ReactiveX/RxJava)
 ---|---|---|---|---|---|---|---|
 
-[ 二维码扫描项目--- barcode scanning library for Java, Android](https://github.com/zxing/zxing)|[Kong API Gateway](https://github.com/cloudframeworks-apigateway/user-guide-apigateway)|[OpenResty API Gateway](https://www.kancloud.cn/kancloud/openresty-best-practices/50428)|
----|---|---|
+[ 二维码扫描项目--- barcode scanning library for Java, Android](https://github.com/zxing/zxing)|[Kong API Gateway](https://github.com/cloudframeworks-apigateway/user-guide-apigateway)|[OpenResty API Gateway](https://www.kancloud.cn/kancloud/openresty-best-practices/50428)|[JWT](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/JWT.md)|
+---|---|---|---|
 
 
 [ElasticSearch搜索][%Elasticsearch]|[ELK日志展示及分析](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/ELK日志分析服务/README.md)|[Swagger接口文档编写及测试工具](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Swagger接口文档编写及测试工具/README.md)|[JMeter测试工具](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/JMeter测试工具/README.md)|[Keepalived](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Keepalived/README.md)|[Serverless](https://github.com/stevenli91748/Big-Data/blob/master/Serverless/README.md)|
@@ -345,8 +345,8 @@ VisualVM分析工具|[Jenkins](https://github.com/stevenli91748/JAVA-Architectur
 [日志系统](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/%E6%97%A5%E5%BF%97%E7%B3%BB%E7%BB%9F/README.md)|[FastDFS](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/FastDFS/README.md)|[模板引擎](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/%E6%A8%A1%E6%9D%BF%E5%BC%95%E6%93%8E/README.md)|[Shiro---安全架构](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Security/shiro.md)|[Activiti工作流引擎](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Activiti%E5%B7%A5%E4%BD%9C%E6%B5%81%E5%BC%95%E6%93%8E/README.md)|[Mockito](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Mockito/mochito.md)|[Service Mesh微服务](https://github.com/stevenli91748/MicroService/blob/master/Service%20Mesh/README.md)|
 ---|---|---|---|---|---|---|
 
-[Hutool---Hutool是项目中“util”包友好的替代,是一个小而全的Java工具类库](https://github.com/dromara/hutool)|[JWT](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/JWT.md)|[持续集成服务 Travis CI 教程](https://www.ruanyifeng.com/blog/2017/12/travis_ci_tutorial.html)|
----|---|---|
+[持续集成服务 Travis CI 教程](https://www.ruanyifeng.com/blog/2017/12/travis_ci_tutorial.html)|
+---|
 
 [OAuth --- 令牌（token）授权机制](https://github.com/stevenli91748/JAVA-Architecture/blob/master/oauth2/README.md)|[Etcd](https://github.com/stevenli91748/Distributed-System/blob/master/type%20of%20system/Distributed%20coordination/etcd/README.md)|[ZooKeeper](https://github.com/stevenli91748/Distributed-System/blob/master/type%20of%20system/Distributed%20coordination/Zookeeper.md)|[Postman](https://github.com/stevenli91748/JAVA-Architecture/blob/master/postman/README.md)|
 ---|---|---|---|
@@ -361,12 +361,24 @@ VisualVM分析工具|[Jenkins](https://github.com/stevenli91748/JAVA-Architectur
 [okhttp---高效率的HTTP客户端,可用在移动客户端和服务器](https://github.com/square/okhttp)|[flink---流处理框架](https://github.com/stevenli91748/flink-learning)|[presto---Facebook开源分布式的大数据查询引擎](https://github.com/prestodb/presto)|
 ---|---|---|
 
+# ShardingSphere （包括 Sharding-JDBC、Sharding-Proxy 和 Sharding-Sidecar ） 和 MyCat 两者都是常用分布式数据库中间件，分库分表等场景都会用到。ShardingSphere 的关键评分位列所有 Java 项目的第 72 位，MyCat 并没上榜
+
+ShardingSphere|MyCat|
+---|---|
+
+
+### Guava 和 Hutool 两者都是目前非常好用的 Java 第三方工具类库,Guava 的关键性评分位列所有 Java 项目的第 78 位，而 Hutool 位于第 196 位。
 [guava---Google Java标准库的十全大补](https://github.com/google/guava)|[Guava RateLimiter 实现 API 限流，这才是正确的姿势](https://mp.weixin.qq.com/s/uyYqni2Li6DpaAYB0vniow)|[
 Guava学习入门](https://www.kancloud.cn/digest/guava)|
 ---|---|---|
 
-[Guava学习笔记](https://www.cnblogs.com/Courage129/p/14413974.html)|
----|
+[Guava学习笔记](https://www.cnblogs.com/Courage129/p/14413974.html)|[Hutool---Hutool是项目中“util”包友好的替代,是一个小而全的Java工具类库](https://github.com/dromara/hutool)|
+---|---|
+
+
+
+
+
 
 # [第六阶段   互联网架构篇](https://github.com/stevenli91748/JAVA-Architecture/blob/master/internet%20architecture/README.md)
 
