@@ -9,6 +9,7 @@
       * [使用Maven插件一键打包并推送到自建的Harbor镜像仓库中](http://www.macrozheng.com/#/reference/harbor_start) 
    *  [第三种方法: 使用Docker Compose部署SpringBoot应用](http://www.macrozheng.com/#/reference/docker_compose)
    *  [第四种方法: 使用Jenkins一键打包部署SpringBoot应用](http://www.macrozheng.com/#/reference/jenkins)
+      * [mall在Linux环境下的自动化部署（基于Jenkins）](http://www.macrozheng.com/#/deploy/mall_deploy_jenkins)    
    *  [第五种方法: 使用DockerFile+Jar+自动化脚本的形式来部署](http://www.macrozheng.com/#/technology/springboot_auto_deploy)
 
 ## SpringBoot项目部署在AWS
