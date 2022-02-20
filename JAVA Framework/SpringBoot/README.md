@@ -369,8 +369,10 @@
   * 运维管理（Endpoint、健康检查、Metrics）
   * [Spring Boot的工作机制](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/Spring%20Boot%E7%9A%84%E5%B7%A5%E4%BD%9C%E6%9C%BA%E5%88%B6/README.md)
   * [Spring Boot应用程序属性机制---application.properties文件进行应用程序配置](https://www.yiibai.com/spring-boot/spring-boot-properties.html) 
-  * SpringBoot 项目中使用 AOP 技术
+  * SpringBoot 使用 AOP 技术
     * [SpringBoot 项目中使用 AOP 技术为 controller 层添加一个切面来实现接口访问的统一日志记录实战](https://developer.51cto.com/article/701791.html) 
+  * SpringBoot 使用 IoC 技术
+    * [SpringBoot IoC启动流程、初始化过程及Bean生命周期各个阶段的作用](https://www.shuzhiduo.com/A/q4zVYBVxdK/) 
   * [spring factories 机制](https://www.jianshu.com/p/7367dddab20d)
   * [SpringBoot 应用程序启动过程](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/SpringBoot%20%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E5%90%AF%E5%8A%A8%E8%BF%87%E7%A8%8B.md) 
   * [SpringBoot 配置](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/SpringBoot%20%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/README.md)
