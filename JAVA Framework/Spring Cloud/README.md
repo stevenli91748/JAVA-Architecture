@@ -115,9 +115,8 @@
 
 ### 博客
 
-[阿里巴巴 知行动手实验室](https://start.aliyun.com/)|# [JAVA技术选型以及技术学习都有极强的指导性作用](https://mp.weixin.qq.com/s?__biz=MzU1Nzg4NjgyMw==&mid=2247488725&idx=1&sn=0a5645a7668e57a98216900415bd57b7&scene=21#wechat_redirect)
-
----|
+[阿里巴巴 知行动手实验室](https://start.aliyun.com/)|[JAVA技术选型以及技术学习都有极强的指导性作用](https://mp.weixin.qq.com/s?__biz=MzU1Nzg4NjgyMw==&mid=2247488725&idx=1&sn=0a5645a7668e57a98216900415bd57b7&scene=21#wechat_redirect)|
+---|---|
 
 [Spring Cloud 2020 版本最佳实践，你落伍了！](https://mp.weixin.qq.com/s/cyC3fuPYmGhhGJULDLsZyQ)|
 ---|
