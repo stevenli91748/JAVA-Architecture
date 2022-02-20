@@ -425,6 +425,7 @@ Open API开放平台必然涉及到客户应用的接入、API权限的管理、
   * [REST API 接口测试](https://www.imooc.com/learn/1048)
   * [高质量API接口设计最佳实践](https://www.bilibili.com/video/BV1g4411V7R9/?spm_id_from=333.788.videocard.7)
 # 有用的参考
+  * [微服务如何聚合Swagger实现接口文档管理](https://developer.51cto.com/article/701318.html)
   * [最好用的七大顶级 API 接口测试工具](https://zhuanlan.zhihu.com/p/445755310)
   * [IDEA HTTP Client（史上最全） ](https://www.cnblogs.com/crazymakercircle/p/14317222.html)
   * [老板叫我设计一个亿级API网关](https://network.51cto.com/art/202104/656469.htm)
