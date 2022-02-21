@@ -18,8 +18,8 @@
 ---
 
 
-[你还在用 Postman？IDEA REST Client 好用到爆，Postman 可以扔了](https://mp.weixin.qq.com/s/QwoZkMxOTgCHhKWOv2rEag)|
----|
+[你还在用 Postman？IDEA REST Client 好用到爆，Postman 可以扔了](https://mp.weixin.qq.com/s/QwoZkMxOTgCHhKWOv2rEag)|[微服务如何聚合Swagger实现接口文档管理](https://developer.51cto.com/article/701318.html)|
+---|---|
 
 [Spring Boot + GraphQL 才是 API 的未来！](https://mp.weixin.qq.com/s/0PnHhG_AcPxUJIClvx1fdQ)|[GraphQL 入门看这篇就够了](https://chinese.freecodecamp.org/news/a-detailed-guide-to-graphql/)|[一个基于 Spring 极度简单的 Restful API 工具，非常好用](https://mp.weixin.qq.com/s/Mnz26kCVEyQWckkOKPkJ-A)|
 ---|---|---|
