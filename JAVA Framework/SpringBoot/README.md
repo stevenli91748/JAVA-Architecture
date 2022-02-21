@@ -371,6 +371,7 @@
   * [Spring Boot应用程序属性机制---application.properties文件进行应用程序配置](https://www.yiibai.com/spring-boot/spring-boot-properties.html) 
   * SpringBoot 使用 AOP 技术
     * [SpringBoot 项目中使用 AOP 技术为 controller 层添加一个切面来实现接口访问的统一日志记录实战](https://developer.51cto.com/article/701791.html) 
+    * [SpringBoot应用中使用AOP记录接口访问日志](http://www.macrozheng.com/#/technology/aop_log)
   * SpringBoot 使用 IoC 技术
     * [SpringBoot IoC启动流程、初始化过程及Bean生命周期各个阶段的作用](https://www.shuzhiduo.com/A/q4zVYBVxdK/) 
   * [spring factories 机制](https://www.jianshu.com/p/7367dddab20d)
