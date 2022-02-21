@@ -1,5 +1,6 @@
 
 * [1 Spring Boot配置绑定](http://c.biancheng.net/spring_boot/config-bind.html)
+  * [Spring Boot 自定义相关属性](https://www.jianshu.com/p/1f5302f76bbe) 
 * [2 Spring Boot导入Spring配置](http://c.biancheng.net/spring_boot/import-spring-config.html)
 * [3 Spring Boot Profile（多环境配置）](http://c.biancheng.net/spring_boot/profile.html)
 * [4 Spring Boot默认配置文件](http://c.biancheng.net/spring_boot/default-config.html)
