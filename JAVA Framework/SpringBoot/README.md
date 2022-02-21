@@ -373,6 +373,7 @@
     * [SpringBoot 项目中使用 AOP 技术为 controller 层添加一个切面来实现接口访问的统一日志记录实战](https://developer.51cto.com/article/701791.html) 
     * [SpringBoot应用中使用AOP记录接口访问日志](http://www.macrozheng.com/#/technology/aop_log)
     * [基于SpringBoot AOP实现自定义注解实践](https://www.jianshu.com/p/5d82e4a78af9)
+    * [利用AOP切面打印项目中每个接口的运行情况](https://www.jianshu.com/p/558e437b6439)
   * SpringBoot 使用 IoC 技术
     * [SpringBoot IoC启动流程、初始化过程及Bean生命周期各个阶段的作用](https://www.shuzhiduo.com/A/q4zVYBVxdK/) 
   * [spring factories 机制](https://www.jianshu.com/p/7367dddab20d)
