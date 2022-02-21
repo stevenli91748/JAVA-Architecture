@@ -104,6 +104,7 @@
 * [啥？听说你还在手写复杂的API 参数校验？](https://www.bilibili.com/read/cv4308221)
 * [【项目实践】SpringBoot三招组合拳，手把手教你打出优雅的后端接口,一步一步演示如何构建起一个优秀的后端接口体系](https://www.jianshu.com/p/b5b8613769db)
 * [如何优雅设计 API 接口，实现统一格式返回？](https://www.jianshu.com/p/90bac4eda34a)
+* [SpringBoot自定义控制层参数解析](https://www.jianshu.com/p/41beefc40905)
 * [SpringBoot实现API接口的完整代码](https://www.jb51.net/article/198167.htm)
 * [Spring Boot项目的接口防刷](https://www.javaweb.shop/article/204.html)
 * [使用WireMock快速伪造RESTful服务](https://mrbird.cc/WireMock-mock-RESTful.html)
