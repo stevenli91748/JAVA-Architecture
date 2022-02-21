@@ -41,6 +41,8 @@
   * SpringBoot整合QuartZ
   * SpringBoot整合Mail
   * SpringBoot集成Swagger2
+  * SpringBoot整合ELK
+    * [SpringBoot应用整合ELK实现日志收集](http://www.macrozheng.com/#/technology/mall_tiny_elk) 
   * SpringBoot整合ActiveMQ
     * [Spring Boot与ActiveMQ的集成](https://weread.qq.com/web/reader/69532da0717d3026695636ek1f032c402131f0e3dad99f3) 
   * SpringBoot整合RabbitMQ
