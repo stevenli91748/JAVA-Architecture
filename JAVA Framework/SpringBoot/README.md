@@ -406,6 +406,7 @@
   * [Spring Boot启用HTTPS](https://www.yiibai.com/spring-boot/spring_boot_enabling_https.html)
   * [Spring Boot Web Socket](https://www.yiibai.com/spring-boot/spring_boot_web_socket.html)
   * [RESTFul API构建](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/RESTful%20API/RESTful%20API.md)
+    * [SpringBoot利用限速器RateLimiter实现单机限流---避免用户的恶意刷接口](https://www.jianshu.com/p/6e812f307f06) 
   * [Spring Boot 集成Swagger2](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/Spring%20Boot%20%E9%9B%86%E6%88%90Swagger2.md)
   * [Spring Boot中使用过滤器和拦截器](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/Spring%20Boot%E4%B8%AD%E4%BD%BF%E7%94%A8%E8%BF%87%E6%BB%A4%E5%99%A8%E5%92%8C%E6%8B%A6%E6%88%AA%E5%99%A8.md)
   * [Spring Boot定制Spring MVC](http://c.biancheng.net/spring_boot/spring-mvc.html)
