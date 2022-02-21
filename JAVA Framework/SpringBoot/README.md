@@ -597,7 +597,7 @@
   * [请问看懂java高级框架spring boot需要那些知识？](https://www.zhihu.com/question/436636345/answer/1708342093?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=group3_Answer&utm_campaign=shareopn)
   * [学习 Spring Boot 知识看这一篇就够了](https://zhuanlan.zhihu.com/p/37372007)
   * [教你理清 SpringBoot 与 SpringMVC 的关系](http://www.iocoder.cn/Fight/Teach-you-to-clarify-the-relationship-between-SpringBoot-and-SpringMVC/)
-  
+  * [Spring是如何获取容器中的Bean？](https://www.jianshu.com/p/c0c549dfcd74)
   
   * [听说你要接私活？Guide连夜整理了5个开源免费的Java项目快速开发脚手架](https://mp.weixin.qq.com/s/nKLFOUmdiCeW5VdfpO96BA)
   
