@@ -570,6 +570,7 @@
        * Spring Cloud Gateway环境配置
          * [Spring Cloud Gateway网关配置](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%E5%8E%9F%E7%94%9F%E5%8F%8A%E5%85%B6%E4%BB%96%E6%95%B4%E5%90%88%E7%BB%84%E4%BB%B6/Gateway.md)
          * [Spring Cloud Gateway + Jwt + Oauth2 实现网关的鉴权操作](https://www.jianshu.com/p/c9f0f1c7333c)
+         * [Spring Cloud Gateway整合OAuth2.0 实现分布式统一认证授权](https://www.jianshu.com/p/ec06e3b7c650)
          * [Spring Security与JWT实现权限管控以及登录认证指南](https://www.jianshu.com/p/87cab4a53ae4)
      * [多维度监控微服务的可视化平台环境配置](https://www.kancloud.cn/mrbird/spring-cloud/1333138)
        * Prometheus---获取、存储监控数据，供第三方查询
