@@ -106,5 +106,7 @@ Gitee: https://gitee.com/haoxr
 # 有用的参考
 * [基于token身份认证的完整实例](https://www.jianshu.com/p/75f6d7426118)
 * [手把手教你搞定权限管理，结合Spring Security实现接口的动态权限控制](https://www.jianshu.com/p/a8e66020fad1)
-* [仅需四步，整合SpringSecurity+JWT实现登录认证！](http://www.macrozheng.com/#/technology/springsecurity_use)
-* [手把手教你搞定权限管理，结合Spring Security实现接口的动态权限控制！](http://www.macrozheng.com/#/technology/permission_back)
+* [1. mall整合SpringSecurity和JWT实现认证和授权（一）](https://mp.weixin.qq.com/s/HFAfcSGANrdVJeTmT-7X_A)
+* [2. mall整合SpringSecurity和JWT实现认证和授权（二）](https://mp.weixin.qq.com/s/yO_8nAN-zoCB86ep4nuAOg)
+* [3. 仅需四步，整合SpringSecurity+JWT实现登录认证！](http://www.macrozheng.com/#/technology/springsecurity_use)
+* [4. 手把手教你搞定权限管理，结合Spring Security实现接口的动态权限控制！](http://www.macrozheng.com/#/technology/permission_back)
