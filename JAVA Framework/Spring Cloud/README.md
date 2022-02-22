@@ -171,6 +171,8 @@
 [追风人聊springcloud](https://www.jianshu.com/u/0be9507708ca)|[木子教程 ](https://www.jianshu.com/u/8cc556322f92)|[huan1993](https://www.jianshu.com/u/30c5164f71f6)|
 ---|---|---|
 
+[架构师_迦叶](https://www.jianshu.com/u/22ca190dc5c6)|[老男孩的架构路](https://www.jianshu.com/u/c77c031b533c)|
+---|---|
 
 
 ## SpringCloud版本依赖
