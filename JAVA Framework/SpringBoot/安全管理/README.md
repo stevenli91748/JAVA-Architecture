@@ -12,3 +12,4 @@
 * [使用Spring Security](http://blog.didispace.com/springbootsecurity/)
 * [Spring Boot中开启Spring Security](https://mrbird.cc/Spring-Boot&Spring-Security.html)
 * [仅需四步，整合SpringSecurity+JWT实现登录认证！](http://www.macrozheng.com/#/technology/springsecurity_use)
+* [手把手教你搞定权限管理，结合Spring Security实现接口的动态权限控制！](http://www.macrozheng.com/#/technology/permission_back)
