@@ -23,8 +23,14 @@
 [全网最全最新的IDEA教程](https://mp.weixin.qq.com/s/Ds1iU6ipMgWyaqaOPgP44g?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)|[IDEA中使用Docker插件](https://mrbird.cc/IDEA-Docker-Plugin.html)|[当Docker遇到Intellij IDEA，再次解放了生产力](https://www.jianshu.com/p/b748e90290d4)|[Docker in IntelliJ IDEA (2021)](https://www.youtube.com/watch?v=ck6xQqSOlpw)|
 ---|---|---|---|
 
-[项目部署点一下按钮就可以，全流程自动化，超简单三分钟学会](https://www.bilibili.com/video/BV1cD4y1U7Bx)|[一键生成数据库文档-生产力飙升](https://www.bilibili.com/video/BV1Qi4y1u7uR)|[本机用IDEA调试远程部署的程序代码](https://www.bilibili.com/video/BV1Da4y1e7kG)|
----|---|---|
+[项目部署点一下按钮就可以，全流程自动化，超简单三分钟学会](https://www.bilibili.com/video/BV1cD4y1U7Bx)|[一键生成数据库文档-生产力飙升](https://www.bilibili.com/video/BV1Qi4y1u7uR)|
+---|---|
+
+
+## Debug
+
+[本机用IDEA调试远程部署的程序代码](https://www.bilibili.com/video/BV1Da4y1e7kG)|[这几个IDEA高级调试技巧，用了都说好！](https://mp.weixin.qq.com/s?__biz=MzU1Nzg4NjgyMw==&mid=2247484455&idx=1&sn=c92faddcc4975c09d5b380e65f60db11&scene=21#wechat_redirect)|
+---|---|
 
 [10年程序员第一次发现的代码调试神器](https://www.bilibili.com/video/BV1TQ4y1T7H3)|[一个让程序员接近失业的通用代码生成器-视频作者原创开源项目-跨项目、跨编程语言、跨操作系统](https://www.bilibili.com/video/BV1gV411m7DM)|
 ---|---|
