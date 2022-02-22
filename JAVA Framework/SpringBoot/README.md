@@ -374,6 +374,7 @@
     * [SpringBoot应用中使用AOP记录接口访问日志](http://www.macrozheng.com/#/technology/aop_log)
     * [基于SpringBoot AOP实现自定义注解实践](https://www.jianshu.com/p/5d82e4a78af9)
     * [利用AOP切面打印项目中每个接口的运行情况](https://www.jianshu.com/p/558e437b6439)
+    * [使用Redis+AOP优化权限管理功能，这波操作贼爽！](http://www.macrozheng.com/#/technology/redis_permission)
   * SpringBoot 使用 IoC 技术
     * [SpringBoot IoC启动流程、初始化过程及Bean生命周期各个阶段的作用](https://www.shuzhiduo.com/A/q4zVYBVxdK/) 
   * [spring factories 机制](https://www.jianshu.com/p/7367dddab20d)
