@@ -17,17 +17,23 @@
     * SpringBoot整合Jdbc Template例子实验 
     * SpringBoot整合MyBatis例子实验
       * SpringBoot整合MyBatis(XML方式)
+        * [mall整合SpringBoot+MyBatis搭建基本骨架](http://www.macrozheng.com/#/architect/mall_arch_01) 
       * SpringBoot整合MyBatis(注解方式)
         * [Spring Boot与MyBatis的集成](https://weread.qq.com/web/reader/69532da0717d3026695636ek70e32fb021170efdf2eca12)
-        * [Spring Boot 整合 Redis 实现数据缓存---扛麻袋的少年](https://blog.csdn.net/lzb348110175/article/details/105386036#comments_19828036)
     * SpringBoot整合JPA
     * SpringBoot整合Druid
     * SpringBoot整合MySQL
+    * SpringBoot整合MongoDB
+      * [mall整合Mongodb实现文档操作](http://www.macrozheng.com/#/architect/mall_arch_08) 
     * SpringBoot整合Oracle
     * SpringBoot整合Neo4j
+    * SpringBoot整合SpirngTask
+      * [mall整合SpringTask实现定时任务](http://www.macrozheng.com/#/architect/mall_arch_06) 
     * SpringBoot整合Redis(单机版)
       * [Spring Boot与Redis的集成](https://weread.qq.com/web/reader/69532da0717d3026695636ek6f4322302126f4922f45dec)
     * SpringBoot整合Redis集群
+      * [mall整合Redis实现缓存功能](http://www.macrozheng.com/#/architect/mall_arch_03)
+      * [Spring Boot 整合 Redis 实现数据缓存---扛麻袋的少年](https://blog.csdn.net/lzb348110175/article/details/105386036#comments_19828036) 
       * [SpringBoot整合Redis配置多个库切换](https://www.jianshu.com/p/b3fcbef4d707)
       * [SpringBoo整合Redis实现分布式限流](https://www.jianshu.com/p/9858cd75252d) 
     * SpringBoot整合MongoDB
@@ -36,6 +42,9 @@
     * [Spring Boot整合Dubbo&Zookeeper](https://mrbird.cc/Spring-Boot-Dubbo-Zookeeper.html) 
   * SpringBoot整合Zookeeper
     * [Spring Boot整合Dubbo&Zookeeper](https://mrbird.cc/Spring-Boot-Dubbo-Zookeeper.html) 
+  * SpirngBoot整合SpringSecurity
+    * [mall整合SpringSecurity和JWT实现认证和授权（一）](http://www.macrozheng.com/#/architect/mall_arch_04) 
+    * [mall整合SpringSecurity和JWT实现认证和授权（二）](http://www.macrozheng.com/#/architect/mall_arch_05)
   * SpringBoot整合Docker
   * SpringBoot整合Nginx
   * SpringBoot整合Tomcat
@@ -43,16 +52,21 @@
   * SpringBoot整合QuartZ
   * SpringBoot整合Mail
   * SpringBoot集成Swagger2
+    * [mall整合Swagger-UI实现在线API文档](http://www.macrozheng.com/#/architect/mall_arch_02) 
   * SpringBoot整合ELK
     * [SpringBoot应用整合ELK实现日志收集](http://www.macrozheng.com/#/technology/mall_tiny_elk) 
   * SpringBoot整合ActiveMQ
     * [Spring Boot与ActiveMQ的集成](https://weread.qq.com/web/reader/69532da0717d3026695636ek1f032c402131f0e3dad99f3) 
   * SpringBoot整合RabbitMQ
+    * [mall整合RabbitMQ实现延迟消息](http://www.macrozheng.com/#/architect/mall_arch_09) 
+  * SpringBoot整合Elasticsearch
+    * [mall整合Elasticsearch实现商品搜索](http://www.macrozheng.com/#/architect/mall_arch_07) 
   * SpringBoot整合Kafka
     * [Spring Boot整合Kafka](https://mrbird.cc/Spring-Boot-Kafka.html) 
     * [SpringBoot集成kafka全面实战](https://www.jianshu.com/p/b30cbeb400a1)
+  * SpringBoot整合OSS
+    * [mall整合OSS实现文件上传](http://www.macrozheng.com/#/architect/mall_arch_10) 
   * SpringBoot整合Solr
-  * SpringBoot整合ElasticSearch
   * SpringBoot整合WebSocket
   * SpringBoot整合分布式文件系统 
   * SpringBoot整合前端框架
