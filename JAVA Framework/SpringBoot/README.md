@@ -443,6 +443,8 @@
 * [16 SpringBoot服务器推送技术](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%8E%A8%E9%80%81%E6%8A%80%E6%9C%AF/README.md)
 * [17 邮件发送的整合与使用](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E9%82%AE%E4%BB%B6%E5%8F%91%E9%80%81%E7%9A%84%E6%95%B4%E5%90%88%E4%B8%8E%E4%BD%BF%E7%94%A8/README.md)
 * [18 SpringBoot分布式应用开发](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%88%86%E5%B8%83%E5%BC%8F%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91/README.md)
+  * 分布式WebSocket解决方案
+    * [欢迎来借鉴分布式WebSocket解决方案](https://www.jianshu.com/p/673f5253f07d) 
   * [Spring Boot Eureka服务器](https://www.yiibai.com/spring-boot/spring_boot_eureka_server.html)
     * [Spring Boost Eureka服务注册](https://www.yiibai.com/spring-boot/spring_boot_service_registration_with_eureka.html) 
   * [Spring Boot Zuul代理服务器和路由](https://www.yiibai.com/spring-boot/spring_boot_zuul_proxy_server_and_routing.html)
