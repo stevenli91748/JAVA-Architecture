@@ -165,6 +165,14 @@
 
 
 
+----
+
+### 资料
+[追风人聊springcloud](https://www.jianshu.com/u/0be9507708ca)|[木子教程 ](https://www.jianshu.com/u/8cc556322f92)|[huan1993](https://www.jianshu.com/u/30c5164f71f6)|
+---|---|---|
+
+
+
 ## SpringCloud版本依赖
 
 [SpringBoot与SpringCloud的版本对应详细版](https://blog.csdn.net/qq32933432/article/details/89375630)|[SpringCloud各个版本对应最优的SpringBoot版本](https://www.kancloud.cn/hanxt/springcloud/1599296)|[Spring Cloud组件的选型](https://www.kancloud.cn/hanxt/springcloud/1599297)|
