@@ -21,6 +21,7 @@
 * [Elasticsearch顶尖高手系列-高手进阶篇](https://www.bilibili.com/video/av73036633)
 
 # 有用的参考
+* [Elasticsearch 升级 7.x 版本后，我感觉掉坑里了！](http://www.macrozheng.com/#/technology/elasticsearch_upgrade)
 * [Elasticsearch快速入门，掌握这些刚刚好！](https://mp.weixin.qq.com/s/cohWZy_eUOUqbmUxhXzzNA)
 * [Elasticsearch项目实战，商品搜索功能设计与实现！](http://www.macrozheng.com/#/technology/product_search)
 * [Elasticsearch官方已支持SQL查询，用起来贼方便！](http://www.macrozheng.com/#/reference/elasticsearch_sql_start)
