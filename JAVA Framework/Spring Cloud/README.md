@@ -498,6 +498,8 @@
   * Spring Cloud Deployer
   * Spring Cloud Task
   * Spring Batch 
+* SpringCloud 2020.0.4 系列之 Stream 消息广播 
+  * [SpringCloud 2020.0.4 系列之 Stream 消息广播 ](https://www.jianshu.com/p/34c4143c7247) 
 * Spring Cloud 与 Serverless
   * Serverless
   * Java Function
