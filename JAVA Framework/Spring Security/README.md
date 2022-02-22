@@ -109,4 +109,5 @@ Gitee: https://gitee.com/haoxr
 * [1. mall整合SpringSecurity和JWT实现认证和授权（一）](https://mp.weixin.qq.com/s/HFAfcSGANrdVJeTmT-7X_A)
 * [2. mall整合SpringSecurity和JWT实现认证和授权（二）](https://mp.weixin.qq.com/s/yO_8nAN-zoCB86ep4nuAOg)
 * [3. 仅需四步，整合SpringSecurity+JWT实现登录认证！](http://www.macrozheng.com/#/technology/springsecurity_use)
-* [4. 手把手教你搞定权限管理，结合Spring Security实现接口的动态权限控制！](http://www.macrozheng.com/#/technology/permission_back)
+* [4. 手把手教你搞定权限管理，结合Spring Security实现接口的动态权限控制！---实现了对后端接口的动态权限控制](http://www.macrozheng.com/#/technology/permission_back)
+* [5. 手把手教你搞定权限管理，结合Vue实现菜单的动态权限控制！---在前端项目如何结合Vue来实现菜单的动态权限控制](http://www.macrozheng.com/#/technology/permission_front)
