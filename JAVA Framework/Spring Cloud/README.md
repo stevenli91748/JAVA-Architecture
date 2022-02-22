@@ -491,6 +491,8 @@
       * [Spring-Cloud-Stream消息框架](https://www.kancloud.cn/zlt2000/microservices-platform/1026656) 
     * Apache Kafka
 * SMS 短信
+* Spring Cloud Stream 
+  * [Spring Cloud Stream 自定义消息通道](https://www.jianshu.com/p/d322c25b7966) 
 * [Spring Cloud版本控制与灰度发布](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6%E4%B8%8E%E7%81%B0%E5%BA%A6%E5%8F%91%E5%B8%83/README.md)
 * 微服务的高级主题---Spring生态消息驱动
   * Spring与消息
