@@ -143,7 +143,7 @@
 * [前后端分离式开发：高效协作10板斧](https://mp.weixin.qq.com/s/niYHlrCDIkA1NqPVI_VJ8w)
 * [前后端都分离了，该搞个好用的API管理系统了！](https://mp.weixin.qq.com/s/Ahs6fnIfFVVPOn3NZpIsNA)
 * [前后端分离项目，如何优雅实现文件存储！](http://www.macrozheng.com/#/technology/minio_use)
-
+* [前后端分离项目，引入Spring Cloud Gateway遇到的一个问题](http://www.macrozheng.com/#/technology/gateway_cors)
 
 # API网关的分类
   
