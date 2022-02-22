@@ -50,6 +50,7 @@
   * SpringBoot整合RabbitMQ
   * SpringBoot整合Kafka
     * [Spring Boot整合Kafka](https://mrbird.cc/Spring-Boot-Kafka.html) 
+    * [SpringBoot集成kafka全面实战](https://www.jianshu.com/p/b30cbeb400a1)
   * SpringBoot整合Solr
   * SpringBoot整合ElasticSearch
   * SpringBoot整合WebSocket
