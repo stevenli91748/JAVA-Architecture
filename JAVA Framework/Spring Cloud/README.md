@@ -559,6 +559,7 @@
          * [Zuul网关配置](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%20Netflix%E5%A5%97%E4%BB%B6/Zuul.md)
        * Spring Cloud Gateway环境配置
          * [Spring Cloud Gateway网关配置](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%E5%8E%9F%E7%94%9F%E5%8F%8A%E5%85%B6%E4%BB%96%E6%95%B4%E5%90%88%E7%BB%84%E4%BB%B6/Gateway.md)
+         * [Spring Cloud Gateway + Jwt + Oauth2 实现网关的鉴权操作](https://www.jianshu.com/p/c9f0f1c7333c)
      * [多维度监控微服务的可视化平台环境配置](https://www.kancloud.cn/mrbird/spring-cloud/1333138)
        * Prometheus---获取、存储监控数据，供第三方查询
        * Grafana---提供Web页面，从Prometheus获取监控数据可视化展示
