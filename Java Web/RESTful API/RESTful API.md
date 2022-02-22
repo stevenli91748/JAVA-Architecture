@@ -90,6 +90,7 @@
 * [微服务手册：API接口9个生命节点，构建全生命周期管理](https://www.toutiao.com/i6900147166866702851/?group_id=6900147166866702851)
 * [如何设计一个安全的对外接口，老司机总结了这几点.](https://mp.weixin.qq.com/s/i4N5-ftqNdgottfcxigHxQ)
 * [Spring Boot 如何优雅的进行字段校验？写得太好了！](https://mp.weixin.qq.com/s/EfIh_izIeUv4zNqcDxf-hg)
+* [SpringBoot中处理校验逻辑的两种方式，真的很机智！](http://www.macrozheng.com/#/technology/springboot_validator)
 * [springboot2.2.X手册：构建多元化的API接口，我们这样子设计](https://www.toutiao.com/i6824397028622074379/?group_id=6824397028622074379&wid=1627684804783)
 * [看看人家那后端API接口写得，那叫一个优雅！---着重介绍一下后端服务器如何实现把数据返回给前端](https://www.jianshu.com/p/3c1d3ba5f56d)
 * [如何设计一个牛逼的API接口](https://segmentfault.com/a/1190000037503942)
