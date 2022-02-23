@@ -25,8 +25,8 @@
 ---|---|---|
 
 
-[RESTful Basics Tutorial with Examples](https://www.javaguides.net/p/restful-tutorial.html)|[Jersey Rest Api Examples](https://www.javaguides.net/p/jersey-rest-examples.html)|[Guide to Standard JAX-RS RESTful Api Annotations](https://www.javaguides.net/2018/06/guide-to-standard-jax-rs-annotations.html)|
----|---|---|
+[Guide to Standard JAX-RS RESTful Api Annotations](https://www.javaguides.net/2018/06/guide-to-standard-jax-rs-annotations.html)|
+---|---|
 
 
 [开源商城系统-API文档（单商户）例子，有参考价值](https://www.kancloud.cn/yi_xiang_42/likeshop_api_v2_x)|
@@ -54,6 +54,9 @@
 ---|
 
 # 例子
+
+[RESTful Basics Tutorial with Examples](https://www.javaguides.net/p/restful-tutorial.html)|[Jersey Rest Api Examples](https://www.javaguides.net/p/jersey-rest-examples.html)
+---|---|
 
 [Spring Boot API Project Seed 是一个基于Spring Boot & MyBatis的种子项目，用于快速构建中小型API、RESTful API项目](https://github.com/lihengming/spring-boot-api-project-seed)|
 ---|
