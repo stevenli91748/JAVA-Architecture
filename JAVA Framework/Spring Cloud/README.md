@@ -120,7 +120,7 @@
 [阿里巴巴 知行动手实验室](https://start.aliyun.com/)|[JAVA技术选型以及技术学习都有极强的指导性作用](https://mp.weixin.qq.com/s?__biz=MzU1Nzg4NjgyMw==&mid=2247488725&idx=1&sn=0a5645a7668e57a98216900415bd57b7&scene=21#wechat_redirect)|
 ---|---|
 
-[Spring Cloud 2020 版本最佳实践，你落伍了！](https://mp.weixin.qq.com/s/cyC3fuPYmGhhGJULDLsZyQ)|
+[Spring Cloud 2020 版本最佳实践，你落伍了！](https://github.com/alibaba/spring-cloud-alibaba/wiki/%E7%89%88%E6%9C%AC%E8%AF%B4%E6%98%8E)|
 ---|
 
 [极客教程---提供最全面最通俗易懂的IT技术教程，包括基础教程和高级教程](https://geek-docs.com/)|[Spring Cloud 学习资料汇总](http://www.ityouknow.com/springcloud/2016/12/30/springcloud-collect.html)|
