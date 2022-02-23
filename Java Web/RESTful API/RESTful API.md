@@ -24,8 +24,6 @@
 [Spring Boot + GraphQL 才是 API 的未来！](https://mp.weixin.qq.com/s/0PnHhG_AcPxUJIClvx1fdQ)|[GraphQL 入门看这篇就够了](https://chinese.freecodecamp.org/news/a-detailed-guide-to-graphql/)|[一个基于 Spring 极度简单的 Restful API 工具，非常好用](https://mp.weixin.qq.com/s/Mnz26kCVEyQWckkOKPkJ-A)|
 ---|---|---|
 
-[Spring Boot API Project Seed 是一个基于Spring Boot & MyBatis的种子项目，用于快速构建中小型API、RESTful API项目](https://github.com/lihengming/spring-boot-api-project-seed)|
----|
 
 [RESTful Basics Tutorial with Examples](https://www.javaguides.net/p/restful-tutorial.html)|[Jersey Rest Api Examples](https://www.javaguides.net/p/jersey-rest-examples.html)|[Guide to Standard JAX-RS RESTful Api Annotations](https://www.javaguides.net/2018/06/guide-to-standard-jax-rs-annotations.html)|
 ---|---|---|
@@ -56,6 +54,10 @@
 ---|
 
 # 例子
+
+[Spring Boot API Project Seed 是一个基于Spring Boot & MyBatis的种子项目，用于快速构建中小型API、RESTful API项目](https://github.com/lihengming/spring-boot-api-project-seed)|
+---|
+
 
 [Spring Boot构建 CRUD服务 RESTful Web API接口的完整例子1](https://www.yiibai.com/spring-boot/spring_boot_building_restful_web_services.html)|[Spring Boot 项目实践之 RESTful API 设计与实现](https://github.com/ZHENFENG13/spring-boot-projects/tree/main/SpringBoot%E5%85%A5%E9%97%A8%E6%A1%88%E4%BE%8B%E6%BA%90%E7%A0%81/spring-boot-RESTful-api)|
 ---|---|
