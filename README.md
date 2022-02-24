@@ -368,7 +368,7 @@ VisualVM分析工具|[Jenkins](https://github.com/stevenli91748/JAVA-Architectur
 
 # ShardingSphere （包括 Sharding-JDBC、Sharding-Proxy 和 Sharding-Sidecar ） 和 MyCat 两者都是常用分布式数据库中间件，分库分表等场景都会用到。ShardingSphere 的关键评分位列所有 Java 项目的第 72 位，MyCat 并没上榜
 
-ShardingSphere|MyCat|
+[ShardingSphere](https://github.com/stevenli91748/Database/blob/master/ShardingSphere/README.md)|MyCat|
 ---|---|
 
 
