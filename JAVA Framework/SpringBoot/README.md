@@ -357,6 +357,23 @@
  
 ---
 
+* Spring Boot Path
+  * Spring core basics
+    * Spring DI concepts
+    * Spring IOC Container(BeanFactory, ApplicationContext)
+    * AOP 
+    * Bean Scopes
+    * Annotations
+    * life cycle callbacks
+    * bean configuration style(XML , Annotations, @Beans )
+    * jdbcTemplate, JmsTemplate
+  * learn how Spring Boot Auto Configuration works
+    * Spring Boot auto-configuration automatically configure a spring 
+  * Building RESTful Web Services
+  * Build Web Applications
+  * Develop Microservice with Spring Boot and Spring Cloud 
+
+
 # 目录
 * [0 SpringBoot 基础知识 核心知识](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/README.md)
 * [Spring Boot CLI教程](https://www.yiibai.com/springbootcli/)
@@ -559,6 +576,7 @@
 
 
 # Spring Boot视频
+ * [How to Learn Spring Boot Step by Step - Spring Boot Learning Path](https://www.youtube.com/watch?v=nZFe5ITz11I)
  * [Spring Boot and Angular Tutorial - Build a Reddit Clone (Coding Project)](https://www.youtube.com/watch?v=DKlTBBuc32c)
  * [SpringBoot开发常用技术整合](https://www.imooc.com/learn/956)
  * [Spring Boot热部署](https://www.imooc.com/learn/915)
