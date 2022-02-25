@@ -372,6 +372,12 @@
   * Building RESTful Web Services
   * Build Web Applications
   * Develop Microservice with Spring Boot and Spring Cloud 
+  * Follow the community, read OFFICIAL Documentation and blogs
+  * Other Spring Boot features
+    * spring boot actuatior
+    * logging
+    * profiliing
+    * dev tools 
 
 
 # 目录
