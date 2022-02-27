@@ -9,28 +9,35 @@
 [Spring3.X 注解精华](https://blog.csdn.net/chen19901211/article/details/84227368?utm_medium=distribute.pc_relevant.none-task-blog-OPENSEARCH-9.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-OPENSEARCH-9.nonecase)|[Spring中的各种注解深入理解](https://zhuanlan.zhihu.com/p/115107628)|[标记接口,注解和注解处理器的前世今生](https://zhuanlan.zhihu.com/p/143143682)|[Spring Boot 这么火，常用注解和原理都给你整理好了！](https://zhuanlan.zhihu.com/p/97711788)|
 ---|---|---|---|
 
+# 目录
 
-# [Java 元注解](https://mp.weixin.qq.com/s?__biz=MzI3ODcxMzQzMw==&mid=2247484195&idx=1&sn=e28f9c3a2f7628061fe15bef668f2ea7&scene=21#wechat_redirect)
+* [Java 元注解](https://mp.weixin.qq.com/s?__biz=MzI3ODcxMzQzMw==&mid=2247484195&idx=1&sn=e28f9c3a2f7628061fe15bef668f2ea7&scene=21#wechat_redirect)
+* Spring的注解
+  * [Spring Core Annotations](https://www.baeldung.com/spring-core-annotations)
+    * [15 Spring Core Annotations](https://www.javaguides.net/2018/10/15-spring-core-annotations.html)
+  * [Spring Web Annotations](https://www.baeldung.com/spring-mvc-annotations)
+    * [Spring MVC Annotations ](https://www.javaguides.net/2018/11/spring-web-mvc-annotations.html) 
+  * [Spring Scheduling Annotations](https://www.baeldung.com/spring-scheduling-annotations)
+    * [Spring Scheduling Annotations](https://www.javaguides.net/2018/10/spring-scheduling-annotations.html) 
+  * [Spring Data Annotations](https://www.baeldung.com/spring-data-annotations)
+  * [Spring Bean Annotations](https://www.baeldung.com/spring-bean-annotations)
+* Spring Boot的注解
+  * [Spring Boot Annotations](https://www.javaguides.net/2018/10/spring-boot-annotations.html) 
+  * [Spring Boot框架里经常用到的注解 ](https://www.pianshen.com/article/8357683291/)
+  * [Spring Boot Annotations](https://www.baeldung.com/spring-boot-annotations) 
+
+
 
 [@Targe](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%E6%B3%A8%E8%A7%A3/%40Target%20.md)|[@Retention](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%E6%B3%A8%E8%A7%A3/%40Retention.md)|[@Documented](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%E6%B3%A8%E8%A7%A3/%40Documented.md)|[@Inherited](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%E6%B3%A8%E8%A7%A3/%40Inherited.md)|@interface|[@Native](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%E6%B3%A8%E8%A7%A3/%40Native.md)|[@Repeatable](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%E6%B3%A8%E8%A7%A3/%40Repeatable.md)|
 ---|---|---|---|---|---|---|
 
-# Spring的注解
- 
-* [Spring Core Annotations](https://www.baeldung.com/spring-core-annotations)
-* [Spring Web Annotations](https://www.baeldung.com/spring-mvc-annotations)
-* [Spring Scheduling Annotations](https://www.baeldung.com/spring-scheduling-annotations)
-* [Spring Data Annotations](https://www.baeldung.com/spring-data-annotations)
-* [Spring Bean Annotations](https://www.baeldung.com/spring-bean-annotations)
+
+---
 
 [@Autowired](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%E6%B3%A8%E8%A7%A3/%40Autowired.md)|[@Bean](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%E6%B3%A8%E8%A7%A3/%40Bean.md)|
 ---|---|
 
 
-# Spring Boot的注解
-
-* [Spring Boot框架里经常用到的注解 ](https://www.pianshen.com/article/8357683291/)
-* [Spring Boot Annotations](https://www.baeldung.com/spring-boot-annotations) 
  
 [@SpringBootApplication](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%E6%B3%A8%E8%A7%A3/%40SpringBootApplication.md)|[@SpringBootConfiguration](https://github.com/stevenli91748/JAVA-Architecture/tree/master/JAVA%20Framework/SpringBoot/SpringBoot注解)|[@EnableAutoConfiguration](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%E6%B3%A8%E8%A7%A3/%40EnableAutoConfiguratio.md)|
 ---|---|---|
