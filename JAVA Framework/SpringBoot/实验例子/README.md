@@ -20,8 +20,13 @@
         * [mall整合SpringBoot+MyBatis搭建基本骨架](http://www.macrozheng.com/#/architect/mall_arch_01) 
       * SpringBoot整合MyBatis(注解方式)
         * [Spring Boot与MyBatis的集成](https://weread.qq.com/web/reader/69532da0717d3026695636ek70e32fb021170efdf2eca12)
+    * Spring Boot 2 Integration CRUD REST API
+      * [Spring Boot 2 JPA MySQL CRUD + Testing REST APIs via Postman  Example](https://www.javaguides.net/2018/09/spring-boot-2-jpa-mysql-crud-example.html)
+      * [Spring Boot 2 CRUD REST APIs Integration Testing](https://www.javaguides.net/2018/09/spring-boot-2-rest-apis-integration-testing.html)     
     * SpringBoot整合JPA
       *  [Spring Boot 2 JPA MySQL CRUD + Testing REST APIs via Postman  Example](https://www.javaguides.net/2018/09/spring-boot-2-jpa-mysql-crud-example.html)
+    * Spring Boot 2 CRUD REST APIs Integration Testing
+      * [Spring Boot 2 CRUD REST APIs Integration Testing](https://www.javaguides.net/2018/09/spring-boot-2-rest-apis-integration-testing.html)     
     * SpringBoot整合Druid
     * SpringBoot整合MySQL
     * SpringBoot整合MongoDB
