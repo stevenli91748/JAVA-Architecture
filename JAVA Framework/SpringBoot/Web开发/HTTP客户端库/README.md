@@ -4,6 +4,7 @@
    * Java’s HttpURLConnection and HttpsURLConnection---Feign在默认情况下使用的是JDK原生的URLConnection发送HTTP请求，没有连接池, 可参考该文 [Which Java HTTP client should I use in 2020?](https://www.mocklab.io/blog/which-java-http-client-should-i-use-in-2020/)
    * The new HttpClient, introduced in Java 11---可参考该文 [Which Java HTTP client should I use in 2020?](https://www.mocklab.io/blog/which-java-http-client-should-i-use-in-2020/)
    * Apache HTTPClient--- 可参考该文[ Which Java HTTP client should I use in 2020?](https://www.mocklab.io/blog/which-java-http-client-should-i-use-in-2020/)
+     * [Apache HttpClient Tutorial](https://www.javaguides.net/p/apache-httpclient-tutorial.html) 
    * [OkHttp](https://www.jianshu.com/p/1cb7c8d35dbe)---可参考该文[ Which Java HTTP client should I use in 2020?](https://www.mocklab.io/blog/which-java-http-client-should-i-use-in-2020/)
    * AsyncHttpClient---可参考该文[ Which Java HTTP client should I use in 2020?](https://www.mocklab.io/blog/which-java-http-client-should-i-use-in-2020/)
    * Jetty HttpClient--可参考该文[ Which Java HTTP client should I use in 2020?](https://www.mocklab.io/blog/which-java-http-client-should-i-use-in-2020/)
