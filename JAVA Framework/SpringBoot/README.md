@@ -441,7 +441,7 @@
   * SpringBoot Session
     * [SpringBoot中，如何使用Session共享实现分布式部署?](https://www.jianshu.com/p/722cf586ebf9?utm_campaign=hugo&utm_medium=reader_share&utm_content=note&utm_source=weixin-friends) 
   * [Thymeleaf模板引擎](https://github.com/stevenli91748/Frontend/blob/master/Thymeleaf/Readme.md)
-  * Spring Boot中的JSON技术
+  * Spring Boot中的JSON技术--- Map Java objects to/from JSON
     * [Spring Boot中的JSON技术--mybird](https://mrbird.cc/Spring-Boot%20JSON.html) 
     * [jackson vs Fastjson ](https://mp.weixin.qq.com/s?__biz=MzU1Nzg4NjgyMw==&mid=2247488725&idx=1&sn=0a5645a7668e57a98216900415bd57b7&scene=21#wechat_redirect) 
     * [Java Jackson JSON Tutorial with Examples](https://www.javaguides.net/p/java-jackson-json-tutorial-with-examples.html)
