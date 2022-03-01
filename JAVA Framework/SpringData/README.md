@@ -10,7 +10,7 @@
   * [Spring Boot, MySQL, JPA, Hibernate Restful CRUD API Tutorial](https://www.javaguides.net/2018/09/spring-data-jpa-auditing-with-spring-boot2-and-mysql-example.html)
   * [Spring Boot 2 JPA MySQL CRUD Example](https://www.javaguides.net/2018/09/spring-boot-2-jpa-mysql-crud-example.html)
   * [Spring Data JPA Auditing with Spring Boot 2 and MySQL Example](https://www.javaguides.net/2018/09/spring-data-jpa-auditing-with-spring-boot2-and-mysql-example.html)
-  * []() 
+  * [Spring Boot 2 Exception Handling for REST APIs](https://www.javaguides.net/2018/09/spring-boot-2-exception-handling-for-rest-apis.html) 
 * Spring Data With MySQL
 * Spring Data With MongoDB
 * Spring Data With ElasticSearch
