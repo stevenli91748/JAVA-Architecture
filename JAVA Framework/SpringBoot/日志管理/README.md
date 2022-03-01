@@ -6,11 +6,17 @@
 
 
 # 目录
+* [Spring Boot 2 Logging SLF4j Logback and LOG4j2 Example---日志例子](https://www.javaguides.net/2018/09/spring-boot-2-logging-slf4j-logback-and-log4j-example.html)
 * [Spring Boot日志](https://www.yiibai.com/spring-boot/spring_boot_logging.html)
 * [Spring Boot统一日志框架](http://c.biancheng.net/spring_boot/slf4j-logback.html)
 * [Spring Boot SLF4J日志实例](https://www.yiibai.com/spring-boot/slf4j-logging-example.html)
 * [Spring Boot日志配置及输出](http://c.biancheng.net/spring_boot/log-config.html)
-* 
+
+
+
+
+
+
 # 有用的参考
 * [我所读过的最好的一篇分布式技术文章）](https://www.cnblogs.com/foreach-break/p/notes_about_distributed_system_and_The_log.html)
 * [日志: 分布式系统的核心](https://github.com/aCoder2013/blog/issues/20)
