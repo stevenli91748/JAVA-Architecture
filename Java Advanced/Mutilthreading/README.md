@@ -107,6 +107,7 @@
 
 
 # 有用的参考
+  * [线程安全和线程同步](https://blog.csdn.net/camlot_/article/details/52004292)
   * [多线程与高并发](https://www.cnblogs.com/Courage129/category/1717671.html)
   * [图解进程线程、互斥锁与信号量-看完不懂你来打我](https://juejin.im/post/6869170911342395399)
   * [背熟这99道Java多线程面试题,和面试官扯皮就没问题了](https://www.jianshu.com/p/3e88a5fe75f0)
