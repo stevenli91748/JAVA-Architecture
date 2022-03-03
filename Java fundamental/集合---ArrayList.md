@@ -6,6 +6,7 @@
 
 
 # 参考 
+* [为什么线程安全的List推荐使用CopyOnWriteArrayList，而不是Vector](https://segmentfault.com/a/1190000038689569) 
 * [ArrayList & LinkedList源码解析](https://mrbird.cc/LinkedList-ArrayList%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90.html)
 * [Java ArrayList](https://www.runoob.com/java/java-arraylist.html)
 * [ArrayList基本用法](https://blog.csdn.net/GongchuangSu/article/details/51514389)
