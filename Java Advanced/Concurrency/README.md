@@ -18,8 +18,8 @@
 
 ---
 
-[Java 全栈知识体系---Java并发知识体系详解](https://www.pdai.tech/md/java/thread/java-thread-x-overview.html)|
----|
+[Java 全栈知识体系---Java并发知识体系详解](https://www.pdai.tech/md/java/thread/java-thread-x-overview.html)|[Java Multithreading Tutorial example](https://www.javaguides.net/p/java-multithreading-utorial.html)|[Java Concurrency Tutorial example](https://www.javaguides.net/p/java-concurrency-tutorial.html)|
+---|----|---|
 
 [高并发三部曲](https://www.cnblogs.com/crazymakercircle/p/14365820.html)|[高并发分布式架构演进之路](https://zhuanlan.zhihu.com/p/149369244)|
 ---|---|
