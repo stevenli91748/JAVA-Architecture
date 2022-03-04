@@ -19,8 +19,8 @@
 
 ---
 
-[Java并发知识体系详解](https://www.pdai.tech/md/java/thread/java-thread-x-overview.html)|[Java Multithreading Tutorial example](https://www.javaguides.net/p/java-multithreading-utorial.html)|
----|---|
+[Java并发知识体系详解](https://www.pdai.tech/md/java/thread/java-thread-x-overview.html)|[Java Multithreading Tutorial example](https://www.javaguides.net/p/java-multithreading-utorial.html)|[Java Concurrency Tutorial example](https://www.javaguides.net/p/java-concurrency-tutorial.html)|
+---|---|---|
 
 
 [完美解决工作中遇到的Java多线程问题，以后遇到也不慌](https://www.bilibili.com/video/BV1is411j7n4)|[分布式场景中确保线程安全的解决方案，Redis实现分布式锁](https://www.bilibili.com/video/BV1Ks411j7sa)|
