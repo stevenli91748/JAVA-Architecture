@@ -32,7 +32,7 @@
 * [SpringBoot中如何优雅的使用多线程](https://juejin.cn/post/6844904173977206797)
 * [SpringBoot 使用线程池](https://crossoverjie.top/2018/07/29/java-senior/ThreadPool/)
 * [SpringBoot结合线程池解决多线程问题实录](https://www.cxyzjd.com/article/GFJ0814/92422245)
-
+* [Spring-Boot中如何使用多线程处理任务](https://zhuanlan.zhihu.com/p/49416067)
 
 
 # 并发
