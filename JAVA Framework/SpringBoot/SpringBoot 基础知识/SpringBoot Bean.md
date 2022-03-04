@@ -1,6 +1,6 @@
 * Spring中Bean的scope有五种---实际上，Spring最基本的scope只有两种，即singleton和prototype
   * singleton---单例Bean，顾名思义具有单例模式的所有特性，在spring容器里面只会初始化出一个bean实例，存于缓存中。后续的请求都公用这个对象, 最简单的创建单例bean的方式，就是直接在类名上
-                面加@Service注解
+                面加@Service注解,单例bean也存在缺点，主要表现在在并发环境下的线程不安全
   * prototype---即原型Bean，每次请求时都会创建新的bean实例直接使用,创建原型Bean，需要显示指定scope属性。<bean id="accountService" class="com.foo.DefaultAccountService" scope="prototype"/>
   * request
   * session
