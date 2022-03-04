@@ -21,7 +21,7 @@
 
 
 # 参考
-
+* [Spring Boot线程安全指南](https://zhuanlan.zhihu.com/p/60346760)
 * [Spring中Bean的scope](https://www.jianshu.com/p/36a065065e3c)
 * [决定组件线程安全性的主要因素是其作用域Scope](https://zhuanlan.zhihu.com/p/60346760)
 * [spring中Bean生成过程解析](https://www.jianshu.com/p/8588da02da31)
