@@ -8,3 +8,8 @@
   * [Java代码装配Bean](https://mrbird.cc/Java%E4%BB%A3%E7%A0%81%E8%A3%85%E9%85%8DBean.html)
 * [How to display all beans loaded by Spring Boot](https://mkyong.com/spring-boot/how-to-display-all-beans-loaded-by-spring-boot/)
 * [Spring Boot 获取 bean 的 3 种方式！还有谁不会？？](https://mp.weixin.qq.com/s/9SaIP4f7vz7VuWGTs0N10w)
+
+
+# 参考
+
+* [Spring中Bean的scope](https://www.jianshu.com/p/36a065065e3c)
