@@ -33,6 +33,7 @@
 * [SpringBoot 使用线程池](https://crossoverjie.top/2018/07/29/java-senior/ThreadPool/)
 * [SpringBoot结合线程池解决多线程问题实录](https://www.cxyzjd.com/article/GFJ0814/92422245)
 * [Spring-Boot中如何使用多线程处理任务](https://zhuanlan.zhihu.com/p/49416067)
+* [Spring Boot 对多线程支持-提高程序执行效率](https://www.cnblogs.com/felixzh/p/12753365.html#:~:text=spring%20boot%20%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E5%A4%9A,%E5%B0%B1%E5%8F%AF%E4%BB%A5%E4%BD%BF%E7%94%A8%E7%BA%BF%E7%A8%8B%E6%B1%A0%E3%80%82)
 
 
 # 并发
