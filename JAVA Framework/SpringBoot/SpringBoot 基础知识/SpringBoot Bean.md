@@ -13,3 +13,4 @@
 # 参考
 
 * [Spring中Bean的scope](https://www.jianshu.com/p/36a065065e3c)
+* [决定组件线程安全性的主要因素是其作用域Scope](https://zhuanlan.zhihu.com/p/60346760)
