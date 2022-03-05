@@ -39,6 +39,8 @@
 * [21 (疯狂创客圈) Java高并发核心编程 (卷2)](https://weread.qq.com/web/reader/9b93254072456ac19b9a176)
   * [21.1 《Java高并发核心编程 (卷2)》随书源码、说明](https://www.cnblogs.com/crazymakercircle/p/9904544.html) 
 
+* [22 java异步编程实战](https://weread.qq.com/web/reader/44332cc071a486a7443c539k16732dc0161679091c5aeb1)
+
 * [高效自动化测试平台：设计与开发实战](https://weread.qq.com/web/reader/4ce323907204397b4cedf59)
 
 ## 注解
