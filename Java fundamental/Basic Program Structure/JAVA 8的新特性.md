@@ -51,8 +51,10 @@
 * [方法引用、构造器引用和数组引用](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK8%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#3-方法引用-构造器引用和数组引用)
 * [接口支持默认方法和静态方法](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK8%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#4-接口支持默认方法和静态方法)
 * [Stream API](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK8%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#5-Stream-API)
+  * [Java 8 Stream API Tutorial example](https://www.javaguides.net/p/java-8-stream-api-tutorial.html) 
 * [增强类型推断](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK8%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#6-增强类型推断)
 * [新的日期时间 API](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK8%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#7-新的日期时间API)
+  * [Java 8 Date Time API Tutorial example](https://www.javaguides.net/p/java-8-date-time-api-tutorial.html) 
 * [Optional 类](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK8%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#8-Optional-类)
 * [重复注解和类型注解](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK8%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#9-重复注解和类型注解)
 
