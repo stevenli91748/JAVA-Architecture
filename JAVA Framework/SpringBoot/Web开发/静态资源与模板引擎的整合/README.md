@@ -2,8 +2,8 @@
 [WebJars官网---WebJars 可以将 Web 前端资源（JS，CSS 等）打成一个个的 Jar 包，然后将这些 Jar 包部署到 Maven 中央仓库中进行统一管理](https://www.webjars.org/)|
 ---|
 
-[Spring Boot静态资源映射](http://c.biancheng.net/spring_boot/static-mapping.html)|
----|
+[Thymeleaf Tutorial with example](https://www.javaguides.net/p/thymeleaf-tutorial.html)|[Spring Boot静态资源映射](http://c.biancheng.net/spring_boot/static-mapping.html)|
+---|---|
 
 * [Springboot多种方法处理静态资源：设置并访问静态资源目录](https://www.jianshu.com/p/794ddca13101)
 * [使用Thymeleaf模板引擎渲染web视图](http://blog.didispace.com/springbootweb/)
