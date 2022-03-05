@@ -12,10 +12,14 @@
 
 ## 异步任务
 * 异步编程场景
-  * 单JVM内的异步编程 
+  * 1 单JVM内的异步编程 
     * [需要异步地处理一些事情，而不需要知道异步任务的结果  ](https://weread.qq.com/web/reader/44332cc071a486a7443c539k16732dc0161679091c5aeb1)
     * [有时候我们还需要在主线程等待异步任务的执行结果](https://weread.qq.com/web/reader/44332cc071a486a7443c539k16732dc0161679091c5aeb1)
-
+      * Future
+      * CompletableFuture
+      * Stream + CompletableFuture
+      * Reactor、RxJava等反应式API
+  * 2 [跨网络的异步编程 ](https://weread.qq.com/web/reader/44332cc071a486a7443c539k16732dc0161679091c5aeb1)
 * [java异步编程实战](https://weread.qq.com/web/reader/44332cc071a486a7443c539k16732dc0161679091c5aeb1)
 * [Spring Boot 中的异步调用](https://mrbird.cc/Spring-Boot-Async.html)
 * [使用@Async实现异步调用](http://blog.didispace.com/springbootasync/)
