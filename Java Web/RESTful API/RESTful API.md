@@ -18,6 +18,9 @@
 ---
 
 
+[REST API Tutorial with example](https://www.javaguides.net/p/rest-api-tutorial.html)|
+---|
+
 [你还在用 Postman？IDEA REST Client 好用到爆，Postman 可以扔了](https://mp.weixin.qq.com/s/QwoZkMxOTgCHhKWOv2rEag)|[微服务如何聚合Swagger实现接口文档管理](https://developer.51cto.com/article/701318.html)|
 ---|---|
 
