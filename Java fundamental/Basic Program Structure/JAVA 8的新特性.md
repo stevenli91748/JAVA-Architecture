@@ -60,6 +60,7 @@
 * [重复注解和类型注解](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK8%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#9-重复注解和类型注解)
 
 # [JDK9新特性](https://www.pdai.tech/md/java/java8up/java9.html)
+* [Java 9 Tutorial example](https://www.javaguides.net/p/java-9-tutorial.html)
 * [目录结构](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK9%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#1-目录结构)
 * [模块化系统](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK9%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#2-模块化系统)
 * [jshell](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK9%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#3-jshell)
