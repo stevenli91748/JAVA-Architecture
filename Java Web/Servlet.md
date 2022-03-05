@@ -1,7 +1,7 @@
 
 
-[极客教程  Servlet篇](https://geek-docs.com/servlet)|
----|
+[极客教程  Servlet篇](https://geek-docs.com/servlet)|[Servlet Tutorial with example](https://www.javaguides.net/p/servlet-tutorial.html)|
+---|---|
 
 
 
