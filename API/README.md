@@ -4,11 +4,11 @@
 目录
 ---
 
-#   [JAVA EE6 API DOCUMENTS](http://tool.oschina.net/apidocs/apidoc?api=javaEE6)
-#   [JDK 源码阅读](https://github.com/stevenli91748/JAVA-Architecture/blob/master/SourceCode/JDK1.8SourceCode.md)
+# [JAVA EE6 API DOCUMENTS](http://tool.oschina.net/apidocs/apidoc?api=javaEE6)
+# [JDK 源码阅读](https://github.com/stevenli91748/JAVA-Architecture/blob/master/SourceCode/JDK1.8SourceCode.md)
 
-#   [JAVA SE 8 API](https://docs.oracle.com/javase/8/docs/api/)
-    * [Java API Guides - Java Core Packages API Guides](https://www.javaguides.net/p/java-api-guides-java-core-packages-api.html)
+# [JAVA SE 8 API](https://docs.oracle.com/javase/8/docs/api/)
+  * [Java API Guides - Java Core Packages API Guides](https://www.javaguides.net/p/java-api-guides-java-core-packages-api.html)
     
 #   [JAVA SE 9 API](https://docs.oracle.com/javase/9/docs/api/overview-summary.html)
 
