@@ -34,6 +34,9 @@
 
 # 博客
 
+[Spring Core Tutorial with example](https://www.javaguides.net/p/spring-core-tutorial.html)|
+---|
+
 [Spring框架快速入门教程](http://c.biancheng.net/spring/)|[Spring教程](https://www.yiibai.com/spring/)|[ Java技术栈 ](https://www.javastack.cn/categories/Spring/)|
 ---|---|---|
 
