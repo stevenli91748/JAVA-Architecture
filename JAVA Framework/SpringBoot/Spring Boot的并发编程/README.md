@@ -20,6 +20,16 @@
       * Stream + CompletableFuture
       * Reactor、RxJava等反应式API
   * 2 [跨网络的异步编程 ](https://weread.qq.com/web/reader/44332cc071a486a7443c539k16732dc0161679091c5aeb1)
+    * 网络请求中RPC框架的异步编程
+      * NIO
+      * Netty + CompletableFuture
+    * [Web请求的异步编程](https://weread.qq.com/web/reader/44332cc071a486a7443c539k16732dc0161679091c5aeb1)
+      * Servlet容器对Servlet的处理都是每个请求对应一个线程这种1 : 1的模式进行处理的 
+      * WebFlux---新的使用少量线程和较少的硬件资源来处理并发的非阻塞Web技术栈,其是与Servlet技术栈并行存在的一种新技术，基于JDK8函数式编程与Netty实现天然的异步、非阻塞处理
+  * 3 异步编程框架
+    * Disruptor---高性能线程间消息传递库,其通过为事件（event）预先分配内存、无锁CAS算法、缓冲行填充、两阶段协议提交来实现多线程并发地处理不同的元素，从而实现高性能的异步处理
+    * Akka---基于Actor模式实现了天然支持分布式的使用消息进行异步处理的服务
+    * Apache RocketMetaQ  
 * [java异步编程实战](https://weread.qq.com/web/reader/44332cc071a486a7443c539k16732dc0161679091c5aeb1)
 * [Spring Boot 中的异步调用](https://mrbird.cc/Spring-Boot-Async.html)
 * [使用@Async实现异步调用](http://blog.didispace.com/springbootasync/)
