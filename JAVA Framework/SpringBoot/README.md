@@ -66,6 +66,9 @@
 
 # 学习示例
 
+[Spring Boot Tutorial with example](https://www.javaguides.net/p/spring-boot-tutorial.html)|
+---|
+
 [How to Learn Spring Boot Step by Step - Spring Boot Learning Path](https://www.youtube.com/watch?v=nZFe5ITz11I)|
 ---|
 
