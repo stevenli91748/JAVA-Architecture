@@ -11,6 +11,7 @@
 
 
 ## 异步任务
+* [java异步编程实战](https://weread.qq.com/web/reader/44332cc071a486a7443c539k16732dc0161679091c5aeb1)
 * [Spring Boot 中的异步调用](https://mrbird.cc/Spring-Boot-Async.html)
 * [使用@Async实现异步调用](http://blog.didispace.com/springbootasync/)
 * [使用@Async实现异步调用：自定义线程池](http://blog.didispace.com/springbootasync-2/)
