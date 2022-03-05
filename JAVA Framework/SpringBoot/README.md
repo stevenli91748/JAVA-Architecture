@@ -504,6 +504,9 @@
 * [24 Spring Boot中编写单元测试](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95%E7%94%A8%E4%BE%8B.md)
 * [25 spring boot actuator模块](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/spring%20boot%20actuator%E6%A8%A1%E5%9D%97/README.md)
 * 26 SpringBoot异步编程机制以及功能分析讲解
+  * [Spring框架中的异步执行](https://weread.qq.com/web/reader/44332cc071a486a7443c539k6f4322302126f4922f45dec)
+  * [Spring MVC中提供的异步处理能力](https://weread.qq.com/web/reader/44332cc071a486a7443c539ke3632bd0222e369853df322) 
+  * [异步非阻塞的WebFlux技术栈,其与Servlet技术栈是并行存在的](https://weread.qq.com/web/reader/44332cc071a486a7443c539kf7132c6022cf7177163c01c)
   * [SpringBoot技术专题-异步编程机制以及功能分析讲解](https://www.jianshu.com/p/e4d513d34a3e)
   * [异步调用如何使用最好？](https://www.jianshu.com/p/3c589f4ee4ef)
   * [Spring DeferredResult 异步请求](https://www.jianshu.com/p/fe819a4c4294)
