@@ -21,7 +21,10 @@
 * 异步编程场景
   * 1 单JVM内的异步编程 
     * [需要异步地处理一些事情，而不需要知道异步任务的结果  ](https://weread.qq.com/web/reader/44332cc071a486a7443c539k16732dc0161679091c5aeb1)
-      * [使用线程和线程池实现异步编程 ](https://weread.qq.com/web/reader/44332cc071a486a7443c539k45c322601945c48cce2e120)
+      * [java中使用线程和线程池实现异步编程 ](https://weread.qq.com/web/reader/44332cc071a486a7443c539k45c322601945c48cce2e120)
+        * 显式使用Thread创建异步任务的两种方式
+          * 第一种方式是实现java.lang.Runnable接口的run方法，然后传递Runnable接口的实现类作为创建Thread时的参数，启动线程
+          * 第二种开启线程进行异步执行的方式是实现Thread类，并重写run方法
     * [有时候我们还需要在主线程等待异步任务的执行结果](https://weread.qq.com/web/reader/44332cc071a486a7443c539k16732dc0161679091c5aeb1)
       * Future
       * CompletableFuture
