@@ -41,7 +41,8 @@
 
 * [22 java异步编程实战](https://weread.qq.com/web/reader/44332cc071a486a7443c539k16732dc0161679091c5aeb1)
 
-* [高效自动化测试平台：设计与开发实战](https://weread.qq.com/web/reader/4ce323907204397b4cedf59)
+* [23 高性能JAVA架构： 核心原理与案例实战](https://weread.qq.com/web/reader/6ba32c40726e7c066bad7ed)
+* [24 高效自动化测试平台：设计与开发实战](https://weread.qq.com/web/reader/4ce323907204397b4cedf59)
 
 ## 注解
 [Spring Core Annotations](https://www.javaguides.net/2018/10/15-spring-core-annotations.html)|[Spring MVC Annotations with Examples](https://www.javaguides.net/2018/11/spring-web-mvc-annotations.html)|[Spring Boot Annotations](https://www.javaguides.net/2018/10/spring-boot-annotations.html)|[Spring Scheduling Annotations](https://www.javaguides.net/2018/10/spring-scheduling-annotations.html)|
