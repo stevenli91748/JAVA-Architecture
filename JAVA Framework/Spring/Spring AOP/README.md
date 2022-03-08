@@ -15,7 +15,7 @@
 * [Spring AOP 详解 1(注解方式)  例子说明](https://juejin.im/post/5d390f705188252c784a4f74)
 * [Spring AOP 详解 2(xml方式)  例子说明 先看](https://www.cnblogs.com/hongwz/p/5764917.html)
 * [深入理解Spring AOP原理](https://mrbird.cc/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Spring-AOP%E5%8E%9F%E7%90%86.html)
-
+* [Spring AOP Example](https://howtodoinjava.com/spring-aop-tutorial/)
 
 AOP动态代理|AOP静态代理|
 ---|--|
