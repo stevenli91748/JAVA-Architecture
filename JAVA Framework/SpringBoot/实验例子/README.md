@@ -70,6 +70,7 @@
   * SpringBoot整合Kafka
     * [Spring Boot整合Kafka](https://mrbird.cc/Spring-Boot-Kafka.html) 
     * [SpringBoot集成kafka全面实战](https://www.jianshu.com/p/b30cbeb400a1)
+    * [Spring Boot + Apache Kafka Hello World Example](https://www.javainuse.com/spring/spring-boot-apache-kafka-hello-world)
   * SpringBoot整合OSS
     * [mall整合OSS实现文件上传](http://www.macrozheng.com/#/architect/mall_arch_10) 
   * SpringBoot整合Solr
