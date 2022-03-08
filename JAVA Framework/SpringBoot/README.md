@@ -511,6 +511,7 @@
   * [Spring框架中的异步执行](https://weread.qq.com/web/reader/44332cc071a486a7443c539k6f4322302126f4922f45dec)
   * [Spring MVC中提供的异步处理能力](https://weread.qq.com/web/reader/44332cc071a486a7443c539ke3632bd0222e369853df322) 
   * [异步非阻塞的WebFlux技术栈,其与Servlet技术栈是并行存在的](https://weread.qq.com/web/reader/44332cc071a486a7443c539kf7132c6022cf7177163c01c)
+    * [Building Async REST APIs with Spring WebFlux example](https://howtodoinjava.com/spring-webflux/spring-webflux-tutorial/) 
   * [SpringBoot技术专题-异步编程机制以及功能分析讲解](https://www.jianshu.com/p/e4d513d34a3e)
   * [异步调用如何使用最好？](https://www.jianshu.com/p/3c589f4ee4ef)
   * [Spring DeferredResult 异步请求](https://www.jianshu.com/p/fe819a4c4294)
