@@ -496,12 +496,14 @@ SOA架构|[JPA](https://github.com/stevenli91748/JAVA-Architecture/blob/master/T
 
 # [第三阶段   Java Web开发篇](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/README.md)
 
-**重点了接servlet， tomcat， session， cookie， RESTFul API**
+
 
 [这份Java Web必读书单，值得所有Java工程师一看！](https://mp.weixin.qq.com/s?__biz=MzUyOTk5NDQwOA==&mid=2247490164&idx=2&sn=5187584a440381d81e64434fb7cc1d7e&chksm=fa59ddb3cd2e54a593c3aea509fd4330f34f1a9fa5529f799c582bd90d75bd4a920d96b611f6&scene=21#wechat_redirect)
 
 
 ### WEB服务器基础
+
+
 
 [Java Web应用程序的发展历史](https://weread.qq.com/web/reader/f6732e8071dbddd6f674178ke4d32d5015e4da3b7fbb1fa)|
 ---|
@@ -509,7 +511,7 @@ SOA架构|[JPA](https://github.com/stevenli91748/JAVA-Architecture/blob/master/T
 [HTTP](https://github.com/stevenli91748/Network/blob/master/HTTP/README.md)|HttpWatch|[Tomcat](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Tomcat/README.md)|[JSON][%JSON]|JSONP|[Java动态追踪技术探究](https://juejin.im/post/5c789892f265da2dc45390d4)|[Jmx](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/jmx/README.md)|[JAXB2](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/JAXB2/README.md 'Java Architecture for XML Binding [JAXB] is one of the most popular API and industry standard to convert Java object into XML structures and vice versa.')|
 ---|---|---|---|---|---|---|---|
 
-### Servlet和JSP
+### JAVA EE 
 
 [Servlet][%Servlet]|[JSP][%JSP]|[MVC][%MVC]|Servlet3.0特性|[前后端RESTful API网关](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/RESTful%20API/RESTful%20API.md)|[Web Service](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/webservice.md)|
 ---|---|---|---|---|---|
