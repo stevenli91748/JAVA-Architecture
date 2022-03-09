@@ -688,7 +688,11 @@ SQL语言|[MySQL](https://github.com/stevenli91748/Database/blob/master/MySQL/RE
   * [Google GSON Tutorial](https://www.javaguides.net/p/google-gson-tutorial.html)
   * [Java JSON Processing Tutorial | JSON-P](https://www.javaguides.net/2019/07/java-json-processing-tutorial.html)
   * [JSON.simple Tutorial - Read and Write JSON in Java](https://www.javaguides.net/2019/07/jsonsimple-tutorial-read-and-write-json-in-java.html)
-
+* [java logging 日志记录的API](https://www.logicbig.com/tutorials/core-java-tutorial/logging.html)
+* [Java Compiler API--- how to compile java source code programmatically and other related feature](https://www.logicbig.com/tutorials/core-java-tutorial/java-se-compiler-api.html)
+* [Pluggable Annotation Processor---how to use javax.annotation.processing, javax.lang.model.element and javax.lang.model.type packages to processor annotations at compile time](https://www.logicbig.com/tutorials/core-java-tutorial/java-se-annotation-processing-api.html)
+* [JDK Dynamic Proxies--- how to use JDK Dynamic Proxy API along with use cases.](https://www.logicbig.com/tutorials/core-java-tutorial/java-dynamic-proxies.html)
+* [Misc Java SE API](https://www.logicbig.com/tutorials/core-java-tutorial/java-se-api.html)
 
 [异常 断言和日志][%异常 断言和日志]|[反射][%反射]|[注解][%注解]|[对象容器][%容器]|[序列化与反序列化][%序列化与反序列化]|[JAVA各版本新特性详解][%java8]|[文本操作][%文本操作]|[集合][%集合]|
 ---|---|---|---|---|---|---|---|
