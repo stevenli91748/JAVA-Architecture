@@ -46,7 +46,10 @@
 # [JDK8新特性](https://www.pdai.tech/md/java/java8/java8.html)
 
 * [Jdk1.8新特性实战篇(41个案例)](https://bugstack.cn/itstack-demo-any/2019/12/10/%E6%9C%89%E7%82%B9%E5%B9%B2%E8%B4%A7-Jdk1.8%E6%96%B0%E7%89%B9%E6%80%A7%E5%AE%9E%E6%88%98%E7%AF%87(41%E4%B8%AA%E6%A1%88%E4%BE%8B).html)
-* [Java 8 Tutorial](https://www.javaguides.net/p/java-8.html)
+* Java 8 教程
+  * [Java 8 Tutorial](https://www.javaguides.net/p/java-8.html)
+  * [Java 8 Stream Tutorials](https://www.logicbig.com/tutorials/core-java-tutorial/java-util-stream.html)
+  * [Java 8 Enhancements](https://www.logicbig.com/tutorials/core-java-tutorial/java-8-enhancements.html)
 * [Lambda 表达式](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK8%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#1-Lambda-表达式)
 * [函数式接口](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK8%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#2-函数式接口)
 * [方法引用、构造器引用和数组引用](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK8%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#3-方法引用-构造器引用和数组引用)
