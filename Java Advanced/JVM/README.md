@@ -191,6 +191,7 @@ JVM实验例子|[常见JVM内存错误及解决方案](https://www.kancloud.cn/h
         * 分代算法(Generational Collecting)
         * 分区算法(Region)
       * 垃圾收集器
+        * [Java Garbage Collection with example](https://www.logicbig.com/tutorials/core-java-tutorial/gc.html) 
         * 串行回收器
           * Serial收集器
           * Serial Old收集器
