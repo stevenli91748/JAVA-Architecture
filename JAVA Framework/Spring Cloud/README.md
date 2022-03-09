@@ -129,8 +129,8 @@
 [程序猿DD---非常好](http://blog.didispace.com/)|[ 芋道源码------非常好](http://www.iocoder.cn/)|[周立的博客](http://itmuch.com/)|[My bird](https://mrbird.cc/archives/)|[纯洁的微笑---Spring Cloud](http://www.ityouknow.com/spring-cloud)|[疯狂创客圈](https://www.cnblogs.com/crazymakercircle/p/9904544.html)|[疯狂创客圈-全部作品在线阅读-微信读书](https://weread.qq.com/web/search/books?author=%E5%B0%BC%E6%81%A9)|
 ---|---|---|---|---|---|---|
 
-[Java Guides sample program](https://www.javaguides.net/)|[Source Code Sample program](https://www.sourcecodeexamples.net/)|[JavaInUse example](https://www.javainuse.com/home)|
----|---|---|
+[Java Guides sample program](https://www.javaguides.net/)|[Source Code Sample program](https://www.sourcecodeexamples.net/)|[JavaInUse example](https://www.javainuse.com/home)|[logicbig with example](https://www.logicbig.com/)|
+---|---|---|---|
 
 [Spring Boot Tutorials with example](https://mkyong.com/tutorials/spring-boot-tutorials/)|[HowToDoInJava---非常多的例子程序，包括Java的方方面面](https://howtodoinjava.com/)|
 ---|---|
