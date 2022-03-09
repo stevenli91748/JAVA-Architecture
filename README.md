@@ -513,6 +513,15 @@ SOA架构|[JPA](https://github.com/stevenli91748/JAVA-Architecture/blob/master/T
 
 ### JAVA EE 
 
+* Java EE Tutorials
+  * [Java Servlet Tutorials](https://www.logicbig.com/tutorials/java-ee-tutorial/java-servlet.html)
+  * [JAX-RS Tutorials---describe concepts of RESTful services and how to use them in Java using JAX-RS, the Java API for RESTful Web Services](https://www.logicbig.com/tutorials/java-ee-tutorial/jax-rs.html)
+  * [JPA Tutorials](https://www.logicbig.com/tutorials/java-ee-tutorial/jpa.html)
+  * [Java API for JSON Processing Tutorials](https://www.logicbig.com/tutorials/java-ee-tutorial/java-api-for-json-processing.html)
+  * [Java API for Bean Validation](https://www.logicbig.com/tutorials/java-ee-tutorial/bean-validation.html)
+  * [Misc Java EE API](https://www.logicbig.com/tutorials/java-ee-tutorial/java-ee-api.html)
+  * [JSF Tutorials](https://www.logicbig.com/tutorials/java-ee-tutorial/jsf.html) 
+
 [Servlet][%Servlet]|[JSP][%JSP]|[MVC][%MVC]|Servlet3.0特性|[前后端RESTful API网关](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/RESTful%20API/RESTful%20API.md)|[Web Service](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/webservice.md)|
 ---|---|---|---|---|---|
 
