@@ -46,7 +46,7 @@
 # [JDK8新特性](https://www.pdai.tech/md/java/java8/java8.html)
 
 * [Jdk1.8新特性实战篇(41个案例)](https://bugstack.cn/itstack-demo-any/2019/12/10/%E6%9C%89%E7%82%B9%E5%B9%B2%E8%B4%A7-Jdk1.8%E6%96%B0%E7%89%B9%E6%80%A7%E5%AE%9E%E6%88%98%E7%AF%87(41%E4%B8%AA%E6%A1%88%E4%BE%8B).html)
-* Java 8 教程
+* Java 8 教程 with example
   * [Java 8 Tutorial](https://www.javaguides.net/p/java-8.html)
   * [Java 8 Stream Tutorials](https://www.logicbig.com/tutorials/core-java-tutorial/java-util-stream.html)
   * [Java 8 Enhancements](https://www.logicbig.com/tutorials/core-java-tutorial/java-8-enhancements.html)
@@ -63,7 +63,11 @@
 * [重复注解和类型注解](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK8%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#9-重复注解和类型注解)
 
 # [JDK9新特性](https://www.pdai.tech/md/java/java8up/java9.html)
-* [Java 9 Tutorial example](https://www.javaguides.net/p/java-9-tutorial.html)
+* Java 9 教程 with example
+  * [Java 9 JShell](https://www.logicbig.com/tutorials/core-java-tutorial/jshell.html)
+  * [Java 9 Features](https://www.logicbig.com/tutorials/core-java-tutorial/java-9-changes.html)
+  * [Java 9 Module System](https://www.logicbig.com/tutorials/core-java-tutorial/modules.html)  
+  * [Java 9 Tutorial example](https://www.javaguides.net/p/java-9-tutorial.html)
 * [目录结构](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK9%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#1-目录结构)
 * [模块化系统](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK9%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#2-模块化系统)
 * [jshell](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK9%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#3-jshell)
@@ -85,6 +89,7 @@
 
 # [JDK10新特性](https://www.pdai.tech/md/java/java8up/java10.html)
 
+* [Java 10 Features](https://www.logicbig.com/tutorials/core-java-tutorial/java-10-changes.html)
 * [局部变量类型推断](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK10%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#1-局部变量类型推断)
 * [将JDK多存储库合并为单储存库](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK10%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#2-将JDK多存储库合并为单储存库)
 * [垃圾回收接口](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK10%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#3-垃圾回收接口)
@@ -100,7 +105,7 @@
 
 
 # [JDK11新特性](https://www.pdai.tech/md/java/java8up/java11.html)
-
+* [Java 11 Features](https://www.logicbig.com/tutorials/core-java-tutorial/java-11-changes.html)
 * [增强局部变量类型推断var](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK11%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#1-增强局部变量类型推断var)
 * [增加一些实用的API](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK11%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#2-增加一些实用的API)
 * [移除和废弃的内容](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK11%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#3-移除和废弃的内容)
