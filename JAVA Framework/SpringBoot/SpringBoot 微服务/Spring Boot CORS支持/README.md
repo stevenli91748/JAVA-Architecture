@@ -1,4 +1,4 @@
-**JSONP（JSON With Padding）是一种非官方的解决方案。由于浏览器允许一些带src属性的标签跨域，例如，iframe、script、img等，所以JSONP利用script标签可以实现跨域**
+
 
 
 * [Spring Boot CORS支持](https://www.yiibai.com/spring-boot/spring_boot_cors_support.html)
