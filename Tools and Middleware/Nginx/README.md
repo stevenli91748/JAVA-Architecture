@@ -88,11 +88,11 @@ nginx出口-->http服务
     * [动静分离](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Nginx/Nginx%E5%8A%A8%E9%9D%99%E5%88%86%E7%A6%BB/README.md)
     * [跨域请求 ](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Nginx/Nginx%20%E8%B7%A8%E5%9F%9F%E8%AF%B7%E6%B1%82/README.md)
     * [高可靠性、单 Master 多 Worker 模式](https://www.kancloud.cn/ll90/liuyaofu/2144229)
-    * [高可扩展性、高度模块化]()
-    * [非阻塞]()
-    * [事件驱动]()
-    * [低内存消耗]()
-    * [热部署]()
+    * 高可扩展性、高度模块化
+    * 非阻塞
+    * 事件驱动
+    * 低内存消耗
+    * 热部署
   * [1.4 Nginx 源码结构]()
     * [源代码目录结构 Core（主干和基础设置）]()
     * [Nginx中的全局变量](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Nginx/Nginx%E4%B8%AD%E7%9A%84%E5%85%A8%E5%B1%80%E5%8F%98%E9%87%8F.md)
@@ -101,17 +101,18 @@ nginx出口-->http服务
     * [Mail（邮件代理服务器和模块）]()
     * [OS（操作系统相关的实现）]()
     * [Misc（杂项）]()
-* [2. Nginx 应用场景]()
+* 2. Nginx 应用场景
+  * [限流](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489271&idx=1&sn=00c81bed5650110649483188d4bf75a5&source=41#wechat_redirect)
   * [动静分离](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Nginx/Nginx%E5%8A%A8%E9%9D%99%E5%88%86%E7%A6%BB/README.md)
   * [反向代理](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Nginx/Nginx正向和反向代理/README.md)
   * [负载均衡](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Nginx/Nginx负载均衡/README.md)
   * [跨域请求 ](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Nginx/Nginx%20%E8%B7%A8%E5%9F%9F%E8%AF%B7%E6%B1%82/README.md)
-  * [安全防御]()
+  * 安全防御
   * [智能路由（企业级灰度测试、地图 POI 一键切流）]()
-  * [灰度发布]()
-  * [消息推送]()
+  * 灰度发布
+  * 消息推送
   * [图片实时压缩](http://www.macrozheng.com/#/reference/nginx)
-  * [防盗链]()
+  * 防盗链
   * [地址重写](http://www.macrozheng.com/#/reference/nginx)
   * [按目录划分项目](http://www.macrozheng.com/#/reference/nginx)
   * [Nginx如何支持HTTPS](http://www.macrozheng.com/#/reference/nginx_https_start)
