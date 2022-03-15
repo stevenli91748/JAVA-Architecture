@@ -82,7 +82,7 @@
 * [Netty堆外内存泄漏排查，这一篇全讲清楚了](https://juejin.im/post/5e0dbc67f265da5d153f3f35)
 
 # Netty视频
-
+* [ Netty项目Leader Norman Maurer的技术演讲不错](https://www.youtube.com/watch?v=I8yy2Cy7dDI)
 * [Netty服务端开发_第一部分](https://www.bilibili.com/video/av61740948?from=search&seid=17769244853057910775)
 * [Netty服务端开发_第二部分](https://www.bilibili.com/video/av61773545/?spm_id_from=333.788.videocard.15)
 * [Netty服务端开发_第三部分（完结撒花~）](https://www.bilibili.com/video/av61833922/?spm_id_from=333.788.videocard.6)
