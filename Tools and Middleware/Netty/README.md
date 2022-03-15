@@ -118,7 +118,8 @@
 
 # 参考
 * [通俗地讲，Netty 能做什么](https://www.zhihu.com/question/24322387)
-
+* [大厨小鲜——基于Netty自己动手实现RPC框架](https://zhuanlan.zhihu.com/p/35720383)
+* [大厨小鲜——基于Netty自己动手实现Web框架](https://zhuanlan.zhihu.com/p/36064672)
 
 
 
