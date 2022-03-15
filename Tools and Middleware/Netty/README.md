@@ -116,6 +116,8 @@
 * [手动搭建I/O网络通信框架4：AIO编程模型，聊天室终极改造](https://www.cnblogs.com/lbhym/p/12720944.html)
 
 
+# 参考
+* [通俗地讲，Netty 能做什么](https://www.zhihu.com/question/24322387)
 
 
 
