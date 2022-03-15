@@ -17,7 +17,7 @@
 * [Netty进阶之路：跟着案例学Netty](https://weread.qq.com/web/reader/fef3252071848772fefbb26kc81322c012c81e728d9d180)
 * [Netty实战](https://weread.qq.com/web/reader/f4432c60811e39130g01540f)
 * [Netty权威指南---异步非阻塞通信邻域的经典之作](https://weread.qq.com/web/reader/30032780811e1bb2fg019e77)
-
+* [Essential Netty in Action 《Netty 实战(精髓)》](https://www.kancloud.cn/kancloud/essential-netty-in-action/52655)
 
 
 
