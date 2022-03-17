@@ -6,6 +6,9 @@
 
 <a href="https://ibb.co/bQgqZsD"><img src="https://i.ibb.co/ckcMH6V/ce5e1f7877e0155577d5511b95ea2100-660x44100000000000.png" alt="ce5e1f7877e0155577d5511b95ea2100-660x44100000000000" border="0"></a>
 
+# 以用户名、密码登录方式为例讲解一下Spring Security的登录认证流程
+
+<a href="https://ibb.co/z2zs8Cf"><img src="https://i.ibb.co/qgvB0h1/965b390cafd239b8f33c44496a99dd64-978x674.png" alt="965b390cafd239b8f33c44496a99dd64-978x674" border="0"></a>
 
 # [Spring Security4 例子程序](http://websystique.com/spring-security-tutorial/)
 
@@ -39,10 +42,15 @@
 
 # 目录
 * Spring Security 核心组件
+  * Authtication对象
+  * SecurityContext 
   * [Userdetails组件](https://www.cnblogs.com/crazymakercircle/p/12040402.html)
   * [Authentication组件](https://www.cnblogs.com/crazymakercircle/p/12040402.html)
   * [UserDetailsService组件](https://www.cnblogs.com/crazymakercircle/p/12040402.html)
   * [AuthenticationProvider组件 ](https://www.cnblogs.com/crazymakercircle/p/12040402.html)
+    * DaoAuthenticationProvider---数据库加载用户信息
+    * RememberMeAuthenticationProvider---定义了“记住我”功能的登录验证逻辑
+    * DaoAuthenticationProvider---加载数据库用户信息，进行用户密码的登录验证  
 
 
 
