@@ -2,6 +2,11 @@
 
 **Spring Security 的关键评分位列所有 Java 项目的第 29 位。很遗憾的是，Shiro 并未上榜, 相比于 Shiro 来说，Spring Security 的学习曲线更陡峭。但是，从生态等方面来说，Spring Security 依然是你做身份验证以及权限控制时的首选框架**
 
+# 过滤器登录验证细节
+
+<a href="https://ibb.co/bQgqZsD"><img src="https://i.ibb.co/ckcMH6V/ce5e1f7877e0155577d5511b95ea2100-660x44100000000000.png" alt="ce5e1f7877e0155577d5511b95ea2100-660x44100000000000" border="0"></a>
+
+
 # [Spring Security4 例子程序](http://websystique.com/spring-security-tutorial/)
 
 
