@@ -41,12 +41,24 @@
 
 
 # 目录
+* [SpringSecurity用到的类](https://javaniuniu.com/SpringSecurity/class)
 * Spring Security 核心组件
-  * Authtication对象
-  * SecurityContext 
-  * [Userdetails组件](https://www.cnblogs.com/crazymakercircle/p/12040402.html)
-  * [Authentication组件](https://www.cnblogs.com/crazymakercircle/p/12040402.html)
-  * [UserDetailsService组件](https://www.cnblogs.com/crazymakercircle/p/12040402.html)
+  * SecurityContext
+    * [SecurityContextHolder](https://javaniuniu.com/SpringSecurity/SecurityContextHolder)
+    * [SecurityContext使用实例](https://javaniuniu.com/SpringSecurity/SecurityContext)  
+  * Userdetails组件
+    * [user](https://javaniuniu.com/SpringSecurity/User) 
+    * [Userdetails组件1](https://www.cnblogs.com/crazymakercircle/p/12040402.html) 
+    * [Userdetails组件2](https://javaniuniu.com/SpringSecurity/UserDetails)
+  * Authentication组件
+    * [Authentication组件](https://www.cnblogs.com/crazymakercircle/p/12040402.html) 
+    * [GrantedAuthority](https://javaniuniu.com/SpringSecurity/GrantedAuthority)
+    * [AuthenticationException ](https://javaniuniu.com/SpringSecurity/authenticationException)
+  * UserDetailsService组件
+    * [UserDetailsService组件1](https://javaniuniu.com/SpringSecurity/UserDetailsService) 
+    * [UserDetailsService组2](https://www.cnblogs.com/crazymakercircle/p/12040402.html)
+  * WebSecurityConfigurerAdapter
+    * [WebSecurityConfigurerAdapter](https://javaniuniu.com/SpringSecurity/WebSecurityConfigurerAdapter) 
   * [AuthenticationProvider组件 ](https://www.cnblogs.com/crazymakercircle/p/12040402.html)
     * DaoAuthenticationProvider---数据库加载用户信息
     * RememberMeAuthenticationProvider---定义了“记住我”功能的登录验证逻辑
