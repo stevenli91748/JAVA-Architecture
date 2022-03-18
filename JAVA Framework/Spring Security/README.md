@@ -134,6 +134,7 @@ Gitee: https://gitee.com/haoxr
 ---
 
 # 有用的参考
+* [Spring Security 控制Session详解](https://www.jianshu.com/p/057fcf061b94)
 * [springboot security 自定义 AuthenticationEntryPoint 和 AccessDeineHandler](https://blog.csdn.net/jkjkjkll/article/details/79975975#:~:text=AuthenticationEntryPoint%E7%AE%80%E4%BB%8BAuthenticationEntryPoint%E6%98%AFSpring,%E4%BA%8E%E5%BC%80%E5%90%AF%E7%89%B9%E5%AE%9A%E8%AE%A4%E8%AF%81%E6%96%B9%E6%A1%88()
 * [基于token身份认证的完整实例](https://www.jianshu.com/p/75f6d7426118)
 * [手把手教你搞定权限管理，结合Spring Security实现接口的动态权限控制](https://www.jianshu.com/p/a8e66020fad1)
