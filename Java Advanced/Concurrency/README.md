@@ -218,9 +218,9 @@
 * Lock体系
   * [Java注解如何基于Redission实现分布式锁](https://www.jb51.net/article/178525.htm)
   * [Java基于注解实现的锁实例解析](https://www.jb51.net/article/181492.htm)
-* 并发容器
-* 线程池
-* 原子操作类
+* [并发容器](https://weread.qq.com/web/reader/df532740723982c7df583bfk6ea321b021d6ea9ab1ba605)
+* [线程池](https://weread.qq.com/web/reader/df532740723982c7df583bfkd67323c0227d67d8ab4fb04)
+* [原子操作类](https://weread.qq.com/web/reader/df532740723982c7df583bfk98f3284021498f137082c2e)
 * 并发工具
 * 并发实践 
 
