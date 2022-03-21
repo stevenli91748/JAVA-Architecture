@@ -147,7 +147,7 @@
   * 连接池
     * 数据库连接池
     * HttpClient连接池
-    * 线程池
+    * [线程池](https://weread.qq.com/web/reader/df532740723982c7df583bfkd67323c0227d67d8ab4fb04)
       * Java线程池
       * Tomcat线程池
   * 异步并发
@@ -159,6 +159,8 @@
     * 请求环存
     * 请求合并
   * 队列
+    * [阻塞队列（BlockingQueue）](https://weread.qq.com/web/reader/df532740723982c7df583bfk182326e0221182be0c5ca23) 
+    * 非阻塞队列
     * 应用场境
     * 缓冲队列
     * 任务队列
