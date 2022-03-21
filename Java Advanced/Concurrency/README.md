@@ -160,13 +160,15 @@
     * 请求合并
   * 队列
     * [阻塞队列（BlockingQueue）](https://weread.qq.com/web/reader/df532740723982c7df583bfk182326e0221182be0c5ca23) 
-      * 1）ArrayBlockingQueue：基于数组实现的有界阻塞队列。
-      * 2）LinkedBlockingQueue：基于链表实现的有界阻塞队列。
-      * 3）PriorityBlockingQueue：支持按优先级排序的无界阻塞队列。
-      * 4）DelayQueue：优先级队列实现的无界阻塞队列。
-      * 5）SynchronousQueue：不存储元素的阻塞队列。
-      * 6）LinkedTransferQueue：基于链表实现的无界阻塞队列。
-      * 7）LinkedBlockingDeque：基于链表实现的双向无界阻塞队列。 
+      * 1）ArrayBlockingQueue：基于数组实现的有界阻塞队列---常用
+           * [ArrayBlockingQueue源码解析](https://weread.qq.com/web/reader/df532740723982c7df583bfk19c3222022419ca14e7eef7) 
+      * 2）LinkedBlockingQueue：基于链表实现的有界阻塞队列---常用
+           * [LinkedBlockingQueue源码解析](https://weread.qq.com/web/reader/df532740723982c7df583bfka5b325d0225a5bfc9e0772d) 
+      * 3）PriorityBlockingQueue：支持按优先级排序的无界阻塞队列
+      * 4）DelayQueue：优先级队列实现的无界阻塞队列
+      * 5）SynchronousQueue：不存储元素的阻塞队列
+      * 6）LinkedTransferQueue：基于链表实现的无界阻塞队列
+      * 7）LinkedBlockingDeque：基于链表实现的双向无界阻塞队列 
     * 非阻塞队列
     * 应用场境
     * 缓冲队列
