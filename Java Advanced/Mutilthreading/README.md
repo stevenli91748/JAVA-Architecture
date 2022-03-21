@@ -81,7 +81,8 @@
   * [Java线程池ThreadPoolExecutor实现原理剖析](https://github.com/aCoder2013/blog/issues/28) 
 * 处理线程未捕获的异常
 * ThreadLocal类
-* Concurrent并发包
+* JUC并发包
+  * [为什么引入JUC锁](https://weread.qq.com/web/reader/df532740723982c7df583bfk8e232ec02198e296a067180) 
   * 用于线程同步的Lock外部锁
   * 用于线程通信的Condition条件接口
   * 支持异步计算的Callable接口和Future接口
