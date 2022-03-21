@@ -74,7 +74,7 @@
 * 线程控制
   * 被废弃的suspend()和resume()方法
   * 被废弃的stop()方法
-  * 以编程的方式控制线程
+  * [以编程的方式控制线程](https://weread.qq.com/web/reader/df532740723982c7df583bfk64232b60230642e92efb54c)
 * [线程池---如何优雅的使用和理解线程池](https://crossoverjie.top/2018/07/29/java-senior/ThreadPool/)
   * [线程池原理解析](https://weread.qq.com/web/reader/df532740723982c7df583bfkd67323c0227d67d8ab4fb04) 
   * [别再纠结线程池大小了，没有固定公式的！终于有人说清楚了。。](https://mp.weixin.qq.com/s/_lPN_1M_bTp7EXC-dkDKrQ)
