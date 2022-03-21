@@ -9,7 +9,7 @@
 
 * [内存泄漏 内存溢出 （史上最全）](https://www.cnblogs.com/crazymakercircle/p/14389201.html)
 * [JVM 内存溢出 实战 （史上最全）](https://www.cnblogs.com/crazymakercircle/p/14389389.html)
-
+* [Java不能像C/C++一样直接操作内存区域，需要通过本地方法的方式来操作内存区域--Unsafe类](https://weread.qq.com/web/reader/df532740723982c7df583bfk67c32d7022f67c6a1e7ce82)
 
 
 # 目录
