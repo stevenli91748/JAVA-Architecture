@@ -649,8 +649,16 @@ SQL语言|[MySQL](https://github.com/stevenli91748/Database/blob/master/MySQL/RE
 ## [Java 基础](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md)
 
 * [java基础高频源码解析---各种类库](https://weread.qq.com/web/reader/df532740723982c7df583bf)
-* [java静态代码分析工具](https://weread.qq.com/web/reader/71032d60719ad5af7104ca2kaab325601eaab3238922e53)
 * [Java Platform Standard Edition 8 Documentation](https://docs.oracle.com/javase/8/docs/)
+# 代码分析和审查
+  * 代码分析和审查
+    * [java静态代码分析工具](https://weread.qq.com/web/reader/71032d60719ad5af7104ca2kaab325601eaab3238922e53)
+      * Checkstyle
+      * FindBugs
+      * P3C---相对于FindBugs等其他工具，阿里巴巴推出的P3C插件对代码缺陷的描述及改进意见十分详细，是开发人员提升代码质量的必备工具
+    * [代码审查](https://weread.qq.com/web/reader/71032d60719ad5af7104ca2k9bf32f301f9bf31c7ff0a60)
+      * [Phabricator---Facebook的内部审查工具](https://weread.qq.com/web/reader/71032d60719ad5af7104ca2k9bf32f301f9bf31c7ff0a60)
+      * [Gerrit---是Google为Android系统研发量身定制的一套免费的开源代码审查系统 ](https://weread.qq.com/web/reader/71032d60719ad5af7104ca2k9bf32f301f9bf31c7ff0a60)
 ---
 
 ### 阶段 1 JAVA基础
