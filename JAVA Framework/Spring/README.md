@@ -3,6 +3,7 @@
 
 
 # 在线书籍
+* [Spring 5 enterprise develope](https://weread.qq.com/web/reader/87d32670719502d787db0e4)
 * [Spring快速入门---2019  全面讲解Spring全家桶及使用Spring开发涉及的技术，算是很合快速了解SSM的书籍](https://weread.qq.com/web/reader/73532be071e524ea73570d8)
 * [Spring + SpringMVC + MyBatis从零开始学](https://weread.qq.com/web/reader/fc632f20719502c1fc63fd4)
 
