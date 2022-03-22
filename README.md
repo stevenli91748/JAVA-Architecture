@@ -649,6 +649,7 @@ SQL语言|[MySQL](https://github.com/stevenli91748/Database/blob/master/MySQL/RE
 ## [Java 基础](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/README.md)
 
 * [java基础高频源码解析---各种类库](https://weread.qq.com/web/reader/df532740723982c7df583bf)
+* [java静态代码分析工具](https://weread.qq.com/web/reader/71032d60719ad5af7104ca2kaab325601eaab3238922e53)
 * [Java Platform Standard Edition 8 Documentation](https://docs.oracle.com/javase/8/docs/)
 ---
 
