@@ -37,8 +37,8 @@
 [Java Guides sample program](https://www.javaguides.net/)|[Source Code Sample program](https://www.sourcecodeexamples.net/)|[JavaInUse example](https://www.javainuse.com/home)|[WebSystique learn together with example](http://websystique.com/)|
 ---|---|---|---|
 
-[logicbig with example](https://www.logicbig.com/tutorials/spring-framework/spring-boot.html)|
----|
+[logicbig with example](https://www.logicbig.com/tutorials/spring-framework/spring-boot.html)|[10 Best Project-Based Tutorials To Learn Full-Stack Development](https://medium.com/for-self-taught-developers/10-best-project-based-tutorials-to-learn-full-stack-development-d172fe5c3aac)|
+---|---|
 
 [Spring Boot Tutorials with example](https://mkyong.com/tutorials/spring-boot-tutorials/)|[HowToDoInJava---非常多的例子程序，包括Java的方方面面](https://howtodoinjava.com/)|
 ---|---|
