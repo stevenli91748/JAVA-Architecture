@@ -15,7 +15,7 @@
 * [JAVA并发原理： JDK源码剖析](https://weread.qq.com/web/reader/6de3271071dbddc06de1a75)
 * [java并发编程之美](https://weread.qq.com/web/reader/81c32b507184869281c2a23)
 * [大数据高并发 Redis一本通](https://weread.qq.com/web/reader/f2032c2072792dd3f200695)
-
+* [web异步与实时交互](https://weread.qq.com/web/reader/de6324207159aca5de6e303)
 ---
 
 [Java 全栈知识体系---Java并发知识体系详解](https://www.pdai.tech/md/java/thread/java-thread-x-overview.html)|[Java Multithreading Tutorial example](https://www.javaguides.net/p/java-multithreading-utorial.html)|[Java Concurrency Tutorial example](https://www.javaguides.net/p/java-concurrency-tutorial.html)|
