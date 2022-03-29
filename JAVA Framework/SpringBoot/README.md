@@ -461,6 +461,7 @@
     * [Google GSON Tutorial](https://www.javaguides.net/p/google-gson-tutorial.html)
     * [Java JSON Processing Tutorial](https://www.javaguides.net/2019/07/java-json-processing-tutorial.html)
     * [JSON.simple Tutorial - Read and Write JSON in Java](https://www.javaguides.net/2019/07/jsonsimple-tutorial-read-and-write-json-in-java.html)
+    * 
   * [自定义Spring Boot 内容协商](https://mrbird.cc/Spring-Boot-Diy-Resolver.html)
   * [Spring Boot自定义starter](http://c.biancheng.net/spring_boot/custom-starter.html)
 * [4 SpringBoot数据訪问](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%A8%AA%E9%97%AE/README.md)
