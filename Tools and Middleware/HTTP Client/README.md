@@ -1,4 +1,10 @@
 
+# 在线书籍
+* [ HttpClient模块](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ckeb132680275eb160de1d35c)
+
+
+---
+
 [Apache HttpClient Tutorial with example](https://www.javaguides.net/p/apache-httpclient-tutorial.html)|
 ---|
 
