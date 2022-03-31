@@ -285,8 +285,8 @@
 # API 网关实现功能
 
 1. 负载均衡
-2. 路由选择
-3. 流量控制
+2. 路由选择---根据上下文或消息内容将请求发送到不同的目标
+3. 流量控制---入站和出站流量监控
 4. 统一鉴权
 5. 熔断降级
 6. 发布测试
@@ -356,6 +356,14 @@ Open API开放平台必然涉及到客户应用的接入、API权限的管理、
   <a href="https://imgbb.com/"><img src="https://i.ibb.co/jTYbfBm/api-gateway-5.jpg" alt="api-gateway-5" border="0"></a>
 
 # API网关解决方案
+
+私有云开源解决方案：
+Netflix Zuul，zuul是spring cloud的一个推荐组件，https://github.com/Netflix/zuul
+Kong kong是基于Nginx+Lua进行二次开发的方案， https://konghq.com/
+Tyk是2014年创建的开源API网关，甚至比AWS的API网关即服务功能还要早。Tyk用Golang编写并使用Golang自己的HTTP服务器。
+————————————————
+版权声明：本文为CSDN博主「pushiqiang」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://blog.csdn.net/pushiqiang/article/details/95726137
 
 **公有云解决方案：**
 
