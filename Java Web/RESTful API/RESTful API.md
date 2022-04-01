@@ -18,22 +18,12 @@
 ---
 
 
-[REST API Tutorial with example](https://www.javaguides.net/p/rest-api-tutorial.html)|[RESTful Basics Tutorial with Examples](https://www.javaguides.net/p/restful-tutorial.html)|
----|---|
-
-[你还在用 Postman？IDEA REST Client 好用到爆，Postman 可以扔了](https://mp.weixin.qq.com/s/QwoZkMxOTgCHhKWOv2rEag)|[微服务如何聚合Swagger实现接口文档管理](https://developer.51cto.com/article/701318.html)|
----|---|
-
-[Spring Boot + GraphQL 才是 API 的未来！](https://mp.weixin.qq.com/s/0PnHhG_AcPxUJIClvx1fdQ)|[GraphQL 入门看这篇就够了](https://chinese.freecodecamp.org/news/a-detailed-guide-to-graphql/)|[一个基于 Spring 极度简单的 Restful API 工具，非常好用](https://mp.weixin.qq.com/s/Mnz26kCVEyQWckkOKPkJ-A)|
+[REST API Tutorial with example](https://www.javaguides.net/p/rest-api-tutorial.html)|[RESTful Basics Tutorial with Examples](https://www.javaguides.net/p/restful-tutorial.html)|[Guide to Standard JAX-RS RESTful Api Annotations](https://www.javaguides.net/2018/06/guide-to-standard-jax-rs-annotations.html)|
 ---|---|---|
 
+[你还在用 Postman？IDEA REST Client 好用到爆，Postman 可以扔了](https://mp.weixin.qq.com/s/QwoZkMxOTgCHhKWOv2rEag)|[微服务如何聚合Swagger实现接口文档管理](https://developer.51cto.com/article/701318.html)|[一个基于 Spring 极度简单的 Restful API 工具，非常好用](https://mp.weixin.qq.com/s/Mnz26kCVEyQWckkOKPkJ-A)|
+---|---|---|
 
-[Guide to Standard JAX-RS RESTful Api Annotations](https://www.javaguides.net/2018/06/guide-to-standard-jax-rs-annotations.html)|
----|
-
-
-[开源商城系统-API文档（单商户）例子，有参考价值](https://www.kancloud.cn/yi_xiang_42/likeshop_api_v2_x)|
----|
 
 
 [Vert.x](https://www.bilibili.com/video/BV174411E7Vr?from=search&seid=3412424618058651269)|
@@ -67,12 +57,15 @@
 [Build REST API using Spring Boot的多种例子](https://www.javaguides.net/p/rest-api-tutorial.html)|
 ---|
 
+[开源商城系统-API文档（单商户）例子，有参考价值](https://www.kancloud.cn/yi_xiang_42/likeshop_api_v2_x)|
+---|
+
 
 [Spring Boot构建 CRUD服务 RESTful Web API接口的完整例子1](https://www.yiibai.com/spring-boot/spring_boot_building_restful_web_services.html)|[Spring Boot 项目实践之 RESTful API 设计与实现](https://github.com/ZHENFENG13/spring-boot-projects/tree/main/SpringBoot%E5%85%A5%E9%97%A8%E6%A1%88%E4%BE%8B%E6%BA%90%E7%A0%81/spring-boot-RESTful-api)|
 ---|---|
 
 # 目录
-
+## 设计思路
 * [WebHook---反向 API](https://www.jianshu.com/p/9829986b4363)
   * [使用webhook完成自动化部署](https://zhuanlan.zhihu.com/p/93223263) 
 * API的意义---我们必须拥抱 API，并使用 API 先行（API-first）的集成思维来开发我们的集成用例，以 API 驱动的方式开展项目开发和集成
@@ -80,13 +73,15 @@
   * [Mock API Server Online Testing & API Mocking Guide](https://stoplight.io/mock-api-guide/basics/) 
     
 
-* **第一部分 RestFulAPI 篇**
+## 第一部分 RestFulAPI 篇
 
 * [4 种主流的 API 架构风格对比](https://mp.weixin.qq.com/s/g4ZYYpXoSBNroPNHqciixA)
   * 1 RPC：调用另一个系统的函数
   * 2 SOAP：使数据作为服务可用
   * 3 REST：使数据作为资源可用
-  * 4 GraphQL：仅请求所需要的数据 
+  * 4 GraphQL：仅请求所需要的数据
+    * [Spring Boot + GraphQL 才是 API 的未来！](https://mp.weixin.qq.com/s/0PnHhG_AcPxUJIClvx1fdQ)
+    * [GraphQL 入门看这篇就够了](https://chinese.freecodecamp.org/news/a-detailed-guide-to-graphql/)  
 * API 可分三类
   * 1 边缘（edge）API---边缘 API 担当企业系统的网关，边缘 API 是前端团队需要与之交互的。首先设计边缘 API，其中大多数用于访问特定的系统功能。避免将后端的复杂性泄漏给前端应用，一旦设计好边缘 API，后端团队就可以匹配边缘 API 的需求，着手设计工具 API 和领域 AP。如果碰上一些未考虑到的问题，可以按需回滚，更新边缘 API
     * [以API 先行方法 驱动的方式开展边缘（edge）API项目的开发步骤](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/RESTful%20API/%E4%BB%A5%20API%20%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%96%B9%E5%BC%8F%E5%BC%80%E5%B1%95%E9%A1%B9%E7%9B%AE%E5%BC%80%E5%8F%91%E7%9A%84%E6%AD%A5%E9%AA%A4.md)
@@ -123,7 +118,7 @@
 * [Spring Boot整合Swagger2构建RESTful API](https://mrbird.cc/Spring-Boot-Swagger2-RESTful-API.html)
 
 
-* **第二部分 API网关 篇**
+## 第二部分 API网关 篇
 * [这样讲 API 网关，你应该能明白了吧](https://zhuanlan.zhihu.com/p/90433496)
 * [零、API网关的分类](#API网关的分类)
   * [【云框架项目实战】KONG API Gateway](https://github.com/cloudframeworks-apigateway/user-guide-apigateway) 
@@ -136,7 +131,7 @@
 * 参考： [百亿流量微服务网关的设计与实现](https://www.infoq.cn/article/EeE1xZeic4UdpbmR*03t)
 * [Spring Cloud Gateway + Jwt + Oauth2 实现网关的鉴权操作](https://www.jianshu.com/p/c9f0f1c7333c)
 
-* **第三部分 前后端分离 篇**
+## 第三部分 前后端分离篇
 * [前后端分离的思考与实践](https://www.kancloud.cn/kancloud/midway)
 * [1-1 前后端分离是如何做的](#前后端分离是如何做的)
 * [1-2  软件开发中前端和后端如何协同开发和集成](#软件开发中前端和后端如何协同开发和集成)
