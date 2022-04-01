@@ -21,9 +21,6 @@
 [REST API Tutorial with example](https://www.javaguides.net/p/rest-api-tutorial.html)|[RESTful Basics Tutorial with Examples](https://www.javaguides.net/p/restful-tutorial.html)|[Guide to Standard JAX-RS RESTful Api Annotations](https://www.javaguides.net/2018/06/guide-to-standard-jax-rs-annotations.html)|
 ---|---|---|
 
-[微服务如何聚合Swagger实现接口文档管理](https://developer.51cto.com/article/701318.html)|
----|
-
 
 
 [Vert.x](https://www.bilibili.com/video/BV174411E7Vr?from=search&seid=3412424618058651269)|
@@ -78,6 +75,7 @@
 * API的意义---我们必须拥抱 API，并使用 API 先行（API-first）的集成思维来开发我们的集成用例，以 API 驱动的方式开展项目开发和集成
   * [企业中的 API 设计思路---以API 驱动的方式设计系统  ](https://www.infoq.cn/article/9aWfgWP7cWqGW44vMmeZ?utm_source=related_read_bottom&utm_medium=article)
     * [Mock API Server Online Testing & API Mocking Guide](https://stoplight.io/mock-api-guide/basics/) 
+* [如何设计一个安全的对外接口，老司机总结了这几点.](https://mp.weixin.qq.com/s/i4N5-ftqNdgottfcxigHxQ)
 * [如何设计一个牛逼的API接---主要从三个方面来设计一个安全的API接口](https://segmentfault.com/a/1190000037503942)
   * 安全性
     * [REST API 安全设计指南](https://www.kancloud.cn/kancloud/rest-api-design-safety) 
@@ -100,23 +98,21 @@
 ## RestFulAPI 工具
 * [一个基于 Spring 极度简单的 Restful API 工具，非常好用](https://mp.weixin.qq.com/s/Mnz26kCVEyQWckkOKPkJ-A)
 * [你还在用 Postman？IDEA REST Client 好用到爆，Postman 可以扔了](https://mp.weixin.qq.com/s/QwoZkMxOTgCHhKWOv2rEag)
-
+* [微服务如何聚合Swagger实现接口文档管理](https://developer.51cto.com/article/701318.html)
 
 
 
 ## RestFulAPI 项目实践  
 
-* [ RESTfull API简单项目的快速搭建](https://www.bilibili.com/video/av13224378?from=search&seid=10786600269014143134)
+* [ RESTfull API简单项目的快速搭建--视频](https://www.bilibili.com/video/av13224378?from=search&seid=10786600269014143134)
 * [【项目实践】SpringBoot三招组合拳，手把手教你打出优雅的后端接口](https://zhuanlan.zhihu.com/p/134209666?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
 * [【项目实践】后端接口统一规范的同时，如何优雅得扩展规范](https://juejin.im/post/6844904143912435719?)
 * [【项目实践】SpringBoot-如何设计优秀的后端接口](https://juejin.im/post/6860404263143604232)
-
-* [如何设计一个安全的对外接口，老司机总结了这几点.](https://mp.weixin.qq.com/s/i4N5-ftqNdgottfcxigHxQ)
 * [Spring Boot 如何优雅的进行字段校验？写得太好了！](https://mp.weixin.qq.com/s/EfIh_izIeUv4zNqcDxf-hg)
 * [SpringBoot中处理校验逻辑的两种方式，真的很机智！](http://www.macrozheng.com/#/technology/springboot_validator)
 * [springboot2.2.X手册：构建多元化的API接口，我们这样子设计](https://www.toutiao.com/i6824397028622074379/?group_id=6824397028622074379&wid=1627684804783)
 * [看看人家那后端API接口写得，那叫一个优雅！---着重介绍一下后端服务器如何实现把数据返回给前端](https://www.jianshu.com/p/3c1d3ba5f56d)
-
+* [前端业务开发的通用经验 - 接口篇](https://juejin.cn/post/6844904065852260366)
 * [REST API Design Documenttion tools](https://www.kancloud.cn/thinkphp/api-design-and-documentation/43384) 
 * [REST API 接口测试](https://www.imooc.com/learn/1048)
 * [RESTful API 最佳实践](https://www.ruanyifeng.com/blog/2018/10/restful-api-best-practices.html)
