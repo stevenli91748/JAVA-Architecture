@@ -6,3 +6,6 @@
 * [前后端分离项目，如何解决跨域问题](http://www.macrozheng.com/#/technology/springboot_cors)
 * [SpringBoot相关--定义读取配置的类及CORS处理](https://www.jianshu.com/p/e7b03e1a0c4e)
 * [不用调整Nginx，SpringBoot也能解决前端访问的跨域问题](https://www.jianshu.com/p/774630af7792)
+* [跨域资源共享 CORS 详解](http://www.ruanyifeng.com/blog/2016/04/cors.html)
+* [利用CORS实现跨域请求](http://newhtml.net/using-cors/)
+* [跨域资源共享”（Cross Origin Resource Sharing, CORS）](https://fetch.spec.whatwg.org/)
