@@ -94,6 +94,11 @@
 
 
 * **第一部分 RestFulAPI 篇**
+* [4 种主流的 API 架构风格对比](https://mp.weixin.qq.com/s/g4ZYYpXoSBNroPNHqciixA)
+  * 1. RPC：调用另一个系统的函数
+  * 2. SOAP：使数据作为服务可用
+  * 3. REST：使数据作为资源可用
+  * 4. GraphQL：仅请求所需要的数据 
 * [HTTP 接口设计指北](https://www.kancloud.cn/kancloud/http-api-guide)
 * [ RESTfull API简单项目的快速搭建](https://www.bilibili.com/video/av13224378?from=search&seid=10786600269014143134)
 * [REST API 安全设计指南](https://www.kancloud.cn/kancloud/rest-api-design-safety)
