@@ -21,8 +21,8 @@
 [REST API Tutorial with example](https://www.javaguides.net/p/rest-api-tutorial.html)|[RESTful Basics Tutorial with Examples](https://www.javaguides.net/p/restful-tutorial.html)|[Guide to Standard JAX-RS RESTful Api Annotations](https://www.javaguides.net/2018/06/guide-to-standard-jax-rs-annotations.html)|
 ---|---|---|
 
-[你还在用 Postman？IDEA REST Client 好用到爆，Postman 可以扔了](https://mp.weixin.qq.com/s/QwoZkMxOTgCHhKWOv2rEag)|[微服务如何聚合Swagger实现接口文档管理](https://developer.51cto.com/article/701318.html)|[一个基于 Spring 极度简单的 Restful API 工具，非常好用](https://mp.weixin.qq.com/s/Mnz26kCVEyQWckkOKPkJ-A)|
----|---|---|
+[微服务如何聚合Swagger实现接口文档管理](https://developer.51cto.com/article/701318.html)|
+---|
 
 
 
@@ -82,7 +82,8 @@
   * 安全性
     * [REST API 安全设计指南](https://www.kancloud.cn/kancloud/rest-api-design-safety) 
   * 幂等性
-  * 数据规范    
+  * 数据规范
+  * 接口文档管理    
 * [4 种主流的 API 架构风格对比](https://mp.weixin.qq.com/s/g4ZYYpXoSBNroPNHqciixA)
   * 1 RPC：调用另一个系统的函数
   * 2 SOAP：使数据作为服务可用
@@ -95,6 +96,13 @@
     * [以API 先行方法 驱动的方式开展边缘（edge）API项目的开发步骤](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/RESTful%20API/%E4%BB%A5%20API%20%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%96%B9%E5%BC%8F%E5%BC%80%E5%B1%95%E9%A1%B9%E7%9B%AE%E5%BC%80%E5%8F%91%E7%9A%84%E6%AD%A5%E9%AA%A4.md)
   * 2 工具类（utility）API---工具类 API 中包含集成逻辑，实现边际 API 和内部系统的相互黏合
   * 3 领域（domain）API--- 领域 API 向集成层开放企业内部系统
+
+## RestFulAPI 工具
+* [一个基于 Spring 极度简单的 Restful API 工具，非常好用](https://mp.weixin.qq.com/s/Mnz26kCVEyQWckkOKPkJ-A)
+* [你还在用 Postman？IDEA REST Client 好用到爆，Postman 可以扔了](https://mp.weixin.qq.com/s/QwoZkMxOTgCHhKWOv2rEag)
+
+
+
 
 ## RestFulAPI 项目实践  
 
