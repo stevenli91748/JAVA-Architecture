@@ -73,7 +73,7 @@
 * API的意义---我们必须拥抱 API，并使用 API 先行（API-first）的集成思维来开发我们的集成用例，以 API 驱动的方式开展项目开发和集成
   * [企业中的 API 设计思路---以API 驱动的方式设计系统  ](https://www.infoq.cn/article/9aWfgWP7cWqGW44vMmeZ?utm_source=related_read_bottom&utm_medium=article)
     * [Mock API Server Online Testing & API Mocking Guide](https://stoplight.io/mock-api-guide/basics/) 
-* [API设计规范---主要从三个方面来设计一个安全的API接口](https://segmentfault.com/a/1190000037503942)
+* [如何设计一个牛逼的API接---主要从三个方面来设计一个安全的API接口](https://segmentfault.com/a/1190000037503942)
   * 安全性
     * [REST API 安全设计指南](https://www.kancloud.cn/kancloud/rest-api-design-safety) 
   * 幂等性
@@ -104,7 +104,7 @@
 * [SpringBoot中处理校验逻辑的两种方式，真的很机智！](http://www.macrozheng.com/#/technology/springboot_validator)
 * [springboot2.2.X手册：构建多元化的API接口，我们这样子设计](https://www.toutiao.com/i6824397028622074379/?group_id=6824397028622074379&wid=1627684804783)
 * [看看人家那后端API接口写得，那叫一个优雅！---着重介绍一下后端服务器如何实现把数据返回给前端](https://www.jianshu.com/p/3c1d3ba5f56d)
-* [如何设计一个牛逼的API接口](https://segmentfault.com/a/1190000037503942)
+
 * [REST API Design Documenttion tools](https://www.kancloud.cn/thinkphp/api-design-and-documentation/43384) 
 * [REST API 接口测试](https://www.imooc.com/learn/1048)
 * [RESTful API 最佳实践](https://www.ruanyifeng.com/blog/2018/10/restful-api-best-practices.html)
