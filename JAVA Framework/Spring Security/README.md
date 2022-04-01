@@ -41,6 +41,17 @@
 
 
 # 目录
+
+* 身份验证
+  * [HTTP 基本认证](https://zh.wikipedia.org/wiki/HTTP%E5%9F%BA%E6%9C%AC%E8%AE%A4%E8%AF%81)---只有在部署了 SSL 证书的情况下才可以使用，否则用户密码会有暴露的风险，当然，最好不要使用
+  * [JSON Web Token](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-json-web-token-25)---支持通过登录接口使用账号密码获取，在请求接口时使用 Authorization: Bearer #{token} 头标或者 token 参数的值的方式进行验证  
+    * [Json Web Tokens: Introduction](http://angular-tips.com/blog/2014/05/json-web-tokens-introduction/)
+    * [son Web Tokens: Examples](http://angular-tips.com/blog/2014/05/json-web-tokens-examples/)
+    * Cookies vs Tokens. Getting auth right with Angular.JS 
+  * OAuth 2.0
+    * [官网 ](https://oauth.net/2/)
+    * [理解OAuth 2.0 ](http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html)
+
 * [SpringSecurity用到的类](https://javaniuniu.com/SpringSecurity/class)
 * Spring Security 核心组件
   * SecurityContext
