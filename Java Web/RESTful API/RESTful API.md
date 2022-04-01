@@ -76,10 +76,14 @@
   * [企业中的 API 设计思路---以API 驱动的方式设计系统  ](https://www.infoq.cn/article/9aWfgWP7cWqGW44vMmeZ?utm_source=related_read_bottom&utm_medium=article)
     * [Mock API Server Online Testing & API Mocking Guide](https://stoplight.io/mock-api-guide/basics/) 
 * [如何设计一个安全的对外接口，老司机总结了这几点.](https://mp.weixin.qq.com/s/i4N5-ftqNdgottfcxigHxQ)
-* [如何设计一个牛逼的API接---主要从三个方面来设计一个安全的API接口](https://segmentfault.com/a/1190000037503942)
+* [如何设计一个牛逼的API接---主要从几个方面来设计一个安全的API接口](https://segmentfault.com/a/1190000037503942)
   * 安全性
     * [REST API 安全设计指南](https://www.kancloud.cn/kancloud/rest-api-design-safety) 
   * 幂等性
+  * [接口设计有三个层面的复用](https://juejin.cn/post/6844904065852260366)
+    * 跨项目复用
+    * 跨页面复用
+    * 跨端复用 
   * 数据规范
   * 接口文档管理    
 * [4 种主流的 API 架构风格对比](https://mp.weixin.qq.com/s/g4ZYYpXoSBNroPNHqciixA)
