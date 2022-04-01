@@ -731,13 +731,6 @@
 * [Spring Boot项目的接口防刷](https://www.javaweb.shop/article/204.html)
 
 
-# [Spring Boot从零入门系列](https://github.com/arbboter/springboot-demo/blob/master/demo-library/doc/%E3%80%90%E4%BB%8E%E9%9B%B6%E5%85%A5%E9%97%A8%E7%B3%BB%E5%88%97-2%E3%80%91Spring%20Boot%20%E6%95%B0%E6%8D%AE%E5%BA%93%E8%A1%A8%E8%AE%BE%E8%AE%A1.md)
-【从零入门系列-0】Spring Boot 之 Hello World
-【从零入门系列-1】Spring Boot 之 程序结构设计说明
-【从零入门系列-2】Spring Boot 之 数据库实体类
-【从零入门系列-3】Spring Boot 之 数据库操作类
-【从零入门系列-4】Spring Boot 之 WEB接口设计实现
-【从零入门系列-5】Spring Boot 之 前端展示
 
 # springboot2.2.X手册
 * [springboot2.2.X手册：Eureka不更，Consul被禁，启用Nacos](https://www.toutiao.com/a6837774825470034443/)
