@@ -55,6 +55,9 @@
 [老炮说java--非常好](https://www.laopaojava.com/)|[程序员小灰专栏](https://www.yuque.com/yulongsun/java/wzm20x)|[石杉的架构笔记](https://juejin.cn/user/2084329777035246/posts)|[bugstack虫洞栈---非常好](https://bugstack.cn/itstack/itstack-demo-design.html)|
 ---|---|---|---|
 
+[java干货的视频---很好](https://space.bilibili.com/244056686/video?tid=0&page=3&keyword=&order=pubdate)|
+---|
+
 [廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/1022910821149312)|[三歪教你学Java](https://gitee.com/zhongfucheng/Java3y#https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485115&idx=1&sn=5d269f40f820c82b460993669ca6242e&chksm=ebd747badca0ceac9953f82e08b1d1a49498ebd4af77ec5d628a0682bb9f0ac5ab347411f654&token=1741918942&lang=zh_CN###rd)|
 ---|---|
 
