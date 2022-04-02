@@ -44,6 +44,7 @@
 * [23 高性能JAVA架构： 核心原理与案例实战](https://weread.qq.com/web/reader/6ba32c40726e7c066bad7ed)
 * [24 高效自动化测试平台：设计与开发实战](https://weread.qq.com/web/reader/4ce323907204397b4cedf59)
 * [25 微服务容器化开发实战](https://weread.qq.com/web/reader/ce432f4072096ae2ce4d388)
+
 ## 注解
 [Spring Core Annotations](https://www.javaguides.net/2018/10/15-spring-core-annotations.html)|[Spring MVC Annotations with Examples](https://www.javaguides.net/2018/11/spring-web-mvc-annotations.html)|[Spring Boot Annotations](https://www.javaguides.net/2018/10/spring-boot-annotations.html)|[Spring Scheduling Annotations](https://www.javaguides.net/2018/10/spring-scheduling-annotations.html)|
 ---|---|---|---|
@@ -126,8 +127,8 @@
 [程序猿DD---非常好](http://blog.didispace.com/)|[ 芋道源码------非常好](http://www.iocoder.cn/)|[猿码架构](https://www.jianshu.com/u/657c611b2e07)|[周立的博客](http://itmuch.com/)|[My bird](https://mrbird.cc/archives/)|[纯洁的微笑---Spring Boot](http://www.ityouknow.com/spring-boot.html)|[木九天](https://my.oschina.net/mdxlcj?tab=newest&catalogId=5781789)|
 ---|---|---|---|---|---|---|
 
-[小柒-SpringBoot开发案例](https://blog.52itstyle.vip/category/springBoot/)|[ Java技术栈 ](https://www.javastack.cn/categories/Spring/)|
----|---|
+[小柒-SpringBoot开发案例](https://blog.52itstyle.vip/category/springBoot/)|[ Java技术栈 ](https://www.javastack.cn/categories/Spring/)|[java干货的视频---很好](https://space.bilibili.com/244056686/video?tid=0&page=3&keyword=&order=pubdate)|
+---|---|---|
 
 [ITNEXT---software developers, engineers, IT architects and system engineers to share knowledge, connect 付费](https://itnext.io/)|[vinsguru](https://www.vinsguru.com/topics/)|
 ---|---|
