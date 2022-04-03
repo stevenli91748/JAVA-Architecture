@@ -606,6 +606,7 @@
 
 
 # Spring Boot视频
+ * [畅够商城项目--48hour](https://www.bilibili.com/video/BV147411S7C4?spm_id_from=333.999.0.0)
  * [How to Learn Spring Boot Step by Step - Spring Boot Learning Path](https://www.youtube.com/watch?v=nZFe5ITz11I)
  * [Spring Boot and Angular Tutorial - Build a Reddit Clone (Coding Project)](https://www.youtube.com/watch?v=DKlTBBuc32c)
  * [SpringBoot开发常用技术整合](https://www.imooc.com/learn/956)
