@@ -18,6 +18,7 @@
 * [java 高频源码解析](https://weread.qq.com/web/reader/df532740723982c7df583bf)
 * [java异步编程](https://weread.qq.com/web/reader/44332cc071a486a7443c539)
 * [程序员的三门课： 技术精进，架构修练，管理](https://weread.qq.com/web/reader/71032d60719ad5af7104ca2)
+* 
 ---
 
 # 后端学习路线
@@ -381,9 +382,11 @@ VisualVM分析工具|[Jenkins](https://github.com/stevenli91748/JAVA-Architectur
 
 
 ### Guava 和 Hutool 两者都是目前非常好用的 Java 第三方工具类库,Guava 的关键性评分位列所有 Java 项目的第 78 位，而 Hutool 位于第 196 位。
-[guava---Google Java标准库的十全大补](https://github.com/google/guava)|[Guava RateLimiter 实现 API 限流，这才是正确的姿势](https://mp.weixin.qq.com/s/uyYqni2Li6DpaAYB0vniow)|[
-Guava学习入门](https://www.kancloud.cn/digest/guava)|
+[guava---Google Java标准库的十全大补](https://github.com/google/guava)|[Guava RateLimiter 实现 API 限流，这才是正确的姿势](https://mp.weixin.qq.com/s/uyYqni2Li6DpaAYB0vniow)|[Guava学习入门](https://www.kancloud.cn/digest/guava)|
 ---|---|---|
+
+[Getting started with google guava](https://weread.qq.com/web/reader/8d9321a0723016338d9a70c)|
+---|
 
 [Guava学习笔记](https://www.cnblogs.com/Courage129/p/14413974.html)|[Hutool---Hutool是项目中“util”包友好的替代,是一个小而全的Java工具类库](https://github.com/dromara/hutool)|
 ---|---|
