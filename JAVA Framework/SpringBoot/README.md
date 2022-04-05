@@ -399,6 +399,11 @@
 * 1 SpringBoot内部原理
   * [Spring Boot 这样优化，让你的项目飞起来！](https://mp.weixin.qq.com/s/pHw4Xdo9bEJvDXfoxQnnKw)
   * Spring Boot 三大核心特性（组件自动装配、嵌入式Web容器、生产准备特性）
+    * [Spring Boot starters](https://www.javaguides.net/2018/09/getting-started-with-spring-boot.html)
+    * [Spring Boot autoconfiguration](https://www.javaguides.net/2018/09/getting-started-with-spring-boot.html)
+    * [Elegant configuration management](https://www.javaguides.net/2018/09/getting-started-with-spring-boot.html)
+    * [Spring Boot actuator](https://www.javaguides.net/2018/09/getting-started-with-spring-boot.html)
+    * [Easy-to-use embedded servlet container support ](https://www.javaguides.net/2018/09/getting-started-with-spring-boot.html)
   * Web 应用（传统 Servlet、Spring Web MVC、Spring WebFlux）
   * 数据相关（JDBC、JPA、事务）
   * 功能扩展（SpringApplication、Spring Boot 配置、Spring Boot Starter）  
