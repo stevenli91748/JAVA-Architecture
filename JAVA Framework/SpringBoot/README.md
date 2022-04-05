@@ -398,8 +398,17 @@
 * [Spring Boot CLI教程](https://www.yiibai.com/springbootcli/)
 * 1 SpringBoot内部原理
   * [Spring Boot 这样优化，让你的项目飞起来！](https://mp.weixin.qq.com/s/pHw4Xdo9bEJvDXfoxQnnKw)
-  * Spring Boot 三大核心特性（组件自动装配、嵌入式Web容器、生产准备特性）
-    * [Spring Boot starters](https://www.javaguides.net/2018/09/getting-started-with-spring-boot.html)
+  * Spring Boot 五大核心特性（组件自动装配、嵌入式Web容器、生产准备特性）
+    * 启动器 
+      * [Spring Boot starters](https://www.javaguides.net/2018/09/getting-started-with-spring-boot.html)
+        * Spring Boot application starters
+        * Spring Boot production starters
+        * Spring Boot technical starters 
+      * [Spring Boot启动器](https://www.yiibai.com/spring-boot/spring-boot-starters.html)
+        * [Spring Boot启动器父级](https://www.yiibai.com/spring-boot/spring-boot-starter-parent.html) 
+        * [Spring Boot Starter Web](https://www.yiibai.com/spring-boot/spring-boot-starter-web.html)
+        * [Spring Boot依赖管理](https://www.yiibai.com/spring-boot/spring-boot-dm.html)
+        * [Spring Boot自定义starter](http://c.biancheng.net/spring_boot/custom-starter.html)
     * [Spring Boot autoconfiguration](https://www.javaguides.net/2018/09/getting-started-with-spring-boot.html)
     * [Elegant configuration management](https://www.javaguides.net/2018/09/getting-started-with-spring-boot.html)
     * [Spring Boot actuator](https://www.javaguides.net/2018/09/getting-started-with-spring-boot.html)
@@ -422,10 +431,6 @@
   * [SpringBoot 应用程序启动过程](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/SpringBoot%20%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E5%90%AF%E5%8A%A8%E8%BF%87%E7%A8%8B.md) 
   * [SpringBoot 配置](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/SpringBoot%20%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/README.md)
   * [Spring Boot自动配置原理](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/Spring%20Boot%E8%87%AA%E5%8A%A8%E9%85%8D%E7%BD%AE%E5%8E%9F%E7%90%86.md)
-  * [Spring Boot启动器](https://www.yiibai.com/spring-boot/spring-boot-starters.html)
-    * [Spring Boot启动器父级](https://www.yiibai.com/spring-boot/spring-boot-starter-parent.html) 
-    * [Spring Boot Starter Web](https://www.yiibai.com/spring-boot/spring-boot-starter-web.html)
-    * [Spring Boot依赖管理](https://www.yiibai.com/spring-boot/spring-boot-dm.html)
   * [Spring Boot国际化](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/Spring%20Boot%E5%9B%BD%E9%99%85%E5%8C%96.md)
   * [SpringBoot内存](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/SpringBoot%E5%86%85%E5%AD%98.md)
   * [SpringBoot Bean](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/SpringBoot%20Bean.md)
@@ -469,7 +474,6 @@
     * [JSON.simple Tutorial - Read and Write JSON in Java](https://www.javaguides.net/2019/07/jsonsimple-tutorial-read-and-write-json-in-java.html)
     * 
   * [自定义Spring Boot 内容协商](https://mrbird.cc/Spring-Boot-Diy-Resolver.html)
-  * [Spring Boot自定义starter](http://c.biancheng.net/spring_boot/custom-starter.html)
 * [4 SpringBoot数据訪问](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%A8%AA%E9%97%AE/README.md)
 * [5 SpringBoot事务管理](https://github.com/stevenli91748/JAVA-Architecture/tree/master/JAVA%20Framework/SpringBoot/%E4%BA%8B%E5%8A%A1%E7%AE%A1%E7%90%86)
 * [6 SpringBoot日志管理](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E6%97%A5%E5%BF%97%E7%AE%A1%E7%90%86/README.md)
