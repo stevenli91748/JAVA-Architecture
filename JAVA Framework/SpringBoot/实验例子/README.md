@@ -4,11 +4,45 @@
 * 项目创建
   * [使用Spring Initializer创建Web项目的步骤，并在browser中浏览它](https://www.yiibai.com/spring-boot/spring_boot_bootstrapping.html)
 * 项目配制
+  * how to create a Spring boot application with maven
+    * [Spring Boot 2 Hibernate 5 MySQL CRUD REST API Tutorial with using Maven config](https://www.javaguides.net/2018/09/spring-boot-2-hibernate-5-mysql-crud-rest-api-tutorial.html)  
   * XML配置例子实验
   * Java配置例子实验 
   * 注解配置例子实验
   * [通过单配置文件让工程适应多应用场景](https://weread.qq.com/web/reader/f6732e8071dbddd6f674178kc20321001cc20ad4d76f5ae)
   * [通过多配置文件使工程适应多应用场景](https://weread.qq.com/web/reader/f6732e8071dbddd6f674178kc51323901dc51ce410c121b)
+  * Spring Boot starters
+    * [spring-boot-starter-web---Spring Boot 2 Hibernate 5 MySQL CRUD REST API Tutorial](https://www.javaguides.net/2018/09/spring-boot-2-hibernate-5-mysql-crud-rest-api-tutorial.html) 
+    * [spring-boot-starter-test---Spring Boot 2 REST APIs Integration Testing  ](https://www.javaguides.net/2018/09/spring-boot-2-rest-apis-integration-testing.html)
+    * [spring-boot-starter-thymeleaf---Spring Boot 2 MVC Web Application Thymeleaf JPA MySQL Example](https://www.javaguides.net/2018/09/spring-boot2-mvc-web-application-thymeleaf-jpa-mysql-example.html)
+    * [spring-boot-starter-data-jpa---Spring Boot 2 JPA MySQL CRUD Example](https://www.javaguides.net/2018/09/spring-boot-2-jpa-mysql-crud-example.html)
+    * [spring-boot-starter-activemq---spring-boot-sample-amqp](https://github.com/RameshMF/spring-boot/tree/master/spring-boot-samples/spring-boot-sample-activemq)
+    * [spring-boot-starter-aop---spring-boot-sample-aop](https://github.com/RameshMF/spring-boot/tree/master/spring-boot-samples/spring-boot-sample-aop)
+    * [spring-boot-starter-batch---spring-boot-sample-batch](https://github.com/RameshMF/spring-boot/tree/master/spring-boot-samples/spring-boot-sample-batch)
+    * [spring-boot-starter-cache---spring-boot-sample-cache](https://github.com/RameshMF/spring-boot/tree/master/spring-boot-samples/spring-boot-sample-cache)
+    * [spring-boot-starter-data-cassandra--- spring-boot-sample-data-cassandra](https://github.com/RameshMF/spring-boot/tree/master/spring-boot-samples/spring-boot-sample-data-cassandra)
+    * [spring-boot-starter-data-couchbase---spring-boot-sample-data-couchbase](https://github.com/RameshMF/spring-boot/tree/master/spring-boot-samples/spring-boot-sample-data-couchbase)
+    * [spring-boot-starter-data-elasticsearch---spring-boot-sample-data-elasticsearch](https://github.com/RameshMF/spring-boot/tree/master/spring-boot-samples/spring-boot-sample-data-elasticsearch)
+    * [spring-boot-starter-data-ldap---spring-boot-sample-data-ldap](https://github.com/RameshMF/spring-boot/tree/master/spring-boot-samples/spring-boot-sample-data-ldap)
+    * [spring-boot-starter-data-mongodb---spring-boot-sample-data-mongodb](https://github.com/RameshMF/spring-boot/tree/master/spring-boot-samples/spring-boot-sample-data-mongodb)
+    * [spring-boot-starter-data-neo4j---spring-boot-sample-data-neo4j](https://github.com/RameshMF/spring-boot/tree/master/spring-boot-samples/spring-boot-sample-data-neo4j)
+    * [spring-boot-starter-data-redis---spring-boot-sample-data-redis](https://github.com/RameshMF/spring-boot/tree/master/spring-boot-samples/spring-boot-sample-data-redis)
+    * [spring-boot-starter-data-rest---spring-boot-sample-data-rest](https://github.com/RameshMF/spring-boot/tree/master/spring-boot-samples/spring-boot-sample-data-rest)
+    * [spring-boot-starter-data-solr---spring-boot-sample-data-solr](https://github.com/RameshMF/spring-boot/tree/master/spring-boot-samples/spring-boot-sample-data-solr)
+    * [spring-boot-starter-freemarker---spring-boot-sample-web-freemarker](https://github.com/RameshMF/spring-boot/tree/master/spring-boot-samples/spring-boot-sample-web-freemarker)
+    * [spring-boot-starter-hateoas---spring-boot-sample-hateoas](https://github.com/RameshMF/spring-boot/tree/master/spring-boot-samples/spring-boot-sample-hateoas)
+    * [spring-boot-starter-integration---spring-boot-sample-integration](https://github.com/RameshMF/spring-boot/tree/master/spring-boot-samples/spring-boot-sample-integration)
+    * [spring-boot-starter-jdbc---spring-boot-sample-web-secure-jdbc](https://github.com/RameshMF/spring-boot/tree/master/spring-boot-samples/spring-boot-sample-web-secure-jdbc)
+    * [spring-boot-starter-jersey---spring-boot-sample-jersey](https://github.com/RameshMF/spring-boot/tree/master/spring-boot-samples/spring-boot-sample-jersey)
+    * [spring-boot-starter-jooq---spring-boot-sample-jooq](https://github.com/RameshMF/spring-boot/tree/master/spring-boot-samples/spring-boot-sample-jooq)
+    * [spring-boot-starter-mustache---spring-boot-sample-web-mustache](https://github.com/RameshMF/spring-boot/tree/master/spring-boot-samples/spring-boot-sample-web-mustache)
+    * [spring-boot-starter-quartz---spring-boot-sample-quartz](https://github.com/RameshMF/spring-boot/tree/master/spring-boot-samples/spring-boot-sample-quartz)
+    * [spring-boot-starter-security---spring-boot-sample-secure](https://github.com/RameshMF/spring-boot/tree/master/spring-boot-samples/spring-boot-sample-secure)
+    * [spring-boot-starter-web-services---spring-boot-sample-webservices](https://github.com/RameshMF/spring-boot/tree/master/spring-boot-samples/spring-boot-sample-webservices)
+    * [spring-boot-starter-webflux---spring-boot-sample-secure-webflux](https://github.com/RameshMF/spring-boot/tree/master/spring-boot-samples/spring-boot-sample-secure-webflux)
+    * [spring-boot-starter-websocket---spring-boot-sample-websocket-tomcat](https://github.com/RameshMF/spring-boot/tree/master/spring-boot-samples/spring-boot-sample-websocket-tomcat)
+    * []()
+    * []()
 * Spring Boot Security
   * [Spring Boot Security + JSON Web Token(JWT) Complete Tutorial Series](https://www.javainuse.com/webseries/spring-security-jwt)
   * [Spring Boot Security + OAuth2 Complete Tutorial Series](https://www.javainuse.com/webseries/spring-security-oauth) 
