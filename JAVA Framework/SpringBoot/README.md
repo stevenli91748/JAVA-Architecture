@@ -413,6 +413,7 @@
     * [Elegant configuration management](https://www.javaguides.net/2018/09/getting-started-with-spring-boot.html)
     * [Spring Boot actuator](https://www.javaguides.net/2018/09/getting-started-with-spring-boot.html)
     * [Easy-to-use embedded servlet container support ](https://www.javaguides.net/2018/09/getting-started-with-spring-boot.html)
+  * [Standard Project Structure for Spring Boot Projects](https://www.javaguides.net/2019/01/standard-project-structure-for-spring-boot-projects.html)
   * Web 应用（传统 Servlet、Spring Web MVC、Spring WebFlux）
   * 数据相关（JDBC、JPA、事务）
   * 功能扩展（SpringApplication、Spring Boot 配置、Spring Boot Starter）  
