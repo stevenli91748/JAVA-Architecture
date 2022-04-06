@@ -22,6 +22,7 @@
    * [六分钟演示SpringBoot部署到腾讯云绑定域名](https://www.bilibili.com/video/av59319568?from=search&seid=1976421999597493025)
    * [我尝试使用Github Actions非常轻松地将Spring Boot应用程序部署到AWS Elastic Beanstalk](https://www.codenong.com/a59351c4f27083b3956f/) 
    * [Spring Boot AWS Deployment - Full Course video](https://www.youtube.com/watch?v=D1yOALZcMHs)
+   * [Deploying Spring Boot Apps to AWS using Elastic Beanstalk video](https://www.youtube.com/watch?v=ueKwBqobijE)
 ## SpringBoot项目部署在本地分布式环境中
    * [有关项目的打包与部署](https://weread.qq.com/web/reader/ca932ea071d7c798ca9a714k32932b102423295c76ac7d9)
    * [运行 Spring Boot 应用的 3 种方式](https://zhuanlan.zhihu.com/p/311245147?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
