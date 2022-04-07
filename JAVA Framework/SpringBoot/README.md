@@ -537,7 +537,7 @@
 * [28 SpringBoot服务整合](https://github.com/stevenli91748/JAVA-Architecture/tree/master/JAVA%20Framework/SpringBoot/%E5%AE%9E%E9%AA%8C%E4%BE%8B%E5%AD%90)
 * [29 Spring Boot Embedded Servers - Tomcat, Jetty and Undertow](https://www.javaguides.net/2019/04/spring-boot-embedded-servers-tomcat-jetty-and-undertow.html)  
   * [Deploy WAR file to External Tomcat](https://www.javaguides.net/2018/09/spring-boot-deploy-war-file-to-external-tomcat.html) 
-  * [SpringBootServletInitializer Class in Spring Boot](https://www.javaguides.net/2019/01/springbootservletinitializer-class-in-springboot.html)
+  * [SpringBootServletInitializer Class in Spring Boot---可以使用外部的Servlet容器](https://www.javaguides.net/2019/01/springbootservletinitializer-class-in-springboot.html)
 
 ---
 
