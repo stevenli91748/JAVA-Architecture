@@ -1,6 +1,7 @@
 ## SpringBoot项目打包
    * [Spring Boot项目打包成war包](https://mrbird.cc/Spring-Boot%20war.html)
    * [Spring Boot将WAR文件部署到Tomcat](https://www.yiibai.com/spring-boot/deploy-war-file-to-tomcat.html)
+     * [Deploy WAR file to External(外部) Tomcat](https://www.javaguides.net/2018/09/spring-boot-deploy-war-file-to-external-tomcat.html)  
    *  [第一种方法：使用Dockerfile为SpringBoot应用构建Docker镜像](http://www.macrozheng.com/#/reference/docker_file)
       * [SpringBoot打包成Docker镜像](https://www.cnblogs.com/niceyoo/p/13796792.html)  
    *  [第二种方法：使用Maven插件为SpringBoot应用构建Docker镜像](http://www.macrozheng.com/#/reference/docker_maven)
