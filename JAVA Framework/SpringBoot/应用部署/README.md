@@ -1,3 +1,8 @@
+ # 部署 Spring Boot 应用的两种方法
+   * 从可执行的 JAR 部署 Spring Boot 应用---当前的趋势
+   * [从传统 WAR 部署运行 SpringApplication 的接口---SpringBootServletInitializer](https://geek-docs.com/spring-boot/spring-boot-tutorials/springbootservletinitializer.html)
+
+
 ## SpringBoot项目打包
    * [Spring Boot项目打包成war包](https://mrbird.cc/Spring-Boot%20war.html)
    * [Spring Boot将WAR文件部署到Tomcat](https://www.yiibai.com/spring-boot/deploy-war-file-to-tomcat.html)
