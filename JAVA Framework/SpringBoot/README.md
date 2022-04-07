@@ -410,6 +410,7 @@
         * [Spring Boot依赖管理](https://www.yiibai.com/spring-boot/spring-boot-dm.html)
         * [Spring Boot自定义starter](http://c.biancheng.net/spring_boot/custom-starter.html)
     * [Spring Boot autoconfiguration](https://www.javaguides.net/2018/09/getting-started-with-spring-boot.html)
+      * [Spring Boot自动配置原理](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/Spring%20Boot%E8%87%AA%E5%8A%A8%E9%85%8D%E7%BD%AE%E5%8E%9F%E7%90%86.md)
     * [Elegant configuration management](https://www.javaguides.net/2018/09/getting-started-with-spring-boot.html)
     * [Spring Boot actuator](https://www.javaguides.net/2018/09/getting-started-with-spring-boot.html)
     * [Easy-to-use embedded servlet container support ](https://www.javaguides.net/2018/09/getting-started-with-spring-boot.html)
