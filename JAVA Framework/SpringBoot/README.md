@@ -465,6 +465,8 @@
   * SpringBoot Session
     * [SpringBoot中，如何使用Session共享实现分布式部署?](https://www.jianshu.com/p/722cf586ebf9?utm_campaign=hugo&utm_medium=reader_share&utm_content=note&utm_source=weixin-friends) 
   * [Thymeleaf模板引擎](https://github.com/stevenli91748/Frontend/blob/master/Thymeleaf/Readme.md)
+  * RestTemplate---**are the HTTP protocol’s methods HEAD, GET, POST, PUT, DELETE, and OPTIONS**
+    * [Intro to Spring RestTemplate](https://howtodoinjava.com/spring-boot2/resttemplate/spring-restful-client-resttemplate-example/) 
   * Spring Boot中的JSON技术--- Map Java objects to/from JSON
     * [Spring Boot中的JSON技术--mybird](https://mrbird.cc/Spring-Boot%20JSON.html) 
     * [Java API for JSON Processing Tutorials](https://www.logicbig.com/tutorials/java-ee-tutorial/java-api-for-json-processing.html)
