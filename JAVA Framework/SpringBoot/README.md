@@ -461,6 +461,7 @@
   * [Spring Boot 集成Swagger2](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/Spring%20Boot%20%E9%9B%86%E6%88%90Swagger2.md)
   * [Spring Boot中使用过滤器和拦截器](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/Spring%20Boot%E4%B8%AD%E4%BD%BF%E7%94%A8%E8%BF%87%E6%BB%A4%E5%99%A8%E5%92%8C%E6%8B%A6%E6%88%AA%E5%99%A8.md)
   * [Spring Boot定制Spring MVC](http://c.biancheng.net/spring_boot/spring-mvc.html)
+    * [Spring Boot Model ModelMap ModelAndView](https://zetcode.com/springboot/model/) 
   * [静态资源与模板引擎的整合](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/Web%E5%BC%80%E5%8F%91/%E9%9D%99%E6%80%81%E8%B5%84%E6%BA%90%E4%B8%8E%E6%A8%A1%E6%9D%BF%E5%BC%95%E6%93%8E%E7%9A%84%E6%95%B4%E5%90%88/README.md)
   * SpringBoot Session
     * [SpringBoot中，如何使用Session共享实现分布式部署?](https://www.jianshu.com/p/722cf586ebf9?utm_campaign=hugo&utm_medium=reader_share&utm_content=note&utm_source=weixin-friends) 
