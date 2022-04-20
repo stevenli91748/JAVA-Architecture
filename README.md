@@ -18,7 +18,7 @@
 * [java 高频源码解析](https://weread.qq.com/web/reader/df532740723982c7df583bf)
 * [java异步编程](https://weread.qq.com/web/reader/44332cc071a486a7443c539)
 * [程序员的三门课： 技术精进，架构修练，管理](https://weread.qq.com/web/reader/71032d60719ad5af7104ca2)
-* 
+* [极客时间](https://learn.lianglianglee.com/)
 ---
 
 # 后端学习路线
