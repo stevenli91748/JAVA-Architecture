@@ -1,7 +1,8 @@
 # 在线书籍
 * [ELK Stack 权威指南](https://weread.qq.com/web/reader/af7323005b46bbaf7edb262)
+* [ELK Stack 权威指南(第2版)](https://weread.qq.com/web/reader/53432e00811e27ed7g017794)
 
-
+---
 
 * 日志系统
   * [1. 常规日志系统 ](#1-常规日志系统)
