@@ -70,7 +70,7 @@
 ## 第一部分 RestFulAPI 篇
 
 ## RestFulAPI 设计思路
-
+* [REST API 教程：REST 客户端，REST 服务及 API 调用（含代码示例）](https://chinese.freecodecamp.org/news/rest-api-tutorial-rest-client-rest-service-and-api-calls-explained-with-code-examples/)
 * [微服务手册：API接口9个生命节点，构建全生命周期管理](https://www.toutiao.com/i6900147166866702851/?group_id=6900147166866702851)
 * [HTTP 接口设计指北](https://www.kancloud.cn/kancloud/http-api-guide)
 * API的意义---我们必须拥抱 API，并使用 API 先行（API-first）的集成思维来开发我们的集成用例，以 API 驱动的方式开展项目开发和集成
