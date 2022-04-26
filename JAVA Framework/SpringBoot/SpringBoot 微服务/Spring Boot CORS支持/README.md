@@ -9,3 +9,4 @@
 * [跨域资源共享 CORS 详解](http://www.ruanyifeng.com/blog/2016/04/cors.html)
 * [利用CORS实现跨域请求](http://newhtml.net/using-cors/)
 * [跨域资源共享”（Cross Origin Resource Sharing, CORS）](https://fetch.spec.whatwg.org/)
+* [Spring Boot 前后端分离部署 @CrossOrigin 部署没有效果的问题](https://blog.csdn.net/qrn196789910/article/details/109022586?spm=1001.2101.3001.6650.6&utm_medium=distribute.pc_relevant.none-task-blog-109022586-blog-78841780-2%7Edefault%7EBlogCommendFromBaidu%7Edefault-6.pc_relevant_default&depth_1-utm_source=distribute.pc_relevant.none-task-blog-109022586-blog-78841780-2%7Edefault%7EBlogCommendFromBaidu%7Edefault-6.pc_relevant_default&utm_relevant_index=11)
