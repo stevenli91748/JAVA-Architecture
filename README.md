@@ -281,6 +281,7 @@
 
 
 ### 尚硅谷
+* [尚硅谷各种视频教程 ](https://www.gulixueyuan.com/)
 * [19年尚硅谷新项目-尚筹网-单一架构阶段一](https://www.bilibili.com/video/av82534518/?spm_id_from=333.788.b_636f6d6d656e74.6)
 * [19年尚硅谷新项目-尚筹网-分布式架构阶段二](https://www.bilibili.com/video/av82805897/?spm_id_from=333.788.b_636f6d6d656e74.7)
 * [项目搭建“天眼”Java大规模分布式跟踪监控系统（实战项目）](https://www.bilibili.com/video/BV1gZ4y1x7VM?p=6)
