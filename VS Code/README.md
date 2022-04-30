@@ -6,3 +6,7 @@
 
 [Don't Use a Mouse Anymore! VSCode Shortcuts Tips and Tricks](https://www.youtube.com/watch?v=jsZoR1kkq6s)|
 ---|
+
+
+# 参考
+* [教你如何用vscode搭建原生app开发环境](https://www.jianshu.com/p/378930364493)
