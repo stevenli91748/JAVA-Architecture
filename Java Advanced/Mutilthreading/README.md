@@ -19,6 +19,10 @@
 
 ---
 
+[怎样设置电脑CPU运行的核心数](https://www.youtube.com/shorts/lnn4nOh8c9E)|
+---|
+
+
 [Java并发知识体系详解](https://www.pdai.tech/md/java/thread/java-thread-x-overview.html)|[Java Multithreading Tutorial example](https://www.javaguides.net/p/java-multithreading-utorial.html)|[Java Concurrency Tutorial example](https://www.javaguides.net/p/java-concurrency-tutorial.html)|[Java Multithreading with example](https://www.logicbig.com/tutorials/core-java-tutorial/java-multi-threading.html)|
 ---|---|---|---|
 
