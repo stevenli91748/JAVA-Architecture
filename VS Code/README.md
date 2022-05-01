@@ -5,6 +5,10 @@
 ---|---|
 
 
+# VS Code Extensions
+* 远程合作
+  * Live Share Extension Pack (microsoft) 
+
 
 # 视频
 * setup develope enviroment
