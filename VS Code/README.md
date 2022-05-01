@@ -10,9 +10,9 @@
 * setup develope enviroment
   * [How to Set Up Java Development in Visual Studio Code on Windows ](https://www.youtube.com/watch?v=ClU9N4ub_Ko)
   * [Get started with Visual Studio Code](https://www.youtube.com/watch?v=S320N3sxinE&list=PLj6YeMhvp2S5UgiQnBfvD7XgOMKs3O_G6)
-* [Visual Studio Code 2022 | Web Dev Setup | Top Extensions, Themes, Settings, Tips & Tricks](https://www.youtube.com/watch?v=fJEbVCrEMSE)
-* [Don't Use a Mouse Anymore! VSCode Shortcuts Tips and Tricks](https://www.youtube.com/watch?v=jsZoR1kkq6s)
-* [Best VS Code Extensions I Wish I Knew Before](https://www.youtube.com/watch?v=ZqW8JT1gt4U)
+  * [Visual Studio Code 2022 | Web Dev Setup | Top Extensions, Themes, Settings, Tips & Tricks](https://www.youtube.com/watch?v=fJEbVCrEMSE)
+  * [Don't Use a Mouse Anymore! VSCode Shortcuts Tips and Tricks](https://www.youtube.com/watch?v=jsZoR1kkq6s)
+  * [Best VS Code Extensions I Wish I Knew Before](https://www.youtube.com/watch?v=ZqW8JT1gt4U)
 
 
 # 参考
