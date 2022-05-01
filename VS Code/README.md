@@ -7,6 +7,7 @@
 
 
 # 视频
+* [Visual Studio Code 2022 | Web Dev Setup | Top Extensions, Themes, Settings, Tips & Tricks](https://www.youtube.com/watch?v=fJEbVCrEMSE)
 * [Don't Use a Mouse Anymore! VSCode Shortcuts Tips and Tricks](https://www.youtube.com/watch?v=jsZoR1kkq6s)
 * [Best VS Code Extensions I Wish I Knew Before](https://www.youtube.com/watch?v=ZqW8JT1gt4U)
 
