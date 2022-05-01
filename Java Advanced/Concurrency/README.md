@@ -18,7 +18,11 @@
 * [web异步与实时交互](https://weread.qq.com/web/reader/de6324207159aca5de6e303)
 * [java并发编程：核心方法与框架](https://weread.qq.com/web/reader/57532cb05c8bdb575bd45ba)
 * [java并发实现原理：JDK源码分析](https://weread.qq.com/web/reader/6de3271071dbddc06de1a75)
+
 ---
+
+[怎样设置电脑CPU运行的核心数](https://www.youtube.com/shorts/lnn4nOh8c9E)|
+---|
 
 [Java 全栈知识体系---Java并发知识体系详解](https://www.pdai.tech/md/java/thread/java-thread-x-overview.html)|[Java Multithreading Tutorial example](https://www.javaguides.net/p/java-multithreading-utorial.html)|[Java Concurrency Tutorial example](https://www.javaguides.net/p/java-concurrency-tutorial.html)|
 ---|----|---|
