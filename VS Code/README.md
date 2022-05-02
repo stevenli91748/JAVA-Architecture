@@ -7,7 +7,12 @@
 
 # VS Code Extensions
 * 远程合作
-  * Live Share Extension Pack (microsoft) 
+  * [Live Share Extension Pack (microsoft) ](https://www.youtube.com/watch?v=A2ceblXTBBc&list=PLj6YeMhvp2S5UgiQnBfvD7XgOMKs3O_G6&index=6)
+* python
+* java
+* Tomcat 
+* jetty
+*  
 
 
 # 视频
