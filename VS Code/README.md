@@ -11,18 +11,29 @@
   * [Live Share Extension Pack (microsoft) ](https://www.youtube.com/watch?v=A2ceblXTBBc&list=PLj6YeMhvp2S5UgiQnBfvD7XgOMKs3O_G6&index=6)
     * [Collaborate with Live Share](https://code.visualstudio.com/learn/collaboration/live-share) 
     * [Install and sign in to Live Share in Visual Studio Code](https://docs.microsoft.com/en-us/visualstudio/liveshare/use/install-live-share-visual-studio-code)
+* [CodeTour](https://code.visualstudio.com/learn/educators/codetour)
+* [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
+* Git
+  * [Use Git version-control tools in Visual Studio Code](https://docs.microsoft.com/en-us/learn/modules/use-git-from-vs-code/) 
 * python
+  * [Get started with Python in Visual Studio](https://docs.microsoft.com/en-us/learn/modules/python-install-vscode/) 
 * java
 * Tomcat 
 * jetty
-*  
+* SpringBoot
+* [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) 
+* [Remote - SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)
+* [Vue](https://marketplace.visualstudio.com/items?itemName=octref.vetur)  
+* Javascript
+  * [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) 
+  * [Node.js and JavaScript Education Extension Pack](https://marketplace.visualstudio.com/items?itemName=tanhakabir.node-js-education-extension-pack)
 
 
 # 视频
 * setup develope enviroment
   * [How to Set Up Java Development in Visual Studio Code on Windows ](https://www.youtube.com/watch?v=ClU9N4ub_Ko)
   * [Get started with Visual Studio Code](https://www.youtube.com/watch?v=S320N3sxinE&list=PLj6YeMhvp2S5UgiQnBfvD7XgOMKs3O_G6)
-  * [Visual Studio Code 2022 | Web Dev Setup | Top Extensions, Themes, Settings, Tips & Tricks](https://www.youtube.com/watch?v=fJEbVCrEMSE)
+  * [Visual Studio Code 2022  Web Dev Setup  Top Extensions, Themes, Settings, Tips & Tricks](https://www.youtube.com/watch?v=fJEbVCrEMSE)
   * [Don't Use a Mouse Anymore! VSCode Shortcuts Tips and Tricks](https://www.youtube.com/watch?v=jsZoR1kkq6s)
   * [Best VS Code Extensions I Wish I Knew Before](https://www.youtube.com/watch?v=ZqW8JT1gt4U)
 
