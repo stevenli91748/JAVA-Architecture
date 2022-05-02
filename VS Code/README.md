@@ -8,19 +8,24 @@
 # VS Code Extensions
 * [VS extensions Marketplace](https://marketplace.visualstudio.com/search?target=VSCode&category=Extension%20Packs&sortBy=Installs)
 * 远程合作
+  * [Live Share Audio](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-audio) 
   * [Live Share Extension Pack (microsoft) ](https://www.youtube.com/watch?v=A2ceblXTBBc&list=PLj6YeMhvp2S5UgiQnBfvD7XgOMKs3O_G6&index=6)
     * [Collaborate with Live Share](https://code.visualstudio.com/learn/collaboration/live-share) 
     * [Install and sign in to Live Share in Visual Studio Code](https://docs.microsoft.com/en-us/visualstudio/liveshare/use/install-live-share-visual-studio-code)
+* 远程开发
+  * [Remote Development ](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack)
 * [CodeTour](https://code.visualstudio.com/learn/educators/codetour)
 * [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
 * Git
   * [Use Git version-control tools in Visual Studio Code](https://docs.microsoft.com/en-us/learn/modules/use-git-from-vs-code/) 
 * python
   * [Get started with Python in Visual Studio](https://docs.microsoft.com/en-us/learn/modules/python-install-vscode/) 
+  * [Python Education Extension Pack](https://marketplace.visualstudio.com/items?itemName=tanhakabir.python-education-extension-pack)
 * java
 * Tomcat 
 * jetty
 * SpringBoot
+* [Go](https://marketplace.visualstudio.com/items?itemName=golang.Go)
 * [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) 
 * [Remote - SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)
 * [Vue](https://marketplace.visualstudio.com/items?itemName=octref.vetur)  
