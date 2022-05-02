@@ -6,9 +6,11 @@
 
 
 # VS Code Extensions
+* [VS extensions Marketplace](https://marketplace.visualstudio.com/search?target=VSCode&category=Extension%20Packs&sortBy=Installs)
 * 远程合作
   * [Live Share Extension Pack (microsoft) ](https://www.youtube.com/watch?v=A2ceblXTBBc&list=PLj6YeMhvp2S5UgiQnBfvD7XgOMKs3O_G6&index=6)
     * [Collaborate with Live Share](https://code.visualstudio.com/learn/collaboration/live-share) 
+    * [Install and sign in to Live Share in Visual Studio Code](https://docs.microsoft.com/en-us/visualstudio/liveshare/use/install-live-share-visual-studio-code)
 * python
 * java
 * Tomcat 
