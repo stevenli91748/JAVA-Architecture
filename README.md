@@ -336,7 +336,7 @@
 [最新 Java 开发工具教程，都在这了](https://mp.weixin.qq.com/s/K2nbzDQmharfYhkBDvwQdw)|[java代码审计](https://weread.qq.com/web/reader/c8732a70726fa058c87154b)|[Kotlin](https://github.com/stevenli91748/Kotlin/blob/main/README.md)|
 ---|---|---|
 
-[VS Code](https://github.com/stevenli91748/JAVA-Architecture/blob/master/VS%20Code/README.md)|[Alibaba Java诊断利器Arthas](https://github.com/alibaba/arthas)|[静态代码分析工具](https://weread.qq.com/web/reader/71032d60719ad5af7104ca2kaab325601eaab3238922e53)|
+[VS Code](https://github.com/stevenli91748/Frontend/blob/master/Visual%20Studio%20Code/README.md)|[Alibaba Java诊断利器Arthas](https://github.com/alibaba/arthas)|[静态代码分析工具](https://weread.qq.com/web/reader/71032d60719ad5af7104ca2kaab325601eaab3238922e53)|
 ---|---|---|
 
 [IntellijIDEA](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/IntellijIDEA)|[Nginx](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Nginx)|[WebSocket](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/WebSocket)|[Tomcat](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Tomcat/README.md)|[QRCode](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/QRCode)|[Search Engineer](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Search%20Engineer)|[Shiro权限框架](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Shiro)|[Maven](https://github.com/stevenli91748/Engineering-special/blob/master/Maven/README.md)|
