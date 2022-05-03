@@ -19,6 +19,7 @@
 * [java异步编程](https://weread.qq.com/web/reader/44332cc071a486a7443c539)
 * [程序员的三门课： 技术精进，架构修练，管理](https://weread.qq.com/web/reader/71032d60719ad5af7104ca2)
 * [极客时间](https://learn.lianglianglee.com/)
+* [从程序员倒百万高管的72项技能](https://weread.qq.com/web/reader/eca32a6072226598ecad6e0)
 ---
 
 # 后端学习路线
