@@ -10,7 +10,7 @@
 # [GVP ( Gitee Most Valuable Project ) ---Gitee 综合评定出的优秀开源项目的展示平台](https://gitee.com/gvp)
 # [StackShare---可以查找到软件的流行率](https://stackshare.io/categories)
 # [程序员英语单词册](https://www.kancloud.cn/haixu926611/study-english/112096)
-
+# [计算机系统解密：从理解计算机到编写高效代码](https://weread.qq.com/web/bookDetail/98432a70726e82339840d31)
 
 # 在线书籍
 
