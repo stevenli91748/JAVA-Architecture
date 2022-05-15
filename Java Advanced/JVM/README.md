@@ -24,8 +24,8 @@
 <a href="https://ibb.co/HtT9bJ1"><img src="https://i.ibb.co/jykjQpB/jvm20190508233557662.png" alt="jvm20190508233557662" border="0"></a>
 
 
-[精尽 Java【虚拟机】学习指南](http://svip.iocoder.cn/Java/VirtualMachine/tutorials/)|[Java 全栈知识体系---JVM相关知识体系详解](https://www.pdai.tech/md/java/jvm/java-jvm-x-overview.html)|
----|---|
+[精尽 Java【虚拟机】学习指南](http://svip.iocoder.cn/Java/VirtualMachine/tutorials/)|[Java 全栈知识体系---JVM相关知识体系详解](https://www.pdai.tech/md/java/jvm/java-jvm-x-overview.html)|[GraalVM下一代的JVM](https://cloud.tencent.com/developer/article/1838811)|
+---|---|---|
 
 JVM实验例子|[常见JVM内存错误及解决方案](https://www.kancloud.cn/haijun0314/fengxue/2056242)|[Java 虚拟机底层原理知识总结](https://github.com/doocs/jvm)|
 ---|---|---|
