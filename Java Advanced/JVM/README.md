@@ -4,6 +4,7 @@
 # 在线书籍
 
 * [深入理解Java虚拟机：JVM高级特性与最佳实践（第2版） 周志明](https://weread.qq.com/web/bookReview/list?bookId=9b832f305933f09b86bd2a9)
+* [深入理解Java虚拟机：JVM高级特性与最佳实践（第3版） 周志明](https://weread.qq.com/web/bookDetail/cf1320d071a1a78ecf19254) 
 * [Java虚拟机字节码： 从入门到实战](https://weread.qq.com/web/reader/8d7327107217731e8d7ed1e)
 * [垃圾回收的算法与实现](https://weread.qq.com/web/reader/f0232240723982d3f02c0fd)
 * [深入解析Java编译器：源码解析和实例讲解](https://weread.qq.com/web/reader/85832b5071a486bc858ab8a)
