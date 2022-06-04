@@ -14,8 +14,8 @@
 
 
 # JVM 视频
-* []()
-* [JVM中篇内容概述](https://www.youtube.com/watch?v=ECMCAe8OJB4&list=PLmOn9nNkQxJFuWhUYNllO-T871GYgKOLU)
+* [JVM上篇：内存与垃圾回收篇概述]()
+* [JVM中篇：字节码与类的加载篇](https://www.youtube.com/watch?v=ECMCAe8OJB4&list=PLmOn9nNkQxJFuWhUYNllO-T871GYgKOLU)
 * []()
 
 
