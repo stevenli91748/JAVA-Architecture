@@ -14,9 +14,10 @@
 
 
 # JVM 视频
-* [JVM上篇：内存与垃圾回收篇概述]()
+* [尚硅谷宋红康JVM全套教程（详解java虚拟机）](https://www.bilibili.com/video/BV1PJ411n7xZ?spm_id_from=333.337.search-card.all.click)
+* [JVM上篇：内存与垃圾回收篇概述](https://www.youtube.com/watch?v=KbmZRzl16D4&list=PLmOn9nNkQxJHNSznBikUX5sMv_XwDUYz4)
 * [JVM中篇：字节码与类的加载篇](https://www.youtube.com/watch?v=ECMCAe8OJB4&list=PLmOn9nNkQxJFuWhUYNllO-T871GYgKOLU)
-* []()
+* [JVM下篇：性能监控与调优篇](https://www.youtube.com/watch?v=VnRh057KVyk&list=PLmOn9nNkQxJFESqNAbyTDTHwra97BfZwL)
 
 
 
