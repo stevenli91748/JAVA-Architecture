@@ -13,7 +13,10 @@
 #  [搞定JVM基本原理和面试题，看看这几本书妥妥够了！](https://mp.weixin.qq.com/s?__biz=MzUyOTk5NDQwOA==&mid=2247490561&idx=2&sn=1cb850b51b74531eb058368f78f91f42&chksm=fa59dbc6cd2e52d0da78caa5302204ada8662c2a8796818d177a5adb4aca408f30b913a03818&scene=21#wechat_redirect)
 
 
-
+# JVM 视频
+* []()
+* [JVM中篇内容概述](https://www.youtube.com/watch?v=ECMCAe8OJB4&list=PLmOn9nNkQxJFuWhUYNllO-T871GYgKOLU)
+* []()
 
 
 
