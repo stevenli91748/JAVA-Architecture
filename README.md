@@ -36,6 +36,11 @@
 <a href="https://ibb.co/HGHKbC8"><img src="https://i.ibb.co/frxXy9w/java-678.png" alt="java-678" border="0"></a>
 
 
+# 计算机基础
+* [计算机组成原理 清华大学 国家精品课程](https://www.youtube.com/watch?v=LdYRsZNxq9Q&list=PLgSjsxruwagoMc7BNWCqLzDlBbDaKc2bm)
+* [操作系统原理 清华大学 ](https://www.youtube.com/watch?v=ldIqNkEk8h8&list=PLgSjsxruwagoYuFuMnUY-lMzTfQR7ugw9)
+* [谢希仁计算机网络第七版](https://www.youtube.com/watch?v=5fsUULNXhTo&list=PLgSjsxruwagp1BXGeg97ACq2JApVP05T-)
+
 # 第十三阶段 学习指南
 
 [阿里巴巴 知行动手实验室](https://start.aliyun.com/)|[极客教程 JAVA篇---提供最全面最通俗易懂的IT技术教程，包括基础教程和高级教程](https://geek-docs.com/java)|[java核心知识整理](https://www.kancloud.cn/imnotdown1019/java_core_full/1004074)|
