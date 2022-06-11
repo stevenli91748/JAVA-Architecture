@@ -399,6 +399,7 @@
 
 # 目录
 * [0 SpringBoot 基础知识 核心知识](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/README.md)
+  * [十分钟搞懂Lombok使用与原理](https://juejin.cn/post/6844903557016076302)
 * [Spring Boot CLI教程](https://www.yiibai.com/springbootcli/)
 * 1 SpringBoot内部原理
   * [Spring Boot 这样优化，让你的项目飞起来！](https://mp.weixin.qq.com/s/pHw4Xdo9bEJvDXfoxQnnKw)
