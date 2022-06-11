@@ -4,7 +4,7 @@
 # 版本对应详细
 
 
-
+* [十分钟搞懂Lombok使用与原理](https://juejin.cn/post/6844903557016076302)
 * [Spring Boot 要怎么学？要学哪些东西？要不要先学 SSM?  很好的资源 ](https://blog.csdn.net/u012702547/article/details/104474467)
 * [SpringBoot 基础知识 核心知识 【收藏版】---疯狂创客圈](https://www.cnblogs.com/crazymakercircle/p/13895735.html)
 * [Spring Boot 入门---很好的资源](http://springboot.javaboy.org/)
