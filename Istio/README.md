@@ -21,6 +21,9 @@
 [Service Mesher社区---istio资料](https://www.servicemesher.com/)|[部署 Istio](https://icyfenix.cn/appendix/istio.html)|[周志明 如何部署 Istio](https://icyfenix.cn/appendix/istio.html)|
 ---|---|---|
 
+[istio-1.6 的快速开始文档](https://www.kancloud.cn/pshizhsysu/istio/1727521)|
+---|
+
 
 # 参考
 
