@@ -9,6 +9,13 @@
 [Thymeleaf Tutorial with example](https://www.javaguides.net/p/thymeleaf-tutorial.html)|[Spring Boot静态资源映射](http://c.biancheng.net/spring_boot/static-mapping.html)|
 ---|---|
 
+# 目录
+  * 模板引擎
+    * Freemarker
+    * Thymeleaf
+    * Velocity
+
+# 参考
 * [前后端分离架构，Node 中间层](https://www.crs811.com/archives/1542)
 * [Springboot多种方法处理静态资源：设置并访问静态资源目录](https://www.jianshu.com/p/794ddca13101)
 * [使用Thymeleaf模板引擎渲染web视图](http://blog.didispace.com/springbootweb/)
