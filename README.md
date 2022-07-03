@@ -372,6 +372,9 @@ VisualVM分析工具|[Jenkins](https://github.com/stevenli91748/JAVA-Architectur
 [日志系统](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/%E6%97%A5%E5%BF%97%E7%B3%BB%E7%BB%9F/README.md)|[FastDFS](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/FastDFS/README.md)|[模板引擎](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/%E6%A8%A1%E6%9D%BF%E5%BC%95%E6%93%8E/README.md)|[Shiro---安全架构](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Security/shiro.md)|[Activiti工作流引擎](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Activiti%E5%B7%A5%E4%BD%9C%E6%B5%81%E5%BC%95%E6%93%8E/README.md)|[Mockito](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Mockito/mochito.md)|[Service Mesh微服务](https://github.com/stevenli91748/MicroService/blob/master/Service%20Mesh/README.md)|
 ---|---|---|---|---|---|---|
 
+[DevOps](https://github.com/stevenli91748/DevOps-Develope)|
+---|
+
 [持续集成服务 Travis CI 教程](https://www.ruanyifeng.com/blog/2017/12/travis_ci_tutorial.html)|[Junit5 with example](https://www.javaguides.net/p/junit-5.html)|
 ---|---|
 
