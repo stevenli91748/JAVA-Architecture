@@ -9,11 +9,11 @@
 # [Github上100k点赞的计算机开源课程免费开源了！](https://zhuanlan.zhihu.com/p/418178828)
 # [GVP ( Gitee Most Valuable Project ) ---Gitee 综合评定出的优秀开源项目的展示平台](https://gitee.com/gvp)
 # [StackShare---可以查找到软件的流行率](https://stackshare.io/categories)
-# [程序员英语单词册](https://www.kancloud.cn/haixu926611/study-english/112096)
-# [计算机系统解密：从理解计算机到编写高效代码](https://weread.qq.com/web/bookDetail/98432a70726e82339840d31)
+
 
 # 在线书籍
-
+* [程序员英语单词册](https://www.kancloud.cn/haixu926611/study-english/112096)
+* [计算机系统解密：从理解计算机到编写高效代码](https://weread.qq.com/web/bookDetail/98432a70726e82339840d31)
 * [高性能JAVA架构： 核心原理与案例实战](https://weread.qq.com/web/reader/6ba32c40726e7c066bad7ed)
 * [java 高频源码解析](https://weread.qq.com/web/reader/df532740723982c7df583bf)
 * [java异步编程](https://weread.qq.com/web/reader/44332cc071a486a7443c539)
