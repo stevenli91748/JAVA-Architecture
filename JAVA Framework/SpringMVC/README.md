@@ -7,7 +7,7 @@
 
 # 在线书籍
 * [SpringMVC + MyBatis 快速开发与项目实战](https://weread.qq.com/web/reader/8f032eb0718471008f0adcb)
-
+* [Spring MVC+MyBatis开发从入门到项目实践：超值版 2020](https://weread.qq.com/web/reader/b8a329707207bc93b8adc6c)
 
 ---
 
