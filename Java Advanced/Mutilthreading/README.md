@@ -16,7 +16,7 @@
 * [Spring Cloud、Nginx高并发核心编程---原理级”“思想级”经典图书 2020](https://weread.qq.com/web/reader/a2032080720a3143a204cce)
 * [Java高并发编程详解：深入理解并发核心库](https://weread.qq.com/web/reader/30b3225071eeefb430bb397)
 * [Java高并发编程详解-多线程与架构设计](https://weread.qq.com/web/reader/40632d70811e39a3ag018fbe)
-
+* [Java多线程编程核心技术（第3版）2022](https://weread.qq.com/web/reader/42d32880728a99b142df9d5)
 ---
 
 [怎样设置电脑CPU运行的核心数](https://www.youtube.com/shorts/lnn4nOh8c9E)|
