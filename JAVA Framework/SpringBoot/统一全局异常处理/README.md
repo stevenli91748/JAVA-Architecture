@@ -8,6 +8,6 @@
 * [如何优雅的在SpringBoot项目中处理异常](https://www.jianshu.com/p/e53a8675b612)
 * [SpringBoot统一接口返回和全局异常处理](https://www.jianshu.com/p/1dfa354bd349)
 * [使用全局异常来处理校验逻辑的方式](http://www.macrozheng.com/#/technology/springboot_validator)
-
+* [统一全局异常处理---看云](https://www.kancloud.cn/hanxt/springboot2/1177633)
 
 # 
