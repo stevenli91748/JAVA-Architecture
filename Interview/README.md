@@ -37,7 +37,8 @@
 * [Offer来了： JAVA面试核心知识(框架篇) 2020](https://weread.qq.com/web/reader/0473295071df008204747ae)
 * [程序员代码面试指南： IT名企算法与数据结构题目最优解（第2版）](https://weread.qq.com/web/reader/1be32b907184877a1be90a2)
 
-
+# Java成神知识点视频
+* [32个Java面试必考点---从语言到系统设计全方位的知识点，可作为学习路径](https://www.youtube.com/playlist?list=PL5d0qARooeQjH9JkFJzSnSaIdhIkJR5Lq)
 
 ---
 
