@@ -492,6 +492,10 @@
 * [10 SpringBoot RPC 开发](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/spring%20boot%E7%9A%84RPC%20%E5%BC%80%E5%8F%91/README.md)
 * [11 RESTFul接口实现与测试](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/RESTful%20API/RESTful%20API.md)
   * [RESTFul API构建](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/RESTful%20API/RESTful%20API.md)
+  * [保证接口数据安全的10种方案](https://mp.weixin.qq.com/s/p_jL2N_8julhRfJQj-Eatw)
+  * api接口访问需要使用https进行加密
+  * api接口需要OAuth2.0授权
+  * api接口需要签名认证
   * [SpringBoot利用限速器RateLimiter实现单机限流---避免用户的恶意刷接口](https://www.jianshu.com/p/6e812f307f06) 
   * [How to Mock RESTFUL APIs ](https://www.youtube.com/watch?v=tJRN5WBF5Wc&t=36s)
   * [Building Async REST APIs with Spring WebFlux example](https://howtodoinjava.com/spring-webflux/spring-webflux-tutorial/) 
