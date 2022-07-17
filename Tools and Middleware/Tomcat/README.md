@@ -16,6 +16,11 @@ tomcat的优势在于少量的接收并处理复杂的http请求（将用户请�
   [root@www html]# curl www.mywebapp-name.com
   就可用域名訪问了
 
+# 在线书籍
+
+* [Tomcat内核设计剖析---2017](https://weread.qq.com/web/reader/55f32620715a41ed55f76ac)
+
+
 
 
 # [Tomcat面试题](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Tomcat/interview/Tomcat%E9%9D%A2%E8%AF%95%E9%A2%98.md)
