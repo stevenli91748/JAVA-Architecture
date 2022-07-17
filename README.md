@@ -27,7 +27,7 @@
   * [凤凰架构： 构建可靠的大型分布式系统](https://weread.qq.com/web/bookDetail/3fe328b072517cbf3fea609)
 * [程序员数学： 用Python学透线性代数和微分](https://weread.qq.com/web/reader/818320a0728a4acc8189214)  
 * [编写高质量代码——改善Java程序的151个建议](https://weread.qq.com/web/reader/3cc32750597de83cc5abc31kecc32f3013eccbc87e4b62e)
-
+* [“饿了么”质量体系搭建实战----专业的测试系统解析](https://weread.qq.com/web/reader/9cb32f10721a48be9cbdc2ake4d32d5015e4da3b7fbb1fa)
 ---
 
 # 后端学习路线
