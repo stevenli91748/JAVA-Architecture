@@ -14,6 +14,7 @@
 # 在线书籍
 * [程序员英语单词册](https://www.kancloud.cn/haixu926611/study-english/112096)
 * [计算机系统解密：从理解计算机到编写高效代码](https://weread.qq.com/web/bookDetail/98432a70726e82339840d31)
+* [Java实战（第2版）](https://weread.qq.com/web/reader/6da323e071c956186da64ac)
 * [高性能JAVA架构： 核心原理与案例实战](https://weread.qq.com/web/reader/6ba32c40726e7c066bad7ed)
 * [java 高频源码解析](https://weread.qq.com/web/reader/df532740723982c7df583bf)
 * [java异步编程](https://weread.qq.com/web/reader/44332cc071a486a7443c539)
