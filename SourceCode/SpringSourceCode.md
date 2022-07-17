@@ -15,7 +15,7 @@
 * [Spring事务源码分析](https://www.bilibili.com/video/av63568054/?p=10)
 * [花7880元买来的Spring源码全套视频教程！](https://www.bilibili.com/video/BV1oE411N7ZU/?spm_id_from=333.788.videocard.9)
 # 有用的参考
-
+* [想读Spring源码？先从这篇「 极简教程」开始](https://zhuanlan.zhihu.com/p/128673649)
 * [intellij IDEA导入java源码](https://www.cnblogs.com/gczmn/p/8795930.html)
 * [如何阅读Java源码？](https://blog.csdn.net/fygu18/article/details/81295187)
 * [IntelliJ IDEA 导入Spring源码](https://www.cnblogs.com/gczmn/archive/2018/01/30/8386250.html)
