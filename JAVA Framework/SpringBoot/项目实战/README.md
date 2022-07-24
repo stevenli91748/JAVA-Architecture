@@ -29,3 +29,8 @@
 * [【项目实践】SpringBoot三招组合拳，手把手教你打出优雅的后端接口](https://zhuanlan.zhihu.com/p/134209666?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
 * [【项目实践】后端接口统一规范的同时，如何优雅得扩展规范](https://juejin.im/post/6844904143912435719)
 * [【项目实践】SpringBoot-如何设计优秀的后端接口](https://juejin.im/post/6860404263143604232)
+
+
+
+#  故障的排查思路
+* [能解决 80% 故障的排查思路](https://mp.weixin.qq.com/s/ikORti7CiP2wE5vLF4_ZnQ)
