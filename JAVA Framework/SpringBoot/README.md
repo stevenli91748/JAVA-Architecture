@@ -125,6 +125,9 @@
 
 ---
 
+[SpringBoot官宣：正式弃用 Java 8](https://mp.weixin.qq.com/s/tK3A0KNcpSVWiJpT4-SOiQ)|
+---|
+
 [极客教程 Spring Boot篇---提供最全面最通俗易懂的IT技术教程，包括基础教程和高级教程](https://geek-docs.com/spring-boot)|[疯狂创客圈 ](https://www.cnblogs.com/crazymakercircle/p/9904544.html)|[疯狂创客圈-全部作品在线阅读-微信读书](https://weread.qq.com/web/search/books?author=%E5%B0%BC%E6%81%A9)|
 ---|---|---|
 
