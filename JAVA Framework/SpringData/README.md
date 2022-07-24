@@ -11,6 +11,11 @@
 [spring-data-redis 动态切换数据源](https://www.jianshu.com/p/571b0c55ed4c)|[Spring Boot JPA Multiple Data Sources Example](https://www.javaguides.net/2018/09/spring-boot-jpa-multiple-data-sources-example.html)|
 ---|---|
 
+[别再用 offset 和 limit 分页了，性能太差](https://mp.weixin.qq.com/s/8dPkyIdnPQUchse3h8irig)|
+----|
+
+
+
 # Spring Data 教程
 * Spring Data With JPA
   * [Spring Data JPA Tutorial with example](https://www.javaguides.net/p/spring-data-jpa-tutorial.html)
