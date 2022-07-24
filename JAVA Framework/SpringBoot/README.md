@@ -544,6 +544,7 @@
 * [24 Spring Boot中编写单元测试](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95%E7%94%A8%E4%BE%8B.md)
 * [25 spring boot actuator模块](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/spring%20boot%20actuator%E6%A8%A1%E5%9D%97/README.md)
 * 26 SpringBoot异步编程机制以及功能分析讲解
+  * [后端思维篇：手把手教你写一个并行调用模板](https://mp.weixin.qq.com/s/paBPnB0I-ObjUCofpVMeRA)
   * [Spring框架中的异步执行](https://weread.qq.com/web/reader/44332cc071a486a7443c539k6f4322302126f4922f45dec)
   * [Spring MVC中提供的异步处理能力](https://weread.qq.com/web/reader/44332cc071a486a7443c539ke3632bd0222e369853df322) 
   * [异步非阻塞的WebFlux技术栈,其与Servlet技术栈是并行存在的](https://weread.qq.com/web/reader/44332cc071a486a7443c539kf7132c6022cf7177163c01c)
@@ -558,6 +559,7 @@
   * [Deploy WAR file to External Tomcat](https://www.javaguides.net/2018/09/spring-boot-deploy-war-file-to-external-tomcat.html) 
   * [SpringBootServletInitializer Class in Spring Boot---可以使用外部的Servlet容器](https://www.javaguides.net/2019/01/springbootservletinitializer-class-in-springboot.html)
   * [大公司为什么禁止SpringBoot项目使用Tomcat？](https://mp.weixin.qq.com/s/6y9vrUR2DreV5dBgXsrDjg)
+
 
 ---
 
