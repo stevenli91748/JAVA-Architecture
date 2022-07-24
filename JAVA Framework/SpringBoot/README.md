@@ -556,6 +556,7 @@
 * [29 Spring Boot Embedded Servers - Tomcat, Jetty and Undertow](https://www.javaguides.net/2019/04/spring-boot-embedded-servers-tomcat-jetty-and-undertow.html)  
   * [Deploy WAR file to External Tomcat](https://www.javaguides.net/2018/09/spring-boot-deploy-war-file-to-external-tomcat.html) 
   * [SpringBootServletInitializer Class in Spring Boot---可以使用外部的Servlet容器](https://www.javaguides.net/2019/01/springbootservletinitializer-class-in-springboot.html)
+  * [大公司为什么禁止SpringBoot项目使用Tomcat？](https://mp.weixin.qq.com/s/6y9vrUR2DreV5dBgXsrDjg)
 
 ---
 
