@@ -413,6 +413,7 @@
         * Spring Boot production starters
         * Spring Boot technical starters 
       * [Spring Boot启动器](https://www.yiibai.com/spring-boot/spring-boot-starters.html)
+        * [SpringBoot 启动时自动执行代码的几种方式，还有谁不会？](https://mp.weixin.qq.com/s/PZwX1VZejwEcoOQ4JulWNA)
         * [Spring Boot启动器父级](https://www.yiibai.com/spring-boot/spring-boot-starter-parent.html) 
         * [Spring Boot Starter Web](https://www.yiibai.com/spring-boot/spring-boot-starter-web.html)
         * [Spring Boot依赖管理](https://www.yiibai.com/spring-boot/spring-boot-dm.html)
