@@ -283,7 +283,7 @@
 
 
 ## 高并发量的规格
- 
+ * [linux的TCP连接数量最大不能超过65535个吗，那服务器是如何应对百万千万的并发的？](https://mp.weixin.qq.com/s/k_6Oi-_z-MpdytSvFSLN0A)
  * [OpenResty(Nginx)支持的并发量](https://www.cnblogs.com/Tanwheey/p/12689629.html)
  * [【杂谈】Spring Boot 默认支持的并发量](https://blog.csdn.net/f45056231p/article/details/97390548)
  * [springboot能抗住多少并发_并发测试神器，看看你的能不能抗住超过 5 万的并发用户](https://blog.csdn.net/weixin_39989688/article/details/111394127?utm_medium=distribute.pc_relevant.none-task-blog-baidujs_baidulandingword-0&spm=1001.2101.3001.4242)
