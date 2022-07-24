@@ -99,8 +99,8 @@
  [JAVA技术选型以及技术学习都有极强的指导性作用](https://mp.weixin.qq.com/s?__biz=MzU1Nzg4NjgyMw==&mid=2247488725&idx=1&sn=0a5645a7668e57a98216900415bd57b7&scene=21#wechat_redirect)| [极客时间](https://learn.lianglianglee.com/)|
 ---|---|
 
-[阿里巴巴 知行动手实验室](https://start.aliyun.com/)|[肝了一周总结的SpringBoot实战教程，太实用了！](http://www.macrozheng.com/#/reference/springboot_start)|
----|---|
+[阿里巴巴 知行动手实验室](https://start.aliyun.com/)|[肝了一周总结的SpringBoot实战教程，太实用了！](http://www.macrozheng.com/#/reference/springboot_start)|[]()|
+---|---|---|
 
 [Spring Boot 2 实战权威指南 分布式篇](https://www.kancloud.cn/xiandafu/springboot2inpractice_distributed)|
 ---|
@@ -130,6 +130,9 @@
 
 [程序猿DD---非常好](http://blog.didispace.com/)|[ 芋道源码------非常好](http://www.iocoder.cn/)|[猿码架构](https://www.jianshu.com/u/657c611b2e07)|[周立的博客](http://itmuch.com/)|[My bird](https://mrbird.cc/archives/)|[纯洁的微笑---Spring Boot](http://www.ityouknow.com/spring-boot.html)|[木九天](https://my.oschina.net/mdxlcj?tab=newest&catalogId=5781789)|
 ---|---|---|---|---|---|---|
+
+[程序员乔戈里](https://mp.weixin.qq.com/s/8dPkyIdnPQUchse3h8irig)|
+---|
 
 [小柒-SpringBoot开发案例](https://blog.52itstyle.vip/category/springBoot/)|[ Java技术栈 ](https://www.javastack.cn/categories/Spring/)|[java干货的视频---很好](https://space.bilibili.com/244056686/video?tid=0&page=3&keyword=&order=pubdate)|
 ---|---|---|
@@ -493,6 +496,7 @@
 * [11 RESTFul接口实现与测试](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/RESTful%20API/RESTful%20API.md)
   * [RESTFul API构建](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/RESTful%20API/RESTful%20API.md)
   * [保证接口数据安全的10种方案](https://mp.weixin.qq.com/s/p_jL2N_8julhRfJQj-Eatw)
+  * [一个注解搞定 SpringBoot 接口防刷，还有谁不会](https://mp.weixin.qq.com/s/qg5wV4iGpns16TlDFkef7g)
   * api接口访问需要使用https进行加密
   * api接口需要OAuth2.0授权
   * api接口需要签名认证
