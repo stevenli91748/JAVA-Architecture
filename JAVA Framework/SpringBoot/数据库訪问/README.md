@@ -13,6 +13,9 @@
 [Spring Boot数据库源（连接数据库）---不需要编写任何额外的代码, 只需添加依赖项并执行配置详细信息就足以创建DataSource并连接数据库](https://www.yiibai.com/spring-boot/spring_boot_database_handling.html)|
 ---|
 
+[别再用 offset 和 limit 分页了，性能太差](https://mp.weixin.qq.com/s/8dPkyIdnPQUchse3h8irig)|
+----|
+
 
 
 # Spring Boot 程序链接数据库的方式
