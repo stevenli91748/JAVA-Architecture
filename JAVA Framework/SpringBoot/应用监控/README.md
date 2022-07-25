@@ -1,6 +1,7 @@
 
 # 目录
 * [一招搞定 Spring Boot 可视化监控！](https://mp.weixin.qq.com/s/J67gVzdoFZZZPIoXtPqsLg)
+  * [玩转 SpringBoot 监控统计（SQL监控、慢SQL记录、Spring监控、去广告）](https://mp.weixin.qq.com/s/MKy49T-6MjGeGl5Gg-pNNA)
 * [SpringBoot 2.x 开发案例之整合Srping Boot Admin](https://www.jianshu.com/p/a791e1c0b67e)
 * [APM原理与应用](#APM原理与应用)
   * APM其实分为五大模块
