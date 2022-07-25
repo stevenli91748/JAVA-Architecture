@@ -13,8 +13,8 @@
 
 # 分页方案
 
-[别再用 offset 和 limit 分页了，性能太差](https://mp.weixin.qq.com/s/8dPkyIdnPQUchse3h8irig)|
-----|
+[别再用 offset 和 limit 分页了，性能太差](https://mp.weixin.qq.com/s/8dPkyIdnPQUchse3h8irig)|[基于大量数据做查询操作，Rick James 的文章提供了更深入的指导](http://mysql.rjweb.org/doc.php/lists)|
+----|---|
 
 
 
