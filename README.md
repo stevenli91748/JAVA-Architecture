@@ -363,6 +363,9 @@
 [ 二维码扫描项目--- barcode scanning library for Java, Android](https://github.com/zxing/zxing)|[Kong API Gateway](https://github.com/cloudframeworks-apigateway/user-guide-apigateway)|[OpenResty API Gateway](https://www.kancloud.cn/kancloud/openresty-best-practices/50428)|[JWT](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/JWT.md)|
 ---|---|---|---|
 
+[发现一款 JSON 可视化工具神器，太爱了！](https://mp.weixin.qq.com/s/II2qKH1vFwgVYNjZ5lY6hg)|
+---|
+
 
 [ElasticSearch搜索][%Elasticsearch]|[ELK日志展示及分析](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/ELK日志分析服务/README.md)|[Swagger接口文档编写及测试工具](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Swagger接口文档编写及测试工具/README.md)|[JMeter测试工具](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/JMeter测试工具/README.md)|[Keepalived](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Keepalived/README.md)|[Serverless](https://github.com/stevenli91748/Big-Data/blob/master/Serverless/README.md)|
 ---|---|---|---|---|---|
