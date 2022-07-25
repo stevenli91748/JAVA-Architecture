@@ -7,8 +7,8 @@
 [Swagger2配置与使用](https://www.cnblogs.com/Courage129/p/14079026.html)|
 ---|
 
-[前后端都分离了，该搞个好用的API管理系统了！](https://mp.weixin.qq.com/s/Ahs6fnIfFVVPOn3NZpIsNA)|
----|
+[前后端都分离了，该搞个好用的API管理系统了！](https://mp.weixin.qq.com/s/Ahs6fnIfFVVPOn3NZpIsNA)|[这才是！21 世纪的 API 文档该有的样子！](https://mp.weixin.qq.com/s/PRN-uY90epTXvhUIK1DE4g)|
+---|---|
 
 [ApiModel 和 ApiModelProperty 注解详解](https://m.imooc.com/wiki/swaggerlesson-apimodelproperty#:~:text=ApiModel%20%E6%B3%A8%E8%A7%A3%E6%98%AF%E4%BD%9C%E7%94%A8%E5%9C%A8,%E5%92%8C%40ApiModelProperty%20%E6%B3%A8%E8%A7%A3%E9%85%8D%E5%90%88%E4%BD%BF%E7%94%A8%E3%80%82&text=ApiModel%20%E5%92%8CApiModelProperty%20%E4%B8%A4%E4%B8%AA,%E6%B7%BB%E5%8A%A0%E9%A2%9D%E5%A4%96%E7%9A%84%E6%8F%8F%E8%BF%B0%E4%BF%A1%E6%81%AF%E3%80%82)|
 ---|
