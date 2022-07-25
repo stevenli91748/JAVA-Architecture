@@ -137,7 +137,8 @@
 
 ## 内存故障排查
 * [堆内内存]()
-  * [OOM---JMV中的内存不足]()
+  * OOM---JMV中的内存不足
+    * [多线程使用不当导致的 OOM](https://mp.weixin.qq.com/s/LfLRvV7TNKJVSMESVWPwJA)
     * [unable to create new native thread---没有足够的内存空间给线程分配java栈]()
     * [Java heap space---堆的内存占用已经达到-Xmx设置的最大值]()
     * [ Meta space---元数据区的内存占用已经达到XX:MaxMetaspaceSize设置的最大值]()
