@@ -1,4 +1,4 @@
-
+* [把 @Transactional 事务注解运用得炉火纯青](https://mp.weixin.qq.com/s/nCB4WVtxO5dZO1EJqdGcyQ)
 * [事务专栏](https://www.kancloud.cn/tracy5546/dynamic-datasource/2264598)
 * [使用事务管理](http://blog.didispace.com/springboottransactional/)
 * [为什么加了@Transactional注解，事务没有回滚](http://blog.didispace.com/transactional-not-rollback/)
