@@ -28,4 +28,4 @@
 # 参考
 
 * [Istio微服务治理](https://www.jianshu.com/p/97833de7054d)
-
+* [K8s+Istio可替代SpringCloud微服务吗？](https://mp.weixin.qq.com/s/P6kTLIvW86Gnq-TRU5sQoA)
