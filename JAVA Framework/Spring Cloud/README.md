@@ -16,6 +16,8 @@
 # [Spring Cloud 例子程序](https://github.com/stevenli91748/JAVA-Architecture/tree/master/JAVA%20Framework/Spring%20Cloud/%E5%AE%9E%E9%AA%8C)
 
 # 在线书籍
+* [微服务从小白到专家：Spring Cloud和Kubernetes实战---2021](https://weread.qq.com/web/reader/d5532e707274b525d55bbbekecc32f3013eccbc87e4b62e)
+
 * [1 微服务架构基础（Spring Boot + Spring Cloud + Docker）---将编程开发，持续集成，部署运维等环节都讲到，照着本书可搭建一套运行环境，构建一个demo---2018](https://weread.qq.com/web/reader/69532da0717d3026695636ekc81322c012c81e728d9d180)
 
 * [2 微服务分布式架构基础与实战： 基于Spring Boot + Spring Cloud---2020 组件包括 Consul + Feign + Hystrix + Ribbon + 缓存 + 消息通信 + 微服务异步线程池 + 微服务数据持久化 +  微服务事务 + 微服务的缓存和分布式消息通信 + 微服务的任务调度和分布式任务调度 + 微服务的文件上传和分布式文件管理 + 展部署](https://weread.qq.com/web/reader/f6732e8071dbddd6f674178)
