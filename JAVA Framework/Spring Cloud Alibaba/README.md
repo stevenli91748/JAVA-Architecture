@@ -1,7 +1,7 @@
 
 
 # 在线书籍
-
+* [实战Alibaba Sentinel：深度解析微服务高并发流量治理 2022](https://weread.qq.com/web/reader/19132860813ab6d85g019c35)
 * [Spring Cloud Alibaba微服务原理与实战](https://weread.qq.com/web/reader/0f132410811e3ac57g011a6a)---(Dubbo集成Zookeeper实现服务注册 + Nacos实现服务注册 + Nacos实现统一配置管理 + Sentinel 限流和熔断 + 布式事务 + RocketMQ 分布式消息通信·+ Spring Cloud Gateway)
 * 阿里巴巴：Sprng Cloud Alibaba 从入门到实战.PDF---
 * 深入理解springcloud与实战.PDF---Spring Cloud Alibba创始人倾力打造 , （Alibaba Nacos注册中心 + Spring Cloud LoadBalancer + Ribbon + OpenFeign + Config配置中心 + 熔断【Spring Cloud Circuit Breaker，Sentinel, Hystrix , Resilience4j 】, Spring Integration , Stream, Bus, Spring Cloud Data Flow, Spring Cloud Task, Serverless）
