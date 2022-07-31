@@ -562,7 +562,8 @@
   * [Deploy WAR file to External Tomcat](https://www.javaguides.net/2018/09/spring-boot-deploy-war-file-to-external-tomcat.html) 
   * [SpringBootServletInitializer Class in Spring Boot---可以使用外部的Servlet容器](https://www.javaguides.net/2019/01/springbootservletinitializer-class-in-springboot.html)
   * [大公司为什么禁止SpringBoot项目使用Tomcat？](https://mp.weixin.qq.com/s/6y9vrUR2DreV5dBgXsrDjg)
-
+* 30 Spring 事件
+  * [从Guava Event转向Spring Event，贼好用的业务解耦神器](https://mp.weixin.qq.com/s/q_NO8kxAyQK3cF6ZBsdpDQ)
 
 ---
 
