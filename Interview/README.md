@@ -51,6 +51,10 @@
 [Coding Interview University---这份清单内的主题会让你拥有足够的知识去面对几乎每家软件公司的技术面试](https://github.com/jwasham/coding-interview-university/blob/main/translations/README-cn.md)|
 ---|
 
+[Java面试题阶段汇总 2022 面试重点](https://mp.weixin.qq.com/s/SARLx_J5oK6nYbby5YBxAg)|[Java面试题 2022](https://www.bmabk.com/index.php/post/special/mst)|
+---|---|
+
+
 [阿里云---Java面试红宝书](https://developer.aliyun.com/graph/java/point/103?spm=a2c6h.21254954.0.0.342e5907quXIz6)|[java核心知识整理](https://www.kancloud.cn/imnotdown1019/java_core_full/1004074)|[史上最全 Java 面试题 30 专题](https://www.cnblogs.com/crazymakercircle/p/14367907.html)|
 ---|---|---|
 
