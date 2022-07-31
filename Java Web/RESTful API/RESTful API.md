@@ -484,7 +484,14 @@ Tyk是2014年创建的开源API网关，甚至比AWS的API网关即服务功能�
   * [api设计第三版（node.js)](https://www.bilibili.com/video/av74605570?from=search&seid=5739552451698653385)
   * [REST API 接口测试](https://www.imooc.com/learn/1048)
   * [高质量API接口设计最佳实践](https://www.bilibili.com/video/BV1g4411V7R9/?spm_id_from=333.788.videocard.7)
+
+
+
+
 # 有用的参考
+  * [4 种主流的 API 架构风格对比](https://mp.weixin.qq.com/s/g4ZYYpXoSBNroPNHqciixA)
+  * [前后端分离的接口规范](https://mp.weixin.qq.com/s/D3_OeK29N1bU__RWqSh6-g)
+  * [保证接口数据安全的10种方案](https://mp.weixin.qq.com/s/p_jL2N_8julhRfJQj-Eatw)
   * [微服务如何聚合Swagger实现接口文档管理](https://developer.51cto.com/article/701318.html)
   * [最好用的七大顶级 API 接口测试工具](https://zhuanlan.zhihu.com/p/445755310)
   * [IDEA HTTP Client（史上最全） ](https://www.cnblogs.com/crazymakercircle/p/14317222.html)
