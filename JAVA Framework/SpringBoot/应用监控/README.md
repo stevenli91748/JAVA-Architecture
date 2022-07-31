@@ -65,4 +65,4 @@ APM的全称是Application Performance Management（应用性能管理）。APM�
 # 参考
 
 * [微服务应用性能如何？APM监控工具来告诉你！](http://www.macrozheng.com/#/reference/elastic_apm_start)
-
+* [Prometheus+InfluxDB+Grafana 打造高逼格监控平台](https://mp.weixin.qq.com/s/1Iomp4GtMHgfVTwvGrFw4g)
