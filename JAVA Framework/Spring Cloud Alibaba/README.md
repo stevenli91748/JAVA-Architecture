@@ -69,3 +69,4 @@
 * [Spring Cloud Alibaba Sentinel控制台详解](https://mrbird.cc/Sentinel%E6%8E%A7%E5%88%B6%E5%8F%B0%E8%AF%A6%E8%A7%A3.html)
 * [Spring Cloud Alibaba Nacos配置中心](https://mrbird.cc/Spring-Cloud-Alibaba-Nacos%E9%85%8D%E7%BD%AE%E4%B8%AD%E5%BF%83.html)
 * [Spring Cloud Alibaba Nacos注册中心](https://mrbird.cc/Spring-Cloud-Alibaba-Nacos%E6%B3%A8%E5%86%8C%E4%B8%AD%E5%BF%83.html)
+* [Spring Cloud Alibaba——Nacos 是如何同时实现AP与CP的](https://www.jianshu.com/p/9a8f74357b85?utm_campaign=hugo&utm_medium=reader_share&utm_content=note&utm_source=weixin-friends)
