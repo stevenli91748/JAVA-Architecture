@@ -502,6 +502,7 @@
   * [保证接口数据安全的10种方案](https://mp.weixin.qq.com/s/p_jL2N_8julhRfJQj-Eatw)
   * [一个注解搞定 SpringBoot 接口防刷，还有谁不会](https://mp.weixin.qq.com/s/qg5wV4iGpns16TlDFkef7g)
   * [SpringCloud Gateway API接口安全设计（加密 、签名）带源码！](https://mp.weixin.qq.com/s/OWY9bo3UwJmpvKyvlSSQiA)
+  * [微服务间通信：API接口详解](http://www.5ityx.com/cate103/88143.html)
   * api接口访问需要使用https进行加密
   * api接口需要OAuth2.0授权
   * api接口需要签名认证
