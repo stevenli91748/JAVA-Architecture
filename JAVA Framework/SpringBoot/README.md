@@ -684,6 +684,7 @@
 
 # 有用的参考
   * 深入实践Spring Boot.pdf
+  * [spring中的解耦](http://www.5ityx.com/cate103/91815.html)
   * [肝了一周总结的SpringBoot实战教程，太实用了！](http://www.macrozheng.com/#/reference/springboot_start)
   * [你真的理解 Spring Boot 项目中的 parent 吗？](https://segmentfault.com/a/1190000018854658)
   * [初级 Spring Boot 研发职位的技能要求](https://weread.qq.com/web/reader/f6732e8071dbddd6f674178)
