@@ -566,7 +566,7 @@
   * [大公司为什么禁止SpringBoot项目使用Tomcat？](https://mp.weixin.qq.com/s/6y9vrUR2DreV5dBgXsrDjg)
 * 30 Spring 事件
   * [从Guava Event转向Spring Event，贼好用的业务解耦神器](https://mp.weixin.qq.com/s/q_NO8kxAyQK3cF6ZBsdpDQ)
-
+* 31 [spring中的解耦](http://www.5ityx.com/cate103/91815.html)
 ---
 
 
