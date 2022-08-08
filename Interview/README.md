@@ -39,7 +39,7 @@
 
 # Java成神知识点视频
 * [32个Java面试必考点---从语言到系统设计全方位的知识点，可作为学习路径，建立年薪50万的能力框架](https://www.youtube.com/playlist?list=PL5d0qARooeQjH9JkFJzSnSaIdhIkJR5Lq)
-
+  * [32个Java面试必考点（二）Java语言特性与设计模式](https://blog.csdn.net/qq_41790113/article/details/109776110)
 ---
 
 # 博客
