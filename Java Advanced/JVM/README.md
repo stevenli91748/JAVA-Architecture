@@ -166,6 +166,7 @@ JVM实验例子|[常见JVM内存错误及解决方案](https://www.kancloud.cn/h
               * Visual VM 对OQL的支持
        * 方法区
           * 运行时的常量池
+            * [Java中常量以及常量池](https://www.cnblogs.com/cac2020/p/5046880.html)
           * 代码
           * 方法数据
           * 字段
