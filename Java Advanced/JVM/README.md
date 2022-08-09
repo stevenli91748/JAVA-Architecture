@@ -88,7 +88,7 @@ JVM实验例子|[常见JVM内存错误及解决方案](https://www.kancloud.cn/h
      * [链接](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E8%99%9A%E6%8B%9F%E6%9C%BA%E6%89%A7%E8%A1%8C%E5%AD%90%E7%B3%BB%E7%BB%9F.md#链接)
      * [初始化](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E8%99%9A%E6%8B%9F%E6%9C%BA%E6%89%A7%E8%A1%8C%E5%AD%90%E7%B3%BB%E7%BB%9F.md#初始化)
    * [类加载器](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E8%99%9A%E6%8B%9F%E6%9C%BA%E6%89%A7%E8%A1%8C%E5%AD%90%E7%B3%BB%E7%BB%9F.md#类加载器)
-   * 类在内存中存放的地方---方法区
+   * [类在内存中存放的地方---方法区](https://www.cnblogs.com/cac2020/p/5046880.html)
    * [对象探秘](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E8%99%9A%E6%8B%9F%E6%9C%BA%E6%89%A7%E8%A1%8C%E5%AD%90%E7%B3%BB%E7%BB%9F.md#对象探秘)
      * [对象的创建](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E8%99%9A%E6%8B%9F%E6%9C%BA%E6%89%A7%E8%A1%8C%E5%AD%90%E7%B3%BB%E7%BB%9F.md#对象的创建)
      * [对象的内存布局](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/%E8%99%9A%E6%8B%9F%E6%9C%BA%E6%89%A7%E8%A1%8C%E5%AD%90%E7%B3%BB%E7%BB%9F.md#对象的内存布局)
@@ -145,6 +145,7 @@ JVM实验例子|[常见JVM内存错误及解决方案](https://www.kancloud.cn/h
 
  * [JAVA堆外内存排查小结](https://juejin.im/post/5ca095ea6fb9a05e42555a3e)
  * 3.1 虚拟机运行时内存数据区
+   * [Java内存模型](https://www.cnblogs.com/cac2020/p/12030710.html) 
    * 3.1.1 内存公有区域
        * Java堆 (heap)
          *  新生代
