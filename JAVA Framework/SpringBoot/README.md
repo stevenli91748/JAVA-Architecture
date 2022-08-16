@@ -102,6 +102,9 @@
 [阿里巴巴 知行动手实验室](https://start.aliyun.com/)|[肝了一周总结的SpringBoot实战教程，太实用了！](http://www.macrozheng.com/#/reference/springboot_start)|[]()|
 ---|---|---|
 
+[程序之美---各种项目实战 每个都非常有深度](https://www.youtube.com/channel/UCyJkwjdSMWuHrhC1UTUhlxQ)|
+---|
+
 [Spring Boot 2 实战权威指南 分布式篇](https://www.kancloud.cn/xiandafu/springboot2inpractice_distributed)|
 ---|
 
