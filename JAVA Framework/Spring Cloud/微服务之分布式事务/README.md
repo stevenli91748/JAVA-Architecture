@@ -1,6 +1,12 @@
 **使用Spring Cloud构建微服务应用绕不过的一个难点就是跨服务的业务操作的数据一致性问题**
 **使用XA事务来实现分布式事务，其可用性就比较差，于是业界提出了TCC及SAGA等解决方案，其思想跟BASE定理类似，通过打破ACID特性中的一个或几个来提升分布式事务的可用性**
 
+---
+
+# 博客
+[SpringCloud分布式事务攻略](https://www.bilibili.com/video/BV1K44y1z7zh?vd_source=be3ac4894f8bf7883ae92030f6f7be46)|
+---|
+
 
 # 目录
 ## 分布式事务的模式的案例---JTA、TCC及SAGA三种分布式事务的模式
