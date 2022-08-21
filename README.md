@@ -410,6 +410,10 @@ VisualVM分析工具|[Jenkins](https://github.com/stevenli91748/JAVA-Architectur
 
 
 ### Guava 和 Hutool 两者都是目前非常好用的 Java 第三方工具类库,Guava 的关键性评分位列所有 Java 项目的第 78 位，而 Hutool 位于第 196 位。
+[为什么不建议使用阿里规范，而用Google Guava？](https://mp.weixin.qq.com/s/3ygC-Uzyd7MzaF_x2DU8Xw)|
+---|
+
+
 [guava---Google Java标准库的十全大补](https://github.com/google/guava)|[Guava RateLimiter 实现 API 限流，这才是正确的姿势](https://mp.weixin.qq.com/s/uyYqni2Li6DpaAYB0vniow)|[Guava学习入门](https://www.kancloud.cn/digest/guava)|
 ---|---|---|
 
