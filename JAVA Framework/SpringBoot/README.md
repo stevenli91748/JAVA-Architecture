@@ -557,6 +557,7 @@
 * [24 Spring Boot中编写单元测试](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95%E7%94%A8%E4%BE%8B.md)
 * [25 spring boot actuator模块](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/spring%20boot%20actuator%E6%A8%A1%E5%9D%97/README.md)
 * 26 SpringBoot异步编程机制以及功能分析讲解
+  * [千万不要把Request传递到异步线程里面！有坑！](https://mp.weixin.qq.com/s/TGIeCPASJuT3ibNt97WVMw)
   * [后端思维篇：手把手教你写一个并行调用模板](https://mp.weixin.qq.com/s/paBPnB0I-ObjUCofpVMeRA)
   * [Spring框架中的异步执行](https://weread.qq.com/web/reader/44332cc071a486a7443c539k6f4322302126f4922f45dec)
   * [Spring MVC中提供的异步处理能力](https://weread.qq.com/web/reader/44332cc071a486a7443c539ke3632bd0222e369853df322) 
