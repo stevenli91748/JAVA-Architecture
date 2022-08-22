@@ -34,6 +34,9 @@
 [精尽 Java【虚拟机】学习指南](http://svip.iocoder.cn/Java/VirtualMachine/tutorials/)|[Java 全栈知识体系---JVM相关知识体系详解](https://www.pdai.tech/md/java/jvm/java-jvm-x-overview.html)|
 ---|---|
 
+[Arthas 是Alibaba开源的Java诊断工具，动态跟踪Java代码；实时监控JVM状态，可以在不中断程序执行的情况下轻松完成JVM相关问题排查工作](https://mp.weixin.qq.com/s/JFa3jc9LIn9ax6eggM34iQ)|
+---|
+
 [GraalVM下一代的JVM](https://cloud.tencent.com/developer/article/1838811)|[基本功 | Java即时编译器原理解析及实践 ](https://tech.meituan.com/2020/10/22/java-jit-practice-in-meituan.html)|
 ---|---|
 
