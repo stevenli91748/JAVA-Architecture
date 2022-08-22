@@ -18,6 +18,8 @@
 
 
 # 有用的参考
+* [3 步完成 Spring Boot 的日志脱敏](https://mp.weixin.qq.com/s/u7m1xr05LSsVheEvIVtj2w)
+* [Spring Boot + MDC 实现全链路调用日志跟踪](https://mp.weixin.qq.com/s/_YeWdtsGf2WJvX52Em9lDQ)
 * [我所读过的最好的一篇分布式技术文章）](https://www.cnblogs.com/foreach-break/p/notes_about_distributed_system_and_The_log.html)
 * [日志: 分布式系统的核心](https://github.com/aCoder2013/blog/issues/20)
 * [集成全局AOP切面，进行访问时间与日志打印](https://www.jianshu.com/p/450c773efc0c)
