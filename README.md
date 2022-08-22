@@ -778,8 +778,8 @@ SQL语言|[MySQL](https://github.com/stevenli91748/Database/blob/master/MySQL/RE
 手写服务器|手写SORM框架|[部署JAVA应用程序][%部署JAVA应用程序]|[HashMap](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/hashmap.md)|
 ---|---|---|---|
 
-[Java Management Extensions   Java管理扩展](https://blog.csdn.net/vking_wang/article/details/8668743)|
----|
+[Java Management Extensions   Java管理扩展](https://blog.csdn.net/vking_wang/article/details/8668743)|[Bean容器生命周期](https://mp.weixin.qq.com/s/OeNQkHx37N0dNFpx0sIWZQ)|
+---|---|
 
 
 [图形程序设计][%图形程序设计]|[Swing界面组件][%Swing界面组件]|[事件处理][%事件处理]|[高级Swing 界面组件][%高级Swing 界面组件]|[高级AWT][%高级AWT]|
