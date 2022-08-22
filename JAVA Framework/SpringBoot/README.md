@@ -474,6 +474,7 @@
     * [SpringBootServletInitializer的执行过程，简单来说就是通过SpringApplicationBuilder构建并封装SpringApplication对象，并最终调用SpringApplication的run方法的过程](https://blog.csdn.net/weixin_30411997/article/details/99446784?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-1.no_search_link&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-1.no_search_link)
   * [Spring Boot启用HTTPS](https://www.yiibai.com/spring-boot/spring_boot_enabling_https.html)
     * [HTTP客户端库](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/Web%E5%BC%80%E5%8F%91/HTTP%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%BA%93/README.md)
+    * [Spring Boot 配置 HTTPS 的详细流程](https://mp.weixin.qq.com/s/moK5YNhcvOUDA4aAVno03w)
     * [ how to configure SSL https in Spring boot applications](https://www.baeldung.com/spring-boot-https-self-signed-certificate) 
   * [Spring Boot Web Socket](https://www.yiibai.com/spring-boot/spring_boot_web_socket.html)
   * [Spring Boot 集成Swagger2](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/Spring%20Boot%20%E9%9B%86%E6%88%90Swagger2.md)
