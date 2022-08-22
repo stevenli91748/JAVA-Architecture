@@ -113,6 +113,7 @@
 
 
 # 有用的参考
+  * [麻了，代码改成多线程，竟有9大问题](https://mp.weixin.qq.com/s/XVzxiIaTKNzYuIDf2WLC_A)
   * [Java常见的线程安全的类](https://blog.csdn.net/dgeek/article/details/70145555)
   * [线程安全和线程同步](https://blog.csdn.net/camlot_/article/details/52004292)
   * [多线程与高并发](https://www.cnblogs.com/Courage129/category/1717671.html)
