@@ -77,6 +77,7 @@
   * [企业中的 API 设计思路---以API 驱动的方式设计系统  ](https://www.infoq.cn/article/9aWfgWP7cWqGW44vMmeZ?utm_source=related_read_bottom&utm_medium=article)
     * [Mock API Server Online Testing & API Mocking Guide](https://stoplight.io/mock-api-guide/basics/) 
 * [如何设计一个安全的对外接口，老司机总结了这几点.](https://mp.weixin.qq.com/s/i4N5-ftqNdgottfcxigHxQ)
+* [接口调用幂等性问题+解决方案](https://mp.weixin.qq.com/s/R9N1L57s7amp80Gxn-ycHg)
 * [Api 接口优化的几个技巧](https://mp.weixin.qq.com/s/W_u55Spcm46mnYiujwyPHg)
 * [初探APP架构之后端接口设计方案](https://www.jianshu.com/p/f3b747abdf2a)
 * [如何设计一个牛逼的API接---主要从几个方面来设计一个安全的API接口](https://segmentfault.com/a/1190000037503942)
