@@ -462,6 +462,7 @@ Tyk是2014年创建的开源API网关，甚至比AWS的API网关即服务功能�
 
 
 # API网关视频
+  * [网关 架构演进及实践](https://mp.weixin.qq.com/s/nb3_c3q8xD6jbR7AjNUQEg)
   * [Top 25 API Testing Interview Questions & Answers](https://www.youtube.com/watch?v=8cyMZ87J7zo)
   * [APIs for Beginners - How to use an API (Full Course / Tutorial)](https://www.youtube.com/watch?v=GZvSYJDk-us)
   * [什么是RESTful API](https://www.bilibili.com/video/BV1nb411c71r/?spm_id_from=333.788.videocard.5)
