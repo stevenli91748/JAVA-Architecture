@@ -491,6 +491,7 @@ Tyk是2014年创建的开源API网关，甚至比AWS的API网关即服务功能�
 
 
 # 有用的参考
+  * [Api 接口优化的几个技巧](https://mp.weixin.qq.com/s/W_u55Spcm46mnYiujwyPHg)
   * [4 种主流的 API 架构风格对比](https://mp.weixin.qq.com/s/g4ZYYpXoSBNroPNHqciixA)
   * [前后端分离的接口规范](https://mp.weixin.qq.com/s/D3_OeK29N1bU__RWqSh6-g)
   * [保证接口数据安全的10种方案](https://mp.weixin.qq.com/s/p_jL2N_8julhRfJQj-Eatw)
