@@ -5,6 +5,10 @@
 * [10  （先看）  深入理解Spring Cloud与微服务构建 （第2版）---包括Spring Boot + Eureka、Consul, Ribbon + RestTemplate , Feign、Hystrix、Zuul、Gateway、Consul、Config、Sleuth、Admint等组件,使用Spring Cloud OAuth2来保护微服务系统](https://weread.qq.com/web/reader/1223205071ccfab912296c2)
 ---
 
+[Spring Cloud Gateway 服务网关的部署与使用详细教程](https://mp.weixin.qq.com/s/p066fNtdIdBLx8FZLmHfhA)|
+---|
+
+
 
 # 目录
   * [百亿流量交易系统API网关设计](https://weread.qq.com/web/reader/d9e327a07188b377d9eb7dakd67323c0227d67d8ab4fb04)
