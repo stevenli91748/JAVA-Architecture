@@ -190,6 +190,7 @@ nginx出口-->http服务
  * [Linux下nginx的安装使用+负载均衡+集群搭建](https://www.bilibili.com/video/av66388283?from=search&seid=3209376219057807635)
 
 # 有用的参考
+ * [配置 Nginx 的神器](https://mp.weixin.qq.com/s/UD0c3wXxJwPskmwsNTVbJg)
  * [神器 Nginx 的学习手册 ( 建议收藏 )](https://mp.weixin.qq.com/s/3zgbfMraWUpWjtSbgrzrZg)
  * [Ribbon 与 Feign 和 Nginx 区别与使用场景,性能介绍](https://blog.csdn.net/lchq1995/article/details/83340753)
  * [Nginx服务器开箱体验](https://mp.weixin.qq.com/s?__biz=MzU4ODI1MjA3NQ==&mid=2247483783&idx=1&sn=1e552ee01b50cde1df32c07db8e7b4ea&chksm=fdded743caa95e55a62c5b216795be61785265daf6a23d803e4566ba50253c240544b87971e3&scene=21#wechat_redirect)
