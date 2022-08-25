@@ -23,6 +23,9 @@
 [Spring Security 和 SpringCloud Security 有什么区别](https://www.cxyzjd.com/article/hadues/109646510)|[Spring Cloud Gateway 整合 Spring Security 统一鉴权](https://segmentfault.com/a/1190000039390248)|
 ---|---|
 
+[Spring Security 最佳实践，看了必懂！](https://mp.weixin.qq.com/s/rJqXpL7Zy9q_TU5B_E7nSw)|
+---|
+
 [spring security 原理+实战](https://www.cnblogs.com/crazymakercircle/p/12040402.html)|[SpingSecurity + SpringSession 整合](https://www.cnblogs.com/crazymakercircle/p/12037584.html)|
 ---|---|
 
