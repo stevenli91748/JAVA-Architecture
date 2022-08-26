@@ -696,6 +696,7 @@
 
 # 有用的参考
   * 深入实践Spring Boot.pdf
+  * [还在用 System.currentTimeMillis() 统计代码耗时？StopWatch 才是首选](https://mp.weixin.qq.com/s/8LYnOkETWaxxAcLRMx9X7g)
   * [spring中的解耦](http://www.5ityx.com/cate103/91815.html)
   * [肝了一周总结的SpringBoot实战教程，太实用了！](http://www.macrozheng.com/#/reference/springboot_start)
   * [你真的理解 Spring Boot 项目中的 parent 吗？](https://segmentfault.com/a/1190000018854658)
