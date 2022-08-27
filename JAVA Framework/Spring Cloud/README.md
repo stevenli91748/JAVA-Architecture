@@ -735,6 +735,7 @@
 * [Spring cloud 核心组件实战](https://www.imooc.com/video/19575)
 
 # 有用的参考
+* [SpringCloud Gateway + Jwt + Oauth2 实现网关的鉴权操作](https://mp.weixin.qq.com/s/8mpf5C1ySd5W_lUpfA2TrQ)
 * [Spring Cloud Gateway 整合 Spring Security 统一鉴权](https://segmentfault.com/a/1190000039390248)
 * [深入Spring Cloud架构组成](https://mp.weixin.qq.com/s/uSYygJRwav5GgrG4um8R4w)
 * [Spring Cloud在国内中小型公司能用起来吗](http://www.ityouknow.com/springcloud/2017/09/11/can-use-springcloud.html)
