@@ -1,7 +1,7 @@
 
 # 在线书籍
 * [Prometheus监控实战](https://weread.qq.com/web/reader/4ca32c50718f639f4ca492b)
-
+* [Prometheus云原生监控：运维与开发实战 2022](https://weread.qq.com/web/reader/23d328c072106cb723d1641)
 
 ----
 
