@@ -492,6 +492,7 @@ Tyk是2014年创建的开源API网关，甚至比AWS的API网关即服务功能�
 
 
 # 有用的参考
+  * [Spring Boot+Redis+拦截器+自定义Annotation实现接口自动幂等](https://mp.weixin.qq.com/s/cSv_9r5rJMTg5_H8UZNnFA)
   * [保证接口数据安全的10种方案](https://mp.weixin.qq.com/s/1GTKRqQtc7_MgQ6Ym_lofw)
   * [一个依赖搞定 Spring Boot 反爬虫，防止接口盗刷！](https://mp.weixin.qq.com/s/37ulH_tkLf7wBxc9_WvTjw)
   * [Spring Boot+Redis+拦截器+自定义Annotation实现接口自动幂等](https://mp.weixin.qq.com/s/cSv_9r5rJMTg5_H8UZNnFA)
