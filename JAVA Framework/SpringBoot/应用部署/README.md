@@ -16,6 +16,7 @@
    * [第三种方法: 使用Docker Compose部署SpringBoot应用](http://www.macrozheng.com/#/reference/docker_compose)
    * [第四种方法: 使用Jenkins一键打包部署SpringBoot应用](http://www.macrozheng.com/#/reference/jenkins)
      * [mall在Linux环境下的自动化部署（基于Jenkins）](http://www.macrozheng.com/#/deploy/mall_deploy_jenkins)    
+     * [Jenkins+Docker 一键自动化部署 SpringBoot 项目](https://mp.weixin.qq.com/s/t_Eo_85Ma0t3nIHMQg5aBQ)
    * [第五种方法: 使用DockerFile+Jar+自动化脚本的形式来部署](http://www.macrozheng.com/#/technology/springboot_auto_deploy)
 
 ## SpringBoot项目部署在AWS
