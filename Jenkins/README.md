@@ -35,6 +35,7 @@
  * [汪文君Jenkins入门视频](https://www.bilibili.com/video/av52163638/?spm_id_from=333.788.videocard.1)
 
 # 有用的参考
+* [Jenkins+Docker 一键自动化部署 SpringBoot 项目](https://mp.weixin.qq.com/s/t_Eo_85Ma0t3nIHMQg5aBQ)
 * [Jenkins长大了，Pipeline该用起来了](https://mp.weixin.qq.com/s/Y2gxBmBK2HPvr1uKUUxRYA)
 * [GitLab & Jenkins安装小记](https://mrbird.cc/GitLab-Jenkins-Install-Note.html)
 * [Jenkins工程构建](https://blog.csdn.net/qq_39680564/article/details/111573807)
