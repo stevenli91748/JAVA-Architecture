@@ -23,6 +23,13 @@
 * [java并发编程：核心方法与框架](https://weread.qq.com/web/reader/57532cb05c8bdb575bd45ba)
 
 
+# SpringBoot并发编程的例子
+* [SpringBoot实现Java高并发秒杀系统之DAO层开发（一）](https://developer.aliyun.com/article/664574)
+* [SpringBoot实现Java高并发秒杀系统之Service层开发（二）](https://developer.aliyun.com/article/665046?spm=a2c6h.13262185.profile.243.4e463ceeEAqu1W)
+* [SpringBoot实现Java高并发秒杀系统之Web层开发（三）](https://developer.aliyun.com/article/665347)
+* [SpringBoot实现Java高并发秒杀系统之并发优化（四）](https://blog.csdn.net/TyCoding/article/details/83046537)
+
+
 ---
 
 [怎样设置电脑CPU运行的核心数](https://www.youtube.com/shorts/lnn4nOh8c9E)|
