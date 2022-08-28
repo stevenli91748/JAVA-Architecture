@@ -64,6 +64,7 @@ Spring的IOC有三种注入方式 ：构造器注入、setter方法注入、根�
 
 # 有用的参考
 * Spring揭秘.pdf
+* [SpringIOC容器详解，通俗易懂看这一篇就够了](https://blog.csdn.net/qq_45369589/article/details/123095028?spm=1001.2101.3001.6650.6&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-6-123095028-blog-109117912.topnsimilarv1&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-6-123095028-blog-109117912.topnsimilarv1&utm_relevant_index=10)
 * [SpringIOC的注解应用](https://www.cnblogs.com/Courage129/p/14071458.html)
 * [Spring IOC基本使用](https://www.cnblogs.com/Courage129/p/14071443.html)
 * [谈谈对Spring IOC的理解](https://blog.csdn.net/qq_22654611/article/details/52606960/)
