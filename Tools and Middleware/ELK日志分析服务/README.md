@@ -1,7 +1,7 @@
 # 在线书籍
 * [ELK Stack 权威指南](https://weread.qq.com/web/reader/af7323005b46bbaf7edb262)
 * [ELK Stack 权威指南(第2版)](https://weread.qq.com/web/reader/53432e00811e27ed7g017794)
-
+* [替代ELK：ClickHouse+Kafka+FlieBeat](https://mp.weixin.qq.com/s/2nMYKby1YOWilPRBHhKrDA)
 ---
 
 * 日志系统
