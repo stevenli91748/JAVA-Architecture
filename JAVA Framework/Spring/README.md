@@ -47,7 +47,8 @@
 [不用 Spring 居然连最基本的接口都不会写了！---本文从介绍 Spring 核心功能开始入手，从如何利用 Spring 完成一个应用开发，讲述到假如没有 Spring 我们该如何基于 Servlet 进行开发，最后再通过一个简单的例子体验了 Spring 的核心思想](https://mp.weixin.qq.com/s/cRVHxOh54ry7ILWHaqAWpg)|
 ---|
 
-
+[三万字盘点Spring/Boot的那些常用扩展点](https://mp.weixin.qq.com/s/L94D2ZCCcGcMlnXTV4TqBA)|
+---|
 
 
 
