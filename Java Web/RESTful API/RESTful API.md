@@ -87,6 +87,7 @@
 * [初探APP架构之后端接口设计方案](https://www.jianshu.com/p/f3b747abdf2a)
 * [如何设计一个牛逼的API接---主要从几个方面来设计一个安全的API接口](https://segmentfault.com/a/1190000037503942)
   * 安全性---强烈建议 API 部署 SSL 证书，这样接口传递的数据的安全性才能都得一定的保障
+    * [前后端API交互如何保证数据安全性---讲解祥细](https://www.youtube.com/watch?v=ZQDMWYwBjT0) 
     * [REST API 安全设计指南](https://www.kancloud.cn/kancloud/rest-api-design-safety) 
     * [接口身份验证解决方案](https://www.kancloud.cn/kancloud/http-api-guide/56272)
       * [HTTP 基本认证](https://zh.wikipedia.org/wiki/HTTP%E5%9F%BA%E6%9C%AC%E8%AE%A4%E8%AF%81)---只有在部署了 SSL 证书的情况下才可以使用，否则用户密码会有暴露的风险，当然，最好不要使用
