@@ -19,6 +19,11 @@
 ---
 
 
+# 视频
+* [前后端API交互如何保证数据安全性](https://www.youtube.com/watch?v=ZQDMWYwBjT0)
+
+# 博客
+
 [REST API Tutorial with example](https://www.javaguides.net/p/rest-api-tutorial.html)|[RESTful Basics Tutorial with Examples](https://www.javaguides.net/p/restful-tutorial.html)|[Guide to Standard JAX-RS RESTful Api Annotations](https://www.javaguides.net/2018/06/guide-to-standard-jax-rs-annotations.html)|
 ---|---|---|
 
