@@ -8,7 +8,8 @@
 
 # 博客
 
-* [Spring AOP教程](https://www.yiibai.com/spring_aop/)
+* [Spring AOP教程](https://www.yiibai.com/spring_aop/)|[Spring AOP Tutorial for Beginners - Step by Step with Example](https://www.javaguides.net/2019/05/understanding-spring-aop-concepts-and-terminology-with-example.html)|
+* ---|---|
 
 
 # AOP例子程序
