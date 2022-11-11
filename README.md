@@ -224,9 +224,13 @@
 <a href="https://ibb.co/YLk15F3"><img src="https://i.ibb.co/1mqPCtL/image.jpg" alt="image" border="0"></a>
 
 https://github.com/YunaiV/SpringBoot-Labs
+
 https://github.com/YunaiV/onemall
+
 https://github.com/YunaiV/ruoyi-vue-pro
 
+* [慕课网：JAVA架构师成长直通车 40周](https://www.youtube.com/watch?v=Ya6uR9I9kKY&list=PLKVHe_3pWs5FbMGAAh1OXPO8wdA8G3fxc)
+* [图灵课堂官方](https://www.youtube.com/channel/UC6SOvMrrdt5HyGS-3zAtIww/videos)
 * [图灵学院各种教程 非常好](https://www.youtube.com/channel/UC1eE3JP46onlndR-jETJxXg/videos)
 * [各种项目实战---Java干货的视频](https://space.bilibili.com/244056686/video?tid=0&page=1&keyword=&order=pubdate)
 * [天猫整站SPRINGBOOT系列教材 ](https://how2j.cn/k/tmall_springboot/tmall_springboot-1798/1798.html)
