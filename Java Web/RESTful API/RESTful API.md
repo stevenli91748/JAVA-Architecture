@@ -85,8 +85,6 @@
   * [企业中的 API 设计思路---以API 驱动的方式设计系统  ](https://www.infoq.cn/article/9aWfgWP7cWqGW44vMmeZ?utm_source=related_read_bottom&utm_medium=article)
     * [Mock API Server Online Testing & API Mocking Guide](https://stoplight.io/mock-api-guide/basics/) 
 * [如何设计一个安全的对外接口，老司机总结了这几点.](https://mp.weixin.qq.com/s/i4N5-ftqNdgottfcxigHxQ)
-* [接口调用幂等性问题+解决方案](https://mp.weixin.qq.com/s/R9N1L57s7amp80Gxn-ycHg)
-* [接口幂等性是什么？如何设计？](https://mp.weixin.qq.com/s/8dLGA_JXHlZD_U-m6Hgn_g)
 * [Api 接口优化的几个技巧](https://mp.weixin.qq.com/s/W_u55Spcm46mnYiujwyPHg)
 * [初探APP架构之后端接口设计方案](https://www.jianshu.com/p/f3b747abdf2a)
 * [如何设计一个牛逼的API接---主要从几个方面来设计一个安全的API接口](https://segmentfault.com/a/1190000037503942)
@@ -102,7 +100,9 @@
       * OAuth 2.0
         * [官网 ](https://oauth.net/2/)
         * [理解OAuth 2.0 ](http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html)
-  * 幂等性
+  * [幂等性](https://github.com/stevenli91748/Software-Architecture-Design/blob/master/%E7%94%B5%E5%95%86%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E5%BC%80%E5%8F%91%E5%AE%9E%E4%BE%8B/%E5%88%86%E5%B8%83%E5%BC%8F%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%8E%A5%E5%8F%A3%E5%B9%82%E7%AD%89%E6%80%A7%E8%AE%BE%E8%AE%A1.md)
+    * [接口调用幂等性问题+解决方案](https://mp.weixin.qq.com/s/R9N1L57s7amp80Gxn-ycHg)
+    * [接口幂等性是什么？如何设计？](https://mp.weixin.qq.com/s/8dLGA_JXHlZD_U-m6Hgn_g)
   * [接口设计有三个层面的复用](https://juejin.cn/post/6844904065852260366)
     * 跨项目复用
     * 跨页面复用
