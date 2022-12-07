@@ -753,8 +753,8 @@ SQL语言|[MySQL](https://github.com/stevenli91748/Database/blob/master/MySQL/RE
 [面向对象基础](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Object%20oriented/README.md)|[对象与类][%对象与类]|[继承][%继承]|[接口][%接口]|[如何面向接口编程](https://www.bilibili.com/read/cv4960817)|抽象类|[枚举类](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/枚举类.md)|[Lambda标达式][%Lambda标达式]|
 ---|---|---|---|---|---|---|---|
 
-[Java DTO（data transfer object）的理解,为什么要用DTO](https://www.cnblogs.com/Proximacentaurus/p/13700398.html)|
----|
+[Java DTO（data transfer object）的理解,为什么要用DTO](https://www.cnblogs.com/Proximacentaurus/p/13700398.html)|[为什么dao层和service层要用接口？](https://www.jianshu.com/p/64abdd29bdf6)|
+---|---|
 
 
 [多态](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Object%20oriented/多态.md)|[动态代理](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/动态代理.md)|[内部类][%内部类]|
