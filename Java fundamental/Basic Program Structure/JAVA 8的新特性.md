@@ -170,6 +170,7 @@
 * [JDK 11 发布计划来了，已确定 3个 新特性](https://mp.weixin.qq.com/s/otydsSk3oqxxFf01Rka7Sg)
 * [Java 10 实战第 1 篇：局部变量类型推断](https://mp.weixin.qq.com/s/4zUtQPUn5LYw43IRLm0Dwg)
 * [JDK 5 ~ 10 新特性倾情整理](https://mp.weixin.qq.com/s/Q-09zfXxgcOSmjIQ2zv7gQ)
+* [Java 5～11各个版本新特性史上最全总结](https://blog.51cto.com/u_11038441/2331685)
 * [JDK 10 的 10 个新特性](https://mp.weixin.qq.com/s/-xJ5U7i69KKl-Uc5POzAjg)
 * [JDK 10 最重要的 5 个新特性](https://mp.weixin.qq.com/s/MWWFrL-56aGfkmsLIOWJ6A)
 * [JDK 9 的 9 个新特性](https://mp.weixin.qq.com/s/Dl8Czb1zHph6XFRYpRMM2A)
