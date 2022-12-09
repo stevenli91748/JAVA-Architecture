@@ -29,7 +29,8 @@
 ## 8 ProcessBuilder
 * [](https://mkyong.com/java/java-processbuilder-examples/)
 ## 9 内省
-* [](https://blog.csdn.net/jiangyu1013/article/details/75280962)
+* [内省](https://blog.csdn.net/jiangyu1013/article/details/75280962)
+* [Java的内省技术](https://jasonkayzk.github.io/2020/03/02/Java%E7%9A%84%E5%86%85%E7%9C%81%E6%8A%80%E6%9C%AF/)
 ## 10 线程并发库
 ## 11 监控和管理虚拟机
 ## 12 元数据
