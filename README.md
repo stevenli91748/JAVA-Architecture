@@ -786,11 +786,11 @@ SQL语言|[MySQL](https://github.com/stevenli91748/Database/blob/master/MySQL/RE
 ---|---|---|---|---|---|---|---|
 
 
-[java动态编译](https://blog.nowcoder.net/n/d2a7554ea2ec4e4b978cf4a74c3c41b2)|
+[java动态编译](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/%E5%8A%A8%E6%80%81%E7%BC%96%E8%AF%91.md)|
 ---|
 
-[JAVA网络操作][%JAVA网络操作]|[泛型][%泛型]|[JAVA数据库][%JAVA数据库]|[国际化][%国际化]|[本地方法][%本地方法]|[脚本 编译与注解][%脚本 编译与注解]|[日期和时间API][%日期和时间API]|[Java常用类][%Java常用类]|
----|---|---|---|---|---|---|---|
+[JAVA网络操作][%JAVA网络操作]|[泛型][%泛型]|[JAVA数据库][%JAVA数据库]|[国际化][%国际化]|[本地方法][%本地方法]|[日期和时间API][%日期和时间API]|[Java常用类][%Java常用类]|
+---|---|---|---|---|---|---|
 
 [JAVA 8的流库][%JAVA-8的流库]|[输入与输出流][%输入与输出]|[XML][%XML]|[正则表达式][%正则表达式]|[数据结构与算法](https://github.com/stevenli91748/Data-Structure-and-Algorithmic)|[JDK API 8](https://github.com/stevenli91748/JAVA-Architecture/tree/master/API)|[JDBC][%JDBC]|[JNI](https://blog.csdn.net/createchance/article/details/53783490)|
 ---|---|---|---|---|---|---|---|
