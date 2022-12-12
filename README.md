@@ -30,6 +30,7 @@
 * [编写高质量代码——改善Java程序的151个建议](https://weread.qq.com/web/reader/3cc32750597de83cc5abc31kecc32f3013eccbc87e4b62e)
 * [“饿了么”质量体系搭建实战----专业的测试系统解析](https://weread.qq.com/web/reader/9cb32f10721a48be9cbdc2ake4d32d5015e4da3b7fbb1fa)
 * [精益开发实战：用看板管理大型项目](https://weread.qq.com/web/reader/e7632910718ff645e76f66d)
+* [编程与类型系统](https://weread.qq.com/web/reader/d9532b107221fcb0d95a94bkc81322c012c81e728d9d180)
 ---
 
 # 后端学习路线
