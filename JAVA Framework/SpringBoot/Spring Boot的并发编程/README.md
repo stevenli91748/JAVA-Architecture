@@ -69,6 +69,7 @@
 
 
 # SpringBoot线程
+* [JAVA多线程实现的四种方式](https://www.cnblogs.com/felixzh/p/6036074.html)
 * [Spring Boot线程安全指南](https://zhuanlan.zhihu.com/p/60346760)
 * [Spring Boot启用异步线程](https://cloud.tencent.com/developer/article/1609499?from=article.detail.1632359)
 * [Spring Boot 多线程](https://www.jianshu.com/p/769573bd362c)
