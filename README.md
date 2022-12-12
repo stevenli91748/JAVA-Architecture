@@ -787,8 +787,8 @@ SQL语言|[MySQL](https://github.com/stevenli91748/Database/blob/master/MySQL/RE
 ---|---|---|---|---|---|---|---|
 
 
-[java动态编译](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/%E5%8A%A8%E6%80%81%E7%BC%96%E8%AF%91.md)|
----|
+[java动态编译](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/%E5%8A%A8%E6%80%81%E7%BC%96%E8%AF%91.md)|[JAVA8 官网笔记教程---泛型](https://zq99299.github.io/java-tutorial/extra/generics/#%E4%BB%8B%E7%BB%8D)|
+---|---|
 
 [JAVA网络操作][%JAVA网络操作]|[泛型][%泛型]|[JAVA数据库][%JAVA数据库]|[国际化][%国际化]|[本地方法][%本地方法]|[日期和时间API][%日期和时间API]|[Java常用类][%Java常用类]|
 ---|---|---|---|---|---|---|
