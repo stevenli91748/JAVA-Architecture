@@ -99,6 +99,7 @@
     * [Spring WebSocket](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring%20%E7%BB%84%E4%BB%B6/Spring%20Web/Spring%20WebSocket/README.md)
     * [Servlet](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring%20%E7%BB%84%E4%BB%B6/Spring%20Web/Servlet/README.md)
     * [Web](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring%20%E7%BB%84%E4%BB%B6/Spring%20Web/Web/README.md)
+      * [Spring中Model详解---后台要从控制层直接返回前端所需的数据](https://blog.csdn.net/yongwa123/article/details/85017551) 
   * [4 Spring AOP](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring%20AOP/README.md)
   * [5 Spring Aspects](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring%20%E7%BB%84%E4%BB%B6/Spring%20Aspects/README.md)
   * [6 Instrumentation](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring%20%E7%BB%84%E4%BB%B6/Instrumentation/README.md)
