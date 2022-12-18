@@ -438,7 +438,7 @@
     * [Easy-to-use embedded servlet container support ](https://www.javaguides.net/2018/09/getting-started-with-spring-boot.html)
   * [Standard Project Structure for Spring Boot Projects](https://www.javaguides.net/2019/01/standard-project-structure-for-spring-boot-projects.html)
   * Web 应用（传统 Servlet、Spring Web MVC、Spring WebFlux）
-    * [Spring中Model详解](https://blog.csdn.net/yongwa123/article/details/85017551)
+    * [Spring中Model详解---后台要从控制层直接返回前端所需的数据](https://blog.csdn.net/yongwa123/article/details/85017551)
   * 数据相关（JDBC、JPA、事务）
   * 功能扩展（SpringApplication、Spring Boot 配置、Spring Boot Starter）  
   * 运维管理（Endpoint、健康检查、Metrics）
