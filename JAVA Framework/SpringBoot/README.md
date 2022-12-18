@@ -703,7 +703,8 @@
 
 
 # 有用的参考
-  * 深入实践Spring Boot.pdf
+  * [Spring Util、entity、model、DAO、DTO、view、mapper、service、controller文件夹用途](https://blog.csdn.net/baishi1987/article/details/127794922?spm=1001.2101.3001.6650.2&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EAD_ESQUERY%7Eyljh-2-127794922-blog-85017551.pc_relevant_3mothn_strategy_and_data_recovery&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EAD_ESQUERY%7Eyljh-2-127794922-blog-85017551.pc_relevant_3mothn_strategy_and_data_recovery&utm_relevant_index=5)
+  * [【SpringBoot】model层、dao层、service层、controller层 详解](https://blog.csdn.net/weixin_44100826/article/details/103230460?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-1-103230460-blog-85017551.pc_relevant_3mothn_strategy_and_data_recovery&spm=1001.2101.3001.4242.2&utm_relevant_index=4)
   * [还在用 System.currentTimeMillis() 统计代码耗时？StopWatch 才是首选](https://mp.weixin.qq.com/s/8LYnOkETWaxxAcLRMx9X7g)
   * [spring中的解耦](http://www.5ityx.com/cate103/91815.html)
   * [肝了一周总结的SpringBoot实战教程，太实用了！](http://www.macrozheng.com/#/reference/springboot_start)
