@@ -488,6 +488,8 @@
   * [Spring Boot定制Spring MVC](http://c.biancheng.net/spring_boot/spring-mvc.html)
     * [Spring Boot Model ModelMap ModelAndView](https://zetcode.com/springboot/model/) 
     * [Spring Boot Model中文教程](https://geek-docs.com/spring-boot/spring-boot-tutorials/model.html)
+    * [Spring中Model详解---后台要从控制层直接返回前端所需的数据](https://blog.csdn.net/yongwa123/article/details/85017551) 
+    * [Spring中Model、ModelMap、ModelAndView理解和具体使用总结](https://blog.csdn.net/qq_21223653/article/details/81365770?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-81365770-blog-75193948.pc_relevant_3mothn_strategy_recovery&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-81365770-blog-75193948.pc_relevant_3mothn_strategy_recovery&utm_relevant_index=2)
   * [静态资源与模板引擎的整合](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/Web%E5%BC%80%E5%8F%91/%E9%9D%99%E6%80%81%E8%B5%84%E6%BA%90%E4%B8%8E%E6%A8%A1%E6%9D%BF%E5%BC%95%E6%93%8E%E7%9A%84%E6%95%B4%E5%90%88/README.md)
   * SpringBoot Session
     * [SpringBoot中，如何使用Session共享实现分布式部署?](https://www.jianshu.com/p/722cf586ebf9?utm_campaign=hugo&utm_medium=reader_share&utm_content=note&utm_source=weixin-friends) 
