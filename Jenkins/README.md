@@ -19,7 +19,7 @@
 
 
 # 视频
-
+ * [JenkinsX Essentials](https://www.youtube.com/watch?v=LPEIfvkJpw0&list=PLo0iJFLQIBEauKLLjo88ROz5ZUZXCQRH8)
  * [1 天掌握 Jenkins](https://ke.qq.com/course/449797?taid=3959865358081285)
  * [jenkins详细教程](https://www.jianshu.com/p/1071235b4a2f)
  * [Jenkins Tutorial For Beginners | Jenkins Tutorial ](https://www.youtube.com/watch?v=FX322RVNGj4)
