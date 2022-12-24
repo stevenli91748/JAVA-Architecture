@@ -1,6 +1,6 @@
 
-[Java如何完全复制一个对象](https://www.jianshu.com/p/c3fbb9ea855f)|
----|
+[Java如何完全复制一个对象](https://www.jianshu.com/p/c3fbb9ea855f)|[Java提高篇——对象克隆（复制）](https://www.cnblogs.com/qian123/p/5710533.html)|
+---|---|
 
 * [掌握对象的三大特性]()
   * [java语言的修饰符](#java语言的修饰符)
