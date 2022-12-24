@@ -787,7 +787,7 @@ SQL语言|[MySQL](https://github.com/stevenli91748/Database/blob/master/MySQL/RE
 * [JDK Dynamic Proxies--- how to use JDK Dynamic Proxy API along with use cases.](https://www.logicbig.com/tutorials/core-java-tutorial/java-dynamic-proxies.html)
 * [Misc Java SE API](https://www.logicbig.com/tutorials/core-java-tutorial/java-se-api.html)
 
-[异常 断言和日志][%异常 断言和日志]|[反射][%反射]|[注解][%注解]|[对象容器][%容器]|[序列化与反序列化][%序列化与反序列化]|[JAVA各版本新特性详解][%java8]|[文本操作][%文本操作]|[集合][%集合]|
+[异常 断言和日志][%异常 断言和日志]|[反射][%反射]|[注解][%注解]|[对象容器](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Java%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1.md)|[序列化与反序列化][%序列化与反序列化]|[JAVA各版本新特性详解][%java8]|[文本操作][%文本操作]|[集合][%集合]|
 ---|---|---|---|---|---|---|---|
 
 
