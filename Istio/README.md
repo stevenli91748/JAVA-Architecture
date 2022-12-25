@@ -17,6 +17,9 @@
 
 * [Bookinfo 应用案例----Istio技术](https://istio.io/latest/zh/docs/examples/bookinfo/)
 
+# 视频
+* [九析带你轻松完爆 istio 系列](https://www.bilibili.com/video/BV1vE411p7wX/?spm_id_from=333.788.recommend_more_video.15)
+
 # 目录
 
 [Service Mesher社区---istio资料](https://www.servicemesher.com/)|[部署 Istio](https://icyfenix.cn/appendix/istio.html)|[周志明 如何部署 Istio](https://icyfenix.cn/appendix/istio.html)|
