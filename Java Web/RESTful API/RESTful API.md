@@ -31,8 +31,8 @@
 
 
 
-[Vert.x](https://www.bilibili.com/video/BV174411E7Vr?from=search&seid=3412424618058651269)|
----|
+[Vert.x](https://www.bilibili.com/video/BV174411E7Vr?from=search&seid=3412424618058651269)|[GraphQL----一种用于 API 的查询语言](https://graphql.cn/)|
+---|---|
 
 [kong](https://www.bilibili.com/video/BV16E411n7Bu?from=search&seid=13204508987684806757)|[Spring Cloud Gateway](https://www.bilibili.com/video/BV11b411V7MA?from=search&seid=10918068436806250854)|[Postman Beginner's Course - API Testing](https://www.youtube.com/watch?v=VywxIQ2ZXw4)|
 ---|---|---|
