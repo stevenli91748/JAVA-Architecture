@@ -1,4 +1,11 @@
 
+
+# video
+* [打造千万级流量秒杀系统](https://www.youtube.com/playlist?list=PL5d0qARooeQh-XYm1Jex96TYHDm_sRojT)
+
+
+---
+
 [Java高并发秒杀系统【观后总结】](https://juejin.im/post/6844903576863686664)|[秒杀超卖 解决方案（史上最全）---疯狂创客圈](https://www.cnblogs.com/crazymakercircle/p/14846136.html)|
 ---|---|
 
