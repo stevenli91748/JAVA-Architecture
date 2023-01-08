@@ -503,6 +503,7 @@ Tyk是2014年创建的开源API网关，甚至比AWS的API网关即服务功能�
 
 
 # 有用的参考
+  * [API网关与负载均衡器的区别？](https://www.jdon.com/64234.html)
   * [采用Builder模式链式编程实现了一个Api接口信息的对象设计](https://www.jianshu.com/p/a8c51f220189)
   * [分布式接口幂等性、分布式限流：Guava 、Nginx和lua限流](https://mp.weixin.qq.com/s/zzXeaSEPxcZdhrDVvOVSng)
   * [Spring Boot+Redis+拦截器+自定义Annotation实现接口自动幂等](https://mp.weixin.qq.com/s/cSv_9r5rJMTg5_H8UZNnFA)
