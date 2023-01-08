@@ -9,7 +9,7 @@
 # [Github上100k点赞的计算机开源课程免费开源了！](https://zhuanlan.zhihu.com/p/418178828)
 # [GVP ( Gitee Most Valuable Project ) ---Gitee 综合评定出的优秀开源项目的展示平台](https://gitee.com/gvp)
 # [StackShare---可以查找到软件的流行率](https://stackshare.io/categories)
-
+# [ P8 工程师学习路径](https://tulingxueyuan.cn/xxlx/kcdg/)
 
 # 在线书籍
 * [程序员英语单词册](https://www.kancloud.cn/haixu926611/study-english/112096)
