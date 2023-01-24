@@ -674,6 +674,7 @@ SQL语言|[MySQL](https://github.com/stevenli91748/Database/blob/master/MySQL/RE
 * Servlet机制
 * 监听器 过滤器与拦截器机制
 * Cookie与Session机制
+  * [⼀⽂看懂 session 和 cookie](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/session%20%E5%92%8C%20cookie.md)
 * Socket机制
 
 ### Java核心架构体系设计
