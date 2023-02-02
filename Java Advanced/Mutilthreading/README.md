@@ -42,6 +42,7 @@
 * 操作系统
   * 进程和线程
     * [为什么要使用多线程？创建多少个线程合适？什么是线程池](https://blog.csdn.net/JMW1407/article/details/107222065) 
+    * [多线程的出现是要解决什么问题？本质是什么?](https://blog.csdn.net/qq_43765199/article/details/125863982)
   * 存储和寻址
   * 进程间通信
     * 管道
