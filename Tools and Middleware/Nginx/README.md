@@ -215,6 +215,7 @@ nginx出口-->http服务
 * [打造3百万次请求/秒的高性能服务器集群第一部分](https://www.cnblogs.com/JohnABC/p/5264662.html)
 * [打造3百万次请求/秒的高性能服务器集群第二部分](https://www.cnblogs.com/JohnABC/p/5264687.html)
 * [Nginx安装及配置实战--重要](https://blog.csdn.net/yuanfangPOET/article/details/83446907)
+* [Nginx一网打尽：动静分离、压缩、缓存、黑白名单、跨域、高可用、性能优化...](https://mp.weixin.qq.com/s/c8JvAhCou3awj9ahYkLNXA)
 * [Nginx反向代理、负载均衡、动静分离、缓存、压缩、防盗链、跨域访问](https://www.cnblogs.com/ph7seven/p/9932712.html)
 * [Nginx实战（共十一章）总述&汇总](https://blog.csdn.net/ouyida3/article/details/86771967)
 * [docker-compose 安装 Nginx](http://www.dev-share.top/2020/06/07/docker-compose-%e5%ae%89%e8%a3%85-nginx/)
