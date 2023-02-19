@@ -22,7 +22,7 @@
 [怎样设置电脑CPU运行的核心数](https://www.youtube.com/shorts/lnn4nOh8c9E)|
 ---|
 
-[提升百倍吞吐量的多线程性能优化实战---一步一步教你怎样用多线程模式来开发WEB程序](https://www.youtube.com/watch?v=_QQ3sxftM7A&t=509s)|
+[提升百倍吞吐量的多线程性能优化实战---一步一步教你怎样用多线程模式代码来开发WEB程序](https://www.youtube.com/watch?v=_QQ3sxftM7A&t=509s)|
 ---|
 
 
