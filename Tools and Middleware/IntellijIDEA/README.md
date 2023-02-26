@@ -40,7 +40,7 @@
 
 # 目录
 
-
+* [IDEA 2022.3.2 破解版下载_激活安装图文教程（永久激活,亲测有效）](https://www.exception.site/essay/how-to-free-use-idea-202021-by-resigter-code)
 * [IntelliJ IDEA 的配置](#IntelliJ-IDEA-的配置)
   * [IDEA的配置](#IDEA的配置)
     * [IntelliJ IDEA 相关核心文件和目录介绍](https://github.com/stevenli91748/IntelliJ-IDEA-Tutorial/blob/master/installation-directory-introduce.md)
