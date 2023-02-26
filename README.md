@@ -11,6 +11,12 @@
 # [StackShare---可以查找到软件的流行率](https://stackshare.io/categories)
 # [ P8 工程师学习路径](https://tulingxueyuan.cn/xxlx/kcdg/)
 
+---
+
+# [破解合集！！！---IDEA,Navicat, typora, Xshell,Visual Studio,PyCharm, Sublime Text](https://tobebetterjavaer.com/nice-article/itmind/shangwang.html#%E6%9C%8D%E5%8A%A1-2-%E6%A0%91%E6%B4%9E)
+
+---
+
 # 在线书籍
 * [程序员英语单词册](https://www.kancloud.cn/haixu926611/study-english/112096)
 * [计算机系统解密：从理解计算机到编写高效代码](https://weread.qq.com/web/bookDetail/98432a70726e82339840d31)
@@ -31,6 +37,11 @@
 * [“饿了么”质量体系搭建实战----专业的测试系统解析](https://weread.qq.com/web/reader/9cb32f10721a48be9cbdc2ake4d32d5015e4da3b7fbb1fa)
 * [精益开发实战：用看板管理大型项目](https://weread.qq.com/web/reader/e7632910718ff645e76f66d)
 * [编程与类型系统---数学与泛型编程：高效编程的奥秘](https://weread.qq.com/web/reader/d9532b107221fcb0d95a94bkc81322c012c81e728d9d180)
+
+
+
+
+
 ---
 
 # 后端学习路线
