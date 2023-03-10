@@ -781,6 +781,26 @@ SQL语言|[MySQL](https://github.com/stevenli91748/Database/blob/master/MySQL/RE
 [多态](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Object%20oriented/多态.md)|[动态代理](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/动态代理.md)|[内部类][%内部类]|
 ---|---|---|
 
+### 1 java基础
+### 2 java 类库和生态
+Guava|apache commons|jedis|caffine|
+---|---|---|---|
+
+### JVM
+
+JAVA内存模型
+Java运行原理
+垃圾回收
+分析和调优Java程序
+Memory Analyzer(MAT) 内存分析工具
+
+### 并发编程
+### 阅读源码
+HashMap
+ArrayList
+
+
+
 
 ### 阶段 3 JAVA进阶
 
