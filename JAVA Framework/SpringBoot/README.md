@@ -422,6 +422,7 @@
   * Spring Boot 五大核心特性（组件自动装配、嵌入式Web容器、生产准备特性）
     * 启动器 
       * [Spring Boot starters](https://www.javaguides.net/2018/09/getting-started-with-spring-boot.html)
+        * [Spring Boot 自定义 Starter](https://www.exception.site/springboot/spring-boot-custom-starter)
         * Spring Boot application starters
         * Spring Boot production starters
         * Spring Boot technical starters 
@@ -485,18 +486,25 @@
   * [Spring Boot Web Socket](https://www.yiibai.com/spring-boot/spring_boot_web_socket.html)
   * [Spring Boot 集成Swagger2](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/Spring%20Boot%20%E9%9B%86%E6%88%90Swagger2.md)
   * [Spring Boot中使用过滤器和拦截器](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/Spring%20Boot%E4%B8%AD%E4%BD%BF%E7%94%A8%E8%BF%87%E6%BB%A4%E5%99%A8%E5%92%8C%E6%8B%A6%E6%88%AA%E5%99%A8.md)
+    * [Spring Boot 配置拦截器](https://www.exception.site/springboot/spring-boot-interceptor)
+  * Spring Boot 日期
+    * [Spring Boot 日期格式化](https://www.exception.site/springboot/spring-boot-date-format)
   * [Spring Boot定制Spring MVC](http://c.biancheng.net/spring_boot/spring-mvc.html)
+    * [Spring Boot WebMvcConfigurer](https://www.exception.site/springboot/spring-boot-web-mvc-configurer)
     * [Spring Boot Model ModelMap ModelAndView](https://zetcode.com/springboot/model/) 
     * [Spring Boot Model中文教程](https://geek-docs.com/spring-boot/spring-boot-tutorials/model.html)
     * [Spring中Model详解---后台要从控制层直接返回前端所需的数据](https://blog.csdn.net/yongwa123/article/details/85017551) 
     * [Spring中Model、ModelMap、ModelAndView理解和具体使用总结](https://blog.csdn.net/qq_21223653/article/details/81365770?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-81365770-blog-75193948.pc_relevant_3mothn_strategy_recovery&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-81365770-blog-75193948.pc_relevant_3mothn_strategy_recovery&utm_relevant_index=2)
+      * [Spring Boot 2.0 @ModelAttribute](https://www.exception.site/springboot/spring-boot-model-attribute)
   * [静态资源与模板引擎的整合](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/Web%E5%BC%80%E5%8F%91/%E9%9D%99%E6%80%81%E8%B5%84%E6%BA%90%E4%B8%8E%E6%A8%A1%E6%9D%BF%E5%BC%95%E6%93%8E%E7%9A%84%E6%95%B4%E5%90%88/README.md)
+    * [Spring Boot 访问静态资源css/js（非常详细）](https://www.exception.site/springboot/spring-boot-css-js)
   * SpringBoot Session
     * [SpringBoot中，如何使用Session共享实现分布式部署?](https://www.jianshu.com/p/722cf586ebf9?utm_campaign=hugo&utm_medium=reader_share&utm_content=note&utm_source=weixin-friends) 
   * [Thymeleaf模板引擎](https://github.com/stevenli91748/Frontend/blob/master/Thymeleaf/Readme.md)
   * RestTemplate---**are the HTTP protocol’s methods HEAD, GET, POST, PUT, DELETE, and OPTIONS**
     * [Intro to Spring RestTemplate](https://howtodoinjava.com/spring-boot2/resttemplate/spring-restful-client-resttemplate-example/) 
   * Spring Boot中的JSON技术--- Map Java objects to/from JSON
+    * [Spring Boot 配置 Jackson](https://www.exception.site/springboot/spring-boot-jackson)
     * [Spring Boot中的JSON技术--mybird](https://mrbird.cc/Spring-Boot%20JSON.html) 
     * [Java API for JSON Processing Tutorials](https://www.logicbig.com/tutorials/java-ee-tutorial/java-api-for-json-processing.html)
     * [jackson vs Fastjson ](https://mp.weixin.qq.com/s?__biz=MzU1Nzg4NjgyMw==&mid=2247488725&idx=1&sn=0a5645a7668e57a98216900415bd57b7&scene=21#wechat_redirect) 
