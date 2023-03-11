@@ -21,12 +21,14 @@
 * [使用Intellij中的Spring Initializr来快速构建Spring Boot/Cloud工程](http://blog.didispace.com/spring-initializr-in-intellij/)
 * [工程结构推荐](http://blog.didispace.com/spring-boot-learning-21-1-2/)
 * [Idea 平台下实现 spring boot 项目 热部署](https://www.bilibili.com/video/av93414618?from=search&seid=1134316332664179526)
+  * [Spring Boot 热部署](https://www.exception.site/springboot/spring-boot-hot-deploy)
 * [Spring boot项目搭建（前端到数据库，超详细）](https://developer.51cto.com/art/202103/648426.htm)
 
 
 # 项目整合配置
 * [spring boot2 + dubbo + zookeeper 搭建微服务框架](https://www.pianshen.com/article/8697367836/)
 * [Spring Boot2（完整的SSM）与Dubbo的集成](https://www.pianshen.com/article/960369232/)
+* [Spring Boot 配置日志 log4j2](https://www.exception.site/springboot/spring-boot-log4j2)
 * [Spring Boot2集成JPA](https://www.pianshen.com/article/1114121725/)
 * [Spring Boot与Redis的集成](https://www.pianshen.com/article/87111813402/)
 * [spring boot 集成多个kafka集群](https://www.pianshen.com/article/95811542353/)  
