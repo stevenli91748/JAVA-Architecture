@@ -9,5 +9,5 @@
 * [SpringBoot统一接口返回和全局异常处理](https://www.jianshu.com/p/1dfa354bd349)
 * [使用全局异常来处理校验逻辑的方式](http://www.macrozheng.com/#/technology/springboot_validator)
 * [统一全局异常处理---看云](https://www.kancloud.cn/hanxt/springboot2/1177633)
-
+* [Java8 新特性如何防止空指针异常](https://www.exception.site/java8/java8-avoid-null-check)
 # 
