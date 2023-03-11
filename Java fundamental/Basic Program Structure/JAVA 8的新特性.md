@@ -55,6 +55,8 @@
 * [方法引用、构造器引用和数组引用](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK8%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#3-方法引用-构造器引用和数组引用)
 * [接口支持默认方法和静态方法](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK8%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#4-接口支持默认方法和静态方法)
 * [Stream API](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK8%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#5-Stream-API)
+  * [Java8 新特性 Stream 流教程](https://www.exception.site/java8/java8-stream-tutorial)
+  * [如何通过 IntelliJ IDEA 来提升 Java8 Stream 的编码效率](https://www.exception.site/java8/java8-improve-stream-byidea-tips)
   * [Java 8 的 Stream 不好调试？别逗了！IDEA 调试就能轻松搞定](https://mp.weixin.qq.com/s/4POx2DTfPDi7ry90KxzA0A)
   * [Java 8 Stream API Tutorial example](https://www.javaguides.net/p/java-8-stream-api-tutorial.html)
   * [Java Stream API 系列](https://www.kancloud.cn/hanxt/javacrazy/1572238) 
