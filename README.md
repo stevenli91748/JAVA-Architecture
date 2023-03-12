@@ -62,6 +62,19 @@
 
 # 第十三阶段 学习指南
 
+## 资源类
+[ www.greecodecamp.com]|runnoob.com|w3cschool.com|慕课网|[蓝桥云课---在线做实验，高效学编程](https://www.lanqiao.cn/)|[菜鸟工具](https://c.runoob.com/)|
+---||---|---|---|---|
+
+[开发者搜索](https://kaifa.baidu.com/)|[HelloGitHub---分享GitHub 上有趣入门级的开源项目](https://hellogithub.com/)|
+---|---|
+## 学习类
+## 文章类
+## 求职类
+
+
+
+
 [阿里巴巴 知行动手实验室](https://start.aliyun.com/)|[极客教程 JAVA篇---提供最全面最通俗易懂的IT技术教程，包括基础教程和高级教程](https://geek-docs.com/java)|[java核心知识整理](https://www.kancloud.cn/imnotdown1019/java_core_full/1004074)|
 ---|---|---|
 
