@@ -2,8 +2,14 @@
 
 <a href="https://ibb.co/8d49JmT"><img src="https://i.ibb.co/k96XpGk/2018090421174179-2.png" alt="2018090421174179-2" border="0"></a>
 
+
+
+
+
 [线程与内存交互操作](https://www.cnblogs.com/hongwz/p/5948308.html)|[一文彻底搞懂“内存管理](https://stor.51cto.com/art/202106/668928.htm)|[内存管理设计精要](https://draveness.me/system-design-memory-management/)|
 ---|---|---|
+
+
 
 # 疯狂创客圈
 
@@ -15,6 +21,12 @@
 # 目录
 
 # 1 内存分配
+  * 内存dump的工具
+    * Unix/Linux中的coredump
+      * [Linux core dump过程分析](http://just4coding.com/2021/10/31/core-dump/) 
+    * Java中的headdump
+    * Java中的threaddump
+    * tcpdump
 # 2 垃圾回收机制
 # 3 内存回收算法
 
