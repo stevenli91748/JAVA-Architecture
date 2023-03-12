@@ -29,6 +29,7 @@
     * Java中的threaddump---帮助我们判断 CPU 峰值、死锁、内存异常、应用反应迟钝、响应时间变长和其他系统问题
       * [7 个抓取 Java Thread Dumps 的方式](https://cloud.tencent.com/developer/article/1491224) 
     * tcpdump
+      * [Linux 网络命令必知必会之 tcpdump，一份完整的抓包指南请查收](https://www.cnblogs.com/bakari/p/10748721.html) 
 # 2 垃圾回收机制
 # 3 内存回收算法
 
