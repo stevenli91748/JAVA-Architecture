@@ -125,6 +125,20 @@
 
 ##  必备插件
 
+### 强烈推荐
+### 美化类
+### 代码生成类
+### 功能提效类
+    * 源码阅读类
+    * 代码规范类
+    * 格式处理
+    * 代码统计
+    * 代码检索
+    * 其他
+### 增强类
+
+
+
 * [第一弹！安排！安利10个让你爽到爆的IDEA必备插件](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247486586&idx=1&sn=b745f0be1a5fc0160f43625e29df9029&chksm=cea243b1f9d5caa7200950063ae9e1691d3578d46c0b865c8220c8f1e02ed43cb4e586c2524c&token=248911937&lang=zh_CN#rd)
   
   * [IDEA的Docker插件]
