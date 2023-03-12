@@ -22,10 +22,12 @@
 
 # 1 内存分配
   * 内存dump的工具
-    * Unix/Linux中的coredump
+    * Unix/Linux中的coredump---在运行中异常中止或者崩溃，Linux会将进程当时的内存信息、寄存器信息、函数调用堆栈等信息存储到文件系统的一个文件中，生成的core文件可以使用gdb来分析诊断程序存在的问题
       * [Linux core dump过程分析](http://just4coding.com/2021/10/31/core-dump/) 
-    * Java中的headdump
-    * Java中的threaddump
+    * Java中的headdump---解决内存泄漏问题和分析Java 应用程序中的内存使用情况非常有用
+      * [性能监控之常见 Java Heap Dump 方法](https://juejin.cn/post/7012241959695679518) 
+    * Java中的threaddump---帮助我们判断 CPU 峰值、死锁、内存异常、应用反应迟钝、响应时间变长和其他系统问题
+      * [7 个抓取 Java Thread Dumps 的方式](https://cloud.tencent.com/developer/article/1491224) 
     * tcpdump
 # 2 垃圾回收机制
 # 3 内存回收算法
