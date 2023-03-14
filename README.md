@@ -74,8 +74,13 @@ csdn|掘金|博客园|infoQ|OSCHINA---开源中国|
 ## 求职类
 leetcode|
 
+---
 
+[JavaGuide(Java面试+学习指南)](https://javaguide.cn/)|力扣|[被删的前端游乐场](https://godbasin.github.io/front-end-playground/)|[paython 100 days](https://github.com/Julie-Wang/jackfrued-Python-100-Days)|
+---|---|---|---|
 
+[GitHub 漫游指南-](https://github.com/phodal/github)|
+---|
 
 [阿里巴巴 知行动手实验室](https://start.aliyun.com/)|[极客教程 JAVA篇---提供最全面最通俗易懂的IT技术教程，包括基础教程和高级教程](https://geek-docs.com/java)|[java核心知识整理](https://www.kancloud.cn/imnotdown1019/java_core_full/1004074)|
 ---|---|---|
