@@ -397,6 +397,9 @@ https://github.com/YunaiV/ruoyi-vue-pro
 [大厂的 SDK 写法，偷学到了](https://www.jianshu.com/p/583023fccd61)|
 ---|
 
+[编程5年，我喜爱的30个编程工具大分享！新手自学编程必看](https://www.youtube.com/watch?v=ou-zZVpBooE)|
+---|
+
 
 [最新 Java 开发工具教程，都在这了](https://mp.weixin.qq.com/s/K2nbzDQmharfYhkBDvwQdw)|[java代码审计](https://weread.qq.com/web/reader/c8732a70726fa058c87154b)|[Kotlin](https://github.com/stevenli91748/Kotlin/blob/main/README.md)|
 ---|---|---|
