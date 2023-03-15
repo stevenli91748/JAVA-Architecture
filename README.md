@@ -82,8 +82,10 @@ leetcode|
 [GitHub 漫游指南-](https://github.com/phodal/github)|
 ---|
 
-[各种编程语言的在线IDE网站](https://jsrun.net/)|
----|
+
+# 在线IDE网站
+[各种编程语言的在线IDE网站](https://jsrun.net/)|[我喜爱的30个编程工具大分享！新手自学编程必看](https://www.youtube.com/watch?v=ou-zZVpBooE)|
+---|---|
 
 
 
