@@ -56,10 +56,12 @@
 * Java线程的运行机制
   * [共享变量](https://blog.csdn.net/JokerLJG/article/details/121284966#:~:text=%E5%A6%82%E6%9E%9C%E4%B8%80%E4%B8%AA%E5%8F%98%E9%87%8F%E5%90%8C%E6%97%B6%E5%9C%A8,%E5%AD%98%E6%94%BE%E5%9C%A8%E4%B8%BB%E5%86%85%E5%AD%98%E4%B8%AD%E3%80%82)
 * 线程的创建和启动
-  * 线程的3种创建方式
+  * 线程的4种创建方式
     * 继承Java.lang.Thread类
     * 实现Runnable接口
     * FutureTask 的方式 
+    * 通过线程池创建线程的方式
+
 * 线程的状态转换
   * 新建状态
   * 就绪状态
@@ -88,11 +90,18 @@
   * 被废弃的stop()方法
   * [以编程的方式控制线程](https://weread.qq.com/web/reader/df532740723982c7df583bfk64232b60230642e92efb54c)
 * [线程池---如何优雅的使用和理解线程池](https://crossoverjie.top/2018/07/29/java-senior/ThreadPool/)
+  * 线程池的4种创建方式
+    * Executors.newCachedThreadPool()	创建一个可根据需要创建新线程的线程池
+    * Executors.newFixedThreadPool(n)	创建一个可重用固定线程数的线程池
+    * Executors.newSingleThreadExecutor()	:创建一个只有一个线程的线程池
+    * Executors.newScheduledThreadPool(n)	创建一个线程池，它可安排在给定延迟后运行命令或者定期地执行。
   * [线程池原理解析](https://weread.qq.com/web/reader/df532740723982c7df583bfkd67323c0227d67d8ab4fb04) 
   * [别再纠结线程池大小了，没有固定公式的！终于有人说清楚了。。](https://mp.weixin.qq.com/s/_lPN_1M_bTp7EXC-dkDKrQ)
   * [Java线程池ThreadPoolExecutor实现原理剖析](https://github.com/aCoder2013/blog/issues/28) 
 * 处理线程未捕获的异常
 * ThreadLocal类
+* 多线程
+  * [Java多线程超详解](https://blog.csdn.net/weixin_44797490/article/details/91006241)
 * JUC并发包
   * [为什么引入JUC锁](https://weread.qq.com/web/reader/df532740723982c7df583bfk8e232ec02198e296a067180) 
   * 用于线程同步的Lock外部锁
