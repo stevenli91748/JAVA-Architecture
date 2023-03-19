@@ -32,6 +32,7 @@
 
   * [并发编程种的 ABA 问题](https://juejin.cn/post/7031565068558942221)
   * [真实业务场景展现CAS原理的ABA问题及解决方案](https://zhuanlan.zhihu.com/p/413919463)
+  * [CAS原理分析，解决银行转账ABA难题](https://developer.aliyun.com/article/1103482)
 </details>
 
 <details>
