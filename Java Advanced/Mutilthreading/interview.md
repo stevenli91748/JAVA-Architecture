@@ -31,7 +31,7 @@
 <summary>并发编程种的 ABA 问题</summary>
 
   [并发编程种的 ABA 问题](https://juejin.cn/post/7031565068558942221)
-  
+  [真实业务场景展现CAS原理的ABA问题及解决方案](https://zhuanlan.zhihu.com/p/413919463)
 </details>
 
 <details>
