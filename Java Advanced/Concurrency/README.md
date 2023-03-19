@@ -121,6 +121,12 @@
   * [Lambda架构](#Lambda架构)
 * 并发基础知识
   * [高并发理论---阿姆达尔定律和局部性原理 ](https://weread.qq.com/web/reader/d9e327a07188b377d9eb7dak636320102206364d3f0ffdc)
+  * java 高并发包
+    * JMH
+    * Java并发包之原子类型详解
+    * Java并发包之工具类详解 
+    * Java并发包之并发容器详解
+    * Java并发包之ExecutorService详解
   * 高并发时代的必备技能
     * [Netty](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Netty/README.md)
     * [Redis](https://github.com/stevenli91748/Database/tree/master/Redis)
