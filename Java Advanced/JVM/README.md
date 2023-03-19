@@ -291,6 +291,8 @@ JVM实验例子|[常见JVM内存错误及解决方案](https://www.kancloud.cn/h
         *  Process Explorer---进程管理工具
         *  Pslist---windows下的命令行工具
      * JDK官方性能监控工具
+       * [JMH---专门用于代码微基准测试的工具集（toolkit）。JMH是由实现Java虚拟机的团队开发的](https://openjdk.org/projects/code-tools/jmh/)
+         * [为什么要用JMH？何时应该用](https://www.51cto.com/article/713319.html)
        * [JDK Tools and Utilities---官方文档](https://docs.oracle.com/javase/7/docs/technotes/tools/#general)
        * jps命令---查看Java进程
        * 展JPS命令
@@ -300,7 +302,7 @@ JVM实验例子|[常见JVM内存错误及解决方案](https://www.kancloud.cn/h
        * jhat---JDK自带的堆分析工具
        * jstack---查看线程堆栈
        * jstatd---远程主机信息收集
-       * jcmd---多功能命令行
+       * jcmd---多功能命
        * hprof---性能统计工具
      *  图形化JVM监控工具JConsole
      *  JVM的内窥镜：使用MAT分析JAVA堆
