@@ -28,6 +28,13 @@
 </details>
 
 <details>
+<summary>并发编程种的 ABA 问题</summary>
+
+  [并发编程种的 ABA 问题](https://juejin.cn/post/7031565068558942221)
+  
+</details>
+
+<details>
 <summary>进程的缺点？为什么要发明多线程？</summary>
   
 多进程让多任务能够并行处理任务，但本身还有缺点，单个进程内部只能串行处理，而实际上很多进程内部的子任务并不要求是严格按照时间顺序来执行的，也需要并行处理。
