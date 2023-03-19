@@ -293,6 +293,7 @@ JVM实验例子|[常见JVM内存错误及解决方案](https://www.kancloud.cn/h
      * JDK官方性能监控工具
        * [JMH---专门用于代码微基准测试的工具集（toolkit）。JMH是由实现Java虚拟机的团队开发的](https://openjdk.org/projects/code-tools/jmh/)
          * [为什么要用JMH？何时应该用](https://www.51cto.com/article/713319.html)
+         * [官方提供的 jmh 示例 demo](http://hg.openjdk.java.net/code-tools/jmh/file/tip/jmh-samples/src/main/java/org/openjdk/jmh/samples/)
        * [JDK Tools and Utilities---官方文档](https://docs.oracle.com/javase/7/docs/technotes/tools/#general)
        * jps命令---查看Java进程
        * 展JPS命令
