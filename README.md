@@ -39,7 +39,7 @@
 * [“饿了么”质量体系搭建实战----专业的测试系统解析](https://weread.qq.com/web/reader/9cb32f10721a48be9cbdc2ake4d32d5015e4da3b7fbb1fa)
 * [精益开发实战：用看板管理大型项目](https://weread.qq.com/web/reader/e7632910718ff645e76f66d)
 * [编程与类型系统---数学与泛型编程：高效编程的奥秘](https://weread.qq.com/web/reader/d9532b107221fcb0d95a94bkc81322c012c81e728d9d180)
-
+* [阿里云藏经阁电子书](https://developer.aliyun.com/ebook/index/__0_0_0_5?spm=a2c6h.20345107.ebook-index.35.779e249crMjcxK#ebook-list)
 
 
 
