@@ -668,6 +668,9 @@ SQL语言|[MySQL](https://github.com/stevenli91748/Database/blob/master/MySQL/RE
  * [别在重复造轮子了，几个值得应用到项目中的 Java 开源库送给你](https://juejin.im/post/5edd9a33e51d45784635b1a8)
  
  
+ [Java魔法类：Unsafe应用解析---主要提供一些用于执行低级别、不安全操作的方法，如直接访问系统内存资源、自主管理内存资源等](https://tech.meituan.com/2019/02/14/talk-about-java-magic-class-unsafe.html)|[JMH---针对Java代码做基准测试的工具库]()|
+ ---|---|
+ 
  [Bean Mapping][%Bean Mapping]|[Bytecode Manipulation][%Bytecode Manipulation]|[Caching][%Caching]|[Cluster Management][%Cluster Management]|[Database][%Database]|[Date and Time][%Date and Time]|
   ---|---|---|---|---|---|
   
