@@ -56,6 +56,7 @@
 * Java线程的运行机制
   * [共享变量](https://blog.csdn.net/JokerLJG/article/details/121284966#:~:text=%E5%A6%82%E6%9E%9C%E4%B8%80%E4%B8%AA%E5%8F%98%E9%87%8F%E5%90%8C%E6%97%B6%E5%9C%A8,%E5%AD%98%E6%94%BE%E5%9C%A8%E4%B8%BB%E5%86%85%E5%AD%98%E4%B8%AD%E3%80%82)
   * [ThreadLocal变量](https://www.liaoxuefeng.com/wiki/1252599548343744/1306581251653666)
+    * Threadlocal 不支持继承性 
 * 线程的创建和启动
   * 线程的4种创建方式
     * 继承Java.lang.Thread类
