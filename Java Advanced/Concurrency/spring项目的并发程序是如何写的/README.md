@@ -1,1 +1,25 @@
 
+* 在Spring项目中编写并发程序可以采用多种方式，下面是一些常见的方法：
+
+使用Java多线程技术：Java多线程技术是一种常见的实现并发程序的方式，可以在Spring项目中直接使用。可以使用Java提供的Thread、Runnable、Callable等接口和类来创建和管理线程。如果需要在多线程程序中共享数据，可以使用Java中的同步机制（例如synchronized关键字、ReentrantLock类等）来保证线程安全。
+
+使用Spring提供的并发支持：Spring框架提供了一些用于处理并发的组件和类库，例如任务调度器、线程池、异步方法等。可以使用这些组件来简化并发编程的实现。例如，可以使用Spring的ThreadPoolTaskExecutor类来创建线程池，执行异步任务，管理线程等。
+
+使用异步框架：Spring框架提供了异步框架，可以通过异步方法来处理并发请求。可以使用@Async注解标记一个方法为异步方法，Spring将会为该方法创建一个新的线程来执行。异步方法可以通过Future或者CompletableFuture等接口来返回执行结果，可以在异步执行结束后获取执行结果。
+
+使用消息队列：消息队列可以将任务发送到队列中，异步处理，从而实现并发处理。Spring框架提供了一些用于处理消息队列的组件和类库，例如RabbitMQ和Kafka等。可以使用这些组件来实现异步消息处理。在Spring中，可以使用@RabbitListener注解来定义一个消息监听器，当消息到达时，Spring会自动将消息交给该监听器处理。
+
+
+* Spring框架提供了那些用于处理并发的组件和类库
+
+Spring任务调度器（Spring Task Scheduler）：Spring Task Scheduler是一个轻量级的任务调度框架，提供了一种简单的方式来安排定期执行的任务。它支持多种调度策略，例如固定速率、固定延迟和cron表达式等。可以使用@Scheduled注解来定义任务的执行方式。
+
+Spring线程池（Spring ThreadPool Task Executor）：Spring ThreadPool Task Executor是一个线程池框架，可以方便地管理和执行线程。可以使用ThreadPoolTaskExecutor类来创建线程池，执行异步任务等。
+
+Spring异步方法（Spring Asynchronous Method）：Spring Asynchronous Method提供了一种简单的方式来处理异步请求。可以使用@Async注解标记一个方法为异步方法，Spring将会为该方法创建一个新的线程来执行。异步方法可以通过Future或者CompletableFuture等接口来返回执行结果，可以在异步执行结束后获取执行结果。
+
+Spring集成JMS（Spring Integration JMS）：Spring Integration JMS提供了一种简单的方式来处理消息队列。可以使用Java Message Service（JMS）规范来与消息队列通信，可以使用Spring提供的JmsTemplate类来发送和接收消息。
+
+Spring集成RabbitMQ（Spring Integration RabbitMQ）：Spring Integration RabbitMQ提供了一种简单的方式来处理RabbitMQ消息队列。可以使用RabbitMQ提供的AMQP协议来与RabbitMQ通信，可以使用Spring提供的RabbitTemplate类来发送和接收消息。
+
+Spring集成Kafka（Spring Kafka）：Spring Kafka提供了一种简单的方式来处理Kafka消息队列。可以使用Kafka提供的API来与Kafka通信，可以使用Spring提供的KafkaTemplate类来发送和接收消息。
