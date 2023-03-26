@@ -1,5 +1,5 @@
 
-* 在Spring项目中编写并发程序可以采用多种方式，下面是一些常见的方法：
+# 在Spring项目中编写并发程序可以采用多种方式，下面是一些常见的方法：
 
 使用Java多线程技术：Java多线程技术是一种常见的实现并发程序的方式，可以在Spring项目中直接使用。可以使用Java提供的Thread、Runnable、Callable等接口和类来创建和管理线程。如果需要在多线程程序中共享数据，可以使用Java中的同步机制（例如synchronized关键字、ReentrantLock类等）来保证线程安全。
 
@@ -10,7 +10,7 @@
 使用消息队列：消息队列可以将任务发送到队列中，异步处理，从而实现并发处理。Spring框架提供了一些用于处理消息队列的组件和类库，例如RabbitMQ和Kafka等。可以使用这些组件来实现异步消息处理。在Spring中，可以使用@RabbitListener注解来定义一个消息监听器，当消息到达时，Spring会自动将消息交给该监听器处理。
 
 
-* Spring框架提供了那些用于处理并发的组件和类库
+# Spring框架提供了那些用于处理并发的组件和类库
 
 Spring任务调度器（Spring Task Scheduler）：Spring Task Scheduler是一个轻量级的任务调度框架，提供了一种简单的方式来安排定期执行的任务。它支持多种调度策略，例如固定速率、固定延迟和cron表达式等。可以使用@Scheduled注解来定义任务的执行方式。
 
@@ -23,3 +23,14 @@ Spring集成JMS（Spring Integration JMS）：Spring Integration JMS提供了一
 Spring集成RabbitMQ（Spring Integration RabbitMQ）：Spring Integration RabbitMQ提供了一种简单的方式来处理RabbitMQ消息队列。可以使用RabbitMQ提供的AMQP协议来与RabbitMQ通信，可以使用Spring提供的RabbitTemplate类来发送和接收消息。
 
 Spring集成Kafka（Spring Kafka）：Spring Kafka提供了一种简单的方式来处理Kafka消息队列。可以使用Kafka提供的API来与Kafka通信，可以使用Spring提供的KafkaTemplate类来发送和接收消息。
+
+
+# Spring框架提供了那些异步框架
+
+Spring Async：Spring Async是Spring框架提供的一种基于线程池实现的异步执行框架。可以使用@Async注解标记一个方法为异步方法，Spring将会为该方法创建一个新的线程来执行。异步方法可以通过Future或者CompletableFuture等接口来返回执行结果，可以在异步执行结束后获取执行结果。
+
+Spring WebFlux：Spring WebFlux是Spring框架提供的一种基于Reactor框架的异步执行框架。它使用响应式编程模型，能够处理大量并发请求。可以使用Mono和Flux等接口来定义异步流，可以使用flatMap和concatMap等操作符来实现异步流的处理。
+
+Spring Messaging：Spring Messaging是Spring框架提供的一种消息驱动的异步执行框架。可以使用Spring提供的Message和MessageChannel接口来定义消息和消息通道，可以使用@MessageMapping和@SendTo等注解来定义消息的处理方式。
+
+Spring Integration：Spring Integration是Spring框架提供的一种集成异步系统的框架。可以使用Spring提供的Message和MessageChannel接口来定义消息和消息通道，可以使用Spring Integration提供的各种组件来实现异步系统的集成。
