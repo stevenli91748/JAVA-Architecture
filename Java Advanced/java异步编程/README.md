@@ -1,5 +1,5 @@
 # 在线书籍
-* [java异步编程](https://weread.qq.com/web/reader/44332cc071a486a7443c539)
+* [Java异步编程实战](https://weread.qq.com/web/reader/44332cc071a486a7443c539)
 
 ---
 
