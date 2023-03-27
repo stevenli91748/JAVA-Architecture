@@ -53,6 +53,7 @@
 
 ## 异步任务
 * 异步编程场景
+  * [SpringBoot异步编程的几种方式](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%BC%82%E6%AD%A5%E7%BC%96%E7%A8%8B/README.md)
   * 1 单JVM内的异步编程 
     * [在springboot中如何写异步程序]()
     * [需要异步地处理一些事情，而不需要知道异步任务的结果  ](https://weread.qq.com/web/reader/44332cc071a486a7443c539k16732dc0161679091c5aeb1)
