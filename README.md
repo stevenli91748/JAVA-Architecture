@@ -10,6 +10,7 @@
 # [GVP ( Gitee Most Valuable Project ) ---Gitee 综合评定出的优秀开源项目的展示平台](https://gitee.com/gvp)
 # [StackShare---可以查找到软件的流行率](https://stackshare.io/categories)
 # [ P8 工程师学习路径](https://tulingxueyuan.cn/xxlx/kcdg/)
+  * [系统学习路线图](https://www.tulingxueyuan.cn/xxlx/xxlxgh/)
 
 ---
 
