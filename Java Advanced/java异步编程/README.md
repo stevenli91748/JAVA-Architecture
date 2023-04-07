@@ -3,8 +3,8 @@
 
 ---
 
-[Java 8中的异步编程](https://developer.51cto.com/art/202103/650614.htm)|
----|
+[Java 8中的异步编程](https://developer.51cto.com/art/202103/650614.htm)|[全链路异步，让你的性能优化10倍+](https://mp.weixin.qq.com/s/XjJazjS9SGtWf9yuGP48nw)|
+---|---|
 
 
 
