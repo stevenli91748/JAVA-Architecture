@@ -7,6 +7,9 @@
 ---|---|
 
 
+[微服务全链路异步化实践](https://mp.weixin.qq.com/s/PdNcHzj4IzMlWf84eeOLkA)|
+---|
+
 
 # 参考
 
