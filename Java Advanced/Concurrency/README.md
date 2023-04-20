@@ -6,6 +6,9 @@
 
 # [并发知识点](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/Concurrency/并发面试.md)
 
+<a href="https://ibb.co/mh53RtF"><img src="https://i.ibb.co/6D0kybJ/java-concurrent-overview-1.png" alt="java-concurrent-overview-1" border="0"></a>
+
+
 # 在线书籍
 * [java JUC 包](https://weread.qq.com/web/reader/810321a0721639f38103031k70532b302e3705f21728e67)
 * [java高并发核心编程 (卷1) : NIO, Netty, Redis, ZooKeeper------本书实际上是《Netty、Redis、ZooKeeper高并发实战》一书的升级版](https://weread.qq.com/web/reader/e6d323b0723b6029e6d1c55)
