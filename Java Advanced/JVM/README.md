@@ -1,3 +1,5 @@
+<a href="https://ibb.co/PtLXKtV"><img src="https://i.ibb.co/CWcCgWS/jvm-overview.png" alt="jvm-overview" border="0"></a>
+
 
 #  [JVM面试](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/JVM%20interview.md)
 
