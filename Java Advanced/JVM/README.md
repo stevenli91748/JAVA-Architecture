@@ -1,4 +1,4 @@
-<a href="https://ibb.co/PtLXKtV"><img src="https://i.ibb.co/CWcCgWS/jvm-overview.png" alt="jvm-overview" border="0"></a>
+
 
 
 #  [JVM面试](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/JVM/JVM%20interview.md)
@@ -30,7 +30,8 @@
 目录
 ---
 
-<a href="https://ibb.co/HtT9bJ1"><img src="https://i.ibb.co/jykjQpB/jvm20190508233557662.png" alt="jvm20190508233557662" border="0"></a>
+
+<a href="https://ibb.co/PtLXKtV"><img src="https://i.ibb.co/CWcCgWS/jvm-overview.png" alt="jvm-overview" border="0"></a>
 
 
 [精尽 Java【虚拟机】学习指南](http://svip.iocoder.cn/Java/VirtualMachine/tutorials/)|[Java 全栈知识体系---JVM相关知识体系详解](https://www.pdai.tech/md/java/jvm/java-jvm-x-overview.html)|
