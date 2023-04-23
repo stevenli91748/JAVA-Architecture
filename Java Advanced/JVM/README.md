@@ -33,6 +33,7 @@
 
 <a href="https://ibb.co/PtLXKtV"><img src="https://i.ibb.co/CWcCgWS/jvm-overview.png" alt="jvm-overview" border="0"></a>
 
+<a href="https://ibb.co/xXQv3ps"><img src="https://i.ibb.co/pbpDntP/java-jvm-overview.png" alt="java-jvm-overview" border="0"></a>
 
 [精尽 Java【虚拟机】学习指南](http://svip.iocoder.cn/Java/VirtualMachine/tutorials/)|[Java 全栈知识体系---JVM相关知识体系详解](https://www.pdai.tech/md/java/jvm/java-jvm-x-overview.html)|
 ---|---|
