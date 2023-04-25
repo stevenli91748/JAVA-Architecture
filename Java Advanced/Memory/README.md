@@ -49,6 +49,8 @@ JMM定义了八个主要的内存操作来完成工作内存与主存的通信�
 
 
 # 有用的参考
+
+  * [面试官：小伙子，说一下多线程异步编排和线程池](https://segmentfault.com/a/1190000022656081?utm_source=sf-similar-article)
   * [Java 内存模型](https://mrbird.cc/Java-Memory-model.html)
   * [Java 并发编程：多线程并发内存模型](https://segmentfault.com/a/1190000038224347?utm_source=sf-similar-article)
   * [Spring Boot引起的“堆外内存泄漏”排查及经验总结](https://tech.meituan.com/2019/01/03/spring-boot-native-memory-leak.html)
