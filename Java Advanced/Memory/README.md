@@ -5,6 +5,7 @@
 
 <a href="https://ibb.co/6nZhpvC"><img src="https://i.ibb.co/Wx39dDJ/jmm.jpg" alt="jmm" border="0"></a>
 
+JMM定义了八个主要的内存操作来完成工作内存与主存的通信。假如一条线程准备对一个变量进行新的赋值操作，它可能会先用lock操作锁住主内存中的某个变量，不让其他线程获得此变量的锁，直至使用unlock操作释放该变量的锁。接着使用read操作将变量从主存读到工作内存中，紧接着load操作将得到的变量值放到工作内存中的变量副本。use操作则将变量值传给线程执行引擎进行运算操作，assign操作把新的变量值从线程执行引擎中传递到工作内存。store操作则把变量值从工作内存传送到主存中，接着write操作将得到的值写入主存相应的变量中，最后使用unlock操作释放变量的锁
 
 
 [线程与内存交互操作](https://www.cnblogs.com/hongwz/p/5948308.html)|[一文彻底搞懂“内存管理](https://stor.51cto.com/art/202106/668928.htm)|[内存管理设计精要](https://draveness.me/system-design-memory-management/)|
