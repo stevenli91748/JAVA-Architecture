@@ -1,8 +1,11 @@
+
+
+
+
 <details>
 <summary> 深拷贝/浅拷贝 </summary>
 
 [一个工作三年的同事，居然还搞不清深拷贝/浅拷贝，被老大批了](https://www.bilibili.com/read/cv7349900)
-
 
 </details>
 
@@ -12,14 +15,7 @@
 **JVM内存占用 = 操作系统自身耗内存 + 堆 + Java永久代/元数据区/方法区/常量池/代码缓存 + 程序计数器(可忽略不计) plus 线程数 + 虚拟机进程本身 + 虚拟机栈(线程栈) plus 线程数 + 本地方法栈(JNI调用) plus 线程数 + 直接内存(Java NIO)**
 
 
-
-
-
-
 [java 进程内存组成](https://blog.csdn.net/snoweaglelord/article/details/81094153)
-
-[]()
-
 
 </details>
 
