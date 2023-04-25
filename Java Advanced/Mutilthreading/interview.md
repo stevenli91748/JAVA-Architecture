@@ -19,6 +19,8 @@
   
   https://segmentfault.com/a/1190000022765152?utm_source=sf-similar-article
   
+
+  Java为我们提供了隐式（synchronized声明方式）和显式（java.util.concurrentAPI编程方式）两种工具来避免线程争用
   
   synchron i zed 块是Java 提供的一种原子性内置锁， Java 中的每个对象都可以把它当作一个同步锁来使用， 这些Java 内置的使用者看不到的锁被称为内部锁，也叫作监视器锁。
 线程的执行代码在进入synchronized 代码块前会自动获取内部锁，这时候其他线程访问该同步代码块时会被阻塞挂起。拿到内部锁的线程会在正常退出同步代码块或者抛出异常后
