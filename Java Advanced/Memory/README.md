@@ -18,9 +18,8 @@
 
 # 目录
 
-* JMM主要操作:
-  JMM定义了八个主要的内存操作来完成工作内存与主存的通信。假如一条线程准备对一个变量进行新的赋值操作，它可能会先用lock操作锁住主内存中的某个变量，不让其他线程获得此变量的锁，直至使用  unlock操作释放该变量的锁。接着使用read操作将变量从主存读到工作内存中，紧接着load操作将得到的变量值放到工作内存中的变量副本。use操作则将变量值传给线程执行引擎进行运算操作，assign操作把新的变量值从线程执行引擎中传递到工作内存。store操作则把变量值从工作内存传送到主存中，接着write操作将得到的值写入主存相应的变量中，最后使用unlock操作释放变量的锁
-* 1 内存分配
+* [JMM原理](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/Memory/JMM%E5%86%85%E5%AD%98%E5%8E%9F%E7%90%86.md)
+* 内存分配
   * 内存dump的工具
     * Unix/Linux中的coredump---在运行中异常中止或者崩溃，Linux会将进程当时的内存信息、寄存器信息、函数调用堆栈等信息存储到文件系统的一个文件中，生成的core文件可以使用gdb来分析诊断程序存在的问题
       * [Linux core dump过程分析](http://just4coding.com/2021/10/31/core-dump/) 
@@ -30,8 +29,8 @@
       * [7 个抓取 Java Thread Dumps 的方式](https://cloud.tencent.com/developer/article/1491224) 
     * tcpdump
       * [Linux 网络命令必知必会之 tcpdump，一份完整的抓包指南请查收](https://www.cnblogs.com/bakari/p/10748721.html) 
-* 2 垃圾回收机制
-* 3 内存回收算法
+* 垃圾回收机制
+* 内存回收算法
 
 
 
