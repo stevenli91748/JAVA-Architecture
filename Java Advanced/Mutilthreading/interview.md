@@ -10,6 +10,9 @@
 <details>
 <summary>Synchronized 关键字</summary>
 
+  https://segmentfault.com/a/1190000039000025?utm_source=sf-similar-article
+  
+  
   synchron i zed 块是Java 提供的一种原子性内置锁， Java 中的每个对象都可以把它当作一个同步锁来使用， 这些Java 内置的使用者看不到的锁被称为内部锁，也叫作监视器锁。
 线程的执行代码在进入synchronized 代码块前会自动获取内部锁，这时候其他线程访问该同步代码块时会被阻塞挂起。拿到内部锁的线程会在正常退出同步代码块或者抛出异常后
 或者在同步块内调用了该内置锁资源的wait 系列方法时释放该内置锁。内置锁是排它锁，也就是当一个线程获取这个锁后， 其他线程必须等待该线程释放锁后才能获取该锁
@@ -20,6 +23,9 @@
 <details>
 <summary>volatile 关键字</summary>
 
+  https://segmentfault.com/a/1190000039000025?utm_source=sf-similar-article
+  
+  
 该关键字可以确保对一个变量的更新对其他线程马上可见。当一个变量被声明为vo l atil e 时，线程在写入变量时不会把值缓存在寄存器或者
 其他地方，而是会把值刷新回主内存。当其他线程读取该共享变量时－ ，会从主内存重新获取最新值，而不是使用当前线程的工作内存中的值。vol atile 的内存语义和synchronized 有
 相似之处，具体来说就是，当线程写入了vo l at il e 变量值时就等价于线程退出synchroni zed同步块（把写入工作内存的变量值同步到主内存），读取vo l ati l e 变量值时就相当于进入同
