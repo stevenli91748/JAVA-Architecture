@@ -6,7 +6,12 @@
 假如有Thread1、Thread2、ThreaD3、Thread4四条线程分别统计C、D、E、F四个盘的大小，所有线程都统计完毕交给Thread5线程去做汇总，应当如何实现？
 
 ---
+<details>
+<summary>happen-before </summary>
 
+</details>  
+  
+  
 <details>
 <summary>Synchronized 关键字</summary>
 
