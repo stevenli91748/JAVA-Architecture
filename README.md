@@ -402,8 +402,8 @@ https://github.com/YunaiV/ruoyi-vue-pro
 
 # 第七阶段   工具和组件篇
 
-[大厂的 SDK 写法，偷学到了](https://www.jianshu.com/p/583023fccd61)|
----|
+[大厂的 SDK 写法，偷学到了](https://www.jianshu.com/p/583023fccd61)|[【Java编码规范】最新阿里巴巴Java开发手册（嵩山版）150集重难点详解](https://www.bilibili.com/video/BV1Q64y1Q7W4/?spm_id_from=333.788.recommend_more_video.3&vd_source=be3ac4894f8bf7883ae92030f6f7be46)|
+---|---|
 
 [编程5年，我喜爱的30个编程工具大分享！新手自学编程必看](https://www.youtube.com/watch?v=ou-zZVpBooE)|
 ---|
