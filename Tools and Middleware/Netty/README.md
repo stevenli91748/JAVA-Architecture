@@ -20,6 +20,8 @@
 * [Essential Netty in Action 《Netty 实战(精髓)》](https://www.kancloud.cn/kancloud/essential-netty-in-action/52655)
 
 
+[Netty 的整体流程](https://mp.weixin.qq.com/s/oWyspdpd_qe6sICcGQMh1Q)|
+---|
 
 [精尽 Netty 学习指南](http://svip.iocoder.cn/Netty/tutorials/)|[跟着案例学Netty](https://github.com/fuzhengwei/itstack-demo-netty)|
 ---|---|
