@@ -342,7 +342,11 @@ JVM实验例子|[常见JVM内存错误及解决方案](https://www.kancloud.cn/h
         * [使用VisualVM监控远程服务器JVM](https://blog.csdn.net/autfish/article/details/51326340)
      *  虚拟机诊断工具Mission Control
      *  [HSDB(Hotspot Debugger)](https://liuzhengyang.github.io/2017/05/27/serviceabilityagent/ "HSDB可以查看Java对象的oops、查看类信息、线程栈信息、堆信息、方法字节码和JIT编译后的汇编代码等")
- 
+# 9 JVM生产环境中的实战优化
+  * troubleshooting
+    * 线上用Dubbo开发的一个系统突然卡死了，JVM FullGC太频繁
+    * 生产环境部署的一个系统隔几天就莫名其妙的进程崩溃，看了眼异常信息，说是OOM内存溢出，如何解决
+    * 
 
 
 
