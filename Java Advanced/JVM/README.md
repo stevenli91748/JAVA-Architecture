@@ -35,6 +35,7 @@ Java中除了基本数据类型，其他的均是引用类型，包括类、数�
 * [垃圾回收的算法与实现](https://weread.qq.com/web/reader/f0232240723982d3f02c0fd)
 * [深入解析Java编译器：源码解析和实例讲解](https://weread.qq.com/web/reader/85832b5071a486bc858ab8a)
 * [新一代垃圾回收器ZGC设计与实现](https://weread.qq.com/web/reader/7e5327d071916d647e51559)
+* [儒源学院]()
 ---
 
 #  [搞定JVM基本原理和面试题，看看这几本书妥妥够了！](https://mp.weixin.qq.com/s?__biz=MzUyOTk5NDQwOA==&mid=2247490561&idx=2&sn=1cb850b51b74531eb058368f78f91f42&chksm=fa59dbc6cd2e52d0da78caa5302204ada8662c2a8796818d177a5adb4aca408f30b913a03818&scene=21#wechat_redirect)
