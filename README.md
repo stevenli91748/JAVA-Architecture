@@ -273,6 +273,7 @@ https://github.com/YunaiV/ruoyi-vue-pro
 
 
 * [阿里架构师从0到1](https://mikechen.cc/18491.html)
+* [儒猿课堂](https://apppukyptrl1086.pc.xiaoe-tech.com/)
 * [慕课网：JAVA架构师成长直通车 40周](https://www.youtube.com/watch?v=Ya6uR9I9kKY&list=PLKVHe_3pWs5FbMGAAh1OXPO8wdA8G3fxc)
 * [图灵课堂官方](https://www.youtube.com/channel/UC6SOvMrrdt5HyGS-3zAtIww/videos)
 * [图灵学院各种教程 非常好](https://www.youtube.com/channel/UC1eE3JP46onlndR-jETJxXg/videos)
