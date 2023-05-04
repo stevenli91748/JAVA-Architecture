@@ -140,30 +140,6 @@ leetcode|
 ---|
 
 
-|- 0. 设计模式
-|- 1.并发编程 
-|- 2.spring源码解读
-|- 3.Mybatis专题
-|- 4.JVM性能调优
-|- 5.Tomcat
-|- 6.MySQL
-|- 7.Nginx
-|- 8.高性能Netty框架
-|- 9.分布式思维
-|- 10.Zookeeper
-|- 11 架构核心服务层技术基础篇
-|- 12 dubbo
-|- 13 消息中间件
-|- 14.redis
-|- 15.缓存实战方案、分布式常见问题解决方案
-|- 16 memcached
-|- 17.MongoDB
-|- 18 Mysql高性能存储
-|- 19 docker
-|- 20 SpringBoot
-|- 21 SpringCloud
-|- 22 maven
-|- 23 git+Jenkins
 
 
 
@@ -271,7 +247,7 @@ https://github.com/YunaiV/onemall
 
 https://github.com/YunaiV/ruoyi-vue-pro
 
-
+* [B站 ‘顶流‘ 实战项目，yyds](https://zhuanlan.zhihu.com/p/447842801)
 * [阿里架构师从0到1](https://mikechen.cc/18491.html)
 * [儒猿课堂](https://apppukyptrl1086.pc.xiaoe-tech.com/)
 * [慕课网：JAVA架构师成长直通车 40周](https://www.youtube.com/watch?v=Ya6uR9I9kKY&list=PLKVHe_3pWs5FbMGAAh1OXPO8wdA8G3fxc)
