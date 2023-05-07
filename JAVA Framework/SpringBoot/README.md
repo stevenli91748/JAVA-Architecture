@@ -102,8 +102,8 @@
 [阿里巴巴 知行动手实验室](https://start.aliyun.com/)|[肝了一周总结的SpringBoot实战教程，太实用了！](http://www.macrozheng.com/#/reference/springboot_start)|[MikeChen的互联网架构](https://mikechen.cc/)|
 ---|---|---|
 
-[三万字盘点Spring/Boot的那些常用扩展点](https://mp.weixin.qq.com/s/L94D2ZCCcGcMlnXTV4TqBA)|
----|
+[三万字盘点Spring/Boot的那些常用扩展点](https://mp.weixin.qq.com/s/L94D2ZCCcGcMlnXTV4TqBA)|[狸猫技术窝专栏](https://juejin.cn/user/1732486056917726)|
+---|---|
 
 [Spring Boot 2 实战权威指南 分布式篇](https://www.kancloud.cn/xiandafu/springboot2inpractice_distributed)|
 ---|
