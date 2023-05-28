@@ -111,7 +111,11 @@
     * 本地调度（Scheduling）
     * 缓存抽象（Caching）
     * Spring测试（Testing）
-  * 5 Spring测试  
+  * 5 Spring测试
+    * 模拟对象（Mock Objects）   
+    * TestContext框架（TestContext Framework）
+    * SpringMVC测试（Spring MVC Test）
+    * Web测试客户端(WebTestClient)
 * Spring版本特性
 * Spring模块化设计
 * Spring对java语言特性运用
