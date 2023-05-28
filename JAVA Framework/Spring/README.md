@@ -87,7 +87,20 @@
     * Spring表达式（Spring Express Language）
     * 面向切面编程（AOP）
   * 2 数据存储
+    * JDBC
+    * 事务抽象（Transactions） 
+    * DAO支持（DAO SUPPORT）
+    * O/R映射（O/R Mapping）
+    * XML编列（XML Marshalling）
   * 3 WEB 技术
+    * WEB Servlet技术栈 （sping 1 to spring 4）
+      * Spring MVC(需要Servlet引擎支持，默认情况下是用 Tomcat作为 WEB SERVER)
+      * WebSocket
+      * SockJS （可有可无，不讨论）
+    * WEB Reactive技术栈 (spring 5 引入的，默认情况下是用 Netty作为 WEB SERVER，不过也同样可引用Spring MVC的Servlet引擎来实现)
+      * Spring WebFlux
+      * WebClient(异步回调的webclient 取代 spring5 之前的同步（RestTemplate or httpclient)的web client端）
+      * WebSocket 
   * 4 技术整合
   * 5 Spring测试  
 * Spring版本特性
