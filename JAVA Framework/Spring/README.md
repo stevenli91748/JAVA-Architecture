@@ -102,6 +102,15 @@
       * WebClient(异步回调的webclient 取代 spring5 之前的同步（RestTemplate or httpclient)的web client端）
       * WebSocket 
   * 4 技术整合
+    * 远程调用（Remoting） 
+    * Java消息服务（JMS）
+    * JAVA连接架构（JCA）
+    * JAVA管理展（JMX）
+    * JAVA邮件客户端（Email）
+    * 本地任务（Tasks）
+    * 本地调度（Scheduling）
+    * 缓存抽象（Caching）
+    * Spring测试（Testing）
   * 5 Spring测试  
 * Spring版本特性
 * Spring模块化设计
