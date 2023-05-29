@@ -7,7 +7,7 @@
 # <JDK5新特性
 * 反射---核心API
 * Java Beans---核心API
-* 动态代理---核心API
+* [动态代理---核心API](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/%E5%8A%A8%E6%80%81%E4%BB%A3%E7%90%86.md)
 
 # [JDK5新特性](https://www.cnblogs.com/peter1018/p/9156393.html)
 
