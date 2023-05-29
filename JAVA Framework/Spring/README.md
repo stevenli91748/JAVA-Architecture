@@ -123,7 +123,7 @@
 * Spring模块化设计
 * Spring对java语言特性运用
 * Spring对JDK API实践
-* Spring对 Java EE API整合
+* [Spring对 Java EE API整合](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring/Spring%E5%AF%B9%20Java%20EE%20API%E6%95%B4%E5%90%88/README.MD)
 * Spring编程模型
 * Spring核心价值
 
