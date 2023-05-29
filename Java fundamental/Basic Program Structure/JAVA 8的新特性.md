@@ -50,8 +50,8 @@
 * [改进泛型类型可变参数](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK7%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#7-改进泛型类型可变参数)
 * [其它](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK7%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#8-其它)
 * NIO 2---核心API
-* Fork/join框架---核心API
-* invokedynamic字节码---核心API
+* Fork/join框架---核心API，核心思想是将一个大的任务分解成多个小的子任务，然后并行地执行这些子任务，并将最终的结果合并起来，特别是在多核处理器上实现高性能的并行计算，非常有用
+* invokedynamic字节码---核心API，invokedynamic 字节码指令的主要特点是它的目标方法是在运行时动态解析和绑定的，而不是在编译时静态确定的。使得 Java 虚拟机更加适应动态语言和动态代码生成的场景。它提供了一种通用的机制，让开发人员可以在运行时动态选择和绑定方法，并支持在不改变字节码的情况下，灵活地改变方法调用目标。这对于实现语言间互操作性、动态代理、动态代码生成等方面非常有用
 
 
 
