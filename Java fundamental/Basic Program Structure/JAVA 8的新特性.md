@@ -4,6 +4,10 @@
 # 目录
 ![Imgur](https://lh3.googleusercontent.com/4wPdQjnamcxPwcmGKLmPeZ8zxEk916vG36bwdx5uk17OWuwTWOGHPJRjs3Lo21rHA5AgyuzWVvLT_5VSIBRpWbqSRpEgJTQH1RrtHsCPv7X1vJ-fEeFq_di0mfQduavoOglhfMivq6WnMjVtMXcwppePI7RTtX6C2J8lBtYldY7FhqwjV5XmI9DNKfmsv4ISQ_DbYu0FhiHn5yMeb4RZYmncBV7t7oNrt2zgKR5xPU3Oo2Gbu0jzzSEG09OyovaSlx_L56iw6nB6yc-5EefuYv3344aqsp061sBtjyWMuHs43fnD1UBiodXKyj84bauQUJLPr2GA5a__VUiRNDivHsONtW47c0M-8QkktOFOKsRX7_r_Y5WdYKA7XQDCY6gs7g4minKHHq8BEcTmuIKqllvlQCRsGEdw87ATEgz9HFEKfJ78-dMcxIQ9m561si7ONovZS_K2UAe4ph965xYyQ8dGWgeic1DQrE073zX1ICNKPbltolzGHG6WU8Q8qTUVnolnGfidq-qki_vv96bdO088Yz_FZKD7sc6BiTlBvyU8MVJUuZivUEjGpWiBaCxoBTc3gkx2dXiBnPSaSiKf5ujfLJXqaoTyNh_iJfzC9VljhgLTvPYcoap8osLktuUzBF07NIeezXOssziofYTCWlw=w540-h783-no)
 
+# <JDK5新特性
+* 反射---核心API
+* Java Beans---核心API
+* 动态代理---核心API
 
 # [JDK5新特性](https://www.cnblogs.com/peter1018/p/9156393.html)
 
@@ -14,23 +18,27 @@
 * [内省（introspector）](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK5%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#9-内省)
 * [For-Each循环](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK5%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#2-Foreach)
 * [泛型和类型擦除](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK5%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#7-泛型)
-* [格式化输出](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK5%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#6-格式化输出)
+* [格式化输出---核心API](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK5%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#6-格式化输出)
 * [ProcessBuilder](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK5%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#8-ProcessBuilder)
-* [线程并发库（JUC）](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK5%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#10-线程并发库)
+* [线程并发库（JUC）---核心API](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK5%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#10-线程并发库)
 * [监控和管理虚拟机](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK5%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#11-监控和管理虚拟机)
 * [元数据](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK5%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#12-元数据)
+* JAVA管理展（JMX）---核心API
+* XML处理（DOM,SAX,XSTL,XPATH）---核心API
+* instrumentation---核心API
+
 
 # [JDK6新特性](https://www.cnblogs.com/peter1018/p/9165101.html)
 
 * [Desktop类和SystemTray类](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK6%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#1-Desktop类和SystemTray类)
 * [JAXB2实现对象与XML之间的映射](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK6%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#2-JAXB2实现对象与XML之间的映射)
 * [StAX](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK6%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#3-StAX)
-* [Compiler API](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK6%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#4-Compiler-API)
+* [Compiler API---核心API](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK6%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#4-Compiler-API)
 * [轻量级 Http Server API](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK6%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#5-轻量级-Http-Server-API)
-* [插入式注解处理API（Pluggable Annotation Processing API）](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK6%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#6-插入式注解处理API)
+* [插入式注解处理API（Pluggable Annotation Processing API）---核心API](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK6%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#6-插入式注解处理API)
 * [用Console开发控制台程序](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK6%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#7-用Console开发控制台程序)
-* [对脚本语言的支持（如：ruby，groovy，javascript）](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK6%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#8-对脚本语言的支持)
-* [Common Annotations](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK6%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#9-Common-Annotations)
+* [对脚本语言的支持（如：ruby，groovy，javascript）---核心API](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK6%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#8-对脚本语言的支持)
+* [Common Annotations---核心API](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK6%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#9-Common-Annotations)
 
 # [JDK7新特性](https://www.cnblogs.com/peter1018/p/9177110.html)
 
@@ -42,6 +50,11 @@
 * [类型推断](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK7%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#6-类型推断)
 * [改进泛型类型可变参数](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK7%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#7-改进泛型类型可变参数)
 * [其它](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK7%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#8-其它)
+* NIO 2---核心API
+* Fork/join框架---核心API
+* invokedynamic字节码---核心API
+
+
 
 # [JDK8新特性](https://www.pdai.tech/md/java/java8/java8.html)
 
@@ -54,17 +67,20 @@
 * [函数式接口](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK8%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#2-函数式接口)
 * [方法引用、构造器引用和数组引用](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK8%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#3-方法引用-构造器引用和数组引用)
 * [接口支持默认方法和静态方法](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK8%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#4-接口支持默认方法和静态方法)
-* [Stream API](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK8%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#5-Stream-API)
+* [Stream API---核心API](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK8%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#5-Stream-API)
   * [Java8 新特性 Stream 流教程](https://www.exception.site/java8/java8-stream-tutorial)
   * [如何通过 IntelliJ IDEA 来提升 Java8 Stream 的编码效率](https://www.exception.site/java8/java8-improve-stream-byidea-tips)
   * [Java 8 的 Stream 不好调试？别逗了！IDEA 调试就能轻松搞定](https://mp.weixin.qq.com/s/4POx2DTfPDi7ry90KxzA0A)
   * [Java 8 Stream API Tutorial example](https://www.javaguides.net/p/java-8-stream-api-tutorial.html)
   * [Java Stream API 系列](https://www.kancloud.cn/hanxt/javacrazy/1572238) 
 * [增强类型推断](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK8%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#6-增强类型推断)
-* [新的日期时间 API](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK8%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#7-新的日期时间API)
+* [新的日期时间 API---核心API](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK8%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#7-新的日期时间API)
   * [Java 8 Date Time API Tutorial example](https://www.javaguides.net/p/java-8-date-time-api-tutorial.html) 
 * [Optional 类](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK8%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#8-Optional-类)
 * [重复注解和类型注解](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK8%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#9-重复注解和类型注解)
+* CompletableFuture(j.u.c)---核心API
+* javaScript运行时---核心API
+* Annotation on java types---核心API
 
 # [JDK9新特性](https://www.pdai.tech/md/java/java8up/java9.html)
 * Java 9 教程 with example
@@ -90,6 +106,13 @@
 * [统一JVM 日志系统](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK9%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#16-统一JVM日志系统)
 * [javadoc 的 HTML5 支持](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK9%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#17-javadoc的HTML5支持)
 * [java 动态编译](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK9%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#18-java动态编译)
+* Reactive Streams Flow API(J.U.C)---核心API
+* Process API Updates---核心API
+* Variable Handles---核心API
+* Method Handles---核心API
+* Spin-wait Hints---核心API
+* Stack-Walking API---核心API
+
 
 # [JDK10新特性](https://www.pdai.tech/md/java/java8up/java10.html)
 
