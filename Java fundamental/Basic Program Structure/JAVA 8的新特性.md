@@ -21,9 +21,8 @@
 * [格式化输出---核心API](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK5%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#6-格式化输出)
 * [ProcessBuilder](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK5%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#8-ProcessBuilder)
 * [线程并发库（JUC）---核心API](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK5%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#10-线程并发库)
-* [监控和管理虚拟机](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK5%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#11-监控和管理虚拟机)
+* [监控和管理虚拟机（JMX）---核心API](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK5%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#11-监控和管理虚拟机)
 * [元数据](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK5%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#12-元数据)
-* JAVA管理展（JMX）---核心API
 * XML处理（DOM,SAX,XSTL,XPATH）---核心API
 * instrumentation---核心API
 
