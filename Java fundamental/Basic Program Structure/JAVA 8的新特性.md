@@ -24,17 +24,17 @@
 * [监控和管理虚拟机（JMX）---核心API](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK5%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#11-监控和管理虚拟机)
 * [元数据](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK5%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#12-元数据)
 * XML处理（DOM,SAX,XSTL,XPATH）---核心API
-* instrumentation---核心API
+* instrumentation---核心API  对字节码的处理API
 
 
 # [JDK6新特性](https://www.cnblogs.com/peter1018/p/9165101.html)
 
 * [Desktop类和SystemTray类](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK6%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#1-Desktop类和SystemTray类)
-* [JAXB2实现对象与XML之间的映射](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK6%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#2-JAXB2实现对象与XML之间的映射)
+* [JAXB2实现对象与XML之间的映射---核心API 用于处理 XML 和 Java 对象之间映射的技术](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK6%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#2-JAXB2实现对象与XML之间的映射)
 * [StAX](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK6%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#3-StAX)
-* [Compiler API---核心API](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK6%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#4-Compiler-API)
+* [Compiler API---核心API 用于在运行时动态地编译和加载 Java 源代码或源代码字符串。它允许开发人员在应用程序中以编程方式使用 Java 编译器，实现动态编译和执行代码的能力](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK6%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#4-Compiler-API)
 * [轻量级 Http Server API](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK6%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#5-轻量级-Http-Server-API)
-* [插入式注解处理API（Pluggable Annotation Processing API）---核心API](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK6%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#6-插入式注解处理API)
+* [插入式注解处理API（Pluggable Annotation Processing API）---核心API ， 用于在编译时处理和生成注解相关的信息。它提供了一种机制，让开发人员能够编写自定义的注解处理器，用于对源代码中的注解进行解析、分析和生成额外的代码。](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK6%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#6-插入式注解处理API)
 * [用Console开发控制台程序](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK6%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#7-用Console开发控制台程序)
 * [对脚本语言的支持（如：ruby，groovy，javascript）---核心API](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK6%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#8-对脚本语言的支持)
 * [Common Annotations---核心API](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/Basic%20Program%20Structure/JDK6%E6%96%B0%E7%89%B9%E6%80%A7/README.md/#9-Common-Annotations)
