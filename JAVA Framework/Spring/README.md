@@ -78,6 +78,12 @@
 ---
 
 # Spring Framework总览
+* Spring编程模型
+  * 面向对象编程
+  * 面向切面编程
+  * 面向元编程
+  * 面向函数编程
+  * 面向模块编程 
 * Spring功能特性总览
   * 1 核心特性
     * IoC容器（IoC Container） 
