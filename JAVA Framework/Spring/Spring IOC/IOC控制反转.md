@@ -9,6 +9,21 @@
 ---|
 
 
+# 目录
+* IoC主要实现策略
+  * 服务定位模式（Using a service locator pattern）
+  * 依赖注入（Using dependency injection）
+    * 构造器注入
+    * 参数注入
+    * Setter注入
+    * 接口注入 
+  * 上下文的依赖查询（Using a contextualized lookup）
+    * Java Bean 
+  * Using template method design pattern
+  * Using strategy design pattern 
+
+
+
 
 # IOC
 * [IoC基础知识](#IoC基础知识)
