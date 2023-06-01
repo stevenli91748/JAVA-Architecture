@@ -46,6 +46,7 @@
     * google guice
     * spring framework 
 * 传统IoC容器的实现
+  * java Beans作为IoC容器 
 * 轻量级IoC容器
 * 依赖查找 VS 依赖注入
 * 构造器注入 VS Setter注入
