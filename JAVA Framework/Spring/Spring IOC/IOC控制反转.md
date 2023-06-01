@@ -13,15 +13,38 @@
 * IoC主要实现策略
   * 服务定位模式（Using a service locator pattern）
   * 依赖注入（Using dependency injection）---IoC主要的实现策略
-    * 构造器注入
-    * 参数注入
-    * Setter注入
-    * 接口注入 
+    * 构造器注入（Constructor injection）
+    * 参数注入(Parameter injection)
+    * Setter注入(Setter injection)
+    * 接口注入 (interface injection)
   * 上下文的依赖查询（Using a contextualized lookup）---IoC主要的实现策略
   * Using template method design pattern
   * Using strategy design pattern 
 * IoC容器的职责
+  * 通用职责
+  * 依赖处理
+    * 依赖查找
+    * 依赖注入 
+  * 生命周期管理
+    * 容器
+    * 托管的资源（Java Beans或其他资源） 
+  * 配置
+    * 容器
+    * 外部化配置
+    * 托管的资源 
 * IoC容器的实现
+  * java SE
+    * JAVA BEANS
+    * java ServiceLoader SPI
+    * JNDI
+  * JAVA EE
+    * EJB
+    * Servlet 
+  * 开源
+    * apache avalon
+    * pico container
+    * google guice
+    * spring framework 
 * 传统IoC容器的实现
 * 轻量级IoC容器
 * 依赖查找 VS 依赖注入
