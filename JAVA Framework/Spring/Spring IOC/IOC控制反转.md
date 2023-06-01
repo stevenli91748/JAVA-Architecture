@@ -20,7 +20,12 @@
   * 上下文的依赖查询（Using a contextualized lookup）---IoC主要的实现策略
   * Using template method design pattern
   * Using strategy design pattern 
-
+* IoC容器的职责
+* IoC容器的实现
+* 传统IoC容器的实现
+* 轻量级IoC容器
+* 依赖查找 VS 依赖注入
+* 构造器注入 VS Setter注入
 
 
 
