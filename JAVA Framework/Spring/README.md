@@ -44,8 +44,12 @@
 [Spring框架快速入门教程](http://c.biancheng.net/spring/)|[Spring教程](https://www.yiibai.com/spring/)|[ Java技术栈 ](https://www.javastack.cn/categories/Spring/)|
 ---|---|---|
 
-[小马哥的技术博客](https://mercyblitz.github.io/)|[bugstack虫洞栈---非常好](https://bugstack.cn/itstack/itstack-demo-design.html)|[极客教程 Spring 篇](https://geek-docs.com/spring)|[《 Spring 手撸专栏》](https://github.com/fuzhengwei/small-spring)|
----|---|---|---|
+[小马哥的技术博客](https://mercyblitz.github.io/)|[极客教程 Spring 篇](https://geek-docs.com/spring)|
+---|---|
+
+### 小傅哥 
+|[bugstack虫洞栈---非常好  小傅哥 ](https://bugstack.cn/itstack/itstack-demo-design.html)|[CodeGuide | 程序员编码指南 小傅哥  非常好](https://github.com/fuzhengwei/CodeGuide/wiki)|
+---|---|
 
 [不用 Spring 居然连最基本的接口都不会写了！---本文从介绍 Spring 核心功能开始入手，从如何利用 Spring 完成一个应用开发，讲述到假如没有 Spring 我们该如何基于 Servlet 进行开发，最后再通过一个简单的例子体验了 Spring 的核心思想](https://mp.weixin.qq.com/s/cRVHxOh54ry7ILWHaqAWpg)|
 ---|
