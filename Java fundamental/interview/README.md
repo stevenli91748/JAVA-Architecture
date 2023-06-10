@@ -14,7 +14,7 @@
 * [Lambda标达式知识点](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/interview/Lambda标达式知识点.md)
 * [内部类知识点](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/interview/内部类知识点.md)
 * [ 异常 断言和日志知识点---重点](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/interview/异常%20断言和日志知识点.md)
-* 线程机制---重点
+* [线程机制---重点](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Advanced/Mutilthreading/interview.md)
 * [泛型知识点](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/interview/泛型知识点.md)
 * [集合知识点](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/interview/容器.md)
 * [JAVA 8的流库知识点](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/interview/JAVA5-8的流库知识点.md)
