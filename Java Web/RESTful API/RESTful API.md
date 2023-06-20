@@ -2,6 +2,7 @@
 
 **前后端分离已成为互联网项目开发的业界标准使用方式，通过nginx+tomcat的方式（也可以中间加一个nodejs）有效的进行解耦，核心思想是前端HTML页面通过AJAX调用后端的RESTFUL API接口并使用JSON数据进行交互,Web服务器：一般指像Nginx，Apache这类的服务器，他们一般只能解析静态资源；应用服务器：一般指像Tomcat，Jetty，Resin这类的服务器可以解析动态资源也可以解析静态资源，但解析静态资源的能力没有web服务器好；一般都是只有web服务器才能被外网访问，应用服务器只能内网访问**
 
+**高并发系统中的接口响应速度不超过200毫秒**
 
 <a href="https://ibb.co/5jFx6Fg"><img src="https://i.ibb.co/gWVF3VL/23600667-7082dd4cefd14184.webp" alt="23600667-7082dd4cefd14184" border="0"></a>
 
