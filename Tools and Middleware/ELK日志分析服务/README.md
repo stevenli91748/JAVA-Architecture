@@ -37,6 +37,9 @@ ELK这种架构因为需要在各个服务器上部署Logstash来从不同的数
 [ELK日志分析系统入门](https://gitlib.com/page/elk.html)|[字母哥 / ELK中文手册](https://www.kancloud.cn/hanxt/elk/153883)|
 ---|---|
 
+[全面梳理 Spring Boot 日志体系](https://zhuanlan.zhihu.com/p/553171127)|
+---|
+
 [基于tp6 ELK实时日志分析系统](https://www.kancloud.cn/zhangqi/tp6_elk)|[springboot2.2.X手册：抛弃ELK，百亿日志+调用链的Easylog很放心](https://www.toutiao.com/a6838166862795112971/)|
 ---|---|
 
