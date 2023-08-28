@@ -17,7 +17,7 @@
 # [破解合集！！！---IDEA,Navicat, typora, Xshell,Visual Studio,PyCharm, Sublime Text](https://tobebetterjavaer.com/nice-article/itmind/shangwang.html#%E6%9C%8D%E5%8A%A1-2-%E6%A0%91%E6%B4%9E)
 
 # [工具网站---很好](https://www.cxy521.com/)
-
+# [在线开发平台-----很好](https://www.tutorialspoint.com/index.htm)
 ---
 
 # 在线书籍
