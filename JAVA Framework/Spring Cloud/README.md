@@ -467,6 +467,7 @@
 * Spring Test
 * 微服务之分布式
   * [微服务之分布式事务解决方案](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/%E5%BE%AE%E6%9C%8D%E5%8A%A1%E4%B9%8B%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1/README.md)
+    * [【尚硅谷】分布式锁全家桶](https://www.youtube.com/watch?v=tSHveigAojQ&list=PLmOn9nNkQxJGfduuVvvZizYOA6bWvucae&index=2)
     * [Seata 分布式事务](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/Spring%20Cloud/Spring%20Cloud%20Alibaba%E5%A5%97%E4%BB%B6/Seata.md)
     * [亿级流量架构之分布式事务思路及方法](https://www.cnblogs.com/Courage129/p/14433462.html)
     * [亿级流量架构之分布式事务解决方案对比](https://www.cnblogs.com/Courage129/p/14443653.html) 
