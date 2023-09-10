@@ -112,7 +112,7 @@
 [Spring Boot 2 实战权威指南 分布式篇](https://www.kancloud.cn/xiandafu/springboot2inpractice_distributed)|
 ---|
 
-[Spring Boot快速入门教程网---非常好 ](http://c.biancheng.net/spring_boot/config-bind.html)|[字目哥---手摸手教你学spring boot 2.x---非常好](https://www.kancloud.cn/hanxt/springboot2/1492077)|[spring boot 基础教程---非常好](https://www.yiibai.com/?app=all)|[springboot优秀博客中文索引](http://springboot.fun/)|
+[Spring Boot快速入门教程网---非常好 ](http://c.biancheng.net/spring_boot/config-bind.html)|[字目哥---手摸手教你学spring boot 2.x---非常好](http://www.zimug.com/#/)|[spring boot 基础教程---非常好](https://www.yiibai.com/?app=all)|[springboot优秀博客中文索引](http://springboot.fun/)|
 ---|--|---|---|
 
 [ 小傅哥 CodeGuide  程序员编码指南 非常好](https://github.com/fuzhengwei/CodeGuide/wiki)|[bugstack虫洞栈---非常好](https://bugstack.cn/itstack/itstack-demo-design.html)|[Spring Boot 学习资料汇总](http://www.ityouknow.com/springboot/2015/12/30/springboot-collect.html)|
