@@ -7,7 +7,54 @@
 
 ---
 <details>
-<summary>happen-before </summary>
+<summary>this 对象和当前类的实例化对象有什么不同 </summary>
+
+在 Java 中，this 关键字用于引用当前对象，即正在执行方法或构造函数的对象。而"当前类的实例化对象"是一个比较广义的描述，它可以指任何用该类创建的对象。
+下面用一个简单的例子来说明两者之间的区别：
+
+```java
+
+public class MyClass {
+    int value;
+
+    public MyClass(int value) {
+        this.value = value; // "this" 指代正在被构造的对象
+    }
+
+    public void printValue() {
+        System.out.println("Value: " + this.value); // "this" 指代正在执行这个方法的对象
+    }
+
+    public void compareObjects(MyClass anotherObject) {
+        if (this == anotherObject) { // "this" 是正在执行这个方法的对象，"anotherObject" 是另一个实例
+            System.out.println("Both objects are the same.");
+        } else {
+            System.out.println("Objects are different.");
+        }
+    }
+
+    public static void main(String[] args) {
+        MyClass obj1 = new MyClass(10); // obj1 是 "当前类的实例化对象"
+        MyClass obj2 = new MyClass(20); // obj2 也是 "当前类的实例化对象"
+
+        obj1.printValue();  // 输出 "Value: 10", 这里 "this" 就是 obj1
+        obj2.printValue();  // 输出 "Value: 20", 这里 "this" 就是 obj2
+
+        obj1.compareObjects(obj2);  // 输出 "Objects are different."
+    }
+}
+
+
+```
+在这个例子中：
+
+当我们在 MyClass 构造函数中使用 this.value = value; 时，this 是指即将被初始化的对象。如果我们用 MyClass obj1 = new MyClass(10); 创建一个新对象，那么在这个构造函数调用期间，this 就是 obj1。
+
+当我们调用 obj1.printValue(); 时，this 在 printValue 方法内部指代 obj1。
+
+"当前类的实例化对象" 在这里是 obj1 和 obj2，它们都是用 MyClass 类创建的对象，但不在执行任何特定方法的上下文中。
+
+简而言之，this 是一个动态的引用，指向正在执行当前方法或构造函数的对象，而"当前类的实例化对象" 是一个更广泛的术语，指的是由该类创建的任何对象实例
 
 </details>  
   
