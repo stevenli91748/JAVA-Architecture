@@ -58,6 +58,108 @@ public class MyClass {
 
 </details>  
   
+<details>
+<summary> “为代码块加锁，锁对象为我们创建的任意一个对象。不要使用非final的成员变量作为同步锁对象，因为非final成员变量可以被重新赋值，导致不同的线程使用不同的对象作为锁，达不到同步锁定的效果</summary>
+
+
+这段话是关于Java多线程编程中使用synchronized关键字的一些最佳实践。简单来说，它的核心观点是：
+
+当你使用对象作为同步锁时，最好使用一个final修饰的对象。
+不要使用一个非final的成员变量作为锁，因为这样的变量可能会被重新赋值，从而破坏同步机制。
+下面我用一些代码示例来解释这两点。
+
+使用final对象作为锁
+这是一个好的做法：
+
+```java
+public class GoodExample {
+    private final Object lock = new Object();
+
+    public void doSomething() {
+        synchronized (lock) {
+            // 临界区代码
+        }
+    }
+}
+
+```
+在这个例子中，lock是一个final对象，因此它只能被赋值一次，不能更改。这意味着每个访问doSomething方法的线程都会使用相同的lock对象进行同步。
+
+使用非final成员变量作为锁, 这通常是一个不好的做法：
+
+```java
+public class BadExample {
+    private Object lock = new Object();
+
+    public void doSomething() {
+        synchronized (lock) {
+            // 临界区代码
+        }
+    }
+
+    public void setLock(Object lock) {
+        this.lock = lock;
+    }
+}
+
+```
+在这个例子中，lock对象是非final的，可以通过setLock方法进行更改。如果在多线程环境中更改了lock对象，那么不同的线程可能会使用不同的锁对象，从而达不到预期的同步效果
+
+</details>  
+
+<details>
+<summary> 为了保障静态数据线程安全，应该使用类级别的锁定。我们知道static关键字将方法的数据关联到类的级别上，所以在静态方法上使用锁。静态方法加锁，对该类所有的实例化对象生效</summary>
+
+这段话解释了如何保护静态数据成员在多线程环境下的线程安全。在Java中，静态成员（字段和方法）属于类本身，而不是任何特定的实例。因此，如果多个线程可能访问或修改同一个静态字段，就需要采取同步措施。使用类级别的锁。当你想保护静态字段时，一个常见的做法是在静态方法上使用synchronized关键字。这实际上等于对类对象进行了加锁。
+
+下面是一个简单的示例：
+
+```java
+public class SafeStaticData {
+    private static int counter = 0;  // 静态数据成员
+
+    // 静态同步方法
+    public static synchronized void incrementCounter() {
+        counter++;
+    }
+
+    // 静态同步方法
+    public static synchronized int getCounter() {
+        return counter;
+    }
+}
+```
+在这个例子中，incrementCounter和getCounter方法都是静态的，并使用了synchronized关键字。这意味着这两个方法在同一时刻只能由一个线程访问。这有效地保护了counter字段不会被多个线程同时修改。
+
+你也可以使用显示的类级别的锁：
+
+```java
+
+public class SafeStaticData {
+    private static int counter = 0;
+    private static final Object lock = new Object();  // 类级别的锁对象
+
+    public static void incrementCounter() {
+        synchronized (lock) {  // 使用类级别的锁
+            counter++;
+        }
+    }
+
+    public static int getCounter() {
+        synchronized (lock) {  // 使用类级别的锁
+            return counter;
+        }
+    }
+}
+``` 
+在这个版本中，我们创建了一个final的Object，作为锁对象。这允许我们更细致地控制哪部分代码需要同步，也使得多个不同的静态字段可以使用不同的锁对象。
+
+对所有实例化对象生效
+需要注意的是，由于这些方法是静态的，所以对于这个类的所有实例（对象），这些静态方法都是共享的。这意味着，无论你创建了多少个SafeStaticData的实例，它们都会共享同一个counter字段和同一个类级别的锁。
+
+这样可以确保静态数据成员在多线程环境下是线程安全的
+
+</details>  
   
 <details>
 <summary>Synchronized 关键字</summary>
