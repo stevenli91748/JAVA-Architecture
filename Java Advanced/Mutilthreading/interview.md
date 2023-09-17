@@ -252,6 +252,82 @@ public void doSomething() {
 
 </details>  
 
+<details>
+<summary>JMM线程模型是什么</summary>
+
+Java内存模型（Java Memory Model，JMM）是Java虚拟机（JVM）的一部分，它定义了多线程程序中线程如何和内存进行交互。JMM解决了在没有明确同步的情况下，多线程程序的执行顺序可能导致不确定行为的问题。JMM通过定义“happens-before”关系来确定如何为多线程程序提供一致的内存可见性和有序性保证。
+
+一些关键的JMM概念：
+原子性：一个或多个操作在CPU的一个或多个周期内完全执行。
+可见性：当一个线程修改了一个共享变量后，其他线程能立即看到这个修改。
+有序性：程序执行的顺序按照代码的先后顺序进行。
+在多线程环境中，JMM是非常重要的，特别是当你使用volatile关键字、synchronized关键字或java.util.concurrent包下的工具类时。
+
+简单的例子
+这是一个使用volatile关键字来保证可见性的简单示例。
+
+```java
+
+public class SharedResource {
+    private volatile boolean flag = false;
+
+    public void setFlagTrue() {
+        flag = true;
+    }
+
+    public boolean checkFlag() {
+        return flag;
+    }
+}
+```
+
+在这个例子中，volatile关键字确保了flag变量的更改对所有线程立即可见。
+
+synchronized示例
+synchronized关键字用于同步和提供原子性。
+
+```java
+
+public class SynchronizedCounter {
+    private int count = 0;
+
+    public synchronized void increment() {
+        count++;
+    }
+
+    public synchronized int getCount() {
+        return count;
+    }
+}
+```
+
+在这个例子中，increment和getCount方法都是同步的，这意味着在同一时间内只有一个线程可以访问它们。
+
+```java
+java.util.concurrent示例
+java.util.concurrent包提供了多种并发工具类，例如CountDownLatch，Semaphore，CyclicBarrier等。
+
+import java.util.concurrent.atomic.AtomicInteger;
+
+public class AtomicCounter {
+    private AtomicInteger count = new AtomicInteger(0);
+
+    public void increment() {
+        count.incrementAndGet();
+    }
+
+    public int getCount() {
+        return count.get();
+    }
+}
+```
+
+在这个例子中，AtomicInteger提供了一个原子操作来增加计数器。
+
+以上这些示例展示了JMM如何通过语言级别的特性和库来解决多线程编程中的各种问题。这些特性和工具类都是建立在JMM的规则和保证之上的。
+
+</details>  
+
   
 <details>
 <summary>Synchronized 关键字</summary>
