@@ -160,6 +160,98 @@ public class SafeStaticData {
 这样可以确保静态数据成员在多线程环境下是线程安全的
 
 </details>  
+
+<details>
+<summary>在java中，那一种非阻塞式线程的实现方式是最流行的</summary>
+
+在Java中，使用Executor Framework和CompletableFuture是最流行的非阻塞线程处理方式。
+
+Executor Framework: 该框架是Java并发API的一部分，并且有着广泛的社群支持和多年的实践验证。这个框架提供了多种类型的线程池，如固定大小线程池、缓存线程池等，还提供了任务调度能力。这是一个成熟且广泛使用的选项。
+
+CompletableFuture: 从Java 8开始，CompletableFuture也逐渐受到欢迎。它允许你以非阻塞的方式编写异步代码，并且可以更容易地组合和链式调用异步操作。由于Java 8及以上版本现在非常普遍，CompletableFuture也得到了广泛应用。
+
+Reactive Libraries: 对于更高级的用例，响应式编程库如RxJava和Project Reactor也非常流行，尤其是在构建响应式微服务和高吞吐量系统时。
+
+如果只从“流行程度”来看，Executor Framework由于其历史悠久和普遍应用，可能是最流行的非阻塞线程实现方式。但CompletableFuture也逐渐获得了不少关注和应用，特别是在新的代码库和Java 8+环境中。
+
+选择哪一种方式最终取决于你的具体需求、项目限制和个人或团队的技术喜好。
+</details>  
+
+
+<details>
+<summary>在springboot中，那一种非阻塞式线程的实现方式是最流行的</summary>
+
+在Spring Boot中，非阻塞式线程的实现通常取决于你正在解决的问题和使用的技术栈。以下是几种流行的选择：
+
+1. @Async Annotation
+对于简单的异步任务，Spring Boot提供了@Async注解。这允许你轻松地将一个方法变为异步执行。
+
+```java
+
+@Async
+public CompletableFuture<String> doSomething() {
+    // long-running task
+    return CompletableFuture.completedFuture("Hello");
+}
+```
+
+2. Executor Framework
+Spring Boot允许你自定义Executor bean，你可以用它来创建自己的线程池。
+
+```java
+
+@Bean(name = "customExecutor")
+public Executor customExecutor() {
+    return Executors.newFixedThreadPool(5);
+}
+```
+
+然后你可以在@Async注解中指定这个执行器：
+
+```java
+
+@Async("customExecutor")
+public void doSomething() {
+    // Do something
+}
+```
+
+3. Reactive Programming
+在反应式编程方面，Spring Boot与Project Reactor的集成提供了强大的非阻塞支持。这在使用WebFlux创建反应式Web应用程序时特别有用。
+
+```java
+
+public Mono<String> reactiveMethod() {
+    return Mono.just("Hello");
+}
+```
+
+4. CompletableFuture
+在Spring Boot应用中，你同样也可以使用Java的CompletableFuture。
+
+```java
+
+public CompletableFuture<String> asyncMethod() {
+    return CompletableFuture.completedFuture("Hello");
+}
+```
+5. Scheduled Tasks
+对于定时任务，Spring Boot提供了@Scheduled注解。
+
+```java
+
+@Scheduled(fixedRate = 5000)
+public void doSomething() {
+    // Do something
+}
+```
+
+从流行程度来看，@Async注解和Executor Framework在简单的异步处理场景中非常流行。然而，对于更复杂的异步数据流和非阻塞需求，Reactive Programming（特别是通过Spring WebFlux和Project Reactor）逐渐获得更多关注。
+
+选择哪种方式取决于你的具体需求和应用类型。如果你在构建一个更现代、响应式的系统，那么使用Spring WebFlux和Project Reactor可能更合适。对于传统的、简单的异步处理，@Async和Executor Framework通常足够了。
+
+</details>  
+
   
 <details>
 <summary>Synchronized 关键字</summary>
