@@ -11,6 +11,8 @@
 # [StackShare---可以查找到软件的流行率](https://stackshare.io/categories)
 # [ P8 工程师学习路径](https://tulingxueyuan.cn/xxlx/kcdg/)
   * [系统学习路线图](https://www.tulingxueyuan.cn/xxlx/xxlxgh/)
+# 搜索技术
+  * [搜索技术，普通人变强的唯一外挂。全套详细宝藏教程](https://www.youtube.com/watch?v=tiN6T1LewmQ)
 
 ---
 
