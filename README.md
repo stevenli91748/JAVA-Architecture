@@ -13,6 +13,8 @@
   * [系统学习路线图](https://www.tulingxueyuan.cn/xxlx/xxlxgh/)
 # 搜索技术
   * [搜索技术，普通人变强的唯一外挂。全套详细宝藏教程](https://www.youtube.com/watch?v=tiN6T1LewmQ)
+# 自我提升网站
+  * [我要自学网----各种教程，手机短视频教程](https://www.51zxw.net/LearningPlan.aspx?jid=24)
 
 ---
 
