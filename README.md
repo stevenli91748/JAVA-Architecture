@@ -110,8 +110,8 @@ leetcode|
 [Best Spring Framework Blogs and Websites](https://www.devglan.com/programming/springframework-blogs)|
 ---|
 
-[狸猫技术窝专栏](https://juejin.cn/user/1732486056917726)|
----|
+[狸猫技术窝专栏](https://juejin.cn/user/1732486056917726)|[弟弟快看，程序员编程资料站 非常好](https://ddkk.com/)|
+---|---|
 
 [芋道源码---前端 后端 网络 数据库 消息队列等的学习指南](http://svip.iocoder.cn/tags/%E5%AD%A6%E4%B9%A0%E6%8C%87%E5%8D%97/)|[精尽 Java【基础】学习指南](http://svip.iocoder.cn/Java/Core/tutorials/)|[Java 全栈知识体系](https://www.pdai.tech/md/java/basic/java-basic-x-generic.html)|
 ---|---|---|
