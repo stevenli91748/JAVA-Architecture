@@ -15,7 +15,8 @@
   * [搜索技术，普通人变强的唯一外挂。全套详细宝藏教程](https://www.youtube.com/watch?v=tiN6T1LewmQ)
 # 自我提升网站
   * [我要自学网----各种教程，手机短视频教程](https://www.51zxw.net/LearningPlan.aspx?jid=24)
-
+# office 
+  * [Miscrosoft Office 软件下载，一次安装￥58](http://ms.xmjiaz888.cn/zt/office/?source=baidu&plan=office365&unit=office&keyword=365office#goods)
 ---
 
 # [破解合集！！！---IDEA,Navicat, typora, Xshell,Visual Studio,PyCharm, Sublime Text](https://tobebetterjavaer.com/nice-article/itmind/shangwang.html#%E6%9C%8D%E5%8A%A1-2-%E6%A0%91%E6%B4%9E)
