@@ -1,4 +1,20 @@
 
+AspectJ是一个面向切面编程（AOP）的扩展，它提供了一种在Java语言中实现横切关注点的机制。它是一个独立的编程语言，同时也是一个用于Java的编程语言扩展。AspectJ允许程序员通过声明性的方式定义横切关注点，然后将这些关注点织入到应用程序的各个部分中，而不需要修改原始代码。
+
+AspectJ的主要特性包括：
+
+切面（Aspect）： 切面是一个跨越多个类的模块，它定义了一组横切关注点以及它们的具体逻辑。在AspectJ中，切面通常以Java类的形式存在，并通过特定的语法来声明切面逻辑。
+
+连接点（Join Point）： 连接点是在程序执行过程中可以插入切面逻辑的特定点，例如方法调用、方法执行、异常抛出等。AspectJ允许程序员指定连接点，并在这些点上织入切面逻辑。
+
+通知（Advice）： 通知是切面逻辑的具体实现，它定义了在连接点处执行的代码。AspectJ支持不同类型的通知，包括前置通知、后置通知、环绕通知等。
+
+切点（Pointcut）： 切点是一组连接点的集合，它定义了切面逻辑被应用的位置。AspectJ使用切点来选择在哪些连接点上执行通知。
+
+织入（Weaving）： 织入是将切面逻辑应用到目标代码中的过程。AspectJ支持静态织入和动态织入两种方式。静态织入是在编译时期将切面逻辑织入到目标代码中，而动态织入则是在运行时期通过代理或字节码操作的方式实现。
+
+
+
 # AOP
 
 * [AOP术语](https://mrbird.cc/AOP%E6%9C%AF%E8%AF%AD.html)
@@ -18,8 +34,7 @@
 * [深入理解Spring AOP原理](https://mrbird.cc/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Spring-AOP%E5%8E%9F%E7%90%86.html)
 * [Spring AOP Example](https://howtodoinjava.com/spring-aop-tutorial/)
 
-AOP动态代理|AOP静态代理|
----|--|
+
 
 
 [Spring AOP教程](https://www.yiibai.com/spring_aop/)|
