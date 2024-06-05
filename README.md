@@ -110,8 +110,8 @@ leetcode|
 [Spring Boot Tutorials with example](https://mkyong.com/tutorials/spring-boot-tutorials/)|[HowToDoInJava---非常多的例子程序，包括Java的方方面面](https://howtodoinjava.com/)|
 ---|---|
 
-[Best Spring Framework Blogs and Websites](https://www.devglan.com/programming/springframework-blogs)|
----|
+[Best Spring Framework Blogs and Websites](https://www.devglan.com/programming/springframework-blogs)|[ByteByteGo---重要](https://www.youtube.com/@ByteByteGo)|
+---|----|
 
 [狸猫技术窝专栏](https://juejin.cn/user/1732486056917726)|[弟弟快看，程序员编程资料站 非常好](https://ddkk.com/)|
 ---|---|
