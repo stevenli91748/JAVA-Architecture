@@ -22,8 +22,12 @@
 
 # 博客
 
-[Spring Security Tutorial with example](https://www.javaguides.net/p/spring-security-tutorial.html)|[Spring Security-JWT-OAuth2一本通(基于SpringBoot2.0)](https://www.kancloud.cn/hanxt/springsecurity/1221477)|[Security with Spring](https://www.baeldung.com/security-spring)|
----|---|---|
+[Spring Security Tutorial with example](https://www.javaguides.net/p/spring-security-tutorial.html)|[Spring Security-JWT-OAuth2一本通(基于SpringBoot2.0)-字母哥课堂](https://www.kancloud.cn/hanxt/springsecurity/1221477)|[Spring Security --字母哥课堂](https://www.bilibili.com/video/BV1zD4y19716/?spm_id_from=333.788)|
+---|---|
+
+[Security with Spring](https://www.baeldung.com/security-spring)||
+---|
+
 
 [Spring Security 和 SpringCloud Security 有什么区别](https://www.cxyzjd.com/article/hadues/109646510)|[Spring Cloud Gateway 整合 Spring Security 统一鉴权](https://segmentfault.com/a/1190000039390248)|
 ---|---|
