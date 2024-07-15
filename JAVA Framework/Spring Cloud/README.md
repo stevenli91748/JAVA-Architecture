@@ -116,6 +116,13 @@
 * [疯狂创客圈 : SpringCloud脚手架打包与启动](https://www.cnblogs.com/crazymakercircle/p/12041568.html)
 * [疯狂创客圈 : linux 开机自启 假死自启 （史上最全）](https://www.cnblogs.com/crazymakercircle/p/14022322.html)
 
+# SpringCloud电商项目开发完整流程
+  * [一、新建前端Vue项目（管理后台）](https://blog.csdn.net/xiaoyezhiei/article/details/125157844)
+
+  * [二、新建SpringCloud电商后台项目](https://blog.csdn.net/xiaoyezhiei/article/details/125546406)
+  * [三、新建SpringCloud电商前端Vant手机项目](https://blog.csdn.net/xiaoyezhiei/article/details/125545472)
+
+
 
 ### 博客
 
