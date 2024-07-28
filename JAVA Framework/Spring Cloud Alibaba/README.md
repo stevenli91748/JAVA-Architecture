@@ -20,7 +20,8 @@
 
 # 技术博客
 
-[再见！Spring Cloud Alibaba, 应接Spring Cloud Kubernetes ](https://www.bilibili.com/video/BV1Bu4y1T79e/?spm_id_from=333.337.search-card.all.click)
+[再见！Spring Cloud Alibaba, 迎接Spring Cloud Kubernetes ](https://www.bilibili.com/video/BV1Bu4y1T79e/?spm_id_from=333.337.search-card.all.click)|
+---|
 
 
 [阿里巴巴 知行动手实验室](https://start.aliyun.com/)| [极客时间](https://learn.lianglianglee.com/)|
