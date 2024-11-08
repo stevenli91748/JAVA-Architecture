@@ -15,6 +15,7 @@
   * [搜索技术，普通人变强的唯一外挂。全套详细宝藏教程](https://www.youtube.com/watch?v=tiN6T1LewmQ)
 # 自我提升网站
   * [我要自学网----各种教程，手机短视频教程](https://www.51zxw.net/LearningPlan.aspx?jid=24)
+  * [10个网站拒绝摆烂，一个月自学就业技能！](https://www.bilibili.com/video/BV1uM1FYqEGa?spm_id_from=333.788.player.switch&vd_source=be3ac4894f8bf7883ae92030f6f7be46)
 # 数学
   * [可汗学院](https://zh.khanacademy.org/math)
 # office 
