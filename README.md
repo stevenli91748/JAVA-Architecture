@@ -20,6 +20,10 @@
   * [可汗学院](https://zh.khanacademy.org/math)
 # office 
   * [Miscrosoft Office 软件下载，一次安装￥58   office](http://ms.xmjiaz888.cn/zt/office/?source=baidu&plan=office365&unit=office&keyword=365office#goods)
+# 图灵学院
+  * [图灵课堂官方](https://www.youtube.com/channel/UC6SOvMrrdt5HyGS-3zAtIww/videos)
+  * [图灵学院各种教程 非常好](https://www.youtube.com/channel/UC1eE3JP46onlndR-jETJxXg/videos)
+  * [图灵学院---徐庶](https://space.bilibili.com/1003499386/video?tid=0&pn=1&keyword=&order=pubdate)
 ---
 
 # [破解合集！！！---IDEA,Navicat, typora, Xshell,Visual Studio,PyCharm, Sublime Text](https://tobebetterjavaer.com/nice-article/itmind/shangwang.html#%E6%9C%8D%E5%8A%A1-2-%E6%A0%91%E6%B4%9E)
