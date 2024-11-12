@@ -104,6 +104,9 @@
 [弟弟快看，程序员编程资料站 非常好](https://ddkk.com/)|[spring中文网](https://springdoc.cn/)|
 ---|---|
 
+[【动力节点】SpringBoot3新特性详解](https://www.youtube.com/watch?v=RyEIaue-WjY&list=PLGHsAfdL-P0uT7cRiFi0C-69YcI4p4b5C)|
+---|
+
 
  [JAVA技术选型以及技术学习都有极强的指导性作用](https://mp.weixin.qq.com/s?__biz=MzU1Nzg4NjgyMw==&mid=2247488725&idx=1&sn=0a5645a7668e57a98216900415bd57b7&scene=21#wechat_redirect)| [极客时间](https://learn.lianglianglee.com/)|[spring boot 实战（干货）](https://blog.csdn.net/qq_27384769/article/details/79439844)|
 ---|---|---|
