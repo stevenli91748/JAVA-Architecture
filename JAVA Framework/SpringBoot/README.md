@@ -533,6 +533,8 @@
 * [9 SpringBoot消息服务](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E6%B6%88%E6%81%AF%E6%9C%8D%E5%8A%A1/README.md)
 * [10 SpringBoot RPC 开发](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/spring%20boot%E7%9A%84RPC%20%E5%BC%80%E5%8F%91/README.md)
 * [11 RESTFul接口实现与测试](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/RESTful%20API/RESTful%20API.md)
+  * [ postman & newman 做 restful api 自動測試](https://www.youtube.com/watch?v=VID0Dh7NJIc)
+  * [前后端各种测试工具](https://automationstepbystep.com/)
   * [RESTFul API构建](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20Web/RESTful%20API/RESTful%20API.md)
   * [保证接口数据安全的10种方案](https://mp.weixin.qq.com/s/p_jL2N_8julhRfJQj-Eatw)
   * [一个注解搞定 SpringBoot 接口防刷，还有谁不会](https://mp.weixin.qq.com/s/qg5wV4iGpns16TlDFkef7g)
