@@ -101,8 +101,8 @@
 
 ## SpringBoot基础学习博客
 
-[弟弟快看，程序员编程资料站 非常好](https://ddkk.com/)|[spring中文网](https://springdoc.cn/)|
----|---|
+[弟弟快看，程序员编程资料站 非常好](https://ddkk.com/)|[spring中文网](https://springdoc.cn/)|[ postman & newman 做 restful api 自動測試](https://www.youtube.com/watch?v=VID0Dh7NJIc)|
+---|---|---|
 
 [【动力节点】SpringBoot3新特性详解](https://www.youtube.com/watch?v=RyEIaue-WjY&list=PLGHsAfdL-P0uT7cRiFi0C-69YcI4p4b5C)|
 ---|
