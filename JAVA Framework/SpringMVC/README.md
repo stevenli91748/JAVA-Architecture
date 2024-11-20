@@ -12,6 +12,9 @@
 ---
 
 
+[尚硅谷】SpringMVC教程丨一套快速上手spring mvc](https://www.bilibili.com/video/BV1Ry4y1574R/?spm_id_from=333.337.search-card.all.click&vd_source=be3ac4894f8bf7883ae92030f6f7be46)|
+---|
+
 [Spring MVC Tutorial example](https://www.javaguides.net/p/spring-mvc-tutorial.html)|[Spring MVC中提供的异步处理能力](https://weread.qq.com/web/reader/44332cc071a486a7443c539ke3632bd0222e369853df322)|
 ---|---|
 
