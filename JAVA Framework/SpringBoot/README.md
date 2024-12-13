@@ -613,7 +613,7 @@
   * [SpringBoot性能优化大全](https://cloud.tencent.com/developer/article/1971782)
   * [springboot性能调优实战](https://github.com/yangui28/tip/blob/master/blog/springboot%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98.md)
 * springboot生产级特性
-  * 外部配置
+  * 外部化配置
   * 监控指标
   * 健康捡查 
 ---
