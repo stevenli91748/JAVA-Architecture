@@ -473,6 +473,7 @@
   * [SpringBoot 配置](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/SpringBoot%20%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/README.md)
   * [Spring Boot自动配置原理](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/Spring%20Boot%E8%87%AA%E5%8A%A8%E9%85%8D%E7%BD%AE%E5%8E%9F%E7%90%86.md)
   * [Spring Boot国际化](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/Spring%20Boot%E5%9B%BD%E9%99%85%E5%8C%96.md)
+    * [实战SpringBoot 快速支持动态配置国际化 冰河](https://mp.weixin.qq.com/s/fMdh-yQfKRahbd2GRoFvvg)  
   * [SpringBoot内存](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/SpringBoot%E5%86%85%E5%AD%98.md)
   * [SpringBoot Bean](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/SpringBoot%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/SpringBoot%20Bean.md)
   * [Spring boot 高并发编程](https://github.com/stevenli91748/JAVA-Architecture/tree/master/JAVA%20Framework/SpringBoot/Spring%20Boot%E7%9A%84%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B)  
@@ -585,6 +586,7 @@
 * 21 Spring Boot文件处理
   * [Spring Boot文件处理](https://www.yiibai.com/spring-boot/spring_boot_file_handling.html) 
   * [使用分布式文件系统DFS ](https://weread.qq.com/web/reader/ca932ea071d7c798ca9a714kd0932c3024bd09bf4154e7e)
+  * [【FastFDS】SpringBoot整合FastDFS实战（附完整工程源码）](https://mp.weixin.qq.com/s/yKuutfDGf6OKF9Mj4cYmdQ)
 * [22 SpringBoot应用打包部署](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%BA%94%E7%94%A8%E9%83%A8%E7%BD%B2/README.md)
 * [23 项目实战](https://github.com/stevenli91748/JAVA-Architecture/tree/master/JAVA%20Framework/SpringBoot/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98#readme)
 * [24 Spring Boot中编写单元测试](https://github.com/stevenli91748/JAVA-Architecture/blob/master/JAVA%20Framework/SpringBoot/%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95%E7%94%A8%E4%BE%8B.md)
