@@ -612,10 +612,12 @@
 * 32 SpringBoot性能优化
   * [SpringBoot性能优化大全](https://cloud.tencent.com/developer/article/1971782)
   * [springboot性能调优实战](https://github.com/yangui28/tip/blob/master/blog/springboot%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98.md)
-* springboot生产级特性
+* 33 springboot生产级特性
   * 外部化配置
   * 监控指标
-  * 健康捡查 
+  * 健康捡查
+* 34 springboot 国际化
+  * [实战SpringBoot 快速支持动态配置国际化 冰河](https://mp.weixin.qq.com/s/fMdh-yQfKRahbd2GRoFvvg) 
 ---
 
 
