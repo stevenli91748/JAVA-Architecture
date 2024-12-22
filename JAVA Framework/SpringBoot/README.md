@@ -101,8 +101,8 @@
 
 ## SpringBoot基础学习博客
 
-[尚硅谷---雷风阳全部资料](https://www.yuque.com/leifengyang)|
----|
+[尚硅谷---雷风阳全部资料](https://www.yuque.com/leifengyang)|[冰河公开了这份4万字的SpringCloud与SpringCloudAlibaba学习笔记！](https://mp.weixin.qq.com/s/pzIRXguGEcJbUNjek4DuGg)|
+---|---|
 
 [弟弟快看，程序员编程资料站 非常好](https://ddkk.com/)|[spring中文网](https://springdoc.cn/)|[ postman & newman 做 restful api 自動測試](https://www.youtube.com/watch?v=VID0Dh7NJIc)|
 ---|---|---|
