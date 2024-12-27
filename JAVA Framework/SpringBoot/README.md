@@ -104,7 +104,7 @@
 [尚硅谷---雷风阳全部资料](https://www.yuque.com/leifengyang)|
 ---|
 
-[冰河指南]([https://github.com/binghe001/technology-binghe?tab=readme-ov-file](https://binghe.gitcode.host/md/all/all.html#%E5%85%B3%E4%BA%8E%E6%9C%AC%E7%AB%99%E7%82%B9))|[冰河公开了这份4万字的SpringCloud与SpringCloudAlibaba学习笔记！](https://mp.weixin.qq.com/s/pzIRXguGEcJbUNjek4DuGg)|
+[冰河指南](https://binghe.gitcode.host/)|[冰河公开了这份4万字的SpringCloud与SpringCloudAlibaba学习笔记！](https://mp.weixin.qq.com/s/pzIRXguGEcJbUNjek4DuGg)|
 ---|---|
 
 [弟弟快看，程序员编程资料站 非常好](https://ddkk.com/)|[spring中文网](https://springdoc.cn/)|[ postman & newman 做 restful api 自動測試](https://www.youtube.com/watch?v=VID0Dh7NJIc)|
