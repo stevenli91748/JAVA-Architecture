@@ -255,6 +255,8 @@ leetcode|
 
 # [第九阶段   分布式亿级高并发电商项目篇](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Ecommerce%20Project/README.md)
 
+ https://pan.baidu.com/s/11HLHkm601upSST10PHHgTQ 
+
 <a href="https://ibb.co/YLk15F3"><img src="https://i.ibb.co/1mqPCtL/image.jpg" alt="image" border="0"></a>
 
 https://github.com/YunaiV/SpringBoot-Labs
