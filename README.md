@@ -32,6 +32,8 @@
 # [在线开发平台-----很好](https://www.tutorialspoint.com/index.htm)
 # [创业教程视频](https://www.sinofu.com/)
 ---
+# Tools
+  * [网页转PDF技术指南](https://liaoxuefeng.com/blogs/all/2025-06-19-how-to-generate-pdf/index.html)
 
 # 在线书籍
 * [程序员英语单词册](https://www.kancloud.cn/haixu926611/study-english/112096)
