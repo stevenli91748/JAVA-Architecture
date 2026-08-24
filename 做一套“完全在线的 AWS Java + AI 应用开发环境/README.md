@@ -1,6 +1,8 @@
 
 # 目录
 
+## Day 1–30 的“AWS Java + AI 应用开发环境”第一阶段
+
 * [如何在AWS上搭建一套JAVA 企业应用的前后端开发 测试环境]()
 * [Day 1：AWS 账户 + IAM + 安全基础 --- 今天不写 Java 代码。目标是把 AWS 的“地基”搭好](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E5%81%9A%E4%B8%80%E5%A5%97%E2%80%9C%E5%AE%8C%E5%85%A8%E5%9C%A8%E7%BA%BF%E7%9A%84%20AWS%20Java%20%2B%20AI%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/day1-day60/Day%201%EF%BC%9AAWS%20%E8%B4%A6%E6%88%B7%20%2B%20IAM%20%2B%20%E5%AE%89%E5%85%A8%E5%9F%BA%E7%A1%80%20%E6%8A%8A%20AWS%20%E7%9A%84%E2%80%9C%E5%9C%B0%E5%9F%BA%E2%80%9D%E6%90%AD%E5%A5%BD.md)
 * [Day 2：搭建完全在线的开发工作站](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E5%81%9A%E4%B8%80%E5%A5%97%E2%80%9C%E5%AE%8C%E5%85%A8%E5%9C%A8%E7%BA%BF%E7%9A%84%20AWS%20Java%20%2B%20AI%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/day1-day60/Day%202%EF%BC%9A%E6%90%AD%E5%BB%BA%E5%AE%8C%E5%85%A8%E5%9C%A8%E7%BA%BF%E7%9A%84%E5%BC%80%E5%8F%91%E5%B7%A5%E4%BD%9C%E7%AB%99%20%E4%BB%A5%E5%90%8E%E5%8F%AA%E9%9C%80%E8%A6%81%E6%B5%8F%E8%A7%88%E5%99%A8%EF%BC%8C%E4%B8%8D%E9%9C%80%E8%A6%81%E5%9C%A8%E6%9C%AC%E5%9C%B0%E5%AE%89%E8%A3%85%20Java%E3%80%81Maven%E3%80%81Node%E3%80%81Docker%E3%80%81Terraform.md)
@@ -51,6 +53,7 @@
 
 
 **Day 29把 Day 28 的企业 AI Assistant 从：
+
    用户提问
       ↓
    等待 3～10 秒
@@ -74,7 +77,29 @@
 目标效果就是类似 ChatGPT：**
 
 * [Day 29：Streaming Chat + SSE + Agent/RAG 实时事件---做 Streaming Chat + SSE/WebSocket：让 Bedrock 的回答像 ChatGPT 一样实时逐 token 返回到 React，同时把 Agent Tool Calling、RAG、Memory 的中间状态做好流式事件处理](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E5%81%9A%E4%B8%80%E5%A5%97%E2%80%9C%E5%AE%8C%E5%85%A8%E5%9C%A8%E7%BA%BF%E7%9A%84%20AWS%20Java%20%2B%20AI%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/day1-day60/Day%2029%EF%BC%9AStreaming%20Chat%20%2B%20SSE%20%2B%20Agent%20or%20RAG%20%E5%AE%9E%E6%97%B6%E4%BA%8B%E4%BB%B6.md)
+
+**Day 30 建议做第一版完整的 Production AI Assistant 项目收尾：把 Day 1–29 的 AWS + Java + React + RAG + Agent + Memory + Streaming 全部整合，完成 Docker → ECR → ECS Fargate → RDS → S3 → SQS → Bedrock → CloudWatch → CI/CD 的端到端部署，并做一次真正的生产级安全、性能、成本和故障测试, Day 30 已经完成第一套完整的 AWS Java AI 企业应用**
+* [Day 30：完整 AWS Java + AI 企业应用上线---已经完成第一套完整的 AWS Java AI 企业应用](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E5%81%9A%E4%B8%80%E5%A5%97%E2%80%9C%E5%AE%8C%E5%85%A8%E5%9C%A8%E7%BA%BF%E7%9A%84%20AWS%20Java%20%2B%20AI%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/day1-day60/Day%2030%EF%BC%9A%E5%AE%8C%E6%95%B4%20AWS%20Java%20%2B%20AI%20%E4%BC%81%E4%B8%9A%E5%BA%94%E7%94%A8%E4%B8%8A%E7%BA%BF.md)
+
+**Day 1–30 的“AWS Java + AI 应用开发环境”第一阶段就完整了**
+
+---
+
+**Day 31–60：AI Engineer 实战阶段（ 第二阶段）——重点转向 Spring AI Agent 深度开发、MCP、Advanced RAG、Reranker、Agent Evaluation、AI Security、Redis、Kafka、微服务、Kubernetes/EKS，以及一个可放 GitHub/面试的完整企业 AI 项目**
+
+* [Day 31：Advanced RAG —— Reranker + Query Rewrite---这一步非常重要：你已经从“会使用 RAG”进入“会设计和优化 RAG Pipeline”,今天重点解决一个问题：用户的问题不一定适合直接拿去做 Vector Search](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E5%81%9A%E4%B8%80%E5%A5%97%E2%80%9C%E5%AE%8C%E5%85%A8%E5%9C%A8%E7%BA%BF%E7%9A%84%20AWS%20Java%20%2B%20AI%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/day1-day60/Day%2031%EF%BC%9AAdvanced%20RAG%20%E2%80%94%E2%80%94%20Reranker%20%2B%20Query%20Rewrite.md)
+* [Day 32：Advanced RAG —— Parent-Child + Contextual Chunking + Metadata Routing + Multi-Hop---做 Advanced RAG：Parent-Child Retrieval + Contextual Chunking + Metadata Routing + Multi-Hop RAG，重点解决长 PDF、技术文档、跨章节问题，以及“一个答案需要多个文档共同推理”的场景,解决 Day 31 之后最重要的问题：普通 Chunking 为什么会导致 RAG 找到“正确的句子”，却回答不完整？](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E5%81%9A%E4%B8%80%E5%A5%97%E2%80%9C%E5%AE%8C%E5%85%A8%E5%9C%A8%E7%BA%BF%E7%9A%84%20AWS%20Java%20%2B%20AI%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/day1-day60/Day%2032%EF%BC%9AAdvanced%20RAG%20%E2%80%94%E2%80%94%20Parent-Child%20%2B%20Contextual%20Chunking%20%2B%20Metadata%20Routing%20%2B%20Multi-Hop.md)
 * []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* 
+
+
  
 可以。如果你的目标是搭建一套真正用于企业 Java 应用开发、联调、测试的 AWS 在线环境，我建议不要一开始就上 EKS/Kubernetes，而是采用：
 
