@@ -27,9 +27,25 @@
 * [Day 16：Terraform Remote State + Modules + DEV/TEST/PROD---开始把 ECS + ALB + RDS + ECR + IAM 从手工创建迁移成 Terraform 管理,开始把 Terraform 从“能创建 AWS 资源”升级成企业级 Infrastructure as Code](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E5%81%9A%E4%B8%80%E5%A5%97%E2%80%9C%E5%AE%8C%E5%85%A8%E5%9C%A8%E7%BA%BF%E7%9A%84%20AWS%20Java%20%2B%20AI%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/day1-day60/Day%2016%EF%BC%9ATerraform%20Remote%20State%20%2B%20Modules%20%2B%20DEV%20%20TEST%20%20PROD.md)
 * [Day 17：Terraform 企业级 VPC 网络---Terraform VPC 企业网络完整实现：Public/Private Subnet、NAT Gateway、VPC Endpoint、ECS Private Subnet、RDS Private Subnet，以及安全组之间的最小权限通信。完成后就可以把目前 Day 7 的“Public ECS”真正升级成生产级的 ALB → Private ECS → Private RDS](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E5%81%9A%E4%B8%80%E5%A5%97%E2%80%9C%E5%AE%8C%E5%85%A8%E5%9C%A8%E7%BA%BF%E7%9A%84%20AWS%20Java%20%2B%20AI%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/day1-day60/Day%2017%EF%BC%9ATerraform%20%E4%BC%81%E4%B8%9A%E7%BA%A7%20VPC%20%E7%BD%91%E7%BB%9C.md)
 * [Day 18：Terraform + GitHub CI/CD---今天把 Terraform 接入 CI/CD 目标是以后你修改 AWS 基础设施代码，不再手动,让 GitHub Pull Request 自动执行 terraform fmt → validate → plan，合并到 main 后再审批 terraform apply，正式建立 Infrastructure CI/CD](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E5%81%9A%E4%B8%80%E5%A5%97%E2%80%9C%E5%AE%8C%E5%85%A8%E5%9C%A8%E7%BA%BF%E7%9A%84%20AWS%20Java%20%2B%20AI%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/day1-day60/Day%2018%EF%BC%9ATerraform%20%2B%20GitHub%20CI%20CD.md)
-* []()
-* []()
+* [Day 19：Java Spring Boot → Docker → ECR → ECS 自动部署---进入应用 CI/CD：把 Java Spring Boot → Docker → ECR → ECS 全自动化，并加入单元测试、Maven、Docker Build、ECR Push、ECS Rolling Deployment。这样 Day 18 的 Terraform CI/CD 和应用 CI/CD 就真正形成完整的企业 DevOps Pipeline](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E5%81%9A%E4%B8%80%E5%A5%97%E2%80%9C%E5%AE%8C%E5%85%A8%E5%9C%A8%E7%BA%BF%E7%9A%84%20AWS%20Java%20%2B%20AI%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/day1-day60/Day%2019%EF%BC%9AJava%20Spring%20Boot%20%E2%86%92%20Docker%20%E2%86%92%20ECR%20%E2%86%92%20ECS%20%E8%87%AA%E5%8A%A8%E9%83%A8%E7%BD%B2.md)
+* [Day 20：React CI CD → S3 → CloudFront---今天把前端也接入自动部署](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E5%81%9A%E4%B8%80%E5%A5%97%E2%80%9C%E5%AE%8C%E5%85%A8%E5%9C%A8%E7%BA%BF%E7%9A%84%20AWS%20Java%20%2B%20AI%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/day1-day60/Day%2020%EF%BC%9AReact%20CI%20CD%20%E2%86%92%20S3%20%E2%86%92%20CloudFront.md)
+**到了day20这步，这才是你这套 完全在线 AWS Java + AI 企业应用开发环境的完整 DevOps 基础**
+---
 
+**Day 21 建议开始做一个非常关键的企业能力：可观测性 Observability——CloudWatch Logs、Metrics、Alarms、Spring Boot Actuator、ECS CPU/Memory、ALB 5xx/Latency、RDS 指标，以及把 Java 应用的日志和健康状态统一起来。完成后，你的系统就不只是“能部署”，而是开始具备发现故障、定位故障、报警的能力**
+* [Day 21：AWS Observability 可观测性](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E5%81%9A%E4%B8%80%E5%A5%97%E2%80%9C%E5%AE%8C%E5%85%A8%E5%9C%A8%E7%BA%BF%E7%9A%84%20AWS%20Java%20%2B%20AI%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/day1-day60/Day%2021%EF%BC%9AAWS%20Observability%20%E5%8F%AF%E8%A7%82%E6%B5%8B%E6%80%A7.md)
+* [Day 22：OpenTelemetry + Distributed Tracing---今天把 Day 21 的 Logs + Metrics 升级成真正的 Distributed Tracing,目标是：用户点击一次 AI Chat 后，你可以看到完整链路,做的是 OpenTelemetry + Distributed Tracing，把一次 AI 请求完整串起来,这样你就能知道一个 AI 请求到底慢在哪一层，而不仅仅是知道“ECS CPU 很高](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E5%81%9A%E4%B8%80%E5%A5%97%E2%80%9C%E5%AE%8C%E5%85%A8%E5%9C%A8%E7%BA%BF%E7%9A%84%20AWS%20Java%20%2B%20AI%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/day1-day60/Day%2022%EF%BC%9AOpenTelemetry%20%2B%20Distributed%20Tracing.md)
+* [Day 23：AWS Secrets Manager + Spring Boot 安全配置---做 AWS Secrets Manager + IAM + Spring Boot 安全配置,把：DB Password,JWT Secret,API Credentials,Bedrock 配置,第三方 API Key 全部从代码、Docker、GitHub、ECS Environment 中清理出去，建立Secrets Manager->ECS Task->SpringBoot,并进一步实现 DEV / TEST / PROD 三套完全隔离的 Secret 管理](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E5%81%9A%E4%B8%80%E5%A5%97%E2%80%9C%E5%AE%8C%E5%85%A8%E5%9C%A8%E7%BA%BF%E7%9A%84%20AWS%20Java%20%2B%20AI%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/day1-day60/Day%2023%EF%BC%9AAWS%20Secrets%20Manager%20%2B%20Spring%20Boot%20%E5%AE%89%E5%85%A8%E9%85%8D%E7%BD%AE.md)
+
+**DAY24正式进入这套环境的 AI 核心部分,到这里，你已经从 **AWS Java 企业应用平台**正式进入 **Java + RAG + LLM 应用开发平台****
+* [Day 24：RDS PostgreSQL + pgvector + Spring AI RAG---做 AWS RDS PostgreSQL + pgvector + Spring AI RAG：正式把数据库、向量数据库、Embedding、Chunking、Similarity Search 和 Spring AI 串起来。这样你的 AWS Java 环境就开始从“企业 Web 应用”进入真正的 Java + AI/RAG 应用开发平台](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E5%81%9A%E4%B8%80%E5%A5%97%E2%80%9C%E5%AE%8C%E5%85%A8%E5%9C%A8%E7%BA%BF%E7%9A%84%20AWS%20Java%20%2B%20AI%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/day1-day60/Day%2024%EF%BC%9ARDS%20PostgreSQL%20%2B%20pgvector%20%2B%20Spring%20AI%20RAG.md)
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+ 
 可以。如果你的目标是搭建一套真正用于企业 Java 应用开发、联调、测试的 AWS 在线环境，我建议不要一开始就上 EKS/Kubernetes，而是采用：
 
 GitHub + Java/Spring Boot + React/Vue + Docker + ECS Fargate + RDS PostgreSQL + ECR + CodeBuild + CodePipeline + CloudWatch
