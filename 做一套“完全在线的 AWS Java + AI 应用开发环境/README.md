@@ -89,7 +89,10 @@
 
 * [Day 31：Advanced RAG —— Reranker + Query Rewrite---这一步非常重要：你已经从“会使用 RAG”进入“会设计和优化 RAG Pipeline”,今天重点解决一个问题：用户的问题不一定适合直接拿去做 Vector Search](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E5%81%9A%E4%B8%80%E5%A5%97%E2%80%9C%E5%AE%8C%E5%85%A8%E5%9C%A8%E7%BA%BF%E7%9A%84%20AWS%20Java%20%2B%20AI%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/day1-day60/Day%2031%EF%BC%9AAdvanced%20RAG%20%E2%80%94%E2%80%94%20Reranker%20%2B%20Query%20Rewrite.md)
 * [Day 32：Advanced RAG —— Parent-Child + Contextual Chunking + Metadata Routing + Multi-Hop---做 Advanced RAG：Parent-Child Retrieval + Contextual Chunking + Metadata Routing + Multi-Hop RAG，重点解决长 PDF、技术文档、跨章节问题，以及“一个答案需要多个文档共同推理”的场景,解决 Day 31 之后最重要的问题：普通 Chunking 为什么会导致 RAG 找到“正确的句子”，却回答不完整？](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E5%81%9A%E4%B8%80%E5%A5%97%E2%80%9C%E5%AE%8C%E5%85%A8%E5%9C%A8%E7%BA%BF%E7%9A%84%20AWS%20Java%20%2B%20AI%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/day1-day60/Day%2032%EF%BC%9AAdvanced%20RAG%20%E2%80%94%E2%80%94%20Parent-Child%20%2B%20Contextual%20Chunking%20%2B%20Metadata%20Routing%20%2B%20Multi-Hop.md)
-* []()
+**从Day31 到 day32,你的 RAG 已经从：“向量数据库搜索”，开始进入：“企业级 Retrieval System， RAG 已经比较完整**
+
+**Day 33进入 AI Engineer 非常重要的一层：MCP（Model Context Protocol），进入 MCP（Model Context Protocol）+ Spring AI MCP：把你的 Java 企业系统能力标准化成 MCP Tools/Resources，让 Agent 可以连接数据库、RAG、内部 REST API 和 AWS 服务；同时学习 MCP Client / MCP Server / Tool / Resource / Prompt 的区别，以及企业环境下的 MCP 安全边界** 
+* [Day 33：MCP + Spring AI —— 让 Agent 连接企业系统，把 Java 企业系统的能力标准化，让 AI Agent 可以通过 MCP 使用这些能力](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E5%81%9A%E4%B8%80%E5%A5%97%E2%80%9C%E5%AE%8C%E5%85%A8%E5%9C%A8%E7%BA%BF%E7%9A%84%20AWS%20Java%20%2B%20AI%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/day1-day60/Day%2033%EF%BC%9AMCP%20%2B%20Spring%20AI.md)
 * []()
 * []()
 * []()
