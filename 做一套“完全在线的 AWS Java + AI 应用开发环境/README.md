@@ -24,9 +24,9 @@
 * [Day 14：React → S3 → CloudFront 正式上线---前端正式上线 ](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E5%81%9A%E4%B8%80%E5%A5%97%E2%80%9C%E5%AE%8C%E5%85%A8%E5%9C%A8%E7%BA%BF%E7%9A%84%20AWS%20Java%20%2B%20AI%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/day1-day60/Day%2014%EF%BC%9AReact%20%E2%86%92%20S3%20%E2%86%92%20CloudFront%20%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF.md)
 * [Day 15：Terraform — 把整个 AWS 环境代码化 建议做 Terraform Infrastructure as Code 这样你前 14 天手工创建的 AWS 基础设施，可以全部变成：terraform plan, terraform apply
 以后换 AWS Region、建立 DEV/TEST/PROD 环境，都可以自动重建，而不是一个个在 Console 里点击](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E5%81%9A%E4%B8%80%E5%A5%97%E2%80%9C%E5%AE%8C%E5%85%A8%E5%9C%A8%E7%BA%BF%E7%9A%84%20AWS%20Java%20%2B%20AI%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/day1-day60/Day%2015%EF%BC%9ATerraform%20%E2%80%94%20%E6%8A%8A%E6%95%B4%E4%B8%AA%20AWS%20%E7%8E%AF%E5%A2%83%E4%BB%A3%E7%A0%81%E5%8C%96.md)
-* []()
-* []()
-* []()
+* [Day 16：Terraform Remote State + Modules + DEV/TEST/PROD---开始把 ECS + ALB + RDS + ECR + IAM 从手工创建迁移成 Terraform 管理,开始把 Terraform 从“能创建 AWS 资源”升级成企业级 Infrastructure as Code](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E5%81%9A%E4%B8%80%E5%A5%97%E2%80%9C%E5%AE%8C%E5%85%A8%E5%9C%A8%E7%BA%BF%E7%9A%84%20AWS%20Java%20%2B%20AI%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/day1-day60/Day%2016%EF%BC%9ATerraform%20Remote%20State%20%2B%20Modules%20%2B%20DEV%20%20TEST%20%20PROD.md)
+* [Day 17：Terraform 企业级 VPC 网络---Terraform VPC 企业网络完整实现：Public/Private Subnet、NAT Gateway、VPC Endpoint、ECS Private Subnet、RDS Private Subnet，以及安全组之间的最小权限通信。完成后就可以把目前 Day 7 的“Public ECS”真正升级成生产级的 ALB → Private ECS → Private RDS](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E5%81%9A%E4%B8%80%E5%A5%97%E2%80%9C%E5%AE%8C%E5%85%A8%E5%9C%A8%E7%BA%BF%E7%9A%84%20AWS%20Java%20%2B%20AI%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/day1-day60/Day%2017%EF%BC%9ATerraform%20%E4%BC%81%E4%B8%9A%E7%BA%A7%20VPC%20%E7%BD%91%E7%BB%9C.md)
+* [Day 18：Terraform + GitHub CI/CD---今天把 Terraform 接入 CI/CD 目标是以后你修改 AWS 基础设施代码，不再手动,让 GitHub Pull Request 自动执行 terraform fmt → validate → plan，合并到 main 后再审批 terraform apply，正式建立 Infrastructure CI/CD](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E5%81%9A%E4%B8%80%E5%A5%97%E2%80%9C%E5%AE%8C%E5%85%A8%E5%9C%A8%E7%BA%BF%E7%9A%84%20AWS%20Java%20%2B%20AI%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/day1-day60/Day%2018%EF%BC%9ATerraform%20%2B%20GitHub%20CI%20CD.md)
 * []()
 * []()
 
