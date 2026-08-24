@@ -39,7 +39,7 @@
 
 **DAY24正式进入这套环境的 AI 核心部分,到这里，你已经从 **AWS Java 企业应用平台**正式进入 **Java + RAG + LLM 应用开发平台****
 * [Day 24：RDS PostgreSQL + pgvector + Spring AI RAG---做 AWS RDS PostgreSQL + pgvector + Spring AI RAG：正式把数据库、向量数据库、Embedding、Chunking、Similarity Search 和 Spring AI 串起来。这样你的 AWS Java 环境就开始从“企业 Web 应用”进入真正的 Java + AI/RAG 应用开发平台](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E5%81%9A%E4%B8%80%E5%A5%97%E2%80%9C%E5%AE%8C%E5%85%A8%E5%9C%A8%E7%BA%BF%E7%9A%84%20AWS%20Java%20%2B%20AI%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/day1-day60/Day%2024%EF%BC%9ARDS%20PostgreSQL%20%2B%20pgvector%20%2B%20Spring%20AI%20RAG.md)
-* []()
+* [Markdown → Chunk → Embedding → pgvector 自动知识库---今天把 Day 24 的“手工 RAG”升级成真正可用的 自动知识库 ingestion pipeline,做 RAG 文档 ingestion pipeline：把 PDF/Markdown → 文档解析 → Chunk → Metadata → Embedding → pgvector 全自动化，并接入 S3。这样以后上传一个 PDF，就能自动进入知识库，而不是手工执行 SQL](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E5%81%9A%E4%B8%80%E5%A5%97%E2%80%9C%E5%AE%8C%E5%85%A8%E5%9C%A8%E7%BA%BF%E7%9A%84%20AWS%20Java%20%2B%20AI%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/day1-day60/Day%2025%EF%BC%9AS3%20%E2%86%92%20PDF%20or%20Day%2025%EF%BC%9AS3%20%E2%86%92%20PDF.md)
 * []()
 * []()
 * []()
