@@ -39,11 +39,41 @@
 
 **DAY24正式进入这套环境的 AI 核心部分,到这里，你已经从 **AWS Java 企业应用平台**正式进入 **Java + RAG + LLM 应用开发平台****
 * [Day 24：RDS PostgreSQL + pgvector + Spring AI RAG---做 AWS RDS PostgreSQL + pgvector + Spring AI RAG：正式把数据库、向量数据库、Embedding、Chunking、Similarity Search 和 Spring AI 串起来。这样你的 AWS Java 环境就开始从“企业 Web 应用”进入真正的 Java + AI/RAG 应用开发平台](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E5%81%9A%E4%B8%80%E5%A5%97%E2%80%9C%E5%AE%8C%E5%85%A8%E5%9C%A8%E7%BA%BF%E7%9A%84%20AWS%20Java%20%2B%20AI%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/day1-day60/Day%2024%EF%BC%9ARDS%20PostgreSQL%20%2B%20pgvector%20%2B%20Spring%20AI%20RAG.md)
-* [Markdown → Chunk → Embedding → pgvector 自动知识库---今天把 Day 24 的“手工 RAG”升级成真正可用的 自动知识库 ingestion pipeline,做 RAG 文档 ingestion pipeline：把 PDF/Markdown → 文档解析 → Chunk → Metadata → Embedding → pgvector 全自动化，并接入 S3。这样以后上传一个 PDF，就能自动进入知识库，而不是手工执行 SQL](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E5%81%9A%E4%B8%80%E5%A5%97%E2%80%9C%E5%AE%8C%E5%85%A8%E5%9C%A8%E7%BA%BF%E7%9A%84%20AWS%20Java%20%2B%20AI%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/day1-day60/Day%2025%EF%BC%9AS3%20%E2%86%92%20PDF%20or%20Day%2025%EF%BC%9AS3%20%E2%86%92%20PDF.md)
-* []()
-* []()
-* []()
-* []()
+* [Day 25：S3 → PDF/Markdown → Chunk → Embedding → pgvector 自动知识库---今天把 Day 24 的“手工 RAG”升级成真正可用的 自动知识库 ingestion pipeline,做 RAG 文档 ingestion pipeline：把 PDF/Markdown → 文档解析 → Chunk → Metadata → Embedding → pgvector 全自动化，并接入 S3。这样以后上传一个 PDF，就能自动进入知识库，而不是手工执行 SQL](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E5%81%9A%E4%B8%80%E5%A5%97%E2%80%9C%E5%AE%8C%E5%85%A8%E5%9C%A8%E7%BA%BF%E7%9A%84%20AWS%20Java%20%2B%20AI%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/day1-day60/Day%2025%EF%BC%9AS3%20%E2%86%92%20PDF%20or%20Day%2025%EF%BC%9AS3%20%E2%86%92%20PDF.md)
+**Day 26 建议进入一个非常关键的企业能力：RAG 检索质量优化——Hybrid Search（Vector + PostgreSQL Full-Text Search）、Reranking、Metadata Filtering、Top-K、Chunk Size、Embedding 对比，并建立第一套 RAG Evaluation Dataset。这样你的 RAG 才会从“能回答”进入“回答得准”**
+* [Day 26：RAG 检索质量优化---今天开始解决 RAG 最核心的问题：不是“能不能找到文档”，而是“能不能找到真正有用的文档](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E5%81%9A%E4%B8%80%E5%A5%97%E2%80%9C%E5%AE%8C%E5%85%A8%E5%9C%A8%E7%BA%BF%E7%9A%84%20AWS%20Java%20%2B%20AI%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/day1-day60/Day%2026%EF%BC%9ARAG%20%E6%A3%80%E7%B4%A2%E8%B4%A8%E9%87%8F%E4%BC%98%E5%8C%96.md)
+
+**Day 27开始从 RAG 应用进入 AI Agent 应用**
+* [Day 27：Spring AI Agent + Tool Calling---建议做 Spring AI Agent / Tool Calling：让 Java AI 应用不再只是“搜索知识库然后回答”，而是能够调用 数据库、REST API、AWS 服务、搜索工具，形成真正的 AI Agent](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E5%81%9A%E4%B8%80%E5%A5%97%E2%80%9C%E5%AE%8C%E5%85%A8%E5%9C%A8%E7%BA%BF%E7%9A%84%20AWS%20Java%20%2B%20AI%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/day1-day60/Day%2027%EF%BC%9ASpring%20AI%20Agent%20%2B%20Tool%20Calling.md)
+
+**Day 28解决 AI Agent 的一个核心问题：用户说了上一句话，Agent 下一句话能不能记住？**
+* [Day 28：Agent Memory + 多轮对话 + PostgreSQL---建议进入 AI Agent Memory + Conversation History + PostgreSQL：实现多轮对话，让 Agent 记住当前会话，同时严格区分 Conversation Memory、RAG Knowledge、User Profile 三种数据，避免把“记忆”和“知识库”混在一起](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E5%81%9A%E4%B8%80%E5%A5%97%E2%80%9C%E5%AE%8C%E5%85%A8%E5%9C%A8%E7%BA%BF%E7%9A%84%20AWS%20Java%20%2B%20AI%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/day1-day60/Day%2028%EF%BC%9AAgent%20Memory%20%2B%20%E5%A4%9A%E8%BD%AE%E5%AF%B9%E8%AF%9D%20%2B%20PostgreSQL.md)
+
+
+**Day 29把 Day 28 的企业 AI Assistant 从：
+   用户提问
+      ↓
+   等待 3～10 秒
+      ↓
+   一次性返回完整答案
+
+升级成：
+
+   用户提问
+      ↓
+   Agent
+      ↓
+   实时事件
+      ├── 思考/状态
+      ├── Tool Calling
+      ├── RAG Search
+      └── LLM Token Stream
+             ↓
+          React 实时显示
+
+目标效果就是类似 ChatGPT：**
+
+* [Day 29：Streaming Chat + SSE + Agent/RAG 实时事件---做 Streaming Chat + SSE/WebSocket：让 Bedrock 的回答像 ChatGPT 一样实时逐 token 返回到 React，同时把 Agent Tool Calling、RAG、Memory 的中间状态做好流式事件处理](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E5%81%9A%E4%B8%80%E5%A5%97%E2%80%9C%E5%AE%8C%E5%85%A8%E5%9C%A8%E7%BA%BF%E7%9A%84%20AWS%20Java%20%2B%20AI%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/day1-day60/Day%2029%EF%BC%9AStreaming%20Chat%20%2B%20SSE%20%2B%20Agent%20or%20RAG%20%E5%AE%9E%E6%97%B6%E4%BA%8B%E4%BB%B6.md)
 * []()
  
 可以。如果你的目标是搭建一套真正用于企业 Java 应用开发、联调、测试的 AWS 在线环境，我建议不要一开始就上 EKS/Kubernetes，而是采用：
