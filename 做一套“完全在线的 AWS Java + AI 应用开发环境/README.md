@@ -112,8 +112,13 @@
 **Day41-Day42完成后，你的 **Java + AI + AWS + Kubernetes** 技术栈就真正开始接近美国企业 AI Engineer / Backend Engineer 的生产级要求**
 * [Day 41：Kubernetes / Amazon EKS---开始做 Kubernetes / Amazon EKS：把 ECS Fargate 架构升级到 Kubernetes，学习 Pod、Deployment、Service、Ingress、ConfigMap、Secret、HPA、Helm，并比较 EKS vs ECS，最终知道企业什么时候应该选择 EKS,把你现在的 AWS Java + AI 应用，从 ECS 架构扩展到企业级 Kubernetes 架构](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E5%81%9A%E4%B8%80%E5%A5%97%E2%80%9C%E5%AE%8C%E5%85%A8%E5%9C%A8%E7%BA%BF%E7%9A%84%20AWS%20Java%20%2B%20AI%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/day1-day60/Day%2041%EF%BC%9AKubernetes%20%20or%20%20Amazon%20EKS.md)
 * [Day 42：EKS + Helm —— 用 Helm 一次部署整套 Java + AI 平台---EKS + Helm + Kubernetes Production Deployment,用 Helm 来解决一个实际问题 “如果你的平台有 10～30 个 Kubernetes YAML，怎么一次性部署、升级和回滚？”](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E5%81%9A%E4%B8%80%E5%A5%97%E2%80%9C%E5%AE%8C%E5%85%A8%E5%9C%A8%E7%BA%BF%E7%9A%84%20AWS%20Java%20%2B%20AI%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/day1-day60/Day%2042%EF%BC%9AEKS%20%2B%20Helm%20%E2%80%94%E2%80%94%20%E7%94%A8%20Helm%20%E4%B8%80%E6%AC%A1%E9%83%A8%E7%BD%B2%E6%95%B4%E5%A5%97%20Java%20%2B%20AI%20%E5%B9%B3%E5%8F%B0.md)
-* []()
-* []()
+
+**Day 43已经是一套非常完整的 AWS Java + AI Enterprise Architecture** 
+* [Day 43：EKS Production Networking —— ALB + Ingress + Route 53 + HTTPS----建议进入 EKS Production Networking + AWS Load Balancer Controller + Ingress + Route 53 + ACM HTTPS + ExternalDNS，把 api.yourdomain.com → HTTPS → AWS ALB → EKS → Spring Boot 真正打通,把真正的公网访问链路打通](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E5%81%9A%E4%B8%80%E5%A5%97%E2%80%9C%E5%AE%8C%E5%85%A8%E5%9C%A8%E7%BA%BF%E7%9A%84%20AWS%20Java%20%2B%20AI%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/day1-day60/Day%2043%EF%BC%9AEKS%20Production%20Networking%20%E2%80%94%E2%80%94%20ALB%20%2B%20Ingress%20%2B%20Route%2053%20%2B%20HTTPS.md)
+
+**解决一个生产环境最重要的问题：Pod 到底凭什么访问 Bedrock、S3、Secrets Manager、RDS？最终做到：Pod->EKS Pod Identity->IAM Role->AWS Services,绝不在 Java、Docker、GitHub、Kubernetes YAML 中保存 AWS Access Key***
+* [Day 44：EKS Production Security —— IAM + Pod Identity + Secrets Manager + RBAC---把 EKS Production Security + IAM + Pod Identity + Secrets Manager + External Secrets + RBAC + NetworkPolicy，全部做到最小权限、无 AWS Access Key、无明文 Secret、网络隔离，这一步完成后，你的 AWS Java + AI 平台才真正具备企业生产环境的安全基础](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E5%81%9A%E4%B8%80%E5%A5%97%E2%80%9C%E5%AE%8C%E5%85%A8%E5%9C%A8%E7%BA%BF%E7%9A%84%20AWS%20Java%20%2B%20AI%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/day1-day60/Day%2044%EF%BC%9AEKS%20Production%20Security%20%E2%80%94%E2%80%94%20IAM%20%2B%20Pod%20Identity%20%2B%20Secrets%20Manager%20%2B%20RBAC.md)
+**Day 44这一步完成后，你的 AWS Java + AI 平台才真正具备企业生产环境的安全基础** 
 * []()
 * []()
 * []()
