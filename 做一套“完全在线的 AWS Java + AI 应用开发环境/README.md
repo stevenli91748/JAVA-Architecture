@@ -98,14 +98,25 @@
 
 **Day 34之后，你的架构已经开始具备真正的 Enterprise Agent Platform 雏形**
 * [Day 34：Agentic Workflow —— State + Node + Edge + Human-in-the-Loop---进入 Agentic Workflow：Spring AI / LangGraph 思维下的 State、Node、Edge、Conditional Routing、Retry、Human-in-the-loop，把现在“Agent 自己决定 Tool”的模式升级成可以控制、可观测、可恢复的企业级 Agent Workflow](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E5%81%9A%E4%B8%80%E5%A5%97%E2%80%9C%E5%AE%8C%E5%85%A8%E5%9C%A8%E7%BA%BF%E7%9A%84%20AWS%20Java%20%2B%20AI%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/day1-day60/Day%2034%EF%BC%9AAgentic%20Workflow%20%E2%80%94%E2%80%94%20State%20%2B%20Node%20%2B%20Edge%20%2B%20Human-in-the-Loop.md)
+* [Day 35：Agent Memory 2.0 —— 企业级长期记忆，今天解决 Day 34 的一个核心问题：Agent 每次对话结束后，如何“记住”真正有价值的信息，而不是把所有聊天记录全部塞进 Prompt](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E5%81%9A%E4%B8%80%E5%A5%97%E2%80%9C%E5%AE%8C%E5%85%A8%E5%9C%A8%E7%BA%BF%E7%9A%84%20AWS%20Java%20%2B%20AI%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/day1-day60/Day%2035%EF%BC%9AAgent%20Memory%202.0%20%E2%80%94%E2%80%94%20%E4%BC%81%E4%B8%9A%E7%BA%A7%E9%95%BF%E6%9C%9F%E8%AE%B0%E5%BF%86.md)
+* [Day 36：Agent Observability + Evaluation---进入 Agent Observability & Evaluation：建立完整的 Trace → Span → Agent Run → LLM Call → RAG Retrieval → MCP Tool → Token/Cost → Evaluation Score 链路，用 OpenTelemetry + CloudWatch 把 Agent 从“能运行”升级到“能定位问题、能量化质量、能控制成本”,今天解决一个生产环境最现实的问题：Agent 出问题时，到底是哪一步出了问题？](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E5%81%9A%E4%B8%80%E5%A5%97%E2%80%9C%E5%AE%8C%E5%85%A8%E5%9C%A8%E7%BA%BF%E7%9A%84%20AWS%20Java%20%2B%20AI%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/day1-day60/Day%2036%EF%BC%9AAgent%20Observability%20%2B%20Evaluation.md)
+
+* [Day 37：Enterprise AI Security —— Agent 安全生产化,解决：Agent 会不会被攻击、泄露企业数据，或者错误执行危险操作？今天重点不是传统 Web Security，而是 LLM / RAG / Agent / MCP 特有的安全问题,进入 Agent Security：Prompt Injection、Indirect Prompt Injection、Tool Poisoning、MCP Security、RAG Data Leakage、Tenant Isolation、PII/Secret Detection、Guardrails 和 AWS IAM。这一课会把目前的 Agent 从“能运行”提升到“可以安全进入企业生产环境](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E5%81%9A%E4%B8%80%E5%A5%97%E2%80%9C%E5%AE%8C%E5%85%A8%E5%9C%A8%E7%BA%BF%E7%9A%84%20AWS%20Java%20%2B%20AI%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/day1-day60/Day%2037%EF%BC%9AEnterprise%20AI%20Security.md)
+**当完成Day 37，这已经是一个相当完整的 Enterprise AI Agent Platform 基础架构**
+* [Day 38：AWS Production Architecture —— 设计生产架构,把 Java + AI 平台真正部署到 AWS，进入 AWS Production Architecture：VPC、Private Subnet、ALB、ECS Fargate、RDS PostgreSQL、ElastiCache、S3、Secrets Manager、IAM、CloudWatch，以及 CI/CD，把目前这套 Java + AI 平台真正部署成 AWS 生产环境](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E5%81%9A%E4%B8%80%E5%A5%97%E2%80%9C%E5%AE%8C%E5%85%A8%E5%9C%A8%E7%BA%BF%E7%9A%84%20AWS%20Java%20%2B%20AI%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/day1-day60/Day%2038%EF%BC%9AAWS%20Production%20Architecture.md)
+* [Day 39：Terraform + AWS IaC —— 用代码搭建整套 AWS Java + AI 环境----创建一套可重复的 AWS 环境,把 AWS 基础设施代码化](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E5%81%9A%E4%B8%80%E5%A5%97%E2%80%9C%E5%AE%8C%E5%85%A8%E5%9C%A8%E7%BA%BF%E7%9A%84%20AWS%20Java%20%2B%20AI%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/day1-day60/Day%2039%EF%BC%9ATerraform%20%2B%20AWS%20IaC%20%E2%80%94%E2%80%94%20%E7%94%A8%E4%BB%A3%E7%A0%81%E6%90%AD%E5%BB%BA%E6%95%B4%E5%A5%97%20AWS%20Java%20%2B%20AI%20%E7%8E%AF%E5%A2%83.md)
+
+**Day 40,这就是一套真正可以用于 美国企业 Java + AI Engineer 项目开发/求职面试 的 CI/CD + LLMOps 基础能力**
+* [Day 40：CI/CD 自动部署 —— GitHub → AWS ECS → Production ---- 进入一个非常关键的阶段：CI/CD + Dev → Staging → Production 自动部署。届时会把 GitHub → Maven Test → Docker → ECR → ECS → Health Check → Rolling/Blue-Green Deployment → Rollback 整条企业 Java + AI 发布流水线真正打通](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E5%81%9A%E4%B8%80%E5%A5%97%E2%80%9C%E5%AE%8C%E5%85%A8%E5%9C%A8%E7%BA%BF%E7%9A%84%20AWS%20Java%20%2B%20AI%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/day1-day60/Day%2040%EF%BC%9ACI%20CD%20%E8%87%AA%E5%8A%A8%E9%83%A8%E7%BD%B2%20%E2%80%94%E2%80%94%20GitHub%20%E2%86%92%20AWS%20ECS%20%E2%86%92%20Production.md)
+
+**Day41-Day42完成后，你的 **Java + AI + AWS + Kubernetes** 技术栈就真正开始接近美国企业 AI Engineer / Backend Engineer 的生产级要求**
+* [Day 41：Kubernetes / Amazon EKS---开始做 Kubernetes / Amazon EKS：把 ECS Fargate 架构升级到 Kubernetes，学习 Pod、Deployment、Service、Ingress、ConfigMap、Secret、HPA、Helm，并比较 EKS vs ECS，最终知道企业什么时候应该选择 EKS,把你现在的 AWS Java + AI 应用，从 ECS 架构扩展到企业级 Kubernetes 架构](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E5%81%9A%E4%B8%80%E5%A5%97%E2%80%9C%E5%AE%8C%E5%85%A8%E5%9C%A8%E7%BA%BF%E7%9A%84%20AWS%20Java%20%2B%20AI%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/day1-day60/Day%2041%EF%BC%9AKubernetes%20%20or%20%20Amazon%20EKS.md)
+* [Day 42：EKS + Helm —— 用 Helm 一次部署整套 Java + AI 平台---EKS + Helm + Kubernetes Production Deployment,用 Helm 来解决一个实际问题 “如果你的平台有 10～30 个 Kubernetes YAML，怎么一次性部署、升级和回滚？”](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E5%81%9A%E4%B8%80%E5%A5%97%E2%80%9C%E5%AE%8C%E5%85%A8%E5%9C%A8%E7%BA%BF%E7%9A%84%20AWS%20Java%20%2B%20AI%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/day1-day60/Day%2042%EF%BC%9AEKS%20%2B%20Helm%20%E2%80%94%E2%80%94%20%E7%94%A8%20Helm%20%E4%B8%80%E6%AC%A1%E9%83%A8%E7%BD%B2%E6%95%B4%E5%A5%97%20Java%20%2B%20AI%20%E5%B9%B3%E5%8F%B0.md)
 * []()
 * []()
 * []()
 * []()
 * []()
-* []()
-* []()
-* 
 
 
  
