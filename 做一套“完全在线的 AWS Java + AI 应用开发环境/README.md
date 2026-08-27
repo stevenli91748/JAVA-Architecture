@@ -134,8 +134,13 @@
   
 **Day 50 建议进入下一层：Agent + Tool Calling + MCP Production Architecture——把现在的 RAG Chat 升级成真正的企业 AI Agent，让 Agent 能调用 数据库、REST API、S3、内部业务系统和 MCP Tools，同时加入 Tool 权限、审批、Timeout、Retry、Audit 和 Human-in-the-loop**
 * [Day 50：Enterprise AI Agent + Tool Calling + MCP---是一个关键节点,开始从 RAG Application → AI Agent](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E5%81%9A%E4%B8%80%E5%A5%97%E2%80%9C%E5%AE%8C%E5%85%A8%E5%9C%A8%E7%BA%BF%E7%9A%84%20AWS%20Java%20%2B%20AI%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/day1-day60/Day%2050%EF%BC%9AEnterprise%20AI%20Agent%20%2B%20Tool%20Calling%20%2B%20MCP.md)
+
+**到 Day 51，这一步非常重要,你的技术体系已经变成 "因为你已经不再只是开发一个“调用 LLM 的 Java 程序”，而是在构建一个可恢复、可扩展、可审计的企业 AI Agent 平台"**
 * [Day 51：Agent Workflow + State Machine---把它从一个简单的：LLM → Tool → LLM → Answer,升级成企业级 Agent Workflow,做 Agent Workflow / LangGraph 风格的 State Machine：把Day50的简单 Agent Loop 升级成可恢复的 Planner → Tool → Evaluator → Retry → Human Approval → Final 工作流，并实现 Checkpoint、Parallel Tool Calls、Conditional Routing、长期运行 Agent](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E5%81%9A%E4%B8%80%E5%A5%97%E2%80%9C%E5%AE%8C%E5%85%A8%E5%9C%A8%E7%BA%BF%E7%9A%84%20AWS%20Java%20%2B%20AI%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/day1-day60/Day%2051%EF%BC%9AAgent%20Workflow%20%2B%20State%20Machine.md)
-* []()
+* [Day 52：Multi-Agent 企业架构---Multi-Agent Architecture,一个 Supervisor Agent 负责协调多个专业 Agent，每个 Agent 只负责自己擅长的任务,重点学习 Supervisor、Specialist Agents、Agent-to-Agent communication、共享 State、并行 Agent、Agent 权限隔离、Multi-Agent Evaluation](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E5%81%9A%E4%B8%80%E5%A5%97%E2%80%9C%E5%AE%8C%E5%85%A8%E5%9C%A8%E7%BA%BF%E7%9A%84%20AWS%20Java%20%2B%20AI%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/day1-day60/Day%2052%EF%BC%9AMulti-Agent%20%E4%BC%81%E4%B8%9A%E6%9E%B6%E6%9E%84.md)
+
+**到Day52，你已经具备了构建**企业级 Agent 平台**的核心架构。** 
+
 * []()
 * []()
 * []()
