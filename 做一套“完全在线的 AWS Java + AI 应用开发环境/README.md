@@ -113,15 +113,27 @@
 * [Day 41：Kubernetes / Amazon EKS---开始做 Kubernetes / Amazon EKS：把 ECS Fargate 架构升级到 Kubernetes，学习 Pod、Deployment、Service、Ingress、ConfigMap、Secret、HPA、Helm，并比较 EKS vs ECS，最终知道企业什么时候应该选择 EKS,把你现在的 AWS Java + AI 应用，从 ECS 架构扩展到企业级 Kubernetes 架构](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E5%81%9A%E4%B8%80%E5%A5%97%E2%80%9C%E5%AE%8C%E5%85%A8%E5%9C%A8%E7%BA%BF%E7%9A%84%20AWS%20Java%20%2B%20AI%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/day1-day60/Day%2041%EF%BC%9AKubernetes%20%20or%20%20Amazon%20EKS.md)
 * [Day 42：EKS + Helm —— 用 Helm 一次部署整套 Java + AI 平台---EKS + Helm + Kubernetes Production Deployment,用 Helm 来解决一个实际问题 “如果你的平台有 10～30 个 Kubernetes YAML，怎么一次性部署、升级和回滚？”](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E5%81%9A%E4%B8%80%E5%A5%97%E2%80%9C%E5%AE%8C%E5%85%A8%E5%9C%A8%E7%BA%BF%E7%9A%84%20AWS%20Java%20%2B%20AI%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/day1-day60/Day%2042%EF%BC%9AEKS%20%2B%20Helm%20%E2%80%94%E2%80%94%20%E7%94%A8%20Helm%20%E4%B8%80%E6%AC%A1%E9%83%A8%E7%BD%B2%E6%95%B4%E5%A5%97%20Java%20%2B%20AI%20%E5%B9%B3%E5%8F%B0.md)
 
-**Day 43已经是一套非常完整的 AWS Java + AI Enterprise Architecture** 
+**Day 43已经是一套非常完整的 AWS Java + AI Enterprise Architecture,这是从“会 Kubernetes”走向“能部署企业生产系统”的关键一天** 
 * [Day 43：EKS Production Networking —— ALB + Ingress + Route 53 + HTTPS----建议进入 EKS Production Networking + AWS Load Balancer Controller + Ingress + Route 53 + ACM HTTPS + ExternalDNS，把 api.yourdomain.com → HTTPS → AWS ALB → EKS → Spring Boot 真正打通,把真正的公网访问链路打通](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E5%81%9A%E4%B8%80%E5%A5%97%E2%80%9C%E5%AE%8C%E5%85%A8%E5%9C%A8%E7%BA%BF%E7%9A%84%20AWS%20Java%20%2B%20AI%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/day1-day60/Day%2043%EF%BC%9AEKS%20Production%20Networking%20%E2%80%94%E2%80%94%20ALB%20%2B%20Ingress%20%2B%20Route%2053%20%2B%20HTTPS.md)
 
-**解决一个生产环境最重要的问题：Pod 到底凭什么访问 Bedrock、S3、Secrets Manager、RDS？最终做到：Pod->EKS Pod Identity->IAM Role->AWS Services,绝不在 Java、Docker、GitHub、Kubernetes YAML 中保存 AWS Access Key***
+**Day 44解决一个生产环境最重要的问题：Pod 到底凭什么访问 Bedrock、S3、Secrets Manager、RDS？最终做到：Pod->EKS Pod Identity->IAM Role->AWS Services,绝不在 Java、Docker、GitHub、Kubernetes YAML 中保存 AWS Access Key***
 * [Day 44：EKS Production Security —— IAM + Pod Identity + Secrets Manager + RBAC---把 EKS Production Security + IAM + Pod Identity + Secrets Manager + External Secrets + RBAC + NetworkPolicy，全部做到最小权限、无 AWS Access Key、无明文 Secret、网络隔离，这一步完成后，你的 AWS Java + AI 平台才真正具备企业生产环境的安全基础](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E5%81%9A%E4%B8%80%E5%A5%97%E2%80%9C%E5%AE%8C%E5%85%A8%E5%9C%A8%E7%BA%BF%E7%9A%84%20AWS%20Java%20%2B%20AI%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/day1-day60/Day%2044%EF%BC%9AEKS%20Production%20Security%20%E2%80%94%E2%80%94%20IAM%20%2B%20Pod%20Identity%20%2B%20Secrets%20Manager%20%2B%20RBAC.md)
-**Day 44这一步完成后，你的 AWS Java + AI 平台才真正具备企业生产环境的安全基础** 
-* []()
-* []()
-* []()
+**Day43 - 44这一步完成后，你的 AWS Java + AI 平台才真正具备企业生产环境的安全基础** 
+* [Day 45：EKS Observability —— CloudWatch + Prometheus + Grafana + OpenTelemetry---今天解决生产环境另一个核心问题：AI 应用出了问题，怎么知道到底是哪一层出了问题, Day 45 已经完成 Observability](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E5%81%9A%E4%B8%80%E5%A5%97%E2%80%9C%E5%AE%8C%E5%85%A8%E5%9C%A8%E7%BA%BF%E7%9A%84%20AWS%20Java%20%2B%20AI%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/day1-day60/Day%2045%EF%BC%9AEKS%20Observability%20%E2%80%94%E2%80%94%20CloudWatch%20%2B%20Prometheus%20%2B%20Grafana%20%2B%20OpenTelemetry.md)
+**Day40 - Day45 这已经是一个真正的企业生产平台骨架** 
+* [Day 46：EKS Auto Scaling + HPA + KEDA + SQS---重点解决 AI 应用的弹性,并最终把你的 Spring Boot AI API + RAG Worker + SQS + EKS 做成真正的自动扩缩容架构,今天解决生产环境的另一个核心问题：流量增加时自动扩容，流量下降时自动缩容；RAG Worker 根据 SQS 队列长度自动扩容](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E5%81%9A%E4%B8%80%E5%A5%97%E2%80%9C%E5%AE%8C%E5%85%A8%E5%9C%A8%E7%BA%BF%E7%9A%84%20AWS%20Java%20%2B%20AI%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/day1-day60/Day%2046%EF%BC%9AEKS%20Auto%20Scaling%20%2B%20HPA%20%2B%20KEDA%20%2B%20SQS.md)
+* [Day 47：AWS RDS PostgreSQL + pgvector + Redis 生产架构---今天把 数据层 做成生产级,建议进入 AWS RDS PostgreSQL + pgvector + Redis 的生产级数据库架构：包括 Multi-AZ、connection pool、HikariCP、Read Replica、RDS Proxy、pgvector、Vector Index、Redis Cache，以及如何让 Spring Boot + RAG + EKS 在高并发下稳定运行](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E5%81%9A%E4%B8%80%E5%A5%97%E2%80%9C%E5%AE%8C%E5%85%A8%E5%9C%A8%E7%BA%BF%E7%9A%84%20AWS%20Java%20%2B%20AI%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/day1-day60/Day%2047%EF%BC%9AAWS%20RDS%20PostgreSQL%20%2B%20pgvector%20%2B%20Redis%20%E7%94%9F%E4%BA%A7%E6%9E%B6%E6%9E%84.md)
+* [Day 48：企业 RAG 文档处理流水线 —— S3 → SQS → EKS → Embedding → pgvector---把完整企业 RAG ingestion pipeline 做出来,进入 AWS S3 + SQS + RAG Document Ingestion Pipeline：从用户上传 PDF/Word/Excel 开始，到 S3 → Event → SQS → EKS Worker → 文档解析 → Chunking → Embedding → pgvector → RAG 可检索，把你的 AI 应用真正做成一个完整的企业 RAG 系统](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E5%81%9A%E4%B8%80%E5%A5%97%E2%80%9C%E5%AE%8C%E5%85%A8%E5%9C%A8%E7%BA%BF%E7%9A%84%20AWS%20Java%20%2B%20AI%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/day1-day60/Day%2048%EF%BC%9A%E4%BC%81%E4%B8%9A%20RAG%20%E6%96%87%E6%A1%A3%E5%A4%84%E7%90%86%E6%B5%81%E6%B0%B4%E7%BA%BF%20%E2%80%94%E2%80%94%20S3%20%E2%86%92%20SQS%20%E2%86%92%20EKS%20%E2%86%92%20Embedding%20%E2%86%92%20pgvector.md)
+
+**Day48完成后，这已经是一套完整的 企业级 AWS Java + AI + RAG 平台核心架构** 
+
+**到 Day 49，你就会从“搭 AWS 基础设施”正式进入企业 AI 应用核心代码层。正式进入你这套 AWS Java + AI 企业应用最核心的一层：把 Day 48 的 S3 → SQS → Worker → Embedding → pgvector，真正接入 Spring Boot，实现生产级 RAG**
+* [Day 49：Spring AI + RAG Production](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E5%81%9A%E4%B8%80%E5%A5%97%E2%80%9C%E5%AE%8C%E5%85%A8%E5%9C%A8%E7%BA%BF%E7%9A%84%20AWS%20Java%20%2B%20AI%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/day1-day60/Day%2049%EF%BC%9ASpring%20AI%20%2B%20RAG%20Production.md)
+
+**Day 40 → Day 49现在你的 AWS Java + AI 平台已经形成完整闭环**
+  
+**Day 50 建议进入下一层：Agent + Tool Calling + MCP Production Architecture——把现在的 RAG Chat 升级成真正的企业 AI Agent，让 Agent 能调用 数据库、REST API、S3、内部业务系统和 MCP Tools，同时加入 Tool 权限、审批、Timeout、Retry、Audit 和 Human-in-the-loop**
+* [Day 50：Enterprise AI Agent + Tool Calling + MCP---是一个关键节点,开始从 RAG Application → AI Agent](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E5%81%9A%E4%B8%80%E5%A5%97%E2%80%9C%E5%AE%8C%E5%85%A8%E5%9C%A8%E7%BA%BF%E7%9A%84%20AWS%20Java%20%2B%20AI%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/day1-day60/Day%2050%EF%BC%9AEnterprise%20AI%20Agent%20%2B%20Tool%20Calling%20%2B%20MCP.md)
 
 
  
