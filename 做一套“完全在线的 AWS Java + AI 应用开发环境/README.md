@@ -141,9 +141,15 @@
 
 **到Day52，你已经具备了构建**企业级 Agent 平台**的核心架构。** 
 
-* []()
-* []()
-* []()
+**Day 53解决一个企业 AI 最关键的问题：怎么证明 Agent 是可靠的？**
+* [Day 53：Enterprise AI Agent Evaluation & Testing---进入 AI Agent Evaluation & Testing：建立一套真正能测试 Supervisor、RAG、Tool Calling、Multi-Agent Routing、Hallucination、Prompt Injection、权限隔离和成本的自动化评测系统，而不是只靠“问几个问题看看回答好不好”](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E5%81%9A%E4%B8%80%E5%A5%97%E2%80%9C%E5%AE%8C%E5%85%A8%E5%9C%A8%E7%BA%BF%E7%9A%84%20AWS%20Java%20%2B%20AI%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/day1-day60/Day%2053%EF%BC%9AEnterprise%20AI%20Agent%20Evaluation%20%26%20Testing.md)
+
+**Day 54 解决：企业里有多个 AI 模型时，Java 应用到底怎么统一管理？**
+* [Day 54：Enterprise AI Gateway + Model Gateway---进入非常重要的 AI Gateway / Model Gateway：把 OpenAI、Anthropic、Amazon Bedrock、Google Gemini 等模型统一放到一个 Java AI Gateway 后面，实现 Model Routing、Fallback、Rate Limit、Caching、Cost Control、Token Tracking、Circuit Breaker、API Key 管理和多模型 A/B Test](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E5%81%9A%E4%B8%80%E5%A5%97%E2%80%9C%E5%AE%8C%E5%85%A8%E5%9C%A8%E7%BA%BF%E7%9A%84%20AWS%20Java%20%2B%20AI%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/day1-day60/Day%2054%EF%BC%9AEnterprise%20AI%20Gateway%20%2B%20Model%20Gateway.md)
+
+**Day 55解决生产环境最重要的问题之一：如何防止 AI 泄露数据、越权调用工具、被 Prompt Injection 攻击，以及跨 Tenant 访问数据。这会把目前的 AI Demo/Prototype，进一步升级成真正可以放进 **AWS 企业生产环境**的安全架构**
+* [Day 55：Enterprise AI Security + Guardrails](https://github.com/stevenli91748/JAVA-Architecture/blob/master/%E5%81%9A%E4%B8%80%E5%A5%97%E2%80%9C%E5%AE%8C%E5%85%A8%E5%9C%A8%E7%BA%BF%E7%9A%84%20AWS%20Java%20%2B%20AI%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/day1-day60/Day%2055%EF%BC%9AEnterprise%20AI%20Security%20%2B%20Guardrails.md)
+
 * []()
 * []()
 * []()
